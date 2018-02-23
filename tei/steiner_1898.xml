@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neujahrsblatt der allgemeinen Musikgesellschaft in Zürich, 1898</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/steiner_1898_brahms.xml</p></publicationStmt><sourceDesc><bibl>
+				<title>Sechsundachtzigstes Neujahrsblatt der allgemeinen Musikgesellschaft in Zürich. Johannes Brahms, I. Teil. Zürich: Zürcher und Furrer, 1898. Von A. Steiner.</title>
+				<placeName ref="#zuerich"/>
+				<date when-iso="1898-00-00"/>
+				<biblScope unit="page">22–24</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#zuerich"/><date when-iso="1874-06-00"/></creation><textClass><keywords><term type="textType">Biografik</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<pb break="null" n="22" type="initial"/>
+		<p>Wir geben nun dem Herrn Kapellmeister Dr. <persName ref="#hegar.friedrich">F. Hegar</persName>
+			das Wort, der die Güte hatte, aus dem Schatze seiner Erinnerungen das für diese Blätter
+			Wesentliche zu fixieren:</p>
+		<pb break="yes" n="24" type="skipped"/>
+		<p>In einem Aufsatze über <persName ref="#brahms.johannes">Brahms</persName>, meint <hi rend="widespace"><persName ref="#hegar.friedrich">Hegar</persName></hi>, müsse auch sein
+			Gerechtigkeitsgefühl in künstlerischen Dingen betont werden, das fern von allem
+			Parteigeist das Genie überall anerkannte, in welcher Kunstgattung immer er sich
+			bethätigte. <gap resp="tr"/> Als <persName ref="#buelow.hans-von">Bülow</persName> im Jahre
+				<date when-iso="1874">1874</date> (?) sich mit Geringschätzung über das <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName>
+			geäussert hatte, ging <persName ref="#brahms.johannes">Brahms</persName> zu Hugs, liess sich
+			den Klavierauszug geben und las ihn durch. Als er fertig war, sagte er: „<persName ref="#buelow.hans-von">Bülow</persName> hat sich unsterblich blamiert, so etwas kann
+			nur ein Genie schreiben.“ <gap resp="tr"/></p>
+	</body></text>
+</TEI>

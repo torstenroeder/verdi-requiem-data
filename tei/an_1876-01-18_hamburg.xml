@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Altonaer Nachrichten, 18. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/an_1876-01-18_hamburg.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#altonaer-nachrichten"/>
+					<placeName ref="#altona"/>
+					<date when-iso="1876-01-18" when-custom="tue"/>
+					<biblScope unit="issue">14</biblScope><series>an</series>
+					<biblScope unit="page">1</biblScope>
+					<link
+						target="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000117667536?page=1"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#hamburg"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="1" type="initial"/>
+			<head rend="larger">Vaterstädtisches und Unterhaltendes.</head>
+			<p rend="right"><hi rend="bold"><g type="ASTERISK" n="002A">*</g>
+					<placeName ref="#altona">Altona</placeName>,</hi>
+				<date when-iso="1876-01-17">17. Januar</date>.</p>
+			<cb break="null" n="1c" type="skipped"/>
+			<p><rs type="event" ref="#hamburg.1876.1 hamburg.1876.2">In voriger Woche gelangte
+						<persName ref="#verdi.giuseppe">Verdi’s</persName> „<title
+						ref="#verdi.requiem">Requiem</title>“ am <placeName
+						ref="#hamburg.stadt-theater">Hamburger Stadttheater</placeName> zur
+					Aufführung.</rs> Wir haben noch in unserem letzten Referat auf die neue, edlere
+				Richtung hingewiesen, die der Componist, der hervorragendste unter den jetzt
+				lebenden Vertretern der modernen italienischen Schule, mit seiner Oper „<title
+					ref="#verdi.aida">Aida</title>“ eingeschlagen hat. Eben so zeugt dies „<title
+					ref="#verdi.requiem">Requiem</title>“, das er zur Todtenfeier seines berühmten
+				Freundes und Landsmanns, des Dichters <persName ref="#manzoni.alessandro">Alessandro
+					Manzoni</persName>, schrieb, von Streben nach Gründlichkeit und Ernst. Das Werk,
+				das wohl geeignet ist, das Gemüth der Zuhörer zu erheben und selbst im Theater
+				feierlich und andächtig zu stimmen, war mit großer Sorgfalt und Energie von dem
+				Capellmeister <persName ref="#fuchs.johann-nepomuk" role="conductor"
+					>Fuchs</persName> einstudirt, Chor und Orchester waren bedeutend verstärkt, die
+				Solostimmen bewährten Künstlerinnen und Künstlern, wie den Fräul. <persName
+					ref="#froehlich.xxx" role="soloist">Fröhlich</persName> und <persName
+					ref="#boree.minna" role="soloist">Borée</persName> und den Herren <persName
+					ref="#koegel.josef" role="soloist">Kögel</persName> und <persName
+					ref="#candidus.william" role="soloist">Candidus</persName>, anvertraut worden,
+				von denen vorzüglich der Letztere mit seinem schönen, für das Lyrische sich ganz
+				besonders eignenden Tenor seine schwierige Aufgabe mit dem besten Erfolg löste. Die
+				Aufführung fand ungetheilten lebhaften Beifall. Die <persName ref="#verdi.giuseppe"
+					>Verdi’sche</persName> Composition, welche an der <rs type="event"
+					ref="#wien.1875"><placeName ref="#wien.hof-operntheater">Hofbühne</placeName> in
+						<placeName ref="#wien">Wien</placeName></rs> und <rs type="event"
+					ref="#dresden.1876"><date>vor etwa acht Tagen</date> auch in <placeName
+						ref="#dresden">Dresden</placeName></rs> einer eben so glänzenden Aufnahme
+				sich zu erfreuen hatte, <rs type="event" ref="#hamburg.1876.4">wird <date>nächsten
+						Sonntag</date> Mittags und zwar bei ermäßigten Preisen wiederholt
+					werden</rs>.</p>
+		</body>
+	</text>
+</TEI>

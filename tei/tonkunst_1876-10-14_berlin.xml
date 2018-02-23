@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Tonkunst, Berlin, 14. Oktober 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tonkunst_1876-10-14_ppppp.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tonkunst" role="publisher"/>
+					<placeName ref="#berlin"/>
+					<date when-iso="1876-10-14"/>
+					<biblScope unit="issue">38</biblScope><biblScope unit="volume"
+						>2</biblScope><series>tonkunst</series>
+					<biblScope unit="page">245–246</biblScope>
+					<link facs="tonkunst_1876-10-14_245.png"/>
+					<link facs="tonkunst_1876-10-14_246.png"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation/>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Theorie, Aesthetik und Geschichte.</head>
+			<head rend="antiqua">PPPPP.</head>
+			<head rend="smaller">Von <persName ref="#musiol.robert">R. <hi rend="widespace"
+						>Musiol</hi></persName>.</head>
+			<p><persName ref="#verdi.giuseppe">G. <hi rend="widespace">Verdi</hi></persName> hat uns
+				in seiner <hi rend="antiqua"><title ref="#verdi.requiem">„Messa di
+					Requiem“</title></hi> so manche, das künstlerische Bewußtsein treffende
+				Ueberraschung geboten, daß wir uns auch eine gefallen lassen können, die weniger
+				das, sondern mehr unkünstlerisch ist. Es ist das: <hi rend="antiqua widespace"
+					>ppppp</hi>. Was will der Componist damit verlangen? Jedenfalls das leiseste <hi
+					rend="antiqua">Piano</hi> und wollte er das haben, mußte er Pausen setzen. Waren
+				ihm die zu leise, nun, dann hätte im schlimmsten Falle <hi rend="antiqua widespace"
+					>ppp</hi> ausgereicht. War es doch schon recht lächerlich, als auch <hi
+					rend="widespace"><persName ref="#auber.daniel-francois-esprit"
+					>Auber</persName></hi> z. B. in der Ouvertüre zum „<title
+					ref="#auber.fra-diavolo">Fra Diavolo</title>“ <hi rend="antiqua widespace"
+					>pppp</hi> vorschrieb, was, streng genommen, gar nicht so ausgeführt wird. Nun,
+				man ließ es sich gefallen, machte es vielfach nach; war Nichts <hi rend="widespace"
+					>in</hi> den Noten, stand doch Etwas <hi rend="widespace">zwischen</hi> ihnen
+				und damit man sich keiner Inconsequenz schuldig machte, blühten auch bald <hi
+					rend="antiqua widespace">FFF</hi> und <hi rend="antiqua widespace">FFFF</hi>,
+				als ob nicht schon ohnedies Mancher das Klavier als „Hackebret“ und seine Kehle als
+				Kanonenrohr betrachtet hätte. Wie im Leben, so auch in der Kunst: „Nicht zu viel und
+				nich zu wing iss immer ee Ding!“ Wenn z. B. <hi rend="widespace"><persName
+						ref="#geisler.paul">Paul Geisler</persName></hi> in seinen „<title
+					ref="#geisler.monologe">Monologen</title>“ vielfach weder eine Tempo- noch eine
+				dynamische Bezeichnung zu Anfang eines Stückes und durch die längste Dauer desselben
+				bringt, so ist das eben so wenig künstlerisch, als wenn man nach jedem Takte auf
+				Gott weiß wie viel Zeichen stößt. Wir wollen gerade nicht für <hi rend="antiqua"
+					>p</hi> und <hi rend="antiqua">F</hi> allein eine Lanze brechen, und z.B. das mf
+				oder mp als sehr wenig, oder auch nichts sagend in Acht und Bann thun, für die
+				crescendo und decrescendo vollkommenster Ersatz wäre; wir wollen sogar nicht blos
+					<hi rend="antiqua widespace">pp</hi> und <hi rend="antiqua widespace">FF</hi>
+				als passend gelten lassen, sondern auch <hi rend="antiqua widespace">ppp</hi> und
+					<hi rend="antiqua widespace">FFF</hi> als nothwendig zur Bezeichnung der
+				verhaltenen und entfesselten Gefühle erachten: aber <hi rend="antiqua widespace"
+					>pppp</hi> oder gar <hi rend="antiqua widespace">ppppp</hi>, das ist zuviel
+				leise. Es ist dann keine absolute, sondern nur eine rein relative Bezeichnung, eine
+				Spielerei, eine Spiegelfechterei, die nicht blos unkünstlerisch, sondern geradezu
+				lächerlich ist und sich wie Schellen an der Narrenkappe ausnimmt, oder, als ob
+					<persName ref="#huckebein.hans">Hans Huckebein</persName>, der Unglücksrabe,
+				seine Heidelbeer-Compot-Malereien dort versucht hätt<note resp="tr"
+					type="literatureLink">Vgl. <persName ref="#busch.wilhelm">Wilhelm
+						Busch</persName>, <ref type="text"
+						target="http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=PPN512543577|LOG_0003&amp;physid=PHYS_0021"
+						>Hans Huckebein</ref>: »Nichts Schönres gab's für Tante Lotte / Als schwarze
+					Heidelbeerkompotte. / Doch Huckebein verschleudert nur / Die schöne Gabe der
+					Natur. / Die Tante naht voll Zorn und Schrecken; / Hans Huckebein verläßt das
+					Becken. / Und schnell betritt er, angstbeflügelt, / Die Wäsche, welche frisch
+					gebügelt.«</note>. Es ist überhaupt eigen, worauf die Componisten manchmal
+				kommen. So verlangt ein Componist einmal einen <hi rend="widespace"
+					>ausgehaltenen</hi> Schlußaccord <hi rend="widespace">auf dem Pianoforte</hi>
+				<g type="MUSICAL_SYMBOL_CRESCENDO" n="1D192">&lt;</g>
+				<g type="MUSICAL_SYMBOL_DECRESCENDO" n="1D193">&gt;</g> ausgeführt Wer <hi
+					rend="widespace">das</hi> kann, mag damit glänzen, aber Vielen - vielleicht
+				Keinem! - wird es wohl gegeben sein. Wir wollen eine Entschuldigung dafür in der
+				Poesie der Vorstellung suchen, die sich nichts um praktische Ausführbarkeit kümmert,
+				sondern der künstlerischen Eingebung folgend schreibt wie das Ideal, wie der Drang
+				es verlangen. Trotzdem aber muß man bei all der irdischen Entrücktheit nicht
+				vergessen, daß man nur mit Tinte und Feder auf Papier schreibt und daß ohne
+				Reflexion kein Künstler - mag er einer Richtung angehören, welcher er wolle -
+				schaffen kann. Oder sollte doch das gleichsam instinctive Schaffen höheren Werth als
+				das reflectirende, das mit <pb break="yes" n="246" type="regular"/>künstlerischem
+				Bewußtsein (— „So und nicht anders!“ —)<note resp="tr" type="literatureLink">Vgl.
+					z.B. <ref type="text"
+						target="https://books.google.de/books?id=srwpAAAAYAAJ&amp;pg=PA167">Moses
+						Mendelssohn, Jerusalem, Leipzig 1869, S. 167</ref>.</note> geschehende
+				Schaffen haben? Muß auch die Hauptsache dem Künstler angeboren sein, die
+				künstlerische Erziehung muß doch das Meiste thun. Nehmen wir nur ein Beispiel: <hi
+					rend="widespace"><persName ref="#boehner.johann-ludwig">Louis
+					Böhner</persName></hi>. Er war gewiß einer der Talentvollsten, vielleicht
+				Geniebegabtesten, und was hat er für die Kunst geleistet? Es ist nur wenig, und
+				selbst der Ruhm des <title ref="#boehner.ach-wie-ists-moeglich-dann">„Ach wie ist’s
+					möglich dann“</title> ist ihm nicht geblieben. Versunken — vergessen, <hi
+					rend="widespace">das</hi> ist auch sein Fluch! Oder wie viele jener
+				Wunderkinder, auf die man die größten Hoffnungen zu setzen das Recht hatte, haben
+				diese realisirt! Die sind zu zählen, welche wirkliche, echte und große Künstler
+				wurden. Sie wurden es aber auch nur, weil sie studirten, das Unbewußte sich bewußt
+				machten.</p>
+			<p>Wir wollen also solche Hyper-Genialitäten und -Feinheiten nicht vertreten; wir
+				wollten sogar dagenen protestiren, wenn es nur nützen möchte! Es werden immer
+				Componisten ihr Heil in <hi rend="antiqua widespace">FFFFF</hi> und <hi
+					rend="antiqua widespace">ppppp</hi> suchen u. dgl., was kaum vorauszusehen ist;
+				das es jedenfalls ein unkünstlerisches Gebahren ist, sei hiermit constatirt. Was
+				zwecklos ist, bleibt zwecklos, selbst wenn es ein <hi rend="widespace"><persName
+						ref="#verdi.giuseppe">Verdi</persName></hi> schreibt, und in der Kunst ist
+				das Ueberflüssige, Zwecklose verdammlich. Man wolle uns nicht für
+				Kleinlichkeitskrämer halten, denn darum ist es uns nicht zu thun, ob ein Componist
+				einen Buchstaben mehr oder weniger schreibt, sondern um die Consequenzen, sie sich
+				aus solchen anscheinend geringfügigen Sachen ergeben müssen! </p>
+		</body>
+	</text>
+</TEI>

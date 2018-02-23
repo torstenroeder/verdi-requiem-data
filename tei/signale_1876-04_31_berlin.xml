@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Signale, Leipzig, April 1876/31 (= Berliner Fremdenbl.)</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/signale_1876-04_31_berlin.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#signale" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date cert="low" when-iso="1876-04-30" notAfter-iso="1876-04-30" notBefore-iso="1876-04-20"/>
+				<!--BIBLIO Datierung: frühestens ein Tag nach dem Erscheinen der Quelle-->
+				<biblScope unit="issue">31</biblScope><biblScope unit="volume">34</biblScope>
+				<biblScope unit="page">491</biblScope>
+				<link target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=494"/>
+				<link target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=499"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#berlin"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="486" type="initial"/>
+		<head rend="antiqua widespace larger">Dur und Moll.</head>
+		<pb break="null" n="491" type="skipped"/>
+		<p><rs type="event" ref="#berlin.1876.1"><hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title></hi> ist nun auch in <placeName ref="#berlin">Berlin</placeName> im <placeName ref="#berlin.hofoper">königl.
+					Opernhause</placeName> am <date when-iso="1876-04-15">15. April</date> zur Aufführung
+				gekommen.</rs> Der Eindruck war ein getheilter. „Der größere Theil des Werkes“ —
+			schreibt das ‚Berliner Fremdenblatt‘ — „ist voll greller, dramatischer Effecte ohne
+			Kenntnis des kirchlichen Styles, ohne erwärmende Wahrheit und beseelte Ueberzeugung
+			geschrieben. Man fühlt sich von dem opernhaften Flitterstaat, mit dem der fromme
+			ergreifende Text behängt ist, abgestoßen, wir erhalten den Eindruck einer mater dolorosa
+			im Schleppkleid mit <choice>
+				<orig>Chignin</orig>
+				<corr resp="tr">Chignon</corr>
+			</choice> und Panzertaille.“<note resp="tr" type="textLink">Vgl. <ref type="text" target="bfb_1876-04-19_berlin.xml">Berliner
+					Fremdenblatt, 19. April 1876</ref>.</note> — Die Ausführung des Werkes durch
+			das Chor- und Orchesterpersonal der Oper, durch die Damen Fräulein <persName ref="#lehmann.lilli" role="soloist.soprano">Lehmann</persName> und <persName ref="#brandt.marianne" role="soloist.mezzo">Brandt</persName>, die Herren <persName ref="#betz.franz" role="soloist.basso">Betz</persName> und <persName ref="#ernst.heinrich" role="soloist.tenor">Ernst</persName> als Solisten, war durch den Herrn Capellmeister
+				<persName ref="#radecke.robert" role="conductor">Radecke</persName>, der auch dirigirte,
+			sorgfältig vorbereitet.</p>
+	</body></text>
+</TEI>

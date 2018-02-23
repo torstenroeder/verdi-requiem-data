@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 17. März 1876 [2]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-03-17_verdi.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-17"/>
+				<biblScope unit="issue">12</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
+				<biblScope unit="page">125 [9]</biblScope>
+				<link facs="nzfm_1876-03-17_125.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760317&amp;seite=9"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="123b" type="initial"/>
+		<head rend="larger">Tagesgeschichte.</head>
+		<cb break="null" n="125b" type="skipped"/>
+		<head>Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
+		<p><gap resp="tr"/>
+			<rs type="event" ref="#leipzig.1876"><persName ref="#verdi.giuseppe">Verdi, G.</persName>, <hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi>. <placeName ref="#leipzig">Leipzig</placeName>, 19. Gewandhausconcert (2mal).</rs></p>
+	</body></text>
+</TEI>

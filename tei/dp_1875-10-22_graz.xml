@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Presse, Wien, 22. Oktober 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/dp_1875-10-22_graz.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#die-presse"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-10-22" when-custom="fri"/>
+					<biblScope unit="issue">293</biblScope><biblScope unit="volume"
+						>28</biblScope><series>dp</series>
+					<biblScope unit="page">10</biblScope>
+					<link facs="dp_1875-10-22_10.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751022&amp;seite=10"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#graz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Ankündigung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb n="10b"/>
+			<head rend="bold">Theater- und Kunstnachrichten.</head>
+			<cb break="null" n="10c" type="skipped"/>
+			<p>— <rs type="event" ref="#graz.1875">In <hi rend="widespace"><placeName ref="#graz"
+							>Graz</placeName></hi> bereitet die Direction des Landestheaters
+						<persName ref="#verdi.giuseppe">Verdi’s</persName> „<title
+						ref="#verdi.requiem">Requiem</title>“ für Ende dieses Monats mit sämmtlichen
+					Opernkräften und unter Verstärkung von Chor und Orchester vor.</rs> Die Proben
+				haben bereits begonnen, die Zahl der Vorstellungen wird auf zwei beschränkt.</p>
+		</body>
+	</text>
+</TEI>

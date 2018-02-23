@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gazzetta musicale di Milano, 21. Juni 1874</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/gmm_1874-06-21_san-marco.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#gazzetta-musicale-di-milano" role="publisher"/>
+                    <placeName ref="#mailand"/>
+                    <date when-iso="1874-06-21"/>
+                    <biblScope unit="issue">25</biblScope><biblScope unit="volume"
+                        >29</biblScope><series>ma</series>
+                    <biblScope unit="page">205</biblScope>
+                    <link
+                        target="http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.lacasadellamusica.it%3A6%3APR0164%3A1874GMM&amp;mode=all&amp;teca=Casa+della+musica+di+Parma&amp;viewType=onepage&amp;mediaType=image&amp;objectIndex=221"
+                    />
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#mailand"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Illustration</term>
+                    <term type="corpusGroup">Randtexte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <text xml:lang="de">
+        <body rend="fraktur">
+            <p><graphic url="gmm_1874-06-21_205.png">
+                    <desc>Prima esecuzione della Messa da Requiem, Chiesa di San Marco, 22 maggio
+                        1874</desc>
+                </graphic></p>
+            <p>LA <placeName ref="#mailand.san-marco">CHIESA DI S. MARCO</placeName> IN <placeName
+                    ref="#mailand">MILANO</placeName> — <date when-iso="1874-05-22">22 MAGGIO
+                    1874</date></p>
+            <p rend="italic"><rs type="event" ref="#mailand.1874.1">Prima esecuzione della <hi
+                        rend="straight"><title ref="#verdi.requiem">MESSA DA REQUIEM</title></hi> di
+                        <hi rend="straight"><persName ref="#verdi.giuseppe">VERDI</persName></hi>
+                    per l’anniversario della morte di <hi rend="straight"><persName
+                            ref="#manzoni.alessandro">ALESSANDRO MANZONI</persName></hi>.</rs></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Leipziger Nachrichten, 11. März 1876</title><author><persName ref="#doerffel.alfred"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/ln_1876-03-11_gewandhausconcert.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#leipziger-nachrichten" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-11" when-custom="sat"/>
+				<biblScope unit="issue">71</biblScope><biblScope unit="volume">16</biblScope><series>ln</series>
+				<!--*BIBLIO Seitenangabe fehlt (Kopie unzureichend)-->
+				<link facs="ln_1876-03-11_b.jpg"/>
+				<link facs="ln_1876-03-11_c.jpg"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head>Gewandhausconcert 19,</head>
+		<head>am <date when-iso="1876-03-09">9. März</date>.</head>
+		<p><rs type="event" ref="#leipzig.1876.1">Es brachte die erstmalige Aufführung des <title ref="#verdi.requiem">Requi<supplied resp="tr">e</supplied>m</title> für Soli, Chor und
+				Orchester von <persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>, eines Werkes,
+				das in letzter Zeit viel besprochen und gerühmt worden, und dadurch auch in <placeName ref="#deutschland">Deutschland</placeName> in die Mode gekommen ist.</rs>
+			Natürlich hatte man sich alsbald nach dem öffentlichen Erscheinen desselben, jetzt bald
+			zwei Jahre her, mit Verwunderung gefragt, wie <persName ref="#verdi.giuseppe">Verdi</persName>, der doch nur auf der Bühne seine musikalische Heimath besitze, der
+			seit seinem ersten Hervortreten im Jahre <date when-iso="1839">1839</date> bisher nur für
+			das Theater thätig gewesen, dazu gekommen sei, ein „<title ref="#verdi.requiem">Requiem</title>“ zu schreiben. Und mit geschäftiger Zunge wurde die Antwort gegeben,
+			es sei vor mehreren Jahren bereits von einer „<title ref="#messa-per-rossini">Messe</title>“ die Rede gewesen, „die zum Andenken <persName ref="#rossini.gioachino">Rossini’s</persName> († <date when-iso="1868">1868</date>) von allen bedeutenderen
+			italienischen Componisten vereint geschrieben werden sollte“ und <persName ref="#verdi.giuseppe">Verdi</persName> habe dazu das Finale verfertigt, der Plan sei
+			jedoch wegen des Kriegsgetöses nicht zur Aufführung gekommen; dann sei im <date when-iso="1873-05">Mai 1873</date> der in <placeName ref="#italien">Italien</placeName> überaus
+			beliebte und berühmte Dichter <persName ref="#manzoni.alessandro">Manzoni</persName>
+			gestorben und so wäre denn der thätige Meister <persName ref="#verdi.giuseppe">Verdi</persName> sofort an’s Werk gegangen, sein Finale nach vorne zu ergänzen, so
+			daß schon am ersten Jahrestage des Todes jenes, das <title ref="#verdi.requiem">Requiem</title> in der <placeName ref="#mailand.san-marco">Marcuskirche</placeName>, zu
+				<placeName ref="#mailand">Mailand</placeName> habe zur Aufführung gelangen können. Der
+			Umstand also, daß das Werk „zum Andenken <persName ref="#manzoni.alessandro">Alessandro
+				Manzoni’s</persName> componirt“ worden, componirt von dem derzeit in <placeName ref="#italien">Italien</placeName> berühmtesten und übrigens einem steinreichen
+			Componisten *), brachte dem Werke in <placeName ref="#italien">Italien</placeName> die günstigte
+			Meinung entgegen. Die Wirkung desselben wurde als außerordentlich großartig geschildert.
+			In das Feuer des Enthusiasmus darüber goß <persName ref="#buelow.hans-von">Hans von
+				Bülow</persName>, der, ohne es gehört zu haben, wegwerfende Aeußerungen über dessen
+			Werth sich erlaubt haben sollte, ein gehörigen Quantum Oel<note resp="tr" type="textLink">Vgl. <ref type="text" target="az_1874-05-28_mailand.xml">Allgemeine Zeitung,
+					Augsburg, 28. Mai 1874</ref>.</note>. <rs type="event" ref="#paris.1874"><placeName ref="#paris">Paris</placeName></rs> und <rs type="event" ref="#wien.1875"><placeName ref="#wien">Wien</placeName></rs> veranstalteten Aufführungen des Werkes, darauf hat <rs type="event" ref="#muenchen.1875"><placeName ref="#muenchen">München</placeName></rs> „sich das große
+			Verdienst erworben, es zuerst im deutschen Reiche und zwar am <date when-iso="1875-12-07">7.
+				December vor. J.</date> eingeführt zu haben.“ <note resp="tr" type="textLink">Vgl.
+					<ref type="text" target="amz_1876-02-09_muenchen.xml">AmZ, Leipzig, 9. Februar–1.März
+					1876</ref>.</note> Zuletzt ertönten aus unserer Nachbarstadt <rs type="event" ref="#dresden.1876"><placeName ref="#dresden">Dresden</placeName></rs> ebenfalls große
+			Lobpreisungen über seinen Werth.</p>
+		<p>Hiernach begreift sich, daß auch wir in <placeName ref="#leipzig">Leipzig</placeName> mit
+			hochgespannten Erwartungen dem Tagesereigniß der Aufführung dieses <title ref="#verdi.requiem">Requiem</title> entgegensahen. Von <persName ref="#verdi.giuseppe">Verdi’s</persName> Opern, deren Zahl sich auf mindestens vierundzwanzig beläuft,
+			haben wir hier durch die Bühnenaufführungen kennen gelernt: den <title ref="#verdi.nabucco">Nebukadnezar</title>
+			<date when-iso="1855">1855</date>, die <title ref="#verdi.ernani">Hernani</title>
+			<date when-iso="1858">1858</date>, den <title ref="#verdi.il-trovatore">Troubadour</title>
+			<date when-iso="1862">1862</date>, zuletzt <choice>
+				<orig>die</orig>
+				<corr resp="tr">den</corr>
+			</choice>
+			<title ref="#verdi.rigoletto"><choice>
+					<orig>Rigoletti</orig>
+					<corr resp="tr">Rigoletto</corr>
+				</choice></title>
+			<date when-iso="1871">1871</date>. Daß die geehrte Concertdirection großes Interesse dafür
+			voraussetzte, daß nunmehr auch das Kirchenmusikwerk des Maestro hier zur Kenntniß komme,
+			war gewiß richtig. Wir danken ihr deshalb aufrichtigst die Aufführung. Und noch mehr
+			danken wir es ihr, daß sie eine so vorzügliche Aufführung, als sie in der That war, sich
+			hat angelegen sein lassen. Selten haben wir unsern Chor so gut geschult, so schlagfertig
+			und klangschön befunden wie diesmal, selten so correct nach Seite der Technik, so
+			geistig belebt nach Seite der Darstellung. Selten auch ist uns ein so gutes
+			Solo-Ensemble vorgekommen. Mag sein, daß <persName ref="#verdi.giuseppe">Verdi</persName>
+			sich besser singen läßt als <persName ref="#schumann.robert">Schumann</persName>, daß die
+			Solisten ihn lieber singen als <persName ref="#beethoven.ludwig-van">Beethoven</persName>
+			(denn er schreibt ihnen mundrechter und ist überhaupt leichter): man gewahrte eine
+			Begeisterung für die Sache, einen edlen Wetteifer sich auszuzeichnen, wie kaum zu
+			überbieten sein dürfte. Frau <persName ref="#peschka-leutner.minna" role="soloist.soprano">Peschka-Leutner</persName> als Sopran glänzte mit ihren besten Eigenschaften,
+			Fräulein <persName ref="#nanitz.minna" role="soloist.mezzo">Nanitz</persName> als Alt, die
+			Königl. Hofopernsängerin aus <placeName ref="#dresden">Dresden</placeName>, verlieh ihrer
+			wunderbar schönen Stimme einen seelischen Ausdruck, der äußerst wohlthuend berührten;
+			Herr <persName ref="#pielke.walter" role="soloist.tenor">Pielke</persName> als Tenor hat den
+			Unterzeichneten, der sehr selten in’s Theater kommt, überrascht durch die Kraft und
+			zugleich den Schmelz, die seiner Stimme zu eigen geworden, durch die musikalische
+			Intelligenz, welche sein Vortrag, Linie haltend von Anfang bis Ende, bekundete; Herr
+				<persName ref="#koehler.hans" role="soloist.basso">Köhler</persName> als Baß endlich,
+			Königl. Hofopernsänger aus <placeName ref="#dresden">Dresden</placeName>, fesselte durch den
+			Voll- und Wohlklang des Gesanges nicht minder als durch die Darstellung, die frei
+			künstlerisch sich bewegte und dem Zusammenklang etwas Poetisches verlieh, das ungemein
+			anzog und anmuthete. Dazu nun das wachsame und zartfühlende Orchester, — es was das
+			Anhören in dieser Hinsicht wahrhaftig eine Freude!</p>
+		<p>Daß diese Ausführung das Werk in’s günstigste Licht stellte, darüber bleibt uns kein
+			Zweifel. Ja, wir schreiben ihr hauptsächlich den Erfolg zu, den es hatte, und haben sie
+			deshalb der Besprechung desselben vorangestellt. Wir sagten oben, das Werk sei Mode
+			geworden; wir fügen hinzu, es werde bald aus der Mode wieder herauskommen. Es hat
+			durchaus nicht die Tragweite, welche man ihm beizumessen scheint. Rein musicalisch
+			genommen, bietet es wohl manche Süßigkeit und Schmackhaftigkeit, viele im augenblick
+			überraschende Wendungen, Kühnheiten, die man zunächst als Eingebungen des Genius ansehen
+			könnte. Aber bei Lichte das Ganze besehen, wird man bald gewahr, daß es ein Product
+			nicht des Herzensdranges, sondern doch nur der Berechnung ist, der Berechnung auf den
+			Effect, d. i. auf die Wirkung nach außen, auf die Wirkung auf die Nerven. Wie wüßten
+			nicht eine einzige frisch quellende Melodie hervorzuheben, nichts Naturalistisches,
+			Naturwüchsiges, ohne das nun einmal ein Musikwerk nicht bestehen kann, nicht ein Atom
+			von z. B. <persName ref="#schubert.franz">Franz Schubert’schem</persName> Musik-Naturalismus,
+			von seiner Anmuth und Liebenswürdigkeit. Hat <persName ref="#verdi.giuseppe">Verdi</persName>
+			seinen Landleuten die Hölle noch so heiß gemacht, wir glauben doch nicht daran und
+			können es unmöglich für baare Münze nehmen. Der Anfang des Concertes war ausnahmsweise
+			diesmal eine halbe Stunde später angesetzt worden, damit, wie man sagte, das
+			anderthalbstündige Werk zur rechten Zeit aufhöre. Für uns war es trotzdem beinahe die
+			Hälfte zu lang. Immer war es das nämliche Facit, welches aus der Berechnung hervorging.
+			Die Darstellung des „Lichtes“ und des „Leuchtens“ erging sich nämlich in den hohen
+				<choice>
+				<orig>Tonmolos</orig>
+				<corr resp="tr">Tremolos</corr>
+			</choice> ganz, wie wir es gewohnt worden sind <note resp="tr" type="musicLink">Vgl.
+					<title ref="#verdi.requiem.6">Lux aeterna</title>.</note>; beim „<title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">mors</title>“ stockte das Athmen des
+			Tonkörpers, wie es handgreiflicher gar nicht zu machen war; überall drängte sich die
+			Absicht der Darstellung in den Vordergrund. Wer das genial findet, mag das <title ref="#verdi.requiem">Requiem</title> als Ausfluß des Genies ansehen: uns war es nur
+			ein Abfluß. Wie ganz anders doch erschien und neulich <persName ref="#rubinstein.anton">Rubinstein</persName> in seinem „<title ref="#rubinstein.das-verlorene-paradies">verlorenen Paradies</title>“! Von letzterem Werke kannten wir vorher gerade so wenig
+			eine Note, wie von dem <title ref="#verdi.requiem">Requiem</title>. Von ihm hatten wir
+			einen erhebenden, von diesem einen gegentheiligen Gesammteindruck. Wir tragen keine
+			Verlangen danach, das <title ref="#verdi.requiem">Requiem</title> wieder zu hören.</p>
+		<p>Seine Wirkung auf die Zuhörer war auch bei weitem nicht die des <persName ref="#rubinstein.anton">Rubinstein’schen</persName> Werkes. Man spendete wohl öfters
+			Beifall, auch lebhaften, aber wir setzen diesen auf Rechnung der Ausführung. Giebt man
+			uns hierin nicht recht, so sei es. In zwei, drei Jahren wird wahrscheinlich Niemand mehr
+			um das <title ref="#verdi.requiem">Requiem</title> sich kümmern. Bei dieser Meinung
+			verbleiben wir. Unterdessen mag es seine Runde fortmachen.</p>
+		<p rend="right"><persName ref="#doerffel.alfred">A. <hi rend="widespace">Dörffel</hi></persName>.</p>
+		<p>*) <persName ref="#fetis.francois-joseph">Fetis</persName> schreibt <date when-iso="1865">1865</date>: „<persName ref="#verdi.giuseppe">Verdi</persName> hat jetzt große Einkünfte
+			und einen Grundbesitz, den sein Verleger und Freund, Herr <persName ref="#escudier.leon">Leon Escudier</persName>, auf zwei Meilen (lieues) im Umfange schätzt.“<note resp="tr" type="literatureLink">Vgl. <persName ref="#fetis.francois-joseph">François
+					Joseph Fétis</persName>, <ref type="text" target="https://archive.org/stream/biographieunive18ftgoog#page/n333/mode/1up">Biographie universelle des musiciens, Bd. 8 (1865), S. 325</ref>: »Il possède
+				aujourd’hui de grands revenus et une propriété que son éditeur et ami, M. Léon
+				Escudier, estime avoir une étendue de deux lieues«.</note> Nach Angabe dieses Autors
+			ist <persName ref="#verdi.giuseppe">Verdi</persName> am <date when-iso="1814-10-09">9. October
+				1814</date>, nach Angabe Anderer am <date when-iso="1813-10-09">9. October 1813</date>
+			geboren, und zwar in <placeName ref="#roncole">Roncole</placeName> bei <placeName ref="#busseto">Busseto</placeName>, einige Stunden von <placeName ref="#parma">Parma</placeName>. An demselben
+			Tage übrigens wie in <placeName ref="#muenchen">München</placeName>, fand auch in <placeName ref="#koeln">Cöln</placeName> eine Aufführung des <title ref="#verdi.requiem">Requiem</title> statt. Es giebt demnach zwei „erste“ Aufführungen desselben im
+				<placeName ref="#deutschland">deutschen Reiche</placeName>.</p>
+	</body></text>
+</TEI>

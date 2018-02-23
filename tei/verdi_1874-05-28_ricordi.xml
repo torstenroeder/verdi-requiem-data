@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Giuseppe Verdi, Brief an Giulio Ricordi, Ende Mai 1874</title><author><persName ref="#verdi.giuseppe"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/verdi_1874-05-28_brief-an-ricordi.xml</p></publicationStmt><sourceDesc><bibl>
+				<date when-iso="1874-05-28" notBefore-iso="1874-05-28"/>
+			</bibl><bibl>
+				<title>Briefe. Kassel: Bärenreiter, 1983.</title>
+				<biblScope unit="page">246</biblScope>
+				<biblScope unit="document">275</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><date when-iso="1874-05-28" notBefore-iso="1874-05-28"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<p>Es wäre besser für alle und würdevoller, nicht mehr über die Angelegenheit <persName ref="#buelow.hans-von">Bülow</persName> zu sprechen; und ehrlich gesagt, wenn die
+			Deutschen so anmaßend sind, dann ist das hauptsächlich unsere Schuld. Wenn sie nach
+				<placeName ref="#italien">Italien</placeName> kommen, dann blähen wir ihre natürliche
+			Gefallsucht mit unseren Schwärmereien, mit unseren Begeisterungsstürmen, mit unseren
+			unsinnigen Beiworten dermaßen auf, daß sie natürlich annehmen müssen, wir könnten nicht
+			atmen und das Licht sehen, ohne daß sie uns ihre Sonne brächten.</p>
+		<p>Und sagen wir die volle Wahrheit: Liegt die Begeisterung für <persName ref="#buelow.hans-von">Bülow</persName> und <persName ref="#rubinstein.anton"><choice>
+					<orig>Rubestein</orig>
+					<corr resp="tr">Rubinstein</corr>
+				</choice></persName>, vor allem in <placeName ref="#mailand">Mailand</placeName>, nicht 99 Grad
+			über ihrem Verdienst? Was sind sie schließlich?</p>
+		<p>Unendlich weit von <persName ref="#liszt.franz">Liszt</persName> und <persName ref="#chopin.frederic">Chopin</persName> entfernte Pianisten und drittklassige
+			Musiker.</p>
+	</body></text>
+</TEI>

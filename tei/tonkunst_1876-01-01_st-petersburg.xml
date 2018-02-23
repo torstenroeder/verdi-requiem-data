@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 1. Januar 1876 [2]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-01-01_verdis-requiem.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tonkunst" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-01-01"/>
+				<biblScope unit="issue">1</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
+				<biblScope unit="page">19</biblScope>
+				<link facs="tonkunst_1876-01-01_19.png"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#st-petersburg"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
+			<title ref="#verdi.requiem">Requiem</title> ist diesen Winter an einer großen Anzahl
+			unserer ersten Musikstätten aufgeführt worden, so in <rs type="event" ref="#wien.1875a"><placeName ref="#wien">Wien</placeName></rs>, <rs type="event" ref="#koeln.1875"><placeName ref="#koeln">Cöln</placeName></rs>, <rs type="event" ref="#bruenn.1876"><placeName ref="#bruenn">Brünn</placeName></rs>, <rs type="event" ref="#st-petersburg.1876"><placeName ref="#st-petersburg">Petersburg</placeName></rs> etc. Auffällig ist, daß in der
+			letztgenannten Stadt <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.requiem">Requiem</title> eines großen Erfolges sich erfreute, während
+			desselben Oper <title ref="#verdi.aida">Aïda</title> dort in Gegensatz zu allen anderen
+			Orten auf Opposition stieß. Diese Thatsache ist nicht bloß dem Zufalle zur Last zu
+			legen, sondern verdient doch berücksichtigt zu werden. Das russische Publicum ist nicht
+			der Art, daß dessen Votum gar nicht zu beachten wäre. <placeName ref="#st-petersburg">Petersburg</placeName> namentlich begreift eine Fülle musikalischer
+			Lebens-Erscheinungen in sich, welche, protegirt vom Hofe her, patronisirt vom Adel und
+			getragen von der dort concentrirten Bildung, einen Knotenpunkt der Tonkunst darstellen;
+				<placeName ref="#moskau">Moskau</placeName> aber rivalisirt mit seiner nordischen Rivalin.
+			Sind doch auch aus Rußland seiner Zeit die anregendsten Schriften über <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> (<persName ref="#ulibischeff.alexander">Ulibischeff</persName>) und <persName ref="#beethoven.ludwig-van">Beethoven</persName>
+				(<persName ref="#lenz.wilhelm-von">von Lenz</persName>) erschienen.</p>
+	</body></text>
+</TEI>

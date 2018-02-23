@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 24. Dezember 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1875-12-24_muenchen.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1875-12-24"/>
+				<biblScope unit="issue">52</biblScope><biblScope unit="volume">71</biblScope><series>nzfm</series>
+				<biblScope unit="page">520 [8]</biblScope>
+				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18751224&amp;seite=8"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#muenchen"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="520" type="initial"/>
+		<head rend="larger">Tagesgeschichte.</head>
+		<head>Aufführungen.</head>
+		<cb break="null" n="520b" type="skipped"/>
+		<p>
+			<rs type="event" ref="#muenchen.1875.1"><placeName ref="#muenchen">München</placeName>. <gap resp="tr"/> Am
+					<date when-iso="1875-12-07"><choice>
+						<orig>12.</orig>
+						<corr resp="tr">7.</corr>
+					</choice></date> durch die Musikakademie unter <persName ref="#wuellner.franz">Wüllners</persName> Leitung <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> zum ersten Male mit auffallendem
+				Erfolge</rs>.</p>
+	</body></text>
+</TEI>

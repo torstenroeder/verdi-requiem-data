@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Münchener Nachrichten, 10. Dezember 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mn_1875-12-10_verdis-requiem-in-muenchen.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#muenchener-nachrichten" role="publisher"/>
+				<placeName ref="#muenchen"/>
+				<date when-iso="1875-12-10"/>
+				<biblScope unit="issue">344</biblScope><series>mn</series>
+				<biblScope unit="page">4</biblScope>
+				<link facs="mn_1875-12-10_4.jpg"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#muenchen"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Musik und Theater.</head>
+		<p>— <rs type="event" ref="#muenchen.1875.1"><hi rend="bold">(<persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> in <placeName ref="#muenchen">München</placeName>.)</hi> Mit der Aufführung von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
+				<title ref="#verdi.requiem">Requiem</title> hat man sich hier mehr beeilt, als mit der
+				des „<title ref="#mendelssohn-bartholdy.elias">Elias</title>“ von <persName ref="#mendelssohn-bartholdy.felix">Mendelssohn</persName>.</rs> Der berühmte
+			Komponist der Musik zum „<title ref="#mendelssohn-bartholdy.ein-sommernachtstraum">Sommernachtstraum</title>“ und der „<title ref="#mendelssohn-bartholdy.lieder-ohne-worte">Lieder ohne Worte</title>“ ruhte schon
+			seit Dezennien in kühler Erde, bis eines seiner besten Werke sich in <placeName ref="#muenchen">München</placeName> Gehör zu verschaffen vermochte. Wir sind nicht
+			gewillt, hier ungeeignete Parallelen zu ziehen; man braucht nur die Namen <persName ref="#mendelssohn-bartholdy.felix">Mendelssohn</persName> und <persName ref="#verdi.giuseppe">Verdi</persName> nebeneinander zu nennen, um jeder für Musik
+			zugänglichen Natur sofort die ungeheure Kluft, die zwischen Beiden liegt, zum Bewußtsein
+			zu bringen. Das <persName ref="#verdi.giuseppe">Verdi’sche</persName>
+			<title ref="#verdi.requiem">Requiem</title> ist ohne Zweifel ein bedeutendes Werk, nur
+			erscheint es sehr zweifelhaft, ob sich der Komponist damit nicht auf ein Gebiet begeben
+			hat, was ihm seiner ganzen Anlage nach verschlossen bleiben sollte. <persName ref="#verdi.giuseppe">Verdi</persName> und Kirchenmusik wollen nicht recht
+			zusammenpassen, <title ref="#verdi.il-trovatore">Troubadour</title> und <title ref="#verdi.rigoletto">Rigoletto</title> entsprechen der ganzen Richtung seines
+			Talentes gewiß besser. Es soll damit keineswegs gesagt sein, daß die Möglichkeit
+			überhaupt ausgeschlossen wäre für einen Operncomponisten von der Beschaffenheit <persName ref="#verdi.giuseppe">Verdi’s</persName>, auch eine tüchtige Kirchenkomposition zu
+			liefern, hat er doch in <persName ref="#rossini.gioachino">Rossini</persName> einen
+			Vorgänger, der sich durch sein <hi rend="antiqua"><title ref="#rossini.stabat-mater">„Stabat mater dolorosa“</title></hi> ein kaum minder glänzendes Denkmal gesetzt
+			hat, als durch den „<title ref="#rossini.il-barbiere-di-siviglia">Barbier von
+				Sevilla</title>“, aber dessenungeachtet ist der Schritt, welchen <persName ref="#rossini.gioachino">Rossini</persName> von der komischen Oper zur Kirchenmusik
+			machte, nicht so groß, wie der von <title ref="#verdi.rigoletto">Rigoletto</title> und
+				<title ref="#verdi.la-traviata">La Travitata</title> zu einem Requiem. Und zwar
+			deshalb, weil <persName ref="#verdi.giuseppe">Verdi’s</persName> Opern von der Frivolität und
+			Lascivität unserer Zeit angekränkelt sind, während bei <persName ref="#rossini.gioachino">Rossini</persName> das Naive das eigentlich charakteristische Merkmal selbst in dem
+			frivolen „<title ref="#rossini.il-barbiere-di-siviglia">Barbier von Sevilla</title>“ ist,
+			und weil eben darin der unschätzbare Werth dieser Oper für alle Zeiten liegt.</p>
+		<p>Die Aufführung des <title ref="#verdi.requiem">Requiem</title> war, abgesehen von einer bei den
+			Damen <persName ref="#radecke.luise">Radecke</persName> und <persName ref="#schefsky.josephine">Schefzky</persName> hervortretenden Indisposition in den ersten Stadien der
+			Produktion, vortrefflich und auch dieser Mangel wurde reichlich ausgeglichen durch die
+			gelungene Exekutierung des Duetts <hi rend="antiqua"><title ref="#verdi.requiem.5">„Agnus
+					Dei“</title></hi>, welches die Damen wiederholen mußten. Herr <persName ref="#nachbaur.franz" role="soloist.tenor">Nachbaur</persName> zeigte durch seine
+			Sololeistung: <hi rend="antiqua"><title ref="#verdi.requiem.2.ingemisco">„Ingemisco“</title></hi>, daß er seinem Ruf auch als Kirchensänger gerecht zu
+			werden weiß und Herr <persName ref="#bausewein.kaspar" role="soloist.basso">Bausewein</persName> that das Seinige, um den Erfolg des Ganzen zu gewährleisten. Es
+			bleibt nur zu wünschen, daß durch Wiederholung des immerhin interessanten und an
+			musikalischen Schönheiten reichen Tonstückes auch einem weiteren Kreise Gelegenheit
+			geboten wird, das <persName ref="#verdi.giuseppe">Verdische</persName>
+			<title ref="#verdi.requiem">Requiem</title> kennen zu lernen.</p>
+	</body></text>
+</TEI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 29. April 1876 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-04-29_gounod-requiem.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tonkunst" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-04-29"/>
+				<biblScope unit="issue">14</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
+				<biblScope unit="page">239</biblScope>
+				<link facs="tonkunst_1876-04-29_239.png"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#paris"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Musikpflege.</head>
+		<p><hi rend="bold">Erste Aufführungen.</hi>
+			<title ref="#gounod.messe-breve-pour-les-morts">Gounod-Requiem</title> (Volksconcert v.
+				<orgName ref="#paris.orchestre-pasdeloup">Pasdeloup</orgName>, <placeName ref="#paris">Paris</placeName>. Die Lorbeeren <persName ref="#verdi.giuseppe">Verdi’s</persName>, so
+			scheint’s, ließen <persName ref="#gounod.charles">Gounod</persName> nicht ruhen! — <persName ref="#gounod.charles">Gounod</persName> dirigierte persönlich und empfing die grössten
+			Huldigungen.)</p>
+	</body></text>
+</TEI>

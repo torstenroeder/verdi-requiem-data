@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Tagesbote aus Mähren und Schlesien, Brünn, 19. Januar 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tms_1876-01-19_st-josefs-frauenverein.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+				<placeName ref="#bruenn"/>
+				<date when-iso="1876-01-19" when-custom="wed"/>
+				<biblScope unit="issue">14</biblScope><biblScope unit="volume">26</biblScope><series>tms</series>
+				<biblScope unit="page">3</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#bruenn"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Vereine und Gesellschaften.</head>
+		<gap resp="tr"/>
+		<p>(<hi rend="widespace">St. Josefs-Frauenverein</hi>.) Durch die <rs type="event" ref="#bruenn.1876">zweimalige Aufführung des <persName ref="#verdi.giuseppe">Verdi’schen</persName> <title ref="#verdi.requiem">Requiems</title> im <placeName ref="#bruenn.redouta-theater">Redoutensaale</placeName></rs> wurde für den St. Josefs-Frauenverein in Folge der gütigen Vermittlung der Frau <persName ref="#gompertz-bettelheim.karoline-von">Karoline Gomperz-Bettelheim</persName> ein Beitrag von 250 fl. erzielt, für welche hochherzige Spende der genannte Verein dem veranstaltenden Komite den verbindlichen Dank ausspricht.</p>
+	</body></text>
+</TEI>

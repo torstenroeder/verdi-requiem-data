@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 23. Februar 1877</title><author><persName ref="#spanuth.august"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1877-02-23_bremen.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#mwb" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1877-02-23"/>
+				<biblScope unit="issue">9</biblScope><biblScope unit="volume">8</biblScope>
+				<biblScope unit="page">129</biblScope>
+				<link facs="mwb_1877-02-23_129.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18770223&amp;seite=5"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#bremen"/><date when-iso="1876-02"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<p><hi rend="bold"><placeName ref="#bremen">Bremen</placeName>,</hi>
+			<date when-iso="1876-02">im Februar</date>. <gap resp="tr"/> Das bis jetzt interessanteste
+			Ereigniss dieser Saison waren die <rs type="event" ref="#bremen.1876">Aufführungen des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
+				<title ref="#verdi.requiem">Requiems</title></rs>. Das Werk machte schon bei der
+			ersten hiesigen Aufführung eine bedeutende Wirkung. Ja, nach dem raffinirten „<title ref="#verdi.requiem.2">dies irae</title>“ vergass sich unser kühles Publicum so weit,
+			dass es stürmisch applaudirte. <gap resp="tr"/></p>
+		<p rend="right">
+			<persName ref="#spanuth.august">A. Sp.</persName>
+		</p>
+	</body></text>
+</TEI>

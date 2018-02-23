@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Rheinischer Kurier, Wiesbaden, 24. Februar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/rk_1876-02-24_wiesbaden.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#rheinischer-kurier" role="publisher"/>
+					<placeName ref="#wiesbaden"/>
+					<date when-iso="1876-02-24"/>
+					<biblScope unit="issue">76</biblScope><series>rheinischer-kurier</series>
+					<link facs="rk_1876-02-24.png"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wiesbaden"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Kunst, Literatur und Wissenschaft.</head>
+			<p><g type="BOX_DRAWINGS_DOUBLE_HORIZONTAL" n="2550">═</g>
+				<rs type="event" ref="#wiesbaden.1876.1"><hi rend="bold"><placeName ref="#wiesbaden"
+							>Wiesbaden</placeName>,</hi>
+					<date when-iso="1876-02-23">23. Febr.</date> (<hi rend="widespace"
+					>Theater</hi>.) Die gestrige erste Aufführung des <persName
+						ref="#verdi.giuseppe">Verdi’schen</persName>
+					<title ref="#verdi.requiem">Requiems</title> fiel glänzend aus und wurde mit
+					großem Beifalle aufgenommen.</rs>
+				<rs type="event" ref="#wiesbaden.1876.2">Das nächste Symphonie-Concert findet
+						<date>Freitag den 25. Februar d. J.</date> statt. Statt der ursprünglich in
+					Aussicht genommenen <persName ref="#beethoven.ludwig-van"
+						>Beethoven’schen</persName>
+					<hi rend="antiqua"><title ref="#beethoven.missa-solemnis">Missa
+						solemnis</title></hi>, deren Aufführung sich unüberwindliche Hindernisse
+					entgegenstellten, wird das <title ref="#verdi.requiem">Requiem</title> von
+						<persName ref="#verdi.giuseppe">Verdi</persName> wiederholt werden.</rs> Da
+				ferner dem Umstande, daß in den diesjährigen Symphonie-Concerten mehr fremde
+				Künstler herangezogen wurden, als dies bei Aufstellung des Programms beabsichtigt
+				war, einige Orchesternummern nicht zur Aufführung kommen konnten, an deren
+				Vorführung der Concertdirection viel gelegen ist, so wird die königliche Intendantur
+				noch ein siebentes Symphonie-Concert veranstalten, zu welchem die Billette der
+				Concertabonnenten ihre <sic>Giltigkeit</sic> behalten, so daß also den Abonnenten
+				der Symphonie-Concerte noch eine Gratis-Aufführung zu Theil wird. Es sollen in
+				diesem 7. Concerte namentlich die berühmt gewordenen <title
+					ref="#brahms.variationen-ueber-ein-thema-von-haydn">Variationen</title> von
+					<persName ref="#brahms.johannes">Brahms</persName>, die reizende <title
+					ref="#volkmann.serenaden">Serenade</title> von <persName ref="#volkmann.robert"
+					>Volkmann</persName> und <persName ref="#schumann.robert">Schumanns</persName>
+				prächtige <title ref="#schumann.symphonie-4"><hi rend="antiqua"
+					>D-moll</hi>-Symphonie</title> zur Aufführung kommen.</p>
+		</body>
+	</text>
+</TEI>

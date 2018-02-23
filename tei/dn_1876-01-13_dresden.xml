@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Dresdner Nachrichten, 13. Januar 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/dn_1876-01-13_feuilleton.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#dresdner-nachrichten" role="publisher"/>
+				<placeName ref="#dresden"/>
+				<date when-iso="1876-01-13" when-custom="thu"/>
+				<biblScope unit="issue">13</biblScope><biblScope unit="volume">21</biblScope><series>dn</series>
+				<biblScope unit="page">3</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#dresden"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Feuilleton.</head>
+		<p><rs type="event" ref="#dresden.1876.2"><hi rend="widespace"><placeName ref="#dresden.hoftheater">Königliches Hoftheater</placeName></hi>. <hi rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi> für <persName ref="#manzoni.alessandro">A. Manzoni</persName> von <persName ref="#verdi.giuseppe">G. <hi rend="widespace">Verdi</hi></persName>, <hi rend="widespace">zweite Aufführung</hi>.</rs>
+			Die wundervolle Schönheit dieser Musik läßt sich nicht <hi rend="widespace">beschreiben</hi>, sie läßt sich nur <hi rend="widespace">empfinden</hi>. <hi rend="widespace">Dringend</hi> sei allen Musikfreunden die nächstbevorstehende
+			drittmalige Aufführung empfohlen. Nach Art des Contracts mit dem Eigenthümer des Werkes,
+				<orgName ref="#ricordi">Ric<surplus resp="tr">c</surplus>ordi</orgName> in <placeName ref="#mailand">Mailand</placeName>, steht das Aufführungsrecht dem <placeName ref="#dresden">Dresdner</placeName>
+			<placeName ref="#dresden.hoftheater">Hoftheater</placeName> nur auf eine bestimmte Zeit zu und
+			ist es also gefehlt die Bekanntschaft mit dieser Musik im Glauben an spätere
+			Gelegenheiten zu verschieben. Und noch Eins. Wer als <hi rend="widespace">Opern</hi>freund vermeint, eine Oper biete doch wohl reichere und fesselndere
+			Unterhaltung, der irrt. Gerade <hi rend="widespace">weil</hi> die Scene fehlt, alles
+			Zerstreuende, Abziehende des Bühnenapparates, hört man die <persName ref="#verdi.giuseppe">Verdi’sche</persName> Requiem-Musik mit einer Sammlung einem so intensiven <hi rend="widespace">musikalischen</hi> Genießen, wie es in der Oper nicht vorkommen
+			kann. Wer einmal den Reiz, den süßen, bestrickenden Reiz dieser Melodien gekostet hat,
+			den lassen sie nicht wieder los; die durch diese Musik angeregte Tonempfindung wirkt
+			noch fort, wenn man das Theater längst verlassen hat und zieht zum zweiten und dritten
+			Male in das Theater hinein, ob man will oder nicht. Welcher Wohllaut, welche Zartheit
+			liegt in den Melodien und wie entzückend leicht, ungesucht geben sie sich! Gegenüber
+			solcher Musik darf man von der „göttlichen Leichtigkeit des Schaffens“ sprechen. — Der
+			warmen Empfehlung dieser neuesten Leistung unseres Hoftheaters sei nur nochmals
+			angefügt, daß die Schönheit des Werkes diejenige der Ausführung nicht übertrifft. Herrn
+				<hi rend="widespace"><persName ref="#schuch.ernst">Schuch</persName></hi> kommt bei der
+			Leitung seine warmblütige Mitempfindung für das zu leitende Werk vorzüglich zu statten.
+			Er ist mehr als nur mechanischer Dirigent, weil er mit Enthusiasmus und liebevoller
+			Hingebung bei der Sache ist, kein Detail dem Zufall überläßt. Schon bei der zweiten
+			Aufführung glitten die Tempi ruhiger dahin und das wird bei den ferneren Wiederholungen
+			noch immer mehr der Fall sein. Für die sinnliche Tonschönheit des Werkes sind ja
+			überhaupt verschiedene Mensuren denkbar. Nur wird der specifisch religiöse Charakter bei
+			größerer Breite immer imponirender hervortreten. Für den Hoftheaterchor giebt es kaum
+			Worte genug des Lobes. Die von Herrn <hi rend="widespace"><persName ref="#riccius.carl">Riccius</persName></hi> mit größtem Eifer geleiteten Vorproben haben jetzt schon
+			eine Sicherheit und dynamische Accuratesse (besonders in den plötzlichen <hi rend="antiqua">pp.</hi> nach den Fortestellen) erreicht, die ans Unglaubliche
+			grenzt. Das Orchester desgleichen zeigt eine Feinheit der Ausführung, welche auch
+			unbedeutendere Begleitungsstellen zu einem wahren Kunstgenuß erhebt. Die Solisten waren
+			am zweiten Abend sämmtlich besser disponirt, auch Herr <hi rend="widespace"><persName ref="#erl.anton">Erl</persName></hi> sang diesmal die Tenorsoli mit gewinnender
+			zarter Tonvolubilität<note resp="tr" type="glossaryLink">Seltener Ausdruck aus der
+				Gesangsphysiologie, vgl. z.B. <ref type="text" target="https://archive.org/stream/bub_gb_ykp5MS0uynEC#page/n196/mode/1up">Homöopathische Vierteljahrschrift, Bd. 9, Leipzig 1858, S. 183.</ref></note>,
+			in den figurirten Sätzen derart, daß ihm Wenige nachzukommen vermögen. Was Frau <hi rend="widespace"><persName ref="#schuch-proska.clementine">Schuch</persName></hi> an
+			Quantität der Stimme etwa weniger besitzt als Andere, ersetzt sie durch wunderschöne
+			Tonbehandlung, durch absolute Reinheit und Sicherheit. Frl. <hi rend="widespace"><persName ref="#nanitz.minna">Nanitz</persName></hi> und Herr <hi rend="widespace"><persName ref="#koehler.hans">Köhler</persName></hi> bestätigten durchaus das ihnen neulich
+			gespendere Lob. Ueberdies ist diese „<hi rend="widespace">italienische</hi>“ Musik nicht
+			mit der Coloraturrichtung z. B. <persName ref="#rossini.gioachino">Rossini’s</persName> zu
+			verwechseln. Gerade deutsche Empfindungstiefe und musikalische Durchbildung kommt den
+				<persName ref="#verdi.giuseppe">Verdi’schen</persName> breitangelegten, seelenvollen
+			Melodien prächtig zu statten. Und wie die Namen <hi rend="widespace"><persName ref="#stolz.teresa">Stol<surplus resp="tr">t</surplus>z</persName></hi> und <hi rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi> ihre <hi rend="widespace">deutschen</hi> Kehlen der ersten <placeName ref="#mailand">Mailänder</placeName>, <placeName ref="#paris">Pariser</placeName> und <placeName ref="#wien">Wiener</placeName> Aufführung mit unvergeßlichem Erfolg widmeten, so ist unsere <placeName ref="#dresden">Dresdner</placeName> Aufführung des <title ref="#verdi.requiem">Manzoni-Requiems</title> zu einem Triumph für die deutsche Musikbehandlung
+			geworden.</p>
+		<p>Der Aufführung wohnte <persName ref="#albert.sachsen">Se. Maj. der <hi rend="widespace">König</hi></persName> und <persName ref="#carola.wasa-holstein-gottorp">I. Maj. die
+					<hi rend="widespace">Königin</hi></persName> in der Hofloge bei. Die Musik begann
+			5 Min. nach ½8 Uhr mit dem Eintritt <persName ref="#albert.sachsen">Sr. Maj.</persName>,
+			welcher von auswärts eigens in der Residenz eintraf, um <persName ref="#verdi.giuseppe">Verdi’s</persName> vielbesprochenens Werk kennen zu lernen. Das Haus war wieder
+			glänzend gefüllt und — kein kleinster Beweis für das Interesse der Musik — die Herren
+			Recensenten, diese vielgeplagten Leute, wohnten freiwillig auch der zweiten Aufführung,
+			wie vielleicht noch mancher späteren, bei.</p>
+		<p rend="right"><hi rend="widespace"><persName ref="#hartmann.ludwig">Ludwig
+				Hartmann</persName></hi>.</p>
+	</body></text>
+</TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Giuseppe Verdi, Brief an Giuseppe Piroli, Venedig, 27. Juni 1875</title><author><persName ref="#verdi.giuseppe"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/verdi_1875-06-27_brief-an-piroli.xml</p></publicationStmt><sourceDesc><bibl>
+				<placeName ref="#venedig"/>
+				<date when-iso="1875-06-27"/>
+			</bibl><bibl>
+				<title>Franco Abbiati: Giuseppe Verdi (3). Mailand: Ricordi, 1959.</title>
+				<biblScope unit="page">754</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#venedig"/><date when-iso="1875-06-27"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="it"><body rend="antiqua">
+		<p>Se fossi arrivato qui due o tre giorni prima sarei corso a <placeName ref="#rom">Roma</placeName>,
+			ma una rappresentazione supplementare della <title ref="#verdi.requiem">Messa</title> ci ha
+			trattenuti a <placeName ref="#wien">Vienna</placeName> tre giorni di più.</p>
+		<p>Le cose [a <placeName ref="#wien">Vienna</placeName>] come sapete, sono andate bene; ma che buona
+			orchestra! e che buoni cori! infine bene per tutto, e per tutti: e credo che non abbiamo
+			fatto male in questa corsa artistica. Così si fosse potuto andare a <placeName ref="#berlin">Berlino</placeName>! Ma <persName ref="#ricordi.tito">Ricordi</persName> ha forse avuto
+			paura, causa la stagione troppo avanzata; e questo non era il caso di contare su qualche
+			migliaio di franchi più o meno . . . ma i mercanti sono sempre mercanti! Non ne parliamo
+			più . . ora è cosa finita! . . .</p>
+		<p>Qui pare si preparino le cose bene per la <title ref="#verdi.requiem">Messa</title>. Io non
+			ci sarò sicuramente, ma spero faranno le cose egualmente bene. Sarò a <placeName ref="#sant-agata">Sant’agata</placeName> domattina Lunedì verso le sette.</p>
+		<p rend="smaller">[Wenn ich zwei oder drei Tage vorher angekommen wäre, wäre ich nach Rom
+			gefahren, aber eine zusätzliche Vorstellung der Messe hat uns drei Tage länger in Wien
+			aufgehalten.</p>
+		<p rend="smaller">Die Dinge [in Wien] sind, wie Ihr wisst, gut gelaufen; ja, was für ein
+			gutes Orchester! und was für gute Chöre! Schließlich gut für alles, und für alle: und
+			ich glaube, dass wir es nicht übel gemacht haben in diesem künstlerischen Rennen. So
+			hätte man nach Berlin gehen können! Aber Ricordi hatte vielleicht Angst gehabt, weil die
+			Saison schon so weit fortgeschritten war; und dies war nicht der Fall, mit ein paar
+			tausend Franken mehr oder weniger zu rechnen ... aber die Kaufleute bleiben immer
+			Kaufleute! Reden wir nicht mehr davon ... nun ist die Sache gelaufen! ...</p>
+		<p rend="smaller">Hier scheint man die Dinge für die Messe gut vorzubereiten. Ich werde
+			sicher nicht hier sein, aber ich hoffe, dass sie es ebenso gut machen werden. Ich werde
+			am Montag, morgen früh, gegen 7 Uhr in Sant’Agata sein.]</p>
+	</body></text>
+</TEI>

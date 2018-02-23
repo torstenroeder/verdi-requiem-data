@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AmZ, Leipzig, 10. Mai 1876</title>
+				<author><persName ref="#stetter.friedrich"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/amz_1876-05-10_muenchen.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#amz" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-05-10"/>
+					<biblScope unit="issue">19</biblScope><biblScope unit="volume"
+						>11</biblScope><series>amz</series>
+					<biblScope unit="column">300</biblScope>
+					<link facs="amz_1876-05-10_299-300.jpg"
+						target="https://archive.org/stream/allgemeinemusik14unkngoog#page/n162/mode/2up"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#muenchen"/><date when-iso="1876-03-21"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<cb break="null" n="297" type="initial"/>
+			<head rend="larger">Münchener Musikbrief.</head>
+			<pb break="yes" n="300" type="skipped"/>
+			<p>Ihren <persName ref="#anonymus.ein-koelner-referent">Cölner
+					Berichterstatter</persName> — s. <ref type="text"
+					target="amz_1876-03-29_koeln.xml">Nr. 13 d. Bl.</ref> — wird zumeist
+				interessiren, <rs type="event" ref="#muenchen.1875.2 koeln.1875.2">dass am <date
+						when-iso="1876-03-21">21. März</date>
+					<persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">»Requiem«</title> auch hier unter lebhaftem Beifalle
+					wiederholt wurde, sohin <placeName ref="#muenchen">München</placeName> doch
+					wieder mit <placeName ref="#koeln">Cöln</placeName> rivalisiren kann.</rs> Ich
+				verkenne jedoch nicht, dass diese zweite Aufführung im <placeName
+					ref="#muenchen.hoftheater">kgl. Hoftheater</placeName> weniger exact und
+				weihevoll war, als die erste im <placeName ref="#muenchen">Concertsaale</placeName>,
+				wie wohl dieselben Kräfte mitwirkten; vermuthlich hatten nicht mehr die
+				erforderlichen Proben stattgefunden. <ref type="text"
+					target="amz_1876-02-09_muenchen.xml">Meine in Nr. 6-9 d. Bl. abgedruckte
+					Beurtheilung des Werkes</ref> kann ich selbst hinsichtlich der Frage, ob
+				kirchlich oder nicht, wegen der mich Ihr <persName
+					ref="#anonymus.ein-koelner-referent">Cölner Referent</persName> angreift, nur
+				bestätigt finden. Wenn derselbe bessere Gründe für die Bejahung dieser Frage
+				wünscht, als den Hinweis auf den künstlerischen Adel des Werkes und die Berufung auf
+				die ähnliche Textauffassung durch <persName ref="#cherubini.luigi"
+					>Cherubini</persName> und <persName ref="#mozart.wolfgang-amadeus"
+					>Mozart</persName>, im Vergleich zu welchen einem italienischen Componisten der
+				Jetztzeit wohl ein kleines Plus erlaubt sein möchte, so hätte er nur noch einen Satz
+				weiter lesen dürfen und er hätte einen noch schlagenderen Beweis gefunden, gegen
+				welchen er mir nichts eingewendet hat.</p>
+		</body>
+	</text>
+</TEI>

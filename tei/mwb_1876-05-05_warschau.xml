@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 5. Mai 1876 [2]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1876-05-05_warschau.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#mwb" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-05-05"/>
+				<biblScope unit="issue">19</biblScope><biblScope unit="volume">7</biblScope><series>mwb</series>
+				<biblScope unit="page">251</biblScope>
+				<link facs="mwb_1876-05-05_251.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760505&amp;seite=11"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#warschau"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<head rend="lineale bold">Vermischte Mittheiliungen und Notizen.</head>
+		<p><gap resp="tr"/> * <rs type="event" ref="#warschau.1876.1"><hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
+				<title ref="#verdi.requiem">Requiem</title> kam neulich auch in <placeName ref="#warschau">Warschau</placeName> zur Aufführung.</rs></p>
+	</body></text>
+</TEI>

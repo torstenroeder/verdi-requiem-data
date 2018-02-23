@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Richard Wagner, Brief an Franz Jauner, 24. Februar 1876</title><author><persName ref="#wagner.richard"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wagner_1876-02-24_brief-an-jauner.xml</p></publicationStmt><sourceDesc><bibl>
+				<placeName ref="#wien"/>
+				<date when-iso="1876-02-24"/>
+			</bibl><bibl>
+				<title>SBr Nr. 62 (7378)</title>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/><date when-iso="1876-02-24"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<p>Bei größter Angegriffenheit leide ich an Rheumatismus im rechten Arm: größte Beschädigung durch
+			ungewohntes Dirigieren möglich aber auch möglich, daß mein Übel sich verliert. Unbedingt
+			will ich volle und aufrichtige Freundschaft zwischen uns. Setzen Sie auch hierfür den
+			Schaden höher an als ich ihn nächsten November unter vorteilhafteren Umständen für den
+			Chor ersetzen könnte so will ich trotz leidenden Gesundheitszustand wagen jetzt zu
+			kommen wiewol der Umstand, daß Sie gegenwärtig keine hohen Preise wie bei <persName ref="#verdi.giuseppe">Verdi</persName> wagen immer wieder an das unnütze Opfer mahnt
+			wodurch das Unternehmen jetzt als unzeitig erscheint</p>
+		<p><persName ref="#wagner.richard">Richard Wagner</persName></p>
+	</body></text>
+</TEI>

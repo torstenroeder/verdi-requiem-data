@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 16. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1876-01-16_danksagung.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1876-01-16" when-custom="sun"/>
+					<biblScope unit="issue">12</biblScope><biblScope unit="volume"
+						>26</biblScope><series>tms</series>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb n="3b"/>
+			<head rend="larger bold">Brünner Chronik.</head>
+			<gap resp="tr"/>
+			<p>(<hi rend="widespace">Danksagung</hi>.) Die <rs type="event" ref="#bruenn.1876">am
+						<date when-iso="1876-01-02">2.</date> und <date when-iso="1876-01-06">6. d.
+						Mts.</date> im <placeName ref="#bruenn.redouta-theater">städt.
+						Redoutensaale</placeName> stattgehabten Aufführungen von <persName
+						ref="#verdi.giuseppe">G. <hi rend="widespace">Verdi’s</hi></persName>
+					berühmten <hi rend="widespace"><title ref="#verdi.requiem"
+							>Manzoni-Requiem</title></hi></rs> haben einen <hi rend="widespace"
+					>Reinertrag von</hi> 1000 fl. geliefert, welcher nunmehr unter den hiesigen <hi
+					rend="widespace">drei wohlthätigen Frauen- und dem Frauenerwerb-Vereine</hi>
+				gleichmäßig vertheilt wurde. Ein so günstiges Resultat, welches in Anbetracht der
+				schwierigen Zeitverhältnisse zur doppelten Befriedigung gereicht — konnte aber nur
+				erzielt werden, indem — neben den in erster Linie stehenden Leistungen der
+				betheiligten <hi rend="widespace">Solo-Künstler</hi> insbesondere noch mehrere
+				Körperschaften und Personen, ebenso von Impulsen der Humanität getrieben, wie
+				beseelt von künstlerischem Interesse, das wohlthätige Unternehmen, je nach ihrer
+				Stellung, wirksamst gefördert haben. Nur eine angenehme Pflichterfüllung ist es
+				daher, wenn das gefertigte Komite hiemit <hi rend="widespace">öffentlich</hi> allen
+				Denjenigen, welche direkt und indirekt zum Gelingen der musikalischen Produktionen
+				beitrugen, im Allgemeinen und insbesondere noch seinen wärmsten <hi rend="widespace"
+					>Dank</hi> ausspricht: <hi rend="widespace">Der löblichen Gemeindevertretung
+					Brünn</hi> für die unentgeltliche Ueberlassung des <placeName
+					ref="#bruenn.redouta-theater">städt. Redoutensaales</placeName>; Sr. Exzellenz
+				dem <hi rend="widespace">Herrn Landeskommendierenden</hi> k. k. Feldzeugmeister <hi
+					rend="widespace"><persName ref="#philippovich.franz">Franz Freih. v.
+						Philippovich</persName></hi>, sowie den Herren k. k. <hi rend="widespace"
+					>Obersten <persName ref="#slott.xxx">van der Slott</persName></hi> und <hi
+					rend="widespace"><persName ref="#latterer.josef">Latterer R. v<supplied
+							resp="tr">.</supplied> Lindenburg</persName></hi> für die Gestattung der
+				Mitwirkung mehrerer Musiker von k. k. Militärkapellen; der löblichen <hi
+					rend="widespace">Direktion des <orgName ref="#bruenn.musikverein">Brünner
+						Musikvereines</orgName></hi> für die Ueberlassung ihres Schullokales, sowie
+				von Instrumenten und Geräthschaften <g type="TIRONIAN_SIGN_ET" n="204A">⁊</g>c.; den
+					<hi rend="widespace">ausübenden Mitgliedern (Damen und Herren)</hi> des
+				Musik-Vereines, sowie anderen geehrten Dilettanten und Dilettantin<supplied
+					resp="tr">n</supplied>en, die ausnahmsweise an den Produktionen mitwirkten; den
+				beiden <hi rend="widespace">Herren Regimentskapellmeistern <persName
+						ref="#schubert.xxx">Schubert</persName> und <persName ref="#horny.xxx"
+						>Horny</persName></hi> für ihre gefällige Förderung; dem Herrn <hi
+					rend="widespace">Theaterdirektor <persName ref="#hirsch.heinrich">Heinrich
+						Hirsch</persName></hi> für die Erlaubniß zur Mitwirkung seiner
+				Opernmitglieder; der löbl. <hi rend="widespace">Direktion der
+					Gasbeleuchtungsanstalt</hi> und der löblichen <hi rend="widespace">Buchdruckerei
+					von <persName ref="#winiker.karl">Karl Winiker</persName></hi>. Beiden für einen
+				Perzentualnachlaß an den ihnen berichtigten Konto. <placeName ref="#bruenn"
+					>Brünn</placeName>, den <date when-iso="1876-01-15">15. Jänner 1876</date>. <hi
+					rend="widespace">Das Komite</hi>: <persName ref="#belrupt.marie">Marie Gräfin
+					Belrupt</persName>, <persName ref="#gompertz-bettelheim.karoline-von">Karoline
+					Gomperz-Bettelheim</persName>, <persName ref="#herring.amalie">Amalie Freiin v.
+					Herring</persName>, <persName ref="#possinger.emilie">Emilie Freiin v<supplied
+						resp="tr">.</supplied> Possinger</persName>, <persName
+					ref="#serenyi.ernestine">Ernestine Gräfin Serenyi</persName>, <persName
+					ref="#spitzer.amalie">Amalie Spitzer</persName>, <persName ref="#teuber.adele"
+					>Adele v. Teuber</persName>, Dr. <persName ref="#goldhann.ludwig">Ludwig
+					Goldhann</persName>, <persName ref="#kitzler.otto">Otto Kitzler</persName>, Dr.
+					<persName ref="#klob.friedrich">Friedrich Klob</persName>, <persName
+					ref="#palliardi.josef">Josef Palliardi</persName>.</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AdMz, Leipzig, 3. März 1876</title>
+				<author><persName ref="#akronym.ok"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/admz_1876-03-03_koeln.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#admz" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-03-03"/>
+					<biblScope unit="issue">9</biblScope><biblScope unit="volume"
+						>3</biblScope><series>admz</series>
+					<biblScope unit="page">75–76</biblScope>
+					<!--FACS AdmZ: kein Digitalisat; Kopie vorhanden-->
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#koeln"/><date when-iso="1876-02-20"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<pb break="null" n="74" type="initial"/>
+			<head rend="widespace larger">Korrespondenzen.</head>
+			<cb break="null" n="75b" type="skipped"/>
+			<p><hi rend="bold"><placeName ref="#hamburg">Cöln</placeName>,</hi>
+				<date when-iso="1876-02-20">20. Februar</date>. Das <rs type="event"
+					ref="#koeln.1875.2">achte Gürzenichkonzert</rs> brachte eine Wiederholung des
+					<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’schen</persName>
+					<title ref="#verdi.requiem">Requiems</title></hi>, dessen erste Aufführung
+				bereits im <rs type="event" ref="#koeln.1875.1">vierten Konzert</rs> stattgefunden,
+				von uns jedoch damals nicht hatte besprochen werden können. Der durchschlagende
+				Erfolg, welchen das Werk auch diesmal wieder errang, durfte im Ganzen ein
+				berechtigter sein. Im Ganzen, denn im Einzelnen ließe sich der Komposition doch
+				manches anhaben. Da es den Raum eines Konzertberichtes weit übersteigen würde,
+				wollen wir uns auf die vielen Schönheiten und Schwächen des Werkes näher einlassen,
+				so begnügen wir uns damit, unser Urtheil kurz zusammenzufassen. Das, was wir an dem
+				Werke schön finden, sondert sich auf einzelne Nummern, von denen die erste, das
+					<title ref="#verdi.requiem.4">Sanctus</title> und die <title
+					ref="#verdi.requiem.7">letzte</title> und die hervorragendsten sind. Hier hat
+				der Komponist eine Musik geschaffen, die dem religiösen Stoffe gemäß concipirt und
+				mit entsprechenden Mitteln ausgeführt ist. Auch das <hi rend="antiqua"><title
+						ref="#verdi.requiem.2">Dies irae</title></hi>, welches selbstverständlich
+				einen größeren Aufwand von Mitteln verlangt, ist in den Hauptpartien als gelungen zu
+				betrachten, d. h. seiner Großartigkeit zwar mit Effekten reich bedacht, <pb
+					break="yes" n="76" type="regular"/>aber doch nicht über die aesthetischen
+				Grenzen, die natürlich bei dieser Nummer weiter zu ziehen sind, hinausgehend. An
+				vielen anderen Stellen jedoch ist zwar immer höchst wirkungsvolle Musik zu finden,
+				aber von einer Kongruenz derselben mit ihrer textlichen Unterlage keine Rede. Wenn
+				wir daher mit den Stellen, die sich in ihrer musikalischen Behandlung den
+				Opernhaften nähern und die wir nicht näher zu bezeichnen brauchen, uns nicht
+				befreunden können, so wollen wir uns des guten und Schönen, welches das Werk
+				enthält, desto mehr freuen und nicht verkennen, daß die Requiemliteratur durch
+				dasselbe immerhin eine namhafte <choice>
+					<orig>Bereicherund</orig>
+					<corr resp="tr">Bereicherung</corr>
+				</choice> erfahren hat. Ueber die Aufführung können wir bez. des Chores und
+				Orchesters nur Rühmliches berichten. Von den Solisten sind die Herren <hi
+					rend="widespace"><persName ref="#schelper.otto">Schelper</persName></hi> und <hi
+					rend="widespace">Prof. <persName ref="#schneider.carl">Schneider</persName></hi>
+				ebenso zu loben, wie die Damen <hi rend="widespace"><persName ref="#lehmann.lilli"
+						>Lehmann</persName></hi> und <hi rend="widespace"><persName
+						ref="#keller.elsa">Keller</persName></hi> wegen entsetzlichen Detonirens
+				Tadel verdienen. Daß das Publikum im Applaus keinen Unterschied machte, durfte nicht
+				das Mittel sein, die Damen zu ernsterem überhaupt und der betreffenden Partien
+				insbesondere anzuspornen. Möchte doch endlich einmal dieses Applaudiren in’s Blaue
+				hinein einem aus vernünftiger Ueberlegung hervorgehenden Beifall Platz machen, nur
+				dann kann überhaupt von einem Zweck und Nutzen desselben die Rede sein.</p>
+			<gap resp="tr"/>
+			<p rend="right"><hi rend="antiqua">Dr.</hi>
+				<persName ref="#akronym.ok" role="author">O. K.</persName></p>
+		</body>
+	</text>
+</TEI>

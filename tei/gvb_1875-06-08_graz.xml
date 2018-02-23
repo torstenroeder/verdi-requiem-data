@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Grazer Volksblatt, 8. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/gvb_1875-06-08_requiem.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#grazer-volksblatt" role="publisher"/>
+					<placeName ref="#graz"/>
+					<date when-iso="1875-06-08"/>
+					<biblScope unit="issue">127</biblScope><biblScope unit="volume"
+						>8</biblScope><series>gvb</series>
+					<biblScope unit="page">3</biblScope>
+					<link facs="gvb_1875-06-08_3.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=gre&amp;datum=18750608&amp;seite=3"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#graz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Vermischtes</head>
+			<gap resp="tr"/>
+			<p><g type="ASTERISK" n="002A">*</g> (<hi rend="widespace">„<title ref="#verdi.requiem"
+						>Requiem</title>“ im <placeName ref="#wien.hof-operntheater">k. k.
+						Hofopern-Theater</placeName>.</hi>) Unter der Rubrik: „Theater, Kunst und
+				Literatur“ bringt der „<orgName ref="#volksfreund">Volksfreund</orgName>“ vom <date
+					when-iso="1875-06-05">5. Juni</date><note resp="tr" type="commentary">Der Titel
+					»Volksfreund« ist unspezifisch. Diverse Wiener Zeitungen (Illustriertes Wiener
+					Extrablatt, Morgen-Post, Die Presse, Wiener Zeitung) brachten diese Nachricht
+					bereits am 4. Juni.</note> die Notiz: <rs type="event"
+					ref="#wien.1875.1 wien.1875.2">„Die Aufführung des <title ref="#verdi.requiem"
+						>Requiems (Manzoni-Messe)</title> von <persName ref="#verdi.giuseppe"
+						>Verdi</persName> findet nach der erfolgten Ankündigung an zwei einander
+					folgenden Tagen, den <date when-iso="1875-06-11">11.</date> und <date
+						when-iso="1875-06-12">12. Juni</date>, im <placeName
+						ref="#wien.hof-operntheater">Hofoperntheater</placeName> statt.“</rs>
+			</p>
+			<p>Wer wird durch diese <hi rend="widespace">Theater</hi>-Nachricht erbaut sein? —
+				Sollte das <title ref="#verdi.requiem">Requiem</title> später je einmal in einer
+				Kirche aufgeführt werden, so erbarmet uns der Priester, der den Statisten abgibt,
+				und macht jeden Gläubigen der Gedanke traurig, daß die allerheiligste Handlung dazu
+				Gelegenheit bieten muß, um Opernmusik zu Gehör zu bringen.</p>
+			<p>Erfreulich ist, daß dasselbe Blatt zwei Zeilen unterhalb das Telegramm wiedergibt,
+				welches über den Verlauf der Eröffnungsfeier in <placeName ref="#bruck-an-der-mur"
+					>Bruck</placeName> im „<orgName ref="#grazer-volksblatt">Volksblatt</orgName>“
+				zu lesen war.<note resp="tr" type="textLink">Vgl. <ref type="text"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=gre&amp;datum=18750604&amp;seite=1"
+						>Grazer Volksblatt, 4. Juni 1875, S. 1</ref>.</note> Die Zusammenstellung
+				dieser zwei Nachrichten macht die Berechtigung, ja die Nothwendigkeit der
+				Cäzilien-Vereine dem Katholiken greifbar.</p>
+		</body>
+	</text>
+</TEI>

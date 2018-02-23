@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Der Floh, Wien, 13. Juni 1875 [4]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/floh_1875-06-13_waehrend-der-auffuehrung.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#der-floh" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-13"/>
+					<biblScope unit="issue">24</biblScope><biblScope unit="volume"
+						>7</biblScope><series>der-floh</series>
+					<biblScope unit="page">2</biblScope>
+					<link facs="floh_1875-06-13_2.png"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=flo&amp;datum=18750613&amp;seite=2"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Satire</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb n="2c"/>
+			<head rend="antiqua larger">Während der <rs type="event" ref="#wien.1875">Aufführung des
+						<title ref="#verdi.requiem">Requiem</title></rs>.</head>
+			<head rend="plain">(Auf den Galerien.)</head>
+			<lg>
+				<l>— Du, Josef, Du hast ja Latein g’lernt. Was heißt denn das <hi rend="antiqua"
+							><title ref="#verdi.requiem.2.dies-irae">„Dies irae<supplied resp="tr"
+								>“</supplied></title></hi>?</l>
+				<l><supplied resp="tr">—</supplied> Da steht’s ja am Theaterzettel: <hi
+						rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies
+						irae</title></hi> (Soli und Chor.)</l>
+			</lg>
+			<p rend="center">*</p>
+			<lg>
+				<l>— Ujeh! Die Clericalen werden sich ärgern.</l>
+				<l>— Weil man das <title ref="#verdi.requiem">Requiem</title> im Theater
+					aufführt?</l>
+				<l>— Nein, weil man nicht mit’n Klingelbeut’l rumgeh’n darf.</l>
+			</lg>
+			<p rend="center">*</p>
+			<lg>
+				<l>— Fein, göttlich, auf Ehre, me möcht glauben, me is im alten Tempel und hört den
+						<persName ref="#sulzer.salomon">Sulzer</persName> vortragen ä Psalm.</l>
+				<l>— Nur mit’n Unterschied, daß ä Psalm von <persName ref="#sulzer.salomon"
+						>Sulzer</persName>, was der nix kost, Dich nix stimmt ä so traurig, wie so ä
+					Reckwiehm, was Du mußt zahlen ä schweres Angtreh!</l>
+			</lg>
+			<p rend="center">*</p>
+			<lg>
+				<l>— Du glühst ja ganz! Was regt dich so auf, lieber Mann?</l>
+				<l>— Ich erinnere mich an die <persName ref="#linda.bertha">Linda</persName>, die
+					gestern dort an derselben Stelle, wo Signora <persName ref="#stolz.teresa"
+						>Stolz</persName> steht, mit den Füßchen so trillerte, wie diese mit der
+					Kehle.</l>
+			</lg>
+		</body>
+	</text>
+</TEI>

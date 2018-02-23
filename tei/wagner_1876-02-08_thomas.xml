@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Richard Wagner, Brief an Theodore Thomas, 8. Februar 1876</title>
+				<author><persName ref="#wagner.richard"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/wagner_1876-02-08_brief-an-thomas.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<placeName ref="#wien"/>
+					<date when-iso="1876-02-08"/>
+				</bibl>
+				<bibl>
+					<title>SBr Nr. 45 (7362)</title>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/><date when-iso="1876-02-08"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Privatschrift</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<p>Geehrtester Herr!</p>
+			<p>Ich ergreife die Gelegenheit Ihnen meine herzliche Anerkennung für Ihre, dem
+				deutschen Musikgeiste so förderliche Wirksamkeit in Amerika, welche auch meinem
+				Unternehmen zu Statten gekommen ist, auszudrücken.</p>
+			<p>Im Betreff der durch Herrn Feder bisher vermittelten Angelegenheit habe ich
+				zuvörderst zu bedauern, dass unsre, an und für sich durch die grosse Entfernung
+				erschwerte Correspondenz, auch durch Ihre Abwesenheit von New-Yorck neuerdings so
+				sehr verzögert worden ist. Ich wünschte daher diese Sache zu einem bündigen Schlusse
+				geführt zu sehen, und erkläre mich daher bereit, eine Composition für grosses
+				Orchester, von dem Umfange und dem Charakter meines Kaisermarsches zur Feier des
+				hundertjährigen Jubelfestes der amerikanischen Selbstständigkeit auszuführen, und
+				zur Versendung späthestens am 15ten März an ein, von Ihnen hierfür anzuweisendes
+				Bankhaus in Deutschland, gegen Auszahlung von fünftausend Dollars gegen Empfang des
+				Manuscriptes abzuliefern. Für diese von mir hiermit ausbedungene Summe übertrage ich
+				Ihnen das vollständige Eigenthum der in Rede stehenden Composition für Amerika,
+				nicht jedoch für Europa, für welches ich durch einen Contrakt mit B. Schott’s Söhnen
+				gebunden bin, verpflichte mich aber, die deutsche Publication erst 6 Monate nach der
+				amerikanischen erfolgen zu lassen.</p>
+			<p>Ich weiss nicht, ob es Ihnen räthlich erscheinen dürfte, die genannte Summe an die
+				unumschränkte Ausbeutung meiner Composition (natürlich auch für Aufführungen) daran
+				zu geben. Für die Höhe meiner Forderung bestimmen mich neueste Erfahrungen, da mir
+				z.B. von einem Berliner Verleger bereits 3000 Thaler für eine ähnliche Composition
+				geboten wurden, welche übrigens ausser aller Beziehung zu einer nationalen Festfeier
+				gestanden haben würde. Herr <hi rend="underlined"><persName ref="#verdi.giuseppe"
+						>Verdi</persName></hi> hat von seinem Verleger <sic>Riccordi</sic> für das
+				unbedingte Aufführungs- und Eigenthumsrecht seines <title ref="#verdi.requiem"
+					>Requiem</title> circa eine halbe Million Francs erhalten; somit darf es mir
+				erlaubt sein, einen Schluss auf den Werth der Composition eines jetzt berühmten
+				Autors zu ziehen. In diesem Betreff habe ich aber grosse Aufmerksamkeit auf die
+				Verwerthung meiner noch unverschleuderten Arbeiten zu nehmen, da ich bisher von den
+				Einkünften derselben mir noch keinen Heller ersparen konnte.</p>
+			<p>Ich ersuche Sie demnach mir durch ein Telegramm alsbald die Annahme meiner
+				Bedingungen zu melden, für welchen Fall ich Sie autorisire die Kosten des
+				Telegrammes von meinem Honorar in Abzug zu bringen. Oder — wenn ich diess Telegramm
+				rechtzeitig nicht erhalte, nehme ich an, dass Sie meinen Forderungen nicht
+				entsprechen können, für welchen Fall ich dann immer bleiben werde</p>
+			<p>Ihr sehr ergebener und verbundener Diener <persName ref="#wagner.richard">Richard
+					Wagner</persName>.</p>
+			<p><placeName ref="#bayreuth">Bayreuth</placeName>
+				<date when-iso="1876-02-08">8 Febr. 1876</date>.</p>
+		</body>
+	</text>
+</TEI>

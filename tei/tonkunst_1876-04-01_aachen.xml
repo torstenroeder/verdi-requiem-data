@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 1. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-04-01_aachen.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tonkunst" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-04-01"/>
+				<biblScope unit="issue">10</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
+				<biblScope unit="page">169</biblScope>
+				<link facs="tonkunst_1876-04-01_169.png"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#aachen"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<p><hi rend="bold">Concerte.</hi>
+			<gap resp="tr"/></p>
+		<p><rs type="event" ref="#aachen.1876.1"><hi rend="widespace"><placeName ref="#aachen">Aachen</placeName></hi>:
+				16/3. Abmt. 6-<persName ref="#breunung.ferdinand">Breunung</persName>. <title ref="#verdi.requiem">Verdi-Requiem</title>. (Fr <persName ref="#lederer-ubrich.asminde">Lederer-Ubrich</persName>, Frl <persName ref="#keller.elsa">Keller</persName>
+				<placeName ref="#koeln">Köln</placeName>, HH. <persName ref="#schneider.carl">Schneider</persName>
+				<placeName ref="#koeln">Köln</placeName> u. <persName ref="#pfeiffer.xxx">Pfeiffer</persName> Oper
+					<placeName ref="#duesseldorf">Düsseldorf</placeName>.)</rs>
+			<gap resp="tr"/></p>
+	</body></text>
+</TEI>

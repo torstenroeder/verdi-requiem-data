@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neues Fremden-Blatt, Wien, 12. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfb_1875-06-12_wien.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neues-fremden-blatt"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-12" when-custom="sat"/>
+				<biblScope unit="issue">161</biblScope><biblScope unit="subIssue">161</biblScope><biblScope unit="volume">11</biblScope><series>nfb</series>
+				<biblScope unit="page">4–5</biblScope>
+				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=nfb&amp;datum=18750612&amp;seite=4"/>
+				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=nfb&amp;datum=18750612&amp;seite=5"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Theater, Kunst und Literatur.</head>
+		<head><rs type="event" ref="#wien.1875.1">Die gestrige erste Aufführung von <persName ref="#verdi.giuseppe">Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“
+				im <placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName></rs></head>
+		<p>hatte einen außerordentlich glänzenden Erfolg. Die Anwesenheit des berühmten
+			Kompositeurs, welchen unsere Stadt vor dreißig Jahren als Anfänger in ihren Mauern sah
+			und nun als gefeierten Meister wieder begrüßt — die zahlreichen Schönheiten der
+			Komposition — endlich die wunderbar herrliche Ausführung durch die von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> mitgebrachten
+			Sänger, Alles das versetzte das Publikum, welches alle Räume des Hauses füllte, in die
+			enthusiastischeste Stimmung, welche sich von Nummer zu Nummer steigerte, bis zuletzt der
+			wahrhaft südliche Beifallssturm wie eine Lawine alle Schranken des Konventionellen
+			durchbrach.</p>
+		<p>Meister <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> wurde mit
+			minutenlangem Applaus empfangen. Das klang wie ein herzlicher Dank, von den Wiener
+			Opernfreunden dem Schöpfer so vieler genußreicher Abende dargebracht. Aber schon <pb break="yes" n="5a" type="regular"/> von der ersten Nummer, dem so weihevoll schön
+			beginnende <title ref="#verdi.requiem.1" n="kyrie">Kyrie</title> angefangen, machte des Ma<hi rend="antiqua">ë</hi>stro Werk seiner Persönlichkeit bedeutend Konkurrenz, d. h. die
+			Komposition an sich interessirte immer mehr und mehr. Jedes Stück wurde mit rauschendem
+			Beifall aufgenommen; das „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.recordare">Recordare</title></hi>“ (ein nicht eben
+			kirchliches, aber musikalisch überaus reizendes Duett von Sopran und Alt), das „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.ingemisco">Ingemisco</title></hi>“ (ein an „<title ref="#verdi.aida">Aida</title>“ anklingendes,
+			ungemein zartes und duftiges Tenorsolo), dann das <hi rend="widespace"><title ref="#verdi.requiem.3">Offertorium</title></hi> (vom „<hi rend="antiqua"><title ref="#verdi.requiem.3" n="hostias">hostias</title></hi>“, d. i. wieder einem
+			poesievollen Tenorsolo angefangen), endlich das lieblich-pastorale mit einem sehr
+			originellen <hi rend="antiqua">Unisono</hi> des Solo-Sopran und Alt beginnende,
+			wunderschön durchgeführte „<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus
+					Dei</title></hi>“ mußten <hi rend="widespace">wiederholt</hi> werden. Ganz
+			außerordentlich gefiel auch das „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.lacrymosa">Lacrimosa</title></hi>“ (das Schlußstück des <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi>), in welchem eine
+			einfach-innige, romanzenartige Melodie mit echt deutscher, man möchte sagen <persName ref="#mendelssohn-bartholdy.felix">Mendelssohn’schen</persName> Meisterschaft durch
+			alle Stimmen geführt wird.</p>
+		<p>Endlich machte der eminent dramatische, aber höchst feierliche Schluß des Ganzen, in
+			welchem sich zu dem wundervollen Verklingen eines schmerzlichen Orchestermotivs die tief
+			erregte psalmodirende Bitte des Soprans „um Befreiung vom ewigen Tode“ gesellt, einen
+			wahrhaft ergreifenden Eindruck: <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> verstand es, die Hörer seiner „<title ref="#verdi.aida">Aida</title>“ sowohl wie seines „<title ref="#verdi.requiem">Requiems</title>“ nicht
+			blos äußerlich angeregt, sondern im Herzen bewegt zu entlassen. Es versteht sich, daß
+			wir auf die <title ref="#verdi.requiem">„Manzoni“-Messe</title> und ihren musikalischen
+			Werth noch ausführlich zurückkommen. Für heute erwähnen wir nur noch, daß freilich nicht
+			Alles in dem Werke spontan, als Sprache der Ueberzeugung wirkt, daß vielmehr Manches
+			entschieden ausgeklügelt, auf rein äußeren Effekt berechnet erscheint und überhaupt das
+			dramatische, selbst theatralisch-opernhafte Element wohl das kirchlich-religiöse
+			überwiegt. Dafür aber erhält ein reicher Schatz von blühender Erfindung, von rein
+			musikalischer Schönheit den Hörer in fast beständiger Anregung, interessant ist mehr
+			oder minder Alles, Vieles edel, Manches von überraschender Neuheit in Ideen und Faktur,
+			und namentlich zeigt sich eine Durchbildung und künstlerische Noblesse im Vokalsatze,
+			welche bei dem vielverketzerten Schöpfer der (allerdings skurill-schülerhaften) „<title ref="#verdi.il-trovatore">Trovatore</title>“-Chöre geradezu in Staunen setzt.</p>
+		<p>Für die Tonbildung, die technische Manier, die Vortragsnuancirungen der <hi rend="widespace">Solosänger</hi>, namentlich der Damen <hi rend="widespace"><persName ref="#stolz.teresa">Stolz</persName></hi> und <hi rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi> und des Tenors Herrn <hi rend="widespace"><persName ref="#masini.angelo">Masini</persName></hi>, fehlen uns
+			wirklich die bezeichnenden Worte des Lobes. Nach dieser Hinsicht empfingen wir einen
+			Genuß, der nicht leicht zu überbieten sein dürfte, es war uns, als hätten wir seit
+			Jahren einmal wieder erst wirklich in <hi rend="widespace">einem idealen Ensemble</hi>
+			singen gehört. Besonders ist es die Sopranistin Fr. <hi rend="widespace"><persName ref="#stolz.teresa">Stolz</persName></hi>, welche ihre machtvoll glänzende (an das
+			Organ unserer <persName ref="#wilt.marie">Wilt</persName> und <persName ref="#materna.amalie">Materna</persName> zugleich erinnernde) Stimme von der tiefsten Tiefe bis zur
+			höchsten Höhe in allen Abstufungen des Klanges und Ueberlegenheit beherrscht, daß sie in
+				<hi rend="widespace">dieser</hi> Beziehung gewiß nur sehr wenige Rivalin<supplied resp="tr">n</supplied>en in ganz Europa hat, wenn es überhaupt deren gibt. Uebrigens war
+			auch die Totalaufführung unter des Ma<hi rend="antiqua">ë</hi>stro gleich ruhiger wie
+			energischer Direktion eine höchst gelungene, unser <hi rend="widespace">Hofopernorchester</hi> zeigte sich in seinem größten Glanze und der durch
+			Mitglieder des <hi rend="widespace"><orgName ref="#wien.akademischer-gesangverein">akademischen Gesangvereines</orgName></hi> verstärkte Theaterchor — die Damen weiß
+			mit schwarzen <sic>Schleifen</sic> — stand demselben an Verve und Präzision
+			durchaus nicht nach: wir wetten, <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> hat seine schwierigen und heiklichen Fugensätze niemals
+			besser gehört. Am Schlusse der Aufführung wurde der glückliche Kompositeur unzählige
+			Male gerufen und der Jubel erreichte den Gipfel, als er mit einem Lorbeerkranze in der
+			Linken, umgeben von seinem getreuen Sängerstabe, erschien und <hi rend="widespace"><persName ref="#hellmesberger.josef">Hellmesberger</persName></hi>, dem trefflichen
+			Führer des gerade in der <title ref="#verdi.requiem">„Manzoni“-Messe</title> sehr wichtigen
+			Streichquartettes, mit größter Herzlichkeit die Hand schüttelte.</p>
+	</body></text>
+</TEI>

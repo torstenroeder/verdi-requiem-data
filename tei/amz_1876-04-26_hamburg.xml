@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>AmZ, Leipzig, 26. April 1876</title><author><persName ref="#krause.emil"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/amz_1876-04-26_hamburg.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#amz" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-04-26"/>
+				<biblScope unit="issue">17</biblScope><biblScope unit="volume">11</biblScope>
+				<biblScope unit="column">269–270</biblScope>
+				<link facs="amz_1876-04-26_269-270.jpg" target="https://archive.org/stream/allgemeinemusik14unkngoog#page/n146/mode/2up"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#hamburg"/><date when-iso="1876-04-12"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<cb break="null" n="267" type="initial"/>
+		<head rend="larger">Berichte.</head>
+		<cb break="null" n="269" type="skipped"/>
+		<head><hi rend="bold"><placeName ref="#hamburg">Hamburg</placeName></hi>, <date when-iso="1876-04-12">12.
+				April</date>.</head>
+		<p><hi rend="italic"><persName ref="#krause.emil">E. Kr.</persName></hi>
+				<gap resp="tr"/></p>
+		<p><cb break="yes" n="270" type="skipped"/>
+			<rs type="event" ref="#hamburg.1876.7"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> wurde am <date when-iso="1876-04-14">Charfreitag</date> zum letzten Mal vorgeführt</rs>.</p>
+	</body></text>
+</TEI>

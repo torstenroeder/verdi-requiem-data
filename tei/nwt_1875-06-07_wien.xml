@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Neues Wiener Tagblatt, 7. Juni 1875</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/nwt_1875-06-07_verdi.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#neues-wiener-tagblatt" role="publisher"/>
+                    <placeName ref="#wien"/>
+                    <date when-iso="1875-06-07" when-custom="sun"/>
+                    <biblScope unit="issue">156</biblScope><biblScope unit="subIssue"
+                        >156</biblScope><series>nwt</series>
+                    <biblScope unit="page">3</biblScope>
+                    <link
+                        target="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750607&amp;seite=11"
+                    />
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#wien"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Notiz</term>
+                    <term type="corpusGroup">Aufführungsgeschichte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <text xml:lang="de">
+        <body rend="fraktur">
+            <pb break="null" n="3b" type="initial"/>
+            <head rend="larger">Theater und Kunst.</head>
+            <p><g type="ASTERISK" n="002A">*</g>
+                <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> hat heute
+                die <rs type="event" ref="#wien.1875.gp">erste Gesammtprobe seiner <title
+                        ref="#verdi.requiem">Manzoni-Messe</title></rs> persönlich dirigirt und
+                wurde bei seinem Erscheinen mit stürmischem Applaus und Hochrufen der Mitwirkenden
+                empfangen. Der Beifall wiederholte sich während der Aufführung oft und
+                enthusiastisch.</p>
+        </body>
+    </text>
+</TEI>

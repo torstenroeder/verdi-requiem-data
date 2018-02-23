@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Leipziger Tageblatt und Anzeiger, 12. März 1876 [2]</title><author><persName ref="#piutti.carl"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/lta_1876-03-12_musikalischer-bericht.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#leipziger-tageblatt" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-12" when-custom="sun"/>
+				<biblScope unit="issue">72</biblScope><series>lt</series>
+				<biblScope unit="page">1367</biblScope>
+				<link facs="lt_1876-03-12_1367c.jpg"/>
+				<link facs="lt_1876-03-12_1367d.jpg"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Musikalischer Bericht.</head>
+		<head>Neunzehntes Gewandhausconcert.</head>
+		<p><rs type="event" ref="#leipzig.1876.1"><placeName ref="#leipzig">Leipzig</placeName>, <date when-iso="1876-03-11">11. März</date>. Vorigen Donnerstag, im 19. Abonnement-Concert, fand die erste
+				Aufführung des <hi rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi>
+				von <hi rend="widespace"><persName ref="#verdi.giuseppe"><choice>
+							<orig>Guiseppe</orig>
+							<corr resp="tr">Giuseppe</corr>
+						</choice> Verdi</persName></hi> statt, — einer Novität, die beim deutschen
+				Publicum viele Theilnahme gefunden hat und von der Kritik so leicht nicht abgethan
+				ist.</rs>
+			<rs type="event" ref="#leipzig.1876.2">Die Aufführung wird sich am Montag wiederholen.</rs> Wir
+			haben uns alle Mühe gegeben, die Partitur*) zu erlangen, um eingehender über das <title ref="#verdi.requiem">Requiem</title> sprechen zu können, — denn wir besitzen nicht die
+			Kühnheit, über ein solches Werk nach bloßem Hören der ersten Aufführung ein Urtheil,
+			welches in mancher Hinsicht ein absprechendes sein würde, zu veröffentlichen. Leider ist
+			diese Mühe für den Augenblick vergeblich gewesen.</p>
+		<p>Glücklicher scheint <persName ref="#naumann.emil">Emil <hi rend="widespace"><choice><orig>Hartmann</orig><corr resp="tr">Naumann</corr></choice></hi></persName> gewesen zu sein, welcher dem <title ref="#verdi.requiem">Requiem</title> gelegentlich der <rs type="event" ref="#dresden.1876"><placeName ref="#dresden">Dresdner</placeName> Aufführungen</rs> eine ausführliche Besprechung in der <orgName ref="#national-zeitung">Nationalzeitung</orgName> widmet.<note resp="tr" type="textLink">Gemeint ist der Artikel von <persName ref="#naumann.emil">Emil Naumann</persName>, <ref type="text" target="nz_1876-02-09_dresden.xml">National-Zeitung, Berlin, 9. Februar 1876</ref>; der Name des Autors wurde verwechselt mit <persName ref="#hartmann.ludwig">Ludwig Hartmann</persName>, <ref type="text" target="dn_1876-01-10_hoftheater.xml">Dresdner Nachrichten, 10. Januar 1876</ref>.</note> Der Artikel ist lesenswerth. Die, welche sich für das Werk interessiren, finden darin die Ansicht eines Fachmannes ausgesprochen, mit der übrigens unser vorläufiger Eindruck von der Composition uns in den wesentlichen Puncten in Uebereinstimmung setzt. Es ist uns immerhin lieber, in diesem Fall die motivirte Ansicht eines Andern zu geben, als unsere eigene auf so schwachen Grundlagen, und wir lassen daher statt unseres Berichts den aus der <orgName ref="#national-zeitung">„N-Z.“</orgName> — wörtlich und im Wesentlichen unverkürzt — folgen, uns jeder Ergänzung oder Widerlegung enthaltend, da eine solche nur auf Grund der Partitur erfolgen kann.</p>
+		<p>Leider ist der Abdruck dieses Berichts im Tageblatt erst in einer späteren Nummer möglich
+			und wir beschränken uns für heute nur auf die kurze Notiz über den glücklichen Verlauf
+			des Donnerstag-Concerts. Die Aufführung war eine mit strengster Gewissenhaftigkeit
+			vorbereitete, daher auch strengsten Anforderungen genügende, unter den musikalischen
+			Ereignissen unsrer Stadt auf höchster Linie stehende. Wie das Orchester und der
+			Chorverein des Gewandhauses, unter Capellmeister <persName ref="#reinecke.carl">Reinecke’s</persName> Leitung, so trugen namentlich auch die vier Solisten zu diesem
+			schönen Gelingen der Aufführung bei. An die Namen der Frau <hi rend="antiqua">Dr.</hi>
+			<hi rend="widespace"><persName ref="#peschka-leutner.minna">Peschka-Leutner</persName></hi>
+			und des Herrn <hi rend="widespace"><persName ref="#pielke.walter">Pielke</persName></hi>
+			knüpft sich für uns Leipziger von vornherein die Idee einer stylvollen, technisch
+			vollkommenen und durch ihre Klangschönheit für sich einnehmenden Leistung. An die Namen
+			der beiden Dresdner Gäste, des Fräulein <hi rend="widespace"><persName ref="#nanitz.minna">Nanitz</persName></hi> (Alt) und des Herrn <hi rend="widespace"><persName ref="#koehler.hans">Köhler</persName></hi>, beide von der königl. Hofoper, knüpfen
+			wir im Andenken ihrer neulichen Mitwirkung für die Zukunft dieselbe Idee.</p>
+		<p>Da uns die vorzüglichen Kräfte auch für die Montagsaufführung gewonnen bleiben, so sehen
+			wir dieser mit Freuden entgegen als einem seltsamen musikalischen Ereigniß — in
+			doppeltem Sinn.</p>
+		<p rend="right"><hi rend="widespace"><persName ref="#piutti.carl">C. Piutti</persName></hi>.</p>
+		<p rend="smaller">*) Die einzige dürfte in den Händen der Gewandhaus-Direction sein.</p>
+	</body></text>
+</TEI>

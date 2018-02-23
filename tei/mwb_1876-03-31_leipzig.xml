@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 31. März 1876 [2]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1876-03-31_leipzig.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#mwb" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-31"/>
+				<biblScope unit="issue">14</biblScope><biblScope unit="volume">7</biblScope>
+				<biblScope unit="page">178</biblScope>
+				<link facs="mwb_1876-03-31_178.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760331&amp;seite=10"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<head rend="lineale bold">Aufgeführte Novitäten.</head>
+		<pb break="null" n="178" type="skipped"/>
+		<p><rs type="event" ref="#leipzig.1876.2"><persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>
+					(G.)</persName>, <title ref="#verdi.requiem">Requiem</title>. (<placeName ref="#leipzig">Leipzig</placeName>, Gewandhausconc. zum Besten des Orch.-Pensionsfons etc. am
+					<date when-iso="1876-03-13">13. März</date>.)</rs></p>
+	</body></text>
+</TEI>

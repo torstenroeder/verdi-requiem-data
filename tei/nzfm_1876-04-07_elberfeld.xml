@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 7. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-04-07_elberfeld.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-04-07"/>
+				<biblScope unit="issue">15</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
+				<biblScope unit="page">156 [8]</biblScope>
+				<link facs="nzfm_1876-04-07_156.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760407&amp;seite=8"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#elberfeld"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="155b" type="initial"/>
+		<head rend="larger">Tagesgeschichte.</head>
+		<head>Aufführungen.</head>
+		<cb break="null" n="156b" type="skipped"/>
+		<p><rs type="event" ref="#elberfeld.1876.1"><placeName ref="#elberfeld">Elberfeld</placeName>. <gap resp="tr"/>
+				Am <date when-iso="1876-04-05">5.</date> unter Leitung von <persName ref="#schornstein.hermann" role="conductor">Schornstein</persName>
+				<persName ref="#verdi.giuseppe" role="composer">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title>.</rs> —</p>
+	</body></text>
+</TEI>

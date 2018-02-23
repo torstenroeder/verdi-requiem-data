@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Ostschweiz, St. Gallen, 18./19./21. April 1878</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/os_1878-04-18_st-gallen.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#die-ostschweiz" role="publisher"/>
+					<placeName ref="#st-gallen"/>
+					<date when-iso="1878-04-18" when-custom="thu"/>
+					<biblScope unit="issue">91</biblScope><biblScope unit="volume"
+						>5</biblScope><series>os</series>
+					<biblScope unit="page">3</biblScope>
+					<link
+						target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=6BF6D400&amp;href=OSZ%2F1878%2F04%2F18&amp;page=3"
+					/>
+				</bibl>
+				<bibl>
+					<orgName ref="#die-ostschweiz" role="publisher"/>
+					<placeName ref="#st-gallen"/>
+					<date when-iso="1878-04-19" when-custom="fri"/>
+					<biblScope unit="issue">92</biblScope><biblScope unit="volume"
+						>5</biblScope><series>os</series>
+					<biblScope unit="page">3</biblScope>
+					<link
+						target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=21440BCD&amp;href=OSZ%2F1878%2F04%2F19&amp;page=3"
+					/>
+				</bibl>
+				<bibl>
+					<orgName ref="#die-ostschweiz" role="publisher"/>
+					<placeName ref="#st-gallen"/>
+					<date when-iso="1878-04-21" when-custom="sat"/>
+					<biblScope unit="issue">93</biblScope><biblScope unit="volume"
+						>5</biblScope><series>os</series>
+					<biblScope unit="page">3</biblScope>
+					<link
+						target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=D038C625&amp;href=OSZ%2F1878%2F04%2F21&amp;page=3"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#st-gallen"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<group>
+			<text n="1">
+				<body rend="fraktur">
+					<cb n="1c"/>
+					<head rend="larger"><g type="SUN" n="2609">☉</g>
+						<rs type="event" ref="#st-gallen.1878"><persName ref="#verdi.giuseppe"
+								>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ in
+								<placeName ref="#st-gallen.kirche-st-laurenzen">St.
+								Laurenzen</placeName> zu <placeName ref="#st-gallen">St.
+								Gallen</placeName>.</rs></head>
+					<p>Wie bereits in einigen vorangehenden Jahren am <date>Palmsonntage</date>
+						einige der berühmtesten Oratorien durch die <placeName ref="#st-gallen">St.
+							Gallischen</placeName> Musikvereine zur Aufführung gelangten, so reihte
+						sich diesmal an die „<hi rend="widespace"><title ref="#haydn.die-schoepfung"
+								>Schöpfung</title>
+							<persName ref="#haydn.joseph">Haydns</persName></hi>“, den „<hi
+							rend="widespace"><title ref="#haendel.messiah">Messias</title>
+							<persName ref="#haendel.georg-friedrich">Händels</persName></hi>“ nun
+						das <sic>weitberühmte</sic>
+						<hi rend="antiqua">„<title ref="#verdi.requiem">Requiem</title>“</hi> des
+						noch lebenden italienischen Tonkünstlers <persName ref="#verdi.giuseppe"
+							>Verdi</persName>. Schreiber dieser Zeilen ist weder befähigt noch
+						berufen, über die Eminenz diefes Werkes und das Gelingen seiner Aufführung
+						ein kritisches oder lobendes Wort zu veröffentlichen. Das Werk in sich hat
+						in seinem europäischen Renomm<hi rend="antiqua">é</hi> eine kontinuirliche
+						Lobrede gefunden und seiner gelungenen Aufführung werden die kompetenten
+						Stimmen der Anerkennung nicht fehlen. Was aber der kunstvollen Tonharmonien
+						letzter, schöpferischer und tiefliegendester Grundton ist, — den <hi
+							rend="widespace">dogmatisch-liturgischen</hi> Gedanken — in seiner
+						tiefsten Tiefe und vollsten Fülle vom Genius des Componisten erfaßt und in
+						die materiellen Töne wie die belebende Seele in den irdischen Leib
+						hineingehaucht, so daß die Gesammtschöpfung dieser materiell geistigen
+						Harmonie bezaubernd und verständlich selbst an des Laien Ohr hin schlug —
+						diesen Grundton des Meisterwerkes nur mit einigen Zügen hervorzuheben,
+						versuchen diese Zeilen.</p>
+					<p>Feierlich und ernst, wie’s der liturgische Text erheischt, eröffnet sich das
+						Oratorium mit <hi rend="antiqua">„<title ref="#verdi.requiem.1">Requiem
+								æternam</title>“</hi>. Auch die Töne gleiten in feierlicher Ruhe
+						dahin und die Feinheit der Composition ist ein Bild jenes himmlischen
+						Aethers, dessen Leuchten der musikalische Chor den Verewigten zufleht.
+						Flehende Stimmen tragen das <title ref="#verdi.requiem.3"
+							>Offertorium</title> zum Throne des Allerhöchsten, aus dessen
+						Himmelsraum beim <hi rend="antiqua"><title ref="#verdi.requiem.4"
+								>Sanctus</title></hi> ein schwellender Jubelchor sich herab —
+						verliert in das Thal der Thränen, wo das menschliche Organ wohl für Seufzer
+						und Bitten befähigt, aber zu schwerfällig ist, den höchsten Kreisen des
+						Jubels zu genügen. Seit Linos, Apollos Sängerruhm zu erreichen strebte, —
+						sagt ja die Mythe — erfüllt Klage des sterblichen Sängers Mund und die
+						Stimme bricht, sobald sie sich erheben will in die Harmonien des
+						überirdischen Jubels.</p>
+					<p>Ich übergehe das flehende <hi rend="antiqua">„<title ref="#verdi.requiem.5"
+								>Agnus dei</title>“</hi>, auch das <hi rend="antiqua">„<title
+								ref="#verdi.requiem.6">Lux perpetua</title>“</hi> und selbst das <hi
+							rend="antiqua">„<title ref="#verdi.requiem.7">Libera</title>“</hi>, in
+						welchem, wie in der Rekapitulation einer Meisterrede die herrlichsten
+						Partien nochmals wiederkehren, so alle ergreifenden Harmonien nochmals an’s
+						Ohr zittern mit ihrem Ernst, ihrer Erhabenheit, ihrer Lieblichkeit, bis sie
+						auszittern, langsam und gebrochen sich verlieren, damit der Hörer so recht
+						die Wehmuth und Leere jener prosaischen, sinnlosen und niedrigen Welt fühle,
+						aus der ihn des Meisters Zauberhand für einige Augenblicke emporgehoben. Was
+						das <hi rend="antiqua">„Non plus ultra“</hi> des eminenten Werkes ist, wie
+						im liturgischen Texte, so in der künstlerisch musikalischen Aufführung die
+						Glanzpartie bildet, das ist das musikalische Gemälde — ich darf es seiner
+						deskriptiven Darstellung wegen wohl sagen — des <hi rend="antiqua">„<title
+								ref="#verdi.requiem.2">Dies iræ</title>“</hi>.</p>
+					<p>Wie die Künstlerhand <persName ref="#buonarroti.michelangelo">Michel
+							Angelos</persName> zwar über alle Wandflächen der Sixtinischen Kapelle
+						zu Rom ihre farbigen Spuren und Schatten geworfen, aber im „<hi
+							rend="widespace">letzten Gerichte</hi>“ an der Hauptwand sich gleichsam
+						selbst übertreffend in der Farbenkunst schwelgte, so ist es, möcht’ ich
+						sagen, ein Schwelgen des Künstlergeistes, im Genusse des verstandenen und
+						bis in seine Tiefen erfaßten Gedankens, das da aus diesen Harmonien austönt
+						und mit Orpheusgewalt selbst das nicht musikalische Ohr in dasselbe
+						Schwelgen hineinbannt. Ich möchte mir in der That nur wünschen, vor dem
+						Meisterwerke <persName ref="#buonarroti.michelangelo">Michel
+							Angelos</persName>, den Meisterhymnus <hi rend="antiqua">„Dies iræ“</hi>
+						in der Meisterharmonie <persName ref="#verdi.giuseppe">Verdis</persName>
+						auftönen zu hören und von den Einzelmusen der Malerei, der Poesie und der
+						Musik das katholische Dogma etwas dem irdischen Blicke entschleiern zu
+						lassen. Ich dachte unwillkürlich an den Tag, der einstens wie der Blitz und
+						wider Erwarten tagend, der irdischen Tage Abschluß bildet, als auf einmal in
+						das ruhig austönende <hi rend="antiqua"><title ref="#verdi.requiem.1"
+								>Kyrie</title></hi> mit erschüttender Gewalt die Allianz aller Töne
+						von Menschen und Instrumenten zu einer Gewaltharmonie verbunden, hinbrach in
+						die wunderbare, allerdings nur vom Fachmanne ganz zu schätzende Harmonie der
+						lautesten Tonvariationen. Man ahnte unwillkürlich etwas <cb break="yes"
+							n="3c" type="regular"/>von jener Dissonanz und Dissollution, welche
+						eintritt, „wenn die Welt aus den Fugen und die Sternenwelt vom Firmamente
+						fällt.“ „<hi rend="widespace">Tag der Schrecken, Tag des Zornes</hi>“ , das
+						fühlt auf einmal, will mir scheinen, selbst das Mark des Gebeines
+						desjenigen, an dessen Ohr nur dieses musikalische Exordium erklungen. Es
+						liegt aber in dieser Allgewalt, mit der Hymnus und Musik beginnen, so ganz
+						jener Hauptcharakter des kath. Glaubens ausgesprochen, der, nicht ein
+						Erzeugniß subjektiven Meinens und frommen Phantasierens, sondern als etwas
+						Objektives, vom Himmel und seiner Fülle Gegebenes, ebenfalls nur
+						einigermassen verstanden, alle Subjektivität des Menschen überwältigend, vor
+						diesen hintritt. Unter Posaunenklang und dem schwellenden Andringen der Töne
+						an das Ohr tritt das Dogma der Schrecken vor den Geist, wirft ihn nieder,
+						aber läßt ihn, kaum gedemüthigt von seinem Hochdrucke, wieder neubelebt sich
+						aufraffen, das objektiv gebotene Schauspiel betrachten, empfinden, verwerthe
+						und die objektive Schönheit in subjektiver Auffassung zergliedern, ahnen,
+						aussprechen, austönen und aussingen.</p>
+					<p rend="right">(Forts. folgt.)</p>
+				</body>
+			</text>
+			<text n="2">
+				<body rend="fraktur">
+					<cb n="3c"/>
+					<head><g type="SUN" n="2609">☉</g>
+						<rs type="event" ref="#st-gallen.1878"><persName ref="#verdi.giuseppe"
+								>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ in
+								<placeName ref="#st-gallen.kirche-st-laurenzen">St.
+								Laurenzen</placeName> zu <placeName ref="#st-gallen">St.
+								Gallen</placeName>.</rs></head>
+					<p rend="center">(Fortsetzung.)</p>
+					<p>Aber der Glaube und seine Wahrheiten sind keine Schreckbilder der Phantasie,
+						die „Gebein und Fleisch“ nicht haben, keinen Halt, weder Fundament noch
+						Sicherheit. Der Hymnus hat es nicht vergessen; die Musik hat es verstanden,
+						und auf einmal mit dem ruhig gemessenen Ton der lehrenden Geschichte werden
+						wir erinnert, daß für dieses Schreckensdogma des Gerichtes Zeuge stehen <hi
+							rend="widespace">David und die Sybillen</hi>. Zuerst der Glaube, dann
+						erst seine begründete Kenntniß. Die Verse des Hymnus, die Töne der Musik
+						haben gedacht wie der Engel der Schule, der hl. <persName
+							ref="#aquin.thomas-von">Thomas von Aquin</persName>, und inmitten der
+						Symphonien gedenkt man der Trockenheit scholastischer Weisheit. Das
+						musikalische Panorama ist eröffnet, denn es zeigt den „Tag der Schrecken“;
+						seine Bedeutung ist verkündet, denn es zeigt ein Faktum, welches David und
+						die Sybille verkünden und wir gehen jetzt ein in seine Betrachtung. Es ist
+						der Ausruf, mit dem der überwältigte Menschengeist vor einem Schauspiele
+						staunt, dessen Reichthum für Gemüth und Herz und Geist ihn hinreißt und
+						unter dem er jetzt vor dem Tonbilde des größten noch zukünftigen
+						Schauspieles steht, dessen Beginn keine Zeitenuhr anzeigt.</p>
+					<p>„<hi rend="widespace">Welch ein Jammern, welch ein Wimmern, welch ein Weinen,
+							wenn der Richter wird erscheinen</hi>,“ fährt der Text fort, aber, wenn
+						es keinen Text mehr gäbe, so versetzte die Klagemelodie uns so lebendig in
+						jene Weltelegie, welche dem biblischen Worte nachfolgen wird. „<hi
+							rend="widespace">Und alle Völker werden wehklagen</hi>.“ Doch was bewegt
+						die Himmel, daß sie sich lösen und erzittern macht die Stimmen der
+						Menschheit? Die Melodie berichtet es und als ob ihre Tonwellen selbst,
+						Wolken gleich, die Last des Weltenrichters trügen, rauschen sie ernst,
+						gewaltig, feierlich heran: <hi rend="antiqua">„Quando judex est
+							venturus“</hi>: „<hi rend="widespace">Wenn der Richter wird
+							erscheinen</hi>.“ Die erregende und gellende Einleitung, die klagende
+						Melodie des Ausrufes: „Welch ein Wimmern“, ist gewichen vor der Majestät des
+						Gesanges, der, wie im <placeName ref="#rom.peterskirche"
+							>Petersdome</placeName> zu <placeName ref="#rom">Rom</placeName> die
+							<placeName ref="#rom.sixtinische-kapelle">Sixtinische
+							Kapelle</placeName> das Nahen des Pontifex, hier das Erscheinen des
+						Weltenrichters ankündet. Er ist erschienen. Die Erde trägt den Menschensohn
+						zum zweiten Male und für einen Moment ist verstummt das Zusammenbrechen der
+						leblosen und das Klagen der belebten Welt. Auch die Musik verstummt. Wie
+						kaum etwas, hat in der ganzen Aufführung mich so sehr jene Partie ergriffen,
+						wo einzig und allein die Posaunentöne, von keinem Wort begleitet, scharf,
+						durchdringend, gellend, gleichsam nach den 4 Winden hin austönten. „<hi
+							rend="widespace">Zum Gerichte</hi>“ — tönten sie — „<hi rend="widespace"
+							>ihr Sterbliche</hi>“. Es war mir, ich schaute die dunkle Umgebung, die
+						bange Ungewißheit der schmachtenden Adamskinder laste auf mir und wie ein an
+						alle Adamiten gerichteter schrecklicher Ruf: „Adam, Sünder wo bist du“,
+						tönte an mein Ohr der Posaunenton. Der Text ward hier von der Musik
+						verschlungen. Ich glaube mit Recht. Der Posaunenton war scharf. Er „zwingt“,
+							<hi rend="antiqua">„coget“</hi> Alle zum Gerichte. Die Musik <hi
+							rend="widespace">zwang</hi> auch, noch nicht zum Gerichte, aber zu
+						seinem Ahnen und Vorempfinden. Aber die Pause der Ruhe hört auf, die
+						Wirkungen der Posaune bringen neues Leben. „<hi rend="widespace">Es <choice>
+								<orig>stauut</orig>
+								<corr resp="tr">staunt</corr>
+							</choice> der Tod und die Natur, wenn aufersteht die Kreatur</hi>“? Gibt
+						es einen gewaltigeren Gedanken? Gibts aber wohl auch in der Auswahl
+						musikalischer Ausführungen des <hi rend="antiqua">„Dies iræ“</hi> ein
+						andere, die so sehr Fleisch ist dieses seelischen Gedankens, als die im <hi
+							rend="antiqua">„<title ref="#verdi.requiem">Requiem</title>“</hi>
+						<persName ref="#verdi.giuseppe">Verdis</persName> ?</p>
+					<p rend="center">(Schluß folgt.)</p>
+				</body>
+			</text>
+			<text n="3">
+				<body rend="fraktur">
+					<cb break="null" n="3b" type="initial"/>
+					<head><g type="SUN" n="2609">☉</g>
+						<rs type="event" ref="#st-gallen.1878"><persName ref="#verdi.giuseppe"
+								>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ in
+								<placeName ref="#st-gallen.kirche-st-laurenzen">St.
+								Laurenzen</placeName> zu <placeName ref="#st-gallen">St.
+								Gallen</placeName>.</rs></head>
+					<p rend="center">(Schluß.)</p>
+					<p>Als in mehrfach repetirten, unterbrochenen Solotönen einer Baßstimme das Wort
+							<hi rend="antiqua">„<title
+								ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors — mors —
+								mors</title>“</hi> erscholl, da war’s mir, ich erblicke den
+						Sensenmann, dessen Stunde gekommen, wie er noch dreimal sich erhebt, sich
+						fortschleppen will, aber sinkt, in die Grube fällt, die er einst den Todten
+						gegraben, selbst stirbt, ausröchelt, schläft. „O Tod, ich bin dein Tod!“ Auf
+						Erden tödtete die Posaune den Tod, aber in der Wolkenhöhe haben sie den Ruf
+						auch verstanden, denn in einem Sopran, dessen Reinheit an himmlische
+						Regionen erinnert, kündet es die andere folgende Solostimme: „<hi
+							rend="widespace"><title ref="#verdi.requiem.2.liber-scriptus">Ein
+								geschriebenes Buch sich zeiget</title></hi>“ an. Die Reinheit der
+						Stimme war die lichte Farbe in der Ausführung dieser Partie, wie die
+						Baßstimme des <hi rend="antiqua">„mors“</hi> das dunkle Colorit des
+						sterbenden Todes war auf diesem musikalischen Gemälde. Die Szenerie ist
+						vollendet; der Richter sitzt <hi rend="antiqua">„<title
+								ref="#verdi.requiem.2.liber-scriptus" n="judex-ergo">judex ergo cum
+								sedebit</title>“</hi> — die Aktion kann beginnen. Was vor Allem —
+						ich darf es nicht verschweigen — die ganze bisherige Durchführung
+						durchzittert, ist der stets wiederholte Ausruf „Tag der Schrecken, Tag des
+						Zornes“. Bald tönt ihn laut die erbebende Natur aus, bald wird er scheinbar
+						erstickt von der Majestät des erscheinenden Richters, aber wie der momentan
+						gehemmte Athem drängt er wiederum hervor. Es ist ja ein zitterndes Gemälde,
+						das sich uns zeigt. An die mehr objektive Schilderung des gewaltigen
+						Ereignisses tritt nun die tiefste subjektive Empfindung jener erschütterten,
+						von Angst und Beklommenheit durchwogten Seele, jenes vom Glühroth der
+						Beschämung und der Blässe seelischer Beklommenheit überzogenen Sünders heran
+						und die Musik, die vielleicht noch gefügiger ist, dem Ausdruck der zartesten
+						Seelenstimmungen zu dienen, als der Wiedergabe großer Ereignisse im
+						objektiven Leben, streitet hier in Harmonisirung des Hymnus den Wettkampf,
+						in welcher Partie ihr der Lorbeer gebühre, ob in der mehr epischen ersten
+						oder der mehr lyrischen zweiten Partie der Musikpoesie desselben. „<hi
+							rend="widespace"><title ref="#verdi.requiem.2.quid-sum-miser">Ach, was
+								werd ich Armer sagen</title></hi>“, tönt es weiter, aber die
+						Empfindung hat das Wort, den Ton gebrochen und ein Wimmern bestätigt, was
+						vorher gesungen worden: „<hi rend="widespace">Tag des Wimmerns, Tag der
+							Klage</hi>.“ So variirend, wechselvoll wird die Klagemelodie, daß man
+						unwillküllich mit dem Hören auch sehen muß, wie der Sünder sich umschaut:
+							„<hi rend="widespace">Wen zur Fürsprach mir ersagen</hi>.“ Aber er
+						findet Keinen. Er wollte den Gerechten angehen, und jetzt erblickt er selbst
+						den Gerechten erschüttert: „<hi rend="widespace">Wenn Gerechte selbst
+							verzagen</hi>.“ Es könnte für einen Augenblick scheinen — sagt der Text
+						— die Wucht des Ereignisses, der vereinten Majestät und des Schreckens, habe
+						das Gemüth erdrückt, das Herz gebrochen und in Verzweiflung ersterbe der
+						hiefür allzuschwache Erdensohn. Auch die Musik schien der Auflösung, dem
+						Ersterben nahe — aber sieh’ — wie nach tief christlichem Erfassen erst ein
+						von Furcht und Reue zerknirschtes Herz die volltönende Harfe ist, worauf
+						alsdann das christliche Vertrauen seine, selbst den Richter besänftigenden
+						Melodien spielt — so verwandelt sich auf einmal die Musik, die Klage wird
+						Flehen, das Bittre löst sich auf in Lieblichkeit, die herabgestimmten, die
+						gebrochenen Akkorde stimmen sich herauf und von der Tiefe zu den Höhen, wie
+						von dem Innersten der <cb break="yes" n="3c" type="regular"/> Menschenseele
+						bis hinauf zum Richter, der ob den Wolken thronet, steigt nun das Flehen und
+						die flehende, vertrauensselige Erinnerung an all’ die Liebesthaten zur
+						Erlösung armer Menschen, die er jetzt nicht nutzlos machen wolle. <hi
+							rend="antiqua">„Tantus labor non sit cassus“</hi> jammert, aber hofft
+						inmitten des Jammers die vertrauende Seele. Immer wieder, wie in der ersten,
+						mehr deskriptiven Partie des Hymnus, auch das lyrische, subjektive Element
+						bisweilen durchdrang, so tritt in dieser zweiten, subjektiven Partie die
+						objektive Majestät der Wahrheit mit ihrer Erhabenheit und ihren Schrecken
+						immer wieder hervor und wie bei einem erneuten Blick auf ein Zaubergemälde
+						heben und schwellen neu an die Wogen des subjektiven Empfindens, wenn die
+						rauschenden Töne den <hi rend="antiqua">„<title
+								ref="#verdi.requiem.2.rex-tremendae">rex tremendæ
+							majestatis</title>“</hi> wiederum verkünden und näher tragen. Daß gegen
+						das Ende der Hymnus <hi rend="antiqua">„<title
+								ref="#verdi.requiem.2.confutatis">Confutatis maledictis, flammis
+								acribus addictis</title>“</hi> furchtbar ernst, gewaltig, aber
+						verhältnißmäßig rasch, ohne Repetitien an uns uns vorüberrauscht, erinnert
+						uns mit Schrecken an jenes Vorüberrauschen der Gottlosen dorthin, wo sie
+						ewig bleiben, jenes endlich geschlichteten unwiederruflichen Schicksals, das
+						zu ändern, zu beklagen oder zu bejammern, keine Zunge mehr versucht — weil
+						dies nutzlos wäre. Noch einmal schwellt das Meer der Empfindung an, und die
+						Hochfluth der Gefühle des Schreckens <hi rend="antiqua">„<title
+								ref="#verdi.requiem.2.lacrymosa">Lacrymosa dies illa</title>“</hi>
+						der Gefühle des Vertrauens <hi rend="antiqua">„Huic ergo parce Deus“</hi>
+						thürmt sich noch einmal. Dann fällt sie. Die Ebbe tritt in diesem
+						innerlichen Meere ein. Die Wellen legen sich — ruhen. <hi rend="antiqua"
+								>„<title ref="#verdi.requiem.2.lacrymosa" n="dona-eis">Dona eis
+								requiem</title>“</hi> „<hi rend="widespace">Gib Ihnen die ewige
+							Ruhe</hi>“ schließt das Meisterwerk.</p>
+					<p>Ich glaube einigermaßen den Empfindungen gerecht geworden zu sein, die das
+						musikalische Meisterwerk auf Seelen üben muß, die zwar schwer, aber endlich
+						doch bewegt werden von der Mache der Töne — wie erst zuletzt, aber endlich
+						doch die Felsen, die Bäume und das Gethier des Waldes dem singenden Orpheus
+						nachhüpften. Ich habe die Kunst der Musik zwar nicht verstanden, aber
+						vielleicht doch empfunden, was empfinden zu lassen der Künstlermeister
+						beabsichtigte, aber eines hab ich in meiner durch die Gewalt der Töne, wie
+						ein Blumenkelch vom Lichte, geöffneten Seele tief empfunden: <hi
+							rend="widespace">Wie göttlich tief und deßhalb göttlich wahr ist wohl
+							ein Dogma, das nicht aufgelöst, wie etwa Goldstoff in der Säure, — das
+							menschliche Denken löst es nie auf, noch durchschaut es dasselbe ganz —
+							das, möcht ich sagen, nur in einem annähernden Empfinden geahnt, nur in
+							einem Goldstäubchen seiner Wahrheit in sterblichem Hauche aufgelöst,
+							solche Zaubermelodien schafft! Und wo wäre die Welt des Erhabenen, in
+							welcher Künste und Wissenschaften allein gedeihen, ohne den kathol.
+							Gedanken der sie schafft</hi>.</p>
+					<p>Wenn aber erst der Meister-Hymnus dieses <hi rend="antiqua">„Dies iræ“</hi>
+						in die Wirklichkeit übersetzt wird und vor der Gegenwart des Weltenrichters
+						die Miriaden seliger Geister in himmlischem Soprane das <hi rend="antiqua"
+								>„<title ref="#verdi.requiem.2.liber-scriptus">Liber scriptus
+								proferetur</title>“</hi> — singen, die in Herzensängsten vergehenden
+						Geschlechter das <hi rend="antiqua">„<title
+								ref="#verdi.requiem.2.quid-sum-miser">quid sum miser tunc
+								dicturus</title>“</hi>
+						<sic>stönen</sic> und die von ferne in den ewigen Pfuhl hinabstürzenden
+						Verlornen das <hi rend="antiqua">„flammis acribus addictus“</hi> heulen,
+						während zum Concerte göttlicher Barmherzigkeit und Gerechtigkeit der
+						Weltbrand leuchtet — dann — den Gedanken hat vielleicht die herrliche
+						Komposition in Manchen wachgerufen — dann erhöre mich, der ich jetzt zu dir
+						flehe</p>
+					<p><l>„<hi rend="antiqua">Gere curam mei finis</hi>,“</l>
+						<l>„Sorge du o Herr für mein endlich Schicksal!“</l></p>
+				</body>
+			</text>
+		</group>
+	</text>
+</TEI>

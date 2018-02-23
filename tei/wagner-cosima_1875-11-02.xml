@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Cosima Wagner, Tagebuch, 2. November 1875</title><author><persName ref="#wagner.cosima"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wagner-cosima_1875-11-02_tagebuecher.xml</p></publicationStmt><sourceDesc><bibl>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-11-02"/>
+			</bibl><bibl>
+				<title>Cosima Wagner: Die Tagebücher. Band I: 1869-1877, editiert und kommentiert von Martin Gregor-Dellin und Dietrich Mack, München und Zürich: Piper, 1996 (2. Auflage), S. 946.</title>
+				<date when-iso="1996-00-00"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/><date when-iso="1875-11-02"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<p><hi rend="italic"><date when-iso="1875-11-02">Dienstag 2ten</date></hi>
+			<gap resp="tr"/>
+			<rs type="event" ref="#wien.1875a.2">Abends das »<title ref="#verdi.requiem">Requiem</title>« von
+					<persName ref="#verdi.giuseppe">Verdi</persName></rs>, worüber nicht zu sprechen
+			entschieden das beste ist. — — — <date when-iso="1875-11-02">Allerseelentag</date> heute,
+			wie vieles ging mir verloren! Ich bringe den Abend mit <persName ref="#sierzputowska.emilie">Emilie</persName> zu, von <persName ref="#muchanoff.maria">Marie</persName> sprechend, des Todes gedenkend.</p>
+	</body></text>
+</TEI>

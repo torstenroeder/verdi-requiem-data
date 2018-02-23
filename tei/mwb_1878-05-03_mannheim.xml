@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 3. Mai 1878</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1878-05-03_mannheim.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#mwb" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1878-05-03"/>
+				<biblScope unit="issue">19</biblScope><biblScope unit="volume">9</biblScope><series>mwb</series>
+				<biblScope unit="page">235</biblScope>
+				<link facs="mwb_1878-05-03_235.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18780503&amp;seite=7"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#mannheim"/><date when-iso="1878-04"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<pb break="null" n="234" type="initial"/>
+		<head rend="larger">Concertumschau.</head>
+		<cb break="null" n="235b" type="skipped"/>
+		<p><hi rend="bold"><placeName ref="#mannheim">Mannheim</placeName>.</hi>
+			<gap resp="tr"/> Am <rs type="event" ref="#mannheim.1878.1"><date when-iso="1878-04-19">19.
+					April</date> Aufführ. v. <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title></rs> durch den Musikverein unt. solist.
+			Mitwirk. v. Frau <persName ref="#possart.anna">Possart</persName> a. <placeName ref="#muenchen">München</placeName>, Frl. <persName ref="#steinbach.emma">Steinbach</persName> a. <placeName ref="#karlsruhe">Carlsruhe</placeName> u. HH. <persName ref="#wolff.josef">Wolff</persName> a.
+				<placeName ref="#speyer">Speyer</placeName> u. <persName ref="#lindeck.wilhelm">Lindeck</persName>.</p>
+	</body></text>
+</TEI>

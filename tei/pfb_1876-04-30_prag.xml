@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader><fileDesc><titleStmt><title>Pilsner Fremdenblatt, 30. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/pfb_1876-04-30_verdis-requiem.xml</p></publicationStmt><sourceDesc><bibl>
+                <orgName ref="#pilsner-fremdenblatt" role="publisher"/>
+                <placeName ref="#pilsen"/>
+                <date when-iso="1876-04-30" when-custom="sun"/>
+                <biblScope unit="issue">Probe-Nummer</biblScope><series>pfb</series>
+                <biblScope unit="page">[7]</biblScope>
+                <link facs="pfb_1876-04-30_7.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=pfb&amp;datum=18760430&amp;seite=7"/>
+            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#prag"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+    <text xml:lang="de"><body rend="antiqua">
+        <pb break="null" n="7" type="initial"/>
+        <head rend="lineale">Lokales und Auswärtiges.</head>
+        <cb break="null" n="7b" type="skipped"/>
+        <p>— <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+                <title ref="#verdi.requiem">Requiem</title></hi>. Die erste Vorstellung von <persName ref="#verdi.giuseppe">Verdi’s</persName>
+            <title ref="#verdi.requiem">Requiem</title> ist auf <date when-iso="1876-05-05">5.</date>, die
+            zweite auf den <date when-iso="1876-05-12">12. Mai l. J.</date> im <placeName ref="#pilsen.stadt-theater">Stadt-Theater</placeName> angesetzt. Zu der ersten
+            Vorstellung sind bereits, mit Ausnahme von ca. 10 nummerirten Sitzen alle Sitzplätze
+            vergriffen. — Die Herren Musikfreunde vom Lande werden darauf aufmerksam gemacht, dass
+            sie ihre eventuellen Vormerkungen für Plätze zur zweiten Aufführung recht bald
+            einsenden, da, wie bereits erwähnt, für die erste Vorstellung alle Plätze vergriffen
+            sind, und die Vormerkungen für die zweite Aufführung einen überraschend großen Massstab
+            nehmen.</p>
+    </body></text>
+</TEI>

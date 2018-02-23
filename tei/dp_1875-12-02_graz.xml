@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Presse, Wien, 2. Dezember 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/dp_1875-12-02_graz.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#die-presse"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-12-02" when-custom="thu"/>
+				<biblScope unit="issue">332</biblScope><biblScope unit="volume">28</biblScope><series>dp</series>
+				<biblScope unit="page">11</biblScope>
+				<link facs="dp_1875-12-02_11.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751202&amp;seite=7"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#graz"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Theater- und Kunstnachrichten.</head>
+		<gap resp="tr"/>
+		<p>— <rs type="event" ref="#graz.1875.3 graz.1875.4">Frau <persName ref="#wilt.marie">Wilt</persName> begibt
+				sich für den <date when-iso="1875-12-07">7.</date> und <date when-iso="1875-12-08">8.
+					December</date> nach <placeName ref="#graz">Graz</placeName>, um dort bei der Aufführung
+				des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
+				<title ref="#verdi.requiem">Requiems</title> mitzuwirken.</rs></p>
+	</body></text>
+</TEI>

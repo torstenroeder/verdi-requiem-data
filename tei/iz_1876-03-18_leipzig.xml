@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Illustrirte Zeitung, Leipzig, 18. März 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/iz_1876-03-18_leipzig.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#illustrirte-zeitung" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-18"/>
+				<biblScope unit="issue">1707</biblScope><series>iz</series>
+				<biblScope unit="page">215</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Theater und Musik.</head>
+		<p><gap resp="tr"/> — <rs type="event" ref="#leipzig.1876.1">Im 19. Gewandhausconcert zu <placeName ref="#leipzig">Leipzig</placeName> wurde <persName ref="#verdi.giuseppe">Verdi’s</persName> schnell berühmt gewordenes <title ref="#verdi.requiem">„Requiem“</title> zu Gehör gebracht, und zwar in vorzüglicher Weise. Die
+				Solopartien waren in den Händen der Damen <persName ref="#peschka-leutner.minna">Peschka-Leutner</persName> und <persName ref="#nanitz.minna">Nanitz</persName>, der
+				Herren <persName ref="#pielke.walter">Pielke</persName> und <persName ref="#koehler.hans">Köhler</persName>.</rs></p>
+	</body></text>
+</TEI>

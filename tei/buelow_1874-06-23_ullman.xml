@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Hans von Bülow, Brief an Bernard Ullman, München, 23. Juni 1874</title><author><persName ref="#buelow.hans-von"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/buelow_1874-06-23_brief-an-ullman.xml</p></publicationStmt><sourceDesc><bibl>
+				<placeName ref="#muenchen"/>
+				<date when-iso="1874-06-23"/>
+			</bibl><bibl>
+				<title>Briefe. Fünfter Band (Briefe und Schriften 6), Marie von Bülow (Hg.), Leipzig: Breitkopf und Härtel, 1904.</title>
+				<biblScope unit="document">111</biblScope>
+				<biblScope unit="page">189</biblScope>
+				<link target="https://archive.org/stream/briefeundschrif01blgoog#page/n242/mode/1up"/>
+				<link target="https://archive.org/stream/briefeundschrif01blgoog#page/n243/mode/1up"/>
+				<link target="https://archive.org/stream/briefeundschrif01blgoog#page/n244/mode/1up"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#muenchen"/><date when-iso="1874-06-23"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="fr"><body rend="antiqua">
+		<p><placeName ref="#muenchen">Munich</placeName>, ce <date when-iso="1874-06-23">23 juin 1874</date></p>
+		<p>Les fameux articles de la <orgName ref="#allgemeine-zeitung">Allgemeine Zeitung</orgName> — je les
+			ai déjà remia à mon ami <persName ref="#spitzweg.eugen">Spitzweg</persName> (bon et honnête
+			garçon) pour Vous être expédiés de suite. Il se distinguent plus par la vérité du fond
+			que par l'élégance de la forme. Je suis encore tout à fait ahuri par leur immense éclat
+			— une fois de plus j’ai eu la naivité de prendre une bombe pour un „Knallbonbon“.
+			Cependant souffrant terriblement des nerfs je repousse par principe toute communication
+			plus o moins flatteuse sur les dégâts que je puisse avoir causés ou à moi-même ou à
+			d’autres.</p>
+		<p>Les meilleurs parmi les Italiens m’applaudissent — à cet égard je pourrai Vous montrer en
+			temps et lieu des documents assez curieux. Mais — basta.</p>
+		<p>Ne vous mêlez pas de critique, cher <persName ref="#ullman.bernard">M. Ullman</persName> — ou,
+			ma foi, je me mêle de prophétie — et je Vous dirai, que malgré toutes apparences — la
+			messe de <persName ref="#verdi.giuseppe">Verdi</persName> — — tuera tout simplement son
+			auteur. <persName ref="#filippi.filippo">Filippo Filippi</persName> de <placeName ref="#mailand">Milan</placeName> a raison de dire que je suis »perdu« en Italie — »perdu« auprès de
+			tutta la perduta gente« — bei den Romanen (du reste les chenapans, tous, ont toujours
+			raison).</p>
+		<p>[Kommentar]: So schreibt Bazzini, 31. Mai, aus Mailand (übersetzt): Sicher ist, daß ich,
+			Sie und viele Andere Unrecht haben; die Messe hat in drei Aufführungen der Scala 42 500
+			Frs. eingetragen; da ist doch klar, daß das Werk für die Nachwelt bestimmt ist! „Das
+			Leben für den Czar“ füllt die Kasse nicht, wenn es auch von Abend zu Abend mehr gefällt,
+			ist folglich eine Schw....... So hat die Impresa also auch richtig für morgen die
+			definitiv letzte Aufführung des Werks angezeigt — —” und weiter, 7. Juni: „Die Zeit wird
+			jedes Ding an seinen Platz stellen, das hoffe ich für unsere Kunst; sie wird diese
+			schwarzen Rauchsäulen condensirter Unwissenheit und dieses Chauvinismus zerstreuen — —
+			noch vor Ankunft Ihres Briefes war ich überzeugt, daß Ihr Vorgehen keine Beleidigung,
+			sondern eine gute That gewesen (die mehr oder weniger schroffe Form ändert nichts an der
+			Sache), und es kommt die Zeit, in welcher Viele, die jetzt am lautesten schreien, Ihnen
+			dankbar sein werden für Ihren Muth.“ Und endlich am 12. August: „Wissen Sie, wer ‚Das
+			Leben für den Czar‘ gekauft hat? Ricordi!!! Und im Herbst wird die Oper an der Scala
+			wieder aufgenommen — — wir hören das herrliche Werk wieder, und da man auch den wahren
+			Bach (nicht den von Gounod's méditation) bei uns zu applaudiren anfängt, so — — il
+			Diavolo non è tanto brutto come lo si dipinge“ (vgl. Bd. V S. 476). Über den materiellen
+			Erfolg der Verdi’schen Messe in Paris berichtet Ullmann an Bülow 25. Juni d. J., daß die
+			7. Aufführung 18 000 Francs eingetragen hätte, „im Sommer“. Man wird im Winter noch
+			sechs volle Häuser bekommen“. -- In demselben Briefe sagt Ullmann: »J'étais étonné de
+			Vos lettres de l'Allgemeine. — Mais elles sont justes, vraies et presque modérées!! Je
+			ne comprends donc pas tout ce bruit, à moins pour me rendre service et de se charger de
+			la réclame américaine.« Und später: »Le Tonnerre Verdi-Bülow gronde encore ici [Paris] à
+			cause d'un mot de la „Freie Presse“ de Vienne, que tous les Allemands partagent Votre
+			opinion mais ne l'ont pas exprimée. — — Et l'aimable correspondent des Signale qui
+			trouve que Vous avez fait de la réclame pour Verdi!«</p>
+	</body></text>
+</TEI>

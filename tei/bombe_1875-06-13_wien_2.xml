@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Bombe, Wien, 13. Juni 1875 [2]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/bombe_1875-06-13_verdi.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#die-bombe" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-13"/>
+					<biblScope unit="issue">23</biblScope><biblScope unit="volume"
+						>5</biblScope><series>bombe</series>
+					<biblScope unit="page">94</biblScope>
+					<link facs="bombe_1875-06-13_94.png"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750613&amp;seite=2"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="14"/>
+			<head rend="antiqua bold larger"><persName ref="#verdi.giuseppe"
+				>Verdi</persName>.</head>
+			<p>Unter den nachgelassenen Ideen <hi rend="widespace"><persName
+						ref="#herbeck.johann-von">Herbeck’s</persName></hi> war die, <rs type="event"
+					ref="#wien.1875"><persName ref="#verdi.giuseppe">Verdi</persName> und seine
+						<title ref="#verdi.requiem">Messe</title> den Wienern vorzuführen</rs>,
+				nicht die schlechteste. Das Verdienst der jetzigen Direction besteht darin, diese
+				Idee zur vollen Ausführung gebracht zu haben, <hi rend="widespace">trotzdem</hi> sie
+				von <persName ref="#herbeck.johann-von">Herbeck</persName> war. Es ist ein rührender
+				Zug von Selbstverläugnung, daß selbst Herr <persName ref="#levi.richard">Richard
+					Lewy</persName>, der heute um <persName ref="#herbeck.johann-von"
+					>Herbeck</persName> mit Vergnügen trauert, für <persName ref="#verdi.giuseppe"
+					>Verdi</persName> schwärmt, während <persName ref="#richter.hans">Hans
+					Richter</persName>, der hiesige <persName ref="#wagner.richard"
+					>Wagner</persName>-Pontifex, im Vereine mit den anderen <persName
+					ref="#wagner.richard">Wagner</persName>-Feren ihre wigalawahagewohnten Ohren
+				zuhalten, damit kein profaner Ton <persName ref="#verdi.giuseppe"
+					>Verdi’scher</persName> Melodie Eingang finde. Hier Verdianer — dort
+				Wagnerianer, Propheten rechts, Propheten links, und das Weltkind <persName
+					ref="#jauner.franz-von">Jauner</persName> in der Mitte. Uebrigens war das zur
+				Generalprobe der <title ref="#verdi.requiem">Messe</title> geladene Publicum in
+				Ersparung des Eintrittsgeldes freigiebig mit Applaus; ob das 7 fl. für den Sitz
+				zahlende Publicum die gleiche Begeisterung entwickeln wird, wollen wir abwarten.</p>
+		</body>
+	</text>
+</TEI>

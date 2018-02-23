@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dresdner Nachrichten, 10. Januar 1876</title>
+				<author><persName ref="#hartmann.ludwig"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/dn_1876-01-10_hoftheater.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#dresdner-nachrichten" role="publisher"/>
+					<placeName ref="#dresden"/>
+					<date when-iso="1876-01-10" when-custom="mon"/>
+					<biblScope unit="issue">10</biblScope><biblScope unit="volume"
+						>21</biblScope><series>dn</series>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#dresden"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Feuilleton.</head>
+			<p><g type="PLUS_SIGN" n="002B">+</g>
+				<rs type="event" ref="#dresden.1876.1"><hi rend="widespace"><placeName
+							ref="#dresden.hoftheater">K. Hoftheater</placeName>, Altstadt.</hi> Das
+					am <date when-iso="1876-01-07">7. Januar</date> zum ersten Male aufgeführte <hi
+						rend="widespace"><title ref="#verdi.requiem">„Requiem“</title></hi> von
+						<persName ref="#verdi.giuseppe">G. Verdi</persName> hatte das Haus bis in
+					den letzten Winkel gefüllt</rs>, und obgleich man Anfangs bestrebt war, dem
+				kirchlichen Charakter der Musik entsprechend <hi rend="widespace">nicht</hi> zu
+				applaudiren, so rissen doch im Verlauf des Abends das <hi rend="antiqua"><title
+						ref="#verdi.requiem.2.rex-tremendae">„rex tremendae“</title></hi>, das <hi
+					rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">„lacrymosa“</title></hi>
+				und das <hi rend="antiqua"><title ref="#verdi.requiem.3" n="hostias"
+					>„hostias“</title></hi> zu lauten Beifallsstürmen hin. Die Schönheiten des
+				Werkes sind mithin auch in <placeName ref="#dresden">Dresden</placeName> vollkommen
+				anerkannt worden und die wenigen bevorstehenden Wiederholungen werden nicht nur neue
+				Zuhörer anziehen, sondern Manche, die ehegestern dieser bestrickend schönen
+				Gesangmusik entzückt gelauscht, werden gern das Werk nochmalig anhören. In der
+				Schönheit der Stimmführung, überhaupt in dem Vorwiegen sinnlich schönen
+				Gesangklanges liegt der Hauptreiz dieses <title ref="#verdi.requiem"
+				>Requiem</title>. Unleugbar sind manche Stücke, und namentlich die dramatischen
+				Momente, äußerlich erfaßt und nicht von der architektonischen Macht, welche deutsche
+				Kirchenmusik auszeichnet. Der Anfang (überhaupt merkwürdig flach prosodirt) bis zum
+					<title ref="#verdi.requiem.1" n="kyrie">Kyrie</title>; dann <title
+					ref="#verdi.requiem.2.dies-irae">„Tag des Schreckens“</title> und <title
+					ref="#verdi.requiem.2.tuba-mirum">„die Posaune himmlisch tönend“</title> lassen
+				sich mit besseren deutschen Messen nicht vergleichen. Trotz der Dutzend Trompeten
+				erschreckt, erschüttert diese Musik nicht. Noch ist das <hi rend="antiqua"><title
+						ref="#verdi.requiem.4">Sanctus</title></hi> keineswegs erhebend componirt.
+				Aber nun alle lyrischen und elegischen Theile der Messe — wie wunderbar
+				melodienreich und tief wirkend trotz aller Einfachheit sind diese <persName
+					ref="#verdi.giuseppe">Verdi</persName> gelungen. Vor allen das <hi
+					rend="antiqua"><title ref="#verdi.requiem.2.liber-scriptus">„liber
+						scriptus“</title></hi> (von Frl. <hi rend="widespace"><persName
+						ref="#nanitz.minna">Nanitz</persName></hi> recht schön gesungen; nur muß das
+				Heraufziehen zur Quinte noch inniger verbunden werden). Die unterbrechende
+				Begleitung bei dem Worte <hi rend="antiqua">„nil“</hi> („Nichts!“) giebt den Inhalt
+				des Textes überaus charakteristisch wieder. Freilich nicht die jämmerlichen Worte
+				der Uebersetzung. <hi rend="antiqua">Nil inultum remanebit</hi> („<hi
+					rend="widespace">Nichts</hi> wird unbestraft bleiben, <hi rend="widespace"
+					>Nichts</hi>“) übersetzt der edle Herr <persName ref="#roeder.martin"
+					>Röder</persName> etwa „alles Irdische enthüllet“. Der erschütternde Sinn des
+					<hi rend="antiqua">„nil“</hi>, wie es <persName ref="#verdi.giuseppe"
+					>Verdi</persName> componirt hat, geht verloren. An dies Tonstück schließen sich
+				mit zauberlich süßer Melodik und schöner Tonempfindung an: das Terzett <hi
+					rend="antiqua"><title ref="#verdi.requiem.2.quid-sum-miser">„Quid sum
+						miser“</title></hi> und das Quartett „rex tremendae“, von den Damen <hi
+					rend="widespace"><persName ref="#schuch-proska.clementine"
+					>Schuch</persName></hi>, <hi rend="widespace"><persName ref="#nanitz.minna"
+						>Nanitz</persName></hi>, Hrn. <hi rend="widespace"><persName
+						ref="#erl.anton">Erl</persName></hi> und Hrn. <hi rend="widespace"><persName
+						ref="#koehler.hans">Köhler</persName></hi> vortrefflich gesungen. Wenig
+				wollte dem (indisponirten) Hrn. <persName ref="#erl.anton">Erl</persName> das
+				Tenorsolo <hi rend="antiqua"><title ref="#verdi.requiem.2.ingemisco"
+						>„Ingemisco“</title></hi> gelingen. Ganz herrlich gelang dagegen eine
+				Hauptnummer, das Quartett <hi rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa"
+						>„lacrymosa“</title></hi>, innerhalb dessen die Gesangseufzer des
+				Mezzosopran (man kann diese gegen die Tactordnung eingeflochtenen Noten kaum anders
+				nennen) ganz die Rührung der Textworte abspiegeln. In diesem Stück und überall
+				vorher, wo es statthaft war, kommt <persName ref="#verdi.giuseppe">Verdi</persName>
+				auf ein Hauptmotiv des <title ref="#verdi.requiem">Requiem</title>, das zuerst im
+					<title ref="#verdi.requiem.1" n="kyrie">Kyrie</title> auftritt, zurück; es ist dies
+				die frei einsetzende kleine None nebst Septime, der sanft klagendste Accord, den die
+				Tonkunst kennt. Harmonisch fein sind auch die Schlußaccorde <hi rend="antiqua"
+						><title ref="#verdi.requiem.2.lacrymosa">„dona eis requiem.
+					Amen“</title></hi> componirt. Im zweiten Theil der Messe ragt das <hi
+					rend="antiqua"><title ref="#verdi.requiem.3" n="domine-jesu">„domine Jesu
+						Christe“</title></hi> hervor, ein Quartett-Satz mit freier Stimmführung, der
+				mit Recht durch stürmischen Beifall seiten des Publikums ausgezeichnet wird. Das <hi
+					rend="antiqua"><title ref="#verdi.requiem.5">„Agnus Dei“</title></hi> hat Frau
+					<persName ref="#schuch-proska.clementine">Schuch</persName>, wie überhaupt die
+				ganze, nur an wenig Stellen punktierte (oder in den Mezzosopran eingetheilte)
+				Sopranpartie außerordentlich gut, auf’s Feinste abschattirt u. correct gesungen. Der
+				üppigen Stimmfülle Hrn. <persName ref="#koehler.hans">Köhlers</persName> bot das <hi
+					rend="antiqua"><title ref="#verdi.requiem.2.confutatis"
+					>„Confutatis“</title></hi> ein prächtiges Terrain, auf welchen sich der Sänger
+				durch Wohllaut und Mäßigung auszeichnete. Im Schlußsatz <hi rend="antiqua"><title
+						ref="#verdi.requiem.7">„libera me“</title></hi> sind die Worte <hi
+					rend="antiqua"><title ref="#verdi.requiem.7" n="requiem-aeternam">„lux
+						perpetua“</title></hi> nach Art der griechischen Ritualien vom gesammten
+				Chor mehr leise gesprochen als gesungen, noch bemerkenswerth. Diesen Schußchor wie
+				die anderen Chöre hat Referent auch bei der <placeName ref="#wien"
+					>Wiener</placeName> Aufführung des Werkes nicht schöner gehört. Dasselbe gilt
+				von der königlichen Kapelle. Und wenn dem begabten jungen Dirigenten die
+				hingebendste und achtunggebietende Mühe, welche er sich um das Zustandekommen des
+				Werkes gegeben hat, unserseits durch ein Bedenken eingeschränkt wird, so verkümmere
+				das seine Freude am Gelingen nicht. Hr. <persName ref="#schuch.ernst"
+					>Schuch</persName> war begreiflich nervös aufgeregt, eilte in fast allen <hi
+					rend="antiqua">crescendi</hi> gar zu sehr und hat besonders darauf zu achten,
+				daß die <title ref="#verdi.requiem.2.quid-sum-miser">Nr. 2d</title>, <title
+					ref="#verdi.requiem.2.rex-tremendae">2e</title>, <title ref="#verdi.requiem.3"
+					>Nr. 3</title> und <title ref="#verdi.requiem.5">Nr. 5</title> in einem
+				langsameren Normaltempo gesungen werden. Der Reiz des Werkes liegt in den
+				Gesammtstimmen, im quellenden, schwellenden Tonelement, <hi rend="widespace"
+					>nicht</hi> (wie bei andern Messen) in <hi rend="widespace">formalen</hi>
+				Schönheiten und um auszuklingen, sich einzusingen in die Herzen der Hörer, bedürfen
+				obige ergreifenden Melodien der Zeit, der Ruhe. Sicher ergiebt sich diese, wenn des
+				Dirigenten Anstrengungen verwunden sind, bei den Wiederholungen. Im <hi
+					rend="widespace">Sinne</hi> hat Herr <persName ref="#schuch.ernst"
+					>Schuch</persName> sicher die von ihm in Wien gehörten <hi rend="widespace"
+						><persName ref="#verdi.giuseppe">Verdi</persName></hi>’schen Tempi gehabt.
+				Seine <hi rend="widespace">Hand</hi> ist aber offenbar mit seinem eigenen (höchst
+				lobenswerthen) Temperament etwas zu lebhaft vorgegangen. Der Verwaltung unseres
+				Hoftheaters kann man die rasche Inangriffnahme dieses Werkes nur Dank wissen. Im
+				Kunstleben ist endlich <placeName ref="#dresden">Dresden</placeName> so weit, daß
+				neue Werke nicht mehr die berühmten <persName ref="#saphir.moritz-gottlieb"
+					>Saphir</persName>’schen 30 Jahre Lagerzeit gebrauchen, ehe sie bis — <placeName
+					ref="#dresden">Dresden</placeName> dringen. Die Aufstellung im Hoftheater, auf
+				der Bühne <hi rend="widespace">rechts</hi> der Chor, <hi rend="widespace">links</hi>
+				das Orchester, ergab eine <hi rend="widespace">sehr</hi> gute Klangwirkung. Das
+				geschickt instrumentirte Orchester deckte <hi rend="widespace">nie</hi> die Stimmen.
+				Für das Auge freilich ist diese Art Gruppirung nicht gerade symmetrisch oder schön
+				zu nennen. Und so taktvoll die gleiche Kleidung des Chores bestimmt war, sollte man
+				vorn statt der fröhlichen grün-weißen Draperien, doch lieber schwarz angebracht
+				haben. Dann paßt <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Todtenmesse</title> vollkommen zu einer Aufführung im
+				Theater. Bereits 20 Minuten <hi rend="widespace">vor</hi> 9 Uhr war das Werk zu
+				Ende.</p>
+			<p rend="right"><hi rend="widespace"><persName ref="#hartmann.ludwig">Ludwig
+						Hartmann</persName></hi>.</p>
+		</body>
+	</text>
+</TEI>

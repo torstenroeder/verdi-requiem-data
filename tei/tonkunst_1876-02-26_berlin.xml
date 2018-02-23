@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 26. Februar 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-02-26_berlin.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tonkunst" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-02-26"/>
+				<biblScope unit="issue">5</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
+				<biblScope unit="page">90</biblScope>
+				<link facs="tonkunst_1876-02-26_90.png"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#berlin"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Miscellen, Notizen etc.</head>
+		<gap resp="tr"/>
+		<p><hi rend="bold">In Sicht.</hi>
+			<gap resp="tr"/>
+			<rs type="event" ref="#berlin.1876"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> durch die <placeName ref="#berlin.hofoper">k.
+					Hofoper</placeName> zu <placeName ref="#berlin">Berlin</placeName>.</rs>
+		</p>
+	</body></text>
+</TEI>

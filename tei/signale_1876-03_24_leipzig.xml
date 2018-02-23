@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Signale, Leipzig, März 1876/24</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/signale_1876-03_24_leipzig.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#signale" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date cert="low" when-iso="1876-03-31" notAfter-iso="1876-03-31"
+						notBefore-iso="1876-03-14"/>
+					<!--BIBLIO Datierung: frühestens ein Tag nach der Aufführung-->
+					<biblScope unit="issue">24</biblScope><biblScope unit="volume">34</biblScope>
+					<biblScope unit="page">372</biblScope>
+					<link
+						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=380"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#leipzig"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="372" type="initial"/>
+			<head rend="antiqua widespace larger">Dur und Moll.</head>
+			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+				<hi rend="widespace"><placeName ref="#leipzig">Leipzig</placeName></hi>. <gap
+					resp="tr"/></p>
+			<p><rs type="event" ref="#leipzig.1876.2"><hi rend="widespace">Eine Wiederholung des
+							<persName ref="#verdi.giuseppe">Verdi’schen</persName>
+						<title ref="#verdi.requiem">Requiems</title></hi> hat, wie wir nachträglich
+					berichten, am <date when-iso="1876-03-13">13. März</date> im Saale des
+						<placeName ref="#leipzig.gewandhaus">Gewandhauses</placeName> stattgefunden
+					und zwar zum Besten des Orchester-Pensionsfonds und des
+					Orchester-Wittwenfonds.</rs> Der <placeName ref="#leipzig.gewandhaus"
+					>Gewandhaussaal</placeName> war merkwürdigerweise nur mäßig gefüllt (trotzdem
+				die Wiederholung auf vielfaches Verlangen erfolgte); aber ganz ersichtlich ist das
+				Werk (welches, wie wir voraussahen, in unserer Localpresse viel Staub aufgewirbelt
+				hat) von dem wenn auch nur kleinen Kreise mit großem Interesse angehört worden, wie
+				wir selbst speciell in unserer bereits ausgesprochenen Meinung<note resp="tr"
+					type="textLink">Vgl. <ref type="text" target="signale_1876-03_20_leipzig.xml"
+						>Signale, Leipzig, März 1876</ref>.</note> von der Bedeutsamkeit desselben
+				uns nur bestärkt gesehen haben. Die Ausführung war im Großen und Ganzen etwas
+				weniger gelungen als das erste Mal, sowie sie auch unter etwas veränderten
+				Besetzungsverhältnissen geschah. Fräulein <persName ref="#nanitz.minna"
+					>Nanitz</persName> nämlich, die Vertreterin der Altpartie, war kurz vor dem
+				Concerttage erkrankt, und da in der Schnelligkeit kein anderer Ersatz zu schaffen
+				war, so unternahm es Frau <hi rend="widespace"><persName
+						ref="#peschka-leutner.minna">Peschka-Leutner</persName></hi> (sie, die
+				Interpretin der „Königin der Nacht“, der „Constanze“ etc.!) die Partie zu singen und
+				entledigte sich ihrer Aufgabe so vortrefflich, wie es ihr nicht leicht eine andere
+				Sopranistin nachmachen wird. Als Remplaçantin wiederum für Frau <persName
+					ref="#peschka-leutner.minna">Peschka-Leutner</persName> hatte die Sopranpartie
+				Frau <hi rend="widespace"><persName ref="#schuch-proska.clementine"
+						>Schuch-Proska</persName></hi> aus <placeName ref="#dresden"
+					>Dresden</placeName> inne, welche aber augenscheinlich mit Indisponirtheit zu
+				kämpfen hatte und namentlich das schöne <hi rend="antiqua"><title
+						ref="#verdi.requiem.5">Agnus Dei</title></hi> durch chronisches Detoniren
+				verdarb.</p>
+		</body>
+	</text>
+</TEI>

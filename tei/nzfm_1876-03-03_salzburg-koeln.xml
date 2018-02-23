@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 3. März 1876 [2]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-03-03_salzburg-und-koeln.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-03"/>
+				<biblScope unit="issue">10</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
+				<biblScope unit="page">105 [9]</biblScope>
+				<link facs="nzfm_1876-03-03_105.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760303&amp;seite=9"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#salzburg"/><placeName ref="#koeln"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="103" type="initial"/>
+		<head rend="larger">Tagesgeschichte.</head>
+		<pb break="null" n="105" type="skipped"/>
+		<head>Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
+		<p><gap resp="tr"/>
+			<rs type="event" ref="#salzburg.1876.1"><persName ref="#verdi.giuseppe">Verdi, G.</persName>, <title ref="#verdi.requiem">Requiem</title>. <placeName ref="#salzburg">Salzburg</placeName>,
+				durch den <orgName ref="#salzburg.dommusikverein">Dommusikverein</orgName>.</rs></p>
+		<p>— desgl. <rs type="event" ref="#koeln.1875.2"><placeName ref="#koeln">Cöln</placeName>, 8.
+				Gürzenichconcert.</rs></p>
+	</body></text>
+</TEI>

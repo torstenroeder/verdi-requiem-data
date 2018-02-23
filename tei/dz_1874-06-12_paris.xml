@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader><fileDesc><titleStmt><title>Deutsche Zeitung, Wien, 12. Juni 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/dz_1874-06-12_paris.xml</p></publicationStmt><sourceDesc><bibl>
+                <orgName ref="#deutsche-zeitung" role="publisher"/>
+                <placeName ref="#wien"/>
+                <date when-iso="1874-06-12"/>
+                <biblScope unit="issue">877</biblScope><biblScope unit="subIssue">877</biblScope><biblScope unit="volume">19</biblScope><series>dz</series>
+                <biblScope unit="page">5</biblScope>
+                <link facs="dz_1874-06-12_5.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=dzg&amp;datum=18740612&amp;seite=5"/>
+            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#paris"/><placeName ref="#mailand"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+    <text xml:lang="de"><body rend="fraktur">
+        <head rend="larger">Theater, Kunst und Literatur.</head>
+        <gap resp="tr"/>
+        <p>— <rs type="event" ref="#paris.1874.1">Maestro <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> führte am <date when-iso="1874-06-09">9. d. M.</date> in <placeName ref="#paris">Paris</placeName> sein „<hi rend="widespace"><title ref="#verdi.requiem">Manzoni-Requiem</title></hi>“ auf</rs>, und zwar mit denselben Solisten, welche dasselbe vor vierzehn Tagen unter seiner eigenen Leitung in <placeName ref="#mailand">Mailand</placeName> gesungen haben. <hi rend="antiqua">Il sindaco di Milano,</hi> der <persName ref="#belinzaghi.giulio" cert="high">Mailänder Oberbürgermeister</persName>, schickte damals dem kurz zuvor eingetroffenen <persName ref="#buelow.hans-von">Hans v. <hi rend="widespace">Bülow</hi></persName> eine Eintrittskarte für diese musikalische Festlichkeit zu. Aber <persName ref="#buelow.hans-von">Bülow</persName> remittirte das Billet mit dem Bemerken, „er sei nach <placeName ref="#mailand">Mailand</placeName> gekommen, um die Oper von <persName ref="#glinka.michael">Glinka</persName>, nicht um das <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName> zu hören“. Diese rasch bekanntgewordene Erklärung rief einen solchen Sturm des Unmuthes hervor, daß Herr <persName ref="#buelow.hans-von">v. Bülow</persName> zu seiner persönlichen Sicherheit die Flucht ergriff. Man muß die wuthschnaubenden Artikel der italienischen Zeitungen selber lesen, um zu der Ueberzeugung zu kommen, daß wahrscheinlich noch niemals einem deutschen Künstler jenseits der Alpen solche Sachen öffentlich gesagt worden sind.</p>
+    </body></text>
+</TEI>

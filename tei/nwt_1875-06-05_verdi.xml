@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neues Wiener Tagblatt, 5. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nwt_1875-06-05_verdi.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neues-wiener-tagblatt" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-05" when-custom="sat"/>
+					<biblScope unit="issue">154</biblScope><series>nwt</series>
+					<biblScope unit="page">5</biblScope>
+					<link
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750605&amp;seite=5"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="5a" type="initial"/>
+			<head rend="larger">Theater und Kunst.</head>
+			<gap resp="tr"/>
+			<p><g type="ASTERISK" n="002A">*</g>
+				<persName ref="#verdi.giuseppe">Verdi</persName> ist, wie mir bereits gemeldet, in
+				Wien angekommen und die <rs type="event" ref="#wien.1875">Aufführungen der <title
+						ref="#verdi.requiem">Manzoni-Messe</title></rs> und der „<title
+					ref="#verdi.aida">Aida</title>“ unter des Komponisten persönlicher Leitung
+				stehen vor der Thüre. Auch die gelben Plakate sind bereits erschienen, die sich mit
+				den Preisen zu den Messeabenden beschäftigten; aber sagen wir es ganz offen, diese
+				Tarifplakate haben auch jenen kleinen Rest des städtischen Publikums, der noch die
+				Mittel und den Muth hat, sich für künstlerische Gourmandise zu interessiren, einen
+				befremdenden, ja verblüffenden Eindruck hervorgebracht. Auf eine solche
+				Ueberraschung war man nicht gefaßt, auf eine Maßregel, die gerade im diametralen
+				Gegensatz zu der ganzen öffentlichen Strömung steht und zu den chronischen
+				Defizitverhältnissen fast jedes Einzelnen. Es gibt zwar ein Raisonnement, das da
+				behauptet, auch ein Hofinstitut müsse von daher das Geld holen, wo es sich gerade
+				findet, auch ein artistisches Hofinstitut dürfe die Spekulation nicht verachten,
+				wenn nur diese Spekulation Aussichten auf starke Erträgnisse eröffne, und so viel
+				sich solchen Raisonnements gegenüber einwenden läßt, man ist angesichts der
+				Lombardeinlage unseres Opernhauses zu jedem Kompromiß geneigt und opfert die Würde
+				dem — Koupon. Anders aber stellt sich die Frage, ob es denn klug und fachmännisch
+				war, in einer Zeit die Preise unserer Opernlogen und Opernsitze bis hinauf in die
+				letzten Regionen um 30, 40, 50 und 100 Perzent zu erhöhen, die nur blutwenig Geld zu
+				auserlesenen Genüssen hat und in welcher wir wohl Fremde erwarten, aber keine sehen.
+				Wir rechnen der Direktion des Opernhauses nicht nach und glauben gerne, daß ihr das
+				Verdi-Experiment mannigfache und hohe Kosten verursacht, selbst wenn man die Spesen
+				für die Mitwirkung des <orgName ref="#wien.akademischer-gesangverein">akademischen
+					Gesangvereins</orgName>, die mit Stücken <hi rend="antiqua">in natura</hi>, d.
+				h. mit Sitzen zu den Opernvorstellungen befriedigt wird, gar nicht in Rechnung
+				zieht, aber wenn eben die zwei Abende der <title ref="#verdi.requiem">Messe</title>
+				und die zwei der „<title ref="#verdi.aida">Aida</title>“ nur vom Gesichtspunkte der
+				Spekulation aus in Szene gesetzt wurden, so hat man wohl auch gewiß das mögliche
+				Risiko in den Voranschlag aufgenommen. Es ist nämlich noch gar nicht ausgemacht, ob
+				das Wiener Publikum auf den Messetarif unserer Opernverwaltung eingehe, ja nach den
+				bisherigen Resultaten der Vormerkungen — und große Theaterereignisse pflegen in der
+				Regel ihr Vormerkungen vorauszuwerfen — scheint die Fluth der Billetbewerber nicht
+				gewaltig genug hereinbrechen zu wollen, um auch noch für die Agiotage<note resp="tr"
+					type="glossaryLink">Agiotage: Spekulationsgeschäft an der Börse, auch bezogen
+					auf Eintrittskarten, vgl. <ref type="text"
+						target="https://www.duden.de/node/687618/revisions/1077804/view">Duden
+						online</ref></note> genug Wasser zum Schwimmen und Fischen zu haben. . . .
+				.</p>
+		</body>
+	</text>
+</TEI>

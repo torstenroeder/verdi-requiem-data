@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 9. November 1877</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1877-11-09_frankfurt-am-main.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1877-11-09"/>
+				<biblScope unit="issue">46</biblScope><biblScope unit="volume">73</biblScope><series>nzfm</series>
+				<biblScope unit="page">490 [6]</biblScope>
+				<link facs="nzfm_1877-11-09_490.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18771109&amp;seite=6"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#frankfurt-am-main"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="490" type="initial"/>
+		<head rend="larger">Tagesgeschichte.</head>
+		<head>Aufführungen.</head>
+		<cb break="null" n="490b" type="skipped"/>
+		<p><rs type="event" ref="#frankfurt-am-main.1877.1"><hi rend="widespace"><placeName ref="#frankfurt-am-main">Frankfurt a/M.</placeName></hi>
+				<gap resp="tr"/> Am <date when-iso="1876-10-26">26. October</date> zweites
+				Museumsconcert mit den Damen <persName ref="#lehmann.lilli">Lilli Lehmann</persName>, und
+					<persName ref="#assmann.adele">Adele Aßmann</persName> aus <placeName ref="#berlin">Berlin</placeName>, den HH. <persName ref="#wolff.josef">Josef Wolff</persName> aus
+					<placeName ref="#darmstadt">Darmstadt</placeName> und <hi rend="antiqua">Dr.</hi>
+				<persName ref="#krauss.emil">Emil Krauß</persName> aus <placeName ref="#wien">Wien</placeName>
+				sowie dem <orgName ref="#frankfurt.caecilienverein">Cäcilienverein</orgName>: <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> und <persName ref="#schumann.robert">Schumann’s</persName>
+				<title ref="#schumann.symphonie-4">Dmollsymphonie</title>.</rs> —</p>
+	</body></text>
+</TEI>

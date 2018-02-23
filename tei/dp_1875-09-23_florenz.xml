@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Presse, Wien, 23. September 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/dp_1875-09-23_theater-und-kunstnachrichten.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#die-presse"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-09-23" when-custom="thu"/>
+					<biblScope unit="issue">264</biblScope><biblScope unit="volume"
+						>28</biblScope><series>dp</series>
+					<biblScope unit="page">10</biblScope>
+					<link facs="dp_1875-09-23_10.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18750923&amp;seite=10"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#florenz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Kurzbericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Theater- und Kunstnachrichten.</head>
+			<p>— <rs type="event" ref="#florenz.1875.1"><persName ref="#verdi.giuseppe"><hi
+							rend="widespace">Verdi</hi>’s</persName>
+					<hi rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi> wurde nun
+					am <date when-iso="1875-09-19">19. d.</date> auch in <placeName ref="#florenz"
+						>Florenz</placeName> aufgeführt</rs> und fand, wie überall, auch dort
+				enthusiastische Aufnahme. Das „<hi rend="antiqua"><title
+						ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>“, „<title
+					ref="#verdi.requiem.4">Sanctus</title>“ und „<title ref="#verdi.requiem.5"
+					>Agnus</title>“<!--TEXT sic: Sanctus/Agnus nicht in Antiqua--> mußten wiederholt
+				werden. Die Solisten waren dieselben wie in <placeName ref="#wien">Wien</placeName>,
+				die Damen <persName ref="#stolz.teresa">Stol<surplus resp="tr"
+					>t</surplus>z</persName>, <persName ref="#waldmann.maria">Waldmann</persName>
+				und die Herren <persName ref="#medini.paolo">Medini</persName> und <persName
+					ref="#masini.angelo">Masini</persName>. <rs type="event" ref="#florenz.1875">Am
+						<date when-iso="1875-09-20">20.</date> fand eine zweite Aufführung statt,
+					der am <date when-iso="1875-09-22">22.</date> und <date when-iso="1875-09-24"
+						>24.</date> eine dritte und vierte folgen sollte.</rs></p>
+		</body>
+	</text>
+</TEI>

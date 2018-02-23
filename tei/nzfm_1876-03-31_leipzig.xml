@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 31. März 1876</title><author><persName ref="#akronym.b"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-03-31_leipzig.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-31"/>
+				<biblScope unit="issue">14</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
+				<biblScope unit="page">143 [3]</biblScope>
+				<link facs="nzfm_1876-03-31_143.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760331&amp;seite=3"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="143" type="initial"/>
+		<head rend="larger">Correspondenzen.</head>
+		<p rend="bold right"><placeName ref="#leipzig">Leipzig</placeName>.</p>
+		<p><rs type="event" ref="#leipzig.1876"><placeName ref="#leipzig">Leipzig</placeName> ist beruhigt, es hat
+				nämlich nun ebenfalls seine Aufführung von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
+				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> gehabt, und zwar
+				sogar eine <hi rend="widespace">doppelte</hi></rs>, von denen die zweite
+			erschreckend schwach besucht gewesen und sich auch dadurch von der ersten unterschieden
+			haben soll, daß Frau <persName ref="#peschka-leutner.minna">Peschka-Leutner</persName>,
+			welche statt Frl. <persName ref="#nanitz.minna">Nanitz</persName> die Altpartie aushülfsweise
+			übernehmen mußte, da so schnell in ganz <placeName ref="#leipzig">Leipzig</placeName> keine
+			einzige genügende Mezzosopranistin zu erlangen war, das unerhörte Unglück widerfuhr,
+			umzuwerfen. Wie sind keineswegs etwa geneigt, schroff abzusprechen über <persName ref="#verdi.giuseppe">Verdi’s</persName> Streben oder über die Berücksichtigung einer
+			so ungewöhnlichen Erscheinung durch unsere deutschen Concertinstitute. Im Gegentheil
+			dürften gewiß alle diejenigen derselben, welche bereits alle hervorragenden
+			Erscheinungen der Gegenwart, also die eines <persName ref="#liszt.franz">Liszt</persName>,
+				<persName ref="#berlioz.hector">Berlioz</persName>, <persName ref="#rubinstein.anton">Rubinstein</persName>, <persName ref="#brahms.johannes">Brahms</persName>, <persName ref="#volkmann.robert">Volkmann</persName> etc. hinreichend unbefangen, pietätvoll und
+			vollständig gebracht haben, auch einer Erscheinung wie jenem <hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> einmal ihre Betrachtung schenken, aber
+			auch nur solche. Allen dagegen, die sich dessen noch nicht rühmen können, dürfte sich
+			wohl einige Beherzigung unserer, S. 115 der Wiesbadener Notiz<note resp="tr" type="textLink">Vgl. <ref type="text" target="nzfm_1876-03-10_wiesbaden.xml">NZfM, 10. März
+					1876</ref>.</note> hinzugefügten Fragen empfehlen zu lassen. An dieser Stelle,
+			wie S. 7 von <placeName ref="#koeln">Cöln</placeName><note resp="tr" type="textLink">Vgl. <persName ref="#klauwell.otto-adolf">Otto Adolf Klauwell</persName>, <ref type="text" target="nzfm_1876-01-01_guerzenichkonzert.xml">NZfM, Leipzig, 1. Januar
+					1876</ref>.</note>, S. 67 von <placeName ref="#dresden">Dresden</placeName><note resp="tr" type="textLink">Vgl. <persName ref="#gleich.ferdinand">Ferdinand
+					Gleich</persName>, <ref type="text" target="nzfm_1876-02-11_dresden.xml">NZfM, Leipzig, 11.
+					Februar 1876</ref>.</note> und S. 123 von <placeName ref="#prag">Prag</placeName><note resp="tr" type="textLink">Vgl. <ref type="text" target="nzfm_1876-03-17_verdi.xml">NZfM, Leipzig,
+					17. März 1876</ref>.</note> aus haben sich verschiedene Ber. in d. Bl. bereits
+			eingehender über das Werk ausgesprochen, wir dürfen uns daher billigerweise kürzer
+			fassen, und zwar um so mehr, als die dem Werke von auswärts zuerkannte Bedeutung
+			entschieden an Ueberschwenglichkeiten leidet; es macht den Eindruck, als ob <hi rend="widespace">manche Kritiker</hi> gegenüber <persName ref="#verdi.giuseppe">Verdi</persName>
+			<hi rend="widespace">den Kopf verloren</hi> hätten. Geschah früher dem Operncomponisten
+				<persName ref="#verdi.giuseppe">Verdi</persName> von ihren Seiten insofern Unrecht, als
+			man ihm mit einem zu schwerfälligen Maßstabe an den Leib ging und so begreiflicherweise
+			sein Wirken unterschätzte, so verfällt man jetzt mehrfach in den anderen Fehler und
+			überschätzt den <hi rend="antiqua">Requiem</hi>componisten, geblendet von einer Anzahl
+			in der That außerordentlicher Einzelschönheiten, die kein Unbefangener hinwegleugnen
+			wird. <persName ref="#verdi.giuseppe">Verdi</persName> ist im Vergleich zu seinen Vorgängern
+			ein eminenter Meister des Colorits, u. U. ist die äußerliche kirchliche Färbung, der
+			Weihrauchduft der katholischen Kirche, ausgezeichnet getroffen. Besondere Begabung aber
+			verräth <persName ref="#verdi.giuseppe">V.</persName> für Schilderung mächtiger
+			Naturereignisse. Die hier angewandten Züge und Farben sind, wenn auch allerdings sehr
+			realistisch, jedenfalls ungemein drastisch und packend. Entzückt von der vocalen wie
+			instrumentalen Tonpracht, die hervorzurufen allerdings nur einem so intelligenten Kopfe
+			möglich, vergißt man meist viel zu leicht die Voraussetzungen, die zu einem Meisterwerke
+			von dauerndem Werthe gehören; man vergißt ohne Weiteres, daß die Hauptbedingung eines
+			solchen in der <hi rend="widespace">Styleinheit</hi> beruht. Wie es mit diesem
+			Erforderniß in <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> bestellt ist, das wird
+			selbst dem Laien beim Anhören kein Geheimnis geblieben sein. Gewiß hat <persName ref="#verdi.giuseppe">Verdi</persName> mit vollstem Ernst, mit sichtlicher
+			Selbstbeherrschung, mit Darangabe redlichsten Bemühens, seiner Opernnatur möglichst sich
+			zu entäußern, eine würdige Haltung zu gewinnen sich angelegen sein lassen, aber die
+			Opernnatur ist denn doch zu mächtig in <persName ref="#verdi.giuseppe">Verdi</persName>, und
+			das erscheint als einer der glänzendsten Beweise seiner dramatischen Eigenart, daß sie
+			bei ihm nicht öfterer als nöthig durchbricht und am unrechten Ort sich einstellt, und so
+			den gewollten Eindruck sich selbst zerstört. Bei <persName ref="#verdi.giuseppe">Verdi</persName> kann diese Wahrnehmung keineswegs überraschen; gelang es einem so
+			strengen serieusen Geiste wie <persName ref="#cherubini.luigi">Cherubini</persName> nicht, in
+			seinen kirchlichen Werken gänzlich dem Waffenträgerruhm zu entsagen, um wie viel weniger
+			dem leicht erregbaren keck-sinnlichen <persName ref="#verdi.giuseppe">Verdi</persName>! Das
+			Verschmelzen, oder richtiger das zufällige Nebeneinanderstellen zwei grundverschiedener
+			musikalischer Style schneidet dem Requiem die Wahrscheinlichkeit einer dauernden
+			Bedeutung ab; denn nur Werke von eiserner Einheitlichkeit wissen und wußten der
+			Tageswoge zu trotzen. Trotz alledem bleibt das <hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi>, mag immer sein Glanz nur ephemer sich
+			erweisen, ein Ehrenmal <persName ref="#verdi.giuseppe">Verdi’s</persName>, ungleich
+			gewichtiger als z. B. das seiner Zeit gleichfalls über Gebühr in den Himmel erhobene <hi rend="antiqua"><title ref="#rossini.stabat-mater">Stabat mater</title></hi> von <persName ref="#rossini.gioachino">Rossini</persName>; schon der Gedanke, dem großgeistigen
+			Landsmanne <hi rend="widespace"><persName ref="#manzoni.alessandro">Manzoni</persName></hi>
+			ein musikalisches Erinnerungsopfer darzubringen,*) gereicht dem Componisten zur Ehre,
+			und diese Gesinnung erhöht den Werth des Werkes, wenngleich sie allein nicht ausreicht,
+			ein epochemachendes Meisterwerk zu gestalten. Als bisher fast nirgends gerügte Schwäche
+			des Werkes fällt dagegen ferner auf der Mangel fast jeder stetigeren Cantilene,
+			ruhigerer, gesättigterer melodiöser Gedankenentfaltung. Besäße dieses <hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> nur eine jener üppigen naiv
+			oberflächlichen Melodien aus <persName ref="#rossini.gioachino">Rossini’s</persName>
+			<hi rend="antiqua"><title ref="#rossini.stabat-mater">Stabat mater</title></hi>, letztere
+			würde in ihrer nationalen Unverfälschtheit bereits eine wahrhaft wohlthuende Oase
+			zwischen all der fieberhaften Unruhe und verzehrenden Leidenschaft bilden, welche nicht
+			genug Effecte auf Effecte häufen kann. Eher läßt sich bei dem Comp. des <title ref="#verdi.il-trovatore">„Troubadour“</title> etc. übersehen, daß er mit seinen
+			beiden zum Theil doppelchörigen Fugenanläufen möglichst schnell fertig zu werden sucht.
+			— Die erste Ausführung ließ an Exactheit und Sauberkeit weder im vocalen noch
+			instrumentalen Theile etwas zu wünschen und verlief über Erwarten glücklich, das Werk
+			war mit einer Sorgfalt und Hingebung vorbereitet worden, um die es manche deutsche
+			Novität beneiden mußte. Als Solisten beteiligten sich von hier Frau <hi rend="widespace"><persName ref="#peschka-leutner.minna">Peschka-Leutner</persName></hi> und Hr. <hi rend="widespace"><persName ref="#pielke.walter">Pielke</persName></hi>, und von der
+			Dresdner Hofoper Hr. <hi rend="widespace"><persName ref="#koehler.hans">Köhler</persName></hi> und Frl. <hi rend="widespace"><persName ref="#nanitz.minna">Nanitz</persName></hi>, eine mit ihrem sonoren Alt und erwärmenden Vortrage
+			höchst sympathisch berührende Sängerin.</p>
+		<p rend="right">— <persName ref="#akronym.b">B.</persName></p>
+		<p rend="smaller">*) Das Gewandhausprogramm schwieg hierüber vollständig, sodaß von dem an
+			diesen eigentlichen Beweggrund des Entstehens sich knüpfenden Interesse des Hörers
+			leider keine Rede sein konnte.</p>
+	</body></text>
+</TEI>

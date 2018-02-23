@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 1. Januar 1876 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-01-01_koeln.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tonkunst" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-01-01"/>
+				<biblScope unit="issue">1</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
+				<biblScope unit="page">17</biblScope>
+				<link facs="tonkunst_1876-01-01_17.png"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#koeln"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<p><hi rend="bold">Concerte.</hi>
+			<gap resp="tr"/></p>
+		<p><rs type="event" ref="#koeln.1875.1"><placeName ref="#koeln">Cöln</placeName>. <gap resp="tr"/>
+				<placeName ref="#koeln.guerzenich">Gürzenich</placeName>: <persName ref="#hiller.ferdinand">Hiller</persName>, <persName ref="#svendsen.johan">Svendson</persName>, <title ref="#svendsen.sigurd-slembe">Einltg. zu Sigurd Slembe</title> v. <persName ref="#bjoernson.bjoernstjerne">Björnstjerne Björnson</persName>; <persName ref="#verdi.giuseppe">Verdi</persName>: <title ref="#verdi.requiem">Requiem</title>.</rs>
+			<gap resp="tr"/></p>
+	</body></text>
+</TEI>

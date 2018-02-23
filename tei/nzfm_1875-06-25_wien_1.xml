@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 25. Juni 1875 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1875-06-25_wien.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1875-06-25"/>
+				<biblScope unit="issue">26</biblScope><biblScope unit="volume">71</biblScope><series>nzfm</series>
+				<biblScope unit="page">264 [8]–265 [9]</biblScope>
+				<link facs="nzfm_1875-06-25_264.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18750625&amp;seite=8"/>
+				<link facs="nzfm_1875-06-25_265.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18750625&amp;seite=9"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="264" type="initial"/>
+		<head rend="larger">Tagesgeschichte.</head>
+		<head>Aufführungen.</head>
+		<cb break="null" n="264b" type="skipped"/>
+		<p><rs type="event" ref="#wien.1875.1 wien.1875.2"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>. Am <date when-iso="1875-06-11">11.</date> und <date when-iso="1875-06-12">12.</date> Aufführungen von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
+				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> unter Leitung des
+				Componisten im <placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> bei
+				überfüllten Häusern mit ächt Wienerischem Enthusiasmus</rs>. Im musikalischen
+			Werthe möchten wir das <hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi>
+			seiner <hi rend="antiqua"><title ref="#verdi.aida">Aida</title></hi> gleichstellen. Das
+			Werk entbehrt allerdings der kirchlichen Weihe und Einfachheit, doch ist es in großem
+			Style angelegt und mit <persName ref="#verdi.giuseppe">Verdi’s</persName> Reichthum an
+			Melodien und packenden Effekten durchgeführt. Von großer Wirkung <pb break="yes" n="265" type="regular"/>ist das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus
+					Dei</title></hi>. Sopran und Alt führen rein vocal in der Oktave einen ganzen
+			musikalischen Gedanken durch, welchen der Chor ebenfalls vocal <hi rend="antiqua">piano</hi> wiederholt, schließlich fällt das Orchester ein, wo dann in mächtigem
+				<hi rend="antiqua">Tutti</hi> der erste Gedanke durchgeführt wird. Wirkliche Achtung
+			verdient eine große Fuge im <hi rend="antiqua"><title ref="#verdi.requiem.7">Libera</title></hi> für Sopran mit Chor. Das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus</title></hi>, <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi> und <hi rend="antiqua"><title ref="#verdi.requiem.3">Offertorium</title></hi> werden von den Wienern stürmisch
+			zur Wiederholung verlangt. Was die Ausführung anbelangt, so wissen wir wahrlich nicht,
+			wem die Palme zuerst gereicht werden soll. Sind wir von dem Orchester unserer
+			Philharmoniker an das vollendetste gewöhnt, so hat uns der Chor unserer Hofoper durch
+			Feuer, Feinheit und Piano’s überrascht und noch nie hat sich dieser Körper in solcher
+			Vollendung bewährt als unter <persName ref="#verdi.giuseppe">Verdi’s</persName> Direktion.
+			Das Soloquartett bestand aus Gästen: Frl. <persName ref="#stolz.teresa" role="soloist.soprano">Stolz</persName>, Frl. <persName ref="#waldmann.maria" role="soloist.mezzo">Waldmann</persName>, den HH. <persName ref="#maini.armando" role="soloist.tenor">Ma<surplus resp="tr">ss</surplus>ini</persName> und <persName ref="#medini.paolo" role="soloist.basso">Medini</persName>, italienischen Sängern. auch
+			hier fühlte man bei diesem trefflichen Ensemble <persName ref="#verdi.giuseppe">Verdi’s</persName> ausgezeichnetes Studium. Allerdings bestand dieses Quartett aus
+			Sängern, von denen jeder Einzelne ein Künstler von Bedeutung ist. Frl. <hi rend="widespace"><persName ref="#stolz.teresa" role="soloist.soprano">Stolz</persName></hi> ist im Besitz einer herrlichen Sopranstimme mit einem edlen
+			Brustregister, um welches sie manche Altistin beneiden könnte. Ihre Schule ist tadellos,
+			ihre Manier zu singen von besonderer Schönheit, ihre Auffassung feurig, dramatisch,
+			umweht von einem seltenen Hauch der Poesie, und sehen wir mit großem Interesse ihrer <hi rend="antiqua">Aida</hi> entgegen. Frl. <hi rend="widespace"><persName ref="#waldmann.maria" role="soloist.mezzo">Waldmann</persName></hi> hat ebenfalls
+			eine schöne große Altstimme von großem Umfange, über der Mittellage liegt jedoch ein
+			kleiner Schleier, welchen wohl ein guter Unterricht in der Tonbildung hätte heben
+			können. Sie ist eine echte Künstlernatur. Gleich Frl. <persName ref="#stolz.teresa">Stolz</persName> versteht sie zu singen und entzückt durch ihre vielseitigen schönen
+			Anlagen. Die beiden Herren sind den Damen vollständig ebenbürtig. Das Arrangement war
+			neu und günstig gewählt, die Aufstellung der Musiker in getheilten Gruppen. Die
+			Toiletten der Damen machten durch die Wahl von weißen Kleidern mit schwarzen Schleiern
+			einen zwar etwas theatralischen aber doch günstigen Eindruck. Wie verlautet, soll das
+			Werk außerdem noch zwei Aufführungen erleben! — <gap resp="tr"/></p>
+	</body></text>
+</TEI>

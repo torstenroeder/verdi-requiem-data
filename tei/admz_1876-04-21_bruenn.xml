@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AdMz, Leipzig, 21. April 1876</title>
+				<author><persName ref="#goldhann.ludwig"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/admz_1876-04-21_bruenn.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#admz" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-04-21"/>
+					<biblScope unit="issue">16</biblScope><biblScope unit="volume">3</biblScope>
+					<biblScope unit="page">127</biblScope>
+					<link facs="admz_1876-04-21_127.png"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="127b" type="initial"/>
+			<head rend="widespace larger">Correspondenzen.</head>
+			<p><hi rend="bold"><placeName ref="#bruenn">Brünn</placeName>.</hi> Das Musikleben
+				unserer Stadt bot im abgelaufenen ersten Viertel des Jahres so wenig hervorstehende
+				Momente, daß die Aufgabe des Berichterstatters eine sehr leichte wird. Der schwere
+				Druck der Zeit, welcher sich in der <placeName ref="#bruenn"><emph rend="widespace"
+						>Fabrikstadt</emph> Brünn</placeName> nur fast vernichtender Wirkung geltend
+				macht, läßt im Publikum keine Freude an künstlerischen Produktionen aufkommen, und
+				hält auch alle auswärtigen musikalischen Notabilitäten von einem so wenig
+				genußverheißenden Besuche unserer Stadt ab. Genußvoll gestaltete sich <rs
+					type="event" ref="#bruenn.1876">die (wiederholte) Aufführung von <hi
+						rend="widespace"><persName ref="#verdi.giuseppe" role="composer"
+							>Verdi’s</persName>
+						<title ref="#verdi.requiem">Requiem</title></hi>, unter Mitwirkung der <hi
+						rend="widespace">köngl. Kammersängerin Frl. <persName
+							ref="#gompertz-bettelheim.karoline-von"><choice>
+								<orig>Gompery-Bettelprinz</orig>
+								<corr resp="tr">Gompertz-Bettelheim</corr>
+							</choice></persName></hi></rs>, in einem musikalischen Feste, das durch
+				eine daran sich knüpfende Polemik über Werth oder Unwerth des Werkes, noch durch
+				lange Zeit nachwirkte. Im Allgemeinen mußte man zugestehen, daß hier ein meist
+				religiöser Gedanke, in so würdiger Form ausgesprochen sei, als dies eben einem
+				verdienstvollen Komponisten <placeName ref="#italien">Italiens</placeName> möglich
+				ist. <gap resp="tr"/></p>
+			<p rend="right"><hi rend="antiqua">Dr.</hi>
+				<persName ref="#goldhann.ludwig" role="author">L. G.</persName></p>
+		</body>
+	</text>
+</TEI>

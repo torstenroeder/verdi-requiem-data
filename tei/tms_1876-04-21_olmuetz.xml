@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 21. April 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1876-04-21_olmuetz.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1876-04-21" when-custom="fri"/>
+					<biblScope unit="issue">92</biblScope><biblScope unit="volume"
+						>26</biblScope><series>tms</series>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#olmuetz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Ankündigung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="3"/>
+			<head rend="larger">Brünner Chronik.</head>
+			<cb break="null" n="3b" type="skipped"/>
+			<p>(<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title></hi>.) <rs type="event"
+					ref="#olmuetz.1876">In <placeName ref="#olmuetz">Olmütz</placeName> wird
+					bekanntlich <persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> zur Aufführung vorbereitet.</rs> Wie
+				die „<orgName ref="#neue-zeit">Neue Zeit</orgName>“ meldet, hat Frau <hi
+					rend="widespace"><persName ref="#gompertz-bettelheim.karoline-von"
+						>Gomperz-Bettelheim</persName></hi> die Absicht, zu der Aufführung dieses
+				Tonwerkes nach <placeName ref="#olmuetz">Olmütz</placeName> zu kommen.</p>
+		</body>
+	</text>
+</TEI>

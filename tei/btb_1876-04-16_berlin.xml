@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Berliner Tageblatt, 16./19./27. April 1876</title>
+				<author><persName ref="#truhn.hieronymus"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/btb_1876-04-16_berlin.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#berliner-tageblatt" role="publisher"/>
+					<placeName ref="#berlin"/>
+					<date when-iso="1876-04-16" when-custom="sun"/>
+					<biblScope unit="issue">90</biblScope><series>bert</series>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+				<bibl>
+					<orgName ref="#berliner-tageblatt" role="publisher"/>
+					<placeName ref="#berlin"/>
+					<date when-iso="1876-04-19" when-custom="wed"/>
+					<biblScope unit="issue">91</biblScope><series>bert</series>
+					<biblScope unit="page">2–3</biblScope>
+				</bibl>
+				<bibl>
+					<orgName ref="#berliner-tageblatt" role="publisher"/>
+					<placeName ref="#berlin"/>
+					<date when-iso="1876-04-27" when-custom="thu"/>
+					<biblScope unit="issue">98</biblScope><series>bert</series>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#berlin"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<group>
+			<text n="1">
+				<body rend="fraktur">
+					<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName> „<title
+							ref="#verdi.requiem">Requiem</title>“.</head>
+					<p><rs type="event" ref="#berlin.1876.1 mailand.1874.1">Am Sonnabend vor Ostern
+							wurde <persName ref="#verdi.giuseppe">Joseph Verdi’s</persName>, den
+							Manen des <persName ref="#manzoni.alessandro">Alessandro
+								Manzoni</persName> gewidmetes <title ref="#verdi.requiem"
+								>Requiem</title>, das am ersten Jahrestage seines, des großen
+							Dichters, Todes, den <date when-iso="1874-05-22">22. Mai 1874</date>,
+							zum ersten Mal in <placeName ref="#mailand">Mailand</placeName> zur
+							Aufführung gelangte, auch hier bei uns zum ersten Male zu Gehör
+							gebracht.</rs></p>
+					<p><persName ref="#verdi.giuseppe">Verdi</persName>, zur Zeit nicht nur der
+						gefeiertste Operncomponist Italiens, sondern der mächtigste Beherrscher der
+						lyrischen Scene in allen Kulturländern der Erde, begann seine Laufbahn etwa
+						im Jahre <date when-iso="1839">1839</date> mit einer Oper, „<title
+							ref="#verdi.oberto">Oberto, Graf von St. Bonifazio</title>“, welche, im
+							<placeName ref="#mailand.teatro-alla-scala"><sic>teatro alla
+							scala</sic></placeName> aufgeführt, nur einen zweifelhaften Erfolg
+						errang, während seine nächstfolgende Partitur „<title
+							ref="#verdi.un-giorno-di-regno">un giorno di regno</title>“, welche ein
+						Jahr später auf derselben Bühne in Szene erschien, geradezu Fiasko machte.
+						Ein wahres Talent läßt sich durch solche Mißgeschichte nicht abschrecken,
+						und <persName ref="#verdi.giuseppe">Verdi</persName> acceptirte sofort ein
+						drittes Libretto: — „<title ref="#verdi.nabucco"><choice>
+								<orig>Nabucco donosore</orig>
+								<corr resp="tr">Nabuchodonosor</corr>
+							</choice></title>“ von <persName ref="#solera.temistocle"
+							>Solera</persName>, das unter damals noch italienische Opern
+						komponirende Freund und Landsmann <persName ref="#nicolai.otto">Otto
+							Nicolai</persName>, zurückgewiesen hatte, und errang mit der Partitur
+						dieses „<title ref="#verdi.nabucco">Nabucco</title>“ — wie die Italiener den
+						ellenlangen Namen abbreviren — auf der <placeName
+							ref="#mailand.teatro-alla-scala"><choice>
+								<orig>Skala</orig>
+								<corr resp="tr">Scala</corr>
+							</choice></placeName> (1842) einen, seinen Ruf in Italien
+						festbegründenden, sensationellen Erfolg. Dieser „<title ref="#verdi.nabucco"
+							>Nabucco</title>“ war die erste Oper von <persName ref="#verdi.giuseppe"
+							>Verdi</persName>, welche auch <placeName ref="#berlin"
+							>Berlin</placeName> vor etwa 30 Jahren in der italienischen Oper des
+						verschwundenen alten Königstädtischen Theaters kennen lernte, aber der
+						Erfolg war hier wie vorher in <placeName ref="#wien">Wien</placeName>, nur
+						ein sehr mäßiger, wobei freilich das ziemlich absurde Buch des Herrn
+							<persName ref="#solera.temistocle">Solera</persName> den Löwenantheil
+						der Schlud trug. Ein noch abgeschmackteres Libretto lieferte derselbe
+						„poeta“ für <persName ref="#verdi.giuseppe">Verdi</persName> unter dem Titel
+							„<title ref="#verdi.i-lombardi">i lombardi alla prima crociata</title>“,
+						eine tragische Oper, die, wenn ich nicht irre, zuerst in <placeName
+							ref="#genua">Genua</placeName> (<date when-iso="1843">1843</date>)
+						aufgeführt wurde, und sowohl allda, wie in <placeName ref="#mailand"
+							>Mailand</placeName>, der melodieenreichen Musik wegen fast noch mehr
+						Furore machte, als der „<title ref="#verdi.nabucco">Nabucco</title>“. Auch
+						diese Oper ging hier und in Wien mit italienischen Sängern in Szene, ohne
+						irgend einen nachhaltigen Eindruck zurückzulassen.</p>
+					<p>„<title ref="#verdi.ernani">Ernani</title>“, Text nach <persName
+							ref="#hugo.victor">Victor Hugo’s</persName> erstem Sensations-Drama, war
+						die nächste Partitur des nun bereits in seinem Vaterlande berühmten Maestro,
+						die er <date when-iso="1844">1844</date> für die <placeName
+							ref="#venedig.teatro-la-fenice">Fenice</placeName> in <placeName
+							ref="#venedig">Venedig</placeName> lieferte. „<title ref="#verdi.ernani"
+							>Ernani</title>“ ist das beste Werk aus der ersten Schaffensperiode
+							<persName ref="#verdi.giuseppe">Verdi’s</persName> und wußte sich auch
+						auf dem Repertoir der deutschen Oper für längere Zeit einen festen Platz zu
+						erobern. In der Musik dieser Oper trat zum ersten Mal, sowohl im Styl und
+						Charakter der Melodie, wie in der Behandlung der Chöre und des Orchesters
+						der Unterschied zwischen <persName ref="#verdi.giuseppe">Verdi</persName>
+						und seinen Progonen <persName ref="#rossini.gioachino">Rossini</persName>,
+							<persName ref="#donizetti.gaetano">Donizetti</persName> und <persName
+							ref="#bellini.vincenzo">Bellini</persName> klar und deutlich hervor, und
+							<persName ref="#verdi.giuseppe">Verdi</persName> inaugurirte eine neue
+						Epoche auf dem Gebiete der italienischen Oper. Was <persName
+							ref="#verdi.giuseppe">Verdi</persName> vor Allem im Vergleich zu seinen
+						talentreichen Vorgängern auszeichnet, möchten wir in größerem künstlerischen
+						Ernst, in seiner dramatischen Energie und in seiner packenden rhythmischen
+						Lebendigkeit finden. Es ist charakteristisch, daß er nie eine opera buffa
+						komponirt hat; nicht einmal einen Versuch in diesem von <placeName
+							ref="#italien">Italien</placeName> ausgegangenen Genre hat er gemacht.
+						Die Schaffensperiode des berühmten Maestro, die unmittelbar auf den „<title
+							ref="#verdi.ernani">Ernani</title>“ folgt und bis zu der fesselnden Oper
+							„<title ref="#verdi.rigoletto">Rigoletto</title>“ reicht, ist so wenig
+						bedeutend, daß man dabei an die sieben magern Kühe in König Pharaos Traum
+						denken möchte. Diese Relâche<note resp="tr" type="glossaryLink">Frz.
+							»Auszeit«.</note> seiner Muse umfaßt den Zeitraum vom Jahre <date
+							from-iso="1845" to-iso="1850">1845 bis 50</date>, in welchem <persName
+							ref="#verdi.giuseppe">Verdi</persName> neun bis zehn Opern in die Welt
+						gesetzt hat, die in Deutschland kaum den Namen nach bekannt geworden sind,
+						und auch in Italien gänzlich verschollen zu sein scheinen. Die
+						verhältnismäßig werthvollste unter diesen magern Kühen heißt „<title
+							ref="#verdi.luisa-miller">Luisa Miller</title>“ und der miserable
+						Libretto ist <persName ref="#schiller.friedrich">Schillers</persName>
+						„Kabale und Liebe“ entlehnt. Am Schluß des Akt I soll ein prächtiges
+						Quintett vorkommen, das uns leider unbekannt geblieben ist. Nachdem
+							<persName ref="#verdi.giuseppe">Verdi</persName> sich in <placeName
+							ref="#paris">Paris</placeName> eingehend mit dem Wesen und den Formen
+						der französischen Oper beschäftigt hatte, erweiterte sich seine Anschauung
+						vom musikalischen Drama und veränderte sich sein Styl. Eine ähnliche
+						reformirende Uebergangsperiode erlebten in der Kapitole Frankreichs
+							<persName ref="#gluck.christoph-willibald">Gluck</persName>, <persName
+							ref="#spontini.gaspare"><choice>
+								<orig>Spondini</orig>
+								<corr resp="tr">Spontini</corr>
+							</choice></persName>, <persName ref="#rossini.gioachino"
+							>Rossini</persName>, <persName ref="#bellini.vincenzo"
+							>Bellini</persName> und <persName ref="#donizetti.gaetano"
+							>Donizetti</persName>, wie bekannt, und durchaus nicht zu ihrem Schaden,
+						denn sie vermochten der zwar gefälligen und graziösen, aber etwas hageren
+						und an Anämie leidenden gallischen Tonmuse neubelebendes Blut einzuflößen.
+						In rascher Aufeinanderfolge schuf <persName ref="#verdi.giuseppe"
+							>Verdi</persName> nun die Opern „<title ref="#verdi.il-trovatore"
+							>Trovatore</title>“, „<title ref="#verdi.rigoletto">Rigoletto</title>“
+						und „<title ref="#verdi.la-traviata">La Traviata</title>“, von denen die
+						erste dem Komponisten nun seit mehr als zwei Dezennien einen festen Platz
+						auf dem Berliner Repertoir errungen und gesichert hat. Nach der „<title
+							ref="#verdi.la-traviata">Traviata</title>“ lieferte der Componist eine
+							„<title ref="#verdi.i-vespri-siciliani">Sizilianische Vesper</title>“,
+						große Oper in 5 Akten von <persName ref="#scribe.eugene">Scribe</persName>
+						für die Grande Opera zu <placeName ref="#paris">Paris</placeName>, ein Werk
+						auf französischem Text, das in Deutschland wenig bekannt geworden ist, noch
+						weniger als der darauf folgende „<title ref="#verdi.un-ballo-in-maschera"
+							>Maskenball</title>“, den man in <placeName ref="#berlin"
+							>Berlin</placeName> und einigen andern Orten Deutschlands kennen lernte.
+						Die beiden Partituren, die <persName ref="#verdi.giuseppe">Verdi</persName>
+						nach dem <title ref="#verdi.un-ballo-in-maschera">ballo in maschero</title>
+						schrieb: „<title ref="#verdi.la-forza-del-destino">La forza del
+							Destino</title>“ und „<title ref="#verdi.don-carlos">Don
+						Carlos</title>“, sind nicht bis <placeName ref="#berlin">Berlin</placeName>
+						vorgedrungen; die erstere, für <placeName ref="#st-petersburg"
+							>Petersburg</placeName> bestimmte Oper machte Fiasko und der „<title
+							ref="#verdi.don-carlos">Don Carlos</title>“ verschwand auch bald von dem
+						italienischen Repertoir. Wer geglaubt haben mochte, daß <persName
+							ref="#verdi.giuseppe">Verdi’s</persName> Muse nach einer so überreichen
+						Produktion nun endlich erschöpft und ermüdet die Flügel senken würde, mußte
+						höchlichst und aufs Angenehmste überrascht werden durch das Erscheinen
+						seiner großen Oper „<title ref="#verdi.aida">Aida</title>“, die, vom
+						Vizekönige Egyptens bestellt, vor vier Jahren zum ersten Male in <placeName
+							ref="#cairo">Cairo</placeName> und vor zwei Wintern auch bei uns in
+							<placeName ref="#berlin">Berlin</placeName>, trotz einer nur theilweise
+						genügenden Rollenbesetzung, mit imposanter Wirkung zur Aufführung gelangte.
+						Eine gleich außerordentliche Metamorphose, wie sie die musikalische Welt in
+							<persName ref="#rossini.gioachino">Rossini</persName>, nachdem er fast
+						vier Dutzend Opern, ernst und komische, komponirt, beim Erscheinen seines
+							„<title ref="#rossini.guillaume-tell">Tell</title>“ mit größter
+						Ueberraschung gewahrte, vollzog sich in Bezug auf <persName
+							ref="#verdi.giuseppe">Verdi</persName> durch die Oper <title
+							ref="#verdi.aida">Aida</title>, die man wohl für sein Meisterwerk auf
+						dem Gebiete der dramatischen Musik erachten darf. Doch der „<persName
+							ref="#rossini.gioachino">Schwan von Pesaro</persName>“ hatte noch eine
+						letzte, größere Ueberraschung in petto: — nachdem er seine letzte Partitur
+						für’s Theater geliefert, sang er sein Schwanenlied, das „<title
+							ref="#rossini.stabat-mater">Stabat mater</title>“ und vielleicht gab
+						dieses Werk <persName ref="#verdi.giuseppe">Verdi</persName> den Impuls zu
+						seinem <title ref="#verdi.requiem">Requiem</title>.</p>
+				</body>
+			</text>
+			<text n="2">
+				<body rend="fraktur">
+					<p>Wenn auch, wie wir bereits zu Anfang dieses Artikels erwähnten, der Tod
+							<persName ref="#manzoni.alessandro">Manzoni’s</persName> die nächste
+						Veranlassung für die Entstehung des <persName ref="#verdi.giuseppe"
+							>Verdi’schen</persName>
+						<title ref="#verdi.requiem">Requiems</title> gewesen zu sein scheint, so
+						halten wir es dennoch für sehr wahrscheinlich, daß jene Lorbeeren, die
+							<persName ref="#rossini.gioachino">Rossini</persName> durch sein in
+						blühendster Melodienschönheit prangendes <title ref="#rossini.stabat-mater"
+							>Stabat mater</title> errang — man sieht das Marterkreuz, an dem die
+						Mutter des Heilandes stand, kaum noch hervorschimmern unter der Fülle der
+							<persName ref="#rossini.gioachino">Rossini’schen</persName> Tonblumen —
+							<persName ref="#verdi.giuseppe">Joseph Verdi</persName> schon lange vor
+							<persName ref="#manzoni.alessandro">Manzoni’s</persName> Heimgange nicht
+						ruhen ließen und ihn schon in früherer Zeit anspornten, ein ähnliches Werk
+						zu komponiren. Freilich meinte die deutsche Kritik, als ums Jahr <date
+							when-iso="1841">1841</date>
+						<persName ref="#rossini.gioachino">Rossini’s</persName>
+						<title ref="#rossini.stabat-mater">Stabat mater</title> veröffentlicht
+						wurde, dasselbe entbehre erheblich der kirchlichen Würde; der Sänger des
+							<title ref="#rossini.il-barbiere-di-siviglia">Barbier von
+							Sevilla</title>, des <title ref="#rossini.guillaume-tell">Tell</title>
+						etc. könne keine regelrechte Fuge machen, und Aehnliches dürfte die deutsche
+						Kritik auch an dem <title ref="#verdi.requiem">Requiem</title> des Maestro
+							<persName ref="#verdi.giuseppe">Verdi</persName> auszusetzen finden.
+						Aber haben sich <persName ref="#rossini.gioachino">Rossini</persName> und
+							<persName ref="#verdi.giuseppe">Verdi</persName> nicht ersichtlich und
+						im Großen und Ganzen mit Erfolg bemüht, in ihren geistlichen Partituren von
+						ihrem eigenen Opernstyl möglichst zu abstrahiren? ist z. B. das berühmte
+							<title ref="#pergolesi.stabat-mater">Stabat mater</title> des <persName
+							ref="#pergolesi.giovanni-battista">Pergolese</persName> in Styl und
+						Faktur von seinen eigenen Opernmusiken und von denen seiner komponirenden
+						Zeitgenossen etwa mehr und besser in Kontrast gehalten, als dies bei
+							<persName ref="#rossini.gioachino">Rossini</persName> und <persName
+							ref="#verdi.giuseppe">Verdi</persName> der Fall ist? Hat unser großer
+						Meister <persName ref="#haendel.georg-friedrich">Georg Händel</persName>
+						nicht ganze Arien und andere Stücke aus einigen seiner, nicht von Erfolg
+						gekrönten italienischen Opern, Note für Note in seine Oratorien
+						hinübergenommen, ohne daß wackere deutsche Kantoren und Sonatenmusiker auch
+						nur die Spur von solchen musikalischen Sakrilegien bemerkt hätten?! — Gewiß
+						hält <persName ref="#rossini.gioachino">Rossini’s</persName>
+						<title ref="#rossini.stabat-mater">Stabat mater</title> und das <title
+							ref="#verdi.requiem">Requiem</title> des <persName ref="#verdi.giuseppe"
+							>Verdi</persName> in Bezug auf kontrapunktische Meisterschaft keinen
+						Vergleich mit den geistlichen Tondichtungen eines <persName
+							ref="#bach.johann-sebastian">Sebastian Bach</persName>, oder unseres
+						ausgezeichneten Mitbürgers <persName ref="#kiel.friedrich">Friedrich
+							Kiel</persName> aus, aber in einem äußerst wohlklingenden polyphonen
+						Styl sind die genannten Werke der beiden Italiener trotzdem geschrieben, und
+						ihre Final-Fugen dürften einem Laien-Auditorium am Ende weniger langweilig
+						erscheinen, als jene berühmte Fuge in <persName ref="#graun.carl-heinrich"
+							>Grauns</persName> Passions-Kantate „<title ref="#graun.der-tod-jesu"
+							>der Tod Jesu</title>“ auf den Text: „Christus hat uns ein Vorbild
+						gelassen“ etc.</p>
+					<p>Doch nun folge mir ins <placeName ref="#berlin.hofoper">kgl.
+							Opernhaus</placeName>, huldvoller Leser, zur ersten Aufführung des
+							<persName ref="#verdi.giuseppe">Verdischen</persName>
+						<title ref="#verdi.requiem">Requiem</title>.</p>
+					<p>Wir finden das Haus zwar nicht total „ausverkauft“, — wie zu sagen Mode
+						geworden — aber dennoch in allen Räumen stattlich besetzt, und im Parquet
+						scheint kein Platz leer geblieben zu sein. <persName
+							ref="#wilhelm-i.preussen augusta.sachsen-weimar-eisenach">I. I. K. K.
+							Majestäten</persName> waren in ihrer Loge erschienen und wohnten der
+						interessanten Aufführung vom Anfange bis zum Schlusse bei. In dem
+						gewöhnlichen Orchesterraum am Parquet waren Sitzplätze eingerichtet, Rampe
+						und Souffleurkasten waren unter Blumen und grünem Blätterschmuck
+						verschwunden, denn das gesammte kgl. Sängerpersonal und die verstärkte
+						Kapelle befanden sich in amphitheatralischer Aufstellung auf der Bühne. In
+						der vorderen Sitzreihe des Sängerpersonals nahmen als Solisten die Damen
+							<persName ref="#lehmann.lilli">Lehmann</persName> und <persName
+							ref="#brandt.marianne">Brandt</persName>, neben ihnen die Herren
+							<persName ref="#betz.franz">Betz</persName> und <persName
+							ref="#ernst.heinrich">Ernst</persName> Plätze ein, und rechts vom
+						Dirigenten, Kapellmeister <persName ref="#radecke.robert"
+						>Radecke</persName>, dessen Pult sich ebenfalls auf dem Proscenio befand,
+						waren noch vier Solosängerinnen, darunter die Damen <persName
+							ref="#horina.luise">Horina</persName> und <persName ref="#lammert.minna"
+							>Lammert</persName> placirt, die im Sopran und Alto tapfer mit
+						eingriffen.</p>
+					<p>Still und gespannt lauschte das Auditorium, zu dem fast alle namhaften
+						Musiker Berlins zählen mochten, nicht nur dem ersten Satze — „<title
+							ref="#verdi.requiem.1">Requiem und Kyrie</title>“ — sondern sämtlichen
+						Theilen des Werkes, bis zum letzten, im leisesten <choice>
+							<orig>Pianissime</orig>
+							<corr resp="tr">Pianissimo</corr>
+						</choice> verhallenden „libera me!“ Die ersten — einige zwanzig — Takte, zu
+						den Worten „<title ref="#verdi.requiem.1" n="requiem-aeternam">requiem
+							aeternam dona eis, Domine, et lux perpetua luceat eis</title>,“ in
+						A-moll und dur von vier Solostimmen und Chor intonirt, sind durchweg piano
+						gehalten, und das erste Forte tritt in belebterem Tempo bei den Worten
+							„<title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet hymnus, Deus
+							in Sion</title>“ ein, welcher Satz in freier kanonischer Schreibart
+						durchgeführt ist, wonach unmittelbar auf den abschließenden F-dur-Dreiklang,
+						ohne modulatorischen Übergang, das A-moll des Anfanges zu dem Text „<title
+							ref="#verdi.requiem.1" n="requiem-aeternam.re">requiem aeternam</title>“
+						etc. wiederkehrt und in das <title ref="#verdi.requiem.1" n="kyrie"
+							>Kyrie</title> — ein Soloquartett mit Chor — hinüberleitet.</p>
+					<p>Man konnte wahrnehmen, daß diese erste Nummer der Partitur im Publikum einem
+						ungemein günstigen Eindruck gemacht und die Theilnahme für das Werk
+						gesteigert habe. Das zeigte sich denn auch am Schluß des darauf folgenden
+							„<title ref="#verdi.requiem.2">dies irae</title>“, welches bei <persName
+							ref="#verdi.giuseppe">Verdi</persName>, die sonst gewöhnlich für sich
+						bestehenden <choice>
+							<orig>acht</orig>
+							<corr resp="tr">neun</corr>
+						</choice> Sätze „<title ref="#verdi.requiem.2.tuba-mirum">tuba
+						mirum</title>“ — „<title ref="#verdi.requiem.2.liber-scriptus">liber
+							scriptus</title>“ u. s. w. bis zum „<title
+							ref="#verdi.requiem.2.lacrymosa">lacrymosa</title>“ in sich aufnimmt und
+						in der Weise umschließt, daß der Hauptpassus des dies irae — G-moll, alla
+						breve-Takt — noch ein paar Mal wiederkehrend, drohend durchbricht. Zu den
+						schönsten Einzelheiten in diesem, <choice>
+							<orig>acht</orig>
+							<corr resp="tr">neun</corr>
+						</choice> Sätze umfassenden, großen Ensemble möchten wir das dreistimmig
+						gehaltene „<title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser tunc
+							dicturum</title>“, dann das zwei stimmige „<title
+							ref="#verdi.requiem.2.recordare">Recordare</title>“ mit dem lieblichen <choice>
+							<orig>Alternativ</orig>
+							<corr resp="tr">Altmotiv</corr>
+						</choice><supplied resp="tr">,</supplied> „<title
+							ref="#verdi.requiem.2.ingemisco" n="qui-mariam">Qui Mariam
+							absolvisti</title>“ und das „<title ref="#verdi.requiem.2.lacrymosa"
+							>Lacrymosa</title>“ (Soloquartett mit Chor) zählen. Nach dem letzten
+						Amen, womit diese Abtheilung des Werkes schließt, brach in allen Räumen des
+						Hauses lebhafter Beifall hervor, und in der nun folgenden Zwischenpause
+						bekundete die Unterhaltung in den Foyers, mit welcher Theilnahme das ernste
+						Werk des berühmten Opernkomponisten bis dahin gehört worden sei. In der
+						Konditorei machte aber ein seltsamer Kauz mit ernster Miene die heitere
+						Bemerkung, daß er sich wundere, wie man eine <persName ref="#verdi.giuseppe"
+							>Verdi’sche</persName> Musik im Opernhause ohne Kostüm geben könne. Er
+						wurde durch die Erklärung beruhigt, daß die Ultramontanen dagegen gestimmt
+						hätten.</p>
+					<p>Die zweite Abtheilung umfaßte nun die fünf Nummern der Partitur: „<title
+							ref="#verdi.requiem.3">Domine Jesu</title>,“ vierstimmiges <title
+							ref="#verdi.requiem.3">Offertorium</title>, das „<title
+							ref="#verdi.requiem.4">Sanctus</title>,“ zweichörige Doppelfuge, „<title
+							ref="#verdi.requiem.5">Agnus Dei</title>,“, zwei Soprane und Chor,
+							„<title ref="#verdi.requiem.6">Lux aeterna</title>,“ Mezzosopran, Tenor
+						und Baß, und das „<title ref="#verdi.requiem.7">Libera me</title>,“ Solo,
+						Chor und Schlußfuge.</p>
+					<p>Bezüglich des ersten Theils will ich nachträglich bemerken, daß wohlerzogenen
+						Musikerohren, die ganz offen und ehrlich zu Tage liegenden Quinten in dem
+						Passus „<title ref="#verdi.requiem.2.confutatis" n="oro-supplex">oro supplex
+							et acclinis</title>“ wohl etwas gallenbitter schmecken mochten, bin aber
+						überzeugt, daß sie dem Maestro nicht unbewußt entwichen sind, sondern daß er
+						sie mit voller Absicht hingesetzt hat; denn einem wo gewandten Techniker,
+						wie ihm, mußte es ja ein Leichtes sein, eine andere Baßführung zu der
+						Melodie zu finden. Vielleicht hatte <persName ref="#verdi.giuseppe"
+							>Verdi</persName> einmal als Kind in der Nähe des Dörfleins <placeName
+							ref="#busseto">Busseto</placeName>, wo er vor 62 Jahren geboren wurde,
+						einen solchen Quintenpassus gehört und legte ihn nun als ein Blümchen der
+						Erinnerung aus dem Kindheitsparadiese in seinem <title ref="#verdi.requiem"
+							>Requiem</title> nieder. Ich weiß nicht, für mich hat die Stelle etwas
+						Rührendes, gleich jenem „vergriffenen Büchlein,“ aus dem man selber einst
+						„Gebete lallte, halb Kinderspiele, halb Gott im Herzen“.<note resp="tr"
+							type="literatureLink">Vgl. <persName ref="#goethe.johann-wolfgang-von"
+								>Goethe</persName>, Faust: Domszene, Gretchen unter vielem Volke.
+							Der böse Geist zu Gretchen: »Wie anders, Gretchen, war dir’s, / Als du
+							noch voll Unschuld / Hier zum Altar trat’st, / Aus dem vergriffnen
+							Büchelchen / Gebete lalltest, / Halb Kinderspiele, / Halb Gott im Herzen
+							/ Gretchen! / Wo steht dein Kopf?«</note></p>
+					<p>Nummer für Nummer des zwei Stunden Zeitdauer beanspruchenden Werkes
+						analysirend durchzugehen, kann natürlich nicht die Aufgabe des Feuilletons
+						einer politischen Zeitung sein; das gehört in ein musikalisches Fachjournal.
+						So wollen wir denn an dieser Stelle noch des überaus lieblichen, originell
+						erfundenen „<title ref="#verdi.requiem.5">Agnus Dei</title>“ gedenken, das
+						den größten und ungetheilten Beifall davontrug. Es soll nicht verschwiegen
+						werden, daß Einzelheiten des Werkes eine wesentlich theatralische Wirkung
+						ausüben, wie z. B. manches im <title ref="#verdi.requiem.2">Dies
+							irae</title>, dann die Introduktion der Blechinstrumente zum „<title
+							ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title>“, ferner der
+						Einsatz des Solobasses bei „<title ref="#verdi.requiem.2.confutatis"
+							>Confutatis maledictis</title>“, das an den Fluch des alten Marchese
+						gegen Rigoletto lebhaft erinnert u. s. w., aber ganz überwiegend ist es
+							<persName ref="#verdi.giuseppe">Verdi</persName> im Großen und Ganzen
+						wohlgelungen, sich seinem gewohnten Opernstyle zu entziehen. Daß ein
+						vielgewandter, gereifter italienischer Komponist wirkungsvoll für
+						Singstimmen zu schreiben verstehe, braucht nicht erst versichert zu werden,
+						und instrumentirt ist das <title ref="#verdi.requiem">Requiem</title> noch
+						feiner und effektvoller zugleich als selbst die <title ref="#verdi.aida"
+							>Aïda</title>.</p>
+					<p>Die Aufführung war durch den Chordirigenten der königlichen Oper, Herrn
+						Musikdirektor <persName ref="#kahl.heinrich">Kahl</persName>, aufs
+						sorgfältigste vorbereitet und gelang unter der Leitung des Kapellmeisters
+						Herrn <persName ref="#radecke.robert">Radecke</persName>, namentlich auch
+						bezüglich der dynamischen Wirkungen, in vorzüglichster Form und Weise. Die
+						Soli wurden von den Damen <persName ref="#lehmann.lilli">Lehmann</persName>
+						und <persName ref="#brandt.marianne">Brandt</persName>, den Herren <persName
+							ref="#betz.franz">Betz</persName> und <persName ref="#ernst.heinrich"
+							>Ernst</persName> so schön vorgetragen, daß diese Künstler, wenn das
+							<title ref="#verdi.requiem">Requiem</title> nach dem Wunsche jedes
+						Gentleman in der Konditorei wirklich im Kostüm aufgeführt worden wäre, wohl
+						mehrfache Hervorrufe nebst Blumenspenden erlebt hätten.</p>
+					<p><persName ref="#truhn.hieronymus">H. Truhn</persName>.</p>
+				</body>
+			</text>
+			<text n="3">
+				<body rend="fraktur">
+					<p>In meinem Referat über die hiesige Aufführung des <persName
+							ref="#verdi.giuseppe">Verdi’schen</persName>
+						<title ref="#verdi.requiem">Requiems</title> (Nr. 90 und 91 dieser Ztg.)
+						erwähnte ich des Dorfes <placeName ref="#busseto">Busseto</placeName>, als
+						der Geburtsstätte des berühmten Komponisten, und es dürfte interessant für
+						unsere Leser sein, noch einiges Nähere aus dem Lebensgange des Meisters zu
+						erfahren. In dem genannten Dorfe, das auf halbem Wege zwischen <placeName
+							ref="#parma">Parma</placeName> und <placeName ref="#piacenza"
+							>Piacenza</placeName>, von jeder dieser Städte etwa drei Meilen
+						entfernt, belegen ist, wurde <persName ref="#verdi.giuseppe">Giuseppe
+							Verdi</persName> am <date when-iso="1813-10-09">9. Oktober <choice>
+								<orig>1814</orig>
+								<corr resp="tr">1813</corr>
+							</choice></date> von mittellosen Eltern geboren. Der Organist des
+						Oertchens <placeName ref="#busseto">Busseto</placeName> ertheilte dem Knaben
+						den ersten musikalischen Unterricht und brachte ihm alles bei, was er selber
+						wußte, aber das war eben nicht viel. Als <persName ref="#verdi.giuseppe"
+							>Verdi</persName> neunzehn Jahre alt geworden, fühlte er wohl selbst
+						seine mangelhafte musikalische Ausbildung und sehnte sich nach besserem
+						Unterricht, der aber auf kleinen Pfarrdörfern freilich selten zu erreichen
+						ist. Ein begüterter Mann in <placeName ref="#busseto">Busseto</placeName>,
+						Namens <persName ref="#barezzi.antonio">Barezzi</persName>, war hochherzig
+						genug, sich seines begabten jugendlichen Mitbürgers mäcenatorisch anzunehmen
+						und gewährte <persName ref="#verdi.giuseppe">Verdi</persName> die Mittel,
+						sich nach <placeName ref="#mailand">Mailand</placeName> zu begeben, um im
+						dortigen Konservatorium seine musikalisch-theoretische Ausbildung zu
+						vollenden. Der damalige Administrator dieser musikalischen Hochschule, ein
+						Signor <persName ref="#basili.francesco">Francesco Basili</persName>, einer
+						der letzten strenggeschulten italienischen Meister aus dem letzten Viertel
+						des vorigen Jahrhunderts gestattete indes nicht die Aufnahme <persName
+							ref="#verdi.giuseppe">Verdis</persName> in das Konservatorium. Die
+						Ursache für diese Ablehnung, die man später schmerzlich genug bereut haben
+						mag, ist nie bekannt geworden. Vielleicht, daß dem alten <persName
+							ref="#basili.francesco">Basili</persName> die Nase des jungen Menschen
+						aus <placeName ref="#busseto">Busseto</placeName> nicht gefiel; meint doch
+							<persName ref="#fetis.francois-joseph">Fétis</persName> in seiner
+						universellen musikalischen Encyclopädie: „<persName ref="#basili.francesco"
+							>Basili</persName> habe offenbar aus der äußeren Erscheinung <persName
+							ref="#verdi.giuseppe">Verdis</persName> kein Vertrauen für dessen
+						musikalische Entwickelung fassen können.“<note resp="tr"
+							type="literatureLink">Vgl. <persName ref="#fetis.francois-joseph"
+								>François Joseph Fétis</persName>, <ref type="text"
+								target="https://archive.org/stream/biographieunive18ftgoog#page/n329/mode/1up"
+								>Biographie universelle des musiciens, Bd. 8 (1865), S. 321</ref>:
+							»Il est à peu près certain que Basili chercha dans l’aspect de Verdi
+							quelque indication de ses facultés d’artiste; car c’est par là qu’un
+							chef d’école peut, dans la plupart des cas, apprécier les chances
+							d’avenir d’un élève aspirant«.</note> Wer lacht da?!</p>
+					<p><persName ref="#verdi.giuseppe">Verdi’s</persName> Gesichtszüge sollen
+						freilich düster, hart und unbeweglich erscheinen, aber man beurtheilt ein
+						Talent doch nicht nach seiner Physiognomie, um so weniger, wenn dieselbe wie
+						bei diesem Maëstro keineswegs den Eindruck der Geistlosigkeit und des
+						Unbedeutndseins macht. Genug, <persName ref="#verdi.giuseppe"
+							>Verdi</persName> wurde nicht in das <placeName
+							ref="#mailand.konservatorium">Mailänder Konservatorium</placeName>
+						aufgenommen; dagegen nahm sich der Kapellmeister der dortigen <placeName
+							ref="#mailand.teatro-alla-scala">Oper</placeName>, ein Signor <persName
+							ref="#lavigna.vincenzo">Lavigna</persName>, seiner an, unter dessen
+						praktischer Leitung er es bald so weit brachte, von dem Ertrage seiner
+						Kompositionen nicht nur anständig zu leben, sondern in der Nähe seines
+						Geburtsortes bedeutende Ländereien anzukaufen, sich eine prachtvolle Villa
+						zu erbauen, mit einem Wert, als Grand-Seigneur zu leben. Auf einem großen
+						und schönen Landgute, „<placeName ref="#sant-agata">Sant Agata</placeName>“,
+						pflegt der Meister in den letzten Jahren zumeist anwesend zu sein, nicht nur
+						um als Künstler, sondern auch als Selbstverwalter seiner Güter fleißig zu
+						arbeiten und Tüchtiges zu schaffen. In seiner Umgebung lebten zwei ihn
+						enthusiastisch vergötternde Originale: sein alter Vater <persName
+							ref="#verdi.antonio">Antonio Verdi</persName> und sein Diener <persName
+							ref="#luigi.xxx">Luigi</persName>. Letzterer, ein früherer Lohnkutscher
+						aus <placeName ref="#reggio">Reggio</placeName>, erklärt jeden für einen
+							capocchio<note resp="tr" type="glossaryLink">Capocchio war ein
+							italienischer Häretiker, der als Alchimist zum Tode verurteilt wurde und
+							zudem in <persName ref="#alighieri.dante">Dantes</persName> Divina
+							Commedia genannt wurde; vgl. Dante Alighieri, La Divina Commedia,
+							Inferno XXIX.</note>, der nur von anderer Musik als von der seines
+						illustrissimo maëstro zu sprechen wagt. <persName ref="#verdi.giuseppe"
+							>Verdi</persName> soll ein braver italienischer Patriot sein, daß ihn
+						aber alle großen politischen, sozialen und wissenschaftlichen Fragen
+						interessiren, daß er die Literatur aller civilisirten Nationen der Erde
+						gründlich studire und darin zu Hause sei, wie sein großmäuliger Pariser
+						Verleger <persName ref="#escudier.leon">Léon Escudier</persName>, einer der
+						frechsten Reklameschmiede, die je auf Rindleder traten, der Welt aufbinden
+						möchte, ist natürlich Gascognade<note resp="tr" type="glossaryLink">Frz.
+							»Angeberei«</note>. Allerdings wurde der Künstler einmal als Deputirter
+						ins italienische Parlament gewählt, glänzte aber nur in der Kammer theils
+						durch Abwesenheit, theils als ein größerer Schweiger, als selbst unser
+						berühmter Feldmarschall, Graf <persName ref="#moltke.helmuth-von"
+							>Moltke</persName>. Jedoch ganz ohne politische Bedeutung ist der Name
+						„Verdi“ trotzdem nicht geblieben. Als einst in <placeName
+							ref="#lombardo-venetien">Lombardo-Venezien</placeName>, in <placeName
+							ref="#rom">Rom</placeName>, <placeName ref="#toskana"
+							>Toskana</placeName> und <placeName ref="#neapel">Neapel</placeName> der
+						Ruf „Viva Italia!“ bei drohender Ahndung verboten war, riefen die Patrioten
+						„Viva Verdi!“ und die einzelnen Buchstaben dieses Namens bedeuten V(ittore)
+						E(manuele) R(é) d’I(talia); die Italiener wußten sich zu helfen. Lange
+						nachdem der Sitz der königlichen Regierung bereits nach Rom verlegt worden
+						war, konnte man dieses mysteriöse „Viva Verdi!“ noch häufig auf Wänden und
+						Mauern von Kirchen und öffentlichen Gebäuden angeschrieben finden.</p>
+				</body>
+			</text>
+		</group>
+	</text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Wiener Zeitung, 31. Oktober 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/wz_1875-10-31_theater.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#wiener-zeitung" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-10-31" when-custom="sun"/>
+					<biblScope unit="issue">251</biblScope><series>wz</series>
+					<biblScope unit="page">378 [8]</biblScope>
+					<link facs="wz_1875-10-31_8.png"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18751031&amp;seite=8"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Anzeige</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Theater und Sehenswürdigkeiten.</head>
+			<gap resp="tr"/>
+			<head><placeName ref="#wien.hof-operntheater">K. K. Hof-Operntheater.</placeName></head>
+			<gap resp="tr"/>
+			<p rend="center">
+				<rs type="event" ref="#wien.1875a.1"><hi rend="bold">Morgen Montag:</hi><lb
+						break="no"/>
+					<hi rend="widespace bold antiqua"><title ref="#verdi.requiem"
+						>REQUIEM</title></hi><lb break="no"/> von<lb break="no"/>
+					<hi rend="antiqua bold"><persName ref="#verdi.giuseppe">Giuseppe
+							Verdi,</persName></hi><lb break="no"/> für Soli, Chor und Orchester.<lb
+						break="no"/> Dirigent: <hi rend="widespace"><persName ref="#richter.hans"
+							>Hans Richter</persName></hi>.<lb break="no"/>
+					<hi rend="antiqua">Soli:</hi><lb break="no"/> Frau <hi rend="bold"><persName
+							ref="#wilt.marie" role="soloist.soprano">Marie Wilt</persName></hi>.
+					Fräulein <hi rend="bold"><persName ref="#tremel.wilhelmine" role="soloist.mezzo"
+							>Wilhelmine Tremel</persName></hi>. Herr <hi rend="bold"><persName
+							ref="#walter.gustav" role="soloist.tenor">Gustav Walter</persName></hi>.
+					Herr <hi rend="bold"><persName ref="#rokitansky.hans" role="soloist.basso">Hans
+							Rokitansky</persName></hi>.</rs>
+			</p>
+		</body>
+	</text>
+</TEI>

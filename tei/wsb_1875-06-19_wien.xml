@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Wiener Salonblatt, 19. Juni 1875</title>
+				<author><persName ref="#akronym.jk"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/wsb_1875-06-19_wiener-briefe.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#wiener-salonblatt" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-19"/>
+					<biblScope unit="issue">25</biblScope><biblScope unit="volume"
+						>6</biblScope><series>wsb</series>
+					<biblScope unit="page">8–9</biblScope>
+					<link facs="wsb_1875-06-19_8.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750619&amp;seite=8"/>
+					<link facs="wsb_1875-06-19_9.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750619&amp;seite=9"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="8" type="initial"/>
+			<head rend="bold larger">Wiener Briefe.</head>
+			<p rend="smaller center">(<gap resp="tr"/> Fräulein <hi rend="widespace"><persName
+						ref="#linda.bertha">Linda</persName></hi> und das <title
+					ref="#verdi.requiem">Requiem</title>. — <persName ref="#verdi.giuseppe"
+					>Verdi’s</persName> Sänger. — Das italienische Quartett. <gap resp="tr"/>)</p>
+			<cb break="yes" n="2" type="skipped"/>
+			<p><gap resp="tr"/> trotz alledem war das neue Opernhaus in der abgelaufenen Woche der
+				Schauplatz eines der bedeutendsten Triumphe seit dem Abende seiner Eröffnung. <rs
+					type="event" ref="#wien.1875">Das jüngste Werk <hi rend="widespace"><persName
+							ref="#verdi.giuseppe">Giuseppe Verdi’s</persName></hi>, das <title
+						ref="#verdi.requiem">„Requiem“</title>, ist zur Aufführung gelangt und wenn
+					wir demselben letzthin einen sensationellen Erfolg prophezeihten, haben wir
+					damit keineswegs zu viel gesagt.</rs> Kaum war am ersten Abende der Enthusiasmus
+				für den berühmten Mann und für die berühmte Persönlichkeit desselben verrauscht, so
+				fesselte nur umsomehr das Werk selbst, am meisten aber wohl der Vortrag der vom
+				Compositeur mitgebrachten Sänger, den man geradezu einen unvergleichlichen nennen
+				darf. Das war ein Ensemble, so vollendet, so herrlich, so ideal-schön, daß man durch
+				die zauberhafte Wirkung, welche die Aufführung ausübte, vielleicht sogar hie und da
+				über den Werth der Composition getäuscht werden konnte. <persName
+					ref="#verdi.giuseppe">Verdi</persName>, der seit mehr als zwei Decennien für das
+				Volk, für den großen Haufen geschrieben, dessen Melodien von allen Drehorgeln
+				gespielt werden, <persName ref="#verdi.giuseppe">Verdi</persName>, den die
+				Musikgelehrten einen Effecthascher, einen Lärmmacher genannt, hat nun ein Werk von
+				tiefer und edler Anschauung geschaffen, ein Werk, das am Schluß einen wahrhaft
+				poetischen Eindruck hinterläßt. Wie in „<title ref="#verdi.aida">Aida</title>“,
+				jener Oper, welche dem „<title ref="#verdi.requiem">Requiem</title>“ am meisten
+				verwandt erscheint, hat es <persName ref="#verdi.giuseppe">Verdi</persName>
+				verstanden, die Hörer nicht blos oberflächlich, sondern wirklich poetisch-innerlich
+				anzuregen, und darob gebührt ihm der Ruhm eines Künstlers für alle Zeiten!</p>
+			<p>Ohne jene Sänger, wie er sie mitgebracht, wäre ihm freilich nicht ein solcher Triumph
+				geworden. In erster Reihe steht Frau <hi rend="widespace"><persName
+						ref="#stolz.teresa" role="soloist.soprano">Stolz</persName></hi>, welche
+				durch ihren machtvollen, wunderbar modulationsfähigen Sopran imponirte und ihr Organ
+				in allen Registern so vollkommen und vollendet beherrscht, wie kaum eine zweite. Mit
+				ihr um die Palme stritt der Tenor <hi rend="widespace"><persName
+						ref="#masini.angelo" role="soloist.tenor">Masini</persName></hi>, ein Sänger
+				voll Poesie und Eleganz, der richtige Vertreter des „<hi rend="antiqua">Bel
+					canto</hi>“. Eine außerordentliche Leistung war auch die der Altistin Frl. <hi
+					rend="widespace"><persName ref="#waldmann.maria" role="soloist.alto"
+						>Waldmann</persName></hi>, eine befriedigende die des Bassisten Herrn <hi
+					rend="widespace"><persName ref="#medini.paolo" role="soloist.basso"
+						>Medini</persName></hi>. — Die beiden Damen sind Oesterreicherinnen und es
+				ist gewiß interessant, Näheres über diese unsere Landsmänninnen zu hören. Frau <hi
+					rend="widespace"><persName ref="#stolz.teresa">Stolz</persName></hi> ist in <hi
+					rend="widespace"><placeName ref="#prag">Prag</placeName></hi> geboren und
+				studirte auch daselbst. Doch, wie bei uns zu Lande einem jeden Talente die
+				Anerkennung versagt wird, das nicht erst im „Auslande“ einen Ruf erworben und sich
+				eine zweite Heimat gegründet, so auch in diesem Falle. Die <persName
+					ref="#stolz.teresa">Stolz</persName> suchte ihr Glück <pb break="yes" n="9"
+					type="regular"/>in <placeName ref="#italien">Italien</placeName> und sie fand es
+				daselbst. In <placeName ref="#bologna">Bologna</placeName> war es, wo sie <hi
+					rend="widespace"><persName ref="#mariani.angelo">Mariani</persName></hi>, einen
+				der hervorragendsten italienischen Dirigenten, kennen lernte, der auf ihre Laufbahn
+				von maßgebenden Einfluß war und die Partien <persName ref="#verdi.giuseppe"
+					>Verdi’scher</persName> Opern mit ihr studirte. Die Sängerin brachte es bald zur
+				Berühmtheit, die nun, seitdem <hi rend="widespace"><persName ref="#verdi.giuseppe"
+						>Verdi</persName></hi> sie für die Aufführungen seines <title
+					ref="#verdi.requiem">Requiems</title> gewonnen, sich auch über <placeName
+					ref="#italien">Italien</placeName> hinauserstreckt. Frau <hi rend="widespace"
+						><persName ref="#stolz.teresa">Stolz</persName></hi> ist nach <hi
+					rend="widespace"><persName ref="#mariani.angelo">Mariani</persName></hi>, dessen
+				Gattin sie gewesen und der vor einigen Jahren gestorben, Witwe. Ihre Collegin Frl.
+					<hi rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi>,
+				die in <placeName ref="#italien">Italien</placeName> nicht minder beliebt ist, hat
+				als <hi rend="widespace">Wienerin</hi> den ersten Unterricht im hiesigen
+				Conservatorium genossen. Als sie ihre Studien vollendet, verschaffte der Vater, der
+				Kammerdiener beim Grafen <hi rend="widespace">Paar</hi> gewesen, die Mittel, nach
+					<placeName ref="#mailand">Mailand</placeName> zu reisen. Sie sang in der
+					<placeName ref="#mailand.teatro-alla-scala">Scala</placeName> mit —
+				Clavierbegleitung. Doch der Erfolg war ein ungeahnter. Ein Engagement mit 25.000
+				Francs für die Carnevalssaison war die Folge des ersten Debuts und so begann die
+				Künstlerin ihre Carrière, an deren Gipfelpunkt sie jetzt angelangt. Und vielleicht
+				interessiren noch einige wenige statistische Daten. Die Meinung, <hi
+					rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> selbst
+				sei Impresario, ist eine unrichtige. Der eigentliche Unternehmer ist der bekannte
+				Musikverleger aus Mailand Signor <hi rend="widespace"><persName
+						ref="#ricordi.giulio">Ric<surplus resp="tr">c</surplus>ordi</persName></hi>.
+				Dieser bezahlt an den Compositeur und die vier Mitglieder der Gesellschaft für jede
+				Aufführung ein Gesammthonorar von 8000 Francs. Wenn man nun nimmt, daß das <title
+					ref="#verdi.requiem">Requiem</title> viermal und „<title ref="#verdi.aida"
+					>Aida</title>“, die <date>Samstag</date> in neuer Besetzung und mit neuen
+				Arrangements unter Leitung des Componisten in Scene geht, dreimal zur Aufführung
+				gelangt, ergibt sich das erkleckliche Sümmchen von 56.000 Francs. Die ersten drei
+				Aufführungen des <title ref="#verdi.requiem">Requiems</title> haben dem Operntheater
+				20.000 Gulden getragen und zumal das Interesse an der Sache nicht abnimmt, sondern
+				im Gegentheile sich steigert, ist selbst bei so hohen Auslagen ein guter Erfolg für
+				die Casse zu erwarten. Für alle Fälle ist es ein kleines Kunststückchen, in solcher
+				Zeit und bei solcher Hitze solche Cassenerfolge zu erzielen. <gap resp="tr"/>
+			</p>
+			<p rend="right"><hi rend="antiqua"><persName ref="#akronym.jk">J. K.</persName></hi></p>
+		</body>
+	</text>
+</TEI>

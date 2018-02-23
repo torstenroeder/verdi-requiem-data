@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dresdner Nachrichten, 8. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/dn_1876-01-08_feuilleton.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#dresdner-nachrichten" role="publisher"/>
+					<placeName ref="#dresden"/>
+					<date when-iso="1876-01-08" when-custom="sat"/>
+					<biblScope unit="issue">8</biblScope><biblScope unit="volume"
+						>21</biblScope><series>dn</series>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#dresden"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Ankündigung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Feuilleton.</head>
+			<p><g type="DAGGER" n="2020">†</g><rs type="event" ref="#dresden.1876.1"> Heute findet im
+						<hi rend="widespace"><placeName ref="#dresden.hoftheater">königlichen
+							Altstädter Hoftheater</placeName></hi> die erste Aufführung von <hi
+						rend="widespace"><persName ref="#verdi.giuseppe">G. Verdi’s</persName>
+						<title ref="#verdi.requiem">Requiem</title></hi> statt</rs>, zur Todtenfeier
+					<persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName> componirt.
+				Das melodisch wunderbar reizvolle und würdig gestimmte Tonwerk wird hoffentlich auch
+				in <placeName ref="#dresden">Dresden</placeName>, wie anderwärts, die vollste
+				Anerkennung im Publikum finden. Wie wir hören, wird der königliche Hof der ersten
+				Aufführung anwohnen und ist die Nachfrage nach Billets sehr lebhaft.</p>
+		</body>
+	</text>
+</TEI>

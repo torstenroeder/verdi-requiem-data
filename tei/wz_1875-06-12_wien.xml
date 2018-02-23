@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Wiener Abendpost, 12. Juni 1875</title>
+				<author><persName ref="#ambros.august-wilhelm"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/wz_1875-06-12_verdis-requiem.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#wiener-zeitung" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-12" when-custom="sat"/>
+					<biblScope unit="issue">132</biblScope><biblScope unit="subIssue"
+						>132</biblScope><series>wz</series>
+					<biblScope unit="page">3–4</biblScope>
+					<link facs="wap_1875-06-12_3.png"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750612&amp;seite=13"/>
+					<link facs="wap_1875-06-12_4.png"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750612&amp;seite=14"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title>.</head>
+			<head rend="smaller"><rs type="event" ref="#wien.1875.1">Aufführung im <placeName
+						ref="#wien.hof-operntheater">k. k. Hofoperntheater</placeName>.</rs></head>
+			<p>Die <hi rend="antiqua"><title ref="#verdi.requiem">Missa pro defunctis</title></hi>,
+				mit welcher <persName ref="#verdi.giuseppe">Verdi</persName> und durch ihn Italien
+				das Andenken <persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>
+				ehrte, macht jetzt die Runde durch die musikalischen Großstädte — überall mit einem
+				Beifall begrüßt, welcher die früheren Erfolge ihres Meisters, selbst den Erfolg der
+					„<title ref="#verdi.aida">Aïda</title>“ überglänzt. Hätte uns noch vor einigen
+				Jahren irgend ein Orakel vorhergesagt, daß wir <persName ref="#verdi.giuseppe"
+					>Verdi</persName> auch als Kirchencomponisten zu bewundern haben werden, so
+				hätte sich das Orakel sicher vorläufig um allen Credit gebracht. Man durfte dem
+				Schöpfer des „<title ref="#verdi.il-trovatore">Trovatore</title>“ und des „<title
+					ref="#verdi.rigoletto">Rigoletto</title>“ alles Mögliche zutrauen, Kraft und
+				Originalität der Erfindung, Glanz, Melodienfülle, Kunst der Charakterisirung,
+				Kenntniß des Effectes, und als „<title ref="#verdi.aida">Aïda</title>“ erschienen
+				war, durfte man den Lorbeer, welchen man früher nur unter bedeutenden Reservationen
+				und Bedenken zu reichen bereit war, mit voller, freudiger Anerkennung spenden; —
+				aber der Weg aus dem Theater in die Kirche ist ein weiter. <persName
+					ref="#gluck.christoph-willibald">Gluck</persName> z.B. hat ihn gar nicht
+				gefunden, seinen Ruhm nicht, als er <hi rend="antiqua" xml:lang="la">ex
+					officio</hi><note resp="tr" type="quoteLink">Lat. »von Amts wegen«.</note> die
+				Chortreppe der katholischen Hofkirche in <placeName ref="#dresden"
+					>Dresden</placeName> hinanstieg; und die Doppelkrone des Operncomponisten und
+				Kirchencomponisten, welche mehr als Einer der alten großen Meister getragen, ist
+				heutzutage selten. Anlage, frische strömende Erfindung und eine gewisse Summe an Ort
+				und Stelle, d. i. im Theater gesammelter Erfahrungen kann dem Operncomponisten über
+				vieles Andere, was ihm vielleicht fehlt, hinüberhelfen, — ein glücklicher
+				Naturalist, wie z. B. <persName ref="#gretry.andre-ernest-modeste"
+				>Gretry</persName>, kann in der Oper sehr Erfreuliches leisten, und auch die beiden
+				genialen großen Meister dramatischer Musik, welche wir eben genannt, <persName
+					ref="#gluck.christoph-willibald">Gluck</persName> und <persName
+					ref="#weber.carl-maria-von">C. M. v. Weber</persName>, haben durch alles
+				Mögliche mehr geglänzt als durch Meisterschaft in jenen Kunstformen, welche der
+				musikalische Kirchenstyl nun einmal ganz speciell erheischt. Die Kirchencomposition
+				aber saßen unter der Zucht und Lehre strenger und nicht immer gerade liebenswürdiger
+				Meister und Lehrer jahrelang auf der harten Schulbank und verklecksten ganze Fässer
+				voll Tinte in Exercitien einfachen und doppelten Contrapunktes, ehe sie mit einem
+					<hi rend="antiqua" xml:lang="la">Liber Motettorum quatour vocum</hi><note
+					resp="tr" type="quoteLink">Lat. »Motettenbuch zu vier Stimmen».</note> oder
+				einer <hi rend="antiqua" xml:lang="la">Missa solemnis</hi> hervortraten. Der
+				Operncomponist kann ferner, wenn er will, die Schiffe hinter sich verbrennen, dem
+				dramatischen Musikstyl, wie er ihn antrifft, offen den Krieg erklären und der Welt
+				zurufen: „Ich bin Reformator!“ Der Kirchencomponist aber darf mit seinen Vorgängern
+				nicht brüsk brechen, er bedarf eines gewissen historischen Sinnes, er kann weiter
+				bauen, aber die alten Fundamente muß er respectiren. Wenn <persName
+					ref="#palestrina.giovanni-pierluigi">Palestrina</persName> in landläufigen
+				Musikgeschichten und Dutzend-Artikeln musikalischer Zeitschriften mit dem <hi
+					rend="antiqua" xml:lang="la">Epitheton ornans</hi><note resp="tr"
+					type="quoteLink">Lat. »schmückendes Beiwort«.</note> des „großen Reformators der
+				Kirchenmusik“ prangt, so kann der wirkliche Musikhistoriker, der mit den Werken des
+				Meisters und jenen seiner Vorgänger vertraut ist, dazu nur lachen oder, je nachdem,
+				sich darüber ärgern. Die gründlichsten Musikreformatoren an der Grenzscheide alter
+				und neuer Musik um 1600 bis 1650, <persName ref="#monteverdi.claudio"
+					>Monteverde</persName> und <persName ref="#cavalli.francesco"
+				>Cavalli</persName>, haben Kirchenstücke im Stile <hi rend="antiqua">da
+					cappella</hi> geschieben.</p>
+			<p>So sehr nun <persName ref="#verdi.giuseppe">Verdi</persName> seit der „<title
+					ref="#verdi.aida">Aïda</title>“ bei uns im Curse gestiegen und so freudig wir
+				ihm, soweit es an uns lag, eine Ehrenstelle im Pantheon der Meister seiner Kunst
+				zudecretirten, — wir schüttelten doch den Kopf, als Journale, die zuweilen zum
+				Widerspiele der Hennen zu gackern pflegen, ehe noch das Ei gelegt ist, und
+				ankündigten: „<persName ref="#verdi.giuseppe">Verdi</persName> componirt eben ein
+				Requiem.“ Je unbegrenzter unsere Bewunderung für die italienische Kirchenmusik des
+				Cinquecento und Secento war, um so weniger Vertrauen hegten wir zur modernen.
+					<persName ref="#rossini.gioachino">Rossini’s</persName> „<hi rend="antiqua"
+						><title ref="#rossini.stabat-mater">Stabat</title></hi>“ und seine <title
+					ref="#rossini.petite-messe-solennelle">Messe</title> waren nicht geeignet, uns
+				von dieser Meinung zu bekehren, und was wir in den Kirchen Italiens an Musik
+				„schaudernd selbst erlebt“<note resp="tr" type="literatureLink">Vgl. Friedrich
+					Schiller, Wallenstein, Die Piccolomini: »Ersparen Sies, uns aus dem
+					Zeitungsblatt / Zu melden, was wir schaudernd selbst erlebt.« – 2. Akt, 7.
+					Auftritt.</note>, machte unseren Hoffnungen auf eine bessere künftige Kunstzeit
+				gründlich ein Ende. Aber man sollte nie zu früh verzweifeln. Wir müßten ein wahres
+				musikalisches <hi rend="antiqua" xml:lang="it">Risorgimento d’Italia</hi> dramatisch
+				in „<title ref="#verdi.aida">Aïda</title>“, kirchlich in der <title
+					ref="#verdi.requiem">Manzoni-Messe</title> begrüßen, flüsterte uns nicht irgend
+				ein skeptischer Kobold ins Ohr, daß <persName ref="#verdi.giuseppe">Verdi</persName>
+				eben eine vereinzelte große Erscheinung ist, daß jene Werke vielleicht nur
+				stoffartig auf eine Schaar von Nachahmern wirken werden, die wir nur als „kleine“
+				Erscheinungen werden taxieren können. Daß der Aufschwung, welchen <placeName
+					ref="#italien">Italien</placeName> in neuester Zeit genommen, übrigens auch auf
+				die Künste nicht ohne Einfluß bleiben kann, ist wohl mit Sicherheit anzunehmen. Wir
+				dürfen auch <persName ref="#verdi.giuseppe">Verdi’s</persName> zwei neueste
+				Hauptwerke in diesem Sinne verstehen. Als uns das <title ref="#verdi.requiem"
+					>Requiem</title> endlich Schwarz auf Weiß in der eleganten Ricordi’schen Ausgabe
+				vorlag, lasen wir, staunten wir. Durchweg ein meisterhafter polyphoner Satz! Und
+				hinwiederum bei der Stelle: „<title ref="#verdi.requiem.2.confutatis" n="oro-supplex"
+					>oro supplex et acclinis</title>“ mit handgreiflicher Tendenz hingeschriebene
+				Parallelquinten, über welche <persName ref="#sechter.simon">Simon Sechter</persName>
+				sterben würde, wäre er nicht schon todt, und bei welchen uns war, als hörten wir
+					<persName ref="#verdi.giuseppe">Verdi</persName> sprechen: „Ihr alten
+				Schulfüchse, sehet, daß ich — schlaget im „<title ref="#verdi.requiem.4"
+					>Sanctus</title>“ nach — eine Doppelfuge schreiben kann, sogar achtstimmig, vor
+				welcher ihr Respect haben müßt. Wie viel ich mich aber um eure Regeln kümmere, das
+				sehet hier selbst: <hi rend="antiqua">gis, fis, e / cis, h,
+				a</hi><!--*LAYOUT zweizeililg--> u. s. w.“ Wir sind musikalisch so ziemlich liberal,
+				aber beim Anblick dieser Stelle wurden wir doch, was man in Italien <hi
+					rend="antiqua" xml:lang="it">stordito</hi> oder <hi rend="antiqua" xml:lang="it"
+					>sbalordito</hi><note resp="tr" type="quoteLink">Ital. »bestürzt«,
+					»verblüfft«.</note> nennt. Endlich haben wir die Composition auch gehört. Sollen
+				wir es sagen? Diese zwei Stunden brachten uns musikalische Eindrücke, welche zu den
+				größten gehören, deren wir uns zu erinnern wissen.</p>
+			<p>Der alte <persName ref="#zelter.carl-friedrich">Zelter</persName> schreibt in einem
+				seiner Briefe an <persName ref="#goethe.johann-wolfgang-von">Goethe</persName> über
+				das <persName ref="#mozart.wolfgang-amadeus">Mozart’sche</persName>
+				<title ref="#mozart.requiem">Requiem</title>: „es zeige sich darin überall die
+				Leidenschaftlichkeit des Operncomponisten, verbunden mit den Traditionen einer
+				alten, grossen Schule“.<note resp="tr" type="literatureLink">Vgl. Brief von Zelter
+					an Goethe, August 1827: »in ernsthafter einsamer Selbstbeschauung entwickeln
+					sich gewisse Anfänge einzelner Theile des Requiem (wie Du sie einst Deinem
+					Gretchen so wahr beygegeben hast) dies irae – tuba mirum – rex tremendae –
+					confutatis – lacrimosa – und gerade diese Stücke sind es welche die tiefste
+					Zerknirschung eines religiosen Gemüths, und zugleich von einer Seite die letzten
+					Reste einer großen Schule, und von der andern Seite den leidenschaftlichen Sinn
+					eines Theater-Componisten offenbaren. Der Styl ist also vermischt, ungleich, ja
+					brüchig, und so entsteht die Verwirrung worin sich die heutige Kritik so sehr
+					gefällt.« – Briefwechsel zwischen Goethe und Zelter in den Jahren 1796 bis 1832.
+					Band 4 (Berlin 1834), S. 351–352.</note> Man kann auch <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> nicht besser charakterisiren als mit
+				eben diesen Worten. Als die ersten, aus dem grenzenlosen Jubel und Enthusiasmus,
+				womit <placeName ref="#mailand">Mailand</placeName> das Werk aufnahm, solo
+				heraustönenden kritischen Stimmen diese <title ref="#verdi.requiem">Messa da
+					Requiem</title> mit dem kurzen Worte in ihrem Grund und Wesen bezeichnen zu
+				können meinten, daß sie sie „drammatica“ nannten, erwarteten wir und zwar nicht ohne
+				Bedenken, etwas ganz Anderes, als wir hernach gefunden haben. Wir fanden auch hier
+				neben der „Leidenschaftlichkeit des Operncomponisten“ die „Traditionen einer alten,
+				großen Schule“.<note resp="tr" type="literatureLink">Vgl. vorige Anmerkung, Brief
+					von Zelter an Goethe.</note> Wann und wo sich <persName ref="#verdi.giuseppe"
+					>Verdi</persName> die also genaue Bekanntschaft mit letzeren erworben, darüber
+				sind uns seine Biographien bisher die Antwort schuldig — aber daß er sie kennt,
+				davon giebt jede Seite seiner Partitur Zeugniß. Daß er beim Schaffen dieses so zu
+				sagen mit Herzblut geschriebenen Werkes nur an den Concertsaal, an’s Publicum, an
+				günstige Recensionen und Correspondenznachrichten gedacht, wäre entschieden in
+				Abrede zu stellen. Sehen wir ganz von dem vereinzelten anekdotenhaften Zuge ab, den
+				sich <persName ref="#verdi.giuseppe">Verdi’s</persName> künftige Lebensbeschreiber
+				einstweilen in ihr Notizenbuch eintragen mögen, daß bei der Mailänder Aufführung
+				während des „<title ref="#verdi.requiem.5">Agnus</title>“ <persName
+					ref="#verdi.giuseppe">Verdi</persName>, der dasteht wie das Bronzebild eines
+				altrömischen Imperators, in einen Strom von Thränen ausbrach, — so höre man nur das
+				Werk selbst. Wer den Weihrauchduft, welche daraus zum Himmel emporsteigt, nicht
+				empfindet, hat vermuthlich den Schnupfen. Wie und warum — darüber wäre viel zu
+				sagen. Suche man nur in irgend einer Biographie <persName
+					ref="#mozart.wolfgang-amadeus">Mozarts</persName> die merkwürdigen, von
+					<persName ref="#rochlitz.friedrich">Rochlitz</persName> aufbehaltenen Worte auf,
+				welche jener eines Abends bei <persName ref="#doles.johann-friedrich">Vater
+					Doles</persName> in <placeName ref="#leipzig">Leipzig</placeName> über
+				Kirchenmusik gesprochen<note resp="tr" type="literatureLink">Vgl. z. B. die
+					zeitgenössische Ausgabe von Alexander Ulibischeff: Mozart’s Leben und Werke
+					(Stuttgart 1859), S. 190–194.</note>. Sie treffen den Kernpunkt der Sache.
+					<persName ref="#weber.gottfried">Gottfried Weber</persName>, der
+					Herostratus<note resp="tr" type="glossaryLink">Herostratus, ein ionischer Hirte,
+					der aus Verlangen nach Ruhm den Tempel der Artemis in Ephesos, welcher zu den
+					»Sieben Weltwundern« der Antike gerechnet wird, in Brand setzte.</note> des
+					<persName ref="#mozart.wolfgang-amadeus">Mozart’schen</persName>
+				<title ref="#mozart.requiem">Requiem</title>, und in unseren Tagen der brave,
+				tüchtige <persName ref="#scholz.bernhard">Bernhard Scholz</persName>
+				<choice>
+					<orig>hat</orig>
+					<corr resp="tr">haben</corr>
+				</choice> auch eine Todtenmesse componirt. Es ist Alles da — Kern, Gehalt,
+				Tüchtigkeit, würdige Färbung — es fehlt eben nur Eines: der vorhin belobte
+				Weihrauchduft.</p>
+			<p>Wenn <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> in der That einen dramatischen Zug hat,
+				so ist da am allermindesten ein Tadel für dasselbe. Es liegt im Wesen der Sache,
+				insbesondere aber in der dem Ritualtexte eingeschalteten Sequenz „Dies irae“, daß
+				gerade die großen musikalischen Dramatiker sich mit sichtlicher Vorliebe der Aufgabe
+				zuwandten, diesen Text in Musik zu setzen, während die Meister des
+				altniederländischen und des aus letzterem entwickelten <persName
+					ref="#palestrina.giovanni-pierluigi">Palestrina</persName>-Styles unter ihrer
+				Legion von Messen nur sehr ausnahmsweise Requiems aufzuweisen haben. Dann lassen sie
+				erst noch das „Dies irae“ gerne beiseite und ersetzen es durch den Satz: „Si
+				ambulavero in medio umbræ mortis“ etc.<note resp="tr" type="bibleLink">Vgl. Ps 23,4:
+					»Si ambulem in medio umbrae mortis, non timebo mala, quoniam tu mecum es,
+					Domine. Virga tua et baculus tuus ipsa me consolata sunt.« — »Und ob ich schon
+					wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein
+					Stecken und Stab trösten mich.« (Übersetzung: Luther 1984, dort Psalm 22,4)
+					Dieser Text wurde in älteren Kompositionen manchmal anstelle des üblichen
+					Graduale-Textes verwendet, vgl. z.B. Orlando di Lassos Missa pro defunctis von
+					1578.</note> Sie fühlen gleichsam die Unmöglichkeit, den Weltuntergang mit
+				bloßen Menschenstimmen zu schildern. <persName ref="#desprez.josquin"
+					>Josquin</persName> hat gar kein Requiem componirt, unter den übrigen
+				Ockenheimiten hat <persName ref="#brumel.antoine">Antonius Brumel</persName>
+				<title ref="#brumel.missa-pro-defunctis">eines, wo sogar das „Dies irae“
+					vorkommt</title>, und <persName ref="#prioris.johannes">Johannes
+					Prioris</persName><note resp="tr" type="musicLink"><title ref="#prioris.requiem"
+						>Requiem / Missa pro defunctis à quator vocibus</title>.</note>. Die
+				Todtenmessen von <persName ref="#palestrina.giovanni-pierluigi"
+					>Palestrina</persName>, von <persName ref="#anerio.felice">Anerio</persName>,
+				von <persName ref="#vecchi.orazio">Orazio <choice>
+						<orig>Becchi</orig>
+						<corr resp="tr">Vecchi</corr>
+					</choice></persName> und so weiter bis auf <persName
+					ref="#pitoni.giuseppe-ottavio">Pitoni</persName>, welcher vielleicht der Letzte
+					<title ref="#pitoni.requiem">ein Requiem im Cappella-Styl</title> geschrieben,
+				seien kurz erwähnt. Mit seinem Sinne gaben insbesondere die ältesten Meister ihrer
+				Composition fühlbar einen lugubern Ton, der oft ins Psalmodirende, in Falsi-Bordoni
+				übergeht, ähnlich wie sie die Lamentationen für die Charwoche in Musik zu setzen
+				gewohnt waren. Der völlig objective, rein rituelle Ton, welcher der alten
+				Kirchenmusik eigen ist, herrscht durchaus. Aber gerade in der Messe für die Todten,
+				welche wir begraben und beweinen, möchte die subjective Empfindung so gerne, so
+				gewaltig durchbrechen. Im <title ref="#richafort.requiem">Requiem</title> von
+					<persName ref="#richafort.jean">Richafort</persName>, einem Schüler <persName
+					ref="#desprez.josquin">Josquins</persName>, findet sich in dieser Beziehung ein
+				überaus merkwürdiger Zug. Die Composition ist sechsstimmig; im Satze „si
+					ambulavero“<note resp="tr" type="bibleLink">Siehe obige Anmerkung zu Ps
+					23,4.</note> und weiter bis zum „Sanctus“ singen zwei Tenore in das
+				contrapunctische Flechtwerk und in den Ritualtext immer wieder den scharfen
+				Schmerzensruf — französisch! — hinein: „<hi rend="antiqua" xml:lang="fr">c’est
+					douleur non pareille</hi>“<note resp="tr" type="quoteLink">Frz. »dies ist
+					unvergleichbarer Schmerz«.</note>. Als nach 1600 die ersten großen Dramatiker
+				kamen, nahmen die Todtenmessen sofort eine andere Färbung an. <persName
+					ref="#monteverdi.claudio">Monteverde’s</persName>
+				<title ref="#monteverdi.messa-di-requiem">Requiem</title>, das er auf den Wunsch
+				einiger Florentiner zu einer für den <persName ref="#cosimo-ii.medici">Großherzog
+					von Toscana</persName> in <placeName ref="#venedig">Venedig</placeName>
+				veranstalteten Todtenfeier schrieb, ist uns leider nicht erhalten. Aber wenn uns
+				bewunderungsvolle Berichte der Zeitgenossen melden: „wie er das „Libera“ als Scene
+				im Purgatorium aufgefaßt und als ein Gespräch zwischen den leidenden, büßenden
+				Engeln“<!--ZITAT nicht gefunden: Bericht zu Monteverdi (evtl. bei G. Strozzi?)--> —
+				so erkennen wir sofort den eingefleischten Dramatiker und die in die „Selva“
+				eingeschalteten Kirchenstücke, insbesondere das herrliche, chromatische „Crucifixus“
+				können uns zudem eine Idee geben, wie das für uns verlorene Requiem ausgesehen haben
+				mag. <persName ref="#monteverdi.claudio">Monteverde’s</persName> genialer Schüler
+					<persName ref="#cavalli.francesco">Cavalli</persName> schrieb als Greis für sich
+				selbst ein wundervolles <title ref="#cavalli.missa-pro-defunctis">Requiem</title>,
+				nach venetianischer Art a due cori spezzati — es wurde <date when-iso="1676"
+					>1676</date> in der <placeName ref="#venedig.san-marco"
+					>Marcus-Kirche</placeName> aufgeführt. Es nähert sich wieder mehr dem <persName
+					ref="#palestrina.giovanni-pierluigi">Palestrina</persName>-Styl oder vielmehr
+				dem <persName ref="#gabrieli.andrea">Gabrieli</persName>-Styl, aber die
+				„Leidenschaftlichkeit des Opern­componisten“ guckt aller Ecken und Enden heraus. Wie
+				erzdramatisch es in <persName ref="#mozart.wolfgang-amadeus">Mozarts</persName>
+				<title ref="#mozart.requiem">Requiem</title> aussieht, weiß alle Welt: „dies iræ,
+				rex tremendæ majestatis, oro supplex (eine Stelle, von welcher <persName
+					ref="#rossini.gioachino">Rossini</persName> sagte, er könne sie nie hören, ohne
+				daß ihn ein Schauer überläuft), confutatis“ u. s. w., vor Allem das unvergleichliche
+					„<title ref="#mozart.requiem.3.4-recordare">Recordare</title>“, wo Dramatisches
+				und Kirchenmäßiges sich wechselseitig durchdringen, wie vielleicht nirgends
+				wieder.</p>
+			<p>So edlen Vorgängern reiht sich <persName ref="#verdi.giuseppe">Verdi</persName>
+				würdig an. So weit sein <title ref="#verdi.requiem">Requiem</title> „dramatisch“
+				ist, geben wir es ihm gerne zu — es kann gar nicht anders sein. Aber nicht
+				verschweigen dürfen wir, daß zu den wenigen kleinen Sonnenflecken seiner glanzvollen
+				Schöpfung einige zum Glück rasch vorübergehende Stellen gehören, wo sich ihm an
+				Stelle des Dramatischen, wie ohne daß er es selbst merkt, das Theatralische
+				substituirt. Getheilte tremolirende Geigen, wo es gilt, die lux æterna zu schildern
+				— leidenschaftliche Phrasen der Singstimme, welche in einer hochtragischen Oper an
+				der einzig richtigen Stelle wären — es sind, wie gesagt, einzelne kleine
+				Sonnenflecken. Manche Anklänge an „<title ref="#verdi.aida">Aïda</title>“ wollen wir
+				hingehen lassen, schreiend ungerecht aber ist es, sagen zu wollen: „es sei Musik im
+				Styl der „<title ref="#verdi.aida">Aïda</title>“, aber auf einen Kirchentext
+				angewendet“. Es ist nicht mehr Verwandtschaft da als etwa zwischen <persName
+					ref="#mozart.wolfgang-amadeus">Mozarts</persName> auch fast gleichzeitigen
+				Werken: der „<title ref="#mozart.die-zauberfloete">Zauberflöte</title>“ und dem
+					<title ref="#mozart.requiem">Requiem</title> — eine Verwandtschaft, welche
+				bekanntlich <persName ref="#jahn.otto">Otto Jahn</persName> so schön und geistvoll
+				nachzuweisen verstanden hat.<note resp="tr" type="literatureLink">Vgl. <persName
+						ref="#jahn.otto">Otto Jahn</persName>, <ref type="text"
+						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA737">W. A.
+						Mozart, 4. Theil (Leipzig 1859), S. 736, Anm. 87</ref>.</note> Daß <persName
+					ref="#verdi.giuseppe">Verdi</persName> sein <title ref="#verdi.requiem"
+					>Requiem</title> mit allem Glanz moderner Orchestration ausgestattet, darf man
+				ihm bei der Fülle und Menge der bezauberndsten, ganz neuen Klangmischungen wahrlich
+				nicht zum Vorwurf machen. Am stärksten sind die Farben, wie natürlich, im „<title
+					ref="#verdi.requiem.2.dies-irae">dies irae</title>“ aufgetragen, aber wenn
+				Himmel und Erde zusammenbrechen, kann es doch wohl nicht klingen, als lasse der
+				Bediente einen Teller fallen. Der Einfall mit den aus den vier Weltecken blasenden
+				Posaunen (beziehungsweise Blechinstrumenten überhaupt) gehört <persName
+					ref="#berlioz.hector">Berlioz</persName> an, <persName ref="#verdi.giuseppe"
+					>Verdi</persName> hat ihn neu und überaus wirksam verwerthet. Die „Gran Cassa“
+				ist dabei so gut, fast möchte man sagen so klug-bescheiden und mit so überraschender
+				Wirkung verwendet, daß sie uns weit zulässiger scheinen will als der berühmte
+				Tamtam-Schlag, mit welchem <persName ref="#cherubini.luigi">Cherubini</persName> das
+				Schlagen der Todesstunde der Welt etwas gar zu nachdrücklich malt. Wenn wir sagen
+				müssen, daß <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> sich gleich gut in der Kirche wie im
+				Concertsaal ausnimmt und daß sich dabei eben so gut beten wie darnach applaudiren
+				läßt, so ist das ein beneidenswerthes <hi rend="antiqua" xml:lang="la">omne tulit
+					punctum</hi> u. s. w.<note resp="tr" type="literatureLink">Vgl. <persName
+						ref="#horaz">Horaz</persName>, Ars poetica, 343f: »Omne tulit punctum, qui
+					miscuit utile dulci / lectorem delectando pariterque monendo.« – »Allen Beifall
+					gewinnt, wer das Nützliche mit dem Angenehmen mischt / so dass er den Leser
+					ebenso erfreut wie ermahnt.«</note> Durchwegs ist der Ausdruck der Empfindungen
+				mit südlicher Glut gemalt, es ist mitunter wie ein Lavastrom, welcher sich ergießt.
+				Vielleicht zu weit geht <persName ref="#verdi.giuseppe">Verdi</persName>, wenn er im
+					„<title ref="#verdi.requiem.2.lacrymosa">Lacrimosa</title>“ dem Solo-Alt
+				wirklich schluchzende Accente giebt, — der Satz ergreift aber aufs tiefste und da
+				hören alle kritischen Bedenken auf. Wo es der Text erheischt, wird die Musik rein
+				ceremoniell, Weihe, Gebet. Als <persName ref="#buonarroti.michelangelo"
+					>Michel-Angelo</persName> die Stanzen Raphaels im Vatican erblickte, soll er
+				ausgerufen haben: „<persName ref="#sanzio.rafaello">Sanzio</persName> war in der
+					<placeName ref="#rom.sixtinische-kapelle">sixtinischen Capelle</placeName>.“
+				Beim „<title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet hymnus</title>“ fühlt
+				man sich versucht, auszurufen: „<persName ref="#verdi.giuseppe">Verdi</persName> war
+				in der <placeName ref="#rom.sixtinische-kapelle">sixtinischen Capelle</placeName>!“
+				Die merkwürdige schauerliche Stelle: „<title
+					ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">mors stupebit et natura</title>“
+				überhörte man nicht. Es sind so wenige Compositionen, welche diesem ungeheuren Bilde
+				gerecht werden! Frappant wirken bei <persName ref="#verdi.giuseppe">Verdi</persName>
+				die nachschlagenden Pulse — ein Klangeffect, den er (der Erste) in glücklicher Weise
+				aus <persName ref="#beethoven.ludwig-van">Beethovens</persName>
+				<title ref="#beethoven.symphonie-9">neunter Symphonie</title> herübergenommen. Wir
+				würden gar nicht fertig, wollten wir auf alle einzelnen Schönheiten mit Fingern
+				deuten — es ist auch gar nicht nöthig. Das wundervolle Duo „<title
+					ref="#verdi.requiem.2.recordare">Recordare Jesu pie</title>“ (das nur gegen den
+				letzten Schluß hin einen Zug gegen das Opernhafte nimmt), das originelle,
+				unbeschreiblich geist- und effectvolle „<title ref="#verdi.requiem.5"
+				>Agnus</title>“, wo die sanften Flötenklänge so wunderbar schön und so kunstvoll die
+				beiden Frauenstimmen durchdringen (man kann nicht sagen: accompagniren) — und andere
+				Details stellen das Werk auf eine Höhe, von der es mißwollende Kritik nimmermehr
+				herunterwerfen wird, und wenn <persName ref="#buelow.hans-von">Hans v.
+					Bülow</persName> nach der <rs type="event" ref="#mailand.1874.1"><placeName
+						ref="#mailand">Mailänder</placeName> Aufführung</rs> das Werk sehr „von oben
+				herab“ anerkennend behandelte<note resp="tr" type="textLink">Vgl. <ref type="text"
+						target="az_1874-05-28_mailand.xml">Allgemeine Zeitung, Augsburg, 28. Mai
+						1874</ref>.</note>, so kann <persName ref="#verdi.giuseppe">Verdi</persName>
+				dazu lächeln, — wir versprechen, ihm lächeln zu helfen. Aber auch mit blind
+				enthusiastischen Explosionen wird dem Meister nicht gedient sein. Wir lasen
+				kürzlich: „<persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> ist die größte Tonschöpfung des
+					Jahrhunderts.“<note resp="tr" type="textLink">Vgl. <ref type="text"
+						target="iwe_1875-06-10_die-manzoni-messe-verdis.xml">Illustrirtes Wiener
+						Extrablatt, 10. Juni 1875</ref>.</note></p>
+			<p>Erinnern wir uns nun, daß in diesem Jahrhundert einige Kleinigkeiten componirt
+				worden, wie die neun Symphonien <persName ref="#beethoven.ludwig-van"
+					>Beethovens</persName> und dessen „<title ref="#beethoven.fidelio"
+					>Fidelio</title>“ und die <title ref="#beethoven.missa-solemnis">Missa in
+					D</title> — so will und scheinen, daß in die hier abgefeuerte Ehrenkanone sehr
+				lebensgefährlicher Weise zu viel Pulver geladen ist. Wir sind nicht blind — daß das
+				Werk seine schwächeren Partien hat. Man braucht kein Pedant zu sein, um die vorhin
+				erwähnten Parallelquinten<note resp="tr" type="musicLink">Siehe <title
+						ref="#verdi.requiem.2.confutatis" n="oro-supplex">Oro supplex</title>.</note>,
+				welche jeder musikalische ABC-Schütze ganz leicht corrigiren könnte, für eine
+				unmotivirte Marotte und für einen Effect zu erklären, der sehr peinlich klingt, — es
+				hilft nicht, daß die erste Violine nur als „Verdopplung“ des Solo-Basses auftritt —
+				es klingt schlecht und verdirbt die sonst so schöne Nummer. Möge <persName
+					ref="#verdi.giuseppe">Verdi</persName> sich hier ein „Pentimento“<note resp="tr"
+					type="quoteLink">Ital. »Reue« oder auch »Meinungsänderung«.</note> nicht
+				verdrießen lassen! Hat er doch an Stelle der (übrigens respectablen) Fuge: „<title
+					ref="#verdi.requiem.2.liber-scriptus.1874">liber scriptus</title>“ dermal mit
+				vortrefflicher Wirkung eine breit angelegte <title
+					ref="#verdi.requiem.2.liber-scriptus">Alt-Arie</title> gesetzt — bei welcher das
+				stellenweise dazwischen geflüsterte, ängstliche „dies iræ, dies illa“ des Chores
+				wieder von größter, echt dramatischer, wohlmotivirender Wirkung ist. Das „<title
+					ref="#verdi.requiem.3" n="quam-olim-abrahae">quam olim Abrahæ</title>“ hat <persName
+					ref="#verdi.giuseppe">Verdi</persName> ziemlich so abgefertigt, als habe er
+				damit nur fertig werden wollen; das chromatisch absteigende Motiv nimmt sich nicht
+				eben gut aus und die Sequenz-Harmonien auf einem in regelmäßigen Schritten
+				fortschreitenden Grundbaß, wie Lehrer dergleichen Scholaren der Harmonielehre als
+				Pensum aufzugeben pflegen, sind in einem so bedeutenden Werke doch wohl Lückenbüßer.
+				Daß Gott der Herr zu Anfang des „<title ref="#verdi.requiem.4">Sanctus</title>“ so
+				cavaleriemäßig angetrompetet wird, will uns auch nicht gefallen — aber der im
+				sechsten Tacte mit ungeheurer Wirkung einfallende Accord von C mit der kleinen
+				Septime macht es gut. Das ist ein Moment, der analog wirkt wie <persName
+					ref="#haydn.joseph">Haydn’s</persName>: „<title ref="#haydn.die-schoepfung">Es
+					werde Licht</title>!“<note resp="tr" type="musicLink">Dort folgt gegen Ende des
+					ersten Rezitativs auf einen Abschnitt mit Chor sotto voce und pianissimo ein
+					Tutti-Einsatz im Fortissimo auf C-Dur; vgl. Erstdruck S. 12.</note> Warum das
+				plötzliche G-moll des „dies iræ“, einmal nach H-moll und einmal nach C-Dur mit
+				ungenirtester Rücksichtslosigkeit hereinkrachend, weniger beim Anhören das Ohr als
+				auf dem Papier das Auge stört, wäre der Mühe werth zu untersuchen.<note resp="tr"
+					type="musicLink">Nach H-Dur (!) in Nr. 2, T. 573 und nach C-Dur in Nr. 7, T.
+					45.</note></p>
+			<p>Der Anhangsatz des „<title ref="#verdi.requiem.7">Libera</title>“ faßt wunderschön
+				alles Frühere retrospectiv zusammen. Der Wechsel psalmodirender, cantabler, fugirter
+				Stellen ist hier in seiner Art einzig, wir wüßten kein zweites Beispiel. Ein höchst
+				genialer Zug ist die Episode, wo der Tondichter den Anfang des Tonwerkes, den man
+				dort mit Orchester und Solostimme in C-moll gehört, als fünfstimmigen Vocalsatz in
+				B-moll wiederbringt, das folgende, recitativartige Solo des Soprans: „<title
+					ref="#verdi.requiem.7" key="171-381">Libera me Domine</title>“ u. s. w. auf einem
+				Geigen-Tremolo mag eine analoge Stelle im „<title
+					ref="#beethoven.missa-solemnis.agnus-dei">Agnus</title>“ der großen <title
+					ref="#beethoven.missa-solemnis">Missa</title>
+				<persName ref="#beethoven.ludwig-van">Beethovens</persName> in Erinnerung
+					bringen<note resp="tr" type="musicLink">Vgl. Beethoven, Missa solemnis, Agnus
+					Dei Takt 174–185 (timidamente).</note> — nur Meister durften so etwas wagen, es
+				steht ganz haarscharf an der Grenze des für die Kirche Zulässigen. Den letztesten
+				Schluß können wir nicht treffender schildern als mit den eben so schönen als wahren
+				Worten des geistvollen und gründlichen französischen Kritikers <persName
+					ref="#reyer.ernest">Reyer</persName>: „Quelques notes non mesurées dites
+				pianissimo par le soprano et répétées à l’unisson par le chœur, la dernière lueur de
+				la lampr qui s’éteint sous les arceaux d’une cathédrale, voilà comment finit cette
+				belle œuvre.“<note resp="tr" type="textLink">Vgl. <ref type="text"
+						target="jdd_1874-06-1_feuilleton.xml">Journal des Débats, Paris, 14. Juni
+						1874</ref>.</note> Getrost rufen wir nach dem Anhören des <title
+					ref="#verdi.requiem">Requiem</title>
+				<persName ref="#verdi.giuseppe">Verdi’s</persName>: „Noch ist das musikalische
+				Italien nicht verloren!“<note resp="tr" type="commentary">Freie Abwandlung von »Noch
+					ist Polen nicht verloren«, des »Liedes der Polnischen Legionen in Italien«,
+					heute die polnische Nationalhymne.</note></p>
+			<p>Ueber die ganz wunderbar vollendete Aufführung unter der Leitung des Componisten
+				fassen wir uns kurz. Er hat an den Damen <persName ref="#stolz.teresa"
+					role="soloist.soprano">Teresa Stolz</persName> und <persName
+					ref="#waldmann.maria" role="soloist.mezzo">Maria Waldmann</persName>, an den
+				Herren <persName ref="#masini.angelo" role="soloist.tenor">Angelo Masini</persName>
+				und <persName ref="#medini.paolo" role="soloist.basso">Paolo Medini</persName>
+				Kräfte und Interpreten mitgebracht, wie sie anderen Componisten für ihre Werke
+				allenfalls als Ideale vorschweben mögen. Das Publicum war dem Wohllaute dieser
+				Stimmen, von der hohen Gesangskunst, welche und hier entgegentrat, von dem bis ins
+				Feinste belebten und beseelten Vortrage förmlich bezaubert. Welche ein Tenor ist
+					<persName ref="#masini.angelo" role="soloist.tenor">Masini</persName>! Signora
+					<persName ref="#stolz.teresa" role="soloist.soprano">Stolz</persName> wurde von
+				der eigenen Begeisterung stellenweise weiter ins Dramatische hineingerissen, als
+				nach unseren Begriffen für die Kirche angehen möchte. Aber — wir saßen ja im
+					<placeName ref="#wien.hof-operntheater">Operntheater</placeName>, nicht in der
+				Kirche, und die Wirkung war außerordentlich. Hier scheidet sich wieder die Kritik.
+				Der Chor des Hofoperntheaters, vereinigt mit dem <orgName
+					ref="#wien.akademischer-gesangverein">akademischen Gesangverein</orgName>, und
+				unser berühmtes Orchester verbanden sich mit den Solisten zu einer Gesammtleistung,
+				welche und unvergeßlich bleiben wird.</p>
+			<p>Daß das edle Werk in einer wirklich ideal zu nennenden Aufführung das gedrängt volle
+				Haus zu einem Beifall hinriß, der aus vollen Herzen kam und nicht schon früher als
+				„latenter“ Bestandtheil des Programmes in letzterem mit einbegriffen war, ist kaum
+				nöthig zu sagen. Athemlose Stille während der Musik — und nach dem letzten Tact
+				jeder Nummer, wie auf eine gegebenes Signal, ein wahrer Beifallsdonner. Das „<title
+					ref="#verdi.requiem.2.recordare">Recordare</title>“, „<title
+					ref="#verdi.requiem.3" n="hostias">Hostias</title>“ und „<title
+					ref="#verdi.requiem.5">Agnus</title>“ wurden wiederholt. Am liebsten hätte das
+				Publicum das ganze <title ref="#verdi.requiem">Requiem</title> noch ein Mal gehört.
+				Zuletzt ertönten stürmische: „Viva <persName ref="#verdi.giuseppe"
+				>Verdi</persName>!“ Wir stimmen von ganzem Herzen ein; „Viva <persName
+					ref="#verdi.giuseppe">Verdi</persName>!“ und „Vivrà <persName
+					ref="#verdi.giuseppe">Verdi</persName>!“ obend’rein, denn wer so etwas
+				geschaffen, steht mit unter den großen Meistern für alle Zeiten da.</p>
+			<p rend="right"><persName ref="#ambros.august-wilhelm">A. W. <hi rend="widespace"
+						>Ambros</hi></persName>.</p>
+		</body>
+	</text>
+</TEI>

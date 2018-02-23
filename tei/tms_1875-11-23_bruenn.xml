@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 23. November 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1875-11-23_ankuendigung.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1875-11-23" when-custom="tue"/>
+					<biblScope unit="issue">268</biblScope><biblScope unit="volume"
+						>25</biblScope><series>tms</series>
+					<biblScope unit="page">[3]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Ankündigung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb n="3b"/>
+			<head rend="larger bold">Brünner Chronik.</head>
+			<cb n="3c" type="skipped"/>
+			<p><g type="MULTIPLICATION_X" n="2715">✕</g> (<persName ref="#verdi.giuseppe"
+					>Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title>.) <rs type="event" ref="#bruenn.1876">Wie
+					wir vernehmen, soll das <title ref="#verdi.requiem">Requiem</title>
+					<persName ref="#verdi.giuseppe">Verdi’s</persName> zweimal und zwar an zwei bald
+					aufeinanderfolgenden Tagen zur Aufführung gelangen.</rs> Das Komite beabsichtigt
+				daher auch Abonnements-Karten für beide Produktionen zu ermäßigten Preisen
+				auszugeben.</p>
+		</body>
+	</text>
+</TEI>

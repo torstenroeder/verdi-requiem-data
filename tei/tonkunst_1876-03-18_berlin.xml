@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 18. März 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-03-18_berlin.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tonkunst" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-03-18"/>
+				<biblScope unit="issue">8</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
+				<biblScope unit="page">133</biblScope>
+				<link facs="tonkunst_1876-03-18_133.png"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#berlin"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Musikpflege.</head>
+		<p><hi rend="bold">Concerte.</hi>
+			<gap resp="tr"/>
+			<rs type="event" ref="#berlin.1876-hofconcerte.1"><hi rend="widespace"><placeName ref="#berlin">Berlin</placeName></hi>: HofC.-<persName ref="#taubert.wilhelm">Taubert</persName>.
+					<title ref="#verdi.requiem">Verdi-Messe</title></rs>, Quartett (Fr <persName ref="#artot-de-padilla.desiree">Artôt</persName>-<hi rend="antiqua">S</hi>), Solos
+				(<persName ref="#hauser.miska">Hauser</persName>-<hi rend="antiqua">V</hi>, <persName ref="#pinner.max">Pinner</persName>-<hi rend="antiqua">P</hi>, <persName ref="#hummel.ferdinand">Hummel</persName>-<hi rend="antiqua">Ha</hi>).<note resp="tr" type="commentary">Auflösung der Abkürzungen: Sopran, Violine, Piano, Harfe.</note>
+			<gap resp="tr"/></p>
+	</body></text>
+</TEI>

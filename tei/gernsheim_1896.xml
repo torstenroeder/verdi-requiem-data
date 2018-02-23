@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gernsheims Musikführer, 1896</title>
+				<author><persName ref="#gernsheim.friedrich"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/gernsheim_1896_musikfuehrer.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>G. Verdi, Messa da Requiem. Leipzig: Hermann Seemann Nachfolger,
+						1896.</title>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1896-00-00"/>
+					<biblScope unit="volume">55/56</biblScope>
+					<biblScope unit="page">3</biblScope>
+					<!--FACS Musikführer: kein Digitalisat; Kopie vorhanden-->
+					<!--*BIBLIO Serie: http://imslp.org/wiki/Der_Musikführer -->
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation/>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<p>Als sich im Jahre <date when-iso="1874">1874</date> in der musikalischen Welt die
+				Kunde verbreitete, <persName ref="#verdi.giuseppe">Verdi</persName> habe für die
+				erste Wiederkehr des Todestages <persName ref="#manzoni.alessandro">Alessandro
+					Manzonis</persName> ein <title ref="#verdi.requiem">Requiem</title> geschrieben,
+				war man nicht wenig erstaunt, den Komponisten des <title ref="#verdi.il-trovatore"
+					>Trovatore</title> und der <title ref="#verdi.la-traviata">Traviata</title> ein
+				Gebiet betreten zu sehen, das nach der Meinung Vieler dem populären Opernkomponisten
+				mehr oder weniger ein fremdes sein musste, — ein Gebiet, für welches die Klänge, die
+				man bisher von ihm zu hören gewohnt war, wenig geeignet erscheinen wollten. Als aber
+				kurze Zeit nach den <rs type="event" ref="#paris.1874"><hi rend="widespace"
+							><placeName ref="#paris">Pariser</placeName></hi> Aufführungen</rs> das
+				Werk die Runde durch die Welt machte, brach sich sehr bald die Überzeugung Bahn,
+				dass man es nicht nur mit einer ernsten, sondern auch mit einer hochbedeutenden
+				Tonschöpfung zu thun habe, die einen wichtigen Markstein in der
+				geistig-musikalischen Entwicklung <persName ref="#verdi.giuseppe">Verdis</persName>
+				bildet. Freilich soll und darf man nie ausser Acht lassen, dass der Komponist ein
+					<hi rend="widespace">Südländer</hi> ist. Spiegelt sich doch in der Seele des
+				Südländers alles farbenreicher, bunt-schillernder als bei uns, den Kindern des <pb
+					break="yes" n="4" type="regular"/>Nordens, und jene Art des Empfindens findet
+				naturgemäss ihren Ausdruck in den geistigen Schöpfungen der glücklichen Bewohner des
+				sonnigen Italiens. So auch hier. Mag uns manches an den <hi rend="widespace"
+					>Opern</hi>komponisten mahnen, mag uns manches äusserlich erscheinen —, die
+				Wärme und Erfindungskraft, die dieser Tonschöpfung innewohnt, entspringen der Seele
+				eines gottbegnadeten Genies und sichern dem Werke für immer einen Ehrenplatz unter
+				den besten Erzeugnissen dieser Gattung.</p>
+			<p>[es folgt eine detaillierte Werkbesprechung mit Notenbeispielen]</p>
+		</body>
+	</text>
+</TEI>

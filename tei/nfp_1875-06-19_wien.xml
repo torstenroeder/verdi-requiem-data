@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 19. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-19_wien-jauner.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neue-freie-presse" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-19" when-custom="sat"/>
+				<biblScope unit="issue">3884</biblScope><biblScope unit="subIssue">3884</biblScope><series>nfp</series>
+				<biblScope unit="page">6</biblScope>
+				<link facs="nfp_1875-06-19_6.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750619&amp;seite=6"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="6" type="initial"/>
+		<head rend="larger">Theater- und Kunstnachrichten.</head>
+		<p rend="right"><placeName ref="#wien">Wien</placeName>, <date when-iso="1875-06-18">18.
+			Juni</date>.</p>
+		<cb break="null" n="6b" type="skipped"/>
+		<p>Der große künstlerische und materielle <rs type="event" ref="#wien.1875">Erfolg des <persName ref="#verdi.giuseppe">Verdi’schen</persName> <title ref="#verdi.requiem">Requiems</title></rs> hat Herrn Director <persName ref="#jauner.franz-von">Jauner</persName> veranlaßt, das ausschließliche Eigenthum und Aufführungsrecht dieser Composition für <placeName ref="#oesterreich-ungarn">Oesterreich-Ungarn</placeName> zu erwerben. Es heißt, daß die Direction der Oper gesonnen sei, das <title ref="#verdi.requiem">Requiem</title> nach Ablauf einiger Zeit, wahrscheinlich an den Normatagen<note resp="tr" type="glossaryLink">Normatag, in Österreich-Ungarn ein großer Festtag, an dem öffentliche Musik- und Theateraufführungen untersagt waren.</note>, mit heimischen Solokräften zur Aufführung zu bringen.</p>
+	</body></text>
+</TEI>

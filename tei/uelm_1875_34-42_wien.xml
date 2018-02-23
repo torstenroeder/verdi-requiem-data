@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Über Land und Meer, Stuttgart, [18. Juli] 1875 (= Neue Freie Pr., 13.6.)</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/uelm_1875_34-42_musik.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#ueber-land-und-meer" role="publisher"/>
+				<placeName ref="#stuttgart"/>
+				<date cert="medium" when-iso="1875-07-18"/>
+				<!--BIBLIO Datierung: Sonntage von April 1875 aus gezählt-->
+				<date cert="low" when-iso="1875-06-13"/>
+				<!--BIBLIO Datierung: zwei Aufführungen in Wien vorausgehend-->
+				<biblScope unit="issue">42</biblScope><biblScope unit="volume">34</biblScope>
+				<!--BIBLIO Bandangabe: 34. Bd. = 17. Jg., 2. Bd. = Nr. 27–52, 1875/04–1875/09-->
+				<biblScope unit="page">831</biblScope>
+				<link target="https://archive.org/stream/bub_gb_UfoN3WjRcJkC#page/n842/mode/1up"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Musik.</head>
+		<p>— <rs type="event" ref="#wien.1875"><hi rend="bold">Die beiden Aufführungen des „<title ref="#verdi.requiem">Requiem</title>“ von <persName ref="#verdi.giuseppe">Verdi</persName> im</hi> <lb break="yes"/><placeName ref="#wien.hof-operntheater">wiener Hofoperntheater</placeName> haben sich zu dem gestaltet, was man in <placeName ref="#wien">Wien</placeName> einen „sensationellen“ Erfolg nennt.</rs> Der Enthusiasmus kannte keine Grenzen, und da außerdem die italienische Kolonie <placeName ref="#wien">Wiens</placeName> erheblich vertreten war, erlebte man Beifallsstürme von einer Intensität und Ausdauer, wie sie nur bei den außerordentlichsten Anlässen auszubrechen pflegen. Der <title ref="#verdi.requiem.3" n="hostias">zweite Theil</title> des <title ref="#verdi.requiem.3">Offertoriums</title> und das <title ref="#verdi.requiem.5">Agnus Dei</title> wurden wiederholt. Das Publikum wollte zwar fast alle Sätze wiederholen lassen; allein der Kompositeur nahm Rücksicht auf die ohnedieß stark in Anspruch genommenen Sänger und gab nur wenige Repetitionen. Es ist überflüssig, zu sagen, daß <persName ref="#verdi.giuseppe">Verdi</persName> unzählige Male hervorgerufen wurde, und daß auch die Damen <persName ref="#stolz.teresa">Stolz</persName> und <persName ref="#waldmann.maria">Waldmann</persName> gleich den Herren <persName ref="#masini.angelo">Masini</persName> und <persName ref="#medini.paolo">Medini</persName> reichsten Beifall fanden.<note resp="tr" type="textLink">Bis hier identisch mit: <ref type="text" target="nfp_1875-06-13_wien-zweite-auffuehrung.xml">Neue Freie Presse, Wien, 13. Juni 1875</ref>.</note> Die ersten ausführlichen Besprechungen des Werkes tragen dem Erfolg Rechnung, doch merkt man heraus, daß nicht allen Kritikern bei ihren „Enthusiasmus“ wohl zu Muthe ist.</p>
+	</body></text>
+</TEI>

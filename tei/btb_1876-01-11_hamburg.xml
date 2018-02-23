@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Berliner Tageblatt, 11. Januar 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/btb_1876-01-11_hamburg.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#berliner-tageblatt" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-01-11" when-custom="tue"/>
+				<biblScope unit="issue">8</biblScope><series>bt</series>
+				<biblScope unit="page">3</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#hamburg"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Theater und Musik.</head>
+		<p><gap resp="tr"/>
+			<rs type="event" ref="#hamburg.1876.1">Am <placeName ref="#hamburg.stadt-theater">Hamburger
+					Stadttheater</placeName> ist am <date>Sonnabend</date>
+				<persName ref="#verdi.giuseppe" role="composer">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> mit großer Begeisterung aufgenommen
+				worden.</rs> Das szenische Arrangement war von Her<supplied resp="tr">r</supplied>n
+			Oberregisseur <persName ref="#hock.wilhelm">Hock</persName> besorgt. Die Szene stellte das
+			Innere einer katholischen Kirche dar, die Mitwirkenden, der auf mehr als 100 Mann
+			verstärkte Chor und das aus circa 70 Personen bestehende Orchester, sämmtlich in
+			eleganter Gesellschafts-Toilette, die Damen in Weiß, mit weißen Kamelien im Haar und,
+			dem Charakter der Todtenmesse entsprechend, mit schwarzem Schleier, waren in weitem
+			aufsteigenden Halbkreise postiert, in der Mitte desselben der Dirigent Herr <persName ref="#fuchs.johann-nepomuk" role="conductor">Fuchs</persName>, dessen Pult theilweise
+			durch lebende Gewächse verdeckt war. Im Uebrigen waren szenische Kunststückchen
+			glücklich vermieden. Das Ganze machte einen feierlichen Eindruck.</p>
+	</body></text>
+</TEI>

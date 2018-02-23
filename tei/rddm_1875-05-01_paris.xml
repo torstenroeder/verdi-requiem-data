@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader><fileDesc><titleStmt><title>Revue des Deux Mondes, Paris, 1. Mai 1875</title><author><persName ref="#blaze.henri"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/rddm_1875-05-01.xml</p></publicationStmt><sourceDesc><bibl>
+                <orgName ref="#revue-des-deux-mondes"/>
+                <placeName ref="#paris"/>
+                <date when-iso="1875-05-01"/>
+                <biblScope unit="issue">9</biblScope><biblScope unit="volume">45</biblScope><series>rddm</series>
+                <biblScope unit="page">223–228</biblScope>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k87055k/f223.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k87055k/f224.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k87055k/f225.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k87055k/f226.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k87055k/f227.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k87055k/f228.image"/>
+            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#paris"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+    <text xml:lang="de"><body rend="antiqua">
+        <pb break="yes" n="223" type="initial"/>
+        <head rend="widespace larger">REVUE MUSICALE.</head>
+        <p>Presque tous les musiciens d’aujourd’hui ont du talent; mais comment emploient-ils? En
+            déshonorant la musique, en s’efforçant de travestir par le grotesque et le trivial un
+            art dont la vocation est d’élever les âmes. L’orchestre de Chérubini, de Spontini,
+            parlait jadis au monde des victoires de la France; qu’est-ce que racontent a l’Europe
+            les ritournelles qui depuis quinze ans grincent à nos oreilles, qu’est-ce que lui
+            veulent toutes ces partitions d’où se dégage un écœurant parfum d’ambre et de patchouli
+            que traĩne après soi la société m interlope pour laquelle on les écrit par pacotilles?
+            L’Europe s’en amuse, et la patrie de Beethoven, de Mendelssohn et de Schumann ne se
+            lasse point de les entendre et d’y applaudir d’autant plus fort que ce sujet amène
+            l’occasion de reparler un peu de notre décadence morale et de s’apitoyer à nouveau sur
+            la Babylone moderne. N’importe, si la critique a ses mauvais jours, elle a aussi ses
+            compensations quand du milieu de cette bacchanale obstinée et de cette incessante foire
+            aux mirlitons un chef-d’oeuvre surgit tout à coup. Quelle fête alors d’avertir le
+            public, de diriger son goût de ce côté! Le public pris en masse ne s’y connaît pas; il
+            flotte tantôt d’ici, tantôt de là, non sans une vague idée cependant, sans une sorte de
+            pressentiment de ce qui pourrait bien être le beau, et c’est à gouverner cette
+            impression, à ramener le mouvement à certains principes, que la critique doit veiller.
+            Lorsque l’an passe, à pareille époque, la Messe de Verdi fit son apparition, nous fûmes
+            ici des premiers à signaler cette œuvre qui nous revient aujourd’hui forte de la double
+            consécration du temps et du succès. Avons-nous besoin d’ajouter que notre admiration
+            reste la même, et que nous avons éprouvé un égal ravissement en écoutant, récité par des
+            voix divines, ce geanr poème si humain et comme palpitant à chaque page de ce quelque
+            chose de vibrante dont parle Joseph de Maistre?</p>
+        <p>Naturellement avec les auditions l’eternelle glose a recommencé: belle musique, mais
+            profane! trop de couleur et trop de drame pour l’église! comme si, dans une époque telle
+            que la nôtre, il pouvait y avoir un idéal religieux en dehors de l’idéal poétique, comme
+            si l’adagio du quatuor en ut mineur, le chœur d’Idoménée, n’étaient pas aussi bien des
+            oratorios. Je vais plus loin, et je soutiens que, dans une période de foi, les morceaux
+            dont je parle eussent naïvement accompagné les cérémonies du sanctuaire, car en ces
+            temps-là tout ce qui touche à l’art étant emreint d’un caractère élevé, nulle ligne de
+            démarcation n’existe entre le ciel et la terre, et ce qui appartient au monde appartient
+            égalément au domaine de Dieu. Ces incompatibilités, c’est nous, fils d’un àge incrédule
+            et gouailleur, qui les avons créées en cessant de respecter l’art, en poussant la
+            musique vers les voies perverses où nous <pb break="yes" n="224" type="regular"/> la
+            voyons se démener, et c’est si vrai que, lorsque nous cherchons une forme pour exprimer
+            notre sentiment religieux, nous remontons le cours des ans, et fouillons dans la
+            bibliothèque du passe, dont les airs de danse, — par cela seul qu’ils furent composés
+            naïvement comme peignait Van Eyck, comme écrivait Sébastien Bach, — deviennent pour nous
+            presque des psaumes. Vous mettez à contribution les formules dont se servait, il y a
+            cent ans, Hændel, lorsqu’il travaillait pour le concert ou le théâtre, et chacun de
+            s’édifier aussitôt, de murmurer: «A la bonne heute, voilà qui s’appelle de la muique
+            d’église!» mais alors faire vieux serait la suprême ressource, et l’église n’admettrait
+            musicalement que ce qui est mort. Un tel propos ne se discute pas. Mozart, ni Beethoven,
+            quand ils composent leur Tleur musique sacrée, ne se croient obligés de sacrifier à
+            l’archaïsme. Le Lacrymosa du Requiem, l’Incarnatus de la Messe solenne, parlent la même
+            langue que la Flûte enchantée et que les symphonies. Ils gardent le costume de leur
+            temps plutôt que d’aller se vêtir à l’ancienne mode. Verdi, dans sa Messe, n’a pas suivi
+            d’autre système. Quant à ce reproche qu’on lui fait d’avoir dramatisé le texte, en
+            verité c’est nous la donner belle! Le drame! je voudrais bien savoir comment un musicien
+            s’y prendrait pour l’éviter? J’ai cité Mozart et Beethoven, mais Orlando Lasso lui-même
+            et Sébastien Bach sont dramatiques en pareil cas, et vous vous attendiez à voir un
+            tempérament comme Verdi s’abstraire de son sujet, rester en dehors! c’était là ne
+            connaître ni l’homme ni le musicien. Ce qu’il faut admirer au contraire dans cette
+            musique, c’est la profonde émotion, la subjectivité du maître; le sujet ne lui vient pas
+            par les côtés, il est tout entier dans son oeuvre. De la première note à la dernière, il
+            traduit, commente cette prose sublime selon sa conscience et selon son art; il Í"
+            s’humilie, implore, espérant tout de l’infinie miséricorde de ce Dieu qui laisse le
+            champ libre au repentir. On sent que la mort ne prévaudra pas; même en ces ténèbres
+            l’espoir luit par certaines éclaircies lumuneuses; Agnus Dei, lux æterna! Vous pensez à
+            Dante:</p>
+        <p><l>Una melodia dolce</l>
+            <l>Correva per l’aer luminoso.</l>
+        </p>
+        <p>Nous n’avons point à controverser la question de culte et d’orthodoxie; main nous
+            maintenons que ces cris d’angoisse et d’épouvanté, ces regrets, ces des prières, ces
+            tendresses de l’âme qui se refuse obstinément à quio l’œuvre durera.</p>
+        <p>L’exécution de cette année a plus d’ensemble encore et plus d’éclat. La basse est
+            excellente, le ténor une vraie trouvaille, du moins pour nous, qui sommes condamnés à si
+            rude abstinence. Nos ténors français du moment me font l’effet de ces paysans de Millet
+            attachés à leur glèbe et poussant lourdement, péniblement la charrue. Remplir son labeur
+                <pb break="yes" n="225" type="regular"/> quotidien, suffire à sa tache et gagner ses
+            appointemens comme l’artisan gagne sa journée n’est point tout; on y voudrait un peu de
+            charme, et c’est ce qui nous manque. Aussi quel délicieux régal quand s’élève une voix
+            sincère, une voix jeune, bien timbrée et de bon aloi! En outre M. Masini sait chanter,
+            et telles phrases qui jusqu’alors passaient inaperçues, l’Ingemisco et l’offertoire par
+            exemple, provoquent maintenant chaque fois un frémissement d’approbation. Je me tais sur
+            les deux femmes pour ne pas me répéter; du côté de la Waldmann, mêmes qualités
+            sympathiques, même resonnance; du côté de Teresa Stôlz, même fulguration. Elle est
+            partout présente, anime tout: sa voix, qui vient de se perdre dans les profondeurs de
+            l’abime, reparaît soudain parmi les astres; vous a suivez ému, ravi, car vous savez
+            qu’en elle est la parole du maître, et qu’elle ne fallira pas. Depuis la Frezzolini, un
+            tel foyer ne s’était vu. Nous connaissons tous la cantatrice; mais, si vous ne l’avez
+            point vue au théâtre et voulez avoir un avant-goût de la tragédienne, écoutez la Stolz
+            réciter les paroles finales du Libera: après les furieux déchaînemens de l’orchestre et
+            des chœurs, ce parlando rapide, sourd, dit en a parte comme dans l’isolement de l’âme
+            qui se replie sur elle-même, est d’un effet sublime, et si l’honneur revient à Verdi de
+            l’avoir trouvé, celle qui le rend d’un pareil ton ne saurait être qu’une grande artiste.
+            La restauration d’un théâtre italien à Paris offre assurément peu de chances, et nous
+            n’avons assisté depuis des années qu’à des mésaventures; cette Messe de Verdi et la
+            soudaine adoption par la société parisienne des virtuoses qui l’interprètent change
+            l’aspect du tableau. Rien ne donne à supposer qu’une expérience habilement dirigée dans
+            ce sens ne réussirait pas. Ce sont les maîtres qui font les troupes, et pour celle que
+            nous entendons à cette heure, l’auteur de Rigoletto et d’Ayda est ce que fut jadis
+            Rossini pour la troupe de Barbaja, ce que fut Meyerbeer pour celle de Véron. Verdi a
+            créé cet ensemble à son image; qui’il s’installe à Paris l’hiver prochain, monte et
+            dirige Ayda avec Teresa Stolz et la Waldmann, comme il a conduit l’execution de sa
+            Messe, et vous verrez si le grand public d’autrefois et si la mode leur feront
+            défaut.</p>
+        <pb break="null" n="228" type="skipped"/>
+        <p rend="right">F. DE LAGENEVAIS.</p>
+    </body></text>
+</TEI>

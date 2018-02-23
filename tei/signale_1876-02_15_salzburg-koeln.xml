@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Signale, Leipzig, Februar 1876/15</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/signale_1876-02_15_salzburg-koeln.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#signale" role="publisher"/>
+                    <placeName ref="#leipzig"/>
+                    <date cert="low" when-iso="1876-02-29" notAfter-iso="1876-02-29"
+                        notBefore-iso="1876-02-15"/>
+                    <biblScope unit="issue">15</biblScope><biblScope unit="volume">34</biblScope>
+                    <biblScope unit="page">233</biblScope>
+                    <link
+                        target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=236"/>
+                    <link
+                        target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=241"
+                    />
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#salzburg"/><placeName ref="#koeln"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Kurzbericht</term>
+                    <term type="corpusGroup">Aufführungsgeschichte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <text xml:lang="de">
+        <body rend="fraktur">
+            <pb break="null" n="228" type="initial"/>
+            <head rend="antiqua widespace larger">Dur und Moll.</head>
+            <pb break="null" n="233" type="skipped"/>
+            <p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+                <rs type="event" ref="#salzburg.1876"><hi rend="widespace">In <placeName
+                            ref="#salzburg">Salzburg</placeName></hi> wird <date when-iso="1876-04"
+                        >Anfangs April</date>
+                    <persName ref="#verdi.giuseppe">Verdi’s</persName>
+                    <title ref="#verdi.requiem">Requiem</title> vom <orgName
+                        ref="#salzburg.dommusikverein">Dom-Musik-Verein</orgName> zur Aufführung
+                    gebracht werden.</rs> Die Solopartien haben übernommen: Fräulein <persName
+                    ref="#voigt.gabriele">Voigt</persName> (Sopran), Mitglied des Salzburger
+                Theaters, Comtesse <persName ref="#gatterburg.hedwig">Hedwig von
+                    Gatterburg</persName> (Mezzo-Sopran), Ehrenmitglied des Vereins, Herr <persName
+                    ref="#schuegraf.eduard">Eduard Schuegraf</persName> (Baß), Sänger aus <placeName
+                    ref="#muenchen">München</placeName>, Herr <persName ref="#huber.franz"
+                    >Huber</persName>, Vereinsmitglied, singt den Tenor-Part. Das Aufführungsrecht
+                (nicht die Partitur) des Requiem mußte mit 400 Frcs. erkauft werden und der Verein
+                dankt es ausschließlich den persönlichen, kunstfreundlichen Bemühungen der Comtesse
+                    <persName ref="#gatterburg.hedwig">Hedwig von Gatterburg</persName>, daß diese
+                Kosten erbracht wurden.</p>
+            <p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+                <rs type="event" ref="#koeln.1875.2"><hi rend="widespace">In <placeName ref="#koeln"
+                            >Cöln</placeName></hi> kam im achten Gürzenichconcert am <date
+                        when-iso="1876-02-15">15. Febr.</date> auf allseitig gehegten Wunsch
+                        <persName ref="#verdi.giuseppe">Verdi’s</persName>
+                    <title ref="#verdi.requiem">Requiem</title> nochmals zur Aufführung.</rs></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Brünner Zeitung, 3. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/bz_1876-01-03_bruenn.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#bruenner-zeitung" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1876-01-03"/>
+					<series>bz</series>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Kunst, Wissenschaft und Literatur.</head>
+			<p><g type="WHITE_UP-POINTING_TRIANGLE" n="25B3">△</g>
+				<rs type="event" ref="#bruenn.1876.1"><hi rend="bold"><placeName ref="#bruenn"
+							>Brünn</placeName></hi>, <date when-iso="1876-01-03">3. Jänner</date>.
+						(<hi rend="widespace"><title ref="#verdi.requiem">Requiem</title> von
+							<persName ref="#verdi.giuseppe">G. Verdi</persName> für Soli, Chor und
+						Orchester</hi>.)</rs>
+				<persName ref="#verdi.giuseppe">G. Verdi</persName>, der Compositeur des „<title
+					ref="#verdi.il-trovatore">Troubadour</title>“, des „<title
+					ref="#verdi.rigoletto">Rigoletto</title>“, der „<title ref="#verdi.aida"
+					>Aïda</title>“ etc. stellte sich zur Aufgabe, zur Gedächtnißfeier des
+				italienischen Dichters <persName ref="#manzoni.alessandro">Manzoni</persName> eine
+				Trauermesse zu componiren und so den Beweis zu liefern, daß seine gewaltige
+				schöpferische Kraft auch kirchliche Musikwerke zu bilden im Stande ist. Inwieweit er
+				dies that, das hat uns der Erfolg seines Werkes in seinem eigenen Vaterlande
+				gelehrt, das hat ferner die enthusiastische Aufnahme seines Werkes gelegentlich
+				dessen <rs type="event" ref="#wien.1875">Aufführung in <placeName ref="#wien"
+						>Wien</placeName></rs> unter seiner persönlichen Leitung bewiesen, und <rs
+					type="event" ref="#bruenn.1876.1">gestern konnten auch die Musikfreunde
+						<placeName ref="#bruenn">Brünns</placeName> beurtheilen, wie es seiner
+					Aufgabe gerecht wurde</rs>. Wenngleich, strenge genommen, die eigentliche
+				rituale Form des Requiems nicht beibehalten erscheint und der Ernst des
+				musikalischen Gedankens hie und da der weltlichen, modernen Form weicht, so ist doch
+				die Anlage des ganzen Tonwerkes immerhin nicht bloß originell, sondern auch erhaben
+				zu nennen. Auch ist zu berücksichtigen, daß <persName ref="#verdi.giuseppe"
+					>Verdi</persName> das <title ref="#verdi.requiem">Requiem</title> hauptsächlich
+				für <placeName ref="#italien">Italien</placeName> schrieb und die italienische
+				Kirchenmusik von unserer wesentlich verschieden ist, sowohl im Styl wie in der Form.
+				Daß auf <persName ref="#verdi.giuseppe">Verdi</persName> deutsche Meister und
+				deutsche Musik erheblichen Einfluß übte, ersah man aus seiner jüngsten Oper „<title
+					ref="#verdi.aida">Aïda</title>“, und stellenweise ist auch aus dem <title
+					ref="#verdi.requiem">Requiem</title> diese Wahrnehmung zu schöpfen. Wir können
+				uns hier wohl nicht zu sehr ins Detail einlassen und müssen uns darauf beschränken,
+				den Charakter des Werkes in seinen Haupttheilen zu kennzeichnen.</p>
+			<p>Die erste Nummer (<hi rend="antiqua">„<title ref="#verdi.requiem.1">Requiem
+							aeterna<supplied resp="tr">m</supplied></title>“ a-moll</hi>) leitet das
+				ganze Werk würdevoll ein und drückt das Gefühl der Trauer in treffender Weise aus.
+				Herrlich hört man die Disposition der Soli aus dem ganzen Gebilde hervorklingen und
+				der Schluß des Satzes (<hi rend="antiqua">a dur — <title
+						ref="#verdi.requiem.1" n="kyrie">Kyrie eleison</title></hi>) hinterläßt einen
+				wahrhaft beruhigenden Eindruck. Die zweite Nummer — die längste (<hi rend="antiqua"
+						><title ref="#verdi.requiem.2">Dies irae</title> — g-moll — alla breve</hi>)
+				beginnt mit Chor und vollem Orchester und veranschaulicht musikalisch den Schrecken
+				des „Tages des Zornes“ mächtig und ergreifend. Die donnerähnlichen Paukenschläge,
+				sowie die später im langsamen Tempo eintretenden Trompeten-Fanfaren, die sehr
+				effectvoll im Nebensaale durch andere, als Echo wiederholt werden und der große Chor
+					(<hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba
+					mirum</title></hi>), in stets anschwellendem Forte sich bis zum höchsten
+				Fortissimo steigernd — sind in der That von höchst erschütternder Wirkung. Freilich
+				könnte man diese Stelle eine bedenkliche nennen, da der Compositeur hier den
+				kirchlichen Charakter verläßt und in den weltlichen übergeht; auch das plötzliche
+				Abbrechen der gewaltigen Tonmassen, die darauffolgende Generalpause und der Eintritt
+				des <title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Baß-Solo</title> — von
+				ganz eigenthümlicher Färbung — sind Effecte, welche die Begriffe des Nordens von der
+					<hi rend="antiqua">musica sacra</hi> in unseren Kirchen beinahe als unzulässig
+				erscheinen lassen.</p>
+			<p>Das darauffolgende <title ref="#verdi.requiem.2.liber-scriptus"
+					>Mezzosopran-Solo</title>, dann das <title ref="#verdi.requiem.2.quid-sum-miser"
+					>Terzett</title> (Sopran, Mezzosopran und Tenor) treten wieder beruhigender ein,
+				jedoch nach kurzem, vorangehendem Quartett ertönt wieder der mächtige Chor (<hi
+					rend="antiqua"><title ref="#verdi.requiem.2.rex-tremendae">Rex
+					tremendae</title></hi>). Nun folgt ein schönes <title
+					ref="#verdi.requiem.2.ingemisco">Tenor-</title> und ein <title
+					ref="#verdi.requiem.2.confutatis">Baß-Solo</title>, worauf dann der <title
+					ref="#verdi.requiem.2.lacrymosa">Chor mit Quartett</title> abwechselnd in <hi
+					rend="antiqua">B-moll</hi> beginnend, in <hi rend="antiqua">B-dur</hi> die
+				zweite Nummer abschließt. Die dritte Nummer <hi rend="widespace"><title
+						ref="#verdi.requiem.3">Offertorium</title></hi>, worin die Soli allein
+				wirken, ist von der kirchlichen Form abweichend, mehr weltlichen Gepräges; man
+				könnte sagen, sie hat ein theateralisches Gepräge. Hier begegnen wir auch
+				stellenweise Recitativformen. Im <hi rend="antiqua"><title ref="#verdi.requiem.4"
+						>Sanctus</title></hi> Nr. <hi rend="antiqua">IV.</hi> ist eine herrliche
+				Doppelfuge (achtstimmig <hi rend="antiqua">F-dur</hi>) durchgeführt und vollkommen
+				kirchlich gehalten.</p>
+			<p>Das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus dei</title></hi> Nr. <hi
+					rend="antiqua">V</hi>, Sopran, Mezzosopran und Chor, hat dadurch eine originelle
+				Form, daß Sopran und Mezzosopran in <hi rend="antiqua">unisono</hi>, jedoch um je
+				eine Octave verschieden, die Melodien erstlich in <hi rend="antiqua">dur</hi>, dann
+				in <hi rend="antiqua">moll</hi> führen und inzwischen vom Chore, welcher dieselbe
+				Melodie führt, unterbrochen wird. Diese Unterbrechung durch den Chor, der dann in
+					<hi rend="antiqua">C-dur</hi> schließt, ist von ungemeiner Wirkung und mußte
+				diese Nummer auf stürmisches Verlangen wiederholt werden. Das <hi rend="antiqua"
+						><title ref="#verdi.requiem.6">Lux aeterna</title></hi> Nr. <hi
+					rend="antiqua">VI</hi> (Mezzosopran und Baß) weicht wieder von kirchlicher Form
+				ab und weist durch die Stimmführung in den Violinen eine effectvolle Klangfärbung
+				auf. An dieses schließt sich das <hi rend="antiqua"><title ref="#verdi.requiem.7"
+						>Libera me</title></hi> Nr. <hi rend="antiqua">VII</hi> mit Sopran-Solo und
+				Chor mit Fuge, worin wir das Thema des ersten Satzes wieder finden (<title
+					ref="#verdi.requiem.7" n="requiem-aeternam">Requiem</title>); es schließt dieser
+				Satz mit erwähnter Fuge in der gewöhnlichen Form ruhig ab.</p>
+			<p>Die Aufführung des Werkes war eine, in Anbetracht der wenigen Proben und des
+				riesigen, zu bewältigenden Materials, sehr gelungene zu nennen. Der genialen
+				Künstlerin, der Frau <persName ref="#gompertz-bettelheim.karoline-von"
+					role="soloist.mezzo">Caroline <hi rend="widespace"
+					>Gomperz-Bettelheim</hi></persName>, gebührt in erster Reihe der Dank, denn ihr
+				Verdienst ist es überhaupt, daß dieses Werk hier zur Aufführung gebracht werden
+				konnte. Das großartige Organ, sowie die künstlerische Ausführung der
+				Mezzosopran-Partie riß die Zuhörer zur Bewunderung hin; hier wurde durchaus
+				Vollendetes geboten. Wir erinnern nur an das Solo in Nr. <hi rend="antiqua">II</hi>
+					(<hi rend="antiqua"><title ref="#verdi.requiem.2.liber-scriptus">Liber
+						scriptus</title></hi>), sowie an das (<hi rend="antiqua"><title
+						ref="#verdi.requiem.2.recordare">Recordare</title></hi>) ebendaselbst
+				(Sopran- und Mezzosopran-Solo), wo die Tiefe und Klangfülle namentlich zum Schluße
+					(<hi rend="antiqua"><title ref="#verdi.requiem.2.recordare" n="donum-fac">Donum fac
+						remissione</title></hi>) zu ergreifender Wirkung gelangte und
+				enthusiastischen Beifall entfesselte.</p>
+			<p>Frl. <hi rend="widespace"><persName ref="#will.julie" role="soloist.soprano"
+						>Will</persName></hi> löste mit ihrer prächtig ausklingenden Stimme ihre
+				Aufgabe in verständnisvoller Weise und verdient die rückhaltloseste Anerkennung.
+				Nicht minder war die Mitwirkung der Herren <hi rend="widespace"><persName
+						ref="#krejci.friedrich" role="soloist.tenor">Krejči</persName></hi> und <hi
+					rend="widespace"><persName ref="#curiel.xxx" role="soloist.basso"
+						>Curiel</persName></hi> ganz entsprechend und trug zum Gelingen des Ganzen
+				nicht wenig bei, was wir im <title ref="#verdi.requiem.3">Offertorium</title> zu
+				beobachten Gelegenheit hatten. Chor und Orchester leisteten das Möglichste, und es
+				ist zu bemerken, daß alle Kräfte unter Herrn <hi rend="widespace"><persName
+						ref="#kitzler.otto">Kitzler’s</persName></hi> energischer und umsichtsvoller
+				Leitung mit Pietät und Hingebung sich bestrebten, ihr Bestes zu thun. Wir zweifeln
+				nicht, daß die zweite Aufführung des äußerst interessanten Werkes ebenfalls so
+				zahlreich besucht sein wird, wie die erste.</p>
+		</body>
+	</text>
+</TEI>

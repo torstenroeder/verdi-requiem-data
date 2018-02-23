@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 3. März 1876 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-03-03_berlin.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-03"/>
+				<biblScope unit="issue">10</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
+				<biblScope unit="page">104 [8]–105 [9]</biblScope>
+				<link facs="nzfm_1876-03-03_104.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760303&amp;seite=8"/>
+				<link facs="nzfm_1876-03-03_105.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760303&amp;seite=9"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#berlin"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="103" type="initial"/>
+		<head rend="larger">Tagesgeschichte.</head>
+		<cb break="null" n="104b" type="skipped"/>
+		<head>Neue und neueinstudirte Opern</head>
+		<p>Von „<title ref="#wagner.tristan-und-isolde">Tristan und Isolde</title>“ kann an der <placeName ref="#berlin.hofoper">Berliner Hofoper</placeName> die erste Vorstellung erst <date when-iso="1876-03">Mitte März</date> erfolgen. Die zahlreichen Proben hierzu unter
+				<persName ref="#eckert.karl-anton">Eckert’s</persName> Leitung beschäftigen die
+			künstlerischen Kräfte namentlich des Orchesters dergestalt, daß es noch zweifelhaft ist,
+			ob sich „<title ref="#goetz.der-widerspenstigen-zaehmung">Der Widerspänstigen
+				Zähmung</title>“ von <persName ref="#goetz.hermann">Götz</persName> noch in <pb break="yes" n="105" type="regular"/>dieser Saison ermöglichen lassen wird, um so
+			mehr, als anstatt für diese deutsche Oper für eine <rs type="event" ref="#berlin.1876">Opernhausaufführung von <persName ref="#verdi.giuseppe">Verdi’s</persName> ital. <title ref="#verdi.requiem">Requiem</title></rs> an maßgebender Stelle überhaupt viel
+			größere Sympathie vorherrscht. —</p>
+	</body></text>
+</TEI>

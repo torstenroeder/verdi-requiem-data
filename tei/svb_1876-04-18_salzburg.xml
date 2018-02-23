@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Salzburger Volksblatt, 18. April 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/svb_1876-04-18_salzburger-nachrichten.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#salzburger-volksblatt"/>
+					<placeName ref="#salzburg"/>
+					<date when-iso="1876-04-18" when-custom="tue"/>
+					<biblScope unit="issue">46</biblScope><biblScope unit="volume"
+						>6</biblScope><series>svb</series>
+					<biblScope unit="page">2</biblScope>
+					<link facs="svb_1876-04-18_2.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760418&amp;seite=2"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#salzburg"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="2c" type="initial"/>
+			<head rend="larger">Salzburger Nachrichten.</head>
+			<gap resp="tr"/>
+			<p><g type="ASTERISK" n="002A">*</g>
+				<rs type="event" ref="#salzburg.1876">Zu <hi rend="bold"><persName
+							ref="#verdi.giuseppe">Verdi’s</persName>
+						<title ref="#verdi.requiem">Requiem</title></hi> finden die letzten Proben
+						(<hi rend="widespace">ausschließlich für die Mitwirkenden zugänglich</hi>)
+					wie folgt statt</rs>: Morgen <date when-iso="1876-04-19">Mittwoch den 19.
+					April</date> Nachmittags 4 Uhr im Kapellhause letzte Clavierprobe des Chors.
+					<date when-iso="1876-04-20">Donnerstag den 20. April</date> in der Aula
+				Hauptprobe für <hi rend="widespace">Chor</hi>, <hi rend="widespace">Soli</hi> und
+					<hi rend="widespace">Orchester</hi> (Solisten und Orchester um 6 Uhr Abends,
+				Chor und Orchester um 7 Uhr abends); <hi rend="widespace">ebenso</hi> am <hi
+					rend="widespace"><date when-iso="1876-04-22">Samstag den 22. April</date></hi>.
+				Die <hi rend="antiqua">P. T.</hi> Mitwirkenden beim Chore werden freundlichst und
+				dringend ersucht, sich im Interesse der Sache bei diesen letzten Proben gütigst <hi
+					rend="widespace">vollzählig</hi> zu betheiligen. — Herr <hi rend="widespace"
+						><persName ref="#schuegraf.eduard">Schuegraf</persName></hi>, der rühmlichst
+				bekannte Concert- und Oratorien-Sänger aus München, ist bereits zur Aufführung des
+					<persName ref="#verdi.giuseppe">Verdi’schen</persName>
+				<title ref="#verdi.requiem">Requiems</title> hier eingetroffen.</p>
+		</body>
+	</text>
+</TEI>

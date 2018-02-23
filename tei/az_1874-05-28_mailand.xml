@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Allgemeine Zeitung, Augsburg, 28. Mai/1. Juni 1874</title>
+				<author><persName ref="#buelow.hans-von"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/az_1874-05-28_mailand.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#allgemeine-zeitung" role="publisher"/>
+					<placeName ref="#augsburg"/>
+					<date when-iso="1874-05-28"/>
+					<biblScope unit="issue">148</biblScope><biblScope unit="subIssue"
+						>148</biblScope>
+					<biblScope unit="page">2293–2294</biblScope>
+					<biblScope unit="page">1–2</biblScope>
+				</bibl>
+				<bibl>
+					<orgName ref="#allgemeine-zeitung" role="publisher"/>
+					<placeName ref="#augsburg"/>
+					<date when-iso="1874-06-01"/>
+					<biblScope unit="issue">152</biblScope>
+					<biblScope unit="page">2351–2352</biblScope>
+					<biblScope unit="page">3–4</biblScope>
+				</bibl>
+				<bibl>
+					<title>Hans von Bülow, Briefe und Schriften, hrsg. v. Marie von Bülow, III.
+						Band: Ausgewählte Schriften 1850–1892, Leipzig: Breitkopf und Härtel, 1896,
+						S. 307ff.</title>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#mailand"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="1" type="initial"/>
+			<head rend="larger bold">Musikalisches aus <placeName ref="#italien"
+				>Italien</placeName>.</head>
+			<head>Von Hans v. Bülow.</head>
+			<head>I.</head>
+			<p><hi rend="bold"><g type="ASTERISK" n="002A">*</g>
+					<placeName ref="#mailand">Mailand</placeName>,</hi>
+				<date when-iso="1874-05-21">21. Mai</date>. Die rasche Aufeinanderfolge zweier
+				musikalischen Ereignisse, denen man eine mehr als nur locale, auch mehr als nur
+				temporäre Bedeutung beimessen durfte, hat dießmal verschiedene Frühlingstouristen
+				länger, als sonst üblich, in der <hi rend="antiqua"><placeName ref="#mailand"
+						>capitale morale</placeName></hi>
+				<placeName ref="#italien">Italiens</placeName> gefesselt, die dieses schmückende
+				Beiwort wenigstens in der Beschränkung auf das Musikleben bisher gerechtfertigt hat,
+				und wie in früheren Zeiten des Glanzes, so auch in den heutigen des Verfalles, als
+				die musikalische Hauptstadt des <placeName ref="#italien">jüngsten und grünsten
+					Königreiches</placeName> noch gilt. Das erste dieser Ereignisse, das für
+				nordische Ausländer, also auch für den Berichterstatter, bei weiterem
+				interessantere, war gestern Abend in dem neuen, der behaglichen Ausbreitung der
+				Besucher mehr als der der Schallwellen günstigen, <placeName
+					ref="#mailand.teatro-dal-verme">Teatro dal Verme</placeName> die erstmalige
+				Aufführung der russischen Nationaloper „<title
+					ref="#glinka.ein-leben-fuer-den-zaren">Das Leben für den Zar</title>“ von
+					<persName ref="#glinka.michael">Michael Glinka</persName> in italienischer
+				Sprache, zugleich auch die erste Aufführung dieses hochbedeutenden, in seiner Art
+				classischen Werkes außerhalb der Gränzen des <placeName ref="#russland">russischen
+					Reiches</placeName>, in dessen sämmtlichen operfähigen Städten es sich seit 35
+				Jahren mit Recht einer Popularität erfreut der in Deutschland nur die von <persName
+					ref="#weber.carl-maria-von">Webers</persName> „<title ref="#weber.freischuetz"
+					>Freischütz</title>“ an die Seite gestellt werden kann. <rs type="event"
+					ref="#mailand.1874.1">Das zweite wird die morgen Vormittags in der hierfür
+					theatralisch hergerichteten Kirche <placeName ref="#mailand.san-marco">San
+						Marco</placeName> vom Autor, Senator <persName ref="#verdi.giuseppe"
+						>Giuseppe Verdi</persName>, ausnahmsweise selbst geleitete
+					Monstre-Aufführung seines im Auftrage der Stadtbehörden zur Feier der ersten
+					Wiederkehr von <persName ref="#manzoni.alessandro">Alessandro
+						Manzoni’s</persName> Sterbetag (<date when-iso="1873-05-22">22 Mai
+						1873</date>) componirten <title ref="#verdi.requiem">Requiem</title>
+					sein</rs>, mit welchem der allgegenwärtige Verderber des italienischen
+				Kunstgeschmacks und Beherrscher dieses von ihm verdorbenen vermuthlich den letzten
+				seinem Ehrgeiz unbequemen Rest von <persName ref="#rossini.gioachino"
+					>Rossini’s</persName> Unsterblichkeit hinwegzuräumen hofft. Bekanntlich besteht
+				dieser letzte Rest in <placeName ref="#italien">Italien</placeName> eigentlich nur
+				noch in seiner Kirchenmusik, dem <title ref="#rossini.stabat-mater">Stabat</title>
+				und der <title ref="#rossini.petite-messe-solennelle">Festmesse</title>, so selten
+				diese Werke seinen Landsleuten auch zu Gehör gebracht werden. Für die
+				Nichtmehrausführbarkeit <persName ref="#rossini.gioachino">Rossini’scher</persName>
+				Opern, wie <title ref="#rossini.guillaume-tell">Tell</title>, <title
+					ref="#rossini.il-barbiere-di-siviglia">Barbier</title>, <title
+					ref="#rossini.semiramide">Semiramis</title>, <title
+					ref="#rossini.mose-in-egitto">Moses</title> u. s. f., in <placeName
+					ref="#italien">Italien</placeName> ist der Attila der Kehlen ja bereits mehr als
+				ein Vierteljahrhundert mit dem vollständigsten Erfolge zu wirken beflissen gewesen.
+				Seine neueste Oper im Kirchengewande wird nach dem ersten Scheincompliment an das
+				Andenken des gefeierten Dichters zunächst drei Abende hindurch in der <placeName
+					ref="#mailand.teatro-alla-scala">Scala</placeName> den Händen des weltlichen
+				Enthusiasmus überantwortet werden, worauf dann unverzüglich in Begleitung der von
+				ihm eigens dressirten Solosänger die Wanderung nach <placeName ref="#paris"
+					>Paris</placeName>, zur Krönung des Werkes in diesem ästhetischen Rom der
+				Italiener, angetreten werden soll. Verstohlene Einblicke in die neueste Offenbarung
+				des Componisten von <title ref="#verdi.il-trovatore">Trovatore</title> und <title
+					ref="#verdi.la-traviata">Traviata</title> haben uns nicht eben lüstern nach dem
+				Genusse dieses „Festival“ gemacht, obwohl wir den Maestro das Zeugniß nicht versagen
+				können daß er’s sich diesmal hat weidlich sauer werden lassen. So ist unter anderem
+				die <title ref="#verdi.requiem.7">Schlußfuge</title>, trotz vieler
+				Schülerhaftigkeiten, Abgeschmacktheiten und Häßlichkeiten, eine so fleißige Arbeit,
+				daß mancher deutsche Musiker eine große Ueberraschung daran erleben wird. Im
+				allgemeinen herrscht aber der Styl seiner neuesten Periode, wie ihn <placeName
+					ref="#berlin">Berlin</placeName> und <placeName ref="#wien">Wien</placeName>
+				durch die „<title ref="#verdi.aida">Aïda</title>“ kennen gelernt haben, vor, jener
+				Styl über den ein witziger Gesanglehrer an der Donau äußerte: daß „derselbe sich
+				sehr zu seinem Nachtheil verbessert habe.“<note resp="tr" type="textLink">Vgl.
+						<persName ref="#kulke.eduard">Eduard Kulke</persName>, Besprechung der
+						<title ref="#verdi.aida">Aida</title>, <ref type="text"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=vtl&amp;datum=18740501&amp;seite=1"
+						>Das Vaterland, Wien, 1. Mai 1874, S. 1–2</ref>: »Verdi hat hier wirklich
+					eine neue Bahn betreten, ob zu seinem Vortheil oder Nachtheil, dies wird wohl
+					sehr verschiedentlich beantwortet werden, je nach dem Standpunct, dem Geschmack
+					und den Neigungen des Hörers.«</note> Auch fiel uns im Verlaufe der Lectüre des
+				ziemlich umfangreichen Clavier-Auszugs unwillkürlich jenes naive Geständniß des
+				seligen <persName ref="#gyrowetz.adalbert">Gyrowetz</persName> ein, welcher, seitdem
+				ihn Phantasie und Erfindung verlassen, seine Notenfeder nur noch dem Dienste der
+				Kirche, nicht mehr dem des Theaters, zu widmen sich fähig erklärte. Endlich hat uns
+				aber das traurige Schauspiel der Niederlage slavischer Cultur (vom musikalischen
+				Standpunkte könnten wir ebenso gut deutscher Cultur sagen) am gestrigen Abend außer
+				Stand gesetzt kalten Blutes einem — noch dazu künstlich arrangirten — Triumphe
+				romanischer Barbarei anzuwohnen. Hoffentlich wird <persName ref="#verdi.giuseppe"
+					>Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> in <placeName ref="#paris"
+					>Paris</placeName> sicher vor den Werbungen deutscher Theater-Intendanten
+				bleiben, welche auch in rein geschäftlichem Interesse wohl daran thun würden, ihre
+				Blicke zur Abwechslung einmal nach Osten, statt nach Westen, zu richten.</p>
+			<gap resp="tr"/>
+		</body>
+	</text>
+</TEI>

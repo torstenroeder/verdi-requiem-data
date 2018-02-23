@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Über Land und Meer, Stuttgart, [10. Oktober] 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/uelm_1875_35-02_musik.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#ueber-land-und-meer" role="publisher"/>
+				<placeName ref="#stuttgart"/>
+				<date cert="medium" when-iso="1875-10-10"/>
+				<!--BIBLIO Datierung: Sonntage von Oktober 1875 aus gezählt-->
+				<biblScope unit="issue">2</biblScope><biblScope unit="volume">35</biblScope>
+				<!--BIBLIO Bandangabe: 35. Bd. = 18. Jg., 1. Bd. = Nr. 1–26, 1875/10–1876/03-->
+				<biblScope unit="page">27</biblScope>
+				<!--FACS Über Land und Meer: kein Digitalisat; Kopie vorhanden-->
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Musik.</head>
+		<gap resp="tr"/>
+		<p>— <rs type="event" ref="#wien.1875a"><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+						„<title ref="#verdi.requiem">Requiem</title>“ soll in deutscher Sprache im
+						<placeName ref="#wien">wiener</placeName></hi>
+				<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> zur Aufführung
+				kommen.</rs></p>
+	</body></text>
+</TEI>

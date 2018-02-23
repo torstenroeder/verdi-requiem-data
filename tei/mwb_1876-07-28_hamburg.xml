@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 28. Juli 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1876-07-28_hamburg.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#mwb" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-07-28"/>
+				<biblScope unit="issue">31</biblScope><biblScope unit="volume">7</biblScope><series>mwb</series>
+				<biblScope unit="page">415–417</biblScope>
+				<link facs="mwb_1876-07-28_415.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760728&amp;seite=7"/>
+				<link facs="mwb_1876-07-28_416.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760728&amp;seite=8"/>
+				<link facs="mwb_1876-07-28_417.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760728&amp;seite=9"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#hamburg"/><date when-iso="1876-07"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<pb break="null" n="415" type="initial"/>
+		<p><hi rend="bold"><placeName ref="#hamburg">Hamburg</placeName>,</hi>
+			<date when-iso="1876-07">Juli 1876</date>. Nachgerade wirds wirklich einmal Zeit, dass ich
+			mein Ihnen, geehrter Herr Redacteur, gegebenes Versprechen: über die hiesigen
+			musikalischen Vorkommnisse des <pb break="yes" n="416" type="regular"/>verganenen
+			Winters Etwas zu berichten, zur Wahrheit mache. Ueberblickt man zuerst die Leistungen
+			der Oper, so kann man der Direction <persName ref="#pollini.bernhard">Pollini</persName> nur
+			Dank sagen, dem Publicum die Bekanntschaft mancher interessanten Novität verschafft zu
+			haben <gap resp="tr"/>
+			<persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.aida">Aïda</title> gefiel derartig, dass sie eine richtige
+			Repertoireoper zu werden verspricht. In der That, des Bewunders ist kein Ende über den
+			musikalischen Umschwung bei dem Italiener, der uns ausser in seiner <title ref="#verdi.aida">Aïda</title> auch in dem „<title ref="#verdi.requiem">Requiem</title>“
+			zur erbaulichsten Betrachtung zwingt. <rs type="event" ref="#hamburg.1876">Fünf Mal wurde das
+					„<title ref="#verdi.requiem">Requiem</title>“ unter stets wachsender Begeisterung
+				der Zuhörerschaft aufgeführt.</rs>
+			<gap resp="tr"/></p>
+	</body></text>
+</TEI>

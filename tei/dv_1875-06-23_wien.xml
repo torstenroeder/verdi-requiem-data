@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Das Vaterland, Wien, 23. Juni 1875</title>
+				<author><persName ref="#kulke.eduard"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/dv_1875-06-23_vom-operntheater.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#das-vaterland" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-23"/>
+					<biblScope unit="issue">172</biblScope><biblScope unit="volume"
+						>16</biblScope><series>dv</series>
+					<biblScope unit="page">1</biblScope>
+					<link facs="dv_1875-06-23_1.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=vtl&amp;datum=18750623&amp;seite=1"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Vom Operntheater.</head>
+			<p><hi rend="antiqua bold"><persName ref="#kulke.eduard">Ed. K.</persName></hi> Director
+					<persName ref="#jauner.franz-von">Jauner</persName> hat sein erstes Probestück
+				glücklich bestanden. Als dieser gewandte Mann vor einiger Zeit zum Leiter des
+					<placeName ref="#wien.hof-operntheater">Operntheaters</placeName> berufen wurde,
+				um das finanziell gesunkene Institut wieder emporzuheben, ward die Nachricht von
+				seiner Ernennung mit allgemeiner Ueberraschung aufgenommen und es gab Zweifler an
+				allen Ecken und Enden, ja nicht nur Zweifler (der Zweifel war unter den obwaltenden
+				Umständen denn doch berechtigt), sondern auch Widersacher, die den völligen Ruin des
+				Operntheaters entschieden voraussagten. Wir haben uns damals auf keine Seite
+				geschlagen; wir konnten zwar nichts zu seinen Gunsten vorbringen, wir wollten aber
+				auch keine Anklage erheben, wir ermahnten, mit dem Urtheile so lange zu warten, bis
+				er durch seine Thaten den Beweis geliefert haben werden, ob er der Mann sei, sich
+				auf dem für ihn neuen Gebiete zu behaupten oder nicht. Nun sind seit jener Zeit nur
+				wenige Wochen in’s Land gegangen und schon hat er eine That vollführt, die alle
+				Widersacher verstummen macht, und allenthalben wird sein Lob gesungen und neben dem
+				gefeierten Künstler, dem er diese Wirkung verdankt, ist er selber der Mann des
+				Tages. Wahrlich, ein seltener Erfolg!</p>
+			<p><persName ref="#jauner.franz-von">Jauner</persName> hat das Kunststück zuwege
+				gebracht, zu einer Zeit, in welcher die meisten anderen Bühnen unserer lebelustigen
+				Residenz mit der Theilnahmslosigkeit des unterhaltungssüchtigen Publicums die
+				härtesten Kämpfe um ihre Existenz bestehen, im Operntheater so volle Häuser zu
+				erzielen, wie sie seit dem Weltausstellungsjahre, wo der immerwährende Zufluß von
+				Fremden für volle Häuser sorgte, nicht mehr erreicht wurden. Und er hat nicht nur
+				die Häuser, sondern auch die Cassen gefüllt, ein Umstand, der sich zwar von selbst
+				zu ergeben scheint, da ja das Eine nur die Wirkung des Anderen ist, der sich aber in
+				Wahrheit nicht ergibt; denn dem mit den Theaterverhältnissen nur etwas Vertrauteren
+				ist es nicht unbekannt, daß die beiden Fülllungen des Hauses und der Cassa nicht
+				immer parallel laufen, und daß ein Haus ziemlich gut gefüllt sein kann, während das
+				Theater nur geringfügige Einnahmen aufzuweisen hat. Die Cassaberichte von den
+				letzten Aufführungen im Operntheater aber sind ganz erstaunlich; der bedeutende
+				Cassenerfolg wurde erzielt durch die Aufhebung des Abonnements einerseits,
+				andererseits durch eine, und zwar nicht geringe Preiserhöhung sämmtlicher
+				Plätze.</p>
+			<cb break="yes" n="1b" type="regular"/>
+			<p>Ueber die Berechtigung der beiden finanziellen Maßregeln kann man freilich
+				verschiedener Meinung sein, und man ist es auch. Wer dem Director die Aufhebung des
+				Abonnements zum Vorwurf macht, dem wird er antworten: Ich bin verpflichtet, den
+				Abonnenten im Laufe des Jahres so und so viel Theaterabende zu bieten; die Wahl der
+				Stücke, die ich ihm vorführe, muß mir überlassen bleiben! — Der Abonnent hingegen
+				wird einwenden, er bedanke sich schönstens dafür, daß man ihm an so und so viel
+				Abenden lauter abgeleierte Opern, die er hundert Mal gehört hat, vorgespielt werden,
+				wenn er von dem Vergnügen, einmal auch ein neues Werk zu hören, ausgeschlossen sein
+				solle. Ebenso steht das Für und Wider, auch bezüglich der durchgeführten
+				Preiserhöhung. Der einfache Theaterbesucher, der schlichte Musikfreund wird freilich
+				verwundert fragen: Ja, warum sind die Preise eigentlich erhöht? Ist die „<title
+					ref="#verdi.aida">Aida</title>“ mit der <persName ref="#stolz.teresa"
+					>Stolz</persName> und <persName ref="#waldmann.maria">Waldmann</persName> mehr
+				werth als mit der <persName ref="#wilt.marie">Wilt</persName> und <persName
+					ref="#materna.amalie">Materna</persName>? Oder ist etwa gar das „<title
+					ref="#verdi.requiem">Requiem</title>“ von <persName ref="#verdi.giuseppe"
+					>Verdi</persName> mehr werth als der „<title ref="#mozart.don-giovanni">Don
+					Juan</title>“, als der „<title ref="#beethoven.fidelio">Fidelio</title>“? Darauf
+				wird <persName ref="#jauner.franz-von">Jauner</persName> ruhig antworten: Lieber
+				Freund! Ueber diese Dinge kann Jeder urtheilen, wie er will! Wenn Dir der Preis zu
+				hoch ist, so zwingt Dich Niemand, hineinzugehen! — Ich will das „<title
+					ref="#verdi.requiem">Requiem</title>“ aber hören! — ruft der Kunstfreund! — Dann
+				mußt Du bezahlen, was ich verlange! — erwiedert der Director, ohne sich aus der
+				Fassung bringen zu lassen — denn die Kunst ist ein Luxus, und wenn sich auch die
+				Regierung bedenkt, eine Luxussteuer einzuführen, ich habe solche Bedenken nicht.</p>
+			<p>Wie man nun aber auch über die Berechtitung der <persName ref="#jauner.franz-von"
+					>Jauner’schen</persName> Finanzoperationen denken mag, in jedem Falle wird man
+				ihm das Geständniß machen, daß er sein Geschäft versteht; denn er würde die Preise
+				nicht zu erhöhen wagen, wenn er befürchten müßte, vor einem halb leeren Hause zu
+				spielen. Er war überzeugt, daß sich das Haus füllen werde, und der Erfolg hat ihm
+				Recht gegeben. Und worauf war eine so feste Ueberzeugung gegründet? War es doch
+				nicht etwa ein singender Elephant, den er dem Publicum vorzuführen versprach?</p>
+			<p>Seine Voraussicht gründete sich auf die Erfahrung, daß bei der großen Menge die
+				Schaulust weit größer sei, als die Kunstbegeisterung. Ob es nun ein Elephant ist,
+				oder ein berühmter Componist, ein Wunderthier oder eine Sängerin — gleichviel, das
+				Publicum strömt in Schaaren dahin, es will sehen, heute dieß, morgen jenes, aber nur
+					<cb break="yes" n="1c" type="regular"/> sehen. Wäre das „<title
+					ref="#verdi.requiem">Requiem</title>“ aufgeführt worden, ohne daß der Componist
+				erschienen wäre, es selber zu dirigiren, wäre es aufgeführt worden von unseren
+				heimischen ersten Kräften, ohne jenes Quartett, welches der Componist sich
+				mitgebracht: es wäre dem Director nicht in den Sinn gekommen, die Preise zu erhöhen.
+				Als tüchtiger Geschäftsmann hätte er es auch ganz sicher nicht gethan, ebenso wenig
+				als <persName ref="#herbeck.johann-von">Herbeck</persName> etwa daran denken konnte,
+				bei der ersten Aufführung der „<title ref="#goldmark.die-koenigin-von-saba">Königin
+					von Saba</title>“ die Preise zu erhöhen; <persName ref="#jauner.franz-von"
+					>Jauner’s</persName> Geschäftskenntniß zeigt sich aber eben darin, daß er wußte,
+				wann er dies wagen dürfe, und daß er die Gunst der Umstände zu benützen
+				verstand.</p>
+			<p>Er hat aber nicht nur das Haus und die Casse gefüllt, er hat noch ein Drittes
+				bewirkt; er hat bewirkt, daß man über die Angelegenheiten des Operntheaters wieder
+				mit einiger Lebhaftigkeit spricht, und zwar zu einer Zeit, da die anderen Theater
+				der Unterhaltung so wenig Stoff und Anhalt bieten. <rs type="event" ref="#wien.1875"
+					>Freilich spricht man mehr von <persName ref="#verdi.giuseppe">Verdi</persName>
+					und seinem „<title ref="#verdi.requiem">Requiem</title>“ als vom Operntheater;
+					allein da die Aufführung dieses Werkes im <placeName
+						ref="#wien.hof-operntheater">Operntheater</placeName> stattgefunden hat, so
+					kommen die Erörterungen über dasselbe dem Hause zu statten.</rs></p>
+			<p><persName ref="#verdi.giuseppe">Verdi</persName> ist zur Stunde der Mittelpunct des
+				Interesses in den Kreisen der Kunstfreunde, und es wird über den Werth seines
+				neuesten Werkes sowohl, als auch über die Bedeutung seiner ganzen
+				Künstlerpersönlichkeit im Allgemeinen sehr eifrig gestritten. In den öffentlichen
+				Blättern hat das „<title ref="#verdi.requiem">Requiem</title>“ eine Anerkennung
+				gefunden, welche hinter dem im Hause selbst kundgegebenen Enthusiasmus des Publicums
+				nicht weit zurückstand; in den mündlichen Unterhaltungen hingegen, wo ein Wort das
+				andere gibt, wo ein übertriebenes Lob nur allzu leicht den Geist des Widerspruchs
+				aufregt und den Tadel wachruft, kann man über das „<title ref="#verdi.requiem"
+					>Requiem</title>“ hie und da sehr scharfe Urtheile vernehmen. Die Puristen
+				wollen es ein für alle Mal als „<title ref="#verdi.requiem">Requiem</title>“ gar
+				nicht gelten lassen.</p>
+			<p>Dagegen erwiedern die Anhänger <persName ref="#verdi.giuseppe">Verdi’s</persName>, daß auch in
+					<persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName> „<title
+					ref="#mozart.requiem">Requiem</title>“ Stellen vorkommen, welche ebenso gut im
+					„<title ref="#mozart.don-giovanni">Don Juan</title>“ einen Platz hätten finden
+				können, und selbst in der <hi rend="antiqua"><title ref="#beethoven.missa-solemnis"
+						>Missa solennis</title></hi> von <persName ref="#beethoven.ludwig-van"
+					>Beethoven</persName> seien Einzelheiten, die an manche Nummern des „<title
+					ref="#beethoven.fidelio">Fidelio</title>“ erinnern. Dies wird nun von der
+				gegnerischen Seite sehr gerne zugegeben, nur ziehen die Gegner eine andere Folgerung
+				daraus, als die Freunde und Anhänger. Sie meinen nämlich, es gäbe im „<title
+					ref="#mozart.don-giovanni">Don Juan</title>“ ebensowohl, wie im „<title
+					ref="#beethoven.fidelio">Fidelio</title>“ mehrere Stellen, <cb break="yes"
+					n="1d" type="regular"/>denen man den Charakter des religiösen Styls zugestehen
+				könne, denn sie sind ebenso erhaben, wie viele Stellen aus dem „<title
+					ref="#mozart.requiem">Requiem</title>“, aus der <title
+					ref="#beethoven.missa-solemnis"><hi rend="antiqua">D-dur</hi>-Messe</title>. Der
+				Unterschied sei also der, daß <persName ref="#mozart.wolfgang-amadeus"
+					>Mozart</persName> und <persName ref="#beethoven.ludwig-van"
+					>Beethoven</persName> die Erhabenheit des religiösen Styls in die Oper
+				hineingetragen, während <persName ref="#verdi.giuseppe">Verdi</persName> umgekehrt
+				den weltlichen Styl seiner Opern auch auf das „<title ref="#verdi.requiem"
+					>Requiem</title>“ übertragen habe. Die Verwandtschaft von <persName
+					ref="#mozart.wolfgang-amadeus">Mozart’s</persName> „<title ref="#mozart.requiem"
+					>Requiem</title>“ mit dem <persName ref="#mozart.wolfgang-amadeus"
+					>Mozart’schen</persName> Opern kann also sehr gerne zugegeben werden, sie ist
+				ebenso groß, wie die Verwandtschaft des <persName ref="#verdi.giuseppe"
+					>Verdi’schen</persName> „<title ref="#verdi.requiem">Requiems</title>“ mit den
+				Opern dieses Componisten, nur waltet in <persName ref="#mozart.wolfgang-amadeus"
+					>Mozart’s</persName> Opern ein so erhabener Geist, wie in seiner religiösen
+				Musik, während ein solcher Geist in <persName ref="#verdi.giuseppe"
+					>Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ sich ebenso
+				wenig wie in dessen Opern erkennen läßt.</p>
+			<p>Was mich betrifft, so habe ich schon in meinem vorigen Berichte<note resp="tr"
+					type="textLink"><ref type="text" target="dv_1875-06-15_verdis-requiem.xml">Vgl.
+						Das Vaterland (Wien), 15. Juni 1875.</ref></note> gesagt, daß man an eine
+				Vergleichung des <persName ref="#verdi.giuseppe">Verdi’schen</persName> „<title
+					ref="#verdi.requiem">Requiems</title>“ mit den kirchlichen Compositionen von
+					<persName ref="#bach.johann-sebastian">Bach</persName>, <persName
+					ref="#mozart.wolfgang-amadeus">Mozart</persName> und <persName
+					ref="#beethoven.ludwig-van">Beethoven</persName> gar nicht denken dürfe, und
+				diese meine Meinung findet auch ihre Anhänger; aber unter diesen, welche, abgesehen
+				von der Frage des herkömmlichen Kirchenstyls, <persName ref="#verdi.giuseppe"
+					>Verdi’s</persName> neuestes Werk blos nach dem inneren musikalischen Werthe
+				betrachten und beurtheilen, gibt es wieder zwei Parteien, denn um diesen inneren
+				Werth handelt es sich eben; die Einen gestehen ihn dem Werke zu, die Anderen
+				bestreiten ihn. Eine Geschmacksverschiedenheit, die im letzten Grunde aber auf <hi
+					rend="widespace">Ja</hi> und <hi rend="widespace">Nein</hi> hinausläuft, ist
+				nicht mehr zu schlichten. Man mag von <persName ref="#verdi.giuseppe"
+					>Verdi</persName> so viel oder so wenig halten, als man will: zu leugnen ist
+				nicht, daß er eine Anzahl Opern geschrieben, welche, wie viel unbedeutende und
+				werthlose Nummern dieselben auch enthalten mögen, im Ganzen und Großen von dem
+				entschiedensten musikalischen und dramatischen Talent dieses Componisten Zeugniß
+				geben, es kann sich also nur darum handeln, ihm unter den Anderen seinen Platz und
+				Rang anzuweisen. Daß er in <placeName ref="#italien">Italien</placeName> heute der
+				Größte ist, das ist bekannt; daß kein Franzose ihm gleichkommt, nicht minder; daß in
+				ganz <placeName ref="#deutschland">Deutschland</placeName> nur ein Einziger ihn auf
+				dem Gebiete der Oper überragt, ist ebenfalls kein Geheimniß, und so kann über seine
+				Bedeutung für die unmittelbare Gegenwart kein Zweifel sein; seine Bedeutung für die
+				Zukunft aber ist heute nicht zu ermitteln; groß genug wird sie sein, wenn sich ein
+				nachfolgendes Geschlecht mit dieser Frage zu beschäftigen haben wird.</p>
+		</body>
+	</text>
+</TEI>

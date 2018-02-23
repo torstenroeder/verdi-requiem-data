@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Wiener Zeitung, 5. November 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wz_1875-11-05_theater.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#wiener-zeitung" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-11-05" when-custom="fri"/>
+				<biblScope unit="issue">254</biblScope><series>wz</series>
+				<biblScope unit="page">430 [6]</biblScope>
+				<link facs="wz_1875-11-05_6.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18751105&amp;seite=6"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Kleine Chronik.</head>
+		<gap resp="tr"/>
+		<p>(<hi rend="widespace">Theater</hi>.) <rs type="event" ref="#wien.1875a.3"><date when-iso="1875-11-07"><hi rend="widespace">Sonntag</hi>, den 7. d. M.</date>, gelangt im <hi rend="widespace"><placeName ref="#wien.hof-operntheater">k. k.
+						Hofoperntheater</placeName></hi>
+				<persName ref="#verdi.giuseppe">Verdi’s</persName> „<hi rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi>“ in dieser Saison zum letzten Male
+				zur Aufführung.</rs> Da <rs type="event" ref="#wien.1875a.1 wien.1875a.2">die beiden ersten
+				Aufführungen</rs> dieses Werkes bei gänzlich ausverkauftem Hause stattfanden und
+			der Andrang zur Vormerkung von Sitzplätzen ungewöhnlich bedeutend ist, so sieht sich die
+			Direction veranlaßt, für <rs type="event" ref="#wien.1875a.3">diese dritte und letzte
+				Vorstellung</rs> das Abonnement aufzuheben.</p>
+	</body></text>
+</TEI>

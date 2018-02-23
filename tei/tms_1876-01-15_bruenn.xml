@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 15. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1876-01-15_ertrag.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1876-01-15" when-custom="sat"/>
+					<biblScope unit="issue">11</biblScope><biblScope unit="volume"
+						>26</biblScope><series>tms</series>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb n="3c"/>
+			<head rend="larger bold">Brünner Chronik.</head>
+			<gap resp="tr"/>
+			<p> (<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title></hi>.) Aus dem Erträgniß der <rs
+					type="event" ref="#bruenn.1876">zweimaligen Aufführung des <persName
+						ref="#verdi.giuseppe">Verdi’schen</persName>
+					<title ref="#verdi.requiem">Requiems</title></rs> sind dem hiesigen
+				evangelischen Frauenvereine durch gütige Vermittlung der Frau <persName
+					ref="#gompertz-bettelheim.karoline-von">von Gomperz-Bettelheim</persName> 250
+				fl. übergeben worden, für welche hochherzige Spende dieser Verein dem
+				veranstaltenden Komite den verbindlichen Dank ausspricht.</p>
+		</body>
+	</text>
+</TEI>

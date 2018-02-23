@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 21. Dezember 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1875-12-21_meldung.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1875-12-21" when-custom="tue"/>
+					<biblScope unit="issue">291</biblScope><biblScope unit="volume"
+						>25</biblScope><series>tms</series>
+					<biblScope unit="page">[3]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb n="3b"/>
+			<head rend="larger">Brünner Chronik.</head>
+			<gap resp="tr"/>
+			<p><g type="BOX_DRAWINGS_VERTICAL_SINGLE_AND_HORIZONTAL_DOUBLE" n="256A">╪</g>
+					(<persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title>.) Nachdem der Musik-Verein sein letztes
+				diesjähriges Konzert abgehalten, bildet das Studium des <persName
+					ref="#verdi.giuseppe">Verdi’schen</persName>
+				<title ref="#verdi.requiem">Requiems</title> den ausschließlichen Gegenstand der
+				Thätigkeit in den betreffenden Kreisen. — Ausgezeichnete Dilettanten haben bereits
+				ihre Mitwirkung zugesagt und Alles spricht dafür, daß sich die <rs type="event"
+					ref="#bruenn.1876">Abende des <date when-iso="1876-01-02">2.</date> und <date
+						when-iso="1876-01-06">6. Jänner</date></rs> zu den Glanzpunkten des
+				diesjährigen künstlerischen Lebens in <placeName ref="#bruenn">Brünn</placeName>
+				gestalten werden. Demgemäß ist auch die Nachfrage nach Abonnements-Karten schon
+				jetzt eine außerordentlich lebhafte, und dürften namentlich die Sitze in den ersten
+				sechs Reihen sehr bald vergriffen sein. —</p>
+		</body>
+	</text>
+</TEI>

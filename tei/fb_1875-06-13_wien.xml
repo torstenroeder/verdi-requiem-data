@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Fremden-Blatt, Wien, 13. Juni 1875</title><author><persName ref="#speidel.ludwig"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/fb_1875-06-13_theater-und-kunst.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#fremden-blatt" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-13"/>
+				<biblScope unit="issue">162</biblScope><biblScope unit="subIssue">162</biblScope><biblScope unit="volume">29</biblScope>
+				<biblScope unit="page">4–5</biblScope>
+				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=fdb&amp;datum=18750613&amp;seite=4"/>
+				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=fdb&amp;datum=18750613&amp;seite=5"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Werkbesprechung</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger"><hi rend="widespace">Theater und Kunst</hi>.</head>
+		<head rend="bold"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.requiem">Requiem</title>.</head>
+		<p>Es klingt wie ein Märchen, daß wir von <persName ref="#verdi.giuseppe">Giuseppe
+				Verdi</persName> eine <title ref="#verdi.requiem">Seelenmesse</title> erlebt haben. Von
+			dem Sänger der ungezügelten weltlichen Leidenschaft, von einem Tonsetzer, der den heißen
+			Trieben des Blutes Accente geliehen, die in ihrem ungezähmten Aufschrei an das Brutale
+			streifen: — von einem solchen Manne hätte noch vor wenig Jahren Niemand ein <title ref="#verdi.requiem">Requiem</title> erwartet. Nach seiner „<title ref="#verdi.aida">Aida</title>“ freilich, welche die früher so grellen Farben dämpfte und den
+			abenteuerlichen Strom der Empfindung in ein ruhiges Bett lenkte, konnte die Nachricht,
+			daß <persName ref="#verdi.giuseppe">Verdi</persName> an einem <title ref="#verdi.requiem">Requiem</title> arbeite, wohl noch befremden, aber unglaublich klang sie nicht mehr.
+			Uebrigens befremdlich oder nicht, unglaublich oder nicht — die Thatsache steht unläugbar
+			vor uns, und wie sahen vor zwei Tagen den Komponisten der „<title ref="#verdi.la-traviata">Traviata</title>“ eine Seelenmesse dirigiren, die er zum Gedächtniß seines
+			Landsmannes <persName ref="#manzoni.alessandro">Manzoni</persName> geschrieben: Der berühmte
+			Komponist dem berühmten Dichter. Ganz <placeName ref="#wien">Wien</placeName> war versammelt, den
+			Mann einmal von Angesicht zu sehen, seine geistliche Musik zu hören, und beides: das
+			Persönliche und das Sachliche, der Mann und seine Musik bestanden vor dem Wiener
+			Publikum die Probe. <persName ref="#verdi.giuseppe">Verdi’s</persName> Persönlichkeit macht
+			einen überaus günstigen Eindruck. Auf einer etwas mehr als mittelgroßen Gestalt, die
+			schlank und wie aus Stahl gehämmert ist, sitzt ein brauner Kopf mit einem energisch
+			herausgearbeiteten Gesicht, dessen Ernst durch den Ausdruck von Wohlwollen gemildert
+			wird. Die Silberfäden, die aus dem Vollbart blinken, bringen in den Kopf einen Zug von
+			Würde. Etwas von anmuthiger Unbeholfenheit liegt in seinen Bewegungen. Sein Taktschlag
+			ist fest, deutlich, energisch — ganz der Ausdruck seines Charakters. <persName ref="#verdi.giuseppe">Verdi</persName> gefiel schon durch seine persönliche
+			Erscheinung, deren Eindruck sich freilich, wie dies immer geschieht, durch die
+			stillschweigende Voraus<pb break="no" n="5a" type="regular"/>setzung seiner Verdienste
+			unberechenbar steigerte. Und als man ihn nun in seinem Werke leben sah und das Werk in
+			ihm, fand der Beifall keine Grenzen.</p>
+		<p>Das Werk selbst besitzt Eigenschaften, die auch den strengsten musikalischen Moralisten
+			nicht unbewegt lassen könnten. Wir kennen nun allerdings das Gerede von Mangel an
+			gehaltenem, an geistlichem Styl. Allein der geistliche und weltliche Styl sind zu keiner
+			Zeit so scharf getrennt gewesen, wie es uns graue Theoretiker einreden wollen. Beim
+			Künstler ist jenes doppelte Leben nicht zu finden, wie bei den deutscheln Ordensrittern,
+			die, wie das Volkswort sagt, Vormittags geistlich und Nachmittags weltlich sind. <persName ref="#lasso.orlando-di">Orlando di Lasso</persName> besang die biedere <title ref="#lasso.audite-nova">Martinsgans</title> in nicht viel anderer Weise als die
+			Dreifaltigkeit, <persName ref="#bach.johann-sebastian">Sebastian Bach</persName> pries den
+				<title ref="#bach.so-oft-ich-meine-tabakspfeife">Tabak</title> mit denselben
+			musikalischen Mitteln wie den heiligen Geist, und in <persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName>
+			<title ref="#mozart.requiem">Requiem</title> klingen Töne herüber aus seiner „<title ref="#mozart.die-zauberfloete">Zauberflöte</title>.“ Und wie fröhlich und weltlich,
+			gleich einer aufwirbelnden Lerche, konnte <persName ref="#haydn.joseph">Josef
+				Haydn</persName> in seinen <title ref="#haydn.messen">Messen</title> sein! Sollte nun
+				<persName ref="#verdi.giuseppe">Verdi</persName> nach dem Vatikanum<note resp="tr" type="glossaryLink">Erstes Vatikanisches Konzil (20. ökumenisches Konzil),
+				1869–1870, Sitzungsreihe, auf der u. a. das Unfehlbarkeitsdogma verkündet
+				wurde.</note> so asketisch singen, wie <persName ref="#palestrina.giovanni-pierluigi">Palestrina</persName> nach dem Tridentinum<note resp="tr" type="glossaryLink">Konzil
+				von Trient (19. ökumenisches Konzil), 1545–1563, Serie von gegenreformatorischen
+				Sitzungen, die u. a. eine Reform der Kirchenmusik nach dem Vorbild der Missa Papae
+				Marcelli von <persName ref="#palestrina.giovanni-pierluigi">Palestrina</persName> zur
+				Folge hatte.</note>? Laßt doch den Künstler in seiner Zeit stehen und ihn schaffen,
+			wie es ihm um das Herz ist! Wenn <persName ref="#verdi.giuseppe">Verdi</persName> keine
+			akademische Seelenmesse geschrieben, so hat er doch eine lebendige produzirt, eine für
+			ihn wahre und keine konventionelle. Ja, er hat in seiner Weise sogar das Aeußerste
+			gethan, um auch die Pedanten, die ewig Herkömmlichen, zu befriedigen. Er hat <title ref="#verdi.requiem.4 verdi.requiem.7.libera-me.fuga">Fugen</title> in seinem <title ref="#verdi.requiem">Requiem</title>, selbst eine <title ref="#verdi.requiem.4">Doppelfuge</title>. Das will nun freilich nicht recht gelingen; man hört wohl etwas
+			vom Geklapper der Mühle, aber es wird kein Mehl gemahlen. Es gehörte die ganze geniale
+			Kraft <persName ref="#bach.johann-sebastian">Sebastian Bach’s</persName> dazu, um (in <title ref="#bach.kantate">einer seiner Kantaten</title>) eine Fuge interessant zu gestalten,
+			deren Thema mit einem bis zur nächsten Oktave auseinandergelegten Dreiklang beginnt. Das
+			thut nun auch <persName ref="#verdi.giuseppe">Verdi</persName> in seiner Doppelfuge um <title ref="#verdi.requiem.4">Sanctus</title>, aber wie unbeholfen wendet er das Thema dem
+			Schlusse zu, wie nichtssagend und unschön klingend ist das Gegenthema! Wenn die
+			„Subjekte“ so ungeschickt disponirt sind, ist an eine lebensvolle Durchführung gar nicht
+			zu denken; der größte Meister im Fugensatz könnte eine solche Aufgabe nicht befriedigend
+			lösen. <persName ref="#verdi.giuseppe">Verdi</persName> fühlt sich hier selbst schwach, denn
+			im raschesten Tempo läuft er da wir über glühende Kohlen. Aber wer hat ihm denn
+			geheißen, Fugen zu schreiben? Hat es etwa <persName ref="#beethoven.ludwig-van">Beethoven</persName> gekonnt? Sind seine ungeschlachten, stockenden Fugatosätze
+			wirkliche Fugen? — Sonst übrigens fehlt es <persName ref="#verdi.giuseppe">Verdi</persName>
+			nicht an einer gewissen Gewandtheit in kontrapunktischer Arbeit. Im <title ref="#verdi.requiem.1" n="kyrie">Kyrie</title> befindet sich ein vierstimmiger Vokalsatz
+				(<hi rend="antiqua"><title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet
+					hymnus</title></hi>), der in kanonischer Weise fließend und wohlklingend
+			durchgeführt ist. Uebrigens hat das Publikum selbst die besten Stücke der Komposition
+			bezeichnet, indem es sich dieselben wiederholen ließ, zuerst das <hi rend="antiqua"><title ref="#verdi.requiem.2.recordare">Recordare</title></hi>, ein Duett für
+			Sopran und Mezzosopran, welches nicht ohne theatralisches Blut melodisch dahinfließt,
+			erst leise und ruhig fließend, dann mit einem wirksamen Sprunge aus <hi rend="antiqua">dur</hi> nach <hi rend="antiqua">moll</hi>, den Ton einer dringenden, energischen
+			Bitte anschlagend. Die nächste Wiederholung fiel auf das Tenorsolo: <hi rend="antiqua"><title ref="#verdi.requiem.2.ingemisco">Ingemisco</title></hi>, einen kleinen,
+			innigen Satz. Dann wurde das <hi rend="antiqua"><title ref="#verdi.requiem.3" n="hostias">Hostias ac preces</title></hi> im <title ref="#verdi.requiem.3">Offertorium</title>
+			wiederholt, zuletzt das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus
+				Dei</title></hi>. Das letztere ist von eigenthümlicher Wirkung. Es beginnt mit einem
+			klagenden, melodisch und rhythmisch interessant gebildeten Gesang, den Sopran und
+			Mezzosopran in der Octave vortragen; der Chor nimmt die Melodie unisono auf; dann
+			beginnt der Sologesang wieder in Moll, und der Chor nimmt ihn gleichfalls in Moll auf,
+			bis das Ganze, nachdem sich Solostimmen und Chor vereinigt, anmuthig ausklingt. Durch
+			eine eigensinnig festgehaltene Triole (<persName ref="#verdi.giuseppe">Verdi</persName>
+			wendet sie in dem <title ref="#verdi.requiem">Requiem</title> mit Vorliebe an) kommt etwas
+			eigenthümlich Drängendes in diesen Satz, welches noch gesteigert wird durch die
+			merkwürdige Nebeneinanderstellung einer siebentaktigen und sechstaktigen melodischen
+			Phrase. Die ganze Melodie ist aus dreizehn Takten aufgebaut.</p>
+		<p>Doch genug der Einzelnheiten. Das <title ref="#verdi.requiem">Requiem</title>
+			<persName ref="#verdi.giuseppe">Verdi’s</persName> ist mit allen seinen Untugenden und
+			Mängeln, wie wir schon gesagt, ein lebendiges Werk und wird auf die Lebendigen
+			allerwärts als ein solches wirken, zumal wenn es in der Weise aufgeführt wird, wie wir
+			es zu hören das Glück gehabt haben. In Frl. <persName ref="#stolz.teresa">Stolz</persName>
+			lernten wir einen geradezu wunderbaren Sopran kennen, der in der Tiefe, in der
+			Mittellage und in der Höhe von gleicher Fülle, Stärcke und Energie ist. Ihre Methode,
+			ihr Vortrag sind die Natürlichkeit und die Schönheit selbst. Frl. <persName ref="#waldmann.maria">Waldmann</persName> und die Herren <persName ref="#masini.angelo">Masini</persName> und <persName ref="#medini.paolo">Medini</persName> wetteifern mit
+			einander an Pracht der sinnlichen Mittel und an Geschmack des Vortrages. Wenn wir die
+			großen Leistungen des Orchesters und des Chores — der durch den <orgName ref="#wien.akademischer-gesangverein">akademischen Gesangsverein</orgName> verstärckt war
+			— hervorheben, so wiederholen wir nur, was wir gleich nach der Aufführung des <title ref="#verdi.requiem">Requiems</title> niedergeschrieben haben. Die Streichinstrumente
+			verdienen noch ihr eigenes Lob; sie haben viel zu thun gehabt, denn <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.requiem">Requiem</title>, welches im Ganzen höchst einfach instrumentirt
+			ist, ruht orchestral zumeist auf dem Streichquartett. Gewiß wird man an diesen
+			Verdi-Abend lange zurückdenken. Jenes Soloquartet im Vereine mit den übrigen herrlichen
+			Kräften musiziren zu hören, war ein Genuß, wie er dem Menschen nur an den hohen
+			Festtagen der Kunst bescheert wird.</p>
+		<p rend="right"><hi rend="antiqua"><persName ref="#speidel.ludwig">sp.</persName></hi></p>
+		<p rend="smaller"><rs type="event" ref="#wien.1875.2">Auch die gestrige Aufführung des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
+				<title ref="#verdi.requiem">Requiem</title> hatte ein das Haus in allen Räumen
+				füllendes Publikum herbeigelockt.</rs> Wie am <rs type="event" ref="#wien.1875.1">ersten <cb break="yes" n="5b" type="regular"/>Abend</rs> wurden der Kompositeur und das
+			Soloquartett bei ihrem Erscheinen mit unendlichem Beifall empfangen, der sich nach der
+			ersten Abtheilung und nach dem Schluß bis zu einem frenetischen Jubel und unzähligen
+			Vorrufen steigerte. Den meisten Anklang fanden wieder das <title ref="#verdi.requiem.2.recordare">Ricordare</title>, die Soli: <title ref="#verdi.requiem.2.ingemisco">Ingemisco tamquam reus</title> und <title ref="#verdi.requiem.3" n="hostias">Hostias et preces tibi</title>, sowie das <title ref="#verdi.requiem.5">Agnus Dei</title>, welche Nummern auf das stürmischeste zur
+			Wiederholung verlangt und auch wiederholt wurden. Ueber die Leistung der Künstler, des
+			Chores und des Orchesters hat unser Musikreferent bereits berichtet — Es bleibt uns nur
+			noch zu sagen, daß sich dessen Urtheil auch heute als vollständig richtig erwiesen hat.
+			Se. Majestät der <persName ref="#franz-joseph-i.habsburg">Kaiser</persName> und Se. kais.
+			Hoheit <persName ref="#rudolf.oesterreich-ungarn">Kronprinz Rudolf</persName> beehrten die
+			Aufführung mit ihrer Gegenwart und b<supplied resp="tr">l</supplied>ieben bis zum Schlusse.</p>
+	</body></text>
+</TEI>

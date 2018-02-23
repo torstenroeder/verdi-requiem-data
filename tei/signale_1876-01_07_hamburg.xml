@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Signale, Leipzig, Januar 1876/7 (= Berliner Tagebl., 11.1.)</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/signale_1876-01_07_hamburg.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#signale" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date cert="low" when-iso="1876-01-31" notAfter-iso="1876-01-31"
+						notBefore-iso="1876-01-12"/>
+					<!--BIBLIO Datierung: frühestens ein Tag nach der Aufführung-->
+					<!--BIBLIO Datierung: frühestens ein Tag nach dem Erscheinen im Berliner Tageblatt-->
+					<!--BIBLIO Datierung: spätestens Ende des Monats-->
+					<biblScope unit="issue">7</biblScope><biblScope unit="volume">34</biblScope>
+					<biblScope unit="page">104</biblScope>
+					<link
+						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=109"/>
+					<link
+						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=112"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#hamburg"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="101" type="initial"/>
+			<head rend="antiqua widespace larger">Dur und Moll.</head>
+			<pb break="null" n="104" type="skipped"/>
+			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+				<rs type="event" ref="#hamburg.1876.1"><hi rend="widespace">Am <placeName
+							ref="#hamburg.stadt-theater">Hamburger Stadttheater</placeName></hi> ist
+						<persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> mit großer Begeisterung aufgenommen
+					worden.</rs> Das scenische Arrangement war von Herrn Oberregisseur <persName
+					ref="#hock.wilhelm" role="stage-director">Hock</persName> besorgt. Die Scene
+				stellte das Innere einer katholischen Kirche dar, die Mitwirkenden, der auf mehr als
+				100 Mann verstärkte Chor und das aus ca. 70 Personen bestehende Orchester, sämmtlich
+				in eleganter Gesellschafts-Toilette, die Damen in Weiß, mit weißen Camelien im Haar
+				und, dem Charakter der Todtenmesse entsprechend, mit schwarzem Schleier, waren in
+				weitem aufsteigendem Halbkreise postirt, in der Mitte desselben der Dirigent, Herr
+					<persName ref="#fuchs.johann-nepomuk">Fuchs</persName>, dessen Pult theilweise
+				durch lebende Gewächse verdeckt war. Das Ganze machte einen sehr feierlichen
+				Eindruck.</p>
+		</body>
+	</text>
+</TEI>

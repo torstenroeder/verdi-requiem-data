@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Illustrirtes Wiener Extrablatt, 10. Juni 1875</title><author><persName ref="#manussi-von-montesole.ferdinand"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/iwe_1875-06-10_die-manzoni-messe-verdis.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#illustrirtes-wiener-extrablatt" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-10" when-custom="thu"/>
+				<biblScope unit="issue">159</biblScope><biblScope unit="volume">4</biblScope><series>iwe</series>
+				<biblScope unit="page">4</biblScope>
+				<link facs="iwe_1875-06-10_4.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=iwe&amp;datum=18750610&amp;seite=4"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Die <title ref="#verdi.requiem">Manzoni-Messe</title>
+			<persName ref="#verdi.giuseppe">Verdi’s</persName>.</head>
+		<p>Wenn <persName ref="#wagner.richard">Richard <hi rend="widespace">Wagner</hi></persName> Geld
+			braucht und zu Absiedezwecken in <placeName ref="#wien">Wien</placeName> erscheint, steht der
+			Wagner-Kultus immer in höchster Blüthe; die Wagnerfexe gerathen in Verzückung, geberden
+			sich wie Irrsinnige und werden sich vor dem Vergötterten in den Staub, um nur ja einen
+			herablassenden Fußtritt von dem prätentiös auftretenden Meister zu erhalten. Wenn er in
+			einem Gasthause ein „Gulyas“<note resp="tr" type="glossaryLink">Gulyás, eine ungarische
+				Gulaschsuppe.</note> ißt, so wird dies zu einer begeisternden That aufgebläht und
+			auf dem Wege der Reklame der staunenden Mitwelt in die Ohren posaunt.</p>
+		<p>Von dem Schöpfer von fast einem Hundert Opern, von dem Manne mit dem unversiegbaren
+			Melodienquell in der Brust, der die Herzen von Millionen Menschen entzückte und noch
+			künftig entzücken wird, spräche das sogenannte musikalische <placeName ref="#wien">Wien</placeName> gar nicht, wenn nicht hie und da eine anfröstelnd trockene Notiz
+			bezüglich seiner Anwesenheit von Seite der Direktion unserer Oper versendet würde.</p>
+		<p><hi rend="widespace"><persName ref="#wagner.richard">Wagner</persName></hi>, von dem noch kein
+			Mensch sprach, als der Duft der Blüthen des <persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>’schen</persName> Melodiengartens schon die <hi rend="widespace">ganze Welt</hi> erfüllte, wird als dem Messias der Musik <hi rend="widespace">göttliche</hi> Verehrung zu Theil, weil er sich selbst in
+			Weihrauchwolken zu hüllen versteht, und dem Schöpfer so vieler Hunderte von Melodien,
+			welche durch das Ohr den Eingang in die Herzen der Menschen gefunden haben, kommt man
+			bei uns mit jener kühlen Höflichkeit entgegen, welche man für jeden talentirten —
+			Kapellmeister in Bereitschaft hat.</p>
+		<p>Die minder künstliche Art, die weniger gesuchte und minder schwierige Verschlingung,
+			Schürzung und Lösung musikalischer Knoten, die Einfachheit wurde ihm — und zum großen
+			Theile nicht mit Unrecht — zum Vorwurf gemacht; er machte sich das Schaffen leicht und
+			schriebn die Weisen so einfach und natürlich nieder, wie sie in seiner Brust, wie sie in
+			der Brust der sich zum Aether aufschwingenden Lerche wachsen, die sich ja auch nicht um
+			die von dem spintisirenden Menschen im Schweiße seines Angesichtes erfundenen Regeln und
+			Formen kümmert.</p>
+		<p>Aber die Musiker, oder besser die Musikpedanten, verlangen heute mehr — oder vielleicht weniger — als daß die Musik töne, klingend zum Herzen spreche, sie verlangen die künstliche Form, das musikalische Pathos, die möglichste Complication. Aber auch ihnen wird <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> in seinen neuesten Schöpfungen, in seiner „<hi rend="widespace"><title ref="#verdi.aida">Aida</title></hi>“ und in der <title ref="#verdi.requiem">Manzoni-Messe</title> gerecht; in diesen Werken hat er gesühnt, was der übermüthige junge Schwan, dessen Brust von Liedern überströmte, an der Form, ab den „guten Geschmack“, in der <hi rend="antiqua">Sancta musica</hi> gesündigt; er hat gezeigt, daß die Genialität der Erfindung mit dem künstlerischen Formen-Zwang Hand in Hand gehen kann und daß man ob der Form das charakteristische und liebenswürdigste Element der Musik — die <hi rend="widespace">Melodie</hi> nicht zu vergessen, nicht zu <hi rend="widespace">vermeiden</hi> braucht.</p>
+		<p>Wir kommen direkt von der <rs type="event" ref="#wien.1875.gp">Generalprobe der <title ref="#verdi.requiem">Manzoni-Messe</title>, welche gestern unter des Komponisten
+				persönlicher Leitung stattfand</rs> und wir gestehen es gerne, wir <supplied resp="tr">k</supplied>ommen begeistert von dem großen Genusse in die stille<surplus resp="tr">,</surplus>
+			<cb break="yes" n="4b" type="regular"/> Arbeitsklause zurück, um die Eindrücke wieder zu
+			geben welche wir von diesem Werke empfangen haben.</p>
+		<p>Die <persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>’sche</persName>
+			<title ref="#verdi.requiem">Messe</title> ist eine der größten, wenn nicht die allergrößte
+			Musikschöpfung des Jahrhunderts, überwältigend in der Gesammtwirkung und
+			bewundernswürdig in den Details, von welchem einige, ja <hi rend="widespace">viele</hi>
+			sogar, von blendender Großartigkeit sind.</p>
+		<p><hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> hat eine — wenn wir
+			uns so ausdrücken dürfen — „dramatische Messe“ geschrieben; er hat mit den brillantesten
+			Klangfarben die Gefühle illustrirt, die uns am offenen Grabe eines großen Todten
+			überkommen und die Empfindung verdolmetscht uns bei jedem einzelnen Satze die Absicht
+			des Meisters.</p>
+		<p>Mit einem großen, markerschütternden Schmerzens-Schrei, als fordere man die Gottheit für
+			die Abberufung des Verblichenen heraus, beginnt der <title ref="#verdi.requiem.2">zweite
+				Satz</title> nach dem stimmungsvollen <hi rend="antiqua"><title ref="#verdi.requiem.1">Kyrie</title></hi> von reizender und wirkungsvoller Harmonie. Wehmuthsvoll, in
+			klingenden Accorden setzen die <title ref="#verdi.requiem.2.tuba-mirum">Posaunen</title>
+			ein, welche auf mehreren Plätzen auf der Bühne vertheilt sind und wunderbare Wirkung
+			erzielen.</p>
+		<p>Die außerordentlich geschickte Verwendung des liturgischen Elementes, das uns die
+			Ceremonie der Todtenfeier und die Gebete der Gläubigen versinnlicht, macht besonderen
+			und ganz überraschenden Eindruck.</p>
+		<p><hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> erdrückt in seiner
+				<title ref="#verdi.requiem">Messe</title> die Zuhörer durch die Macht und den Wechsel
+			der verschiedensten Klangwirkungen und zeigt sich als der auserlesenste Meister der
+			Harmonie, welche man jetzt neuerdings als nationales Charakteristikon für die deutschen
+			Komponisten hinzustellen sucht.</p>
+		<p>Zwei Duette — eines davon im <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus
+					dei</title></hi> — welche die Damen <hi rend="widespace"><persName ref="#stolz.teresa">Stolz</persName></hi> und <hi rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi> zu Gehör brachten, sind von
+			hinreißender Wirkung und werden das Publikum gewiß zu enthusiastischen
+			Beifallsbezeugungen begeistern.</p>
+		<p>Wir können heute nach einmaligem Hören nicht in die Details der großen Tonschöpfung
+			eingehen, wir stehen noch zu sehr unter dem Gesammteindrucke, um aus der Masse der
+			schönen Einzelheiten das schönste mit sicherem Griff hervorheben zu können, und behalten
+			uns dies bis nach der ersten Aufführung vor; wir können es aber nicht unterlassen zu
+			betonen, daß dem ganzen Werke ein hoher Schwung der Begeisterung, eine maienhafte
+			Frische innewohnt, als spotte <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> des Gesetzes der Natur, daß sich Alles auf der Welt
+			abstumpft und der Zahn der Zeit Nichts, verschont.</p>
+		<p>Die Interpretation des Werkes seht durchaus auf der Höhe ihrer Aufgabe, und wenn unsere
+			Hofopernsänger und Sängerinnen, die sämmtlich der gestrigen General-Probe beiwohnten,
+			aufmerksam zuhorchten, so haben sie jedesfalls was gelernt.</p>
+		<p><hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> hat sich da ein
+			Soloquartette zusammenestellt, wie es vollendeter nicht gedacht werden kann. Es ist ein
+			wahrer, ein echter Genuß, dem Gesange desselben zu lauschen; durchwegs gleich große und
+			gleich wohllautende Stimmen, durchaus gleich geebnete Register und die gleiche
+			Gesangsmanier; man denke sich die Wirkung!!</p>
+		<cb break="yes" n="4c" type="regular"/>
+		<p>Als wäre es ein volltönendes Instrument, auf dem Accorde angeschlagen werden, so klingt
+			das Quartett, als wäre es ein einziger Mensch mit unbegrenztem Umfang, so klänge eine
+			Skala, welche Signor <hi rend="widespace"><persName ref="#medini.paolo">Medini</persName></hi> mit dem <hi rend="antiqua">contra-C</hi> beginnen und Frau <hi rend="widespace"><persName ref="#stolz.teresa">Stolz</persName></hi> mit dem hohen <hi rend="antiqua">F</hi> enden könnte. Die Stimmen fließen in einander, wie Milch und
+			Honig. Ein unnennbarer Reiz!</p>
+		<p>Frau <hi rend="widespace"><persName ref="#stolz.teresa">Stolz</persName></hi>, die Primadonna,
+			eine Schülerin des <placeName ref="#prag">Prager</placeName>
+			<placeName ref="#prag.konservatorium">Konservatoriums</placeName>, verfügt über einen Umfang der
+			Stimme, welcher selbst jenen der einst so gefeierten <persName ref="#csillag.rosa">Csillag</persName> übertrifft; wie fließendes Gold quellen die Töne über ihre Lippen,
+			mit einem zum Herzen dringenden Schmelz und dabei mit einer Kraft, gegen welche es keine
+			Orchestermacht gibt: Ton für Ton klingt aus <hi rend="antiqua">fortissime</hi> des
+			Riesenorchesters und des verstärkten Chors (z. B. im „<hi rend="antiqua"><title ref="#verdi.requiem.7">libera me</title></hi>“) hervor, wie das elektrische Licht
+			siegreich aus einem Meer von Alltagslichtern hervorbricht. Ihr Athmen ist geradezu
+			bewundernswerth, sie läßt Töne des höchsten Registers mehrere Takte lang anschwellen und
+			wieder absterben, als wäre dies ein Kinderspiel.</p>
+		<p>Fräulein <hi rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi>, eine
+			blonde Wienerin und Schülerin des <placeName ref="#wien">Wiener</placeName>
+			<placeName ref="#wien.konservatorium">Konservatoriums</placeName>, verfügt über ebenso hübsche
+			und ebenso kräftige Mittel, sie sind mit Ausdruck, Bravour und vielem Geschmack: die
+			Register sind geebnet, die tiefen Töne von blendender Schönheit und seltener Kraft. Sie
+			wußte sich wiederholt Beifallsbezeugungen selbst für Einzelheiten ihrer Nummern zu
+			erringen.</p>
+		<p>Signor <persName ref="#masini.angelo"><hi rend="widespace">Masini</hi>’s</persName> Tenor
+			erinnert lebhaft an <persName ref="#nicolini.ernesto"><hi rend="widespace">Nicolini</hi>’s</persName> prächtige Stimme, er ist von sympathischer, wollüstiger
+			Weichheit, und doch ist es eine echt männliche Stimme; dabei singt er geschmackvoll und
+			so discret, wie wir noch nie einen seiner Landsleute singen hörten; einen würdigen
+			Abschluß dieser celebren Tonleiter macht Herr <hi rend="widespace"><persName ref="#medini.paolo">Medini</persName></hi> mit seiner wohllauten Baßstimme und
+			seiner würdigen, fein pointirten Gesangsweise.</p>
+		<p>Eine wohlthätig wirkende Übereinstimmung herrscht bei diesem hervorragengen Quartett:
+			Keines sucht das Andere zu überbieten, den Anderen zu decken; Alle wirken im Geiste des
+			Ganzen und für dasselbe mit Hintansetzung kleinlichen Ehrgeizes.</p>
+		<p>Chor und Orchester hielten sich tadellos, wie dies von diesen anerkannten Körperschaften
+			nicht anders zu erwarten war.</p>
+		<p>Die Wirkung der Probe-Aufführung auf das geladene Publikum war eine außerordentliche;
+			enthusiastischer Applaus ertönte nach jedem einzelnen Satze und oft auch mitten in einem
+			solchen und das Stück läßt keinen Zweifel zu, daß den Aufführungen dieselbe begeisterte
+			Aufnahme zu Theil werden wird.</p>
+		<p>Zu diesem Theile der Erbschaft <persName ref="#herbeck.johann-von"><hi rend="widespace">Herbeck</hi>’s</persName> mag sich Herr <hi rend="widespace"><persName ref="#jauner.franz-von">Jauner</persName></hi> besonders gratuliren.</p>
+		<p>Zum Schlusse können wir die Bemerkung nicht unterdrücken, daß wir uns von der Aufführung
+			der „<title ref="#verdi.aida">A<hi rend="antiqua">i</hi>da</title>“ mit den eben nur
+			flüchtig gewürdigten Kräften einen ganz besonderen Genuß versprechen.</p>
+		<p rend="right"><hi rend="antiqua"><persName ref="#manussi-von-montesole.ferdinand">F.
+					M.</persName></hi></p>
+	</body></text>
+</TEI>

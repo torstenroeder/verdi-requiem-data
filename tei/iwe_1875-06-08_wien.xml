@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Illustrirtes Wiener Extrablatt, 8. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/iwe_1875-06-08_neue-freie-theaterzeitung.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#illustrirtes-wiener-extrablatt" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-08" when-custom="tue"/>
+					<biblScope unit="issue">157</biblScope><biblScope unit="volume"
+						>4</biblScope><series>iwe</series>
+					<biblScope unit="page">3</biblScope>
+					<link facs="iwe_1875-06-08_3.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=iwe&amp;datum=18750608&amp;seite=3"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="3c" type="initial"/>
+			<head rend="larger">Neue freie Theaterzeitung.</head>
+			<gap resp="tr"/>
+			<p><g type="ASTERISK" n="002A">*</g> Maestro <hi rend="widespace"><persName
+						ref="#verdi.giuseppe">Verdi</persName></hi> hat <date>gestern</date> im
+					<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> zum ersten
+				Male die Ensemble-Probe seines <title ref="#verdi.requiem">Requiem</title>
+				persönlich dirigirt. Er wurde bei seinem Erscheinen auf der Bühne mit stürmischem
+				Applaus und Hochrufen empfangen und auch während der Aufführung wiederholt
+				enthusiastisch acclamirt.</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Morgen-Post, Wien, 25. September 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mp_1875-09-25_florenz.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#morgen-post">Morgen-Post</orgName>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-09-25" when-custom="sat"/>
+					<biblScope unit="issue">266</biblScope><biblScope unit="volume"
+						>25</biblScope><series>mp</series>
+					<biblScope unit="page">4</biblScope>
+					<link facs="mp_1875-09-25_2.jpg"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#florenz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Kurzbericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Theater, Kunst und Literatur.</head>
+			<cb break="null" n="4c" type="skipped"/>
+			<p><g type="ASTERISK" n="002A">*</g>
+				<rs type="event" ref="#florenz.1875.1">Wie der „<orgName ref="#gazzetta-di-venezia"
+						>Gazzetta di Venezia</orgName>“ unterm <date when-iso="1875-09-19">19. d.
+						M.</date> aus <hi rend="widespace"><placeName ref="#florenz"
+							>Florenz</placeName></hi> gemeldet wird, ist an diesem Tage am dortigen
+					Theater „<placeName ref="#florenz.teatro-principe-umberto">Principe
+						Umberto</placeName>“ <persName ref="#verdi.giuseppe"><hi rend="widespace"
+							>Verdi</hi>’s</persName> schon längst angekündigte „<title
+						ref="#verdi.requiem">Messa Requiem</title>“ in Gegenwart von mehr als
+					zweitausend Zuhörern zur Aufführung gelangt</rs> und war der Erfolg, wie es sich
+				leicht voraussehen ließ, ein glänzender. Das „<hi rend="widespace"><title
+						ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>“, das „<hi
+					rend="widespace"><title ref="#verdi.requiem.4">Sanctus</title></hi>“ und das
+					„<hi rend="widespace"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>“
+				mußten auf allgemeines Verlangen wiederholt werden.</p>
+		</body>
+	</text>
+</TEI>

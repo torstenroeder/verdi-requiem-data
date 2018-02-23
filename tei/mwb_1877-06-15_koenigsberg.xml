@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 15. Juni 1877</title><author><persName ref="#weiss.albert"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1877-06-15_koenigsberg.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#mwb" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1877-06-15"/>
+				<biblScope unit="issue">25</biblScope><biblScope unit="volume">8</biblScope><series>mwb</series>
+				<biblScope unit="page">351–352</biblScope>
+				<link facs="mwb_1877-06-15_351.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18770615&amp;seite=3"/>
+				<link facs="mwb_1877-06-15_352.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18770615&amp;seite=4"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#koenigsberg"/><date when-iso="1877-04"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<pb break="null" n="351" type="initial"/>
+		<p><hi rend="bold"><placeName ref="#koenigsberg">Königsberg</placeName>,</hi>
+			<date notAfter-iso="1877-04-30" notBefore-iso="1877-04-20">Ende April</date>. <gap resp="tr"/></p>
+		<pb break="null" n="352" type="skipped"/>
+		<p><rs type="event" ref="#koenigsberg.1877">Dagegen erzielte die musikalische Akademie unter <persName ref="#laudien.heinrich">Laudien’s</persName> Leitung durch Aufführung des <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName> und des „<title ref="#rubinstein.das-verlorene-paradies">Verlorenen Paradieses</title>“ von <persName ref="#rubinstein.anton">Rubinstein</persName> herrliche Erfolge</rs>, sodass wir im Allgemeinen mit
+			entschiedenster Befriedigung auf die vergangene Concertsaison zurückblicken können.</p>
+		<p rend="right">
+			<persName ref="#weiss.albert">A. W.</persName>
+		</p>
+	</body></text>
+</TEI>

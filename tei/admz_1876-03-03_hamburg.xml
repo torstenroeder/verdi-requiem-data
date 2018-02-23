@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>AdMz, Leipzig, 3. März 1876</title><author><persName ref="#akronym.lb"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/admz_1876-03-03_hamburg.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#admz" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-03"/>
+				<biblScope unit="issue">9</biblScope><biblScope unit="volume">3</biblScope><series>admz</series>
+				<biblScope unit="page">76</biblScope>
+				<!--FACS AdmZ: kein Digitalisat; Kopie vorhanden-->
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#hamburg"/><date when-iso="1876-01-29"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<pb n="74"/>
+		<head rend="widespace larger">Korrespondenzen.</head>
+		<pb break="null" n="76a" type="skipped"/>
+		<p><hi rend="bold"><placeName ref="#hamburg">Hamburg</placeName>,</hi>
+			<date when-iso="1876-01-29">29. Januar</date>. Dank der Opferwilligkeit und Umsicht unserer
+			Stadttheater-Direktion, haben auch wir Hamburger Gelegenheit bekommen, das <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName>
+			aus eigener Erfahrung, nach eigenem Hören kennen zu lernen. <rs type="event" ref="#hamburg.1876">Das Werk ist hier vier Mal zur Aufführung gekommen</rs>, zuerst vor einem nur
+			kleinen Zuhörerkreise, später aber, als die Presse die Schönheit des <title ref="#verdi.requiem">Requiems</title> bezeugt und die ersten Hörer von dem großen
+			Eindruck desselben zu reden hatten, unter großer Theilnahme, vor ausverkauftem Hause.
+			Daß das <title ref="#verdi.requiem">Requiem</title> in unserer Gegend, im protestantischen
+			Norden einen solchen Erfolg hatte, spricht gewaltig für seinen Werth. Es ist ganz
+			natürlich, daß man dem Werk in katholischen Ländern, in <placeName ref="#frankreich">Frankreich</placeName>, <placeName ref="#oesterreich">Oesterreich</placeName>, <placeName ref="#bayern">Bayern</placeName> etc. mit ganz anderem Sinn gegenübertrat, daß man sich
+			ihm weit empfänglicher und verständnißvoller näherte, daß dort selbst die Vokal- und
+			Instrumentalkräfte zum Theil viel leichter in den Geist der Musik eindrangen, als es bei
+			uns in <placeName ref="#hamburg">Hamburg</placeName> möglich sein kann. Hier, wo das große
+			Publikum die Bedeutung und den Sinn eines solchen kirchlichen Tonstückes wenig oder
+			nicht versteht, hält man sich allein und einzig an die Komposition, ohne sich für
+			dieselbe durch anderes, doch eigentlich dazu Gehörige<supplied resp="tr">s</supplied> einnehmen zu
+			lassen. — <persName ref="#verdi.giuseppe">Verdi</persName> erscheint der musikalischen Welt
+			durch sein <title ref="#verdi.requiem">Requiem</title> als ein ganz anderer, er errang sich
+			durch dasselbe eine ganz andere Stellung. Es ist durchweg wirkliche Kirchenmusik, die
+				<persName ref="#verdi.giuseppe">Verdi</persName> in seinem <title ref="#verdi.requiem">Requiem</title> schuf, wenn auch nicht solche, wie wir sie von den alten
+			italienischen Meistern besitzen. Dafür sind die Zeiten auch andere, als im sechzehnten
+			oder siebenzehnten Jahrhundert, sind die Anschauungen, wie auf allen anderen Gebieten,
+			auch im Kirchlichen veränderte. Was die Musik an und für sich angeht, so ist sie überall
+			mit großer Sorgfalt ausgearbeitet; an keiner Stelle merkt man die leichtfertige Hand des
+			früheren <persName ref="#verdi.giuseppe">Verdi</persName>. Hat er sich in manchen Dingen auch
+			an andere Meister gelehnt und bei ihnen Rath gesucht, so findet sich doch des
+			Charakteristischen und Eigenthümlichen sehr viel. Hierher ist besonders das herrliche
+				„<hi rend="italic"><title ref="#verdi.requiem.2">Dies ir<surplus resp="tr">r</surplus>ae</title></hi>“ zu zählen, das als die Krone des Ganzen gelten muß. Ein
+			ganz ausgezeichnetes Stück, ganz originell in seiner Fassung ist dann das „<hi rend="italic"><title ref="#verdi.requiem.5">Agnus dei</title></hi>“, für Sopran und Alt
+			mit Chor. Für eine würdige Ausführung des Requiem war alles Mögliche gethan. Das
+			Orchester war durch Mitglieder des <orgName ref="#hamburg.philharomischer-verein">philharmonischen Vereins</orgName> bis auf einige siebenzig Personen verstärkt worden
+			und der Chor zählte über hundert Damen und Herren. Die Solopartien hatten bewährte
+			Mitglieder unserer Oper übernommen: <hi rend="widespace">Frl. <persName ref="#froehlich.xxx"><choice>
+						<orig>Fröhlig</orig>
+						<corr resp="tr">Fröhlich</corr>
+					</choice></persName></hi> (Sopran), <hi rend="widespace">Frl. <persName ref="#boree.minna">Borée (Mezzosopran)</persName></hi>, <hi rend="widespace">Herr
+					<persName ref="#candidus.william">Candidus</persName> (Tenor)</hi> und <hi rend="widespace">Herr <persName ref="#koegel.josef">Kögel</persName> (Baß)</hi>, bei der
+			dritten Aufführung des Requiems trat <hi rend="widespace">Frau <persName ref="#otto-alvsleben.melitta">Otto-Al<supplied resp="tr">v</supplied>sleben</persName></hi>
+			für Frl. <persName ref="#froehlich.xxx"><choice>
+					<orig>Fröhlig</orig>
+					<corr resp="tr">Fröhlich</corr>
+				</choice></persName>, die erkrankt war, ein. An der Spitze dieses großen Klangkörpers
+			stand Herr Kapellmeister <hi rend="widespace"><persName ref="#fuchs.johann-nepomuk">Fuchs</persName></hi>, der das manchmal erhebliche Schwierigkeiten bietende Werk
+			mit großer Sorgfalt und Gewissenhaftigkeit einstudirt hatte und dem darum in erster
+			Linie der glückliche Verlauf zu danken ist. Die Solisten haben die besten Beweise ihres
+			künstlerischen Eifers gegeben, sie fanden sich mit den, ihrem gewöhnlichen Berufe ganz
+			abseits liegenden Aufgaben sehr befriedigend ab, sie waren sichtbar bemüht, die Manieren
+			und eigenen Gewohnheiten, die dem dramatischen Künstler gar leicht anhaften, zu
+				verleugnen<supplied resp="tr">,</supplied> was durchaus mit Erfolg geschah. Ebensolches Lob
+			muß dem Chor zu Theil werden, auch er fand sich ganz wohl auf dem ihm fremden Felde des
+			Oratoriengesanges zurecht. Das Orchester unter Anführung seines trefflichen
+			Konzertmeisters Hrn. <hi rend="widespace"><persName ref="#hermann.xxx">Hermann</persName></hi> trug das Seine bei zur möglichst vollendeten Wiedergabe des
+				<title ref="#verdi.requiem">Requiems</title> und somit haben wir ein gelungenes
+			künstlerisches Unternehmen unseres Opern-Instituts zu verzeichnen.</p>
+		<pb break="null" n="77a" type="skipped"/>
+		<p rend="right">
+			<persName ref="#akronym.lb">L. B.</persName>
+		</p>
+	</body></text>
+</TEI>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Figaro, Wien, 12. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/figaro_1875-06-12_castrum-doloris.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#figaro" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-12"/>
+				<biblScope unit="issue">27</biblScope><biblScope unit="volume">19</biblScope><series>figaro</series>
+				<biblScope unit="page">5</biblScope>
+				<link facs="figaro_1875-06-12_5.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=fig&amp;datum=18750612&amp;seite=5"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Satire</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Theater-Figaro.</head>
+		<gap resp="tr"/>
+		<p>Bei der <rs type="event" ref="#wien.1875">Aufführung von <persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Requiem</title> im <placeName ref="#wien.hof-operntheater">Operntheater</placeName></rs> wird die Kassa dieses Theaters mit schwarzem Tuch ausgeschlagen und, mit den Kassarapporten der letzten zwei Jahre behangen, als <hi rend="antiqua">castrum doloris</hi> aufgestellt.</p>
+	</body></text>
+</TEI>

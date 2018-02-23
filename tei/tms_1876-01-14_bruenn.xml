@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 14. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1876-01-14_chronik.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1876-01-14" when-custom="fri"/>
+					<biblScope unit="issue">10</biblScope><biblScope unit="volume"
+						>26</biblScope><series>tms</series>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="2"/>
+			<head rend="larger">Bunte Chronik.</head>
+			<cb break="null" n="2b" type="skipped"/>
+			<p>Ist aber der Gesang eines „<hi rend="widespace">Requiem</hi>“ immer ein solcher, der
+					<hi rend="widespace">Friede</hi> und Versöhnung wirkt? Ach, wir haben in den
+				letzten Tagen gerade das Gegentheil erfahren! <hi rend="widespace"><persName
+						ref="#verdi.giuseppe">Giuseppe Verdi</persName></hi>, der letzte Musiker
+				Italiens, hat für <persName ref="#manzoni.alessandro">Alessandro
+					Manzoni</persName><supplied resp="tr">,</supplied> seinen letzten Dichter, eine
+					<title ref="#verdi.requiem">Todtenmesse</title> geschrieben — freilich, wenn wir
+					<persName ref="#verdi.giuseppe">Verdi</persName> den letzten „Komponisten“
+				nennen, nehmen wir das Wort nur so, wie man <persName ref="#maximilian-i.habsburg"
+					>Max <hi rend="antiqua">I.</hi></persName> den „letzten“ Ritter nennt — es gab
+				schon lange keine Ritter mehr, als <persName ref="#theuerdank">Theuerdank</persName>
+				den „Weckauf“ und „Purlepaus“<note resp="tr" type="glossaryLink">Weckauf und
+					Purlepaus: Namen zweier Kanonengeschütze, die <persName
+						ref="#maximilian-i.habsburg">Maximilian I.</persName> während der Belagerung
+					der Festung Kufstein zum Einsatz brachte.</note> donnern ließ! Indessen fand
+					<persName ref="#verdi.giuseppe">Verdi’s</persName> Werk allenthalben Beifall,
+				und es war ein recht zeitgemäßer Gedanke, dasselbe auch in <rs type="event"
+					ref="#bruenn.1876"><placeName ref="#bruenn">Brünn</placeName></rs> vorzuführen,
+				wo eben eine so allgemeine funebre Stimmung herrscht <cb break="yes" n="2c"
+					type="regular"/>und <hi rend="antiqua">Dies irae</hi>, <hi rend="antiqua">dies
+					illa</hi>, der die Zollverträge brachte,<note resp="tr" type="commentary"
+					>Hintergrund ist der »Gründerkrach« von 1873, der die Einführung von
+					Schutzzöllen nach sich zog. »Dies irae« ist eine Anspielung auf den 9. Mai 1873,
+					an dem 120 Unternehmen Insolvenz anmeldeten (»Schwarzer Freitag«).</note> immer
+				noch verwünscht wird. Jene geniale <persName ref="#gompertz-bettelheim.karoline-von"
+					cert="high">Künstlerin</persName>, welche alljährlich — wenn die Schwalben lange
+				fortgegangen und die Lerchen noch nicht gekommen sind — durch ihren herrlichen
+				Gesang in die Herzen der Hörer Entzücken und in die Kassen unserer Armenhäuser Geld
+				strömen läßt, stellte sich an die Spitze des wohlthätigen Unternehmens, und ein
+				„engeres Komite“ entwickelte jene Vielgeschäftigkeit, durch welche immer die
+				Inszenirung eines größern künstlerischen Ganzen bedingt ist. Wenn Komites überhaupt
+				vom Brote leben, so könnte man sagen, daß sie sich ihr Brod sauer verdienten — über
+				die Erlebnisse und Leiden des Requiem-Komites aber werden Dinge berichtet, die
+				„Menschen schaudern, Felsen weinen machen könnten!“<note resp="tr"
+					type="literatureLink">Anspielung auf die <persName ref="#orpheus"
+						>Orpheus</persName>-Sage.<!--*REFERENZ genaue Stelle in der Orpheus-Sage?--></note></p>
+			<p>Sind doch die Herren Musiker allenthalben ein reizbarer und aufbegehrlicher
+				Menschenstamm — dazu kommt noch in neuester Zeit das hinreißende Beispiel ihres
+				Großmeisters <persName ref="#wagner.richard">Rich. <hi rend="widespace"
+					>Wagner</hi></persName>, und für unsere Stadt insbesondere das Vorbild der <hi
+					rend="widespace">strikenden Weber</hi>. — Der Zwiespalt im Damenchor in
+					de<supplied resp="tr">r</supplied> brennenden Kleiderfrage, ob „Weiß“ oder
+				„Schwarz“, ward durch ein Kompromiß glücklich beseitigt, als eine fürchterliche
+				Emeute im gesammten Orchester ausbrach, mit in Aussicht gestellten Vokal- und
+				Instrumental-Strikes, so daß sich das Komite nur durch weitgehende Konzessionen am
+				Ruder behaupten konnte. „Doch mit den Solisten-Mächten ist kein ew’ger Bund zu
+					flechten“<note resp="tr" type="literatureLink">Vgl. Friedrich Schiller, Lied von
+					der Glocke: »Doch mit des Geschickes Mächten / ist kein ew’ger Bund zu flechten,
+					/ und das Unglück schreitet schnell.«</note> — und mit Tenoren kämpfen Götter
+				selbst vergebens. Wirklich fand sich zwei Tage vor der zweiten Produktion ein edles
+				Sängerpaar, welches erklärte, nicht weiter mitthun zu wollen, wenn nicht ihren
+				Stimmen früher das „nöthige Metall“ gegeben und „ihre Noten“ durch „<hi
+					rend="widespace">Noten</hi>“ gehoben würden. Was blieb dem Komite unter solchen
+				Umständen übrig? Nichts, als dem Wunsche, daß einmal das Publikum solchen
+				„strikenden Künstlern“ gegenüber auch „Strike mit seiner Hände Arbeit“ machen
+				möchte, und der Trost, daß es in der ganzen Affaire einen noch geplagteren Mann gab,
+				nämlich den Musik-Direktor <hi rend="widespace"><persName ref="#kitzler.otto"
+						>Kitzler</persName></hi>.</p>
+		</body>
+	</text>
+</TEI>

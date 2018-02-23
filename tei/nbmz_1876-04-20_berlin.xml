@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Berliner Musikzeitung, 20. April 1876</title>
+				<author><persName ref="#gumbert.ferdinand"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nbmz_1876-04-20_verdis-requiem.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nbmz" role="publisher"/>
+					<placeName ref="#berlin"/>
+					<date when-iso="1876-04-20"/>
+					<biblScope unit="issue">16</biblScope><biblScope unit="volume"
+						>30</biblScope><series>nbmz</series>
+					<biblScope unit="page">121–122</biblScope>
+					<link facs="nbmz_1876-04-20_121.png"/>
+					<link facs="nbmz_1876-04-20_122.png"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#berlin"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title>.</head>
+			<head rend="widespace"><rs type="event" ref="#berlin.1876.1">Erste Aufführung im
+						<placeName ref="#berlin.hofoper">Königl. Opernhause</placeName> zu
+						<placeName ref="#berlin">Berlin</placeName></rs></head>
+			<head rend="smaller">am <date when-iso="1876-04-15">15. April 1876</date></head>
+			<p>Herr <hi rend="widespace"><persName ref="#huelsen.botho-von">von
+					Hülsen</persName></hi> hat es oft genug öffentlich ausgesprochen, dass er keiner
+				Partei in der Kunst angehöre und alles Hervorragende zu schätzen und zu pflegen
+				stets bereit sei. Man durfte sich daher nicht verwundern, wenn in dem kurzen
+				Zeitraum von drei Wochen zwei so heterogene Werke wie <persName
+					ref="#wagner.richard">Wagner’s</persName> „<title
+					ref="#wagner.tristan-und-isolde">Tristan und Isolde</title>“ und <persName
+					ref="#verdi.giuseppe">Verdi’s</persName> „<title ref="#verdi.requiem"
+					>Requiem</title>“ auf der Bühne des Königl. Opernhauses ihre ersten Aufführungen
+				erlebten. Beide Werke verlangen vom Hörer die Berücksichtigung des Standpunktes, von
+				welchem aus sie geschaffen wurden. <persName ref="#verdi.giuseppe"
+					>Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ ist ein durch
+				und durch italienisches Werk. Es stellt sich zu <persName ref="#rossini.gioachino"
+					>Rossini’s</persName> „<title ref="#rossini.stabat-mater">Stabat mater</title>“,
+				bedarf aber für seine volle Wirkung des Orchesters, während <persName
+					ref="#rossini.gioachino">Rossini’s</persName> „<title
+					ref="#rossini.stabat-mater">Stabat</title>“ mehr als ein Salon-Oratorium ist,
+				welches auch mit Piano-Begleitung ein Liebling der Dilettanten bleiben wird. Nicht
+				zu verkennen ist in dem <persName ref="#verdi.giuseppe">Verdi’schen</persName> Werke
+				die Liebe und Sorgsamkeit, welche aus allen Theilen zu uns sprechen; selbst dort,
+				wo, wie in dem „<title ref="#verdi.requiem.2">Dies irae</title>“ die Musik für
+				unseren Geschmack zu theatralisch klingt. <persName ref="#verdi.giuseppe"
+					>Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ erinnert
+				freilich nicht an den Componisten des „<title ref="#verdi.il-trovatore"
+					>Trovatore</title>“ aber es steht in inniger Verwandtschaft mit „<title
+					ref="#verdi.aida">Aida</title>“, jener Oper, welche dem Talent <persName
+					ref="#verdi.giuseppe">Verdi’s</persName> die ungeschmälerte Hochachtung der
+				ganzen Welt einbrachte.</p>
+			<p>Sehen wir uns nun das <title ref="#verdi.requiem">Requiem</title> näher an. Ohne
+				grössere Orchester-Einleitung beginnt es sofort mit einem stimmungsvollen <title
+					ref="#verdi.requiem.1" key="1-16">Andante</title> in A-moll, doch schon nach
+				wenigen Takten geht es bei den Worten „<hi rend="italic">et lux perpetua luceat
+					eis</hi>“ zu einem lieblichen A-dur über; nach einem kurzen, bewegteren <title
+					ref="#verdi.requiem.1" n="te-decet-hymnus">Zwischensatze</title> in F-dur kehrt
+				es zu den ersten Motiven in A-moll und dur zurück, um das <cb break="yes" n="121b"
+					type="regular"/> „<title ref="#verdi.requiem.1" n="kyrie">Kyrie eleison</title>“
+				zuerst in Solostimmen, dann im Chor anzuschliessen. Ueber das nun folgende „<title
+					ref="#verdi.requiem.2">Dies irae</title>“, welches im Verlaufe des Werkes
+				wiederkehrt, habe ich meine Meinung oben ausgesprochen; es ist theatralisch, ebenso
+				wie die folgende Trompeten-Fanfare, welche dem „<title
+					ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title>“ vorangeht. Dieses Stück
+				schliesst nun mehrere Soli in sich; zuerst das sehr hübsch gedachte Basssolo „<title
+					ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors stupebit</title>“ das
+				düster und leise bebend verhaucht; alsdann vom Mezzo-Sopran das „<title
+					ref="#verdi.requiem.2.liber-scriptus">Liber scriptus</title>“, dazwischen immer
+				das murmelnde „<title ref="#verdi.requiem.2">Dies irae</title>“ des Chors. Wehmuth
+				spricht aus dem Solo-Quatuor „<title ref="#verdi.requiem.2.quid-sum-miser">Quid sum
+					miser</title>“ in G-moll, zu welchem das folgende „<title
+					ref="#verdi.requiem.2.rex-tremendae">Rex tremendae majestatis</title>“ einen
+				wirkungsvollen Gegensatz bildet. Zuerst von den Bässen intonirt, steigert es sich
+				fort und fort und fesselt uns besonders durch die Harmonie-Folgen bei den Worten
+					„<title ref="#verdi.requiem.2.rex-tremendae">Salva me</title> “, namentlich in
+				der Wiederholung, wo das Motiv in Fis-dur, A-dur, A-moll, F-dur immer eindringlicher
+				wird, bis das „Salva me“ in voller Kraft und ängstlicher Bitte tönt. Dieses Stück
+				ist jedenfalls eines der schönsten des Werkes. Das Duo „<title
+					ref="#verdi.requiem.2.recordare">Recordare</title>“ giebt dem hohen und tiefen
+				Sopran Gelegenheit zu concertantem Gesange; es ist in harmonischer Hinsicht nicht
+				leicht auszuführen, dürfte aber doch begabteren Dilettantinnen eine lohnende Studie
+				werden. Der Tenor, wenn er eine weiche und in den höheren Tönen gut ansprechende und
+				ausgiebige Stimme besitzt, findet in dem „<title ref="#verdi.requiem.2.ingemisco"
+					>Ingemisco</title>“ eine dankbare Aufgabe; ebenso der Bass in dem „<title
+					ref="#verdi.requiem.2.confutatis">Confutatis</title>“. Nach einer abgekürzten
+				Repetition des „<title ref="#verdi.requiem.2.confutatis" n="dies-irae">Dies
+					irae</title>“ folgt in dem „<title ref="#verdi.requiem.2.lacrymosa"
+					>Lacrymosa</title>“ wiederum eines der wirkungsvollsten Stücke der Partitur; an
+				der Stelle, wo die Tenore und Bässe das Thema in B-moll <pb break="yes" n="122a"
+					type="regular"/> intoniren und der Sopran (und im Orchester die Violinen und
+				Holzbläser) dasselbe wie mit Seufzern begleiten, erinnert die Behandlung an das
+				Des-dur des <title ref="#verdi.rigoletto.3.14.v-ho-ingannato"
+					>Rigoletto-Duo’s</title> (Rigoletto und Gilda) im 3. Act der Oper. — Das „<title
+					ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu</title>“ ist eine
+				vierstimmige Solo-Nummer in As-dur 6/8, mit voller Kenntniss der Singstimmen
+				geschrieben und für jede einzelne effektvoll; ebenso das sich anschliessende, „<hi
+					rend="italic"><title ref="#verdi.requiem.3" n="quam-olim-abrahae">Quam olim
+						Abrahae promisisti</title></hi>“ in As und einem sanften Mittelsatz in C.
+				Das „<title ref="#verdi.requiem.4">Sanctus</title>“, Fuge und Doppelchor zeigt uns
+					<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> als
+				durchgebildeten Musiker; das Stück ist trefflich gearbeitet und von mächtiger
+				Wirkung. Eine <hi rend="widespace">Perle</hi> der Partitur muss jedenfalls das
+					„<title ref="#verdi.requiem.5">Agnus dei</title>“ genannt werden. Die beiden
+				Solo-Soprane ohne jede Begleitung intoniren zuerst das ebenso einfache als rührend
+				eindrucksvolle Thema:</p>
+			<p><graphic url="nbmz_1876-04-20_122.png">
+					<desc>Agnus Dei</desc>
+				</graphic></p>
+			<p>Dann repetirt es <hi rend="italic">pp.</hi> der volle Chor, die Soprane in der tiefen
+				Octave wie oben die zweite Stimme. Hierauf ertönt das Thema in C-moll von den beiden
+				Solo-Sopranen, worauf wieder der Chor, diesmal aber die ersten Soprane in der oberen
+				Octave es in Dur wiederholen; endlich tritt zu dem Thema der Solo-Soprane und der
+				Wiederholung des Chors eine überaus liebliche und sauber ausgeführte
+				Instrumental-Begleitung mit den Flöten, Oboen und Clarinetten in hoher Lage und
+				selbstständig figurirter Bewegung. Die Wirkung des Stückes ist in seinem
+				meisterhaften Arrangement eine unausbleibliche und reizt ein warmes Auditorium
+				sicher zu einem Da Capo-Verlangen; auch hier fand es rauschenden Beifall. — Das
+				folgende „<hi rend="italic"><title ref="#verdi.requiem.6">Lux <supplied resp="tr"
+							>a</supplied>eterna</title></hi>“ für Mezzo-Sopran, Tenor und Bass ist
+				in derselben Stimmung gehalten, vermag aber den Eindruck des „<title
+					ref="#verdi.requiem.5">Agnus dei</title>“ nicht zu überbieten. In dem „<title
+					ref="#verdi.requiem.7">Libera me</title>“ kommt nach kurzer psalmodischer
+				Einleitung der Solo-Sopran mit dem „<hi rend="italic">dum veneris</hi>“ zur Geltung,
+				verlangt jedoch von der Stimme eine voluminöse Tiefe. Wiederum folgt eine kurze
+				Repetition des „<hi rend="italic"><title ref="#verdi.requiem.7" n="dies-irae">dies
+						irae</title></hi>“ und unmittelbar daran schliesst das beginnende Motiv des
+				„Requiem“, diesmal aber nur von den Stimmen ausgeführt. Das „<hi rend="italic"
+						><title ref="#verdi.requiem.7">Libera me</title></hi>“ im Allegro risoluto
+				vom vollen Chor beendet das Werk. Für die Aufführung sind wir Herrn <hi
+					rend="widespace"><persName ref="#huelsen.botho-von">von Hülsen</persName></hi>
+				zu hohem Danke verpflichtet, umsomehr als sie unter trefflicher Leitung des Herrn
+				Capellmeisters <hi rend="widespace"><persName ref="#radecke.robert"
+						>Radecke</persName></hi> die herrlichen Mittel des Chors, wie des Orchester
+				in’s hellste Licht brachte. Das Werk wurde von allen Theilen sauber und in den
+				verschiedenen Abstufungen gut nüancirt gegeben. Nicht ganz so günstig waren die
+				Umstände für die Solostimmen; die Wahrheit erfordert es zu gestehen, dass dem Frl.
+					<hi rend="widespace"><persName ref="#lehmann.lilli">Lehmann</persName></hi> die
+				klangvolle Tiefe, Herrn <hi rend="widespace"><persName ref="#ernst.heinrich"
+						>Ernst</persName></hi> die ansprechende und ausgiebige Höhe zur
+				beabsichtigten Wirkung der Composition fehlte. Beide Künstler aber sangen mit
+				liebevoller Hingebung und correkt. Der Mezzo-Sopran und der Bass waren durch Frl.
+					<hi rend="widespace"><persName ref="#brandt.marianne">Brandt</persName></hi> und
+				Herrn <hi rend="widespace"><persName ref="#betz.franz">Betz</persName></hi> tüchtig
+				vertreten und namentlich Frl. <cb break="yes" n="122b" type="regular"/>
+				<hi rend="widespace"><persName ref="#brandt.marianne">Brandt</persName></hi> zeigte,
+				dass sie auch in dieser Gattung des Vortrags vollkommen zu Hause ist. Das Werk wurde
+				in den Mittagsstunden des zweiten Oster-Feiertags wiederholt. — Dass in dem für
+				Deutschland angefertigten Clavier-Auszuge der Musik neben dem lateinischen Texte
+				auch eine deutsche Uebersetzung unterlegt ist, erscheint jedenfalls überflüssig;
+				kein Mensch wird das <title ref="#verdi.requiem">Requiem</title> in deutscher
+				Sprache singen.<note resp="tr" type="literatureLink">Vgl. <ref type="text"
+						target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11140672-6"
+						>Giuseppe Verdi: Requiem, Clavier-Auszug mit Text (Mailand
+					1874)</ref>.</note> Es hätte genügt, den deutschen Text, womöglich dem
+				lateinischen gegenüber, zum Verständniss dem Werke vorzudrucken. Umsomehr als die
+				deutsche Uebersetzung nicht allein stellenweise der Composition Eintrag thut,
+				sondern auch in sprachlicher Hinsicht manche Sonderbarkeit aufweist. Wie unsanglich
+				ist das „<title ref="#verdi.requiem.2.rex-tremendae">Rex tremendae
+					majestatis</title>“ mit „Herr, dess Allmacht <hi rend="widespace">zeuget
+					Zagen</hi>“ übersetzt und wie ungewöhnlich klingt unserm Ohr: „Lass mich nicht
+				vor Angst <hi rend="widespace">erfahlen</hi>“ und „Angstvoll sorgend ich <hi
+					rend="widespace">ergramte</hi>“. Sonst ist die Ausstattung des Clavier-Auszugs,
+				wie wir das von der Verlagshandlung <hi rend="widespace">Ricordi</hi> gewohnt sind,
+				eine opulente. Jedenfalls hat sich <hi rend="widespace"><persName
+						ref="#verdi.giuseppe">Verdi</persName></hi> mit seinem <title
+					ref="#verdi.requiem">Requiem</title> ein schönes Denkmal gesetzt; von den ersten
+				Opern, die wir hörten „<title ref="#verdi.nabucco">Nabucco</title>“ und „<title
+					ref="#verdi.i-lombardi">Lombardi</title>“ bis zu „<title ref="#verdi.aida"
+					>Aïda</title>“ und dem „<title ref="#verdi.requiem">Requiem</title>“ ist ein
+				Weg, der uns mit hoher Achtung vor der Entwicklung des Meisters erfüllt.</p>
+			<p rend="right"><hi rend="widespace"><persName ref="#gumbert.ferdinand">Ferdinand
+						Gumbert</persName></hi>.</p>
+		</body>
+	</text>
+</TEI>

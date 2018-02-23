@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 30. November 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1875-11-30_meldungen.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1875-11-30" when-custom="tue"/>
+					<biblScope unit="issue">274</biblScope><biblScope unit="volume"
+						>25</biblScope><series>tms</series>
+					<biblScope unit="page">[3]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb n="3b"/>
+			<head rend="larger bold">Brünner Chronik.</head>
+			<gap resp="tr"/>
+			<p>(<persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title>.) <rs type="event" ref="#bruenn.1876">Es
+					ist zweifelhaft, ob <persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> nicht doch anstatt im <placeName
+						ref="#bruenn.redouta-theater">Redoutensaale</placeName> im <placeName
+						ref="#bruenn.stadttheater">städtischen Theater</placeName> aufgeführt werden
+					wird.</rs> Es sprechen manche beherzigenswerthe Umstände für den letztern Ort.
+				Das betreffende Komite wird heute darüber die Entscheidung treffen. — Die
+				Gesangsproben zu <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> haben bereits Mittwoch begonnen und
+				werden allwöchentlich zweimal zugleich mit jenen zu <persName
+					ref="#beethoven.ludwig-van">Beethoven’s</persName> „<title
+					ref="#beethoven.die-ruinen-von-athen">Ruinen von Athen</title>“ abgehalten.</p>
+		</body>
+	</text>
+</TEI>

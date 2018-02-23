@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kölnische Zeitung, 23. Mai 1877 [2]</title>
+				<author><persName ref="#verdi.giuseppe"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/kz_1877-05-23_vermischte-nachrichten.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#koelnische-zeitung" role="publisher"/>
+					<placeName ref="#koeln"/>
+					<date when-iso="1877-05-23" when-custom="wed"/>
+					<biblScope unit="issue">142</biblScope><biblScope unit="subIssue"
+						>142</biblScope><series>kz</series>
+					<biblScope unit="page">2</biblScope>
+					<link facs="kz_1877-05-23_2d.png"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#koeln"/><date when-iso="1877-05-22"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Privatschrift</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Vermischte Nachrichten</head>
+			<p><g type="ASTERISK" n="002A">*</g>
+				<placeName ref="#koeln">Köln</placeName>, <date when-iso="1877-05-23">23.
+				Mai</date>. <persName ref="#verdi.giuseppe">Verdi</persName> hat am gestrigen Tage
+				an <hi rend="antiqua">Dr.</hi>
+				<persName ref="#hiller.ferdinand">Hiller</persName> nachstehenden Brief (in
+				französischer Sprache) gerichtet: „Mein lieber Maestro <persName
+					ref="#hiller.ferdinand">Hiller</persName>! Könnte ich solche Reden halten, wie
+				Sie, ich würde in diesem Augenblick bei der Probe erscheinen und den schönen Damen,
+				welche im Chor singen, meine Bewunderung und Anerkennung für die Hingebung und das
+				Talent ausdrücken, womit sie mein <title ref="#verdi.requiem">Requiem</title>
+				vorgetragen haben. Dasselbe würde ich allen in der That herrlichen Chor- und
+				Orchestermassen sagen. Aus diesem Grunde und Dank ihren Talenten ist eine so
+				ausgezeichnete <rs type="event" ref="#koeln.1877">Ausführung</rs> erzielt worden. Ich
+				kann weder Worte noch Complimente machen; deshalb überlasse ich es Ihrem Geiste und
+				Ihrer Liebenswürdigkeit, mein Herz zu errathen, und bitte Sie, in meinem Namen Allen
+				meine aufrichtigsten Glückwünsche und meinen Dank darzubringen. Danken Sie ihnen
+				auch für die Zeichen der Hochachtung, die man mir in einer so edeln und zarten Weise
+				gespendet hat. Ich fühle mich geehrt und solz, daß man mich zu diesen großen Festen
+				berufen hat, an denen alle Ihre großen Tondichter Theil genommen haben, und ich
+				hegen den wärmsten Wunsch, daß sie mit gleichem Glanze fortbestehen bleiben zur Ehre
+					<placeName ref="#deutschland">Deutschlands</placeName> und der universellen
+				Kunst. Der Ihrige. <persName ref="#verdi.giuseppe">G. Verdi</persName>.“</p>
+		</body>
+	</text>
+</TEI>

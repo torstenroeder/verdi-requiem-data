@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MWbl, Leipzig, 19. Mai 1876 [1]</title>
+				<author><persName ref="#symbol.b"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mwb_1876-05-19_muenchen.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#mwb" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-05-19"/>
+					<biblScope unit="issue">21</biblScope><biblScope unit="volume"
+						>7</biblScope><series>mwb</series>
+					<biblScope unit="page">273–274</biblScope>
+					<link facs="mwb_1876-05-19_273.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=5"/>
+					<link facs="mwb_1876-05-19_274.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=6"/>
+					<link facs="mwb_1876-05-26_284.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=4"/>
+					<link facs="mwb_1876-05-26_285.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=5"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#muenchen"/><date when-iso="1876-04-11"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<head rend="larger">Musikbrief.</head>
+			<p rend="right"><hi rend="bold"><placeName ref="#muenchen">München</placeName>,</hi>
+				<date when-iso="1876-04-11">11. April</date>.</p>
+			<p><gap resp="tr"/>
+				<rs type="event" ref="#muenchen.1875.2"><persName ref="#verdi.giuseppe"
+						>Verdi’s</persName>
+					<title ref="#verdi.requiem"><choice>
+							<orig>Missa</orig>
+							<corr resp="tr">Messa</corr>
+						</choice> da requiem</title> fand ihre Wiederholung im <placeName
+						ref="#muenchen.hoftheater">Hoftheater</placeName>;</rs> wir haben seinerzeit
+				über die erstmalige Aufführung so eingehend berichtet, dass es uns diesmal genügen
+				kann, wir zugleich aber auch sehr gern die Pflicht erfüllen, anzuerkennen, dass die
+				diesmalige Aufführung eine unvergleichlich bessere, charakteristischere war: manche
+				unserer damaligen Aussetzungen mochten dem verständigen <persName
+					ref="#wuellner.franz">Capellmeister</persName> wohl ebenso aufgefallen sein,
+				denn diesmal waren besonders die Tempi, sowie die Schwankungen im Takt anders,
+				italienischer geworden. Dagegen stellte sich ein grosser Fehler heraus in dem
+				Arangement von Chor und Orchester, da Letzteres fortwährend, und besonders bei allen
+					<hi rend="italic">piano</hi>-Stellen, den auf der Bühne aufgestellten Chor
+				bedeutend übertönte, — was bei künftigen derartigen Aufführungen im Theater
+				ernstlich zu beherzigen sein dürfte.</p>
+			<pb break="null" n="285" type="skipped"/>
+			<p rend="right">
+				<hi rend="italic"><persName ref="#symbol.b"><g type="MUSIC_FLAT_SIGN" n="266D"
+						>♭</g></persName></hi>
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 10. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-10_hofoperntheater.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neue-freie-presse" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-10" when-custom="thu"/>
+				<biblScope unit="issue">3875</biblScope><biblScope unit="subIssue">3875</biblScope><series>nfp</series>
+				<biblScope unit="page">6</biblScope>
+				<link facs="nfp_1875-06-10_6.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750610&amp;seite=6"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="6" type="initial"/>
+		<head rend="larger">Theater- und Kunstnachrichten.</head>
+		<p rend="right"><placeName ref="#wien">Wien</placeName>, <date when-iso="1875-06-09">9. Juni</date>.</p>
+		<gap resp="tr"/>
+		<p>[<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName>.] <gap resp="tr"/></p>
+		<p>— <rs type="event" ref="#wien.1875.gp">Nach Beendigung der heute im <placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> vor einer Anzahl geladener Gäste abgehaltenen Generalprobe der <title ref="#verdi.requiem">Manzoni-Messe</title></rs> drückte <persName ref="#verdi.giuseppe">Verdi</persName> den Vorständen seine vollste Anerkennung und Bewunderung über die Leistungen des Orchester und Chors aus und ersuchte, dies den Mitwirkenden bekanntzugeben.</p>
+	</body></text>
+</TEI>

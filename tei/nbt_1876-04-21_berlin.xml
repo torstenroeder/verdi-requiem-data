@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neues Berliner Tageblatt, 21. April 1876</title><author><persName ref="#lackowitz.wilhelm"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nbt_1876-04-21_berlin.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neues-berliner-tageblatt" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-04-21" when-custom="fri"/>
+				<biblScope unit="issue">93</biblScope><biblScope unit="subIssue">93</biblScope><series>nbt</series>
+				<biblScope unit="page">3</biblScope>
+				<link facs="nbt_1876-04-21_3.jpg"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#berlin"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Musikalische Wochenschau.</head>
+		<p>Nur <hi rend="widespace">ein</hi> musikalisches Ereigniß ist für die verflossene Woche zu
+			verzeichnen, aber es ist ein Ereigniß von hervorragender Bedeutung: Das <hi rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi> von <hi rend="widespace"><persName ref="#verdi.giuseppe">Giuseppe Verdi</persName></hi>, dem
+			Komponisten des <title ref="#verdi.il-trovatore">Troubadour</title> und der <title ref="#verdi.aida">Aida</title>. Der Jahrestag des Todes <persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>, des italienischen Dichters,
+			gab die Veranlassung, daß dies <title ref="#verdi.requiem">Requiem</title> geschrieben
+			wurde. <rs type="event" ref="#mailand.1874.1">Die erste Aufführung fand am <date when-iso="1874-05-22">22. Mai 1874</date> zu <placeName ref="#mailand">Mailand</placeName> statt</rs>, und
+			ihr folgten seitdem Aufführungen in <rs type="event" ref="#florenz.1875"><placeName ref="#florenz">Florenz</placeName></rs>, <rs type="event" ref="#wien.1875"><placeName ref="#wien">Wien</placeName></rs>, <rs type="event" ref="#paris.1874"><placeName ref="#paris">Paris</placeName></rs>, <rs type="event" ref="#dresden.1876"><placeName ref="#dresden">Dresden</placeName></rs>, <rs type="event" ref="#hamburg.1876"><placeName ref="#hamburg">Hamburg</placeName></rs>, <rs type="event" ref="#leipzig.1876"><placeName ref="#leipzig">Leipzig</placeName></rs>. Mit gespannter Erwartung sah man auch hier in <rs type="event" ref="#berlin.1876"><placeName ref="#berlin">Berlin</placeName></rs> dem Werke entgegen.
+				<persName ref="#verdi.giuseppe">Verdi</persName> sollte zeigen, ob der merkwürdige
+			Fortschritt, den er in der <title ref="#verdi.aida">Aida</title> über sich selbst hinaus
+			gemacht, eine bloße Laune gewesen, ein bloßes Experiment, um die Welt zu öffnen, — oder
+			ob er, der nunmehr Zweiundsechzigjährige, die Kunst in der That von einer ernsteren
+			Seite ansehen wolle, als er es bis zur <title ref="#verdi.aida">Aida</title> in seinen
+			zahlreichen italienischen Opern leichtfertigster Sorte gethan hatte. Das <title ref="#verdi.requiem">Requiem</title> bestätigt das Letztere. Nun freilich, was wir
+			Deutsche von einem solchen Werke zu verlangen gewohnt sind, das bietet <persName ref="#verdi.giuseppe">Verdi</persName> trotz alledem natürlich nicht, der Italiener,
+			speziell sogar der italienische Opernkomponist, verleugnet sich <sic>nirgend</sic>; aber unverkennbar hat er sein bedeutendes Können einem ernsten
+			Wollen dienstbar gemacht. Er hat sich offenbar in den Stoff versenkt, ist von dessen
+			Komposition wirklich ergriffen gewesen. Warum auch hätten ihm, der mit Vorliebe die
+			Blut- und Schaueroper kultivirte, die Schauer des jüngsten Gerichts nicht wohlverwandt
+			erscheinen sollen? Das unstreitig bedeutende Können <persName ref="#verdi.giuseppe">Verdi’s</persName> liegt nun aber auf einem ganz anderen Gebiete als dem kirchlichen.
+			Es lag bei ihm in der Natur der Sache, daß die Ausdrucksformen der großen Oper maßgebend
+			sein mußten, und so vermag der zum größten Theile opernhafte Zuschnitt des Ganzen nur
+			einen getheilten Eindruck zu hinterlassen, wird ohne Frage auch Viele, die mit Andacht
+			an ein solchen Werk heran zu treten gewohnt sind, geradezu abstoßen. Wer mit dem besten
+			Willen, sich in die rechte Stimmung versetzen zu lassen, zuhört, dem wird der
+			opernmäßige Flitterstaat die hie und da wirklich hervorgerufene Stimmung meist schon im
+			Aufkeimen wieder ersticken. Stimmungsvoll hebt so mancher <cb break="yes" n="3b" type="regular"/>Satz an, entwickelt sich klar und ruhig aus sich selbst und aus dem
+			Gegenstand heraus, so daß auch derjenige, welcher die ernstesten Anforderungen an die
+			Kunst stellt, davon ergriffen werden kann, — ein vorausberechneter Effekt im Style der
+			großen Oper, nach <persName ref="#meyerbeer.giacomo">Meyerbeer’schem</persName> Vorbilde,
+			stürzt ihn aus allen Himmeln und läßt ihn bedauerlich den Kopf schütteln. Wir erinnern
+			beispielsweise an das <title ref="#verdi.requiem.3">Offertorium</title>: <hi rend="antiqua"><title ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu Christe</title></hi>, in
+			welchem die vier Stimmen so edel und dabei so melodiös mit und in einander zu arbeiten
+			beginnen, daß es eine wahre Freude ist, bis dann die Violinen, ganz pianissimo anhebend,
+			hinzutreten und der Eindruck in einen vollständig opernhaften umschlägt. Oder wir
+			erinnern an die Fuge <hi rend="antiqua"><title ref="#verdi.requiem.7" n="libera-me.fuga">Libera me</title></hi>; das ist charakteristisch erfunden, baut sich nach den
+			strengsten Regeln der Kunst ernst und überaus wirkungsvoll auf, so daß wir uns von dem
+			großartig angelegten Satze wahrhaft Bedeutungsvolles versprechen dürfen — auch hier
+			läuft schließlich Alles in tanzende Rhythmen und opernhafte Schablone aus. Auf das
+			Einzelne speziell einzugehen, mag uns erlassen sein. Es ist nicht zu leugnen, daß
+				<persName ref="#verdi.giuseppe">Verdi</persName> als ausschließlicher italienischer
+			Opernkomponist in Manchem wahrhaft überraschend den Ton getroffen hat, der die
+			Kirchenkompositionen eines <persName ref="#mozart.wolfgang-amadeus">Mozart</persName>,
+				<persName ref="#cherubini.luigi">Cherubini</persName> und anderer Meister durchweht. Wir
+			nennen das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>, das <hi rend="antiqua"><title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser tunc
+					dicturus</title></hi><choice>
+				<orig>?</orig>
+				<corr resp="tr">,</corr>
+			</choice> namentlich aber das rührende <hi rend="antiqua"><title ref="#verdi.requiem.3" n="hostias">Hostias</title></hi>, das wir als die gelungenste
+			Nummer des Ganzen hinstellen möchte. Daß <persName ref="#verdi.giuseppe">Verdi</persName> die
+			genannten Meister und nicht unsere großen, strengen Kirchenkomponisten zum Muster
+			genommen hat, leuchtet überall hervor, lag auch für ihn zur Hand. Am auffallendsten
+			tritt dies im <hi rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies
+				irae</title></hi> hervor, wo ihn sowohl der Sturm, der <persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName> Orchester und Chor erfaßt, wie der
+			wirkungsvolle Tamtamschlag <persName ref="#cherubini.luigi">Cherubini’s</persName> offenbar
+			vorgeschwebt haben; aber <persName ref="#verdi.giuseppe">Verdi</persName> bleibt hinter
+			Beiden zurück. Was er giebt, zeigt das von der Oper mit hinübergenommene Streben,
+			möglichst grell zu färben, Kontraste gegenüber zu stellen, so realistisch wie möglich zu
+			Werke zu gehen. Und diese realistische Ausführungsweise wird namentlich den
+			Norddeutschen nie für dieses Requiem erwärmen können. Die Posaunenstöße, mit welchen das
+			Werk hie und da in Scene gesetzt worden ist, mit welchen sogar hie und da die Kritik
+			in’s Zeug gegangen, können unsere Meinung nicht erschütter. <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.requiem">Requiem</title> ist ein höchst interessantes Experiment, —
+			welches — das wollen wir zugeben — seinem Schöpfer zur Ehre gereicht, da sich in ihm das
+			Streben, <cb break="yes" n="3c" type="regular"/>Großes und Ernstes zu wollen, noch mehr
+			dokumentirt als in der <title ref="#verdi.aida">Aida</title>. Darüber hinaus aber geht
+			seine Bedeutung nicht. Eine Regeneration der italienischen Kirchenmusik ist von ihm
+			ebenso wenig zu erwarten, wie es seinerzeit <persName ref="#rossini.gioachino">Rossini’s</persName>
+			<hi rend="antiqua"><title ref="#rossini.stabat-mater">Stabat mater</title></hi> bewirken
+			konnte. Die Musikgeschichte beweist, daß derartige Kunstwerke, die wie dieses <title ref="#verdi.requiem">Requiem</title> eine Zwitterstellung zwischen Kirche und Oper
+			eingenommen haben, stets nur eine vorübergehende Bedeutung und nie eine nachhaltige
+			Einwirkung auf die Kunst gehabt haben. Wir sind sogar fest davon überzeugt: Hätte ein
+			deutscher Komponist es gewagt, ein solches Requiem zu schreiben, er wäre einstimmig und
+			schonungslos abgethan worden.</p>
+		<p>Was die Aufführung des Werkes anbetrifft, so muß anerkannt werden, daß überall die
+			sorgsame Vorbereitung hervorleuchtete. Der Opernchor, unterstützt durch verschiedene der
+			untergeordneten Kräfte unseres Solopersonals, erfreute durch die Klangfülle und
+			Sicherheit, mit welcher er die schwierigen Aufgaben überwältigte. Doch zeigte er sich
+			hier und da nicht mächtig genug, um den wuchtigen Orchestermassen das Gleichgewicht zu
+			halten; er wurde mehrfach ganz übertönt. Die Schuld trug nicht das Orchester, denn die
+			Kapelle spielte in jeder Beziehung meisterhaft, sondern nur das Mißverhältniß in der
+			Stärke der Besetzung. Die Zahl der Instrumente zu verringern, dürfte bei der zum Theil
+			kolossalen Instrumentation nicht wohl angehen, aber der Chor muß verstärkt werden, wenn
+			die Wirkung eine ganz einheitliche werden soll. Die Soli befanden sich in den Händen der
+			Fräuleins <hi rend="widespace"><persName ref="#lehmann.lilli">Lehmann</persName></hi> und <hi rend="widespace"><persName ref="#brandt.marianne">Brandt</persName></hi> und der Herren
+				<hi rend="widespace"><persName ref="#ernst.heinrich">Ernst</persName></hi> und <hi rend="widespace"><persName ref="#betz.franz">Betz</persName></hi>, eine Besetzung, wie
+			sie bei uns besser kaum zu ermöglichen sein dürfte. Am Dirigentenpulte saß Hr.
+			Kapellmeister <hi rend="widespace"><persName ref="#radecke.robert">Radecke</persName></hi>.
+			Schließlich wollen wir nicht unterlassen zu konstatiren, daß trotz der Spannung, mit
+			welcher das Werk schon wochenlang im Verkehr sowohl wie in den Zeitungen besprochen
+			wurde, das Haus bei dieser ersten Aufführung nicht unbedeutende Lücken zeigte, Beweis
+			genug, daß im Publikum ein gerechtes Mißtrauen gegen ein Requiem von dem Komponisten des
+				„<title ref="#verdi.il-trovatore">Troubadour</title>“ und der „<title ref="#verdi.aida">Aida</title>“ vorhanden ist. Daß sich der Zuspruch bei den Wiederholungen steigern
+			wird, ist auch nicht zu erwarten.</p>
+		<p rend="right"><persName ref="#lackowitz.wilhelm">W. <hi rend="widespace">Lackowitz</hi></persName>.</p>
+	</body></text>
+</TEI>

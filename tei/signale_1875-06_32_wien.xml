@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Signale, Leipzig, Juni 1875/32</title><author><persName ref="#akronym.p"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/signale_1875-06_32_verdis-manzoni-requiem.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#signale" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date cert="low" when-iso="1875-06-30" notAfter-iso="1875-06-30" notBefore-iso="1875-06-14"/>
+				<!--BIBLIO Datierung: frühestens ein Tag nach dem gezeichneten Datum-->
+				<biblScope unit="issue">32</biblScope><biblScope unit="volume">33</biblScope>
+				<biblScope unit="page">497–498</biblScope>
+				<link target="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n502/mode/1up"/>
+				<link target="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n503/mode/1up"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Manzoni-Requiem</title>.</head>
+		<head rend="smaller"><rs type="event" ref="#wien.1875.1">Erste Wiener Aufführung im <placeName ref="#wien.hof-operntheater">Hofopernhause</placeName> <date when-iso="1875-06-11">am 11. Juni 1875</date>.</rs></head>
+		<p><rs type="event" ref="#mailand.1874.1">Am <date when-iso="1874-05-24">24. Mai verflossenen Jahres</date>
+				war es, daß <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> zu <placeName ref="#mailand">Mailand</placeName> zum
+				Andenken an den gefeierten italienischen Dichter <persName ref="#manzoni.alessandro">Alessandro Manzoni</persName> zur ersten Aufführung gelangte.</rs> Nach
+			Jahresfrist, nachdem dies Werk in <rs type="event" ref="#paris.1874"><placeName ref="#paris">Paris</placeName></rs> und <rs type="event" ref="#london.1875"><placeName ref="#london">London</placeName></rs> mit größtem Beifall wiederholt wurde, bekamen es auch
+			die Wiener zu hören. Das gedrängt volle Haus der <placeName ref="#wien.hof-operntheater">Hofoper</placeName> sah mit wahrer Ungeduld der Stunde der Verwirklichung dieses
+			Kunstgenusses entgegen. Langsam erhob sich der Vorhang und man sah die Bühne
+			geschmackvoll in einen abgeschlossenen Saal verwandelt, zu beiden Seiten Tribunen,
+			rechts für den Chor, links für das Orchester, alle Mitglieder festlich gekleidet. In der
+			Mitte war ein Gang freigelassen, und es traten zuerst die vier Solisten ein und nahmen
+			neben dem Dirigentenpulte Platz. Der lebhafte Applaus, mit dem sie empfangen wurden
+			steigerte sich, als gleich darauf der gefeierte Meister selbst sichtbar wurde, zu
+			anhaltenden Willkommensrufen, denen entgegen <persName ref="#verdi.giuseppe">Verdi</persName>
+			mit liebenswürdiger Bescheidenheit nach allen Seiten hin dankend sich verneigte. Nachdem
+			endlich Ruhe eingetreten war, gab er das Zeichen zum Anfang und das feierliche <title ref="#verdi.requiem">Requiem</title>, erst wie hingehaucht, dann in steigendem
+			Ausdruck, versetzte die Zuhörer mit packender Gewalt sogleich in die erforderliche
+			ernste Stimmung. In kräftigen Accorden folgte das <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi>, in neun Unterabtheilungen
+			auseinander gehalten. Mit stets sich steigerndem Interesse folgten die Zuhörer den
+			einzelnen Sätzen, dem <hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba
+					mirum</title></hi> mit seinem eigenthümlichen Eintritt von Posaune und Trompeten
+			(eine wirkungsvolle, wenn auch mehr äußerliche Nachahmung <pb break="yes" n="498" type="regular"/>des <title ref="#berlioz.grande-messe-des-morts">Berlioz’schen
+				Werkes</title>), dem dramatisch gehaltenen Mezzosopran-Solo (<hi rend="antiqua"><title ref="#verdi.requiem.2.liber-scriptus">Liber scriptus</title></hi>), dem weichen
+			innigen Terzett der beiden Frauen und Tenor (<hi rend="antiqua"><title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser</title></hi>), dem
+			pathetischen <choice>
+				<orig>Quartett</orig>
+				<corr resp="tr">Duett</corr>
+			</choice> mit Chor (<hi rend="antiqua"><title ref="#verdi.requiem.2.recordare">Recordare</title></hi>), dem gesangvollen Tenorsolo (<hi rend="antiqua"><title ref="#verdi.requiem.2.ingemisco">Ingemisco</title></hi>), dem auf gewagten
+			Intervallenfortschreitungen aufgebauten Baßsolo (<hi rend="antiqua"><title ref="#verdi.requiem.2.confutatis">Confutatis</title></hi>) und endlich dem innigen
+			melodiösen Quartett mit Chor (<hi rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title></hi>). Zweimal tritt der Chor dazwischen mit Theilen aus dem
+			Anfang der zweiten Nummer, dem Ganzen dadurch kräftige Lichter aufsetzend. Mit den
+			letzten Worten des <hi rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title></hi> ist die erste Abtheilung zu Ende. Der Beifall, der die
+			einzelnen Nummern begleitete, steigerte sich besonders bei dem ersten <title ref="#verdi.requiem.2.liber-scriptus">Mezzosopran-Solo</title>, dem <title ref="#verdi.requiem.2.quid-sum-miser">Terzett</title>, <title ref="#verdi.requiem.2.recordare">Frauenduett</title> und <title ref="#verdi.requiem.2.ingemisco">Tenorsolo</title>, und letztere zwei wenigstens
+			mußten wiederholt werden.</p>
+		<p>Noch wirkungsvoller zeigte sich die zweite Abtheilung; eine Nummer überbot die andere:
+			das vierstimmige <title ref="#verdi.requiem.3">Offertorium</title> (<hi rend="antiqua"><title ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu</title></hi> und <hi rend="antiqua"><title ref="#verdi.requiem.3" n="hostias">Hostias</title></hi>), die
+			zweichörige Dopelfuge (<hi rend="antiqua"><title ref="#verdi.requiem.4">Sanctus</title></hi>), das in Octaven ausgeführte Frauenduo mit Chor (<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>), eine Art
+			psalmodirender Melodei von reizender Klangwirkung, und der meisterhaft durchgeführte
+			Schlußsatz (<hi rend="antiqua"><title ref="#verdi.requiem.7">Libera me</title></hi>), in
+			dem der Solosopran ergreifend wirkt und zum Schluß sich Chor und Orchester zu
+			großartiger Höhe erheben, um dann in weichen Accorden auszuklingen. Ein Theil des <hi rend="antiqua"><title ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu</title></hi> sowie
+			das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> mußten
+			wiederholt werden und mit den letzten Tönen durchbrauste mächtiger Beifall das Haus. Der
+			Meister und die Solisten wurden immer wieder gerufen, und als dann noch der Director der
+			Hofoper, Herr <persName ref="#jauner.franz-von">Jauner</persName>, vortrat und dem Schöpfer
+			des Requiem einen Lorbeerkranz überreichte, brach das Publicum bei dieser Ovation in
+			herzlichen Jubel aus.</p>
+		<p>Das <title ref="#verdi.requiem">Requiem</title> ist gleich interessant in Hinsicht der
+			Erfindung und Ausarbeitung und hält die glückliche Mitte zwischen geistlicher und
+			weltlicher Musik, und wenn auch hin und wieder die dramatische Seite stark betont ist
+			und manche Stellen aus <title ref="#verdi.aida">Aïda</title> flüchtig hereinklingen, so
+			wirkt beides doch nicht störend und wird reichlich aufgewogen durch sonstige Vorzüge.
+			Dahin gehörte die ausgezeichnete Behandlung des Instrumentalen und Vocalen; das
+			Orchester ist stets maßvoll, nie lärmend gehalten und legt das Hauptgewicht auf das
+			Streichquartett; der Chorsatz ist höchst wirkungsvoll und nie den Stimmen allzu
+			Anstrengendes zumuthend. Den Solisten endlich ist vollauf Gelegenheit gegeben, schönen
+			Gesang zu entfalten. Dieses Vocalquartett macht geradezu Furore: Fräulein <persName ref="#stolz.teresa" role="soloist.soprano">Therese Stolz</persName>, eine Deutsche,
+			steht vollendet da, Fräulein <persName ref="#waldmann.maria" role="soloist.mezzo">Maria
+				Waldmann</persName>, eine blonde Wienerin (in den Jahren 1862—65 im Conservatorium),
+			ist ihrer Collegin kaum nachstehend, der Tenor <persName ref="#masini.angelo" role="soloist.tenor">Masini</persName>, der Bassist <persName ref="#medini.paolo" role="soloist.basso">Medini</persName>, alle sind sie mit vortrefflichen Stimmitteln
+			begabt und bekunden im Vortrag die beste Schule. — Die Ausführung des Werkes war
+			glänzend, und nebst den Solisten verdienen das Orchester (<persName ref="#hellmesberger.josef" role="concert-master">Hellmesberger</persName> an der
+			Spitze) und der Chor (letzterer verstärkt durch Mitglieder des <orgName ref="#wien.akademischer-gesangverein">Akademischen Gesangvereins</orgName>) das größte
+			Lob. <persName ref="#verdi.giuseppe">Verdi</persName> dirigirt mit Ruhe und Festigkeit; seine
+			Persönlichkeit ist so einnehmend, daß er gleich beim Erscheinen alle Herzen gewann. Der
+			Eindruck, den sein Werk und die unvergleichliche Ausführung hervorrief, wird nicht so
+			bald vergessen werden. <persName ref="#verdi.giuseppe">Verdi</persName> selbst war von seiner
+			Aufnahme entzückt und versprach bald wiederzukommen und dann ein neues Werk
+			mitzubringen. Im Voraus sei ihm ein Hochwillkommen zugerufen!</p>
+		<p><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date when-iso="1875-06-13">13.
+				Juni 1875</date>. <persName ref="#akronym.p">P.</persName></p>
+	</body></text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Salzburger Volksblatt, 14. März 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/svb_1876-03-14_salzburger-nachrichten.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#salzburger-volksblatt"/>
+					<placeName ref="#salzburg"/>
+					<date when-iso="1876-03-14" when-custom="tue"/>
+					<biblScope unit="issue">31</biblScope><biblScope unit="volume"
+						>6</biblScope><series>svb</series>
+					<biblScope unit="page">3</biblScope>
+					<link facs="svb_1876-03-14_3.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760314&amp;seite=3"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#salzburg"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Ankündigung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="3" type="initial"/>
+			<head rend="larger">Salzburger Nachrichten.</head>
+			<gap resp="tr"/>
+			<p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title>.</hi>
+				<rs type="event" ref="#salzburg.1876"><persName ref="#verdi.giuseppe"
+						>Verdi’s</persName> großes <title ref="#verdi.requiem">Requiem</title> wird
+					unter Leitung des Herrn Mozarteums-Directors Dr. <persName ref="#bach.otto">O.
+							<hi rend="widespace">Bach</hi></persName> im <date when-iso="1876-04"
+						>April</date> in der großen <hi rend="antiqua"><placeName
+							ref="#salzburg.aula-academica">Aula academica</placeName></hi> zur
+					ersten Aufführung in <placeName ref="#salzburg">Salzburg</placeName>
+					gelangen.</rs> Die Soli’s haben gütigst die kunstbewährten Kräfte, die Damen:
+				Gräfin <persName ref="#gatterburg.hedwig">Hedwig <hi rend="widespace"
+						>Gatterburg</hi></persName> und Fräul. <hi rend="widespace"><persName
+						ref="#voigt.gabriele">Voigt</persName></hi>, die Herren: <persName
+					ref="#huber.franz">Franz <hi rend="widespace">Huber</hi></persName> und <hi
+					rend="widespace"><persName ref="#schuegraf.eduard">Schuegraf</persName></hi> aus
+					<placeName ref="#muenchen">München</placeName> übernommen. Zur Ausführung der
+				großen Chöre haben ihre freundliche Mitwirkung gefälligst zugesagt: Alle Damen und
+				Herren der Salzburger Liedertafel, dann sämmtliche Gesangskräfte des k. k.
+				Gynmasiums, der Lehrer, Bildungs-Anstalt und Oberrealschule (mit bereits erfolgter
+				gütiger Bewilligung der P. T. Direktoren dieser Lehr-Anstalten). Um diesem
+				Massen-Chore eine möglichst breite und großartige instrumentale Basis zu verleihen,
+				hat sich Herr Director <persName ref="#bach.otto">Bach</persName> an den Herrn k. k.
+				Obersten <persName ref="#latterer.josef">von <hi rend="widespace"
+					>Latterer</hi></persName> des löbl. Regiments Erzh. Rainer um unentgeltliche
+				Ueberlassung der vollständigen <hi rend="widespace">Regiments-Kapelle</hi> gewendet
+				und auch bereits in liebenswürdigster Weise hiezu die Bewilligung erhalten. Sonach
+				werden zum erstenmale die beiden Orchester, <orgName ref="#salzburg.mozarteum"
+					>Mozarteums-Kapelle</orgName> und Regimentsmusik, zu Einem größeren
+				Instrumentalkörper vereiniget bei Aufführung des <persName ref="#verdi.giuseppe"
+					>Verdi’schen</persName>
+				<title ref="#verdi.requiem">Requiem</title> wirken. — Letztere erfolgt — wegen der
+				größeren Vorbereitungen und höheren Kosten in einem <hi rend="widespace"
+					>außerordentlichen Concerte des Mozarteums</hi> mit mäßig erhöhten Preisen.
+				(Vormerkungen hiezu in der Mayrischen Buchhandlung.)</p>
+		</body>
+	</text>
+</TEI>

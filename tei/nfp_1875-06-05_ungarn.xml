@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 5. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-05_ungarn.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neue-freie-presse" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-05" when-custom="sat"/>
+				<biblScope unit="issue">3870</biblScope><biblScope unit="subIssue">3870</biblScope><series>nfp</series>
+				<biblScope unit="page">6</biblScope>
+				<link facs="nfp_1875-06-05_6.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750605&amp;seite=6"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation/><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="6c" type="initial"/>
+		<head rend="larger">Theater- und Kunstnachrichten.</head>
+		<gap resp="tr"/>
+		<p>— Ein Bevollmächtigter des ungarischen National-Theaters in <placeName ref="#pest">Pest</placeName> hat sich nach <placeName ref="#wien">Wien</placeName> begeben, um <persName ref="#verdi.giuseppe">Verdi</persName> und die mit ihm hier weilenden Künstler
+			einzuladen, das <title ref="#verdi.requiem">Requiem</title> des Maestro wie auch die Oper
+				„<title ref="#verdi.aida">Aïda</title>“ an der genannten Bühne aufzuführen. Die <placeName ref="#pest">Pester</placeName> Blätter hoffen, daß <persName ref="#verdi.giuseppe">Verdi</persName> der Einladung folgen und dem dortigen Publicum zwei interessante
+			Theaterabende verschaffen werde.</p>
+	</body></text>
+</TEI>

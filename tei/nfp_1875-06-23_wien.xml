@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 23. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-23_wien-hofoperntheater.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neue-freie-presse" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-23" when-custom="wed"/>
+				<biblScope unit="issue">3888</biblScope><biblScope unit="subIssue">3888</biblScope><series>nfp</series>
+				<biblScope unit="page">5</biblScope>
+				<link facs="nfp_1875-06-23_5.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750623&amp;seite=5"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="5c" type="initial"/>
+		<head rend="larger">Theater- und Kunstnachrichten.</head>
+		<p rend="right"><placeName ref="#wien">Wien</placeName>, <date when-iso="1875-06-22">22.
+			Juni</date>.</p>
+		<p>— Am morgigen Abend schließt das <placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> seine Saison und wird erst am <date when-iso="1875-08-15">15.
+				August</date>, nach dem Ende der Ferien, wieder eröffnet werden; <rs type="event" ref="#wien.1875.4">die letzte Aufführung der <title ref="#verdi.requiem">Manzoni-Messe</title> bildet den Abschluß der Vorstellungen.</rs>
+			<gap resp="tr"/></p>
+	</body></text>
+</TEI>

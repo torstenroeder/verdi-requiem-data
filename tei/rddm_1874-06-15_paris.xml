@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader><fileDesc><titleStmt><title>Revue des Deux Mondes, Paris, 15. Juni 1874</title><author><persName ref="#blaze.henri"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/rddm_1874-06-15.xml</p></publicationStmt><sourceDesc><bibl>
+                <orgName ref="#revue-des-deux-mondes"/>
+                <placeName ref="#paris"/>
+                <date when-iso="1874-06-15"/>
+                <biblScope unit="issue">9</biblScope><biblScope unit="volume">45</biblScope><series>rddm</series>
+                <biblScope unit="page">941–955</biblScope>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k35519k/f940.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k35519k/f941.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k35519k/f942.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k35519k/f943.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k35519k/f944.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k35519k/f945.image"/>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k35519k/f954.image"/>
+            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#paris"/></creation><textClass><keywords><term type="textType">Werkbesprechung</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+    <text xml:lang="de"><body rend="antiqua">
+        <pb break="yes" n="223" type="initial"/>
+        <head rend="widespace larger">REVUE MUSICALE.</head>
+        <p>Verdi n’est pas seulement un musicien éminent, c’est aussi un grand patriote; l’Italie ne
+            l’oubliera jamais. Les peuples ont leur instinct qui les amène à reconnaître, à
+            proclamer l’homme d’une situation, cet instinct vaut mieux que toute la science. Depuis
+            trente ans, Verdi n’a cessé de représenter l’Italie remuante et guerrière; il est et
+            restera l’artiste de la revendication, comme Bellini fut jadis le chantre inconscient et
+                <pb break="yes" n="942" type="regular"/>douloureux d’une période de servitude. Quand
+            Rossini disait de lui: «Verdi est un musicien qui porte un casque,» l’auteur de <hi rend="italic">Guillaume Tell</hi> faisait mieux qu’un mot d’esprit, il disait une
+            vérité. La révolution avait choisi son prince, elle avait inscrit sur son drapeau:
+            «Victor-Emmanuel, roi d’Italie!» Et par je ne sais quelle mystérieuse combinaison du
+            destin, il se trouva que les premières lettres de ce cri de guerre formaient, en se
+            rapprochant, le nom de Verdi. Il y avait donc entre le musicien et son monarque
+            communauté préexistante de vocation, et, sans voir comme les anciens la main des dieux
+            partout, encore est-il permis de relever certains traits de nature à frapper les
+            imaginations d’un peuple du midi, et qui les ont en effet bien frappées, puisqu’aux
+            jours du soulèvement national le nom d’un compositeur d’opéras prit tout à coup un
+            caractère symbolique, et, flamboyant sur tous les murs, signifia la délivrance de la
+            patrie. Quelle âme intelligente, — aux accens de <hi rend="italic">Nabuccco</hi> et des
+                <hi rend="italic">Lombardi</hi>, ne s’est émue d’un sentiment qui vous entraîne
+            au-delà du sujet de la pièce? Qui n’a saisi la note d’airain, stridente altière,
+            implacable, dans cette musique dont il est plus facile de chercher à ridiculiser le
+            style que d’imiter le tempérament viril? Verdi fut ainsi le collaborateur de Cavour et
+            de Victor-Emmanuel. A cette même cause de l’indépendance nationale, l’auteur des <hi rend="italic">Promessi Sposi</hi> avait, lui aussi, dévoué son génie et les
+            tendances de la vie la plus pure et la plus laborieuse, et c’est à la mémoire de
+            Manzoni, à la gloire du compatriote et de l’ami, que Verdi consacre aujourd’hui cette
+            messe de <hi rend="italic">Requiem</hi>, oeuvre sinon religieuse, du moins inspirée par
+            une pensée toute religieuse.</p>
+        <p>Musique religieuse, sentiment religieux, ici, gardons-nous d’en douter, va recommencer la
+            fameuse querelle qui date du <hi rend="italic">Stabat</hi> de Rossini. Ne nous y
+            engageons pas; c’est le pont aux ânes. Le <hi rend="italic">Christ</hi> de Bonnat manque
+            peut-étre un peu de simplicité, d’élévation et de caractère divin, est-ce à dire qu’il
+            ne faut tenir compte à cette peinture ni de son puissant modelé, ni de l’effort
+            vigoureux qu’elle se donne pour sortir de la vulgarité courante? Souvenons-nous que nous
+            vivons dans une époque de publicité à outrance, et que l’artiste, quel qu’il soit, ne
+            produit que selon les conditions de son temps. C’est pour l’exposition que les peintres
+            d’aujourd’hui font leurs tableaux d’église, et pour la salle de concert ou le théâtre
+            que les musiciens composent leurs messes; tous cela, c’est peut-être du vandalisme, mais
+            qu’y faire et que sert d’user sa rhétorique à déclamer contre des choses auxquelles on
+            ne peut rien changer? Vous reprochez à mon <hi rend="italic">Christ</hi> son réalisme, à
+            ma partition son caractère dramatique; mais ce sentiment religieux que vous m’accusez,
+            moi peintre, moi musicien, de ne point avoir, vous critiques qui parlez tant, le
+            possédez-vous à dose quelconque? Savez-vous seulement ce que c’est? Que le siècle
+            commence donc par croire en Dieu, et tous les arts s’inspireront aussitôt de sa <pb break="yes" n="943" type="regular"/>foi jusqu’alors ayons au moins cette pudeur de
+            ne pas venir assiéger de nos misérables protestations et de nos sottises le musicien ou
+            le peintre qui, dans un milieu d’universelle indifférence, ne prend conseil que de son
+            tempérament pour traiter un sujet de sainteté. L’art religieux vit surtout de
+            l’atmosphère ambiante du siècle qu’il décore et qu’il éternise. Il est un, harmonique:
+            architecture, musique, peinture, tout se tient. Qui veut connaître et comprendre le
+            Giotto, le Pérugin, Raphaël, fra Angelico, doit aller à Rome, à Parme, à Florence, à
+            Pérouse, à Mantoue, à Sienne on n’entend Palestrina et Allegri que dans la chapelle
+            Sixtine. Il semble que cette musique-là fasse partie intégrante du monument et pas plus
+            que les fresques ne pourrait en être détachée. Or les fresques ne voyagent pas, ne
+            déménagent pas; ce qui voyage et déménage, c’est notre art d’aujourd’hui. Cosmopolite,
+            sceptique en même temps que pourvu de facultés d’exécution incomparables, celui-là
+            s’accommode aussitôt de l’emplacement qu’on lui offre, le dôme de Milan comme la salle
+            de l’Opéra-Comique, tout lui est bon. Les anciens maîtres, avant de peindre un tableau,
+            s’informaient de la destination autre chose était pour eux de peindre pour la galerie
+            princière d’un palais ou de peindre pour le réfectoire d’un couvent. Nous autres,
+            l’exposition seule nous préoccupe, disons mieux, les expositions, car nous savons que
+            notre oeuvre, après avoir diverti la grande ville intelgente, ira poursuivre sa fortune
+            dans toutes les capitales de l’Europe et du Nouveau-Monde, — et c’est à cet art qu’on
+            vient demander du recueillement. Demandez-lui de lah couleur, de l’intérêt, de la
+            curiosité, du drame et du spectacle, et s’il a de quoi vous répondre, il aura bien
+            mérité de la vie moderne.</p>
+        <p>L’idée qu’on se fait parmi nous du sentiment religieux est quelque chose de si indéfini,
+            de si vague, qu’il n’y a point à la discuter sérieusement. Les uns le placent dans la
+                <hi rend="italic">fugue</hi>; mais pour la majorité il réside dans l’absence de
+            coloris, de mouvement et d’originalité. A ce compte, la messe de Verdi serait l’oeuvre
+            d’un fier hérétique, car la chaleur vitale y circule à pleines effluves, et l’intérêt,
+            l’émotion qui vous prennent, vous <hi rend="italic">empoignent</hi> dès les premières
+            mesures, ne vous lâchent plus jusqu’à la fin.</p>
+        <p rend="smaller"><l>Je ne sais si c’est mal, tout cela, mais c’est beau!</l></p>
+        <p>L’inspiration jaillit par éclairs pressés et fulgurans, et le style se comporte comme il
+            sied à quelqu’un qui se respecte et prétend à bon droit être respecté. Cette musique-là
+            parle la langue de son temps, les sonorités, les modulations y sont à toute puissance,
+            et la fugue du <hi rend="italic">Sanctus</hi> non moins que la fugue finale du <hi rend="italic">Libera</hi> désarmeraient Cherubini lui-même, <hi rend="italic">monsieur Cherubini</hi>, comme disent en ôtant leur chapeau les fidèles du
+            Conservatoire! C’était bon jadis de s’égayer à propos du style des <hi rend="italic">Lombardi</hi> et du <hi rend="italic">Trovatore</hi>; mais depuis <hi rend="italic">Don Carlos</hi> la plaisanterie avait beaucoup perdu, et ceux qui chercheraient à
+            la réchauffer maintenant n’auraient <pb break="yes" n="944" type="regular"/>guère les
+            rieurs de leur côté. Ne vous attendez ni à des cavatines, ni à des phrases concertantes
+            comme dans la messe de Rossini; rien non plus de ces larges plans à la Haendel, le
+            maître suit le texte, le traduit mot à mot, syllabe par syllabe, bien plutôt qu’il ne le
+            commente les morts lui dictent leur prose, et il écrit sa musique sous leur inspiration.
+            Cela vous rappelle par instans le tableau du musée espagnol où saint Bonaventure, sorti
+            de sa tombe, achève dans le trépas la page commencée pendant sa vie. Chaque note est une
+            parole du texte, et vous avez ainsi des effets d’un <hi rend="italic">rendu</hi>
+            surprenant; les voix des solistes ne se montrent à l’avant-scène que par rapides
+            échappées, la plupart du temps vous les entendez gémir, implorer, se débattre au sein du
+            formidable ensemble. Au <hi rend="italic">pianissimo</hi> en <hi rend="italic">la
+                mineur</hi> du début, sépulcral, effrayant de mystérieux solennel, d’horreur
+            funèbre, s’enchaîne l’ineffable lamentation d’un <hi rend="italic">Kyrie eleison</hi>
+            récité par le quatuor vocal, et qui se termine avec le choeur; puis éclate le <hi rend="italic">Dies irae</hi>, vertigineux dans sa désolation, enlevé à la
+            Michel-Ange, vous diriez le <hi rend="italic">Jugement dernier</hi> de la Sixtine
+            s’animant et remplissant les airs de sa furie et de sa plainte. Dans le <hi rend="italic">Recordare</hi>, les deux voix de la Waldmann et de la Stolz se posent
+            devant nous pour la première fois, et quels accens! quels timbres, quel sentiment! Aucun
+            appareil théâtral, point de décor, de mise en scène, point de gestes, l’art seul et son
+            expression: c’est sublime. Quant à la Stolz, la phrase du <hi rend="italic">Libera</hi>
+            vous la livre tout entière, âme et voix. A cet organe d’une vibration saisissante qui
+            s’enflamme et part comme un cheval de sang, vole à l’obstacle si escarpé qu’il soit,
+            puis soudain s’arrête ferme, imperturbable, à ce soprano frémissant, indomptable,
+            capable des alternatives les plus extrêmes, et qui de l’explosion en un clin d’oeil
+            passe à la douceur, à ce soprano merveilleux rendez le geste, le théâtre, et vous verrez
+            quelle dona Anna, quelle Valentine! Ah! si Meyerbeer vivait encore, comme nous
+            l’applaudirions bientôt à l’Opéra, cette Teresa Stolz, et comme il faudrait que la
+            Waldmann l’y suivît au plus vite!</p>
+        <p>Deux sentimens dominent dans la messe de Verdi, l’épouvante et l’imploration. Impossible
+            d’ailleurs de méditer sur la légende catholique qu’il s’agissait de mettre en musique
+            sans être remué par ces deux voix grondantes et suppliantes au fond de ces versets et de
+            cette prose incomparables. Mozart lui-même a fait de ces deux sentimens la note
+            dominante de son <hi rend="italic">Requiem</hi>, et Verdi doit avoir à cette occasion
+            beaucoup lu Mozart. Je trouve en germe, dans l’oeuvre du maître des maîtres, tel effet
+            dont le musicien moderne s’est emparé en le développant, comme c’était son droit: le <hi rend="italic">Tuba mirum</hi> par exemple, qui, proposé par un seul trombone dans
+            l’oeuvre de Mozart, deviendra dans la messe de Verdi ce prodigieux appel des cuivres. —
+            La tempête du jour annoncée par les prophéties tonne et mugit à plein choral, à plein
+            orchestre; soudain l’ouragan s’arrête, tout se tait, et du milieu de ce silence plus
+            terrible encore que l’éploration universelle à laquelle il succède retentissent les <pb break="yes" n="945" type="regular"/>trompettes du jugement. — Cette phrase, qui
+            semble projeter sa vibration du fond des abimes de l’espace, vous arrive mystérieuse,
+            étrange, irrésolue; les anges, des quatre coins de l’horizon, s’appellent, se répondent,
+            les trompettes s’avancent, recrutant les cors et les trombones; cette vision a quelque
+            chose d’effroyable, ces sonneries sortent de l’Apocalypse; pourquoi faut-il que le
+            maitre me gâte cet effet en ramenant quelques mesures plus loin une fanfare dont le
+            réalisme trop militaire détonne en un pareil moment? Du reste, on ne peut qu’admirer la
+            singulière habileté avec laquelle les cuivres sont maniés, à deux reprises ils occupent
+            l’intérêt dans cette magnifique symphonie colorée comme un Delacroix. Employés d’abord,
+            ainsi que nous venons de le dire, vous les retrouverez dans le <hi rend="italic">Libera</hi> lugubres, sourds, voilés, et servant de pédale aux ravissantes
+            harmonies d’une plainte dont le <hi rend="italic">Lacrymosa</hi> de Mozart et l’<hi rend="italic">andante</hi> de la sonate <hi rend="italic">Clair de lune</hi> nôus
+            offriraient seuls l’équivalent. Et c’est devant de tels sanglots qu’on ose venir
+            contester l’émotion d’un maître! Comment donc s’y prenait ce philosophe de l’antiquité
+            pour prouver le mouvement? Il marchait. Voilà un musicien qui, pour nous prouver qu’il
+            est ému, n’a rien trouvé de mieux que de pleurer; je plains ceux qu’une semblable
+            émotion n’entraîne pas, et qui, au lieu de s’agenouiller devant cet <hi rend="italic">offertoire</hi> et cet <hi rend="italic">Agnus Dei</hi> adorable, continuent à
+            ricaner en vous citant un passage où Verdi se sera souvenu un peu trop du théâtre.</p>
+        <p>On vous dit: Cette religion, cette compassion, ces larmes-là, sont humaines. Eh bien!
+            après? Est-ce l’humanité, oui ou non, qui est en cause? Relisez donc une bonne fois les
+            psaumes, allez au fond de cette <hi rend="italic">prose</hi> gémissante et menaçante, et
+            vous verrez qu’il n’y est question que de nos angoisses et de nos épouvantemens. Le
+            sublime religieux en pareil cas n’est et ne saurait être jamais que le sublime humain
+                <hi rend="italic">Rex tremendae majestatis!</hi> Aux pieds de ce juge implacable des
+            Écritures, l’humanité terrifiée implore, supplie; cet hymne d’invocation à sa
+            miséricorde, ce cri de suprême pitié, d’où sortira-t-il sinon du plus profond de nos
+            entrailles? Et, puisqu’il s’agissait de résumer le sujet dans une oeuvre épique, quel
+            artiste l’idée religieuse ainsi comprise pouvait-elle trouver parmi les vivans, quel
+            interprète plus convaincu qile ce grand musicien qui en même temps est un homme?</p>
+        <p>Parlons maintenant des chanteurs; il sont quatre: un ténor de vigoureuse complexion, M.
+            Capponi, assez mal en train du reste et dont l’émission est gutturale, une basse
+            robuste, M. Maini, un mezzo-soprano, la Waldmann, et, planant sur le groupe d’un vol
+            superbe, Teresa Stolz, le soprano. Enfin nous avons entendu de vraies voix, des voix qui
+            sont des voix, et non plus des glapissemens, des bêlemens et des enrouemens perpétuels.
+            Cette Maria Waldmann, quel mezzo-soprano! ductile, onctueux, caressant avec ses cordes
+            pathétiques du médium et ses belles <pb break="yes" n="946" type="regular"/>notes graves
+            qui vous magnétisent,— et la Teresa Stolz! dès la première vibration, le charme était
+            produit: un timbre, une solidité, que rien n’effraie; vous l’écoutez monter, se perdre
+            au suraigu, et vous restez tranquille à votre place, car vous savez d’avance que, si
+            haut que le son aille se percher, elle l’y maintiendra vigoureusement en équilibre. De
+            plus cette voix si passionnée, si chaude, d’un essor flamboyant, vous l’entendrez
+            soupirer d’ineffable douleur dans le solo du <hi rend="italic">Libera</hi>, et cette
+            fois, après avoir admiré la splendeur de l’organe, vous applaudirez la grande artiste
+            qui sait ainsi modérer, étouffer sa flamme. Nous a-t-on assez répété qu’il n’g avait
+            plus de voix en Italie! Comment se laisser berner davantage par ces méchans propos de
+            l’incurie et de l’avarice? Milan n’est pourtant point la Chine, et le public parisien
+            aurait, ce semble, quelque intérêt à connaitre un peu ce qui s’y passe; mais les
+            directeurs de nos grandes scènes préfèrent ne nous en rien dire, et nous conserver dans
+            un état d’obscurantisme dont s’accommode au mieux leur régime d’administration. Il a
+            fallu cette circonstance extraordinaire d’une messe de Verdi pour nous faire assister
+            l’été, en plein midi, à l’apparition de ces deux étoiles; aujourd’hui que le public
+            vient d’être enfin, et comme par hasard, mis au fait, aujourd’hui qu’il a entendu,
+            applaudi, et qu’on craint qu’il ne se fâche, on lui dit: «Cette Waldmann, cette Stolz,
+            nous avons voulu vous les donner cet hiver, mais d’autres engagemens qui les liaient
+            d’avance ont rendu nos efforts inutiles.» Comme si le public en était encore à se payer
+            de semblables raisons, comme si nous ne savions pas que ce que veut un directeur
+            prodigue et déterminé, une cantatrice le veut toujours. D’ailleurs il n’y avait pas que
+            la Stolz et la Waldmann, il y avait aussi la Fricci; sans doute aussi que celle-là des
+            engagemens antérieurs l’attachaient au rivage, car son nom n’a pas même été prononcé.
+            Que le public se tienne donc pour averti, et rendons à Verdi le double hommage de
+            reconnaissance que nous lui devons et pour avoir écrit un chef-d’oeuvre, et pour nous
+            avoir appris que les belles voix sont encore de ce monde.</p>
+        <pb break="null" n="955" type="skipped"/>
+        <p rend="right">F. DE LAGENEVAIS.</p>
+    </body></text>
+</TEI>

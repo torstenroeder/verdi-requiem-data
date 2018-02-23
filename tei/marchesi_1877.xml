@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Mathilde Marchesi, Erinnerungen, 1877</title><author><persName ref="#marchesi.mathilde"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/marchesi_1877_erinnerungen.xml</p></publicationStmt><sourceDesc><bibl>
+				<title>Mathilde Marchesi: Erinnerungen aus meinem Leben. Wien: Carld Gerolds Sohn, 1877.</title>
+				<date when-iso="1877-00-00"/>
+				<biblScope unit="page">74–75</biblScope>
+				<!--FACS Marchesi: kein Digitalisat; Kopie vorhanden-->
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/><date when-iso="1875-06-00"/></creation><textClass><keywords><term type="textType">Biografik</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head><persName ref="#verdi.giuseppe">Verdi</persName> in <placeName ref="#wien">Wien</placeName>.</head>
+		<p>Im <date when-iso="1875-06">Juni des Jahres 1875</date> ward es mir endlich vergönnt, den
+			hochgefeierten Meister <persName ref="#verdi.giuseppe">Verdi</persName> persönlich kennen zu
+			lernen. Derselbe kam nach <placeName ref="#wien">Wien</placeName>, um seine Oper <title ref="#verdi.aida">„Aida“</title>, <rs type="event" ref="#wien.1875">sowie sein schönes und jetzt
+				allgemein anerkanntes <title ref="#verdi.requiem">„Requiem“</title> zu
+				dirigiren</rs>. Es war das zweite Mal, daß <persName ref="#verdi.giuseppe">Verdi</persName>
+			<placeName ref="#wien">Wien</placeName> besuchte. Er war noch sehr jung, als er das erste Mal
+			hierher kam um seine Oper „<title ref="#verdi.nabucco">Nabucco</title>“, welche in der
+				<placeName ref="#mailand.teatro-alla-scala">Scala</placeName> in <placeName ref="#mailand">Mailand</placeName> schon mit größtem Erfolge gegeben worden war, persönlich zu
+			dirigiren. Obgleich die meisten Familien der glühenden Hitze halber <placeName ref="#wien">Wien</placeName> verlassen hatten, so wirkte doch der Name <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> elektrisch genug, um die Land-, Thal-
+			und Bergbewohner wieder in die Stadt zu locken. Schaarenweise drängte man sich an die
+			Casse, um einen Platz zu erhaschen und allabendlich waren die Räume des Opernhauses
+			dicht besetzt. Das <title ref="#verdi.requiem">Requiem</title> wirkte begeisternd auf das
+			Publicum. Die Hauptpartien waren durch die Damen <persName ref="#stolz.teresa">Stolz</persName> und <persName ref="#waldmann.maria">Waldmann</persName>, sowie durch die
+			Herren <persName ref="#masini.angelo">Masini</persName> und <persName ref="#medini.paolo">Medini</persName> ganz vortrefflich besetzt, und die Chöre, welche durch den <orgName ref="#wien.akademischer-gesangverein">akademischen Gesangverein</orgName> verstärkt
+			worden waren, sowie das Orchester, leisteten unter <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<pb break="yes" n="75" type="regular"/> Zauberstab Außergewöhnliches. Der Meister
+			seinerseits äußerte zu wiederholten Malen, daß es ein hoher Genuß für ihn sei, ein so
+			vortreffliches Orchester und so ausgezeichnete Chöre dirigiren zu können.</p>
+		<p>Am Abend nach der ersten Aufführung des <title ref="#verdi.requiem">Requiem</title> war
+				<persName ref="#verdi.giuseppe">Verdi</persName> im Begriff, das Theater zu verlassen und
+			seinen Wagen zu besteigen, als er sich plötzlich von einer Schaar Studenten umringt sah,
+			welche ihm enthusiastisch zujubelten. Der Meister, dessen einfacher Sinn sich von jeher
+			gegen solche stürmische Ovationen sträubte, flüchtete rasch in den nahestehenden Wagen,
+			jedoch bemerkend, daß die jungen Hitzköpfe Miene machten, die Pferde auszuspannen,
+			sprang er eben so schnell auf der anderen Seite des Wagens heraus und lief mit
+			Blitzesschnelle zu Fuß in sein Hotel. Die darauffolgenden Abende verließ <persName ref="#verdi.giuseppe">Verdi</persName> das Theater nur dann, wenn er mit Bestimmtheit
+			wußte, daß Niemand in- oder außerhalb desselben ihn erwartete.</p>
+		<p>Der Meister war so liebenswürdig einige Tacte aus dem wundervollen Tenorsolo (in <hi rend="antiqua">C-Dur</hi>) aus dem vierstimmigen <title ref="#verdi.requiem.3">Offertorium</title> seines <title ref="#verdi.requiem">Requiems</title>, <title ref="#verdi.requiem.3" n="domine-jesu">„Domine Jesu“</title>, in mein Album zu schreiben.
+			Es war von ganz besonderem Interesse für mich, die Oper <hi rend="widespace"><title ref="#verdi.aida">Aïda</title></hi>, welche in der <placeName ref="#wien">Wiener</placeName>
+			<placeName ref="#wien.hof-operntheater">Hof-Oper</placeName> schon früher gegeben worden war, nun
+			von italienischen Sängern und unter des Componisten persönlicher Leitung zu hören. Ich
+			konnte mich von Neuem überzeugen, wie sehr die deutschen Capellmeister die Tempi der
+			italienischen Opern oft vergreifen, hauptsächlich aber verschleppen.</p>
+	</body></text>
+</TEI>

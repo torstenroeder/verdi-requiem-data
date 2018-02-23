@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 2. März 1877</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1877-03-02_stuttgart.xml</p></publicationStmt><sourceDesc><bibl>
+                <orgName ref="#nzfm" role="publisher"/>
+                <placeName ref="#leipzig"/>
+                <date when-iso="1877-03-02"/>
+                <biblScope unit="issue">10</biblScope><biblScope unit="volume">73</biblScope><series>nzfm</series>
+                <biblScope unit="page">103 [3]</biblScope>
+                <link facs="nzfm_1877-03-02_103.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18770302&amp;seite=3"/>
+            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#stuttgart"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+    <text xml:lang="de"><body rend="fraktur">
+        <cb break="null" n="102b" type="initial"/>
+        <head rend="larger widespace">Correspondenzen.</head>
+        <pb break="null" n="103b" type="skipped"/>
+        <p rend="bold right"><placeName ref="#bremen">Stuttgart</placeName>.</p>
+        <p>Die letzte Zeit brachte und eine wahre Fluth von Concerten. Am <date when-iso="1876-12-19">19. Dec.</date> gaben die <hi rend="widespace">Florentiner</hi> eine sehr schwach
+            besuchte Soir<hi rend="antiqua">é</hi>e, spielten aber trotzdem ebenso prachtvoll wie
+            sonst: <persName ref="#schumann.robert">Schumann’s</persName>
+            <title ref="#schumann.quartett">Quartett</title>, <persName ref="#beethoven.ludwig-van">Beethoven’s</persName>
+            <title ref="#beethoven.quartett-131">Quartett Op. 131</title> und das neue <title ref="#verdi.quartetto">Streichquartett</title> von <persName ref="#verdi.giuseppe">Verdi</persName>, welches wie alles <hi rend="widespace">Ausländische</hi> auch hier
+            ebenso lebhafte Neugier wie Enttäuschung erregte! <rs type="event" ref="#stuttgart.1876">Kurz
+                darauf gelangte <persName ref="#verdi.giuseppe">Verdi’s</persName>
+                <title ref="#verdi.requiem">Requiem</title> mit viel größerem Interesse und Erfolge zur
+                Aufführung.</rs></p>
+    </body></text>
+</TEI>

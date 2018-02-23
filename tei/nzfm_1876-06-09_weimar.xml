@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 9. Juni 1876 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-06-09_weimar.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-06-09"/>
+				<biblScope unit="issue">24</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
+				<biblScope unit="page">243 [5]</biblScope>
+				<link facs="nzfm_1876-06-09_243.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760609&amp;seite=5"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#weimar"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="242b" type="initial"/>
+		<head rend="larger">Correspondenzen.</head>
+		<cb break="null" n="243b" type="skipped"/>
+		<p rend="bold right"><placeName ref="#weimar">Weimar</placeName>.</p>
+		<gap resp="tr"/>
+		<p><rs type="event" ref="#weimar.1876.1">Von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi> so schnell in die Mode gekommenen <title ref="#verdi.requiem">Manzoni-Requiem</title> hatten auch wir eine Aufführung unter <hi rend="widespace"><persName ref="#mueller-hartung.carl">Müller-Hartungs</persName></hi> Leitung im <placeName ref="#weimar.hoftheater">Hoftheater</placeName> mit Frau <hi rend="widespace"><persName ref="#fichtner-spohr.auguste">Fichtner-Spohr</persName></hi>, Frl. <hi rend="widespace"><persName ref="#dotter.berta">Dotter</persName></hi>, den HH. <hi rend="widespace"><persName ref="#ferenczy.jose" cert="medium">Ferenczy</persName></hi> und <hi rend="widespace"><persName ref="#milde.hans-feodor">v. Milde</persName></hi>, der Singakademie, dem Kirchen- und Theaterchor.</rs> Trotz der vortrefflichen und sorgfältigen Darstellung aller Mitwirkenden errang das weit über Gebür poussirte Werk nur sehr mäßigen Beifall. Was seinen specifischen Kunstwerth anbelangt, so schließt sich Ref. vollständig den wiederholt in d. Bl. ausgespr. Urtheilen an. —</p>
+	</body></text>
+</TEI>

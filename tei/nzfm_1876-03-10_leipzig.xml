@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 10. März 1876 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-03-10_leipzig.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-03-10"/>
+				<biblScope unit="issue">11</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
+				<biblScope unit="page">114 [6]</biblScope>
+				<link facs="nzfm_1876-03-10_114.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760310&amp;seite=6"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="113b" type="initial"/>
+		<head rend="larger">Tagesgeschichte.</head>
+		<head>Aufführungen.</head>
+		<pb break="null" n="114" type="skipped"/>
+		<p><rs type="event" ref="#leipzig.1876.1"><placeName ref="#leipzig">Leipzig</placeName>. <gap resp="tr"/> Am
+					<date when-iso="1876-03-09">9.</date> im neunzehnten Gewandhaus<supplied resp="tr">concert</supplied> mit Frau <hi rend="widespace"><persName ref="#peschka-leutner.minna">Peschka</persName></hi>, Frl. <hi rend="widespace"><persName ref="#nanitz.minna">Nanitz</persName></hi> aus <placeName ref="#dresden">Dresden</placeName>, HH. <hi rend="widespace"><persName ref="#pielke.walter">W. Pielke</persName></hi> und <hi rend="widespace"><persName ref="#koehler.hans">Köhler</persName></hi> aus <placeName ref="#dresden">Dresden</placeName>: <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
+				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi>.</rs> —</p>
+	</body></text>
+</TEI>

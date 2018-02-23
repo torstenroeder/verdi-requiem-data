@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Presse, Wien, 3. September 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/dp_1875-09-03_kleine-chronik.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#die-presse"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-09-03" when-custom="fri"/>
+				<biblScope unit="issue">244</biblScope><biblScope unit="subIssue">244</biblScope><biblScope unit="volume">28</biblScope><series>dp</series>
+				<biblScope unit="page">3</biblScope>
+				<link facs="dp_1875-09-23_a3.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18750923&amp;seite=15"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#florenz"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Kleine Chronik.</head>
+		<cb break="null" n="3b" type="skipped"/>
+		<p>[Das Programm zur <persName ref="#buonarroti.michelangelo">Michelangelo</persName>-Feier], „um <persName ref="#buonarroti.michelangelo">Michelangelo</persName> durch <persName ref="#buonarroti.michelangelo">Michelangelo</persName> zu ehren“, enthält in seiner Vollständigkeit folgende Punkte: <gap resp="tr"/> <rs type="event" ref="#florenz.1875">Am <date when-iso="1875-09-19">19.</date>, <date when-iso="1875-09-20">20.</date>, <date when-iso="1875-09-22">22.</date> und <date when-iso="1875-09-24">24.</date> wird das <persName ref="#verdi.giuseppe">Verdi’sche</persName> <title ref="#verdi.requiem">Requiem</title> aufgeführt werden.</rs> <gap resp="tr"/></p>
+	</body></text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Der Floh, Wien, 13. Juni 1875 [2]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/floh_1875-06-13_giuseppe-verdi-2.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#der-floh" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-13"/>
+					<biblScope unit="issue">24</biblScope><biblScope unit="volume"
+						>7</biblScope><series>der-floh</series>
+					<biblScope unit="page">2</biblScope>
+					<link facs="floh_1875-06-13_2.png"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=flo&amp;datum=18750613&amp;seite=2"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Satire</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="2"/>
+			<head rend="bold larger"><persName ref="#verdi.giuseppe">Giuseppe
+						Verdi</persName></head>
+			<p>ist unstreitig der würdigste Repräsentant italienischer Musik. Die Vorsehung hat ihm
+				nicht nur eine glückliche Begabung, sie hat ihm auch einen glücklichen Namen
+				verliehen.</p>
+			<p>
+				<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> war noch
+				keineswegs berühmt, als bei allen Italienern, welche für ein einiges Italien
+				schwärmten, der Ruf <hi rend="antiqua">„Evviva Verdi!“</hi> eine ungeheure
+				Popularität erlangte.</p>
+			<p>Wie kam das?</p>
+			<p>Die Behörden hatten auf die damals hochverrätherischen Rufe: <hi rend="antiqua"
+					>„Evviva <persName ref="#vittorio-emanuele-ii.savoyen">Vittore
+						Emanuele</persName>!“</hi> schwere Strafen gesetzt.</p>
+			<p>Nun kamen die Mazzinisten und Garibaldisten darauf, den Namen des Maestro <persName
+					ref="#verdi.giuseppe">Verdi</persName>, dessen Ruhm sich zu jener Zeit nur noch
+				in bescheidenen Grenzen bewegte, zu ihren Demonstrationen zu benützen.</p>
+			<p>Bei jedem geeigneten politischen Anlasse tönte es aus tausend Kehlen: <hi
+					rend="antiqua">„Evviva Verdi!“</hi></p>
+			<p>Die Polizei hatte natürlich anfangs nichts dagegen, später aber stutzte sie und
+				endlich hatte sie es richtig heraus, daß <hi rend="antiqua widespace">„Evviva
+					Verdi!“</hi> nichts anderes bedeutete, als <hi rend="antiqua">„Evviva <hi
+						rend="widespace"><persName ref="#vittorio-emanuele-ii.savoyen"><hi
+								rend="bold">V</hi>ittore <hi rend="bold">E</hi>manuele</persName>
+						<hi rend="bold">R</hi>e <hi rend="bold">D</hi>i <hi rend="bold"
+						>I</hi>talia</hi>!“</hi></p>
+			<p>Nun wurde auch das <hi rend="antiqua">„Evviva Verdi!“</hi> verboten.</p>
+			<p>Später aber haben sich die Zeiten total geändert.</p>
+			<p><persName ref="#vittorio-emanuele-ii.savoyen">Victor Emanuel</persName> erreichte das
+				Ziel seiner „frommen Wünsche“ und Maestro <hi rend="widespace"><persName
+						ref="#verdi.giuseppe">Verdi</persName></hi> erlangte auch, ohne die Politik,
+				eine Popularität, wie sie wenige jetzt lebende Compositeure genießen.</p>
+			<p><rs type="event" ref="#wien.1875">Aus Anlaß des von ihm componirten <title
+						ref="#verdi.requiem">Requiems</title>, das jetzt in der <placeName
+						ref="#wien.hof-operntheater">Hofoper</placeName> von dem Meister geleitet
+					zur Aufführung gelangt</rs>, bringen wir das Bild <hi rend="widespace"><persName
+						ref="#verdi.giuseppe">Verdi’s</persName></hi>.</p>
+			<p>Unser Zeichner stellt ihn in jenem Augenblicke dar, in welchem der Meister der süßen
+				Arien vor unser <placeName ref="#wien.hof-operntheater"
+				>Hofopern</placeName>-Orchester tritt, das ihn mit einem Tusche unendlicher
+					<persName ref="#wagner.richard">Wagnerscher</persName> Confusionsmelodie
+				begrüßt, welche die innigen Klänge der Leier so übertönt, wie der Niagarafall etwa
+				den lieblichen Sang einer Lerche.</p>
+			<p>Zum Glück besteht das Orchester der <placeName ref="#wien.hof-operntheater"
+					>Hofoper</placeName> aus so eminenten Künstlern, daß der niederschmetternde
+				Einfluß <persName ref="#wagner.richard">Wagner’s</persName> ihnen nicht die
+				Fähigkeit rauben kann, auch mit <persName ref="#verdi.giuseppe">Verdi</persName>
+				fühlen und wirken zu können.</p>
+			<p>Die <title ref="#verdi.requiem">Requiem</title>-Aufführung hat dies männiglich
+				bewiesen!</p>
+		</body>
+	</text>
+</TEI>

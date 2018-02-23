@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Illustrirte Zeitung, Leipzig, 22. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/iz_1876-04-22_berlin.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#illustrirte-zeitung" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-04-22"/>
+				<biblScope unit="issue">1712</biblScope><series>iz</series>
+				<biblScope unit="page">315</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#berlin"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Theater und Musik.</head>
+		<gap resp="tr"/>
+		<p>— <rs type="event" ref="#berlin.1876.1"><persName ref="#verdi.giuseppe">Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ ist am <date when-iso="1876-04-15">15.
+					April</date> im <placeName ref="#berlin.hofoper">k. Opernhause zu Berlin</placeName> zur
+				ersten Aufführung gelangt.</rs></p>
+	</body></text>
+</TEI>

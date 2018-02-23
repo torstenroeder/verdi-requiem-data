@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Illustrirte Zeitung, Leipzig, 13. Mai 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/iz_1876-05-13_salzburg.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#illustrirte-zeitung" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-05-13"/>
+				<biblScope unit="issue">1715</biblScope><series>iz</series>
+				<biblScope unit="page">375</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#salzburg"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Theater und Musik.</head>
+		<p><gap resp="tr"/> — <rs type="event" ref="#salzburg.1876"><persName ref="#verdi.giuseppe">Verdi’s</persName> berühmtes <title ref="#verdi.requiem">„Requiem“</title> kam in
+					<placeName ref="#salzburg">Salzburg</placeName> am <date when-iso="1876-04-23">23.
+					April</date> in einem außerordentlichen Mozarteum-Concert mit circa 400
+				Mitwirkenden unter der trefflichen Leitung des artistischen Directors Dr. <persName ref="#bach.otto">O. Bach</persName> zur Aufführung, und fand diese sowie die
+				Wiederholung am <date when-iso="1876-04-30">30. April</date> eine glänzende Aufnahme und
+				durchgreifendsten Erfolg.</rs></p>
+	</body></text>
+</TEI>

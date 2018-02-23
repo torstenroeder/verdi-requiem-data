@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Wiener Zeitung, 11. Juni 1874 (= Neue Freie Pr.)</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wz_1874-06-11_verdi.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#wiener-zeitung" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1874-06-11" when-custom="thu"/>
+				<biblScope unit="issue">131</biblScope><biblScope unit="subIssue">131</biblScope><series>wz</series>
+				<biblScope unit="page">1142 [2]</biblScope>
+				<link facs="wz_1874-06-11_1142.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740611&amp;seite=12"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="1142" type="initial"/>
+		<head rend="larger">Kleine Chronik.</head>
+		<p rend="smaller center"><hi rend="bold"><placeName ref="#wien">Wien</placeName>,</hi>
+			<date when-iso="1874-11-06">11. Juni</date>.</p>
+		<cb break="null" n="1142b" type="skipped"/>
+		<p>(<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi>.) Aus <placeName ref="#paris">Paris</placeName> meldet die „<orgName ref="#neue-freie-presse"><choice>
+					<orig>F. C.</orig>
+					<corr resp="tr">F. P.</corr>
+				</choice></orgName>“: „<rs type="event" ref="#paris.1874.1">In der <placeName ref="#paris.opera-comique">komischen Oper</placeName> zu <placeName ref="#paris">Paris</placeName> fand am <date when-iso="1874-06-08">8. d. M.</date> unter persönlicher Leitung des Componisten die
+				Generalprobe der zum Gedächtniß <persName ref="#manzoni.alessandro">Alessandro
+					Manzoni</persName>’s componirten <title ref="#verdi.requiem">Todtenmesse</title> von
+					<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi>
+				statt</rs>, welche kürzlich schon in <placeName ref="#venedig">Venedig</placeName><note resp="tr" type="eventCommentary">Falschmeldung; vgl. <ref type="text" target="nfp_1874-06-11_ein-requiem-von-verdi.xml">Neue Freie Presse, Wien, 11.
+					Juni 1874</ref>.</note> und <rs type="event" ref="#mailand.1874"><placeName ref="#mailand">Mailand</placeName></rs> gehört worden ist. In Wahrheit konnte man diese
+			Generalprobe eine erste Aufführung nennen, da alle Räume des Theaters von einem
+			geladenen, aus der Kunst- und fashionablen Welt recrutirten Publicum besetzt waren. Die
+			Soli befanden sich in denselben Händen wie in Italien: Frau <persName ref="#stolz.teresa" role="soloist.soprano">Stolz</persName> (Sopran), Frau <persName ref="#waldmann.maria" role="soloist.mezzo">Waldmann</persName> (Alt), <persName ref="#capponi.giuseppe" role="soloist.tenor">Capponi</persName> (Tenor) und <persName ref="#maini.armando" role="soloist.basso">Maini</persName> (Baß); Chor und Orchester waren der <placeName ref="#paris.grand-opera">großen</placeName>, der <placeName ref="#paris.theatre-italien">italienischen</placeName> und der <placeName ref="#paris.opera-comique">komischen
+				Oper</placeName> entlehnt. Die Zahl der Mitwirkenden betrug 200. <persName ref="#verdi.giuseppe">Verdi</persName> wurde, als er am Dirigentenpulte erschien, von
+			dem Publicum, dem er als langjähriger Bewohner von <placeName ref="#paris">Paris</placeName> kein
+			Neuling war, mit begeistertem Beifall begrüßt; trotz des religiösen Charakters der
+			Composition wiederholte sich diese Kundgebung nach jeder der beiden Abtheilungen: es
+			wurde nämlich nach dem <title ref="#verdi.requiem.2.lacrymosa">Lacrimosa</title> eine große
+			Pause gemacht, so daß der zweite Theil mit dem <title ref="#verdi.requiem.3">Offertorium</title> begann. Der Erfolg dieses <title ref="#verdi.requiem">Requiems</title> war allerdings kein unbestrittener: man fand es, wie alle moderne
+			italienische Kirchenmusik und wie z. B. auch das <hi rend="antiqua"><title ref="#rossini.stabat-mater">Stabat Mater</title></hi> und die <title ref="#rossini.petite-messe-solennelle">Messe</title> von <persName ref="#rossini.gioachino">Rossini</persName>, zu weltlich, zu theatralisch, zu
+			materialistisch, und noch im Saale der komischen Oper hörte man das Bonmot, dieses Werk
+			sei eine Todtenmesse für ein Civilbegräbniß<note resp="tr" type="textLink">Vgl. <persName ref="#jouvin.benoit">B. Jouvin</persName>, <ref type="text" target="http://gallica.bnf.fr/ark:/12148/bpt6k2752604.item">Le Figaro, Paris, 10.
+					Juni 1874, S. 1</ref>: »Une messe pour un enterrement civil«.</note>. Aber auch
+			die strengsten Kritiker konnten einigen Nummern eine grandiose und ergreifende Wirkung
+			nicht absprechen. Von den Solisten hatte Frau <persName ref="#waldmann.maria">Waldmann</persName>, eine Deutsche von Geburt und in ihrer ganzen Erscheinung,
+			vermöge ihres innigen und dramatischen Vortrags den bedeutendsten Erfolg. Frau <persName ref="#stolz.teresa">Stolz</persName> fand ebenfalls wegen ihrer Methode und der
+			sicheren Bewältigung der mannigfachen Schwierigkeiten ihrer Partitur reichen Beifall;
+			der Tenor war schwach oder eingeschüchtert, der Baß mittelmäßig. Viele bekannte
+			Persönlichkeiten von <placeName ref="#paris">Paris</placeName>, darunter <persName ref="#thomas.ambroise">Ambroise Thomas</persName>, <persName ref="#dumas.alexandre.fils">Alexander Dumas</persName>, <persName ref="#girardin.emile-de">Girardin</persName>,
+				<persName ref="#about.edmond">Edmont About</persName>, <persName ref="#delibes.leo">Léo
+				Delibes</persName>, <persName ref="#jonas.emile">Jonas</persName> und die gesammte
+			musikalische Kritik von <placeName ref="#paris">Paris</placeName> wohnten dieser Aufführung
+			bei.</p>
+	</body></text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Prager Abendblatt, 29. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/pab_1876-01-29_vom-deutschen-landestheater.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#prager-abendblatt" role="publisher"/>
+					<placeName ref="#prag"/>
+					<date when-iso="1876-01-29" when-custom="sat"/>
+					<biblScope unit="issue">23</biblScope><biblScope unit="volume"
+						>?</biblScope><series>pab</series>
+					<biblScope unit="page">2</biblScope>
+					<link facs="pab_1876-01-29_2.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760129&amp;seite=2"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#prag"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<p><hi rend="bold"><g type="ASTERISM" n="2042">⁂</g></hi>
+				<rs type="event" ref="#prag.1876.2"><hi rend="bold">Vom <placeName
+							ref="#prag.staendetheater">deutschen Landestheater</placeName>.</hi>
+					<gap resp="tr"/> Morgen will man „Die beiden Waisen“<note resp="tr"
+						type="literatureLink">Vgl. Adolphe d’Ennery und Eugène Cormon, »Les deux
+						orphelines«.</note> und Montag das <persName ref="#verdi.giuseppe"
+						>Verdi’sche</persName>
+					<title ref="#verdi.requiem">Requiem</title> wiederholen.</rs>
+				<gap resp="tr"/></p>
+		</body>
+	</text>
+</TEI>

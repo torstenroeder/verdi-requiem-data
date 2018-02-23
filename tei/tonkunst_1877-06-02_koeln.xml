@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 2. Juni 1877</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1877-06-02_die-musikalischen-pfingsten.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tonkunst" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1877-06-02"/>
+				<biblScope unit="issue">22</biblScope><biblScope unit="volume">3</biblScope><series>tonkunst</series>
+				<biblScope unit="page">349</biblScope>
+				<link facs="tonkunst_1877-06-02_349.png"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#koeln"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Die musikalischen Pfingsten in <placeName ref="#koeln">Cöln</placeName>, <placeName ref="#hannover">Hannover</placeName> und <placeName ref="#london">London</placeName>.</head>
+		<p>Pfingsten, das Fest der Freude und des Frühlings, hat an diesen 3 Orten auch der Musik
+			gehuldigt. Zwar eiferte fanatische Mißgunst einstmals, als ich in einem frommen Orte
+			auch so der Kunst meine Verehrung darbringen durfte, und dichtete dem (Ravensburger)
+			Musikfeste alles mögliche Böse an; allein trotzdem wird Pfingsten wohl mehr und mehr
+			eine musikalische Zeit werden. <rs type="event" ref="#koeln.1877">In <placeName ref="#koeln">Cöln</placeName> feierte die conservative Schule mit <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> dasselbe</rs>, <placeName ref="#hannover">Hannover</placeName> bot wieder ein reiches Tableau der modernen Leistungen und <placeName ref="#london">London</placeName> widmete sich ganz <persName ref="#wagner.richard">Wagner’s</persName> Muse.</p>
+	</body></text>
+</TEI>

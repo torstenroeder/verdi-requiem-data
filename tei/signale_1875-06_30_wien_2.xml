@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Signale, Leipzig, Juni 1875/30 [2]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/signale_1875-06_30_verdis-requiem.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#signale" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date cert="low" when-iso="1875-06-30" notAfter-iso="1875-06-30"
+						notBefore-iso="1875-06-14"/>
+					<!--BIBLIO Datierung: frühestens ein Tag nach dem Erscheinen der Quelle-->
+					<biblScope unit="issue">30</biblScope><biblScope unit="volume">33</biblScope>
+					<biblScope unit="page">474</biblScope>
+					<link
+						target="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n479/mode/1up"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+				<rs type="event" ref="#wien.1875.1"><hi rend="widespace"><persName
+							ref="#verdi.giuseppe">Verdi’s</persName>
+						<title ref="#verdi.requiem">Requiem</title></hi> ist in <placeName
+						ref="#wien">Wien</placeName> im <placeName ref="#wien.hof-operntheater"
+						>Hofoperntheater</placeName> unter Direction des Componisten mit ganz
+					außerordentlichem Erfolg zur Aufführung gekommen.</rs> Als <persName
+					ref="#verdi.giuseppe">Verdi</persName> an das Dirigentenpult trat, wurde er mit
+				einem Beifall empfangen, dessen gleichen man im Operntheater noch nicht erlebt
+				hatte. Einem so glänzenden Empfang entsprach das gebotene Werk und dessen
+				Ausführung. <persName ref="#verdi.giuseppe">Verdi</persName> hat darin gezeigt, was
+				er kann: Erfindung und Mache reichen einander die Hände und wirken zu einem
+				bedeutenden Ganzen zusammen, das man von dem Componisten, bevor die „<title
+					ref="#verdi.aida">Aïda</title>“ bekannt war, kaum erwarten konnte. Die
+				Ausführung des Werkes war eine außerordentliche; sie packte die Hörerschaft und ließ
+				sie nicht mehr los. Das brillanteste Orchester der Welt stand dem Componisten zur
+				Verfügung und ein Chor, wie eines solchen kaum ein zweites Opernhaus sich rühmt;
+				dazu kamen vier Solisten, die, ungemein stimmbegabt und gesangskundig, von <persName
+					ref="#verdi.giuseppe">Verdi</persName> vollends auf’s Tiefste in seine
+				Intentionen eingeweiht, ihre Partien vorzüglich, zum Theile sogar geradezu
+				unübertrefflich sangen. Fräulein <persName ref="#stolz.teresa">Theresa
+					Stolz</persName>, eine Deutsche, sang die Sopranpartie, Fräulein <persName
+					ref="#waldmann.maria">Waldmann</persName>, gleichfalls eine Deutsche, sang die
+				Mezzosopran-Partie; Tenor und Baß sangen die Herren <persName ref="#masini.angelo"
+					>Masini</persName> und <persName ref="#medini.paolo">Medini</persName>. Fräulein
+					<persName ref="#stolz.teresa">Stolz</persName> ist eine Sängerin ersten Ranges,
+				Fräulein <persName ref="#waldmann.maria">Waldmann</persName> steht nicht weit von
+				ihr ab, eine Stufe tiefer wiederholt sich dieses selbe Verhältniß zwischen den
+				Herren <persName ref="#masini.angelo">Masini</persName> und <persName
+					ref="#medini.paolo">Medini</persName>. Fräulein <persName ref="#stolz.teresa"
+					>Stolz</persName> und Herr <persName ref="#masini.angelo">Masini</persName>
+				machten gradezu Furore. Drei Sätze des <title ref="#verdi.requiem">Requiems</title>
+				mußten wiederholt werden, so bedeutend war der Eindruck, den sie hervorriefen. Nach
+				dem Schluß der Aufführung wurde dem Componisten von Seite des Operntheaters ein
+				Lorbeerkranz überreicht. „Gewiß“, schreibt das „<orgName ref="#fremden-blatt"
+					>Fremdenblatt</orgName>“, „wird man an diesen Verdi-Abend lange zurückdenken.
+				Jenes Soloquartett im Vereine mit den übrigen herrlichen Kräften musiciren zu hören,
+				war ein Genuß, wie er dem Menschen nur an den hohen Festtagen der Kunst bescheert
+					wird.“<note resp="tr" type="textLink">Vgl. <ref type="text"
+						target="fb_1875-06-13_theater-und-kunst.xml">Fremden-Blatt, Wien, 13. Juni
+						1875</ref>.</note></p>
+		</body>
+	</text>
+</TEI>

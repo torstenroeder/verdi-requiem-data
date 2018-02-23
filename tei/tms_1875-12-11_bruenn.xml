@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 11. Dezember 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1875-12-11_meldung.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1875-12-11" when-custom="sat"/>
+					<biblScope unit="issue">183</biblScope><biblScope unit="volume"
+						>25</biblScope><series>tms</series>
+					<biblScope unit="page">[4]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="4a"/>
+			<head rend="larger bold">Brünner Chronik.</head>
+			<gap resp="tr"/>
+			<p><g type="PLUS_SIGN" n="002B">+</g> (<persName ref="#verdi.giuseppe"
+					>Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title>.) Nach Ueberwindung zahlloser
+				Schwierigkeiten ist es nunmehr dem betreffenden Komite gelungen, die (von uns
+				neulich erwähnte) <rs type="event" ref="#bruenn.1876">Aufführung des <persName
+						ref="#verdi.giuseppe">Verdi’schen</persName>
+					<title ref="#verdi.requiem">Requiems</title> definitiv für den <date
+						when-iso="1876-01-02">2.</date> und <date when-iso="1876-01-06">6. Jänner
+						1876</date> Abends halb 8 Uhr im städt. <placeName
+						ref="#bruenn.redouta-theater">Redouten-Saale</placeName></rs> feststellen zu
+				können. Das lebhafteste Interesse, welches sich schon jetzt in allen Kreisen für
+				diesen in Aussicht stehenden hohen Kunstgenuß kundgibt, erklärt sich nicht nur durch
+				die Mitwirkung der k. k. Kammersängerin Frau <persName
+					ref="#gompertz-bettelheim.karoline-von">Karoline Gomperz-Bettelheim</persName>,
+				sowie durch die Uebernahme der übrigen Soloparts durch Fräulein <persName
+					ref="#will.julie">Will</persName>, Herrn <persName ref="#krejci.friedrich"
+					>Krejczy</persName> und Herrn <persName ref="#curiel.xxx">Curiel</persName>,
+				sondern auch durch den besonders populären humanitären Zweck, indem die hiesigen 3
+				wohlthätigen Frauenvereine und der Frauenerwerbverein zu gleichen Theilen am
+				Reinertrage beider Abende partizipieren werden.</p>
+		</body>
+	</text>
+</TEI>

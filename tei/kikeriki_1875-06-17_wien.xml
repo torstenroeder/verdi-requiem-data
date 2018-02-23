@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kikeriki, Wien, 17. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/kikeriki_1875-06-17_musikalische-verwirrungen.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#kikeriki" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-17"/>
+					<biblScope unit="issue">48</biblScope><biblScope unit="volume"
+						>15</biblScope><series>kikeriki</series>
+					<biblScope unit="page">3</biblScope>
+					<link facs="kikeriki_1875-06-17_3.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=kik&amp;datum=18750617&amp;seite=3"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Satire</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Musikalische Verwirrungen.</head>
+			<p><graphic url="kikeriki_1875-06-17_3a.png">
+					<desc>Szene vor dem Opernhaus</desc>
+				</graphic></p>
+			<p rend="noIndent">
+				<l>— Was gibt’s denn heute im <hi rend="bold">Opernhause?</hi></l>
+				<l>— <rs type="event" ref="#wien.1875">Ein <hi rend="bold"><title
+								ref="#verdi.requiem">Requiem</title>.</hi></rs></l>
+			</p>
+			<p><graphic url="kikeriki_1875-06-17_3b.png">
+					<desc>Szene vor der Michaeler-Kirche</desc>
+				</graphic></p>
+			<p rend="noIndent">
+				<l>— Was gibt’s denn heute in der Michaeler-Kirche?</l>
+				<l>— Es singen dort der <hi rend="bold"><persName ref="#walter.gustav"
+							>Walter,</persName></hi> die <hi rend="bold"><persName
+							ref="#ehnn-sand.bertha">Ehnn</persName></hi> und die <hi rend="bold"
+							><persName ref="#gindele.ernestina">Gindele.</persName></hi></l>
+			</p>
+		</body>
+	</text>
+</TEI>

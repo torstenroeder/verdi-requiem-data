@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Coburger Zeitung, 5. Dezember 1877 [2]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/cz_1877-12-05_coburg.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#coburger-zeitung" role="publisher"/>
+				<placeName ref="#coburg"/>
+				<date when-iso="1877-12-05" when-custom="wed"/>
+				<biblScope unit="issue">285</biblScope><biblScope unit="volume">17</biblScope><series>cz</series>
+				<biblScope unit="page">1154 [4]</biblScope>
+				<link facs="cz_1877-12-05_1154.jpg" target="http://digipress.digitale-sammlungen.de/de/fs1/calendar/1877-12-05.1396849-x/bsb00001115_01156.html"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#coburg"/></creation><textClass><keywords><term type="textType">Anzeige</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger"><placeName ref="#coburg.hoftheater">Herzogl. Sächs. Hoftheater</placeName> in <placeName ref="#coburg">Coburg</placeName>.</head>
+		<p><gap resp="tr"/>
+			<rs type="event" ref="#coburg.1877.1"><date><hi rend="widespace">Freitag</hi>, den 7.
+					December</date>. Zum ersten Male: <hi rend="bold"><title ref="#verdi.requiem">Requiem</title></hi> von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> (zum Todestage <persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName> componirt) — ausgeführt von der Herzogl.
+				Hofcapelle, dem Chorpersonal des Herzogl. Hoftheaters und unter freundlicher
+				Mitwirkung des „Sängerkranzes“. Die Soli’s gesungen von den Damen <persName ref="#gerl.helene">Gerl</persName> und <persName ref="#stirl.helene"><choice>
+						<orig>Stiel</orig>
+						<corr resp="tr">Stirl</corr>
+					</choice></persName> und den Herren <persName ref="#eilers.ludwig-albert">Eilers</persName> und <persName ref="#buerger.max">Bürger</persName>. Dirigent: Herr
+				Hofcapellemister <persName ref="#lampert.ernst">Lampert</persName>. — Mittelpreise. —
+				Anfang 7 Uhr.</rs></p>
+	</body></text>
+</TEI>

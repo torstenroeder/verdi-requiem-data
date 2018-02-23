@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Ferdinand Breunung, Brief an Ferdinand Hiller, Aachen, 28. Februar 1876</title><author><persName ref="#breunung.ferdinand"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/breunung_1876-02-28_brief-an-hiller.xml</p></publicationStmt><sourceDesc><bibl>
+				<placeName ref="#aachen"/>
+				<date when-iso="1876-02-28"/>
+			</bibl><bibl>
+				<title>Aus Ferdinand Hillers Briefwechsel (Band IV), Köln: Arno Volk, 1964, S. 4.</title>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#aachen"/><date when-iso="1876-02-28"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<p>Verehrter Herr Capellmeister!</p>
+		<p><gap resp="tr"/>
+			<rs type="event" ref="#aachen.1876.1">Jetzt steht mir nun erst noch für den <date when-iso="1876-03-18">18. März</date> das <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName> bevor</rs>, worauf ich mich nach Einblick
+			in die Partitur erst recht freue. Aber wenn ich nur erst wüßte, wo ich all’ den Apparat
+			von 8 Trompeten und 4 Fagotten herbekommen soll. Auch die Chorproben werden mir noch
+			genug zu schaffen machen <gap resp="tr"/></p>
+	</body></text>
+</TEI>

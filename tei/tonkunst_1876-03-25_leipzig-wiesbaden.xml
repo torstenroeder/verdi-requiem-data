@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 25. März 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-03-25_leipzig-wiesbaden.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tonkunst" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-03-25"/>
+				<biblScope unit="issue">9</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
+				<biblScope unit="page">150</biblScope>
+				<link facs="tonkunst_1876-03-25_150.png"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/><placeName ref="#wiesbaden"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<p><hi rend="bold">Concerte.</hi>
+			<gap resp="tr"/>
+			<rs type="event" ref="#leipzig.1876.1"><hi rend="widespace"><placeName ref="#leipzig">Leipzig</placeName></hi>: <placeName ref="#leipzig.gewandhaus">Gewandhaus</placeName>-<title ref="#verdi.requiem">Verdi-Messe</title>.</rs>
+			<gap resp="tr"/>
+			<rs type="event" ref="#wiesbaden.1876.1"><hi rend="widespace"><placeName ref="#wiesbaden">Wiesbaden</placeName></hi>: <gap resp="tr"/> CäcilienV. <title ref="#verdi.requiem">Verdi-Requiem</title>.</rs></p>
+	</body></text>
+</TEI>

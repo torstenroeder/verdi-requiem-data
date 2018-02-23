@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Hans von Bülow, Brief an Karl Hillebrand, Mailand, 22. Mai 1874</title><author><persName ref="#buelow.hans-von"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/buelow_1874-05-22_brief-an-hillebrandt.xml</p></publicationStmt><sourceDesc><bibl>
+				<placeName ref="#mailand"/>
+				<date when-iso="1874-05-22"/>
+			</bibl><bibl>
+				<title>Briefe. Fünfter Band (Briefe und Schriften 6), Marie von Bülow (Hg.), Leipzig: Breitkopf und Härtel, 1904.</title>
+				<biblScope unit="document">106</biblScope>
+				<biblScope unit="page">180–181</biblScope>
+				<link target="https://archive.org/stream/briefeundschrif01blgoog#page/n231/mode/1up"/>
+				<link target="https://archive.org/stream/briefeundschrif01blgoog#page/n232/mode/1up"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#mailand"/><date when-iso="1874-05-22"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<p rend="right"><hi rend="widespace"><placeName ref="#mailand">Mailand</placeName></hi>, <date when-iso="1874-05-22">22. Mai 1874</date></p>
+		<gap resp="tr"/>
+		<p>Der Artikel (sind deren zwei geworden) für <orgName ref="#allgemeine-zeitung">A. Z.</orgName> hat
+			mir zwei Tage zu schaffen gegeben. Allerlei unerwartete Behelligungen störten mich im
+			Schreiben und machten mich zum nervösesten Katzenonkel. Bin auch leider gar nicht
+			zufrieden mit meinem Elaborate — habe so lange keine Feder in Druckerschwärze getaucht.
+			Muß leider auch fürchten, daß die Redaktion nicht sonderlich erbaut sein wird und meine
+			Mailänder Musikbriefe ungedruckt läßt — was ich auch gar nicht übel nehmen würde.
+			Glauben Sie aber nicht, daß es möglich wäre, mein Manuscript zurückzuerhalten (ich würde
+			es dann für die <orgName ref="#mwb">musikalische Wochenschrift</orgName> verwerthen, für die es
+			immerhin gut genug bleibt)? Wären Sie für diesen Fall einer neuen Aufopferung fährig,
+			nämlich sich — an Ihre Adresse — die Blätter von der Redaktion zurückzuerbitten?
+			Vielleicht druckt man’s übrigens auch.</p>
+		<p>Ich bin sehr erbittert über die Italiäner, habe sie als Gesindel behandelt (verdienen’s
+			auch musikalisch) — habe natürlich trotz syndicaler Einladung heute <rs type="event" ref="#mailand.1874.1">die <persName ref="#verdi.giuseppe">Verdi’sche</persName>
+				<title ref="#verdi.requiem">Messe</title></rs> geschwänzt. Hand in Hand mit dieser
+				<hi rend="antiqua">rabbia</hi> geht natürlich ein starkes <hi rend="antiqua">engouement</hi> für <persName ref="#glinka.michael">Glinka</persName> und Alles, was
+			nach Juchten riecht. Kennen Sie kein nervencalmirendes Mittel? <gap resp="tr"/></p>
+	</body></text>
+</TEI>

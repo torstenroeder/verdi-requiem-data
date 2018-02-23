@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Signale, Leipzig, Mai 1877/35 [1]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/signale_1877-05_35_koeln-1.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#signale" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date cert="low" when-iso="1877-05-30" notAfter-iso="1877-05-30"
+						notBefore-iso="1877-05-23"/>
+					<!--BIBLIO Datierung: frühestens ein Tag nach dem Ende des Musikfestes-->
+					<biblScope unit="issue">35</biblScope><biblScope unit="volume">35</biblScope>
+					<biblScope unit="page">552</biblScope>
+					<link
+						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=554"/>
+					<link
+						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=558"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#koeln"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="548" type="initial"/>
+			<head rend="larger">Dur und Moll.</head>
+			<pb break="null" n="552" type="skipped"/>
+			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+				<hi rend="widespace">Maëstro <hi rend="widespace"><persName ref="#verdi.giuseppe"
+							>Verdi</persName></hi></hi>, welcher aus Anlaß des dort stattfindenden
+					<rs type="event" ref="#koeln.1877">rheinischen Musikfestes</rs> mehre Tage in
+					<placeName ref="#koeln">Köln</placeName> weilte, ist daselbst Gegenstand
+				vielfacher Ovationen gewesen. Das Comité des Musikfestes machte ihm ein
+				Ehrengeschenk mit dem neuen Rhein-Album von Professor <persName
+					ref="#scheuren.caspar">Caspar Scheuren</persName> in <placeName
+					ref="#duesseldorf">Düsseldorf</placeName>.<note resp="tr" type="literatureLink"
+					>Vgl. <persName ref="#scheuren.caspar">Caspar Scheuren</persName>, <ref
+						type="text" target="http://nbn-resolving.de/urn:nbn:de:hbz:061:2-1456">Vom
+						deutschen Rhein. Mit landschaftlichen u. architektonischen Ansichten nebst
+						Illustrationen zu rheinischen Dichtungen, in 50 Blättern. Düsseldorf:
+						Breidenbach &amp; Baumann, 1877</ref>.</note> Der Meister <persName
+					ref="#scheuren.caspar">Scheuren</persName> hat zu diesem Exemplare zwei
+				Titelblätter componirt und ausgeführt. Auf dem Haupttitel sind Ansichen von
+					<placeName ref="#koeln">Köln</placeName> und <placeName ref="#florenz"
+					>Florenz</placeName> in der reizenden leichten Art <persName
+					ref="#scheuren.caspar">Scheuren’scher</persName> Aquarelle, dazwischen und
+				darüber das Bild <persName ref="#verdi.giuseppe">Verdi’s</persName> mit Inschrift
+				seines Namens, seines Geburtsortes und Geburtsjahres, darunter drei Bilder, in der
+				Mitte eines, welches sich auf das „<title ref="#verdi.requiem">Requiem</title>“
+				bezieht, links ein kleines, welches die letzte Scene aus „<title ref="#verdi.aida"
+					>Aïda</title>“ darstellt, und rechts eines bezüglich auf ein <title
+					ref="#verdi.quartetto">Streichquartett</title>
+				<persName ref="#verdi.giuseppe"
+				>Verdi’s</persName>.<!--REFERENZ Aquarell nicht gefunden--> Lichte Blumen-Arabesken,
+				worin musicirende Kinder, umrahmen das Blatt. Das zweite Titelblatt enthält die
+				Widmung mit den Unterschriften, darüber eine Ansicht des <placeName
+					ref="#koeln.guerzenich">Gürzenich-Saales</placeName> und in der
+				Arabesken-Umrahmung die Wappen des <placeName ref="#deutschland">deutschen
+					Reiches</placeName> und des Königreiches <placeName ref="#italien"
+					>Italien</placeName> und der drei zu den Musikfesten verbündeten rheinischen
+				Städte <placeName ref="#koeln">Köln</placeName>, <placeName ref="#aachen"
+					>Aachen</placeName> und <placeName ref="#duesseldorf">Düsseldorf</placeName>. —
+				Der <orgName ref="#koeln.maenner-gesangverein">Kölner Männergesang-Verein</orgName>
+				veranstaltete dem Maëstro zu Ehren eine Liedertafel, an welcher <persName
+					ref="#verdi.giuseppe">Verdi</persName> und <persName ref="#verdi.giuseppina"
+					>dessen Frau</persName> theilnahmen und die glänzend ausfiel. <persName
+					ref="#verdi.giuseppe">Verdi</persName> ließ dem Verein seinen herzlichen Dank
+				aussprechen. Er habe, äußerte er, schon sehr viele Ehrenbezeigungen in der Welt
+				erfahren, allein einen Empfang, wie <placeName ref="#koeln">Köln</placeName> ihm
+				biete, habe er noch nicht erlebt. Dann müsse er auch gestehen daß die Leistungen des
+				Vereins Alles überträfen, was er je auf dem Gebiete des Männergesanges gehört.</p>
+		</body>
+	</text>
+</TEI>

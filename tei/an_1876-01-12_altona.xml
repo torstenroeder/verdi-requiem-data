@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Altonaer Nachrichten, 12. Januar 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/an_1876-01-12_stadt-theater.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#altonaer-nachrichten" role="publisher"/>
+				<placeName ref="#altona"/>
+				<date when-iso="1876-01-12" when-custom="wed"/>
+				<biblScope unit="issue">9</biblScope><series>an</series>
+				<biblScope unit="page">6</biblScope>
+				<link target="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000117667825?page=6"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#hamburg"/></creation><textClass><keywords><term type="textType">Anzeige</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur"><cb break="null" n="6d" type="initial"/>
+<head rend="larger"><placeName ref="#hamburg.stadt-theater">Stadt-Theater</placeName></head>
+<head>in <placeName ref="#hamburg">Hamburg</placeName>.</head>
+<p rend="center"><rs type="event" ref="#hamburg.1876.2"> <date when-iso="1876-01-12">Mittwoch, den 12. Januar</date> (4. Vorstellung mit Aufgehobenem Abonnement.)</rs></p>
+<p rend="center"><hi rend="bold">Zum Besten des Orchesterpersonals.</hi></p>
+<p rend="center">Zum zweiten Male:<lb break="yes"/><hi rend="widespace bold antiqua larger"><title ref="#verdi.requiem">Requiem</title></hi><lb break="yes"/>von <persName ref="#verdi.giuseppe"><sic>Guiseppe</sic> Verdi</persName>.<lb break="yes"/>(Zum Todestage <persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName> componirt.)</p>
+<p><hi rend="widespace">Soli</hi>: Frl. <hi rend="bold"><persName ref="#froehlich.xxx" role="soloist.soprano">Fröhlich</persName></hi> (Sopran), Frl. <hi rend="bold"><persName ref="#boree.minna" role="soloist.mezzo">Bor<hi rend="antiqua">é</hi>e</persName></hi> (Mezzo-Sopran), Hr. <hi rend="bold"><persName ref="#candidus.william" role="soloist.tenor">Candidus</persName></hi> (Tenor), Hr. <hi rend="bold"><persName ref="#koegel.josef" role="soloist.basso">Kögel</persName></hi> (Baß).</p>
+<p><hi rend="widespace">Chor</hi>: 120 Mitwirkende.</p>
+<p><hi rend="widespace">Instrumentale</hi>: Das auf 72 Musiker verstärkte Orchester des Stadttheaters.</p>
+<p><hi rend="widespace">Dirigent</hi>: Herr Capellmeister <hi rend="antiqua"><persName ref="#fuchs.johann-nepomuk">Fuchs</persName></hi>.</p>
+<p>Vorher: 1) <title ref="#weber.euryanthe.ouvertuere">Ouverture aus <hi rend="bold">Euryanthe</hi></title>, von <persName ref="#weber.carl-maria-von" role="composer">C. M. von Weber </persName>. 2) <title ref="#hiller.die-zerstoerung-jerusalems">Duett aus: <hi rend="bold">Die Zerstörung Jerusalems</hi></title> von <persName ref="#hiller.ferdinand" role="composer">Hiller</persName>. (Ach wär mein Haupt eine Wasserquelle, gesungen von Frl. <persName ref="#boree.minna" role="soloist">Bor<hi rend="antiqua">é</hi>e</persName> u. Herrn <persName ref="#mathias.xxx" role="soloist">Mathias</persName>.) 3) <title ref="#schumann.ritornelle-in-canonischen-weisen"><hi rend="bold">Drei Ritornelle,</hi> für mehrstimmigen Männergesang</title>, v. <persName ref="#schumann.robert" role="composer">Schumann</persName> <gap resp="tr"/>. 4) Duett aus dem 3. Theil: <hi rend="bold"><title ref="#haydn.die-schoepfung">Die Schöpfung</title></hi>, von <persName ref="#haydn.joseph">Haydn</persName>, gesungen von Fr. <persName ref="#otto-alvsleben.melitta" role="soloist">Otto-Alvsleben</persName> (Eva) und Herrn <persName ref="#krueckl.franz" role="soloist">Krückl</persName> (Adam).</p>
+<p rend="center">Große Preise. Anfang 7 Uhr.</p>
+</body></text>
+</TEI>

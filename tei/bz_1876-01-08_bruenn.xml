@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Brünner Zeitung, 8. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/bz_1876-01-08_bruenn.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#bruenner-zeitung" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1876-01-08"/>
+					<series>bz</series>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Kunst, Wissenschaft und Literatur.</head>
+			<p><g type="WHITE_UP-POINTING_TRIANGLE" n="25B3">△</g>
+				<rs type="event" ref="#bruenn.1876.2"><hi rend="bold"><placeName ref="#bruenn"
+							>Brünn</placeName></hi>, <date when-iso="1876-01-08">8. Jänner</date>.
+						(<hi rend="widespace"><title ref="#verdi.requiem">Requiem</title> von
+							<persName ref="#verdi.giuseppe">G. Verdi</persName></hi>.) Die zweite
+					Aufführung dieses sensationellen Tonwerkes fand am <date when-iso="1876-01-06"
+						>6. d. M.</date> vor einem sehr zahlreichen Publicum statt und fand eine
+					überaus warme Aufnahme.</rs> Man darf sagen, daß diese zweite Aufführung eine
+				viel gerundetere und correctere war als die <rs type="event" ref="#bruenn.1876.1"
+					>erste</rs> und daß die einzelnen Solos und Chöre eine nachhaltigere Wirkung
+				erzielten. Wir erwähnen des <hi rend="antiqua"><title ref="#verdi.requiem.2">„Dies
+						irae“</title></hi>, sowie des Chores <hi rend="antiqua"><title
+						ref="#verdi.requiem.2.tuba-mirum">„Tuba mirum“</title></hi>, welches den
+				bedeutendsten Effect hervorbrachte. Das eigenthümlich angelegte <hi rend="antiqua"
+						><title ref="#verdi.requiem.5">„Agnus Dei“</title></hi> mußte abermals
+				wiederholt werden. Frau <hi rend="widespace"><persName
+						ref="#gompertz-bettelheim.karoline-von" role="soloist.mezzo"
+						>Gompertz-Bettelheim</persName></hi> bewährte neuerdings ihre vollendete
+				Meisterschaft auf das Glänzendste unter dem Applaus des gesammten Auditoriums. Frl.
+					<hi rend="widespace"><persName ref="#will.julie" role="soloist.soprano"
+						>Will</persName></hi> brillierte durch ihre Stimmmittel und entfaltete
+				überall ein feines, musikalisches Verständniß. Mit aller Anerkennung ist abermals
+				der trefflichen Leistungen der Herren <hi rend="widespace"><persName
+						ref="#krejci.friedrich" role="soloist.tenor">Krejči</persName></hi> und <hi
+					rend="widespace"><persName ref="#curiel.xxx" role="soloist.basso"
+						>Curiel</persName></hi> zu erwähnen. Die Ausführung der Chöre, welche
+				letzthin so Manches zu wünschen übrig ließ, war diesmal besonders präcise und
+				gleichmäßig, und verdient vollen Beifall, der auch vom Publicum in reichem Maße
+				gespendet wurde. Die kräftige und umsichtige Leitung von Seite des Hrn.
+				Musikdirectors <persName ref="#kitzler.otto">Kitzler</persName>, der mit
+				Begeisterung und Hingebung seiner schwierigen Aufgabe sich entledigte, muß speciell
+				und mit höchstem Lobe gedacht werden. Wie gesagt, das musikalische Publicum hatte an
+				dieser wiederholten Aufführung des <title ref="#verdi.requiem">Requiems</title>
+				einen durchaus unverkümmerten Genuß.</p>
+		</body>
+	</text>
+</TEI>

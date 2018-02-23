@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Grazer Volksblatt, 31. Oktober 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/gvb_1875-10-31_graz.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#grazer-volksblatt" role="publisher"/>
+				<placeName ref="#graz"/>
+				<date when-iso="1875-10-31"/>
+				<biblScope unit="issue">250</biblScope><biblScope unit="volume">8</biblScope><series>gvb</series>
+				<biblScope unit="page">4</biblScope>
+				<link facs="gvb_1875-10-31_4.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=gre&amp;datum=18751031&amp;seite=4"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#graz"/></creation><textClass><keywords><term type="textType">Anzeige</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger"><placeName ref="#graz.landes-theater">Landes-Theater</placeName> in <placeName ref="#graz">Graz</placeName>.</head>
+		<gap resp="tr"/>
+		<p rend="center"><rs type="event" ref="#graz.1875.1 graz.1875.2"><date when-iso="1875-11-01"
+						>Morgen Montag den 1.</date> und <date when-iso="1875-11-02">Dienstag den 2.
+						November</date>,<lb break="yes"/>beide Male<lb break="yes"/><hi
+						rend="bold widespace">Nachmittags 4 Uhr:</hi><lb break="yes"/><hi
+						rend="larger"><title ref="#verdi.requiem">Requiem</title></hi><lb
+						break="yes"/>von <persName ref="#verdi.giuseppe">Giuseppe
+						Verdi</persName>.<lb break="yes"/><hi rend="bold">Soli:</hi> Frl. <persName
+						ref="#groedinger.xxx">Grödinger</persName>, Frl. <persName ref="#haeckl.xxx"><choice>
+							<orig>Höckl</orig>
+							<corr resp="tr">Häckl</corr>
+						</choice></persName>, Frl, <persName ref="#renee.xxx">Renee</persName>, Frl.
+						<persName ref="#rubin.xxx">Rubin</persName>, Fr. <persName
+						ref="#storch-zoder.xxx">Storch-Zoder</persName>, Frl. <persName
+						ref="#tomsa.xxx">Tomsa</persName>, Frl. <persName ref="#topolanski.emma"
+						>Topolanski</persName>, Fr. <persName ref="#treiber.xxx">Treiber</persName>.
+					Die Herren: <persName ref="#beck.joseph">Beck</persName>, <persName
+						ref="#grengg.karl">Grengg</persName>, <persName ref="#moedlinger.ludwig"
+						>Mödlinger</persName>, <persName ref="#puls.albert">Puls</persName>,
+						<persName ref="#stoll.august">Stoll</persName>, <persName ref="#schwarz.xxx"
+						>Schwarz</persName>. </rs></p>
+	</body></text>
+</TEI>

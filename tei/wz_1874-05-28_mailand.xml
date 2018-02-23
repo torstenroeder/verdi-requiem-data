@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader><fileDesc><titleStmt><title>Wiener Zeitung, 28. Mai 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wz_1874-05-28_mailand.xml</p></publicationStmt><sourceDesc><bibl>
+                <orgName ref="#wiener-zeitung" role="publisher"/>
+                <placeName ref="#wien"/>
+                <date when-iso="1874-05-28" when-custom="thu"/>
+                <biblScope unit="issue">120</biblScope><biblScope unit="subIssue">120</biblScope><series>wz</series>
+                <biblScope unit="page">955 [3]</biblScope>
+                <link facs="wap_1874-05-28_955.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740528&amp;seite=11"/>
+            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#mailand"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+    <text xml:lang="de"><body rend="fraktur">
+        <cb break="null" n="954c" type="initial"/>
+        <head rend="larger">Kleine Chronik.</head>
+        <p rend="smaller center"><hi rend="bold"><placeName ref="#wien">Wien</placeName>,</hi>
+            <date when-iso="1874-05-28">28. Mai</date>.</p>
+        <cb break="null" n="955b" type="skipped"/>
+        <p>(<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Requiem</title></hi>.) <rs type="event" ref="#mailand.1874">Das von <persName ref="#verdi.giuseppe">Verdi</persName> componirte <title ref="#verdi.requiem">Requiem</title> wurde zu <placeName ref="#mailand">Mailand</placeName> nunmehr auch im <placeName ref="#mailand.teatro-alla-scala">Theater Scala</placeName> am <date when-iso="1874-05-26">26. Mai</date> gegeben.</rs> Ein der „<orgName ref="#gazzetta-di-venezia">Gazzetta di Venezia</orgName>“ zugegangenes Telegramm meldet: „Vollständiger unbeschreiblicher Triumph. Drei Nummern wiederholt, stürmischer Beifall nach jedem Stück. Das enthusiasmirte Publicum schwang Hüte und Taschentücher unter dem lauten Zurufe: <hi rend="antiqua">Viva Verdi</hi>. Vortreffliche Aufführung. Einnahme 18.000 Lire. <persName ref="#verdi.giuseppe">Verdi</persName> erhielt eine Lorbeerkrone.“ Man sieht, daß die geräuschvollen Manifestationen des <persName ref="#wagner.richard">Wagner</persName>-Enthusiasmus in <placeName ref="#deutschland">Deutschland</placeName> zu Ehren <persName ref="#verdi.giuseppe">Verdi’s</persName> ihr Gegenbild in <placeName ref="#italien">Italien</placeName> gefunden haben und daß ihn dort, wie es scheint, die musikalisch-nationale Partei den Erfolgen, welche <persName ref="#wagner.richard">Wagner</persName> auch in <placeName ref="#italien">Italien</placeName> errungen, entgegenstellen will.</p>
+    </body></text>
+</TEI>

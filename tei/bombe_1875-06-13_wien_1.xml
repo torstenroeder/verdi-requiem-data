@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Bombe, Wien, 13. Juni 1875 [1]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/bombe_1875-06-13_heiter-ist-die-kunst.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#die-bombe" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-13"/>
+					<biblScope unit="issue">23</biblScope><biblScope unit="volume"
+						>5</biblScope><series>bombe</series>
+					<biblScope unit="page">94</biblScope>
+					<link facs="bombe_1875-06-13_94.png"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750613&amp;seite=2"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Satire</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="14"/>
+			<head rend="antiqua bold larger">Heiter ist die Kunst.</head>
+			<p>Bei der nächsten Reprise des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
+				<title ref="#verdi.requiem">Requiems</title> wird, um den feierlich düstern Eindruck
+				zu verstärken, außer den schwarzgeränderten Mullkleidern der Choristinnen noch
+				folgender Apparat zur Verwendung kommen:</p>
+			<p>Anstatt des Gefrornen wird in den Pausen schwarzer Kaffee von echten Mohren
+				servirt.</p>
+			<p>Die Trommeln und Pauken durchwegs mit Flor überzogen.</p>
+			<p>In Logen und Parterre werden zwischen die <hi rend="widespace">Kreuze</hi> des
+				uniformierten Publicums ausgemusterte Ballerinen vertheilt, übertünchte Gräber, um
+				an die Vergänglichkeit alles Irdischen zu mahnen.</p>
+			<p>Statt der Journalistik werden Mitglieder der Leichenbestattungsgesellschaft
+				»Concordia« eingeladen, die Pflicht der Kritik zu üben.</p>
+			<p>Um aber die Stimmung nicht gar durch zerstreuende Eindrücke abzuschwächen, bleibt der
+				Theatersaal während des ganzen Abends unbeleuchtet.</p>
+		</body>
+	</text>
+</TEI>

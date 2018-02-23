@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>St. Galler-Zeitung, 15. April 1878</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/sgz_1878-04-15_st-gallen.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#st-galler-zeitung"/>
+				<placeName ref="#st-gallen"/>
+				<date when-iso="1878-04-15" when-custom="mon"/>
+				<biblScope unit="issue">89</biblScope><series>sgz</series>
+				<biblScope unit="page">355</biblScope>
+				<link target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=5C259F3B&amp;href=SGZ%2F1878%2F04%2F15&amp;page=3"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#st-gallen"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="355b" type="initial"/>
+		<head rend="larger"><placeName ref="#st-gallen">St. Gallen</placeName>.</head>
+		<p>— <hi rend="widespace"><hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi>
+				von <persName ref="#verdi.giuseppe">Verdi</persName></hi>. Die Schrecken des jüngsten
+			Gerichtes sind ein Thema, welches der Phantasie ein außerordentlich fruchtbares und
+			dankbares Feld bietet; es ist d’rum auch sehr natürlich, daß sich die <hi rend="widespace">Kunst</hi> desselben von jeher mit Vorliebe bemächtigte. Man denke
+			nur der genialen Schöpfungen, welche die <hi rend="widespace">Malerei</hi> über diesen
+			Gegenstand aufzuweisen hat — von <persName ref="#buonarroti.michelangelo">Michelangelo</persName> bis zu <persName ref="#rubens.peter-paul">Rubens</persName> und
+				<persName ref="#cornelius.peter">Kornelius</persName>! In noch höherm Grade indeß stehen
+			der Musik die Mittel zu Gebote , das Gemüth zu erfüllen mit den Schauern, welche die
+			Majestät des Weltenrichters ausgießt über alles Fleisch... <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.requiem">Requiem</title> ist diesfalls voll der großartigsten,
+			überraschendsten, packendsten Effekte; es sind wahre Wunder der Instrumentation, die an
+			unserm Geiste vorüberziehen; wie gewaltig, wie erschütternd, Mark und Bein durchdringend
+			fällt z. B. nach dem herrlichen <hi rend="antiqua">„<title ref="#verdi.requiem.1" n="kyrie">Kyrie eleyson</title>“</hi> das <hi rend="antiqua">„<title ref="#verdi.requiem.2.dies-irae">Dies iræ, dies illa solvet saeclum in favilla.
+					Teste David cum Sibylla</title>“</hi> ein; wie einzigartig erhaben gedacht und
+			dargestellt ist das Herannahen des letzten Gerichtes mit dem Posaunenklang, welcher die
+			Gräberhallen sprengt: <hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba
+					mirum spargens sonum — Per sepulcra regionum. Coget omnes ante
+				thronum!</title></hi> Und dann daneben wieder die bange Furcht des um Gnade und
+			Barmherzigkeit flehenden Meschenkindes, die mitten in aller Angst sieghaft aufflammende
+			Hoffnung und Zuversicht: <hi rend="antiqua"><title ref="#verdi.requiem.2.ingemisco" n="qui-mariam">Qui Mariam absolvisti, Et latronem ex
+					audisti, Mihi quoque spem dedisti.</title></hi></p>
+		<p>Und endlich am Schlusse jener gigantische, überwältigende Kontrast, der auf die
+			Schilderung des Schreckenstages, „des furchtbaren Tages, der da kommt, die Menschheit zu
+			verdammen zu Feuerqualen“, wieder das <hi rend="antiqua"><title ref="#verdi.requiem.7" n="requiem-aeternam">Requiem</title></hi> folgen läßt: <hi rend="antiqua"><title ref="#verdi.requiem.7" n="requiem-aeternam">Requiem æternam dona
+					eis, Domine, et lux perpetua luceat eis!</title></hi> Unvergeßlich prägen sich
+			solche Inspirationen des Genius dem Gemüthe ein.</p>
+		<p>Wir fühlen uns nicht berufen, in eine detaillirte Besprechung des wunderbaren Tonwerkes
+			einzugehen; es wird das Sache musikalischer Fachmänner sein. Unsern warmen, aufrichtigen
+			Dank aber wollen wir anläßlich allen Denjenigen aussprechen, welche dem von nah und fern
+			in dichten Schaaren herbeigeströmten Auditorium diesen herrlichen Genuß bereitet haben:
+			den mitwirkenden Künstlern, dem Orchester, und nicht zum wenigsten, dem „<orgName ref="#st-gallen.antlitz">Antlitz</orgName>“ und dessen Dirigenten.</p>
+	</body></text>
+</TEI>

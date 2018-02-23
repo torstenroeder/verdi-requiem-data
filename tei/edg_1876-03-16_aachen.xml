@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Echo der Gegenwart, Aachen, 16. März 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/edg_1876-03-16_abonnementconcert.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#echo-der-gegenwart" role="publisher"/>
+					<placeName ref="#aachen"/>
+					<date when-iso="1876-03-16" when-custom="thu"/>
+					<biblScope unit="issue">76</biblScope><biblScope unit="subIssue"
+						>76</biblScope><series>edg</series>
+					<biblScope unit="page">[3]</biblScope>
+					<link facs="edg_1876-03-16.png"
+						target="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/zoom/2661369"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#aachen"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Anzeige</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger"><date when-iso="1876-03-16" when-custom="thu">Donnerstag den 16.
+					März</date>:<lb break="yes"/>
+				<hi rend="lineale"><rs type="event" ref="#aachen.1876.1">VI.
+					Abbonementsconcert,</rs></hi><lb break="yes"/> im großen Kurhaussaale, unter<lb
+					break="yes"/> Leitung des städtischen Musik<lb break="no"/>direktors Herrn
+					<persName ref="#breunung.ferdinand">Breunung</persName>.</head><lg>
+			<head rend="widespace">Programm:</head>
+			<l rend="hanging">1. <title ref="#gluck.iphigenie-en-aulide.ouverture">Ouverture zu Iphigenie in
+						Aulis</title> von <persName ref="#gluck.christoph-willibald"
+						>Gluck</persName>.</l><l rend="hanging">2. <title ref="#verdi.requiem">Requiem</title> für Solostimmen, Chor und Orchester
+					von <persName ref="#verdi.giuseppe">G. Verdi</persName> (zum 1. Mal)</l>
+				<l><hi rend="widespace">Solisten:</hi></l><l rend="hanging">1. Frau <persName ref="#lederer-ubrich.asminde">Asminde Lederer-Ubrich</persName>,
+					Königl. Kammersängerin, Sopran,</l><l rend="hanging">2. Frl. <persName ref="#keller.elsa">Elsa Keller</persName>, Opernsängerin aus
+						<placeName ref="#koeln">Köln</placeName>, Mezzo-Sopran,</l><l rend="hanging">3. Herr Professor <persName ref="#schneider.carl">Carl Schneider</persName> aus
+						<placeName ref="#koeln">Cöln</placeName>, Tenor,</l><l rend="hanging">4. Herr <persName ref="#pfeiffer.xxx">H. Pfeiffer</persName>, Opernsänger aus
+						<placeName ref="#duesseldorf">Düsseldorf</placeName>, Baß.</l><l>Einzelkarten à 4 Mark sind Abends
+				an der Kasse zu haben.</l><l rend="center">Anfang präcise halb sieben Uhr.</l>
+			</lg>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Ostschweiz, St. Gallen, 16. April 1878</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/os_1878-04-16_st-gallen.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#die-ostschweiz" role="publisher"/>
+				<placeName ref="#st-gallen"/>
+				<date when-iso="1878-04-16" when-custom="tue"/>
+				<biblScope unit="issue">89</biblScope><biblScope unit="volume">5</biblScope><series>os</series>
+				<biblScope unit="page">2</biblScope>
+				<link target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=2DB1600D&amp;href=OSZ%2F1878%2F04%2F16&amp;page=2"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#st-gallen"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="2c" type="initial"/>
+		<head rend="larger"><placeName ref="#st-gallen">St. Gallen</placeName>.</head>
+		<p>— <hi rend="widespace">Stadt</hi>. <rs type="event" ref="#st-gallen.1878.1">Am <date>Palmsonntag</date> wurde mit durchschlagendem Erfolge unter der Direktion des Hrn. <hi rend="widespace"><persName ref="#bogler.xxx">Bogler</persName></hi> durch die <orgName ref="#st-gallen.antlitz">Antlitzgesellschaft</orgName> unter Mitwirkung trefflicher fremder Kräfte <persName ref="#verdi.giuseppe">Verdi’s</persName> <hi rend="widespace antiqua"><title ref="#verdi.requiem">Requiem</title></hi> aufgeführt.</rs></p>
+	</body></text>
+</TEI>

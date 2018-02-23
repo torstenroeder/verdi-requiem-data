@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Prager Abendblatt, 7. März 1876 [1]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/pab_1876-03-07_vom-deutschen-landestheater.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#prager-abendblatt" role="publisher"/>
+					<placeName ref="#prag"/>
+					<date when-iso="1876-03-07" when-custom="tue"/>
+					<biblScope unit="issue">54</biblScope><biblScope unit="volume"
+						>?</biblScope><series>pab</series>
+					<biblScope unit="page">3</biblScope>
+					<link facs="pab_1876-03-07_3.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760307&amp;seite=3"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#prag"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<p><hi rend="bold"><g type="ASTERISM" n="2042">⁂</g></hi>
+				<hi rend="bold">Vom <placeName ref="#prag.staendetheater">deutschen
+						Landestheater</placeName>.</hi>
+				<gap resp="tr"/>
+				<rs type="event" ref="#prag.1876.4"><persName ref="#verdi.giuseppe"
+						>Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> wird heute zum letztenmal
+					aufgeführt</rs>, die Partitur und Stimmen gehen mittelst Rückkauf an <orgName
+					ref="#ricordi"><sic>Riccordi</sic></orgName> nach <placeName ref="#mailand"
+					>Mailand</placeName>
+				<gap resp="tr"/></p>
+		</body>
+	</text>
+</TEI>

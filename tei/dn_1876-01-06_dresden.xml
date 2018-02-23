@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dresdner Nachrichten, 6. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/dn_1876-01-06_feuilleton.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#dresdner-nachrichten" role="publisher"/>
+					<placeName ref="#dresden"/>
+					<date when-iso="1876-01-06" when-custom="thu"/>
+					<biblScope unit="issue">6</biblScope><biblScope unit="volume"
+						>21</biblScope><series>dn</series>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#dresden"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Feuilleton.</head>
+			<gap resp="tr"/>
+			<p><g type="DAGGER" n="2020">†</g> Die Proben zu <hi rend="widespace"><persName
+						ref="#verdi.giuseppe">Verdi’s</persName></hi> schönem <title
+					ref="#verdi.requiem">Requiem</title> sind in vollem Gange. Von einer
+				Orchesteraufstellung auf der Bühne wird wohl Abstand genommen werden, um für die
+				Chorstimmen eine vollere Wirkung zu erzielen. Das Orchester klingt an seinem
+				gewohnten Ort gut und wenn man ein nicht zu tiefes, möglichst geschlossenes Zimmer
+				auf der Bühne für den Chor und die Solisten einrichtet, das man dem Zwecke
+				entsprechend einfach und ernst decoriren kann, so ist unserer Meinung nach die Frage
+				am praktischsten gelöst. Eine für die Stimmen ganz geeignete <hi rend="widespace"
+					>völlig geschlossene</hi> Saaldecoration besitzt das <placeName
+					ref="#dresden.hoftheater">Interimstheater</placeName> nicht.</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Bombe, Wien, 20. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/bombe_1875-06-20_dona-nobis-requiem.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#die-bombe" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-20"/>
+					<biblScope unit="issue">24</biblScope><biblScope unit="volume"
+						>5</biblScope><series>bombe</series>
+					<biblScope unit="page">98</biblScope>
+					<link facs="bombe_1875-06-20_98.png"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750620&amp;seite=2"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Satire</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="98"/>
+			<head rend="antiqua bold widespace larger">„Dona nobis requiem!“</head>
+			<head rend="smaller">Ein profanes Couplet mit heiligem Refrain.</head>
+			<lg>
+				<l><hi rend="antiqua">Bravo! Bravi! Bis! Bis! Fuora!</hi></l>
+				<l>Also gleich der wilden Bora</l>
+				<l>Rast der Enthusiast verzückt,</l>
+				<l>Der weitöfter in die Thora</l>
+				<l>Als in’s Evangelium blickt.</l>
+				<l>Jüngling aus Jerusalem —</l>
+				<l><hi rend="antiqua">Dona nobis requiem.</hi></l>
+				<l rend="right"><persName ref="#verdi.giuseppe">Verdi</persName> und sein Quartett.</l>
+			</lg>
+			<lg>
+				<l>Lass’, Distanzfex, schon genug sein</l>
+				<l>Deines grauen Spiels! Im Flug sein</l>
+				<l>Sollen wieder in <placeName ref="#paris">Paris</placeName>.</l>
+				<l>Sechs Fiaker und „zaruck“ sein,</l>
+				<l>Denk, o Fex, die Ruh’ is süß</l>
+				<l>Bei der Hitz’ und angenehm —</l>
+				<l><hi rend="antiqua">Dona nobis requiem.</hi></l>
+				<l rend="right">Die Pferde.</l>
+			</lg>
+			<lg>
+				<l>Heil’ger Vater, dreißig Jahre</l>
+				<l>Trägst du jetzo die Tiare</l>
+				<l>Wann wird’s Fluchen eingestellt?</l>
+				<l>Denk’ an deine weißen Haare,</l>
+				<l>Mache Frieden mit der Welt,</l>
+				<l>Pensionir’ das Anathem —</l>
+				<l><hi rend="antiqua">Dona nobis requiem.</hi></l>
+				<l rend="right">Die böse Welt.</l>
+			</lg>
+			<lg>
+				<l>Und es spricht der Herr von Koller:</l>
+				<l>Friedensgarantien sind Holler,</l>
+				<l>Vivat, Herr Achatius!</l>
+				<l>Nur so lange, Hohenzoller,</l>
+				<l>Bis den Herr’n versagt kein Schuß</l>
+				<l>Nach dem neuesten System —</l>
+				<l><hi rend="antiqua">Dona nobis requiem.</hi></l>
+				<l rend="right">Oesterreich.</l>
+			</lg>
+			<lg>
+				<l>Attentäter, Diplomaten</l>
+				<l>wollen gerne schon im Schatten</l>
+				<l>Von den Jahres Arbeit ruh’n;</l>
+				<l>Darum fütt’re auf den Matten,</l>
+				<l><persName ref="#bismarck.otto-von">Bismarck</persName>, in Parzin dein Ruhn.</l>
+				<l>Trink’ der eig’nen Sahne Crême —</l>
+				<l><hi rend="antiqua">Dona nobis requiem.</hi></l>
+				<l rend="right">Die Leitartikler.</l>
+			</lg>
+		</body>
+	</text>
+</TEI>

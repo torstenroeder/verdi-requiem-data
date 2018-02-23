@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AmZ, Leipzig, 24. Oktober 1877</title>
+				<author><persName ref="#lindgren.adolf"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/amz_1877-10-24_stockholm.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#amz" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1877-10-24"/>
+					<biblScope unit="issue">43</biblScope><biblScope unit="volume">12</biblScope>
+					<biblScope unit="column">677–681</biblScope>
+					<link facs="amz_1877-10-24_677-678.jpg"
+						target="https://archive.org/stream/bub_gb_DGMPAAAAYAAJ#page/n351/mode/2up"/>
+					<link facs="amz_1877-10-24_679-680.jpg"
+						target="https://archive.org/stream/bub_gb_DGMPAAAAYAAJ#page/n351/mode/2up"/>
+					<link facs="amz_1877-10-24_681-682.jpg"
+						target="https://archive.org/stream/bub_gb_DGMPAAAAYAAJ#page/n353/mode/2up"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#stockholm"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<cb break="null" n="677" type="initial"/>
+			<head rend="bold larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title>.</head>
+			<head>Von <persName ref="#lindgren.adolf"><hi rend="bold">Dr. A.
+					Lindgren</hi></persName> in <placeName ref="#stockholm">Stockholm</placeName>.
+				*)</head>
+			<p rend="smaller">*) Nachdem anlässlich der <rs type="event"
+					ref="#muenchen.1875 koeln.1875"><placeName ref="#muenchen">Münchener</placeName>
+					und <placeName ref="#koeln">Cölner</placeName> Aufführungen</rs> hier früher
+				eingehende Besprechungen dieses <title ref="#verdi.requiem">Requiem</title>
+				mitgetheilt wurden, wird man auch eine Stimme vom Auslande, nämlich die des
+				musikalischen Referenten des »Aftonbladet« in <placeName ref="#stockholm"
+					>Stockholm</placeName>, sicherlich mit Interesse anhören. Wir bemerken noch,
+				dass der Herr Verfasser den Aufsatz direct für unser Blatt geschrieben hat. D.
+				Red.</p>
+			<p>Diese berühmte <title ref="#verdi.requiem">Seelenmesse</title>, <rs type="event"
+					ref="#mailand.1874.1">welche das erste Mal am <date when-iso="1876-05-22">22.
+						Mai des Jahres 1874</date>, dem ersten Jahrestage des Todes <persName
+						ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>, in der Kirche
+						<placeName ref="#mailand.san-marco">San Marco in Mailand</placeName>
+					aufgeführt wurde</rs>, hat in der kurzen Zeit von nicht ganz drei Jahren eine
+				ausserordentliche Verbreitung gewonnen, von deren Ausdehnung und Geschwindigkeit man
+				erst dann einen Begriff erhält, wenn man bedenkt, dass sie noch in demselben Jahre
+					(<date when-iso="1874">1874</date>) den Weg nach <rs type="event"
+					ref="#paris.1874"><placeName ref="#paris">Paris</placeName></rs>, <date
+					when-iso="1875">1875</date> nach <rs type="event" ref="#florenz.1875"><placeName
+						ref="#florenz">Florenz</placeName></rs>, <rs type="event" ref="#london.1875"
+						><placeName ref="#london">London</placeName></rs>, <rs type="event"
+					ref="#wien.1875"><placeName ref="#wien">Wien</placeName></rs>, <rs type="event"
+					ref="#venedig.1875"><placeName ref="#venedig">Venedig</placeName></rs>, <rs
+					type="event" ref="#muenchen.1875"><placeName ref="#muenchen"
+					>München</placeName></rs>, <rs type="event" ref="#triest.1875"><placeName
+						ref="#triest">Triest</placeName></rs>, <rs type="event" ref="#graz.1875"
+						><placeName ref="#graz">Graz</placeName></rs>, <rs type="event"
+					ref="#buenos-aires.1875"><placeName ref="#buenos-aires"
+					>Buenos-Ayres</placeName></rs>, <rs type="event" ref="#bruessel.1875"><placeName
+						ref="#bruessel">Brüssel</placeName></rs>, <rs type="event"
+					ref="#antwerpen.1875"><placeName ref="#antwerpen">Antwerpen</placeName></rs>,
+					<rs type="event" ref="#gent.1875"><placeName ref="#gent">Gent</placeName></rs>
+				und <rs type="event" ref="#luettich.1875"><placeName ref="#luettich"
+						>Lüttich</placeName></rs>, <date when-iso="1876">1876</date> nach <rs
+					type="event" ref="#leipzig.1876"><placeName ref="#leipzig"
+					>Leipzig</placeName></rs>, <rs type="event" ref="#hamburg.1876"><placeName
+						ref="#hamburg">Hamburg</placeName></rs>, <rs type="event"
+					ref="#dresden.1876"><placeName ref="#dresden">Dresden</placeName></rs>, <rs
+					type="event" ref="#bruenn.1876"><placeName ref="#bruenn">Brünn</placeName></rs>,
+					<rs type="event" ref="#st-petersburg.1876"><placeName ref="#st-petersburg"
+						>Petersburg</placeName></rs>, <rs type="event" ref="#moskau.1876"><placeName
+						ref="#moskau">Moskau</placeName></rs>, <rs type="event"
+					ref="#rio-de-janeiro.1876"><placeName ref="#rio-de-janeiro">Rio de
+						Janeiro</placeName></rs>, <rs type="event" ref="#warschau.1876"><placeName
+						ref="#warschau">Warschau</placeName></rs>, <rs type="event"
+					ref="#elberfeld.1876"><placeName ref="#elberfeld">Elberfeld</placeName></rs>,
+					<rs type="event" ref="#schwerin.1876"><placeName ref="#schwerin"
+						>Schwerin</placeName></rs>, <rs type="event" ref="#parma.1876"><placeName
+						ref="#parma">Parma</placeName></rs>, <rs type="event" ref="#pest.1875"
+						><placeName ref="#pest">Pest</placeName></rs><note resp="tr"
+					type="eventCommentary">Die Aufführung in Pest hatte bereits 1875
+					stattgefunden.</note>, <rs type="event" ref="#breslau.1876"><placeName
+						ref="#breslau">Breslau</placeName></rs>, <rs type="event" ref="#bremen.1876"
+						><placeName ref="#bremen">Bremen</placeName></rs>, <rs type="event"
+					ref="#prag.1876"><placeName ref="#prag">Prag</placeName></rs>, <rs type="event"
+					ref="#salzburg.1876"><placeName ref="#salzburg">Salzburg</placeName></rs>, <rs
+					type="event" ref="#manchester.1876"><placeName ref="#manchester"
+						>Manchester</placeName></rs>, <rs type="event" ref="#heilbronn.1876"
+						><placeName ref="#heilbronn">Heilbronn</placeName></rs> und <rs type="event"
+					ref="#weimar.1876"><placeName ref="#weimar">Weimar</placeName></rs>, und nun im
+				Jahre <date when-iso="1877">1877</date> nach <rs type="event" ref="#stockholm.1877"
+						><placeName ref="#stockholm">Stockholm</placeName></rs> gefunden hat. Von
+					<placeName ref="#manchester">Manchester</placeName> bis <placeName
+					ref="#florenz">Florenz</placeName>, von <placeName ref="#moskau"
+					>Moskau</placeName> bis <placeName ref="#rio-de-janeiro">Rio</placeName>! —
+				Einer solchen ungewöhnlichen Ausbreitung eines Werkes müssen unbedingt auch
+				ausserordentliche Eigenschaften desselben entsprechen und dürfte derjenige, der
+					<persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> kennen lernt, sich auch bald überzeugen,
+				dass dieselben nicht nur in einem zufälligen Kitzel des modernen, launenhaften
+				Geschmackes bestehen‚ sondern dass dieses Werk die reife und edle Kunstschöpfung
+				eines Mannes ist, welcher selbst in seinen Verirrungen noch bedeutend genug sein
+				möchte, um Italiens sinkender Musik die uralte Popularität durch Decennien hindurch
+				einsam erhalten zu können, ja, welcher mit seinen letzten Arbeiten sogar gezeigt
+				hat, dass er dieselbe noch zu erhöhen vermag.</p>
+			<p>Eine katholische Seelenmesse (nach dem Anfangsworte Requiem genannt) besteht
+				gewöhnlich aus fünf Abtheilungen, zwischen welchen die gottesdienstliche Handlung
+				vor sich geht. Dass <persName ref="#verdi.giuseppe">Verdi</persName> nicht weniger
+				als sieben Theile erhielt, kam daher, dass er <title ref="#verdi.requiem.6"><hi
+						rend="italic">Lux aeterna</hi></title> vom <title ref="#verdi.requiem.5"><hi
+						rend="italic">Agnus Dei</hi></title> trennte und auch <title
+					ref="#verdi.requiem.7"><hi rend="italic">Libera</hi></title>, welches sonst
+				gewöhnlich fortgelassen wird, hinzufügte. Dadurch hat seine Seelenmesse einen Umfang
+				erhalten, der in Anbetracht der Schwierigkeit, bei öfterer Wiederholung derselben
+				Gebete und Betrachtungen, der Einförmigkeit ausweichen zu können, ein bedeutendes
+				Genie erfordert. Dass auch ein solches Genie vorhanden ist, zeigt sich dadurch, dass
+				es <persName ref="#verdi.giuseppe">Verdi</persName>, wenngleich nicht immer, so doch
+				meistens gelungen ist, jedem neuen Stücke höheren Reiz zu verleihen, sei es nun
+				durch Ueberraschungen hinsichtlich der Klangfarbe (<title ref="#verdi.requiem.5"><hi
+						rend="italic">Agnus</hi></title>) oder durch contrapunktische Gruppirungen,
+				Massenwirkungen u. s. w. (<title ref="#verdi.requiem.4"><hi rend="italic"
+						>Sanctus</hi></title>, <title ref="#verdi.requiem.7"><hi rend="italic"
+						>Libera</hi></title>). Den sich im Texte vorfindenden Mangel an Zusammenhang
+				suchte der Componist hauptsächlich auf zweierlei Art musikalisch auszugleichen.
+					<emph rend="widespace">Theils</emph> dadurch, dass er, um dem Ganzen eine
+				cyklische Abrundung zu geben, verschiedene Sätze wiederholte. So kommt z. B. der
+				Chorsatz <title ref="#verdi.requiem.2"><hi rend="italic">Dies irae</hi></title>
+				nicht weniger als viermal vor, gleichsam den rothen Faden bildend, an welchem, wie
+				an einem unbeweglichen Fatum, einem weckenden und mahnenden Grundgedanken, das Ganze
+				hängt. Wie Andere schon vor ihm gethan, hat auch er sich im Schlussstücke der
+				Wiederholung des Anfanges (<title ref="#verdi.requiem.7" n="requiem-aeternam"><hi
+						rend="italic">Requiem aeternam</hi></title>) bedient. <emph rend="widespace"
+					>Theils</emph> suchte er die gewünschte Einheit auch durch eine gewisse
+				Gleichförmigkeit in Stil und Instrumentation, durch eine gewisse Verwandtschaft der
+				Melodien u. s. w. zu erzielen, welches sich jedoch alles leichter fühlen als
+				beschreiben lässt. Damit hat die Messe eine so eigene Färbung erhalten, dass
+				dieselbe als Product <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				gekennzeichnet ist, denn, obgleich <persName ref="#verdi.giuseppe">Verdi</persName>,
+				streng genommen, Eklektiker ist und man in seinen Schöpfungen Spuren von <persName
+					ref="#rossini.gioachino">Rossini</persName> und <persName
+					ref="#beethoven.ludwig-van">Beethoven</persName>, <persName
+					ref="#meyerbeer.giacomo">Meyerbeer</persName> und <persName
+					ref="#wagner.richard">Wagner</persName> (welchem er sich auch in seiner Oper
+					<title ref="#verdi.aida">Aïda</title> nähert) auffinden kann, so macht er sich
+				doch gleichwohl keines Plagiates schuldig, und haben genannte Vorbilder mehr als
+				Studium und Bildungsmittel für ein Individuum gedient, welches selbst hinreichend
+				klare und charakteristische Eigenthümlichkeit aufzuweisen hat, wenngleich es auch
+				keine Originalität in des Wortes höchster Meinung besitzt. — Nach diesen
+				einleitenden Betrachtungen gehen wir nun zu einer flüchtigen Analyse dieses
+				grossartigen Werkes über.</p>
+			<p>1. <hi rend="italic"><title ref="#verdi.requiem.1" n="requiem-aeternam">Requiem
+						aeternam</title></hi> ist ein warmes, mildes Gebet für den Frieden der
+				Abgeschiedenen. Begleitet vom Streichquartett wird es vom Chore mit abgebrochenen,
+				schwermüthigen Ausrufen angestimmt, die sich dann beim Gedanken an das ewige Licht
+					(<hi rend="italic">lux perpetua</hi>) zu einem klaren Dur-Accord vereinigen.
+				Nach einem kurzen Hymnensatz (<hi rend="italic"><title ref="#verdi.requiem.1"
+						n="te-decet-hymnus">Te decet hymnus</title></hi>), welcher <hi
+					rend="widespace">a capella</hi>, d. h. ohne Begleitung der Instrumente, gesungen
+				wird, wird dieses Gebet wiederholt, wonach das Soloquartett, später im Vereine mit
+				dem Chore das gebräuchliche <title ref="#verdi.requiem.1" n="kyrie"><hi
+						rend="italic">Kyrie eleison</hi></title> (Herr, erbarme dich) singt, das
+				hier jedoch nicht, wie sonst sehr oft der Fall sein dürfte, als regelmässige Fuge
+				behandelt ist. Darin muss dem Componisten gewiss volle Freiheit zugestanden werden,
+				wenn gleichwohl als ein Fehler zu bezeichnen sein möchte, dass der Anruf an Christus
+					(<hi rend="italic">Christe eleison</hi>) nicht vom <hi rend="italic">Kyrie</hi>
+				getrennt ist, da für denselben unbedingt doch ein etwas anders gefärbtes Gefühl
+				beansprucht wird, sei es nun in Form eines besonderen Satzes, wie z. B. <persName
+					ref="#jommelli.niccolo">Jomelli</persName> in seinem <title
+					ref="#jommelli.requiem">Requiem</title> und <persName
+					ref="#beethoven.ludwig-van">Beethoven</persName> in seiner <title
+					ref="#beethoven.missa-solemnis">Missa sol<surplus resp="tr"
+					>l</surplus>emnis</title>, oder in Form eines besonderen Subjects in einer
+				Doppelfuge, wie <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> angewandt
+				hat. Indessen ist der Satz, vornehmlich von der Stelle an, welche die Violinen mit
+				Sechszehnteln einleiten, schön und kunstvoll ausgearbeitet.</p>
+			<p>2. <title ref="#verdi.requiem.2"><hi rend="italic">Dies irae</hi></title>, »der Tag
+				des Zornes, der von David und der Sibylla verkündete jüngste Tag, soll alle Völker
+				zur Auferstehung erwecken«. Dieser Gedanke vom jüngsten Gerichte geht durch das
+				ganze schöne Gedicht von <persName ref="#celano.thomas-von">Thomas <supplied
+						resp="tr">d</supplied>a Celano</persName>‚ welches von Alters her als
+				zweites Hauptstück in die Seelenmesse aufgenommen zu werden pflegte und aus mehreren
+				Gesichtspunkten auch sogar als deren Mittelpunkt betrachtet werden kann. Es ersetzt
+				nicht nur den Lobgesang (<hi rend="italic">Gloria</hi>), sondern auch das
+				Glaubensbekenntniss (<hi rend="italic">Credo</hi>) der gewöhnlichen Messe und wurde
+				auch, als nicht zum Ritual gehörend, zu allen Zeiten in einer freieren, weniger
+				bestimmten Form behandelt. Bei <persName ref="#verdi.giuseppe">Verdi</persName>
+				zerfällt es in neun besondere, doch in einander laufende Sätze, deren sich ein jeder
+				einer neuen Veränderung des Textes anschliesst, nämlich: dem allgemeinen Entsetzen
+				des letzten Gerichts, dem Aufschlagen der Gerichts-Posaunen, dem Aufschlagen des
+				Sündenregisters, dem Beben vor der geforderten Rechenschaft, dem Anblicke von Gottes
+				furchtbarer Majestät, der an Jesus gerichteten Bitte um Rettung, den Reueseufzern
+				des Sünders, seinen erneuten Nothschreien nach Befreiung von den Flammen des
+				Abgrundes, wie schliesslich wieder einer ernsten Betrachtung über den jammervollen
+				Tag, wo eine jede Seele dem Grabe entsteigen und vor Gericht gezogen werden soll. —
+				Der Instrumente volle Kraft, welche im ersten Acte gespart wurde, wird jetzt zu
+				einem wilden Sturme losgelassen, der in den infernalischen Trillern des Piccolo
+				nicht weniger rast als in den heftig niederstürzenden Unisonen der Violinen und in
+				den einsamen Schlägen der Pauke. Klagende Menschenstimmen übertönen diesen Sturm mit
+				herzzerreissendem chromatischen Jammergeschrei in unruhig schwankenden Triolen, mit
+				ihrem <hi rend="italic">Dies irae, dies illa</hi> sich und allen Anderen Schrecken
+				einjagend. In allen möglichen Veränderungen, bald als heulender Orkan, bald mit
+				gewitterähnlichem Rollen oder heftigen, von plötzlicher Windstille gefolgten Stössen
+				fährt der Sturm fort, bis er sich dann in ein dumpfes, entferntes Rauschen verliert.
+				Die Fagotten übernehmen nun hier das Thema, doch vernimmt man da hindurch noch immer
+				das Murmeln des in ängstliche Selbstbetrachtung versunkenen Chores (<hi
+					rend="italic">Quantus tremor est futurus</hi>). — Das durch ein prächtiges
+				Blas-Ensemble von fünf Trompeten, Posaunen, Tuba und Hörnern angekündigte letzte
+				Gericht unterbricht mit seinem Herannahen jedoch bald diese Betrachtung. Hierzu
+				stand <persName ref="#wagner.richard">Wagner</persName> oder <persName
+					ref="#berlioz.hector">Berlioz</persName> Modell. Die Trompeten blasen eine Art
+				Wechselsignal, wozu ein Theil derselben in einiger Entfernung placirt ist, — eine
+				Anordnung, die, ob gleich sie ausdrücklich vorgeschrieben ist (»trombe in
+				orchestra«, »trombe lontane«) bei der Aufführung nicht immer befolgt wird.
+				Illustrirt von diesem rein scenischen Effect, ertönt bis zum Satze <hi rend="italic"
+						><title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors
+						stupebit</title></hi> (der, von malenden Orchesterbässen mit Paukensolo und
+				Pausen begleitet, von einer Bassstimme einsam gesungen wird) des Chores <hi
+					rend="italic"><title ref="#verdi.requiem.2.tuba-mirum" n="tuba-mirum">Tuba
+						mirum</title></hi>. Hier übernimmt jetzt die Altstimme die Rolle des
+				Heroldes: <hi rend="italic"><title ref="#verdi.requiem.2.liber-scriptus">Liber
+						scriptus proferetur</title></hi>, »das Buch, in dem der Menschen Handlungen
+				verzeichnet sind, wird vorgelegt«. Der Sturmwirbel mit dem Ausrufe <hi rend="italic"
+						><title ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi>, unter dem
+				Vorhergegangenen zurückgehalten und nur bisweilen wie aus der Tiefe rauschend
+				vernehmbar, bricht hierauf nach einem stürmischen Crescendo wiederum in seiner
+				vollen Stärke und Heftigkeit los und verliert sich dann abermals in unbestimmten
+				Stössen. Jetzt tritt für einige Augenblicke Ruhe ein, wo der schuldbeladene Mensch
+				Zeit gewinnt, um mit sich zu Rathe zu gehen, wie er sich wohl vor dem letzten
+				Gerichte zu verantworten habe. <hi rend="italic"><title
+						ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser tunc
+					dicturus</title></hi>, »was soll denn ich Armer sagen?« Dieser Satz
+				(Solo-Terzett) gehört zu den meist ansprechenden. Die Streich-Instrumente begleiten
+				mit einer vortrefflichen Figur diese einfache, schöne und innige Gesangsmelodie. Die
+				Frist war jedoch nur kurz. Der Richter zeigt sich jetzt selbst in strahlendem
+				Glanze: <hi rend="italic"><title ref="#verdi.requiem.2.rex-tremendae">Rex tremendae
+						majestatis!</title></hi> ruft die Menschheit bebend und sich mit dem
+				Angesichte zur Erde werfend. <hi rend="italic">Salva me, fons pietatis!</hi>
+				erschallt wiederholentlich das inständige Gebet der Solostimmen. <hi rend="italic"
+					>Salva!</hi> »erlöse!« wiederholt der Chor. <hi rend="italic">Salva!</hi> singt
+				der Sopran vertrauensvoll, gleich dem Geiste Gottes über dem Wasser während zwei
+				langgezogenen Takten einsam in ätherischen Höhen schwebend. — Doch wir wollen nicht
+				zu beschreiben versuchen, was eigentlich gehört werden muss. Nach all dem bis jetzt
+				Gehörten sollte man glauben, dass ein Uebertreffen nicht mehr möglich wäre. Es kann
+				jedoch nicht nur geschehen, sondern es geschieht auch, indem an das schwarze Kreuz
+				der früheren aufgeregten Chöre ein Rosenkranz von Melodien befestigt wird, der in
+				einer Schönheit und Klarheit strahlt, voll eines Zaubers ist, wie ihn nur Italiens
+				Himmel und heitere Gottesfurcht hervorzubringen vermag. Einen solchen Rosenkranz
+				bilden des Soprans und des Altes klangreiche <hi rend="italic"><title
+						ref="#verdi.requiem.2.recordare">Recordare</title></hi>, des Tenors <title
+					ref="#verdi.requiem.2.ingemisco"><hi rend="italic">Qui Mariam</hi> und <hi
+						rend="italic">Inter oves</hi></title>, des Basses <hi rend="italic"><title
+						ref="#verdi.requiem.2.confutatis">Oro supplex</title></hi> und — vielleicht
+				die Perle von allen — das Quartett mit dem Chore: <hi rend="italic"><title
+						ref="#verdi.requiem.2.lacrymosa">Lacrimosa</title></hi>. Ein <persName
+					ref="#astorga.emanuele-d">Astorga</persName>, ein <persName
+					ref="#pergolesi.giovanni-battista">Pergolese</persName> etc. werden aus ihren
+				Himmeln sicher freundlich lächelnd auf das Sonntagskind<note resp="tr"
+					type="commentary">Der 9. Oktober 1814, der teilweise als Verdis Geburtsdatum
+					angenommen wurde, war tatsächlich ein Sonntag.</note> von <placeName
+					ref="#busseto">Busseto</placeName>, welches ihr Erbe so wohl zu verwalten
+				verstanden hat, herniederschauen.</p>
+			<p>Nun noch einige Anmerkungen, eben beschriebene Tondichtung betreffend. Bei der Stelle
+					<hi rend="italic"><title ref="#verdi.requiem.2.confutatis">Oro
+					supplex</title></hi> hat <persName ref="#verdi.giuseppe">Verdi</persName> dem
+				Verbote der Harmonielehre, offenbare Quintenfolgen anzuwenden, kühn den
+				Fehdehandschuh zugeworfen. Dennoch dürfte wohl Niemand bestreiten wollen, dass diese
+				Stelle gerade in ihrer hier gegebenen Form vortrefflich das bebende Gebet ausdrückt,
+				und dürfte die Harmonielehre daher wohl schwerlich den ihr zugeworfenen Handschuh
+				aufnehmen wollen. Zwischen diesem Basssolo und <hi rend="italic"><title
+						ref="#verdi.requiem.2.lacrymosa">Lacrimosa</title></hi> hat der Componist
+				mit richtigem Takte wiederum den Schlagschatten <hi rend="italic"><title
+						ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi> eingeflochten. Zum
+				Schluss machen wir noch auf das wunderschöne Soloquartett a capella (<hi
+					rend="italic"><title ref="#verdi.requiem.2.lacrymosa" key="666-701">Pie
+						Jesu</title></hi>) aufmerksam.</p>
+			<p>3. Zur Seite dieses gewaltigen Gemäldes vom jüngsten Gerichte hat es das folgende
+				Stück, <hi rend="italic"><title ref="#verdi.requiem.3" n="domine-jesu">Domine
+						Jesu</title></hi>, schwer, sich halten zu können. Ebenso dürfte es auch
+				nicht im Stande sein, ein tieferes Interesse hervorrufen zu können, ungeachtet es
+				das eine oder andere Bemerkenswerthe aufzuweisen hat wie z. B. das Gemälde vom <hi
+					rend="italic"><title ref="#verdi.requiem.3" key="1-89">signifer sanctus
+						Michael</title></hi> und der Gläubigen Einführung zum ewigen Lichte, — ein
+				Gemälde, welches, verglichen mit <persName ref="#cherubini.luigi"
+					>Cherubini’s</persName> Behandlung derselben Stelle, oder <persName
+					ref="#beethoven.ludwig-van">Beethoven’s</persName> »Et ascendit in coelum«,
+				sowie mit der einfachen Melodie <hi rend="italic"><title ref="#verdi.requiem.3"
+						n="hostias">Hostias</title></hi> unbestreitbar doch nur eine wohlfeile
+				Effectzeichnung ist. Der gegen die Gewohnheit nicht fugirte Satz <title
+					ref="#verdi.requiem.3" n="quam-olim-abrahae">Quam olim</title> wird wie
+				gewöhnlich nach <hi rend="italic"><title ref="#verdi.requiem.3" n="hostias"
+						>Hostias</title></hi> wiederholt.</p>
+			<p>4. Höher steht <hi rend="italic"><title ref="#verdi.requiem.4">Sanctus</title></hi>
+				für Doppelchor und (nach <persName ref="#cherubini.luigi">Cherubini’s</persName>
+				Vorbild, wenngleich weniger gewöhnlich) in einem einzigen Satze zugleich mit <hi
+					rend="italic">Pleni</hi>, <hi rend="italic">Hosanna</hi> und <hi rend="italic"
+					>Benedictus</hi> behandelt. Dieser Theil ist als Doppelfuge angelegt, doch wird
+				schon nach der ersten Durchführung das zweite Subject fortgelassen und nur das erste
+				theilweise in zahlreichen »Engführungen« behandelt, schliesslich in einen Choral
+				übergehend, begleitet von staccatirten Orchesterfiguren, welche zuletzt die Form von
+				unisonen, chromatischen Scalen annehmen, — eine Stelle von imposanter Wirkung.</p>
+			<p>5. <hi rend="italic"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> ist eine
+				eigenthümlich ergreifende, psalmodirende Melodie für Sopran und Alt mit Chor, welche
+				hauptsächlich in Octaven fortgeht, wodurch sie eine höchst originelle Klangfarbe
+				erhält. Auch das Accompagnement, zuweilen wie illusorischer Orgelklang, ist
+				bemerkenswerth.</p>
+			<p>6. <hi rend="italic"><title ref="#verdi.requiem.6">Lux aeterna</title></hi> ist einer
+				der weniger bedeutenden Theile, wo die ermattete Inspiration instrumentale Reize zu
+				Hilfe nehmen musste, wie z. B. das gewiss recht ausdrucksvolle, von <persName
+					ref="#verdi.giuseppe">Verdi</persName> nach <persName ref="#wagner.richard"
+					>Wagner’s</persName> Vorbilde aber doch allzu viel gemissbrauchte Tremolo der
+				Streichinstrumente.</p>
+			<p>7. <hi rend="italic"><title ref="#verdi.requiem.7">Libera</title></hi>. Hier sammelt
+				die Begeisterung nochmals all ihre Kraft und schafft ein dieser Dichtung würdiges
+				Schlussstück. Wir verweisen nur auf die recitativen Messungen des Soprans zu Anfang
+				und Schluss, die herrlichen Violinfiguren im <hi rend="italic">Tremens</hi> (beim
+				Schlusse dieses Satzes begehrt der Componist im leisen Pianissimo nahezu das
+				Unmögliche, indem er daselbst nicht weniger als sechs <hi rend="italic">P</hi>
+				gezeichnet hat), das noch einmal einfallende <hi rend="italic"><title
+						ref="#verdi.requiem.7" n="dies-irae">Dies irae</title></hi>, das eben auch
+				schon wiederholte <hi rend="italic"><title ref="#verdi.requiem.7"
+						n="requiem-aeternam">Requiem</title></hi> (in der Ausführung meisterhaft
+				modificirt, indem hier der ganze Satz vom Chor und Sopransolo ohne Begleitung der
+				Instrumente vorgetragen wird), die Fuge <hi rend="italic"><title
+						ref="#verdi.requiem.7">Libera me</title></hi>, interessant sowohl
+				hinsichtlich der Harmonie als der Contrapunction, auch der schwereren Finessen, wie
+				z. B. der Umkehrung des Themas und seiner rhythmischen Augmentation, wie auch auf
+				den poetischen Schluss.</p>
+			<p>Der Messe stark dramatische, ja, wie wir sahen, sogar scenische Anlage, ist durchaus
+				kein Fehler, sondern vollkommen im Stile mit dem katholischen Gottesdienste, der
+				doch nicht anderes als ein ausgedehntes Drama oder Mirakelspiel ist. Das Maassvolle
+				und Discrete der Instrumentation verdient besonders hervorgehoben zu werden, um so
+				mehr bei einem Manne, welcher sich vorzüglich hierin oft der Rohheit schuldig
+				gemacht hat. Das Streichquartett bildet überall den Mittelpunkt; die übrigen
+				Instrumente sind charakteristisch und ohne Ueberladung angewandt. <persName
+					ref="#rossini.gioachino">Rossini</persName> ist <persName ref="#verdi.giuseppe"
+					>Verdi</persName> in so weit überlegen, als dieser sich nicht wie jener gemeiner
+				Opernphrasen bedient hat. Uebrigens besitzt er weder <persName
+					ref="#jommelli.niccolo">Jomelli’s</persName> naives Behagen, noch <persName
+					ref="#mozart.wolfgang-amadeus">Mozart’s</persName> erhabene Schönheit, weder
+					<persName ref="#cherubini.luigi">Cherubini’s</persName> einfache Energie, noch
+					<persName ref="#beethoven.ludwig-van">Beethoven’s</persName> oder auch nur
+					<persName ref="#rossini.gioachino">Rossini’s</persName> frische
+				Ursprünglichkeit; gleichwohl aber dürfte seine Messe zu allen Zeiten den
+				bedeutendsten derartigen Schöpfungen dieses Jahrhunderts beigezählt werden.</p>
+		</body>
+	</text>
+</TEI>

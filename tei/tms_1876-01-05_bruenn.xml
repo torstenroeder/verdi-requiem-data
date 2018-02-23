@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Tagesbote aus Mähren und Schlesien, Brünn, 5. Januar 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tms_1876-01-05_meldung.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+				<placeName ref="#bruenn"/>
+				<date when-iso="1876-01-05" when-custom="wed"/>
+				<biblScope unit="issue">3</biblScope><biblScope unit="volume">26</biblScope><series>tms</series>
+				<biblScope unit="page">4</biblScope>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#bruenn"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<p><rs type="event" ref="#bruenn.1876">(<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Requiem</title></hi>.) Die geehrten Damen und Herren des <orgName ref="#bruenn.musikverein">Musikvereines</orgName>, sowie die Herren Dilettanten werden zu einer kleinen Probe, welche <date when-iso="1876-01-05">Mittwoch</date>, Abends präzise 7 Uhr im <placeName ref="#bruenn.redouta-theater">Redoutensaale</placeName> stattfindet, höflichst eingeladen.</rs></p>
+	</body></text>
+</TEI>

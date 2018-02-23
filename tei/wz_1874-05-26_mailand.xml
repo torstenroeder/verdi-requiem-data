@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader><fileDesc><titleStmt><title>Wiener Zeitung, 26. Mai 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wz_1874-05-26_mailand.xml</p></publicationStmt><sourceDesc><bibl>
+                <orgName ref="#wiener-zeitung" role="publisher"/>
+                <placeName ref="#wien"/>
+                <date when-iso="1874-05-26" when-custom="tue"/>
+                <biblScope unit="issue">118</biblScope><biblScope unit="subIssue">118</biblScope><series>wz</series>
+                <biblScope unit="page">938 [2]</biblScope>
+                <link facs="wz_1874-05-26_938.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740526&amp;seite=2"/>
+            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#mailand"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+    <text xml:lang="de"><body rend="fraktur">
+        <pb break="null" n="938" type="initial"/>
+        <head rend="larger">Kleine Chronik.</head>
+        <p rend="smaller center"><hi rend="bold"><placeName ref="#wien">Wien</placeName>,</hi>
+            <date when-iso="1874-05-23">23. Mai</date>.</p>
+        <cb break="null" n="938b" type="skipped"/>
+        <p rend="smaller">(<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+                <title ref="#verdi.requiem">Requiem</title> für <persName ref="#manzoni.alessandro">Manzoni</persName></hi>.) Es ist bekannt, daß <persName ref="#verdi.giuseppe">Verdi</persName> es übernommen, zum Gedächtnisse des Dichters <persName ref="#manzoni.alessandro">Alessandro Manzoni</persName> ein musikalisches <title ref="#verdi.requiem">Requiem</title> zu componiren. <rs type="event" ref="#mailand.1874.1">Das
+                Werk ist am <date when-iso="1874-05-23">23. Mai</date> in der Kirche von <placeName ref="#mailand.san-marco">S. Marco</placeName> zu <placeName ref="#mailand">Mailand</placeName>
+                aufgeführt worden</rs> und die dortigen Zeitungsberichte beschäftigen sich
+            lebhaft mit der Novität. Nicht allein aus ganz <placeName ref="#italien">Italien</placeName>
+            hatten sich Zuhörer eingefunden, sondern auch aus <placeName ref="#paris">Paris</placeName> waren
+                <persName ref="#escudier.leon">Escudier</persName>, <persName ref="#commettant.oscar">Oscar
+                Commetant</persName> zur Aufführung eingetroffen, ferner <persName ref="#buelow.hans-von">Hans von Bülow</persName> und andere Celebritäten. Als <persName ref="#verdi.giuseppe">Verdi</persName> nach der Aufführung die Kirche verließ, begrüßten ihn
+            enthusiastische Zurufe des Volkes. In Einem Punkte sind die Journalberichte so ziemlich
+            einig: daß das Werk einen vorwiegend dramatischen Zug habe, gegen welchen der eigentlich
+            kirchliche zurücktritt, und der „<orgName ref="#corriere-di-milano">Corriere di Milano</orgName>“
+            bemerkt: „Es ist begreiflich, daß ein dramatisches Genie wie <persName ref="#verdi.giuseppe">Verdi</persName> seine <title ref="#verdi.requiem">Todtenmesse</title> mehr als Drama denn als Gebet auffassen mußte — und in der That
+            ist sie ein großartiges Drama, dessen Libretto der lateinische Ritualtext bildet. Zwar
+            tadeln manche Personen von Einsicht diesen Punkt und meinen, <persName ref="#verdi.giuseppe">Verdi</persName> überrasche mehr, als er erhebe. Aber konnte
+                <persName ref="#verdi.giuseppe">Verdi</persName> bei bestem Willen sich selbst in solchem
+            Grade verläugnen?“ „<orgName ref="#il-secolo">Secolo</orgName>“ meint: „Die Musik ist
+            dramatischer Art, die religiöse Austerität ist verbannt, die neue Kunst entfaltet alle
+            ihre glänzenden Mittel durch die Macht eines Genie’s, welches in diesem Augenblick das
+            musikalische Scepter von <placeName ref="#europa">Europa</placeName> in Händen hält.“ Die „<orgName ref="#la-lombardia">Lombardia</orgName>“ nimmt den Mund minder voll und bestreitet
+            überdies die fast einhellige Behauptung, daß diese Musik theatralisch sei: „Das
+            Pathetische und Sublime wechselt in neuen und wirkungsvollen Formen — insbesondere auch
+            in einer Instrumentation von seltener Schönheit, — diese harmonischen Melodien <hi rend="antiqua">(sic)</hi> haben zwar nicht den conventionellen Charakter
+            gewöhnlicher Kirchenmusik, sind aber nach Form und Gehalt vom Theatralischen weit
+            entfernt.“ Interessant ist es, daß sich hier fast buchstäblich wiederholt, was um <date when-iso="1630">1630</date> über des genialen Dramatikers <persName ref="#monteverdi.claudio">Claudio Monteverde</persName>
+            <title ref="#monteverdi.messa-di-requiem">Requiem</title> von den Zeitgenossen gesagt
+            wurde, das er in <placeName ref="#venedig">Venedig</placeName> auf Wunsch einiger Florentiner zur
+            Todtenfeier ihres kurz vorher verstorbenen <persName ref="#cosimo-ii.medici">Großherzogs</persName> componirt hatte. Von <persName ref="#verdi.giuseppe">Verdi</persName>, der in „<title ref="#verdi.aida">A<hi rend="antiqua">ï</hi>da</title>“
+            gezeigt, was er leisten könne, dürfen wir hoffen, daß er sich bei einer zu <persName ref="#manzoni.alessandro">Manzoni’s</persName> Andeuten bestimmten Arbeit
+            zusammengenommen. Uebrigens hat es, wie bekannt, auch Kritiker gegeben, welche <persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName>
+            <title ref="#mozart.requiem">Requiem</title> zu „dramatisch“ fanden.</p>
+    </body></text>
+</TEI>

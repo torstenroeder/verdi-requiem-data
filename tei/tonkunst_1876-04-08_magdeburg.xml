@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 8. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-04-08_magdeburg.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#tonkunst" role="publisher"/>
+				<placeName ref="#berlin"/>
+				<date when-iso="1876-04-08"/>
+				<biblScope unit="issue">11</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
+				<biblScope unit="page">195</biblScope>
+				<link facs="tonkunst_1876-04-08_195.png"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#magdeburg"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="larger">Miscellen, Notizen etc.</head>
+		<p><hi rend="bold">In Sicht.</hi>
+			<gap resp="tr"/> Frl<!--TEXT sic: ohne Punkt-->
+			<persName ref="#boers.thoma">Börs</persName> a. <placeName ref="#wien">Wien</placeName> in <placeName ref="#luebeck">Lübeck</placeName> und für das <title ref="#verdi.requiem">Requiem</title>
+			von <persName ref="#verdi.giuseppe">Verdi</persName> in <placeName ref="#magdeburg">Magdeburg</placeName><note resp="tr" type="eventCommentary">Für eine Aufführung in
+				Magdeburg gibt es bislang keine weiteren Belege.</note>. <gap resp="tr"/></p>
+	</body></text>
+</TEI>

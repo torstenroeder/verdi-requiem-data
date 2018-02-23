@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neues Fremden-Blatt, Wien, 13. Juni 1875</title><author><persName ref="#akronym.h"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfb_1875-06-13_verdis-manzoni-messe.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neues-fremden-blatt" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-13"/>
+				<biblScope unit="issue">162</biblScope><biblScope unit="subIssue">162</biblScope><biblScope unit="volume">11</biblScope><series>nfb</series>
+				<biblScope unit="page">1–4</biblScope>
+				<link facs="nfb_1875-06-13_1.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfb&amp;datum=18750613&amp;seite=1"/>
+				<link facs="nfb_1875-06-13_2.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfb&amp;datum=18750613&amp;seite=2"/>
+				<link facs="nfb_1875-06-13_3.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfb&amp;datum=18750613&amp;seite=3"/>
+				<link facs="nfb_1875-06-13_4.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfb&amp;datum=18750613&amp;seite=4"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Werkbesprechung</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<head rend="widespace larger">Feuilleton.</head>
+		<head>―</head>
+		<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.requiem">„Manzoni“-Messe</title>.</head>
+		<head><rs type="event" ref="#wien.1875.1">(Zum ersten Male unter des Komponisten Leitung im <placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> aufgeführt am <date when-iso="1875-06-11">11. Juni 1875</date>.)</rs></head>
+		<p>Wenn irgend ein musikalischer Prophet dem Ma<hi rend="antiqua">ë</hi>stro <persName ref="#verdi.giuseppe">Verdi</persName> zur Zeit, als dieser seinen „<title ref="#verdi.il-trovatore">Trovatore</title>“ und seinen „<title ref="#verdi.rigoletto">Rigoletto</title>“ schrieb, d. i. also vor ungefähr 20 Jahren, die Partitur seines
+				„<title ref="#verdi.requiem">Requiems</title>“ in der Ferne gezeigt und hinzugesetzt
+			hätte: Sieh’ Dir das einmal recht an, <hi rend="widespace">das ist von Dir!</hi> . . . .
+			. der Kompositeur hätte solche Zumuthung wohl lachend abgelehnt. Ja, der melodische
+			Reiz, das weiche, sinnliche Kolorit oder auch die südliche Leidenschaftlichkeit
+			einzelner Stellen, in dem Allen hätte er sich vielleicht schon damals erkannt, aber der
+			deutsch-meisterliche Chorsatz, die feine Instrumentation, die überwiegend edle Haltung
+			des Ganzen, wie konnte er je dahin kommen?!</p>
+		<p>Nun, er ist dahin gekommen, und daß er dahin kommen konnte, das ist uns seit seiner
+				„<title ref="#verdi.aida">Aida</title>“ kein Räthsel mehr. Wer ein so
+			dramatisch-einheitliches, so musikalisch durchgebildetes, so um seiner selbst und nicht
+			blos der Sängereffekte willen ergreifendes Bühnenwerk geschrieben hat, wie diese „<title ref="#verdi.aida">Aida</title>“, für den konnte <cb break="yes" n="1b" type="regular"/> auch die <hi rend="widespace">ernsteste</hi> Kunstgattung keine unlösbaren
+			Schwierigkeiten mehr bieten, es lag sogar gerade in diesen eine mächtige Anspornung für
+			den italienischen Ma<hi rend="antiqua">ë</hi>stro darin, sich nun auf einmal
+			selbstbewußt den großen klassischen Meistern an die Seite zu stellen.</p>
+		<p>Was uns freilich in der Kirchenmusik der letzteren so mächtig erschüttert und dann wieder
+			erhebt: dieser herzinnige Ton der Gläubigkeit, dieses begeisterte Schaffen nur um der
+			heiligen Sachen willen, welchem dann gleichsam von selbst die tiefsten und höchsten
+			Inspirationen wie aus anderer Welt zuströmen: man denke an das „<hi rend="antiqua"><title ref="#mozart.requiem.3.4-recordare">Recordare</title></hi>“, das <hi rend="antiqua"><title ref="#mozart.requiem.3.5-confutatis">Confutatis</title></hi> in
+				<persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName>
+			<title ref="#mozart.requiem">Requiem</title>, an so viele unsterbliche Momente in <persName ref="#beethoven.ludwig-van">Beethoven’s</persName>
+			<title ref="#beethoven.missa-solemnis"><hi rend="antiqua">D-</hi>Messe</title> . . . . .
+			das darf man in <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.requiem">„Manzoni“-Messe</title> im Allgemeinen nicht erwarten. Diese
+			redet eine höchst würdige, aber größtentheils weltliche, dramatische Sprache,
+			vernehmlich genug klingen manchmal die exotisch süßen Weisen <title ref="#verdi.aida">Aida’s</title>, der ethiopischen Königstochter durch, wäre dieselbe etwa als
+			Christin gestorben und <hi rend="widespace">ihr</hi> nur das Requiem gewidmet worden,
+			gar viele Stellen hätten gar nicht anders klingen können. Wenn wir nun die einzelnen
+			Nummern der „<title ref="#verdi.requiem">Messe</title>“ durchgehen, so treffen wir zuerst
+			auf den einfach innigen, ungemein stimmungsvollen Einleitungssatz: „<hi rend="antiqua"><title ref="#verdi.requiem.1">Requiem aeternam</title></hi>“, Andante in <hi rend="antiqua">A-moll</hi>. Wir reden vom Hauptsatze, der mit ganz wunderschön, <cb break="yes" n="1c" type="regular"/> mit tief wehmüthiger Feierlichkeit beginnt, um
+			alsbald mit der Wendung nach <hi rend="antiqua">A-dur</hi> „<hi rend="antiqua"><title ref="#verdi.requiem.1" n="et-lux">Et lux perpetua</title></hi>“ einer sanft tröstenden
+			Orchestermelodie das Wort zu lassen. Weniger sagt uns das kurze Fugato in „<hi rend="antiqua"><title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet
+				hymnus</title></hi>“ zu, in welchem die äußerliche Mache zu sehr hervortritt, und
+			ebenso entbehrt der Schlußsatz „<hi rend="antiqua"><title ref="#verdi.requiem.1" n="kyrie">Kyrie eleison</title></hi>“ der rechten Stimmung, die ziemlich unmotivirt
+			hineingreifende Sechszehntelfigur der Geigen finden wir sogar geschmacklos. Der
+			Komponist hat es gleich in dieser ersten Nummer seines <title ref="#verdi.requiem">Requiems</title> zu viel auf Steigerung abgesehen, hätte er einfach-innig
+			fortgesetzt, wie er begonnen, die Wirkung wäre eine weit größere geworden, während sich
+			— im <hi rend="antiqua"><title ref="#verdi.requiem.1" n="kyrie">Kyrie</title></hi> wenigstens —
+			trotz aller musikalisch-interessanter Einzelheiten Alles veräußerlicht.</p>
+		<p>Es folgt nun der zweite Haupttheil und eigentliche Mittelpunkt der Trauermesse, das „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2">Dies irae</title></hi>“. <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> hat es reich
+			gegliedert, es nimmt noch um drei Unterabtheilungen mehr auf als <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> in seinem <title ref="#mozart.requiem">Requiem</title>, er baut nämlich noch drei Textstellen („<hi rend="antiqua"><title ref="#verdi.requiem.2.liber-scriptus">Liber scriptus</title></hi>“ — „<hi rend="antiqua"><title ref="#verdi.requiem.2.quid-sum-miser">Quid sum
+			miser</title></hi>“ und „<hi rend="antiqua"><title ref="#verdi.requiem.2.ingemisco">Ingemisco</title></hi>“) als <hi rend="widespace">selbstständige</hi>,
+			allerdings nicht umfangreiche Sätze aus.</p>
+		<p>Das eigentliche „<hi rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies
+					irae</title></hi>“ beginnt mit einem <hi rend="antiqua">Allegro agitato</hi> in
+				<hi rend="antiqua">G-moll</hi>, welches obgleich von starker rhythmischer Wirkung,
+			doch zu opernhaft spekta<pb break="no" n="2a" type="regular"/>kulös gehalten ist, um uns
+			tiefer zu treffen. Dieses <hi rend="antiqua">Allegro</hi> besteht hauptsächlich aus zwei
+			Themen, von welchen das erste — ein wild chromatisches in Vierteln, dann Vierteltriolen
+			niedersausendes Aufgellen der Singstimmen, in die Mitte gestellt zwischen blitzartig in
+			die Tiefe fahrenden Sechszehntelfiguren der Streichinstrumente — wie ein Aufschrei des
+			Entsetzens zu nehmen ist, während der fester gegliederte zweite Hauptgedanke (in C<hi rend="antiqua">-moll</hi>) mehr der Idee einer „großen Klage“ entspricht; die zweite
+			Melodie, an und für sich nicht bedeutend erfunden, wird im Orchester sehr interessant
+			durchgeführt.</p>
+		<p>Eigenthümlich ist der Uebergang vom „<hi rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi>“ zum „<hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>“. Im Orchester
+			intonirt eine Posaune eine kurze abgerissene Fanfare auf <hi rend="antiqua">es</hi>, aus
+			weiter Ferne (das heißt auf <persName ref="#verdi.giuseppe">Verdi’s</persName> ausdrücklicher
+			Anordnung aus dem Orchester heraus <hi rend="widespace">hinter der Szene postirt</hi>)
+			antwortet als Echo, um eine Oktave höher, eine Trompete, nun Wiederholung der Fanfare im
+			Orchester, jetzt aber von Trompeten auf <hi rend="antiqua">es-ges</hi>, neuerliche
+			Erwiderung aus der Ferne, und so entwickelt sich unter steter Steigerung der Tonstücke
+			und der rhythmischen Bewegung ein lebhaftes Wechselspiel zwischen den Bläsern, bis
+			endlich mit vollster Kraft, ja man möchte sagen mit fanatischer Wuth, die ganze Harmonie
+			auf <hi rend="antiqua">As<cb break="no" n="2b" type="regular"/>moll</hi> losbricht,
+			während gleich darauf der Chor, voran die Bässe, begleitet von einer ungestüm
+			niederpolternden Triolenfigur der tiefen Streichinstrumente, sein „<hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum" n="tuba-mirum">Tuba mirum spargens
+					sonum</title></hi>“ intonirt. Die Idee der sich immer mehrenden und näher
+			erschallenden Posaunenrufe hat <persName ref="#verdi.giuseppe">Verdi</persName> aus <persName ref="#berlioz.hector">Berlioz’</persName> „<title ref="#berlioz.grande-messe-des-morts">Requiem</title>“ übernommen, wo die Bläser sogar von vier Seiten (nämlich von allen
+			Weltgegenden her) heftiger und heftiger andringen müssen, um eine Vorstellung der
+			Schrecken des jüngsten Tages zu geben. Hier wie dort liegt aber die Absicht, die Mache
+			gar zu sehr auf der Hand, auf uns persönlich hat die Einleitung wie das „<hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>“ selbst
+			unter allen Stücken des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
+			<title ref="#verdi.requiem">Requiems</title> den geringsten Eindruck gemacht, es mag sein,
+			daß es naiv-gläubigeren Seelen anders gegangen ist.</p>
+		<p>Das „<hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum" n="tuba-mirum">Tuba
+					mirum</title></hi>“ bricht (sehr äußerlich und unbefriedigend!) jäh ab und es
+			folgt nun zu den Textworten „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors stupebit et
+				natura</title></hi>“ ein kleines deklamatorisches Baßsolo, in welchem die
+			charakteristische — allerdings von <persName ref="#wagner.richard">Wagner</persName>
+			übernommene Begleitungsfigur das rasche Erstarren der Natur nicht übel ausdrückt, dann
+			aber auf den Text „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.liber-scriptus">Liber scriptus proferetur</title></hi>“ ein
+			Solo des Alts mit Chor, dem eine eminent-dramatische Wirkung nicht abzusprechen ist.</p>
+		<cb break="yes" n="2c" type="regular"/>
+		<p>Die Deklamation der Solostimme erzittert förmlich vor Angst, vor Bangen wegen des
+			göttlichen Strafgerichts, wenn aus dem Buche der Bücher das Sündenregister der
+			Menschheit abgelesen werden wird, an einer Stelle gegen den Schluß verliert sie sich,
+			als könne sie den furchtbaren Gedanken nicht fassen in kurzen, mühsam herausgestoßenen,
+			rhythmisch unzusammenhängenden Worten, um gleich darauf mit einem Schmerzensschrei
+			zusammenzubrechen: ein stark theatralischer, aber drastischer Effekt. Originell ist das
+			in diese Abtheilung wiederholt eingeflochtene, auf die Worte „<hi rend="antiqua">dies
+				irae</hi><supplied resp="tr">“</supplied>
+			<hi rend="antiqua">unisono</hi><surplus resp="tr">“</surplus> und höchst leise zu intonirende
+				<hi rend="antiqua">d</hi> des Chors, das (nach Verdi’s Vorschrift: „Traurig und mit
+			düsterer Stimme“ vorzutragen) wegen der Wendung nach dem hellen <hi rend="antiqua">D-dur</hi> doch im Anfange gar nicht schauerlich sondern mehr heiter, lieblich
+			wirkt. Erst am Schlusse der Abtheilung — unmittelbar nach der erwähnten merkwürdigen
+			Deklamationsstelle — tritt der Charakter dieses unisonen <hi rend="antiqua">d</hi> als
+			eines unerbittlichen „<hi rend="antiqua">memento mori</hi>“ deutlicher hervor.</p>
+		<p>Nun braust der Klagegesang (die <hi rend="antiqua">C-moll-</hi>Stelle, nicht der Anfang)
+			des „<hi rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi>“
+			wieder los, dann folgt das Terzett (Sopran, Alt, Tenor) „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser, tunc
+				dicturus</title></hi>“ (Adagio, <hi rend="antiqua">G-moll</hi>, <hi rend="superscript">6</hi>/<hi rend="subscript">8</hi>), ein stimmungsvoll inniger
+			Satz, <pb break="yes" n="3a" type="regular"/> romanzenhaft gehalten, der indeß, wäre
+			nicht die Begleitungsfigur ein wenig zu aufdringlich, ganz gut in einem <persName ref="#mendelssohn-bartholdy.felix">Mendelssohn’schen</persName> Psalm stehen
+			könnte.</p>
+		<p>Das für Quartett, vollen Chor und Orchester gesetzte „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.rex-tremendae">Rex tremendae majestatis</title></hi>“ (Nr. 5
+			des „<hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi>“) interessirt
+			hauptsächlich durch seine Doppelgliederung, dem pathetisch-wuchtigen Hauptgedanken
+			stellt sich nämlich bei der Stelle: „<hi rend="antiqua"><title ref="#verdi.requiem.2.rex-tremendae" n="salva-me">Salva me fons</title></hi>“ („Rette
+			mich, Urquell der Gnade!“) ein weich-melodiöser Gesang entgegen, der an Gounod
+			mahnt.</p>
+		<p>Auf die Kirche ganz und gar, um so weniger aber auf sein schönes Heimatland hat Ma<hi rend="antiqua">ë</hi>stro <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> in dem reizenden „<hi rend="antiqua widespace"><title ref="#mozart.requiem">Recordare</title></hi>“ vergessen, bekanntlich als Duett
+			zwischen Sopran und Alt komponirt. Das ist — besonders von den wunderschönen
+			abschwebenden Terzen der Singstimmen in <hi rend="antiqua">F-moll</hi> angefangen — der
+			einschmeichelndste, süßeste, rein italienische Gesang, es ist, als hätte der Kompositeur
+			hier nicht durch bußfertige Zerknirschung, sondern durch die kunstfertigen Kehlen seiner
+			Primadonnen, welchen er sie lieblichsten Weisen lieh, den strengen Himmelsvater da
+			droben rühren wollen.</p>
+		<p>Das Tenorsolo: „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.ingemisco">Ingemisco tanquam reus</title></hi>“ ist, kurz gesagt, ein Stück „<title ref="#verdi.aida">Aïda</title>“, die eigenthümlichen Triolen der Melodie, die harmo<cb break="no" n="3b" type="regular"/>nischen Ausweichungen, Alles erinnert lebhaft an
+			die alt-egyptischen Weisen, die man in dieser Oper vernimmt, und die Reminiszenz wird
+			eklatant bei dem ätherischen Vibriren der getheilten Geigen am Schlusse; an und für sich
+			ist dieser ganze Satz gleich duftig und poetisch, besonders, wenn er so wundervoll
+			gesungen wird als von Signor <hi rend="widespace"><persName ref="#masini.angelo">Masini</persName></hi>.</p>
+		<p>Die nächste Abtheilung, das Baßsolo „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.confutatis">Confutatis</title></hi>“, frappirt besonders
+			durch einige in der Begleitung konsequent auftretende falsche Quinten, über welche die
+			echten Generalbaßmänner die Hände zusammenschlagen werden. Was eigentlich <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> mit diesen
+			offenbar bewußten falschen Fortschreitungen bezweckt, können wir nicht recht verstehen,
+			die bezüglichen Stellen klingen weniger charakteristisch als eben einfach unschön, sie
+			würden noch übler geklungen haben, wenn nicht die über kein wahrhaftes Pianissimo
+			gebietende Stimme des Bassisten Herrn <hi rend="widespace"><persName ref="#medini.paolo">Medini</persName></hi> hier unwillkürlich das Orchester beinahe überdröhnt.</p>
+		<p> Nachdem nun noch einmal der volle Chor und das Orchester wild empört ihre donnernden
+			Weisen des „Entsetzens“ und der „Klage“ losgelassen, das heißt der Hauptsatz des „<hi rend="antiqua"><title ref="#verdi.requiem.2.confutatis" n="dies-irae">Dies
+				irae</title></hi>“ zum dritten Male gebracht wurde, wird dieser ganze große zweite
+			Haupttheil von dem „<hi rend="antiqua widespace"><title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title></hi>“ beschlossen, einem innig melodiösen und zugleich, was
+			den Vokal<cb break="no" n="3c" type="regular"/>satz anbelangt, musterhaft gebildeten
+			Stück, über welches wir uns schon gestern lobendst geäußert.</p>
+		<p>Sehr schön als harmonische Arbeit, zum Theil freilich etwas konventionell gehalten, ist
+			der dritte Haupttheil des <title ref="#verdi.requiem">Requiems</title>, das vierstimmige
+				<hi rend="widespace"><title ref="#verdi.requiem.3">Offertorium</title></hi> „<hi rend="antiqua"><title ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu</title></hi>“.
+			Inmitten dieses Offertoriums findet sich ein breit-melodiöses Adagio, das uns wieder mit
+			einem Schlage nach Alt-Egypten, in das Land der „<title ref="#verdi.aida">Aida</title>“
+			versetzt, vor <hi rend="widespace">Allem</hi> dieses fremdartig anmuthende Stück, in
+			welchem der Tenor Herr <hi rend="widespace"><persName ref="#masini.angelo">Masini</persName></hi> allen Zauber seiner wunderbaren Manier zur Geltung brachte,
+			dann aber auch wohl das herrliche Ausklingen des ganzen <title ref="#verdi.requiem.3">Offertoriums</title> war es, welches am Abende der ersten Aufführung die Hörer
+			lebhaft zu den Wiederholungsrufen drängte.</p>
+		<p>Als glänzend-prächtige Doppelfuge (achtstimmig) ist das „<hi rend="widespace"><title ref="#verdi.requiem.4">Sanctus</title></hi>“ gesetzt. Der Gesammteindruck bleibt
+			freilich hier ein mehr pomphafter als wirklich bewegender.</p>
+		<p>Um so herzerfreuender wirkt das „<hi rend="antiqua widespace"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>“, ein Stück, welches, wenn so gesungen wie vorgestern bei
+			uns, immer entzücken, immer und immer zur Wiederholung verlangt werden wird. Der
+			Komponist ist hier auf die eigenthümliche Idee verfallen, zuerst die zwei Solostimmen
+			(Sopran, Alt) <hi rend="antiqua">pianissimo <hi rend="widespace">unisono</hi></hi>
+			eintreten zu lassen, sie singen eine <pb break="yes" n="4a" type="regular"/>
+			einfach-innige, beinahe psalmodirende Melodie, dann intonirt der volle Chor gleichfalls
+				<hi rend="antiqua">unisono</hi> und noch immer ganz leise dieselbe Cantilene, so daß
+			dann natürlich die ersten füllenden Zwischentöne des Orchesters auf das Ohr, welches
+			bisher nur Melodie gehört und nun nach Harmonie verlangt, doppelt erquickend wirken. Man
+			mag das ausgeklügelt, berechnet nennen, aber der Effekt ist einmal da, und er ist ein
+			großer, nicht wegzuleugnender, es klingt auch Alles so natürlich, so alterthümlich-naiv,
+			als könne es gar nicht anders sein, und in der zweiten Hälfte dieses „<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>“ finden sich zauberische
+			Klangwirkungen von einer Diskretion, wie man sie sonst nur aus unsern schönsten
+			deutschen Volksliedern kennt.</p>
+		<p>Der vorletzte Haupttheil „<hi rend="antiqua widespace"><title ref="#verdi.requiem.6">Lux
+					aeterna luceat eis</title></hi>“ gibt besonders der Idee des Aufschwebens in
+			höhere Regionen Ausdruck — wieder zweifelhaft jene unheimlichen Tubenklänge, welche in
+			der vielgenannten Oper die Verurtheilung „<title ref="#verdi.aida.radames">Radames’</title>“ durch die Priester ankündigen.</p>
+		<p>Der Schlußsatz des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
+			<title ref="#verdi.requiem">Requiem</title>, das <hi rend="antiqua">„<hi rend="widespace"><title ref="#verdi.requiem.7">Libera me</title></hi>“,</hi> ist
+			der mannigfaltigste und darum gewissermaßen interessanteste. Da betet zuerst inbrünstig
+			— nur auf dem Tone <hi rend="antiqua">C</hi> — ohne bestimmtes Tempo psalmodirend und
+			ganz unbegleitet der Solosopran <hi rend="antiqua">„Libera me, domine de morte
+				aeterna“</hi>
+			<cb break="yes" n="4b" type="regular"/> (befreie mich, Herr, vom ewigen Tode), diesem
+			Solo antwortet ebenso psalmodirend, aber schon auf einem ganzen Accorde, nämlich auf <hi rend="antiqua">Es,</hi> dann <hi rend="antiqua">Des-dur</hi> der Chor, weiter
+			steigert der Sopran seine Bitte zitternd in ängstlichen, bald überhaftigen, bald
+			sterbenden Accenten, während zugleich eine charakteristisch wogende Sechzehntelfigur die
+			Tiefen des Orchesters aufwühlt. Dieses Instrumentalwogen, in welches immer wieder
+			unheimlich-ernst, wie hilfeflehend, führt noch einmal das ganze polternde und grollende
+				<hi rend="antiqua">„<title ref="#verdi.requiem.7" n="dies-irae">Dies irae</title>“</hi> mit
+			seinen musikalischen Schwefelflammen zurück, am Ende weicht dieser Spuck, um ganz
+			wunderschön in die sanfte Cantilene des ersten Stückes („<title ref="#verdi.requiem.7" n="requiem-aeternam">Requiem</title>“) einzumünden, welche aber
+			jetzt nicht wie am Anfange in <hi rend="antiqua">A-moll,</hi> sondern in <hi rend="antiqua">B-moll</hi> erscheint und zuletzt ahnungsvoll in der Ferne
+			verschwebt. Nach eine langen, spannungsvollen Pause erhebt nun der Sopran wieder sein
+			psalmodirendes Gebet, jetzt viel heißer erregt als früher, und wie ein hochdramatisches
+			Recitativ, von mächtig erbebenden Zweiunddreißigsteln des Orchesters begleitet, zuerst
+			ohne, dann in festem Tempo. Von da nimmt der Chor die Worte der Bitte <hi rend="antiqua">„Libera me“</hi> energisch auf und führt sie in einer langen Fuge, die nicht von
+			Ecken und Schärfen frei ist, sich aber gegen den Schluß klarer und glänzender
+			herausgestaltet, etwas mühsam durch. Mit der <cb break="yes" n="4c" type="regular"/>
+			Fortissimo-Stelle, <hi rend="antiqua">domine, domini</hi>, erhebt sich dieser Schlußsatz
+			indeß zu großartiger Höhe und läßt von da das — offenbar dem Klagetheile des <hi rend="antiqua">„Dies irae“</hi> entnommene — Schmerzensmotiv ergreifend schön
+			verklingen. Diese letzten zwei oder drei Seiten der Partitur erscheinen uns als die
+			bedeutendsten, innerlichsten der ganzen Trauermesse, sie wären eines <persName ref="#beethoven.ludwig-van">Beethoven</persName> nicht unwürdig, und das allerletzte,
+			noch immer angsterfüllte, aber trostahnende Psalmodiren des Soprans klingt wie höhere
+			Offenbarung. . . . So schließt Ma<hi rend="antiqua">ë</hi>stro <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> seine Komposition, über die
+			man von gewisser Seite so geringschätzig abgesprochen, so gelingt es dem Künstler noch
+			ganz zuletzt, sich bis in die erhabenen Regionen der Klassiker zu erheben.</p>
+		<p>Wir haben nichts mehr zuzusetzen, als ihm für den anregenden, beim Abschiede erhebenden
+			Genuß seines schönen Werkes recht herzlich zu danken.</p>
+		<p>Und was die Sänger betrifft — so haben wir schon gestern hier jedes Lob als unzureichend
+			erklärt und dieses Ensemble als das herrlichste bezeichnet, was uns seit Jahren
+			begegnete. Es mag aus Vorstehendem Jeder den großen Genuß ermessen, der ihm bei den von
+				<persName ref="#verdi.giuseppe">Verdi</persName> dirigirten „<title ref="#verdi.aida">Aida</title>“-Vorstellungen demnächst bevorsteht, und daß an diesen Abenden wohl
+			kein echter Kunstfreund <placeName ref="#wien">Wiens</placeName> fehlen wird.</p>
+		<p rend="right"><persName ref="#akronym.h"><hi rend="antiqua">h</hi>—</persName></p>
+	</body></text>
+</TEI>

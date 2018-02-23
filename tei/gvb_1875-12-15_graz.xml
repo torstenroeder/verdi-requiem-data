@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Grazer Volksblatt, 15. Dezember 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/gvb_1875-12-15_graz.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#grazer-volksblatt" role="publisher"/>
+					<placeName ref="#graz"/>
+					<date when-iso="1875-12-15" when-custom="wed"/>
+					<biblScope unit="issue">286</biblScope><biblScope unit="volume"
+						>8</biblScope><series>gvb</series>
+					<biblScope unit="page">4</biblScope>
+					<link facs="gvb_1875-12-15_4.jpg"
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=gre&amp;datum=18751215&amp;seite=4"
+					/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#graz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Anzeige</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="4"/>
+			<cb n="c"/>
+			<head rend="larger"><placeName ref="#graz.stadt-theater">Stadt-Theater</placeName> in
+					<placeName ref="#graz">Graz</placeName>.</head>
+			<p rend="center"><rs type="event" ref="#graz.1875.4"><date when-iso="1875-12-15">Mittwoch
+						den 15. Dezember 1875</date>.<lb break="yes"/>
+					<hi rend="lineale larger"><title ref="#verdi.requiem">Requiem</title> von
+							<persName ref="#verdi.giuseppe">Verdi</persName>.</hi></rs></p>
+		</body>
+	</text>
+</TEI>

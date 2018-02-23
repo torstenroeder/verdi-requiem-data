@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 11. Februar 1876</title><author><persName ref="#gleich.ferdinand"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-02-11_dresden.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#nzfm" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-02-11"/>
+				<biblScope unit="issue">7</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
+				<biblScope unit="page">67 [3]–68 [4]</biblScope>
+				<link facs="nzfm_1876-02-11_67.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760211&amp;seite=3"/>
+				<link facs="nzfm_1876-02-11_68.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760211&amp;seite=4"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#dresden"/></creation><textClass><keywords><term type="textType">Werkbesprechung</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="2b" type="initial"/>
+		<head rend="larger">Correspondenzen</head>
+		<cb break="null" n="67b" type="skipped"/>
+		<p rend="bold right"><placeName ref="#dresden">Dresden</placeName>.</p>
+		<p><rs type="event" ref="#dresden.1876.1">Ein hochinteressantes Ereignis war die Aufführung von <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem für Manzoni</title> im <placeName ref="#dresden.hoftheater">Hoftheater</placeName>.</rs> Mit <persName ref="#verdi.giuseppe">Verdi</persName> ist es mir und wohl auch vielen anderen Leuten
+			grade so ergangen, wie das oft neuen und vorzugsweise bedeutenden Kunsterscheinungen
+			gegenüber dem Menschen begegnen kann: d.h. ich habe den Werth dieses Componisten weit
+			unterschätzt, ihn verkannt. In dieser Beziehung fand ich wohl viele Kameraden, sogar im
+			Vaterlande des Meisters. Wurde doch der junge <persName ref="#verdi.giuseppe">Verdi</persName> wegen „Talentlosigkeit“ beim Conservatorium in <placeName ref="#mailand">Mailand</placeName> abgewiesen. Die ersten Opern <persName ref="#verdi.giuseppe">Verdi’s</persName>, die ich vor fast dreißig Jahren kennen lernte, <title ref="#verdi.nabucco">Nabuc<supplied resp="tr">c</supplied>o</title> und <title ref="#verdi.i-lombardi">I Lombardi</title> wollten mir, auch selbst vom Standpunkt der
+			italienischen Oper aus betrachtet, trotz vorzüglicher Wiedergabe berühmter italienischer
+			Sänger, durchaus nicht behagen, und wer hätte damals und auch noch später wohl
+			voraussehen können, was dieser Componist als alter Mann werden würde? Ich gestehe diesen
+			meinen großen Irrthum freudig zu gegenüber einem Werke, das zu den beachtenswerthesten
+			Erscheinungen der Neuzeit gehört. Bei <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.requiem">Requiem</title> darf man allerdings nicht an die <title ref="#mozart.requiem cherubini.requiem-c-moll">Todtenmessen</title>
+			<persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName> und <persName ref="#cherubini.luigi">Cherubini’s</persName> denken; es verlangt eben andere
+			Voraussetzungen; aber auch mit <persName ref="#rossini.gioachino">Rossini’s</persName>
+			kirchlichen Compositionen läßt sich <persName ref="#verdi.giuseppe">Verdi’s</persName> Werk
+			nicht vergleichen, im Vergleich zu welchen es mehr religiöse Weihe und Vertiefung hat.
+			Kirchlich im üblichen Sinne ist dieses <title ref="#verdi.requiem">Requiem</title> nicht,
+			am Allerwenigsten nach evangelischer Anschauung, aber man würde auch Unrecht thun, es
+			„theatralisch“ zu nennen, wenn man es auch als „dramatisch“ bezeichnen kann und ihm vor
+			Allem das Prädikat „religiös“ nicht vorenthalten darf. Daß das „dramatische“ Element in
+			der religiösen Kunst seine vollste Berechtigung hat — nun, darüber ist wohl nicht zu
+			streiten: wo blieben dann <persName ref="#sanzio.rafaello">Raphael</persName>, <persName ref="#correggio.antonio-da">Correggio</persName> etc. etc., <persName ref="#haendel.georg-friedrich">Händel’s</persName> und <persName ref="#haydn.joseph">Haydn’s</persName> Oratorien, <persName ref="#bach.johann-sebastian">Bach’s</persName>
+			Passionen und nach ihnen vorzugsweise die größten Erscheinungen der Kirchenmusik bis zu
+			unseren Tagen! Uebrigens steht die altitalienische Kirchenmusik in noch viel näherer
+			Verwandtschaft zu der altitalienischen Oper, als <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<title ref="#verdi.requiem">Requiem</title> zu der heutigen Oper Italiens. Wer also ohne
+			jede Voreingenommenheit, mit vollem, offenen Herzen, namentlich aber losgelöst von allen
+			sehr zweifelhaft berechtigten Ansprüchen zopfiger Pedanterie der <title ref="#verdi.requiem">Todtenmesse</title>
+			<persName ref="#verdi.giuseppe">Verdi’s</persName> entgegenkommt, der wird in derselben die
+			durchaus edle, stimmungsvolle Kundgebung eines für seine Aufgabe hochbegeisterten
+			schöpferischen Talentes ersten Ranges erkennen. Aus vollem, warmem Herzen ist dieses
+				<title ref="#verdi.requiem">Requiem</title> geschrieben und ebenso muß es von den
+			Hörern entgegengenommen werden. Daß dies hier von Seite des Publikums und der Kritik
+			geschehen, beweisen der tiefe Eindruck, den die Hörerschaft empfangen, die hohe, ja
+			begeisterte Anerkennung, mit welcher die gesammte kunstkritische Presse <placeName ref="#dresden">Dresdens</placeName> sich in seltener Uebereinstimmung über das Werk des
+			genialen Italieners ausgesprochen hat. Der Schwerpunkt der Wirkung liegt bei dieser
+				<title ref="#verdi.requiem">Todtenmesse</title> in deren vocalem Theile. Bei der
+			reichen und in diesem Werke allenthalben edlen Melodik <persName ref="#verdi.giuseppe">Verdi’s</persName> und bei dessen meisterhafter Handhabung der Gesangstechnik
+			erscheint hier die Klangschönheit der Menschenstimmen um so ergreifender, als das ganze
+			Werk, namentlich aber die Chöre, in schöner und mächtiger Polyphonie gehalten ist. Das
+			Orchester, obwohl als selbstständige Macht auftretend, hält sich mit echt künstlerischer
+			Discretion dem vocalen Theile gegenüber in zweiter Stellung. Prachtvoll in der
+			Farbengebung, ausgestattet mit allen Mitteln der modernen Instrumentirungskunst, reich
+			an neuen originellen Klangwirkungen ist hier das Orchester <persName ref="#verdi.giuseppe">Verdi’s</persName> — wie es auch sein muß — ein den Gesang in seiner Wirkung
+			hebendes, den geistigen Inhalt interpretirendes Ausdrucksmittel. Schon in dem wenig
+			akustischen hölzernen <placeName ref="#dresden.hoftheater">Dresdner Interimshause</placeName> ist
+			die außerordentliche äußere Klangschönheit dieser Vocal- und Instrumentalmassen von
+			großer Wirkung — wie muß dieses <title ref="#verdi.requiem">Requiem</title> nun erst in dem
+			weiten Raume des <placeName ref="#mailand.dom">Mailänder Doms</placeName><note resp="tr" type="eventCommentary">Die Aufführungen fanden nicht im Dom, sondern in der Kirche
+					<placeName ref="#mailand.san-marco">San Marco</placeName> statt.</note> geklungen haben!
+			Aber nicht die äußere Schönheit allein ist es, was dieses Werk auszeichnet, auch der
+			geistige Gehalt entspricht über Erwarten den Anforderungen, welche an ein Kunstwerk
+			dieser Art zu stellen sind. Daß nicht alle Nrn. auf gleicher Höhe stehen, bedarf kaum
+			der Erwähnung, aber keine steht unter der Grenzlinie des Edlen und Schönen. Ich kann
+			mich hier nicht auf eine Analyse jedes einzelnen Stückes einlassen, es sei daher nur
+			noch der glänzenden Höhepunkte gedacht, wie des <title ref="#verdi.requiem.1" n="kyrie">Kyrie</title>, des <title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser</title>
+			(Terzett), des <title ref="#verdi.requiem.2.rex-tremendae">Rex tremendae</title>
+			(Quartett), des <title ref="#verdi.requiem.2.liber-scriptus">Liber scriptus</title>
+			(Mezzosopransolo), des <title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title>
+			(Quartett), des <title ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu Christe</title>
+			(Quartett), des <title ref="#verdi.requiem.5">Agnus Dei</title> (Solo für Sopran und
+			Mezzosopran), des <title ref="#verdi.requiem.2.confutatis">Confutatis</title> (ein
+			prachtvolles Baßsolo) etc. Von besonders großer Wirkung ist das <title ref="#verdi.requiem.7">libera me</title> für Chor und die Worte <title ref="#verdi.requiem.7" n="et-lux">lux perpetua</title>, dem katholischen Ritual
+			nachgebildet, wie leises Gebet halb gesprochen, gehören zu den genialsten Zügen. Am
+			Wenigsten gelungen ist die große zweichörige Fuge des <title ref="#verdi.requiem.4">Sanctus</title>. Sie ist nicht gerade sehr geschickt componirt und — wie in der
+			Regel alles Ungeschickte — entsetzlich schwer in der Ausführung. Um eine glatte und
+			sangbare Fuge fertig zu bringen, muß ein Componist schon sehr viel Derartiges
+			geschrieben haben. Nächst den Helden des Contrapunktes Händel und <persName ref="#bach.johann-sebastian">Bach</persName> verstand das wohl Keiner so gut, als
+				<persName ref="#mozart.wolfgang-amadeus">Mozart</persName> — was Sangbarkeit und Eleganz
+			betrifft, vielleicht sogar noch besser als Jene. Auch die Wirkung des <title ref="#verdi.requiem.2.dies-irae">Dies irae</title> und des <title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title> ist mehr äußerlicher Art. Die
+			schwächeren Parteien dieses Requiems beeinträchtigen aber wie gesagt durchaus nicht den
+			schönen Gesammteindruck, denn sie werden hinreichend durch Bedeutenderes aufgewogen. Man
+			hört es diesem Werke an, daß sich <persName ref="#verdi.giuseppe">Verdi</persName> sehr
+			eingehend mit deutscher Musik beschäftigt hat und namentlich sind es <persName ref="#bach.johann-sebastian">Bach</persName>, <persName ref="#wagner.richard">Wagner</persName> und <persName ref="#meyerbeer.giacomo">Meyerbeer</persName>, die sich
+				<persName ref="#verdi.giuseppe">Verdi</persName> besonders genau angesehen hat, ohne
+			jedoch directe Anleihen bei ihnen zu machen, denn <persName ref="#verdi.giuseppe">Verdi</persName>, wie er leibt und lebt, tritt uns in jedem Tacte entgegen, freilich
+			weit geläuterter als in seinen Opern.</p>
+		<p>Die <placeName ref="#dresden">Dresdner</placeName> Ausführung des Werkes betreffend, so sei
+			zunächst der eigenthümlichen aber — wie es sich erwies — sehr zweckentsprechenden
+			Aufstellung der Mitwirkenden gedacht. Das Orchester nahm auf mäßig aufsteigendem Podium
+			die ganze linke Seite der Bühne ein. Rechts waren die Damen des Chors, hinter ihnen auf
+			ziemlich steilem Podium die männlichen Chorsänger und hinter ihnen wieder in
+			beträchtlicher Höhe die Schlaginstrumente und die Trompeten des <title ref="#verdi.requiem.2">Dies irae</title>. Die vier Solisten hatten ihre Plätze ganz
+			vorn in der Mitte, der Dirigent seitwärts rechts unmittelbar vor dem weiblichen Chor.
+			Wie ich hörte, ist diese Aufstellung bei der <placeName ref="#wien">Wiener</placeName> Aufführung
+			von <persName ref="#verdi.giuseppe">Verdi</persName> selbst angewendet worden. Dem Auge
+			erscheint diese Ordnung sehr unsymmetrisch, aber da im Concert das Ohr dem Auge voran
+			steht (wenigstens voran stehen sollte), so ist diese Aufstellung der sonst
+			gebräuchlichen weit vorzuziehen, denn die Klangwirkung ist dadurch höchst wesentlich
+			gefördert. — Das Werk ist von Hrn. Capellm. <persName ref="#schuch.ernst">Schuch</persName>
+			mit großer Vorliebe und in jeder Beziehung sorgfältig und verständnisvoll einstudirt. Es
+			ist dem jungen talentvollen Dirigenten zu dieser Leistung besonders Glück zu wünschen.
+			Wenn derselbe in der sehr begreiflichen Aufregung bei der ersten Aufführung einige Tempi
+			(namentlich die erwähnte Doppelfuge) etwas zu lebhaft nahm, so kann das sein Verdienst
+			nicht schmälern. Bei der zweiten Aufführung kamen die betreffenden Stellen in
+			gemäßigterem Tempo zu Gehör. Die Soli waren in den Händen von Frau <persName ref="#schuch-proska.clementine">Schuch-Proska</persName>, Frl. <persName ref="#nanitz.minna">Nanitz</persName>, HH. <persName ref="#erl.anton">Erl</persName> und
+				<persName ref="#koehler.hans">Köhler</persName>, denen man für ihre musikalisch correcten
+			und schön empfundenen Leistungen volle Anerkennung schuldig ist. Daß die Capelle auch
+			bei dieser Gelegenheit sich als ein Orchester bewährte, wie es deren nur sehr wenige
+			geben dürfte, versteht sich von selbst. Allen Respect aber vor dem Chor des Hoftheaters
+			und seinem Chef, Hrn. MD. <persName ref="#riccius.carl">Riccius</persName>. Diese wackere
+			Schaar ging diesmal ohne die sonst bei großen Musikaufführungen üblichen Hilfstruppen
+			von Gesangvereinen, „kunstgeübten Dilettanten“ etc. ins Gefecht, und dennoch, vielleicht
+			auch eben deshalb, errang der Hoftheaterchor einen besonders glänzenden Sieg. <gap resp="tr"/></p>
+		<p rend="rightInline"><persName ref="#gleich.ferdinand">F. G.</persName></p>
+	</body></text>
+</TEI>

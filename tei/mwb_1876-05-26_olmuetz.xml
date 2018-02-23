@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MWbl, Leipzig, 26. Mai 1876 [1]</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/mwb_1876-05-26_olmuetz.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#mwb" role="publisher"/>
+                    <placeName ref="#leipzig"/>
+                    <date when-iso="1876-05-26"/>
+                    <biblScope unit="issue">22</biblScope><biblScope unit="volume">7</biblScope>
+                    <biblScope unit="page">288</biblScope>
+                    <link facs="mwb_1876-05-26_288.jpg"
+                        target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=8"
+                    />
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#olmuetz"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Nachmeldung</term>
+                    <term type="corpusGroup">Aufführungsgeschichte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <text xml:lang="de">
+        <body rend="antiqua">
+            <head rend="larger">Vermischte Mittheilungen und Notizen.</head>
+            <cb break="null" n="288b" type="skipped"/>
+            <p><g type="ASTERISK" n="002A">*</g>
+                <rs type="event" ref="#olmuetz.1876">In <placeName ref="#olmuetz">Olmütz</placeName>
+                    kam <persName ref="#verdi.giuseppe">Verdi’s</persName>
+                    <title ref="#verdi.requiem">Requiem</title> kürzlich vier<note resp="tr"
+                        type="eventCommentary">Bislang nur zwei Aufführungen belegbar.</note> Mal
+                    zur Aufführung.</rs> Das Werk hat dort sehr gefallen.</p>
+        </body>
+    </text>
+</TEI>

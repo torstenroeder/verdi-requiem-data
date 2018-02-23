@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Tonkunst, Berlin, 25. August 1877</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tonkunst_1877-08-25_ein-brief-verdis.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tonkunst" role="publisher"/>
+					<placeName ref="#berlin"/>
+					<date when-iso="1877-08-25"/>
+					<biblScope unit="issue">34</biblScope><biblScope unit="volume"
+						>4</biblScope><series>tonkunst</series>
+					<biblScope unit="page">125</biblScope>
+					<link facs="tonkunst_1877-08-25_125.png"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#rom"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="124" type="initial"/>
+			<head rend="larger">Gesetzwesen.</head>
+			<pb break="null" n="125" type="skipped"/>
+			<p>
+				<persName ref="#marchesi.xxx">Marchesi</persName>, Red. der „<orgName
+					ref="#la-palestra-musicale">Palestra</orgName>“ (<placeName ref="#rom"
+					>Rom</placeName>), veröffentlicht Nr. 13 einen Brief<note resp="tr"
+					type="textLink">Vgl. La palestra musicale, 1877, Nr. 13, S.
+					54–55.<!--*BIBLIO Datierung fehlt (Kopie unzureichend)--></note>
+				<hi rend="bold"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi> an <hi
+					rend="widespace"><persName ref="#ricordi.tito">Ricordi</persName></hi>, den Red.
+				der <hi rend="antiqua">„<orgName ref="#gazzetta-musicale-di-milano">Gaz.
+						mus.</orgName>“</hi> in <placeName ref="#mailand">Mailand</placeName>, vom
+					<date when-iso="1860-11-17">17./11. 1860</date>, in welchem er die Idee eines
+				von ersten Komponisten für <persName ref="#rossini.gioachino">Rossini</persName> zu
+				schreibenden und einzig zu dessen Andenken alljährlich in <placeName ref="#bologna"
+					>Bologna</placeName> aufzuführenden <title ref="#messa-per-rossini"
+					>Requiems</title> anregte. Da er damit nicht durchdrang, so ging er bei dem
+					<title ref="#verdi.requiem">Requiem</title> für <persName
+					ref="#manzoni.alessandro">Manzoni</persName> davon ab und gab es eben frei. In
+				Folge dessen wurde des Dichters Andenken nun in der ganzen Welt gefeiert. Freilich
+				mußte der <persName ref="#manzoni.alessandro">M.</persName> zunächst stehende Ort
+				dadurch zurücktreten; schwer möchte aber zu entscheiden sein, ob damit ein Unrecht
+				geschah. <gap resp="tr"/></p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 12. Mai 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1876-05-12_hannover.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#mwb" role="publisher"/>
+				<placeName ref="#leipzig"/>
+				<date when-iso="1876-05-12"/>
+				<biblScope unit="issue">20</biblScope><biblScope unit="volume">7</biblScope>
+				<biblScope unit="page">265</biblScope>
+				<link facs="mwb_1876-05-12_265.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760512&amp;seite=9"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#hannover"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="antiqua">
+		<head rend="lineale bold">Aufgeführte Novitäten.</head>
+		<gap resp="tr"/>
+		<p><rs type="event" ref="#hannover.1876.1"><persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>
+					(G.)</persName>, <title ref="#verdi.requiem">Requiem</title>. (<placeName ref="#hannover">Hannover</placeName>, Wohlthätigkeitsconcert <date when-iso="1876-04-14">am 14.
+					April</date>.)</rs></p>
+	</body></text>
+</TEI>

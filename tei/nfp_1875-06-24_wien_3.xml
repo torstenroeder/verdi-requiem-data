@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 24. Juni 1875 [3]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-24_verdi-bueste.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neue-freie-presse" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-24" when-custom="thu"/>
+				<biblScope unit="issue">3889</biblScope><biblScope unit="subIssue">3889</biblScope><series>nfp</series>
+				<biblScope unit="page">6</biblScope>
+				<link facs="nfp_1875-06-24_6.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750624&amp;seite=6"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<pb break="null" n="6" type="initial"/>
+		<head rend="larger">Theater- und Kunstnachrichten.</head>
+		<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date when-iso="1875-06-23">23. Juni</date>.</p>
+		<p>— <rs type="event" ref="#wien.1875.4">Der heutigen letzten Aufführung des <title ref="#verdi.requiem">Requiems</title> von <persName ref="#verdi.giuseppe">Verdi</persName> wohnten der
+					<persName ref="#franz-joseph-i.habsburg">Kaiser</persName> und mehrere Prinzen
+				bei.</rs><note resp="tr" type="eventCommentary">Zugegen waren Erzherzog <persName ref="#karl-ludwig.oesterreich">Karl Ludwig</persName>, Erzherzog <persName ref="#wilhelm.oesterreich">Wilhelm</persName>, Erzherzogin <persName ref="#marie-therese.oesterreich-este">Maria Theresia</persName>, <persName ref="#wilhelm.braunschweig">Herzog von Braunschweig</persName> und Prinz <persName ref="#ernst-august.hannover">Ernst August von Hannover</persName>.</note> Das
+				<placeName ref="#wien.hof-operntheater">Theater</placeName> war bis auf den letzten Platz
+			gefüllt. — Die Direction des <placeName ref="#wien.hof-operntheater">Hofoperntheaters</placeName>
+			hat den gefeierten Componisten noch eine besondere Ovation dargebracht, indem sie dessen
+			Büste aus <placeName ref="#mailand">Mailand</placeName> kommen ließ, um dieselbe im Foyer des
+				<placeName ref="#wien.hof-operntheater">Opernhauses</placeName> in den Reihen der Meister der
+			Tonkunst, wo sie bisher noch gefehlt, aufstellen zu lassen.</p>
+	</body></text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 29. Juni 1875</title><author><persName ref="#anonyma.eine-schauspielerin"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-29_ein-ausflug-ins-musikalische.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neue-freie-presse" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-06-29" when-custom="tue"/>
+				<biblScope unit="issue">3894</biblScope><biblScope unit="subIssue">3894</biblScope><series>nfp</series>
+				<biblScope unit="page">5–6</biblScope>
+				<link facs="nfp_1875-06-29_5.jpg"/>
+				<link facs="nfp_1875-06-29_6.jpg"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Biografik</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="5c" type="initial"/>
+		<head rend="larger">Ein Ausflug ins Musikalische.</head>
+		<head rend="smaller">(Aus dem Briefe einer <persName ref="#anonyma.eine-schauspielerin">Schauspielerin</persName>.)</head>
+		<p>Liebe Freundin! <rs type="event" ref="#wien.1875.4">Natürlich bin ich auch bei den
+				Verdi-Vorstellungen gewesen und habe dann einen Extrazug der Südbahn benützt, um
+				wieder heimzudampfen.</rs> Es hat mich sehr stolz gemacht, als ich in den
+			Zeitungen las, daß an diesen merkwürdigen Abenden ein Separatzug für die Sommerfrischler
+			eingerichtet wurde. In Deutschland ist diese Verschwisterung von Dampf und Kunstgenuß
+			keine Seltenheit, und zwischen kleinen Städten gehen Abends die sogenannten Theaterzüge,
+			zumeist im Winter. Den Frankfurtern z.B. gewährt es ein großes Vergnügen, in <placeName ref="#darmstadt">Darmstadt</placeName> ein Stück durchfallen zu sehen und noch am selben
+			Abend die Meldung von diesem Unglück nach Hause bringen zu können. Ebenso freuen sich
+			die Darmstädter, wenn man in <placeName ref="#frankfurt-am-main">Frankfurt</placeName> eine Oper
+			schlecht aufgeführt hat, weil sie in der Stadt, wo so elend gesungen wurde, nicht auch
+			noch übernachten müssen. In <placeName ref="#wien">Wien</placeName> ist es im Winter mit solchen
+			Vergnügungen schlecht bestellt, und wenn Jemand aus <placeName ref="#stockerau">Stockerau</placeName> nach der Residenz gekommen ist, um im <placeName ref="#wien.burgtheater">Burgtheater</placeName> drei traurige Lustspiel-Novitäten an sich
+			vorübergehen zu lassen, so ist er für die Nacht verloren, da er in einem Hotel schlafen
+			und außerdem dafür sorgen muß, in der kurzen Zeit vier Bougies, Service u. s. w. zu
+			verbrauchen. Da darf also <persName ref="#verdi.giuseppe">Verdi</persName> doppelt so stolz
+			auf seine Triumphe sein; man hat ihm nicht die Pferde ausgespannt, aber man hat die
+			Dampfrosse für ihn geheizt, und das will heutzutage, wo die Bahnen nicht gerade das Geld
+			zum Waggonfenster hinauswerfen, schon was heißen.</p>
+		<p>Ob auch ich entzückt war von <persName ref="#verdi.giuseppe">Verdi</persName> und seinen
+			Sängern? Ich war so entzückt, wie alle Künstlerinnen, welche neidisch zuhörten und die
+			sich im innersten Grunde ihres klugen Herzens auch ein wenig ärgerten. Denn du weißt es,
+			liebe Freundin, Beifall und Begeisterung, das ist die Luft, von der wir leben, und je
+			mehr davon aufgezehrt wird, desto weniger bleibt für die Einzelnen übrig. Die Wiener
+			Luft enthält zwar reichliche Enthusiasmusmengen, aber diese Italiener haben arg in
+			unserem Vorrath gehaust, und wir werden im Winter viel zu thun haben, um das nöthige
+			Quantum, ohne welches wir vergehen müssen, wieder zu erzeugen. Ich weiß nicht, wie den
+			Sängerinnen zu Muthe war, welche den Triumph der Fremden mitansahen; sie haben lebhaft
+			mitapplaudirt, und wenn aus einer Künstlerloge Applaus kommt, so ist er immer sehr echt,
+			weil das Gegentheil Comödie wäre, und wie kämen wir zum Comödiespielen? <persName ref="#verdi.giuseppe">Verdi</persName> hat mich schon durch sein bescheidenes Auftreten
+			für sich eingenommen. Er betrat so schüchtern die Bühne und blickte so erwartungsvoll
+			ins Parterre, als ob er soeben erfahren hätte, daß alle seine Opern sammt dem <title ref="#verdi.requiem">Requiem</title> nicht von ihm, sondern von mehreren Leuten da
+			unten geschrieben worden wären und man ihm heute die Erlaubniß gegeben hätte, Einiges
+			davon anzuhören. Wie anders betritt <persName ref="#wagner.richard">Wagner</persName> sein
+			Podium! Als ich ihn zum erstenmal in einem Concert dirigiren sah, als sein souveräner
+			Blick auf die Schaar seiner Getreuen fiel und sein durchdringendes Auge wie
+			inquisitorisch auf die Menge traf, da erschrak ich, die zufällig in der ersten Bank ganz
+			nahe dem gefürchteten Meister saß, gar heftig. Und als er dann den Tactirstock ergriff
+			und ihn erst ein wenig bedrohlich schwenkte, als gedenke er uns vorher alle anderen
+			Harmonien aus den Köpfen zu jagen, da wollte ich in meiner Angst ausrufen: Gnade, großer
+				<persName ref="#wagner.richard">Richard</persName>, ich habe erst heute Früh etwas von
+				<persName ref="#mendelssohn-bartholdy.felix">Mendelssohn</persName> gespielt — aber es
+			soll gewiß nicht mehr geschehen — ich bin noch so jung, und das Lied war so schön —
+			Gnade! Ein donnernder Paukenschlag, den meine Begleiterin, eine Wagnerianerin, für ein
+			wunderbares Piano erklärte, kündigte die Ouvertüre an. Dann verlor ich die Besinnung,
+			und als ich wieder erwachte, stand <persName ref="#wagner.richard">Wagner</persName> noch auf
+			dem Podium und winkte uns wohlwollend mit dem Kopfe zu, als wolle er sagen: „Schon gut,
+			schon gut! Ich halte mich eurer Ergebenheit versichert, meine lieben Unterthanen; <pb break="yes" n="6" type="regular"/>zahlt auch ferner die Steuern pünktlich weiter,
+			und ich werde allergnädigst noch einmal concertiren.“ Worauf sich der alte
+			Musik-Landesvater mit einer huldvollen Handbewegung zurückzog. Ich verstehe nichts
+			davon, ob <persName ref="#wagner.richard">Wagner</persName> oder <persName ref="#verdi.giuseppe">Verdi</persName> länger leben werde; aber ich weiß, daß der Italiener auch ohne
+			Begeisterungs-Quartiermacher in unser Herz aufgenommen wurde, und daß er für den
+			rauschendsten Beifall so bescheiden quittirt, als ob er morgen oder längstens übermorgen
+			ins Reich des Vergessens abreisen müßte, wähend Se. Majestät <persName ref="#wagner.richard">Richard I.</persName> immer gleich als Unsterblicher auftritt und
+			mit jedesmal den Eindruck macht, als ob er seine eigene Marmorstatue vorstellen wollte.
+			Von dem wunderschönen <title ref="#verdi.requiem">Requiem</title> habe ich nach zweimaligem
+			Anhören gleich die herrlichsten Stellen auswendig gewußt, ohne lateinischen Text
+			natürlich. Es hat mir immer sehr gut gefallen, daß in der Kirche nur der Herr Pfarrer
+			und der liebe Gott Lateinisch wissen, und wie sich die andächtigen Menschen darauf
+			verlassen, daß die Beiden schon das Rechte treffen werden. Ich war einmal gefährlich
+			krank, und da wurde von meinem Hausarzte der berühmteste Professor aus der Stadt an mein
+			Bett geholt. Der berühmte Mann sah mich gütig an und ergriff meine fieberheiße Hand, und
+			dann redeten sie wol eine Viertelstunde Lateinisch mit einander, worauf ich bald wieder
+			gesund wurde. Sie müssen vortreffliche Dinge mit einander gesprochen haben, sonst hätte
+			es mit nicht so schnell geholfen. Es soll auch Leute geben, die nach einem solchen
+			lateinischen Consilium sterben, und dann ist es gewiß gut, daß die leidenden Menschen
+			nicht verstanden haben, was mit ihnen vorgegangen ist. Die Protestanten reden allerdings
+			Deutsch mit ihrem Gotte, dafür aber haben sie keine so prächtige Musik zu den Messen,
+			und wenn sie in den Himmel kommen, sind sie so unmusikalisch, daß man ihnen kein Solo im
+			Hallelujah anvertrauen darf und sie in den Chor stecken muß, wo man nichts merkt, wenn
+			sie einen Gickser in den Sphärenklängen machen. Das <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName> mit seinen heiligen
+			Jenseitsworten und seinen süßen Diesseitsmelodien hat mir eine lebhafte Vorstellung
+			davon gegeben, wie es aussehen muß, wenn sie im Himmel nach vielen ernsten <persName ref="#bach.johann-sebastian">Bach-</persName> und <persName ref="#haendel.georg-friedrich">Händel</persName>-Concerten einmal eine fromme Oper aufführen wollen. Da nehmen sie
+			das <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName>, weil das doch am Ende Kirchenmusik ist, und der gute <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> oder sonst ein liebenswürdiger
+			Capellmeister übernimmt aus Gefälligkeit das Digiriren. Auf der Centralsonne wird die
+			Oper durch hunderttausendmeilenlange Anschlagzettel angezeigt, und vom Sirius, Uranus,
+			vom großen und kleinen Bären aus werden Extrazüge abgelassen, wenn nicht zufällig
+			ohnedies fahrplanmäßige Kometenbahnen eingerichtet sind. Dann geht die Vorstellung mit
+			aufgehobenem Abonnement (die Leute müssen da nämlich von Abraham’s Schoß aufstehen,
+			damit der alte Herr auch eine Freude hat) fröhlich von statten. Die vorzüglichen Sänger
+			aus allen Himmelsgegenden wirken mit, und die geschultesten Engels-Chöre und
+			Orchesterkräfte musiciren auch dabei. Das brillante <title ref="#verdi.requiem.2.recordare">Recordare</title> wie das wundersame <title ref="#verdi.requiem.5">Agnus Dei</title> müssen natürlich wiederholt werden, und alle
+			Welt jubelt darüber, wieder einmal etwas herzerfreuend Weltliches gehört zu haben. Und
+			ist die letzte Note verklungen, so ruft Alles: „<persName ref="#verdi.giuseppe">Verdi</persName>! <persName ref="#verdi.giuseppe">Verdi</persName>! soll draußen bleiben,
+			so lange es ihm gefällt — er <hi rend="widespace">lebe</hi>, und zwar hoch!“</p>
+		<p>Siehst du, so kommt ein Weltkind auf die närrischesten Ideen, wenn es einmal zu einer
+			kirchlichen Aufführung in die Oper geht; aber ich schäme mich noch nicht, zu
+			wiederholen, daß ich allen meinen Freundinnen seit einer Woche <title ref="#verdi.requiem">Requiem</title>-Fragmente so begeistert als möglich vorsinge. Das soll zwar nicht
+			classisch sein, was man sich gleich merkt, aber ich halte es in der Musik durchaus nicht
+			mit dem ungarischen Magnaten, der wüthend wurde, weil seine Schnürhosen paßten; „wenn
+			ich hineinkomme, nehme ich sie nicht,“ schrie er heftig, und da alle Ungarn solche
+			classische Hosen — Pardon Beinkleider tragen, so hatte der Mann vollkommen Recht. Ich
+			muß in die Musik hineinkönnen, sonst bin ich verloren und verstehe kein Wort. Es gibt
+			auch gottlob noch sehr viele schöne und edle Musik, die man innig genießen kann, ohne
+			Harmonielehre studirt zu haben. Contrapunctum, Streusand drauf!</p>
+		<p>Beim <title ref="#verdi.requiem">Requiem</title> war mit das Herz aufgegangen, und bei <title ref="#verdi.aida">„Aida“</title> wäre es bald vor Freude zersprungen. Man muß einen
+			Menschen und eine Oper in ihrer eigenen Muttersprache hören, um sie ganz würdigen zu
+			können. Ich glaube einmal gelesen zu haben, daß jede und auch die beste Uebersetzung uns
+			höchstens das rückwärtige Muster einer schönen Teppichstickerei vorstellen kann; es sind
+			dieselben Linien und Farben, und es ist doch beiweitem nicht dasselbe. <persName ref="#verdi.giuseppe">Verdi’s</persName> Sängerinnen liebe ich schon aus patriotischer
+			Freude darüber, daß diese beiden Italienierinnen Oesterreicherinnen sind. Die
+			Luftveränderung scheint den Sängerinnen sehr wohl gethan zu haben, und viele
+			einheimische Damen haben erklärt, jetzt nach <placeName ref="#italien">Italien</placeName> reisen
+			zu wollen, um zu sehen, ob dort vielleicht ihre Stimme irgendwo vergraben liege. Ich
+			glaube aber, man findet im Süden nur eine schöne Stimme, wenn man in der Kehle schon ein
+			Stückchen Italien von Feuer und Gold mitbringt. Wir lassen uns in <placeName ref="#wien">Wien</placeName> zwar auch nicht spotten, aber dieses wunderbare Ineinanderklingen von
+			Alt und Sopran haben wir schon lange nicht erlebt, und wie feurig diese
+			Oesterreicherinnen als Amneris und Aïda sich die heftigsten italienischen Sturm-Arien
+			ins Gesicht sangen! Und wenn man erst bedenkt, daß Sklavin und Prinzessin am
+			Pharaonenhofe, nachdem sie sich mit glühender Leidenschaft italienisch gestritten,
+			hinter der Scene sich begegnen und zugleich lebhaft ausrufen: „Gut is heut’ gangen, aber
+			die Hitz!“ Es ist davon gesprochen worden, daß die Waldmann für theures Geld Wien
+			wiedergewonnen werden soll. Wäre es da nicht gerathen, wenn unsere Directoren, welche
+			immer weite Entdeckungsreisen antreten, einmal einen verläßlichen Bädeker für <placeName ref="#wien">Wien</placeName> zu Hand nehmen würden und ein gutes Fernglas, mit dem man
+			bis über das engherzige „Es gibt keine Propheten im Vaterlande“<note resp="tr" type="bibleLink">Vgl. Mt 13,57: »Jesus aber sprach zu ihnen: Ein Prophet gilt
+				nirgends weniger als in seinem Vaterland und in seinem Hause.«</note> hinaussehen
+			kann? Mich haben sie auch noch nicht entdeckt, aber wenn wieder so ein Director in die
+			Fremde reist, stelle ich mich auf den Perron des Bahnhofes und rufe ihm zu: „Nehmen Sie
+			jedenfalls ein Retourbillet, Herr Director, es kommt billiger!“ Lerne nur fleißig
+			Italienisch, liebe Freundin, so ein Bißchen <hi rend="antiqua">„Mille grazie!“</hi>
+			klingt wunderschön und <hi rend="antiqua">Addio mia cara, tuissima</hi>.</p>
+		<p rend="rightInline">* * *</p>
+	</body></text>
+</TEI>

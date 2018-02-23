@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader><fileDesc><titleStmt><title>Le Monde Illustré, Paris, 20. Juni 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mi_1874-06-20.xml</p></publicationStmt><sourceDesc><bibl>
+                <orgName ref="#le-monde-illustre" role="publisher"/>
+                <placeName ref="#paris"/>
+                <date when-iso="1874-06-20"/>
+                <biblScope unit="issue">897</biblScope><biblScope unit="volume">18</biblScope><series>mi</series>
+                <biblScope unit="page">381</biblScope>
+                <link target="http://gallica.bnf.fr/ark:/12148/bpt6k6379463j/f5.item"/>
+            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#mailand"/></creation><textClass><keywords><term type="textType">Illustration</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+    <text xml:lang="de"><body rend="fraktur">
+        <p><graphic url="mi_1874-06-20_381.png"><desc>La messe de Verdi a l’Opéra comique</desc></graphic></p>
+        <p><rs type="event" ref="#paris.1874">LA <title ref="#verdi.requiem">MESSE</title> DE <persName ref="#verdi.giuseppe">VERDI</persName> A <placeName ref="#paris.opera-comique">L’OPÉRA
+                    COMIQUE</placeName>.</rs> Le maestro dirigeant l’orchestre. — (Dessin de M.
+                <persName ref="#morin.edmont">Edmond Morin</persName>.) — Voir la <hi rend="italic">Chronique musicale</hi>, p. 387.</p>
+    </body></text>
+</TEI>

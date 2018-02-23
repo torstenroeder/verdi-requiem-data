@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 15. Juli 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-07-15_theater-und-kunstnachrichten.xml</p></publicationStmt><sourceDesc><bibl>
+				<orgName ref="#neue-freie-presse" role="publisher"/>
+				<placeName ref="#wien"/>
+				<date when-iso="1875-07-15"/>
+				<biblScope unit="issue">3910</biblScope><biblScope unit="subIssue">3910</biblScope><series>nfp</series>
+				<biblScope unit="page">5</biblScope>
+				<link facs="nfp_1875-07-15_5.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750715&amp;seite=5"/>
+			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#venedig"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
+	<text xml:lang="de"><body rend="fraktur">
+		<cb break="null" n="5b" type="initial"/>
+		<head rend="larger">Theater- und Kunstnachrichten.</head>
+		<p rend="right"><placeName ref="#wien">Wien</placeName>, <date when-iso="1875-07-14">14.
+			Juli</date>.</p>
+		<p>— Man schreibt aus <hi rend="widespace"><placeName ref="#venedig">Venedig</placeName></hi>: <rs type="event" ref="#venedig.1875.1">Die schnell berühmt gewordene „<title ref="#verdi.requiem">Manzoni-Messe</title>“ <persName ref="#verdi.giuseppe">Verdi’s</persName> ist am
+					<date when-iso="1875-07-11">11. Juli</date> im hiesigen <placeName ref="#venedig.teatro-malibran">Teatro Malibran</placeName> unter Maestro <persName ref="#faccio.franco">Faccio’s</persName> Leitung aufgeführt worden</rs>, mit
+			immensem Erfolg natürlich. Die Soli waren den Damen Stolz und Waldmann und den Herren
+			Masini und Medini anvertraut. Der Zudrang des Publicums war gewaltig; Viele, welche
+			Billete haben wollten, mußten unverrichtetet Sache umkehren, da es ihnen völlig
+			unmöglich blieb, sich zur Kasse durchzudrängen. Das Theater stellte, von <persName ref="#bertoja.pietro">Bertoja</persName> eigens für die Aufführung gemalt, das Innere
+			einer gothischen Kirche vor. Die Aufstellung der Sänger war ganz so wie in <placeName ref="#wien">Wien</placeName>, rechts von den Zuhörern der Chor, links das Orchester,
+			inmitten die Soli und der Dirigent. Das Podium zwischen den Ausführenden und der Rampe
+			war in einen Blumenteppich verwandelt. Die Sänger erschienen schwarz gekleidet, die
+			Sängerinnen weiß. Von den einzelnen Nummern der Composition <persName ref="#verdi.giuseppe">Verdi’s</persName>, „in welcher musikalische Gelehrsamkeit mit vollen Händen
+			ausgestreut ist“, machte gleich das <hi rend="antiqua"><title ref="#verdi.requiem.1" n="kyrie">Kyrie</title></hi> einen außerordentlichen Eindruck; „wie ein elektrischer Strom
+			drang die Schönheit in die Herzen der Hörer“, das Publicum schien förmlich bezaubert,
+			hörte mit andächtiger Stille zu und versparte den Applaus, welcher dann freilich doppelt
+			enthusiastisch ausfiel, zum Schlusse der Abtheilung — für italienische
+			Theatergewohnheiten ein wahres Wunder. Die <title ref="#verdi.requiem.4" n="sanctus">Doppelfuge im <hi rend="antiqua">Sanctus</hi></title> mußte wiederholt werden,
+			welche Ehre übrigens auch dem von <persName ref="#masini.angelo">Masini’s</persName> Solo
+			glänzend gelobten <hi rend="antiqua"><title ref="#verdi.requiem.3" n="hostias">Hostias</title></hi> widerfuhr. Chöre und Orchester werden höflich gelobt.</p>
+	</body></text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 14. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1876-01-14_hamburg.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-iso="1876-01-14" when-custom="fri"/>
+					<biblScope unit="issue">10</biblScope><biblScope unit="volume"
+						>26</biblScope><series>tms</series>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#hamburg"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<p><g type="MULTIPLICATION_X" n="2715">✕</g> (<hi rend="widespace">Musik- und
+					Theater-Nachrichten</hi>.) <rs type="event" ref="#hamburg.1876"><persName
+						ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> ist auch in <placeName
+						ref="#hamburg">Hamburg</placeName> mit großem Erfolge aufgeführt
+					worden.</rs> Die Sopranpartie hat die aus ihrem hierortigen Engagement bekannte
+				Soubrette, nun Opernsängerin Frl. <persName ref="#froehlich.xxx">Fröhlich</persName>
+				gesungen. <gap resp="tr"/></p>
+		</body>
+	</text>
+</TEI>

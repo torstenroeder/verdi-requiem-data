@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lilli Lehmann, Mein Weg, 1913</title>
+				<author><persName ref="#lehmann.lilli"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/lehmann_1920_mein-weg.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<placeName ref="#berlin"/>
+					<date when-iso="1876-04-15"/>
+				</bibl>
+				<bibl>
+					<title>Lilli Lehmann: Mein Weg. Leipzig: Hirzel, 1913.</title>
+					<date when-iso="1913-00-00"/>
+					<biblScope unit="page">15–16</biblScope>
+					<link target="https://archive.org/stream/meinweg00lehm#page/15/mode/1up"/>
+					<link target="https://archive.org/stream/meinweg00lehm#page/16/mode/1up"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#berlin"/><date when-iso="1876-04-15"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Biografik</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<p><pb break="null" n="15" type="initial"/>
+				<rs type="event" ref="#berlin.1876.1">Der <date when-iso="1876-04-15">15. April
+						1876</date> brachte ein Ereignis für mich: <persName ref="#verdi.giuseppe"
+						>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“, das wir im
+						<placeName ref="#berlin.hofoper">Königlichen Opernhause</placeName> dreimal
+					aufführten; <persName ref="#ernst.heinrich">Heinrich Ernst</persName>, <persName
+						ref="#betz.franz">Franz Betz</persName>, <persName ref="#brandt.marianne"
+						>Marianne Brandt</persName> und ich.</rs> Trotz <persName
+					ref="#wagner.richard">Wagners</persName> Flagge, unter der wir <placeName
+					ref="#bayreuth">Bayreuth</placeName> schon entgegensegelten, griff mir <persName
+					ref="#verdi.giuseppe">Verdis</persName> wundervolle Musik tief ins Herz. Ich
+				war’s ja gewöhnt, katholische Musik zu singen, kannte die Zeremonien, die mystische
+				Dämmerung der katholischen Kirche, die tiefe Gläubigkeit des katholischen Volkes,
+				die Macht der Musik im geweihten, weihrauchdurchschwängerten Raume und wußte mit
+				Würde wiederzugeben, was dabei in meinem eignen und dem Innern andrer vorging. So
+				oft ich auch katholische Kirchenmusik — wo und was immer — in meinem Leben sang,
+				stets fühlte ich mit Bestimmtheit, daß ich die einzige Mitwirkende war, welche der
+				tief religiösen Empfindung, der Heiligkeit der Handlung im Ausdruck gerecht wurde.
+				Vielleicht lag es an meiner mir wohlbewußten italienischen Stilkenntnis. Etwas mußte
+				schon an diesem Gefühle richtig sein, <pb break="yes" n="16" type="regular"/> denn
+					<rs type="event" ref="#koeln.1877.musikfest.2">als wir: <persName
+						ref="#ernst.heinrich">Heinrich Ernst</persName>, <persName
+						ref="#henschel.georg">Georg Hentschel</persName>, <persName
+						ref="#brandt.marianne">Marianne Brandt</persName> und ich beim Kölner
+					Musikfest <date when-iso="1877">77</date> das <title ref="#verdi.requiem"
+						>Requiem</title> unter <persName ref="#verdi.giuseppe">Verdis</persName>
+					eigner Leitung sangen, war ich die einzige, der <persName ref="#verdi.giuseppe"
+						>Verdi</persName> nicht das geringste ausbesserte</rs>. Am Abend klopfte er
+				mir lächelnd auf die Schulter und sprach mir entzückt seine Befriedigung aus. Später
+				hatte er sogar seinen Wirten ausgesprochen, daß er nur mit mir zufrieden gewesen und
+				stellte meine Leistung sogar derjenigen seiner Lieblingssängerin <persName
+					ref="#stolz.teresa">Stolz</persName> an die Seite. <persName
+					ref="#verdi.giuseppe">Verdi</persName> war kein Mann von vielem Reden; es
+				verstand sich bei ihm — wie bei allen „Könnern“ — von selbst, daß man die Technik
+				der künstlerischen Aufgaben, die man übernommen, meisterte. Und ohne daß er es mir
+				sagte, wußte ich, daß er es gut fand. Als außergewöhnlicher Mensch wird <persName
+					ref="#verdi.giuseppe">Verdi</persName> von allen denen geschildert, die das
+				Glück hatten, ihm nähertreten zu dürfen. Ich weiß nur, daß er für mich um so größer
+				wurde, je länger ich lebte, und daß ich ihn heute zu den Größten, Höchsten rechne
+				und ihn gleich ihnen verehre und liebe. <persName ref="#verdi.giuseppe"
+					>Verdi</persName> war mit seiner Gattin gekommen, und mit beiden so lieben,
+				ruhigen Menschen erlebten wir, unter Führung des geistreichen, witzigen <persName
+					ref="#hiller.ferdinand">Ferdinand Hiller</persName> — der sich stets nur „Fasi“
+				unterschrieb und mir als Künstler sehr befreundet war — ein wundervolles Fest, das
+					<persName ref="#brahms.johannes">Johannes Brahms</persName> als Dritter im Bunde
+				verschönte, der damals noch glückstrahlend und heiter die ganze schöne Frauenwelt zu
+				seinen Füßen liegen sah. Als ich am dritten Abend aufs Podium stieg, um eine <title
+					ref="#spohr.faust">Faustarie</title> von <persName ref="#spohr.louis"
+					>Spohr</persName> zu singen und <persName ref="#brahms.johannes"
+					>Brahms</persName> meinen Strauß zu halten gab, sah ich, wie er ihn zerpflückte,
+				jedem jungen Mädchen des Chors eine Blume daraus verabreichte und sich dabei vor
+				Lachen schüttelte.</p>
+		</body>
+	</text>
+</TEI>
