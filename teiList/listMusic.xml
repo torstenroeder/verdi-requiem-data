@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Werke der Musik</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/orte</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<list>
+				<head>Messen und Kantaten</head>
+				<item xml:id="bach.h-moll-messe">
+					<idno type="gnd">300009879</idno>
+					<name type="index">H-Moll-Messe</name>
+					<!-- 'H' großgeschrieben für die Sortierung in XSL 1.0 -->
+					<name type="ordinal">BWV 232</name>
+					<desc>Geistlich / Messe</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#bach.johann-sebastian" role="composer"/>
+					<bibl type="de.wikipedia.org">h-Moll-Messe</bibl>
+				</item>
+				<item xml:id="bach.kantate">
+					<name type="full">Eine Kantate</name>
+					<name type="index">Kantate (Bach)</name>
+					<!-- unspezifisch -->
+					<desc>Geistlich / Messe</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#bach.johann-sebastian" role="composer"/>
+				</item>
+				<item xml:id="beethoven.missa-solemnis">
+					<idno type="gnd">300015798</idno>
+					<name type="index">Missa Solemnis</name>
+					<name type="motto">Von Herzen – möge es wieder – zu Herzen gehen!</name>
+					<desc>Geistlich / Messe</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#beethoven.ludwig-van" role="composer"/>
+					<bibl type="de.wikipedia.org">Missa_Solemnis_(Beethoven)</bibl>
+					<bibl type="imslp.org">Missa_solemnis,_Op.123_(Beethoven,_Ludwig_van)</bibl>
+					<list>
+						<item xml:id="beethoven.missa-solemnis.kyrie">
+							<name>Kyrie</name>
+							<span to="85" from="1" type="tempo">Assai sostenuto. Mit Andacht</span>
+							<span to="117" from="86" type="tempo">Andante assai ben marcato</span>
+							<span to="223" from="118" type="tempo">Tempo I</span>
+						</item>
+						<item xml:id="beethoven.missa-solemnis.gloria">
+							<name>Gloria</name>
+							<span to="130" from="1" type="tempo">Allegro vivace</span>
+							<span to="173" from="131" type="tempo">Meno Allegro</span>
+							<span to="279" from="174" type="tempo">Tempo I</span>
+							<span to="309" from="280" type="tempo">Larghetto</span>
+							<span to="359" from="310" type="tempo">Allegro maestoso</span>
+							<span to="458" from="360" type="tempo">Allegro, ma non troppo e ben
+								marcato</span>
+							<span to="524" from="459" type="tempo">Poco più / Allegro</span>
+							<span to="569" from="525" type="tempo">Presto</span>
+						</item>
+						<item xml:id="beethoven.missa-solemnis.credo">
+							<name>Credo</name>
+							<span to="123" from="1" type="tempo">Allegro ma non troppo</span>
+							<span to="143" from="124" type="tempo">Adagio</span>
+							<span to="155" from="144" type="tempo">Andante</span>
+							<span to="187" from="156" type="tempo">Adagio espressivo</span>
+							<span to="193" from="188" type="tempo">Allegro</span>
+							<span to="263" from="194" type="tempo">Allegro molto</span>
+							<span to="305" from="264" type="tempo">Allegro ma non troppo</span>
+							<span to="371" from="306" type="tempo">Allegretto ma non troppo</span>
+							<span to="432" from="372" type="tempo">Allegro con moto</span>
+							<span to="472" from="433" type="tempo">Grave</span>
+						</item>
+						<item xml:id="beethoven.missa-solemnis.sanctus">
+							<name>Sanctus</name>
+							<name type="tempo">Adagio. Mit Andacht</name>
+						</item>
+						<item xml:id="beethoven.missa-solemnis.agnus-dei">
+							<name>Agnus Dei</name>
+							<name type="tempo">Adagio. Presto</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="bellini.messen">
+					<name>Die Messen</name>
+					<name type="index">Messen (Bellini)</name>
+					<desc>Geistlich / Messe</desc>
+					<persName ref="#bellini.vincenzo" role="composer"/>
+					<bibl type="it.wikipedia.org">Vincenzo_Bellini#Musica_sacra</bibl>
+				</item>
+				<item xml:id="bellini.dixit-dominus">
+					<name type="index">Dixit Dominus</name>
+					<desc>Geistlich</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#bellini.vincenzo" role="composer"/>
+				</item>
+				<item xml:id="berlioz.grande-messe-des-morts">
+					<idno type="gnd">300019351</idno>
+					<name type="index">Grande Messe des Morts</name>
+					<name type="other">Berlioz-Requiem</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#berlioz.hector" role="composer"/>
+					<bibl type="de.wikipedia.org">Requiem_(Berlioz)</bibl>
+					<list>
+						<item xml:id="berlioz.grande-messe-des-morts.requiem-et-kyrie">
+							<name>Requiem et Kyrie</name>
+						</item>
+						<item xml:id="berlioz.grande-messe-des-morts.dies-irae">
+							<name>Dies Irae</name>
+						</item>
+						<item xml:id="berlioz.grande-messe-des-morts.quid-sum-miser">
+							<name>Quid sum miser</name>
+						</item>
+						<item xml:id="berlioz.grande-messe-des-morts.rex-tremendae">
+							<name>Rex tremendae</name>
+						</item>
+						<item xml:id="berlioz.grande-messe-des-morts.quaerens-me">
+							<name>Quaerens me</name>
+						</item>
+						<item xml:id="berlioz.grande-messe-des-morts.lacrimosa">
+							<name>Lacrimosa</name>
+						</item>
+						<item xml:id="berlioz.grande-messe-des-morts.offertorium">
+							<name>Offertorium</name>
+						</item>
+						<item xml:id="berlioz.grande-messe-des-morts.hostias">
+							<name>Hostias</name>
+						</item>
+						<item xml:id="berlioz.grande-messe-des-morts.sanctus">
+							<name>Sanctus</name>
+						</item>
+						<item xml:id="berlioz.grande-messe-des-morts.agnus-dei">
+							<name>Agnus Dei</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="brahms.requiem">
+					<name type="index">Ein deutsches Requiem</name>
+					<name type="secondary">nach Worten der Heiligen Schrift</name>
+					<desc>Geistlich / aliturgisch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#brahms.johannes" role="composer"/>
+					<bibl type="de.wikipedia.org">Ein_deutsches_Requiem</bibl>
+				</item>
+				<item xml:id="brumel.missa-pro-defunctis">
+					<name type="index">Missa pro defunctis</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#brumel.antoine" role="composer"/>
+					<bibl type="requiemsurvey.org"
+						>http://www.requiemsurvey.org/composers.php?id=140</bibl>
+				</item>
+				<item xml:id="cavalli.missa-pro-defunctis">
+					<name type="index">Missa pro defunctis</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#cavalli.francesco" role="composer"/>
+					<bibl type="requiemsurvey.org"
+						>http://www.requiemsurvey.org/composers.php?id=198</bibl>
+				</item>
+				<item xml:id="cherubini.requiem-c-moll">
+					<name type="index">Requiem in c-Moll</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#cherubini.luigi" role="composer"/>
+					<bibl type="de.wikipedia.org">Requiem_c-Moll_(Cherubini)</bibl>
+					<list>
+						<item xml:id="cherubini.requiem-c-moll.introitus">
+							<name>Introitus</name>
+						</item>
+						<item xml:id="cherubini.requiem-c-moll.graduale">
+							<name>Graduale</name>
+						</item>
+						<item xml:id="cherubini.requiem-c-moll.dies-irae">
+							<name>Dies irae</name>
+						</item>
+						<item xml:id="cherubini.requiem-c-moll.offertorium">
+							<name>Offertorium</name>
+						</item>
+						<item xml:id="cherubini.requiem-c-moll.sanctus">
+							<name>Sanctus</name>
+						</item>
+						<item xml:id="cherubini.requiem-c-moll.pie-jesu">
+							<name>Pie Jesu</name>
+						</item>
+						<item xml:id="cherubini.requiem-c-moll.agnus-dei">
+							<name>Agnus Dei</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="cherubini.requiem-d-moll">
+					<name type="index">Requiem in d-Moll</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#cherubini.luigi" role="composer"/>
+					<bibl type="de.wikipedia.org">Requiem_d-Moll_(Cherubini)</bibl>
+				</item>
+				<item xml:id="donizetti.ave-maria">
+					<name type="index">Ave Maria</name>
+					<desc>Geistlich</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#donizetti.gaetano" role="composer"/>
+				</item>
+				<item xml:id="donizetti.miserere">
+					<name type="index">Miserere</name>
+					<desc>Geistlich</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#donizetti.gaetano" role="composer"/>
+				</item>
+				<item xml:id="gounod.messe-breve-pour-les-morts">
+					<name type="index">Messe brève pour les morts</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#gounod.charles" role="composer"/>
+					<bibl type="requiemsurvey.org"
+						>http://www.requiemsurvey.org/composers.php?id=353</bibl>
+				</item>
+				<item xml:id="haydn.messen">
+					<name type="full">Die Messen</name>
+					<name type="incipit">Messen (Haydn)</name>
+					<!-- unspezifisch -->
+					<desc>Geistlich / Messe</desc>
+					<persName ref="#haydn.joseph" role="composer"/>
+					<bibl type="de.wikipedia.org">Joseph_Haydn#Messen</bibl>
+				</item>
+				<item xml:id="jommelli.requiem">
+					<name type="index">Requiem</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#jommelli.niccolo" role="composer"/>
+					<bibl type="imslp.org">Requiem_(Jommelli,_Niccolò)</bibl>
+				</item>
+				<item xml:id="kiel.requiem-as-moll">
+					<name type="index">Requiem in As-Dur </name>
+					<name type="ordinal">op. 80</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#kiel.friedrich" role="composer"/>
+					<note>Uraufführung am 20. November 1881</note>
+					<bibl type="requiemsurvey.org">composers.php?id=431#requiem_id_584</bibl>
+				</item>
+				<item xml:id="kiel.requiem-f-moll">
+					<name type="index">Requiem in f-Moll</name>
+					<name type="ordinal">op. 20</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#kiel.friedrich" role="composer"/>
+					<note>Uraufführung am 8. Februar 1862</note>
+					<bibl type="requiemsurvey.org">composers.php?id=431#requiem_id_584</bibl>
+				</item>
+				<item xml:id="la-rue.missa-pro-defunctis">
+					<name type="index">Missa pro defunctis</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#rue.pierre-de-la" role="composer"/>
+					<bibl type="requiemsurvey.org">composers.php?id=685</bibl>
+				</item>
+				<item xml:id="lachner.requiem">
+					<name type="index">Requiem</name>
+					<name type="ordinal">op. 146</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#lachner.franz" role="composer"/>
+					<bibl type="requiemsurvey.org">composers.php?id=457</bibl>
+				</item>
+				<item xml:id="liszt.missa-solemnis">
+					<name type="index">Missa solemnis</name>
+					<name type="other">Graner Messe</name>
+					<desc>Geistlich / Messe</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#liszt.franz" role="composer"/>
+				</item>
+				<item xml:id="messa-per-rossini">
+					<idno type="gnd">300602847</idno>
+					<name type="index">Messa per Rossini</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Messa_per_Rossini</bibl>
+				</item>
+				<item xml:id="monteverdi.messa-di-requiem">
+					<name type="index">Messa di requiem</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#monteverdi.claudio" role="composer"/>
+					<bibl type="requiemsurvey.org"
+						>http://www.requiemsurvey.org/composers.php?id=547</bibl>
+				</item>
+				<item xml:id="mozart.messen">
+					<name type="full">Die Messen</name>
+					<name type="index">Messen (Mozart)</name>
+					<!-- unspezifisch -->
+					<desc>Geistlich / Messe</desc>
+					<persName ref="#mozart.wolfgang-amadeus" role="composer"/>
+					<bibl type="de.wikipedia.org">Liste_der_Kirchenmusikwerke_Mozarts#Messen</bibl>
+				</item>
+				<item xml:id="mozart.requiem">
+					<idno type="gnd">300110464</idno>
+					<name type="index">Requiem</name>
+					<name type="other">Mozart-Requiem</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#mozart.wolfgang-amadeus" role="composer"/>
+					<persName ref="#suessmayr.franz-xaver" role="composer"/>
+					<bibl type="de.wikipedia.org">Requiem_(Mozart)</bibl>
+					<list>
+						<item xml:id="mozart.requiem.1-introitus">
+							<name>Introitus</name>
+							<name type="ordinal">I.</name>
+							<span>Requiem aeternam</span>
+						</item>
+						<item xml:id="mozart.requiem.2-kyrie">
+							<name>Kyrie</name>
+							<name type="ordinal">II.</name>
+						</item>
+						<item xml:id="mozart.requiem.3-sequentia">
+							<name>Sequentia</name>
+							<name type="ordinal">III.</name>
+							<list>
+								<item xml:id="mozart.requiem.3.1-dies-irae">
+									<name>Dies irae</name>
+								</item>
+								<item xml:id="mozart.requiem.3.2-tuba-mirum">
+									<name>Tuba mirum</name>
+								</item>
+								<item xml:id="mozart.requiem.3.3-rex-tremendae">
+									<name>Rex tremendae</name>
+								</item>
+								<item xml:id="mozart.requiem.3.4-recordare">
+									<name>Recordare</name>
+								</item>
+								<item xml:id="mozart.requiem.3.5-confutatis">
+									<name>Confutatis</name>
+								</item>
+								<item xml:id="mozart.requiem.3.6-lacrimosa">
+									<name>Lacrimosa</name>
+								</item>
+							</list>
+						</item>
+						<item xml:id="mozart.requiem.4-offertorium">
+							<name>Offertorium</name>
+							<name type="ordinal">IV.</name>
+							<span>Domine Jesu Christe</span>
+							<span>Versus: Hostias et preces</span>
+						</item>
+						<item xml:id="mozart.requiem.5-sanctus-benedictus">
+							<name>Sanctus &amp; Benedictus</name>
+							<name type="ordinal">V.</name>
+							<span>Sanctus</span>
+							<span>Benedictus</span>
+						</item>
+						<item xml:id="mozart.requiem.6-agnus-dei">
+							<name>Agnus Dei</name>
+							<name type="ordinal">VI.</name>
+						</item>
+						<item xml:id="mozart.requiem.7-communio">
+							<name>Communio</name>
+							<name type="ordinal">VII.</name>
+							<span>Lux aeterna</span>
+						</item>
+					</list>
+				</item>
+				<item xml:id="pergolesi.stabat-mater">
+					<name type="index">Stabat Mater</name>
+					<desc>Geistlich</desc>
+					<persName ref="#pergolesi.giovanni-battista" role="composer"/>
+				</item>
+				<item xml:id="pitoni.requiem">
+					<name type="full">Ein Requiem von Pitoni</name>
+					<name type="index">Requiem (Pitoni)</name>
+					<!-- unspezifisch -->
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#pitoni.giuseppe-ottavio" role="composer"/>
+					<bibl type="requiemsurvey.org">composers.php?id=608</bibl>
+				</item>
+				<item xml:id="prioris.requiem">
+					<name type="index">Requiem</name>
+					<name type="secondary">Missa pro defunctis à quator vocibus</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#prioris.johannes" role="composer"/>
+					<bibl type="requiemsurvey.org">composers.php?id=624#requiem_id_890</bibl>
+				</item>
+				<item xml:id="richafort.requiem">
+					<name type="index">Requiem</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<persName ref="#richafort.jean" role="composer"/>
+					<bibl type="requiemsurvey.org"
+						>http://www.requiemsurvey.org/composers.php?id=657</bibl>
+				</item>
+				<item xml:id="richter.ewige-ruhe">
+					<name type="index">Ewige Ruhe</name>
+					<name type="other">Trauermotette für Chor und Orgel</name>
+					<desc>Geistlich</desc>
+					<persName ref="#richter.paul" role="composer"/>
+				</item>
+				<item xml:id="rossini.petite-messe-solennelle">
+					<idno type="gnd">30013262X</idno>
+					<name type="index">Petite Messe solennelle</name>
+					<desc>Geistlich / Messe</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#rossini.gioachino" role="composer"/>
+					<bibl type="de.wikipedia.org">Petite_Messe_solennelle</bibl>
+				</item>
+				<item xml:id="rossini.stabat-mater">
+					<idno type="gnd">300132840</idno>
+					<name type="index">Stabat mater</name>
+					<desc>Geistlich</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#rossini.gioachino" role="composer"/>
+				</item>
+				<item xml:id="schumann.requiem">
+					<name type="index">Requiem</name>
+					<name type="secondary">für Soli, Chor und Orchester</name>
+					<name type="ordinal">op. 148</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#schumann.robert" role="composer"/>
+				</item>
+				<item xml:id="verdi-lebeau.requiem">
+					<name type="index">Messa da requiem (für Chor und Orgel)</name>
+					<name type="secondary">Riduzione per canto con accompagnamento d’Organo od
+						Harmonium</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<persName ref="#lebeau.alfred" role="arranger"/>
+				</item>
+				<item xml:id="verdi.requiem">
+					<idno type="gnd">300166192</idno>
+					<name type="index">Messa da requiem</name>
+					<name type="other">Verdi-Requiem</name>
+					<name type="other">Manzoni-Requiem</name>
+					<desc>Geistlich / Messe / Requiem</desc>
+					<lang>Lateinisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Messa_da_Requiem_(Verdi)</bibl>
+					<list>
+						<item xml:id="verdi.requiem.1">
+							<name>Requiem e Kyrie</name>
+							<name type="ordinal">No. 1</name>
+							<name type="secondary">a quattro parti: Soprano, Mezzo-Soprano, Tenore e
+								Basso. – Coro</name>
+							<span from="1" to="78" n="introitus">
+								<span to="16" n="requiem-aeternam" from="1" type="text">Requiem
+									aeternam dona eis, Domine,</span>
+								<span to="27" n="et-lux" from="17" type="text">et lux perpetua
+									luceat eis.</span>
+								<span to="44" n="te-decet-hymnus" from="28" type="text">Te decet
+									Hymnus, Deus, in Sion, et ubi reddetur votum in
+									Jerusalem.</span>
+								<span to="55" n="exaudi" from="45" type="text">Exaudi orationem
+									meam, ad te omnis caro veniet.</span>
+								<span to="66" n="requiem-aeternam.re" from="56" type="text">Requiem
+									aeternam dona eis, Domine,</span>
+								<span to="78" n="et-lux.re" from="67" type="text">et lux perpetua
+									luceat eis.</span>
+							</span>
+							<span to="140" n="kyrie" from="78">
+								<span from="78" n="kyrie-eleison" type="text">Kyrie eleison.</span>
+								<span to="140" n="christe-eleison" type="text">Christe
+									eleison.</span>
+							</span>
+						</item>
+						<item xml:id="verdi.requiem.2">
+							<name>Dies irae</name>
+							<name type="ordinal">No. 2</name>
+							<name type="secondary">a quattro parti, Soli e Coro</name>
+							<list>
+								<item xml:id="verdi.requiem.2.dies-irae">
+									<name>Dies irae</name>
+									<name type="secondary">Coro</name>
+									<span to="73" from="1" n="dies-irae">
+										<span type="text">Dies irae, dies illa</span>
+										<span type="text">solvet saeclum in favilla,</span>
+										<span type="text">teste David cum Sibylla.</span>
+									</span>
+									<span to="91" from="74" n="quantus-tremor">
+										<span type="text">Quantus tremor est futurus,</span>
+										<span type="text">quando judex est venturus,</span>
+										<span type="text">cuncta stricte discussurus.</span>
+									</span>
+								</item>
+								<item xml:id="verdi.requiem.2.tuba-mirum">
+									<name>Tuba mirum</name>
+									<name type="secondary">Coro</name>
+									<span to="139" from="91">
+										<span n="tuba-mirum" type="text">Tuba mirum spargens
+											sonum</span>
+										<span type="text">per sepulchra regionum,</span>
+										<span type="text">coget omnes ante thronum.</span>
+									</span>
+									<span to="161" from="140">
+										<span n="mors-stupebit" type="text">Mors stupebit et
+											natura,</span>
+										<span type="text">cum resurget creatura,</span>
+										<span type="text">judicanti responsura.</span>
+									</span>
+								</item>
+								<item xml:id="verdi.requiem.2.liber-scriptus.1874">
+									<name>Liber Scriptus (1874)</name>
+									<name type="secondary">Fuga</name>
+								</item>
+								<item xml:id="verdi.requiem.2.liber-scriptus">
+									<name>Liber Scriptus (1875)</name>
+									<name type="secondary">Mezzo-Soprano e Coro</name>
+									<span to="177" from="162">
+										<span n="liber-scriptus" type="text">Liber scriptus
+											proferetur,</span>
+										<span type="text">in quo totum continetur,</span>
+										<span type="text">unde mundus judicetur.</span>
+									</span>
+									<span to="229" from="178">
+										<span n="judex-ergo" type="text">Judex ergo cum
+											sedebit,</span>
+										<span type="text">quidquid latet, apparebit,</span>
+										<span type="text">nil inultum remanebit.</span>
+									</span>
+									<span to="269" from="229">
+										<span n="dies-irae" type="text">Dies irae, dies illa</span>
+										<span type="text">solvet saeclum in favilla,</span>
+										<span type="text">teste David cum Sibylla.</span>
+									</span>
+								</item>
+								<item xml:id="verdi.requiem.2.quid-sum-miser">
+									<name>Quid sum miser</name>
+									<name type="secondary">Soprano, Mezzo-Sprano e Tenore</name>
+									<span to="321" from="270">
+										<span n="quid-sum-miser" type="text">Quid sum miser tunc
+											dicturus?</span>
+										<span type="text">Quem patronum rogaturus,</span>
+										<span type="text">cum vix justus sit securus?</span>
+									</span>
+								</item>
+								<item xml:id="verdi.requiem.2.rex-tremendae">
+									<name>Rex tremendae</name>
+									<name type="secondary">Quartetto e Coro</name>
+									<span to="382" from="322">
+										<span n="rex-tremendae" type="text">Rex tremendae
+											majestatis,</span>
+										<span n="qui-salvandos" type="text">qui salvandos salvas
+											gratis,</span>
+										<span n="salva-me" type="text">salva me, fons
+											pietatis.</span>
+									</span>
+								</item>
+								<item xml:id="verdi.requiem.2.recordare">
+									<name>Recordare</name>
+									<name type="secondary">Soprano e Mezzo-Soprano</name>
+									<span to="408" from="383">
+										<span n="recordare" type="text">Recordare, Jesu pie,</span>
+										<span type="text">quod sum causa tuae viae,</span>
+										<span type="text">ne me perdas illa die.</span>
+									</span>
+									<span to="446" from="408">
+										<span n="quaerens-me" type="text">Quaerens me, sedisti
+											lassus,</span>
+										<span type="text">redemisti crucem passus;</span>
+										<span type="text">tantus labor non sit cassus.</span>
+										<span n="juste-judex" type="text">Juste judex
+											ultionis,</span>
+										<span n="donum-fac" type="text">donum fac remissionis</span>
+										<span type="text">ante diem rationis.</span>
+									</span>
+								</item>
+								<item xml:id="verdi.requiem.2.ingemisco">
+									<name>Ingemisco</name>
+									<name type="secondary">Solo per Tenore</name>
+									<span to="456" from="447">
+										<span n="ingemisco" type="text">Ingemisco, tamquam
+											reus,</span>
+										<span type="text">culpa rubet vultus meus,</span>
+										<span type="text">supplicanti parce, Deus.</span>
+									</span>
+									<span to="502" from="457">
+										<span n="qui-mariam" type="text">Qui Mariam
+											absolvisti,</span>
+										<span type="text">et latronem exaudisti,</span>
+										<span type="text">mihi quoque spem dedisti.</span>
+										<span n="preces-meae" type="text">Preces meae non sunt
+											dignae,</span>
+										<span type="text">sed tu bonus fac benigne,</span>
+										<span type="text">ne perenni cremer igne.</span>
+										<span n="inter-oves" type="text">Inter oves locum
+											praesta,</span>
+										<span type="text">et ab haedis me sequestra,</span>
+										<span type="text">statuens in parte dextra.</span>
+									</span>
+								</item>
+								<item xml:id="verdi.requiem.2.confutatis">
+									<name>Confutatis</name>
+									<name type="secondary">Solo per Basso</name>
+									<span to="573" from="503">
+										<span n="confutatis" type="text">Confutatis
+											maledictis,</span>
+										<span type="text">flammis acribus addictis,</span>
+										<span type="text">voca me cum benedictis.</span>
+										<span n="oro-supplex" type="text">Oro supplex et
+											acclinis,</span>
+										<span type="text">cor contritum quasi cinis,</span>
+										<span type="text">gere curam mei finis.</span>
+									</span>
+									<span to="623" from="573">
+										<span n="dies-irae" type="text">Dies irae, dies illa</span>
+										<span type="text">solvet saeclum in favilla,</span>
+										<span type="text">teste David cum Sibylla.</span>
+									</span>
+								</item>
+								<item xml:id="verdi.requiem.2.lacrymosa">
+									<name>Lacrymosa</name>
+									<name type="secondary">Quartetto e Coro</name>
+									<span to="665" from="624">
+										<span n="lacrymosa" type="text">Lacrymosa dies illa,</span>
+										<span type="text">qua resurget ex favilla,</span>
+										<span type="text">judicandus homo reus.</span>
+										<span type="text">Huic ergo parce, Deus,</span>
+									</span>
+									<span to="701" from="666">
+										<span n="pie-jesu" type="text">pie Jesu Domine,</span>
+										<span n="dona-eis" type="text">dona eis requiem.
+											Amen.</span>
+									</span>
+								</item>
+							</list>
+						</item>
+						<item xml:id="verdi.requiem.3">
+							<name>Domine Jesu</name>
+							<name type="ordinal">No. 3</name>
+							<name type="secondary">Offertorio a 4 voci: Soprano, Mezzo-Soprano,
+								Tenore e Basso</name>
+							<span to="89" from="1">
+								<span n="domine-jesu" type="text">Domine Jesu Christe, Rex
+									gloriae,</span>
+								<span type="text">libera animas omnium fidelium</span>
+								<span type="text">defunctorum de poenis inferni</span>
+								<span type="text">et de profundo lacu:</span>
+								<span type="text">Libera eas de ore leonis,</span>
+								<span type="text">ne absorbeat eas tartarus,</span>
+								<span type="text">ne cadant in obscurum:</span>
+								<span type="text">sed signifer sanctus Michael</span>
+								<span type="text">repraesentet eas in lucem sanctam:</span>
+							</span>
+							<span to="118" from="89">
+								<span n="quam-olim-abrahae" type="text">quam olim Abrahae
+									promisisti</span>
+								<span type="text">et semini ejus.</span>
+							</span>
+							<span to="163" from="118">
+								<span n="hostias" type="text">Hostias et preces tibi, Domine,
+									laudis</span>
+								<span type="text">offerimus: tu suscipe pro animabus illis</span>
+								<span type="text">quarum hodie memonam facimus:</span>
+								<span type="text">Fac eas, Domine, de morte</span>
+								<span type="text">transire ad vitam.</span>
+							</span>
+							<span to="198" from="163">
+								<span n="quam-olim-abrahae.r" type="text">Quam olim Abrahae
+									promisisti</span>
+								<span type="text">et semini ejus.</span>
+							</span>
+							<span to="222" from="198">
+								<span n="libera-animas" type="text">Libera animas omnium
+									fidelium</span>
+								<span type="text">defunctorum de poenis inferni,</span>
+								<span type="text">fac eas de morte transire ad vitam.</span>
+							</span>
+						</item>
+						<item xml:id="verdi.requiem.4">
+							<name>Sanctus</name>
+							<name type="ordinal">No. 4</name>
+							<name type="secondary">Fuga a due Cori</name>
+							<span to="139" from="1">
+								<span n="sanctus" type="text">Sanctus, Sanctus, Sanctus</span>
+								<span type="text">Dominus, Deus Sabaoth.</span>
+								<span n="pleni" type="text">Pleni sunt coeli et terra gloria
+									tua.</span>
+								<span n="hosanna" type="text">Hosanna in excelsis.</span>
+								<span n="benedictus" from="41" type="text">Benedictus, qui venit in
+									nomine Domini.</span>
+								<span n="hosanna.r" type="text">Hosanna in excelsis.</span>
+							</span>
+						</item>
+						<item xml:id="verdi.requiem.5">
+							<name>Agnus Dei</name>
+							<name type="ordinal">No. 5</name>
+							<name type="secondary">Soprano, Mezzo-Soprano e Coro</name>
+							<span to="74" from="1">
+								<span type="text">Agnus Dei, qui tollis peccata mundi, dona eis
+									requiem.</span>
+								<span type="text">Agnus Dei, qui tollis peccata mundi, dona eis
+									requiem sempiternam.</span>
+							</span>
+						</item>
+						<item xml:id="verdi.requiem.6">
+							<name>Lux aeterna</name>
+							<name type="ordinal">No. 6</name>
+							<name type="secondary">Mezzo-Soprano, Tenore e Basso</name>
+							<span to="105" from="1">
+								<span n="lux-aeterna" type="text">Lux aeterna luceat eis,
+									Domine:</span>
+								<span type="text">Cum sanctis tuis in aeternum:</span>
+								<span type="text">quia pius es.</span>
+								<span n="requiem-aeternam" type="text">Requiem aeternam dona eis,
+									Domine,</span>
+								<span type="text">et lux perpetua luceat eis.</span>
+							</span>
+						</item>
+						<item xml:id="verdi.requiem.7">
+							<name>Libera me</name>
+							<name type="ordinal">No. 7</name>
+							<name type="secondary">Solo per Soprano. – Coro. – Fuga finale</name>
+							<span to="44" from="1">
+								<span n="libera-me" type="text">Libera me, Domine, de morte
+									aeterna,</span>
+								<span type="text">in die illa tremenda,</span>
+								<span type="text">quando coeli movendi sunt et terra.</span>
+								<span type="text">Dum veneris judicare saeculum per ignem.</span>
+								<span n="tremens-factus" type="text">Tremens factus sum ego et
+									timeo.</span>
+								<span type="text">dum discussio venent atque Ventura ira;</span>
+								<span type="text">quando coeli movendi sunt et terra.</span>
+							</span>
+							<span to="131" from="45">
+								<span n="dies-irae" type="text">Dies irae, dies illa,</span>
+								<span type="text">calamitatis et miseriae,</span>
+								<span type="text">dies magna et amara valde.</span>
+							</span>
+							<span to="170" from="132">
+								<span n="requiem-aeternam" type="text">Requiem aeternam dona eis,
+									Domine,</span>
+								<span n="et-lux" type="text">et lux perpetua luceat eis.</span>
+							</span>
+							<span to="381" from="171">
+								<span n="libera-me.fuga" type="text">Libera me, Domine, de morte
+									aeterna,</span>
+								<span type="text">in die illa tremenda,</span>
+								<span type="text">quando coeli movendi sunt et terra.</span>
+								<span type="text">Dum veneris judicare saeculum per ignem.</span>
+							</span>
+							<span to="421" n="domine" from="381">
+								<span type="text">Domine, Domine, Domine, libera, libera, libera
+									me</span>
+								<span type="text">de morte aeterna, in die illa tremenda,</span>
+								<span type="text">libera me, libera me, Domine,</span>
+								<span type="text">de morte aeterna, in die illa tremenda.</span>
+								<span type="text">Libera me.</span>
+							</span>
+						</item>
+					</list>
+				</item>
+			</list>
+			<list>
+				<head>Oratorien und Festspiele</head>
+				<item xml:id="beethoven.christus-am-oelberge">
+					<idno type="gnd">300015003</idno>
+					<name xml:lang="de" type="index">Christus am Ölberge</name>
+					<desc>Geistlich / Oratorium</desc>
+					<persName ref="#beethoven.ludwig-van" role="composer"/>
+				</item>
+				<item xml:id="graun.der-tod-jesu">
+					<idno type="gnd">300061838</idno>
+					<name xml:lang="de" type="index">Der Tod Jesu</name>
+					<desc>Geistlich / Oratorium</desc>
+					<persName ref="#graun.carl-heinrich" role="composer"/>
+				</item>
+				<item xml:id="haendel.messiah">
+					<name type="index">Der Messias</name>
+					<desc>Geistlich / Oratorium</desc>
+					<persName ref="#haendel.georg-friedrich" role="composer"/>
+					<bibl type="de.wikipedia.org">Messiah</bibl>
+				</item>
+				<item xml:id="haydn.die-jahreszeiten">
+					<idno type="hoboken">XXI:3</idno>
+					<name type="index">Die Jahreszeiten</name>
+					<desc>Geistlich / Oratorium</desc>
+					<persName ref="#haydn.joseph" role="composer"/>
+					<bibl type="de.wikipedia.org">Die_Jahreszeiten_(Haydn)</bibl>
+				</item>
+				<item xml:id="haydn.die-schoepfung">
+					<idno type="hoboken">XXI:2</idno>
+					<name type="index">Die Schöpfung</name>
+					<desc>Geistlich / Oratorium</desc>
+					<persName ref="#haydn.joseph" role="composer"/>
+					<bibl type="de.wikipedia.org">Die_Schöpfung</bibl>
+					<list>
+						<item xml:id="haydn.die-schoepfung.von-deiner-guet">
+							<name>Von deiner Güt, o Herr und Gott</name>
+						</item>
+						<item xml:id="haydn.die-schoepfung.holde-gattin">
+							<name>Holde Gattin, dir zur Seite</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="hiller.die-zerstoerung-jerusalems">
+					<name type="index">Die Zerstörung Jerusalems</name>
+					<desc>Geistlich / Oratorium</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#hiller.ferdinand" role="composer"/>
+					<list>
+						<item xml:id="hiller.die-zerstoerung-jerusalems.ach-waer-mein-haupt">
+							<name>Ach wär mein Haupt eine Wasserquelle (Duett)</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="mendelssohn-bartholdy.elias">
+					<name type="index">Elias</name>
+					<name type="ordinal">op. 70</name>
+					<desc>Geistlich / Oratorium</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#mendelssohn-bartholdy.felix" role="composer"/>
+				</item>
+				<item xml:id="mendelssohn-bartholdy.paulus">
+					<name type="index">Paulus</name>
+					<name type="ordinal">op. 36</name>
+					<desc>Geistlich / Oratorium</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#mendelssohn-bartholdy.felix" role="composer"/>
+					<bibl type="de.wikipedia.org">Paulus_(Mendelssohn)</bibl>
+				</item>
+				<item xml:id="rubinstein.das-verlorene-paradies">
+					<name type="index">Das verlorene Paradies</name>
+					<desc>Geistlich / Oratorium</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#rubinstein.anton" role="composer"/>
+				</item>
+			</list>
+			<list>
+				<head>Opern</head>
+				<item xml:id="auber.fra-diavolo">
+					<idno type="gnd">300003218</idno>
+					<name type="index">Fra Diavolo</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#auber.daniel-francois-esprit" role="composer"/>
+					<bibl type="de.wikipedia.org">Fra_Diavolo_(Oper)</bibl>
+				</item>
+				<item xml:id="auber.la-muette-de-portici">
+					<idno type="gnd">300003250</idno>
+					<name type="index">La Muette de Portici</name>
+					<name xml:lang="de" type="other">Die Stumme von Portici</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#auber.daniel-francois-esprit" role="composer"/>
+					<bibl type="de.wikipedia.org">La_Muette_de_Portici</bibl>
+				</item>
+				<item xml:id="beethoven.fidelio">
+					<idno type="gnd">300015194</idno>
+					<name type="index">Fidelio</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#beethoven.ludwig-van" role="composer"/>
+					<bibl type="de.wikipedia.org">Fidelio</bibl>
+					<list>
+						<item xml:id="beethoven.fidelio.don-pizarro">
+							<name type="index">Don Pizarro (Figur in „Fidelio“)</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="bellini.i-puritani">
+					<name type="index">I puritani</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#bellini.vincenzo" role="composer"/>
+					<bibl type="de.wikipedia.org">I_puritani</bibl>
+					<bibl type="it.wikipedia.org">I_puritani</bibl>
+				</item>
+				<item xml:id="boieldieu.la-dame-blanche">
+					<name type="index">La Dame blanche</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#boieldieu.francois-adrien" role="composer"/>
+					<bibl type="de.wikipedia.org">La_Dame_blanche</bibl>
+				</item>
+				<item xml:id="donizetti.linda-di-chamounix">
+					<name type="index">Linda di Chamounix</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#donizetti.gaetano" role="composer"/>
+					<bibl type="de.wikipedia.org">Linda_di_Chamounix</bibl>
+				</item>
+				<item xml:id="donizetti.maria-di-rohan">
+					<name type="index">Maria di Rohan</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#donizetti.gaetano" role="composer"/>
+					<bibl type="de.wikipedia.org">Maria_di_Rohan</bibl>
+				</item>
+				<item xml:id="glinka.ein-leben-fuer-den-zaren">
+					<name xml:lang="de" type="index">Ein Leben für den Zaren</name>
+					<name xml:lang="ru" type="other">Жизнь за царя</name>
+					<desc>Oper / Russisch</desc>
+					<lang>Russisch</lang>
+					<persName ref="#glinka.michael" role="composer"/>
+					<bibl type="de.wikipedia.org">Ein_Leben_für_den_Zaren</bibl>
+				</item>
+				<item xml:id="gluck.iphigenie-en-aulide">
+					<name type="index">Iphigénie en Aulide</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#gluck.christoph-willibald" role="composer"/>
+					<bibl type="de.wikipedia.org">Iphigénie_en_Aulide</bibl>
+					<list>
+						<item xml:id="gluck.iphigenie-en-aulide.ouverture">
+							<name>Ouverture</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="gluck.iphigenie-en-tauride">
+					<name type="index">Iphigénie en Tauride</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#gluck.christoph-willibald" role="composer"/>
+					<bibl type="de.wikipedia.org">Iphigénie_en_Tauride</bibl>
+				</item>
+				<item xml:id="goetz.der-widerspenstigen-zaehmung">
+					<idno type="gnd">300646909</idno>
+					<name type="index">Der Widerspenstigen Zähmung </name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#goetz.hermann" role="composer"/>
+					<bibl type="de.wikipedia.org">Der_Widerspenstigen_Zähmung_(Goetz)</bibl>
+				</item>
+				<item xml:id="goldmark.die-koenigin-von-saba">
+					<idno type="gnd">300488602</idno>
+					<name type="index">Die Königin von Saba</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#goldmark.karl" role="composer"/>
+					<bibl type="de.wikipedia.org">Die_Königin_von_Saba</bibl>
+				</item>
+				<item xml:id="gounod.faust">
+					<idno type="gnd">300061099</idno>
+					<name type="index">Faust</name>
+					<name xml:lang="de" type="other">Margarete</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#gounod.charles" role="composer"/>
+					<bibl type="de.wikipedia.org">Faust_(Gounod)</bibl>
+					<list>
+						<item xml:id="gounod.faust.4.3.szene-in-der-kirche">
+							<name>4. Akt, 3. Szene. Szene in der Kirche</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="mehul.joseph">
+					<name type="index">Joseph</name>
+					<name type="full">Joseph et ses frères</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#mehul.etienne-nicolas" role="composer"/>
+				</item>
+				<item xml:id="meyerbeer.l-africaine">
+					<idno type="gnd">30010412X</idno>
+					<name type="index">L’Africaine</name>
+					<name xml:lang="de" type="other">Die Afrikanerin</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#meyerbeer.giacomo" role="composer"/>
+					<bibl type="de.wikipedia.org">L'Africaine_(Oper)</bibl>
+					<list>
+						<item xml:id="meyerbeer.l-africaine.5.21.grande-scene-du-mancenillier">
+							<name>Acte V. No. 21. Grande scène du mancenillier</name>
+							<name type="incipit">D’ici, je vois la mer</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="meyerbeer.le-prophete">
+					<idno type="gnd">351016155</idno>
+					<name type="index">Le prophète</name>
+					<name xml:lang="de">Der Prophet</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#meyerbeer.giacomo" role="composer"/>
+					<bibl type="de.wikipedia.org">Le_prophète</bibl>
+				</item>
+				<item xml:id="meyerbeer.robert-le-diable">
+					<idno type="gnd">300205562</idno>
+					<name type="index">Robert le diable</name>
+					<name xml:lang="de" type="other">Robert der Teufel</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#meyerbeer.giacomo" role="composer"/>
+					<bibl type="de.wikipedia.org">Robert_le_diable</bibl>
+					<list>
+						<item xml:id="meyerbeer.robert-le-diable.bertram">
+							<name type="index">Bertram (Figur in „Robert le diable“)</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="mozart.die-zauberfloete">
+					<idno type="gnd">300112068</idno>
+					<name type="index">Die Zauberflöte</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#mozart.wolfgang-amadeus" role="composer"/>
+					<list>
+						<item xml:id="mozart.die-zauberfloete.ouvertuere">
+							<name>Ouvertüre</name>
+						</item>
+						<item xml:id="mozart.die-zauberfloete.gesang-der-geharnischten-maenner">
+							<name>Gesang der Geharnischten Männer</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="mozart.idomeneo">
+					<idno type="gnd">30010829X</idno>
+					<name type="index">Idomeneo</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#mozart.wolfgang-amadeus" role="composer"/>
+					<bibl type="de.wikipedia.org">Idomeneo</bibl>
+				</item>
+				<item xml:id="mozart.don-giovanni">
+					<idno type="gnd">30010782X</idno>
+					<name type="index">Don Giovanni</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#mozart.wolfgang-amadeus" role="composer"/>
+					<bibl type="de.wikipedia.org">Don_Giovanni</bibl>
+				</item>
+				<item xml:id="paisiello.il-barbiere-di-siviglia">
+					<idno type="gnd">30054961X</idno>
+					<name type="index">Il barbiere di Siviglia</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#paisiello.giovanni" role="composer"/>
+					<bibl type="de.wikipedia.org">Der_Barbier_von_Sevilla_(Paisiello)</bibl>
+					<list>
+						<item xml:id="paisiello.il-barbiere-di-siviglia.1.6">
+							<name>Saper bramate, bello il mio nome</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="ponchielli.i-lituani">
+					<name type="index">I Lituani</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#ponchielli.amilcare" role="composer"/>
+				</item>
+				<item xml:id="rossini.guillaume-tell">
+					<name xml:lang="fr" type="index">Guillaume Tell</name>
+					<desc>Oper / Französisch</desc>
+					<lang>Französisch</lang>
+					<persName ref="#rossini.gioachino" role="composer"/>
+					<bibl type="de.wikipedia.org">Guillaume_Tell</bibl>
+				</item>
+				<item xml:id="rossini.il-barbiere-di-siviglia">
+					<name xml:lang="it" type="index">Il barbiere di Siviglia</name>
+					<name xml:lang="de" type="index">Der Barbier von Sevilla</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#rossini.gioachino" role="composer"/>
+					<bibl type="de.wikipedia.org">Der_Barbier_von_Sevilla</bibl>
+				</item>
+				<item xml:id="rossini.mose-in-egitto">
+					<name xml:lang="it" type="index">Mosè in Egitto</name>
+					<name xml:lang="de" type="index">Moses in Ägypten</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#rossini.gioachino" role="composer"/>
+					<bibl type="de.wikipedia.org">Moses_in_Ägypten</bibl>
+				</item>
+				<item xml:id="rossini.semiramide">
+					<name xml:lang="it" type="index">Semiramide</name>
+					<name xml:lang="de" type="other">Semiramis</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#rossini.gioachino" role="composer"/>
+					<bibl type="de.wikipedia.org">Semiramide</bibl>
+				</item>
+				<item xml:id="rossini.zelmira">
+					<name xml:lang="it" type="index">Zelmira</name>
+					<name xml:lang="de" type="other">Zelmira</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#rossini.gioachino" role="composer"/>
+					<bibl type="it.wikipedia.org">Zelmira</bibl>
+				</item>
+				<item xml:id="spohr.faust">
+					<name xml:lang="de" type="index">Faust</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#spohr.louis" role="composer"/>
+					<bibl type="de.wikipedia.org">Faust_(Spohr)</bibl>
+					<list>
+						<item xml:id="spohr.faust.arie">
+							<name type="full">Eine Faust-Arie von Spohr</name>
+							<name type="index">Faust-Arie (Spohr)</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="verdi.aida">
+					<idno type="gnd">300164971</idno>
+					<name type="index">Aida</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Aida_(Oper)</bibl>
+					<list>
+						<item xml:id="verdi.aida.amneris-und-die-priester">
+							<name type="index">Amneris und die Priester (Szene in „Aida“)</name>
+						</item>
+						<item xml:id="verdi.aida.radames">
+							<name type="index">Radames (Figur in „Aida“)</name>
+						</item>
+						<item xml:id="verdi.aida.amneris">
+							<name type="index">Amneris (Figur in „Aida“)</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="verdi.attila">
+					<idno type="gnd">300165080</idno>
+					<name type="index">Attila</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Attila_(Oper)</bibl>
+				</item>
+				<item xml:id="verdi.don-carlos">
+					<name type="index">Don Carlos</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Don_Carlos_(Verdi)</bibl>
+				</item>
+				<item xml:id="verdi.ernani">
+					<name type="index">Ernani</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Ernani</bibl>
+				</item>
+				<item xml:id="verdi.i-due-foscari">
+					<name type="index">I due Foscari</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">I_due_Foscari</bibl>
+				</item>
+				<item xml:id="verdi.i-lombardi">
+					<name type="index">I Lombardi alla prima Crociata</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">I_Lombardi_alla_prima_Crociata</bibl>
+				</item>
+				<item xml:id="verdi.i-masnadieri">
+					<name type="index">I masnadieri</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">I_Masnadieri</bibl>
+					<bibl type="it.wikipedia.org">I_masnadieri</bibl>
+				</item>
+				<item xml:id="verdi.i-vespri-siciliani">
+					<name xml:lang="it" type="index">I vespri siciliani</name>
+					<name xml:lang="fr" type="other">Les vêpres siciliennes</name>
+					<name xml:lang="de" type="other">Die sizilianische Vesper</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Les_vêpres_siciliennes</bibl>
+					<bibl type="it.wikipedia.org">I_vespri_siciliani</bibl>
+				</item>
+				<item xml:id="verdi.il-trovatore">
+					<idno type="gnd">300166508</idno>
+					<name type="index">Il Trovatore</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Il_trovatore</bibl>
+					<list>
+						<item xml:id="verdi.il-trovatore.manrico">
+							<name type="index">Manrico (Figur in „Il Trovatore“)</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="verdi.la-forza-del-destino">
+					<name type="index">La forza del destino</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">La_forza_del_destino</bibl>
+				</item>
+				<item xml:id="verdi.la-traviata">
+					<idno type="gnd">300166400</idno>
+					<name type="index">La traviata</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">La_Traviata</bibl>
+				</item>
+				<item xml:id="verdi.luisa-miller">
+					<name type="index">Luisa Miller</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Luisa_Miller</bibl>
+					<bibl type="it.wikipedia.org">Luisa_Miller</bibl>
+				</item>
+				<item xml:id="verdi.macbeth">
+					<name type="index">Macbeth</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Macbeth_(Oper)</bibl>
+				</item>
+				<item xml:id="verdi.nabucco">
+					<name type="index">Nabucco</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Nabucco</bibl>
+				</item>
+				<item xml:id="verdi.oberto">
+					<name type="index">Oberto, Conte di San Bonifacio</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Oberto,_Conte_di_San_Bonifacio</bibl>
+				</item>
+				<item xml:id="verdi.otello">
+					<name type="index">Otello</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Otello_(Verdi)</bibl>
+				</item>
+				<item xml:id="verdi.rigoletto">
+					<idno type="gnd">300166222</idno>
+					<name type="index">Rigoletto</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Rigoletto</bibl>
+					<list>
+						<item xml:id="verdi.rigoletto.3.14.v-ho-ingannato">
+							<name>3. Akt, 14. Szene: Duett „V’ho ingannato … colpevole fui …“
+								(Gilda/Rigoletto)</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="verdi.simon-boccanegra">
+					<idno type="gnd">300166354</idno>
+					<name type="index">Simon Boccanegra</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Simon_Boccanegra</bibl>
+				</item>
+				<item xml:id="verdi.un-ballo-in-maschera">
+					<idno type="gnd">300165145</idno>
+					<name type="index">Un ballo in maschera</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Un_ballo_in_maschera</bibl>
+				</item>
+				<item xml:id="verdi.un-giorno-di-regno">
+					<idno type="gnd">300208251</idno>
+					<name type="index">Un giorno di regno</name>
+					<desc>Oper / Italienisch</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Un_giorno_di_regno</bibl>
+				</item>
+				<item xml:id="wagner.der-fliegende-hollaender">
+					<name type="index">Der fliegende Holländer</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#wagner.richard" role="composer"/>
+					<bibl type="de.wikipedia.org">Der_fliegende_Holländer</bibl>
+					<bibl type="imslp.org">Der_fliegende_Holländer,_WWV_63_(Wagner,_Richard)</bibl>
+					<list>
+						<item xml:id="wagner.der-fliegende-hollaender.gespensterchor">
+							<name type="index">Gespensterchor</name>
+							<note>vgl. III. Akt, No. 7, Chor der Norwegischen Matrosen und Ensemble
+								(S. 286).</note>
+						</item>
+					</list>
+				</item>
+				<item xml:id="wagner.goetterdaemmerung">
+					<idno type="gnd">300169868</idno>
+					<name type="index">Götterdämmerung</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#wagner.richard" role="composer"/>
+					<bibl type="de.wikipedia.org">Götterdämmerung_(Oper)</bibl>
+				</item>
+				<item xml:id="wagner.lohengrin">
+					<idno type="gnd">30016999X</idno>
+					<name type="index">Lohengrin</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#wagner.richard" role="composer"/>
+					<bibl type="de.wikipedia.org">Lohengrin</bibl>
+				</item>
+				<item xml:id="wagner.rienzi">
+					<idno type="gnd">300170289</idno>
+					<name type="index">Rienzi</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#wagner.richard" role="composer"/>
+					<bibl type="de.wikipedia.org">Rienzi</bibl>
+				</item>
+				<item xml:id="wagner.siegfried">
+					<idno type="gnd">300170327</idno>
+					<name type="index">Siegfried</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#wagner.richard" role="composer"/>
+					<bibl type="de.wikipedia.org">Siegfried_(Oper)</bibl>
+				</item>
+				<item xml:id="wagner.tannhaeuser">
+					<name type="index">Tannhäuser</name>
+					<name type="full">Tannhäuser und der Sängerkrieg auf Wartburg</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#wagner.richard" role="composer"/>
+					<bibl type="de.wikipedia.org">Tannhäuser_und_der_Sängerkrieg_auf_Wartburg</bibl>
+					<list>
+						<item xml:id="wagner.tannhaeuser.1.1.venusberg">
+							<name>Erster Aufzug, Szene 1. Im Venusberg</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="wagner.tristan-und-isolde">
+					<name type="index">Tristan und Isolde</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#wagner.richard" role="composer"/>
+					<bibl type="de.wikipedia.org">Tristan_und_Isolde_(Oper)</bibl>
+				</item>
+				<item xml:id="weber.euryanthe">
+					<name type="index">Euryanthe</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#weber.carl-maria-von" role="composer"/>
+					<bibl type="de.wikipedia.org">Euryanthe</bibl>
+					<bibl type="www"><ref target="https://www.youtube.com/watch?v=5fms_rSB99c"
+							>Referenzaufnahme</ref></bibl>
+					<list>
+						<item xml:id="weber.euryanthe.ouvertuere">
+							<name>Ouverture</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="weber.freischuetz">
+					<idno type="gnd">30017148X</idno>
+					<name type="index">Der Freischütz</name>
+					<desc>Oper / Deutsch</desc>
+					<lang>Deutsch</lang>
+					<persName ref="#weber.carl-maria-von" role="composer"/>
+					<bibl type="de.wikipedia.org">Der_Freischütz</bibl>
+					<list>
+						<item xml:id="weber.freischuetz.kaspar">
+							<name type="index">Kaspar (Figur in „Der Freischütz“)</name>
+						</item>
+						<item xml:id="weber.freischuetz.samiel">
+							<name type="index">Samiel (Figur in „Der Freischütz“)</name>
+						</item>
+					</list>
+				</item>
+			</list>
+			<list>
+				<head>Sinfonik</head>
+				<item xml:id="beethoven.symphonien">
+					<name type="index">Die Symphonien</name>
+					<!-- unspezifisch -->
+					<desc>Sinfonik</desc>
+					<persName ref="#beethoven.ludwig-van" role="composer"/>
+					<bibl type="de.wikipedia.org">Liste_der_Sinfonien_Ludwig_van_Beethovens</bibl>
+				</item>
+				<item xml:id="beethoven.symphonie-7">
+					<name type="index">Symphonie Nr. 7</name>
+					<desc>Sinfonik</desc>
+					<persName ref="#beethoven.ludwig-van" role="composer"/>
+					<bibl type="de.wikipedia.org">7._Sinfonie_(Beethoven)</bibl>
+				</item>
+				<item xml:id="beethoven.symphonie-9">
+					<name type="index">Symphonie Nr. 9</name>
+					<desc>Sinfonik</desc>
+					<persName ref="#beethoven.ludwig-van" role="composer"/>
+					<bibl type="de.wikipedia.org">9._Sinfonie_(Beethoven)</bibl>
+				</item>
+				<item xml:id="brahms.variationen-ueber-ein-thema-von-haydn">
+					<name type="index">Variationen über ein Thema von Haydn</name>
+					<desc>Sinfonik</desc>
+					<persName ref="#brahms.johannes" role="composer"/>
+					<bibl type="de.wikipedia.org"
+						>Variationen_über_ein_Thema_von_Haydn_(Brahms)</bibl>
+					<bibl type="imslp.org"
+						>Variations_on_a_Theme_by_Haydn,_Op.56_(Brahms,_Johannes)</bibl>
+				</item>
+				<item xml:id="hiller.symphonie-e-moll">
+					<name type="index">Symphonie in e-Moll</name>
+					<name type="ordinal">op. 67</name>
+					<name type="index">Es muß doch Frühling werden</name>
+					<desc>Sinfonik</desc>
+					<persName ref="#hiller.ferdinand" role="composer"/>
+					<bibl type="de.wikipedia.org">Ein_Sommernachtstraum_(Mendelssohn)</bibl>
+				</item>
+				<item xml:id="mendelssohn-bartholdy.ein-sommernachtstraum">
+					<name type="index">Ein Sommernachtstraum</name>
+					<name type="ordinal">op. 21</name>
+					<name type="index">Ein Sommernachtstraum</name>
+					<desc>Sinfonik / Ouvertüre</desc>
+					<persName ref="#mendelssohn-bartholdy.felix" role="composer"/>
+					<bibl type="de.wikipedia.org">Ein_Sommernachtstraum_(Mendelssohn)</bibl>
+				</item>
+				<item xml:id="schumann.symphonie-4">
+					<name type="index">Symphonie Nr. 4</name>
+					<desc>Sinfonik</desc>
+					<persName ref="#schumann.robert" role="composer"/>
+					<bibl type="de.wikipedia.org">4._Sinfonie_(Schumann)</bibl>
+				</item>
+				<item xml:id="schumann.manfred">
+					<name xml:lang="de" type="index">Ouvertüre zu „Manfred“</name>
+					<name type="ordinal">op. 115</name>
+					<desc>Sinfonik / Ouvertüre</desc>
+					<persName ref="#schumann.robert" role="composer"/>
+					<bibl type="de.wikipedia.org"/>
+				</item>
+				<item xml:id="svendsen.sigurd-slembe">
+					<name type="index">Ouvertüre zu „Sigurd Slembe“</name>
+					<name type="ordinal">op. 8</name>
+					<desc>Sinfonik / Ouvertüre</desc>
+					<persName ref="#svendsen.johan" role="composer"/>
+				</item>
+				<item xml:id="schubert.trauermarsch">
+					<name type="index">Trauermarsch</name>
+					<name type="other">Grande marche funèbre</name>
+					<desc>Sinfonik</desc>
+					<persName ref="#schubert.franz" role="composer"/>
+					<persName ref="#liszt.franz" role="arranger"/>
+					<note>Grand Marche mit Trio von 1824, op.40 (D.819), Nr. 5.</note>
+					<note>Liszt arrangierte das Stück für Orchester (S.363/2, 1859/60) sowie für
+						Klavier (S.426/1).</note>
+					<bibl type="www"><ref target="https://www.youtube.com/watch?v=AF3LSjetK0A"
+							>Referenzaufnahme (Klavier)</ref></bibl>
+				</item>
+			</list>
+			<list>
+				<head>Kammermusik</head>
+				<item xml:id="beethoven.quartett-131">
+					<name type="index">Quartett Op. 131</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#beethoven.ludwig-van" role="composer"/>
+				</item>
+				<item xml:id="chopin.nocturne">
+					<name type="full">Ein Nocturne von Chopin</name>
+					<name type="index">Nocturne (Chopin)</name>
+					<!-- unspezifisch -->
+					<desc>Kammermusik</desc>
+					<persName ref="#chopin.frederic" role="composer"/>
+					<bibl type="de.wikipedia.org">Nocturnes_(Chopin)</bibl>
+				</item>
+				<item xml:id="garat.la-fileuse">
+					<name type="index">La fileuse</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#garat.pierre-jean" role="composer"/>
+					<bibl type="www"><ref
+							target="http://www.eresbil.com/fmi/xsl/ERESBIL/esp/findrecords.xsl?-view"
+							>ERESBIL / Basque music scores</ref></bibl>
+				</item>
+				<item xml:id="geisler.monologe">
+					<name type="index">Monologe</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#geisler.paul" role="composer"/>
+				</item>
+				<item xml:id="godefroid.thautropfen">
+					<name type="index">Thautropfen</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#godefroid.felix" role="composer"/>
+				</item>
+				<item xml:id="gounod.ho-messo-nuove-corde-al-mandolino">
+					<name type="index">Ho messo nuove corde al mandolino</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#gounod.charles" role="composer"/>
+					<bibl type="en.wikipedia.org">List_of_compositions_by_Charles_Gounod</bibl>
+				</item>
+				<item xml:id="hauser.lieder-ohne-worte">
+					<name type="index">Lieder ohne Worte für die Violine</name>
+					<name type="ordinal">op. 24</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#hauser.miska" role="composer"/>
+					<bibl type="imslp.org">List_of_works_by_Miska_Hauser</bibl>
+				</item>
+				<item xml:id="hauser.ungarische-rhapsodie">
+					<name type="index">Ungarische Rhapsodie</name>
+					<!-- unspezifisch -->
+					<desc>Kammermusik</desc>
+					<persName ref="#hauser.miska" role="composer"/>
+					<bibl type="imslp.org">List_of_works_by_Miska_Hauser</bibl>
+				</item>
+				<item xml:id="liszt.au-bord-d-une-source">
+					<name type="index">Au bord d’une source</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#liszt.franz" role="composer"/>
+					<bibl type="en.wikipedia.org"
+						>https://en.wikipedia.org/wiki/Au_bord_d'une_source</bibl>
+					<bibl type="www"><ref target="https://www.youtube.com/watch?v=P6lznAs2SSE"
+							>Referenzaufnahme</ref></bibl>
+				</item>
+				<item xml:id="massenet.nuit-d-espagne">
+					<name type="index">Nuit d’Espagne</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#massenet.jules" role="composer"/>
+					<bibl type="imslp.org">Nuit_d'Espagne_(Massenet,_Jules)</bibl>
+					<bibl type="www"><ref target="https://www.youtube.com/watch?v=GCFJd6brUco"
+							>Referenzaufnahme</ref></bibl>
+				</item>
+				<item xml:id="mendelssohn-bartholdy.lieder-ohne-worte">
+					<name type="index">Lieder ohne Worte</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#mendelssohn-bartholdy.felix" role="composer"/>
+					<bibl type="de.wikipedia.org">Lieder_ohne_Worte</bibl>
+				</item>
+				<item xml:id="mozart.adagio-und-fuge-c-moll">
+					<name type="index">Adagio und Fuge in c-Moll</name>
+					<name type="full">Adagio und Fuge in c-Moll für Streichquartett</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#mozart.wolfgang-amadeus" role="composer"/>
+					<bibl type="imslp.org"
+						>Adagio_and_Fugue_in_C_minor,_K.546_(Mozart,_Wolfgang_Amadeus)</bibl>
+					<bibl type="www"><ref target="https://www.youtube.com/watch?v=jSZJjTeP0mU"
+							>Referenzaufnahme</ref></bibl>
+				</item>
+				<item xml:id="scarlatti.allegro">
+					<name type="full">Ein Allegro von Scarlatti</name>
+					<name type="index">Allegro (Scarlatti)</name>
+					<!-- unspezifisch -->
+					<desc>Kammermusik</desc>
+					<persName ref="#scarlatti.alessandro" role="composer"/>
+				</item>
+				<item xml:id="schumann.quartett">
+					<name type="full">Ein Quartett von Schumann</name>
+					<name type="index">Quartett (Schumann)</name>
+					<!-- unspezifisch -->
+					<desc>Kammermusik</desc>
+					<persName ref="#schumann.robert" role="composer"/>
+				</item>
+				<item xml:id="thalberg.fantaisie-sur-l-opera-lucrezia-borgia">
+					<name type="index">Fantaisie sur l’opéra Lucrezia Borgia de Donizetti</name>
+					<name type="ordinal">op. 50</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#thalberg.sigismond" role="composer"/>
+					<bibl type="de.wikipedia.org">Sigismund_Thalberg#Werke_mit_Opuszahlen</bibl>
+				</item>
+				<item xml:id="verdi.quartetto">
+					<name type="index">Quartetto</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#verdi.giuseppe" role="composer"/>
+					<bibl type="de.wikipedia.org">Streichquartett_e-Moll_(Verdi)</bibl>
+					<bibl type="imslp.org">String_Quartet_(Verdi,_Giuseppe)</bibl>
+				</item>
+				<item xml:id="volkmann.serenaden">
+					<name type="index">Serenaden</name>
+					<!-- unspezifisch -->
+					<desc>Kammermusik</desc>
+					<persName ref="#volkmann.robert" role="composer"/>
+					<list>
+						<item xml:id="volkmann.serenade.1">
+							<name>Serenade Nr. 1 C-Dur op. 62 für Streicher (1869)</name>
+						</item>
+						<item xml:id="volkmann.serenade.2">
+							<name>Serenade Nr. 2 F-Dur op. 63 für Streicher (1869)</name>
+						</item>
+						<item xml:id="volkmann.serenade.3">
+							<name>Serenade Nr. 3 d-Moll op. 69 für Violoncello und Streicher
+								(1870)</name>
+						</item>
+					</list>
+				</item>
+				<item xml:id="yradier.la-calesera">
+					<name type="index">La calesera</name>
+					<desc>Kammermusik</desc>
+					<persName ref="#yradier.sebastian-de" role="composer"/>
+					<bibl type="www"><ref target="http://www.worldcat.org/oclc/842994929"
+							>WorldCat</ref></bibl>
+				</item>
+			</list>
+			<list>
+				<head>Varia</head>
+				<item xml:id="bach.so-oft-ich-meine-tabakspfeife">
+					<name type="index">So oft ich meine Tabakspfeife</name>
+					<name type="ordinal">BWV 515a</name>
+					<desc>sonstige</desc>
+					<persName ref="#bach.johann-sebastian" role="composer"/>
+				</item>
+				<item xml:id="boehner.ach-wie-ists-moeglich-dann">
+					<name type="index">Ach, wie ist’s möglich dann</name>
+					<desc>sonstige</desc>
+					<lang>Deutsch</lang>
+					<persName cert="medium" ref="#boehner.johann-ludwig" role="composer"/>
+					<note>Thüringisches Volkslied</note>
+				</item>
+				<item xml:id="heil-dir-im-siegerkranz">
+					<name type="index">Heil dir im Siegerkranz</name>
+					<desc>sonstige</desc>
+					<bibl type="de.wikipedia.org">Heil_dir_im_Siegerkranz</bibl>
+				</item>
+				<item xml:id="l-adieu">
+					<name type="index">L’adieu (Air béarnois)</name>
+					<!-- unspezifisch -->
+					<desc>sonstige</desc>
+				</item>
+				<item xml:id="lasso.audite-nova">
+					<name type="index">Audite Nova!</name>
+					<desc>sonstige</desc>
+					<persName ref="#lasso.orlando-di" role="composer"/>
+					<bibl type="imslp.org">Audite_nova_(Lassus,_Orlande_de)</bibl>
+				</item>
+				<item xml:id="monteverdi.il-combattimento-di-tancredi-e-clorinda">
+					<name type="index">Il Combattimento di Tancredi e Clorinda</name>
+					<desc>sonstige</desc>
+					<lang>Italienisch</lang>
+					<persName ref="#monteverdi.claudio" role="composer"/>
+					<bibl type="de.wikipedia.org">Il_Combattimento_di_Tancredi_e_Clorinda</bibl>
+				</item>
+				<item xml:id="ni-jamais-ni-toujours">
+					<name type="index">Ni jamais, ni toujours</name>
+					<!-- unspezifisch -->
+					<desc>sonstige</desc>
+				</item>
+				<item xml:id="schumann.ritornelle-in-canonischen-weisen">
+					<name type="index">Ritornelle in canonischen Weisen</name>
+					<name type="ordinal">op.65</name>
+					<desc>sonstige</desc>
+					<persName ref="#schumann.robert" role="composer"/>
+				</item>
+				<item xml:id="beethoven.die-ruinen-von-athen">
+					<idno type="gnd">300218931</idno>
+					<name xml:lang="de" type="index">Die Ruinen von Athen</name>
+					<desc>sonstige</desc>
+					<persName ref="#beethoven.ludwig-van" role="composer"/>
+				</item>
+				<item xml:id="unidentified">
+					<name type="index">? (nicht identifiziertes Werk)</name>
+				</item>
+			</list>
+		</body>
+	</text>
+</TEI>
