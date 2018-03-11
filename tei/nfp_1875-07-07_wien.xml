@@ -1,16 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 7. Juli 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-07-07_kirchenmusik.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#neue-freie-presse" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-07-07"/>
-				<biblScope unit="issue">3902</biblScope><biblScope unit="subIssue">3902</biblScope><series>nfp</series>
-				<biblScope unit="page">4</biblScope>
-				<link facs="nfp_1875-07-07_4.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750707&amp;seite=4"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="4b" type="initial"/>
-		<head rend="larger">Kleine Chronik.</head>
-		<cb break="null" n="4c" type="skipped"/>
-		<p rend="smaller">[<hi rend="widespace">Kirchenmusik</hi>.] Bei dem anläßlich des Ablebens Sr. Majestät Kaiser <persName ref="#ferdinand-i.oesterreich">Ferdinand’s</persName> in der altkatholischen <placeName ref="#wien.salvatorkirche">Salvatorkirche</placeName> <date when-iso="1875-07-09" when-custom="thu">übermorgen Donnerstag um 10 Uhr</date> stattfindenden feierlichen Trauergottesdienste<!--*EVENT Wien--> bringt Chordirector <persName ref="#wosahlo.a-c">A. C. Wosahlo</persName> zur Aufführung: „<title ref="#richter.ewige-ruhe">Ewige Ruhe</title>“, Trauermotette (neu) für Chor und Orgel von <persName ref="#richter.paul">Paul Richter</persName>; ferner aus der <title ref="#verdi.requiem">Todtenmesse</title> von <persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>: <title ref="#verdi.requiem.2.liber-scriptus">„Ein geschrieben Buch“, Mezzo-Sopransolo und Chor</title>; <title ref="#verdi.requiem.2.recordare">„Ach gedenke!“ Sopran- und Mezzosopransolo</title>; <title ref="#verdi.requiem.2.confutatis">„Wenn Verfluchte“, Baßsolo</title>; <title ref="#verdi.requiem.7">„Befreie mich“, Sopransolo und Chor</title>; <title ref="#verdi-lebeau.requiem">Orgel-Transcription (neu) über das „Agnus Dei“</title> von <persName ref="#lebeau.alfred">Alfred Lebeau</persName>. Die Soli singen Fräulein <persName ref="#ofner.xxx">Ofner</persName> (Sopran), Frau <persName ref="#wosahlo.hermine">Wohsahlo</persName> (Alt), Herr <persName ref="#lewis.xxx">Lewis</persName> (Baß).</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Freie Presse, Wien, 7. Juli 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nfp_1875-07-07_kirchenmusik.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neue-freie-presse" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-07-07"/>
+					<biblScope unit="issue">3902</biblScope>
+					<biblScope unit="subIssue">3902</biblScope>
+					<series>nfp</series>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Kurzbericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nfp_1875-07-07_4.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750707&amp;seite=4"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="4b" type="initial"/>
+			<head rend="larger">Kleine Chronik.</head>
+			<cb break="null" n="4c" type="skipped"/>
+			<p rend="smaller">[<hi rend="widespace">Kirchenmusik</hi>.] Bei dem anläßlich des
+				Ablebens Sr. Majestät Kaiser <persName ref="#ferdinand-i.oesterreich"
+					>Ferdinand’s</persName> in der altkatholischen <placeName
+					ref="#wien.salvatorkirche">Salvatorkirche</placeName>
+				<date when-custom="thu" when-iso="1875-07-09">übermorgen Donnerstag um 10 Uhr</date>
+				stattfindenden feierlichen Trauergottesdienste<!--*EVENT Wien--> bringt Chordirector
+					<persName ref="#wosahlo.a-c">A. C. Wosahlo</persName> zur Aufführung: „<title
+					ref="#richter.ewige-ruhe">Ewige Ruhe</title>“, Trauermotette (neu) für Chor und
+				Orgel von <persName ref="#richter.paul">Paul Richter</persName>; ferner aus der
+					<title ref="#verdi.requiem">Todtenmesse</title> von <persName
+					ref="#verdi.giuseppe">Giuseppe Verdi</persName>: <title
+					ref="#verdi.requiem.2.liber-scriptus">„Ein geschrieben Buch“, Mezzo-Sopransolo
+					und Chor</title>; <title ref="#verdi.requiem.2.recordare">„Ach gedenke!“ Sopran-
+					und Mezzosopransolo</title>; <title ref="#verdi.requiem.2.confutatis">„Wenn
+					Verfluchte“, Baßsolo</title>; <title ref="#verdi.requiem.7">„Befreie mich“,
+					Sopransolo und Chor</title>; <title ref="#verdi-lebeau.requiem"
+					>Orgel-Transcription (neu) über das „Agnus Dei“</title> von <persName
+					ref="#lebeau.alfred">Alfred Lebeau</persName>. Die Soli singen Fräulein
+					<persName ref="#ofner.xxx">Ofner</persName> (Sopran), Frau <persName
+					ref="#wosahlo.hermine">Wohsahlo</persName> (Alt), Herr <persName
+					ref="#lewis.xxx">Lewis</persName> (Baß).</p>
+		</body>
+	</text>
 </TEI>

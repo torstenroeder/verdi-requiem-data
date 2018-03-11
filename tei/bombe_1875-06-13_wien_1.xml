@@ -13,12 +13,10 @@
 					<orgName ref="#die-bombe" role="publisher"/>
 					<placeName ref="#wien"/>
 					<date when-iso="1875-06-13"/>
-					<biblScope unit="issue">23</biblScope><biblScope unit="volume"
-						>5</biblScope><series>bombe</series>
+					<biblScope unit="issue">23</biblScope>
+					<biblScope unit="volume">5</biblScope>
+					<series>bombe</series>
 					<biblScope unit="page">94</biblScope>
-					<link facs="bombe_1875-06-13_94.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750613&amp;seite=2"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,9 +33,14 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="bombe_1875-06-13_94.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750613&amp;seite=2"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<pb n="14"/>
+			<pb facs="#f1" n="14"/>
 			<head rend="antiqua bold larger">Heiter ist die Kunst.</head>
 			<p>Bei der nächsten Reprise des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
 				<title ref="#verdi.requiem">Requiems</title> wird, um den feierlich düstern Eindruck

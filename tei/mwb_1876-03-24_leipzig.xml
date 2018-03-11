@@ -14,13 +14,9 @@
 					<orgName ref="#mwb" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1876-03-24"/>
-					<biblScope unit="issue">13</biblScope><biblScope unit="volume">7</biblScope>
+					<biblScope unit="issue">13</biblScope>
+					<biblScope unit="volume">7</biblScope>
 					<biblScope unit="page">159–160</biblScope>
-					<link facs="mwb_1876-03-24_159.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760324&amp;seite=3"/>
-					<link facs="mwb_1876-03-24_160.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760324&amp;seite=4"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -37,17 +33,25 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-03-24_159.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760324&amp;seite=3"
+			xml:id="f1"/>
+		<graphic n="mwb_1876-03-24_160.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760324&amp;seite=4"
+			xml:id="f2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<pb n="159"/>
+			<pb facs="#f1" n="159"/>
 			<head rend="antiqua widespace larger">Tagesgeschichte.</head>
 			<head rend="lineale bold">Berichte.</head>
-			<p><hi rend="bold"><placeName ref="#leipzig">Leipzig</placeName>.</hi> Die Zahl der
-				während der letzten beiden Wochen stattgehabten Concerte, denen ich zum Zwecke
-				nachheriger Berichterstattung über dieselben anwohnte, beträgt nicht weniger als
-					<emph rend="widespace">sieben</emph> (die Zahl der <emph rend="widespace"
+			<p><hi rend="bold"><placeName ref="#leipzig">Leipzig</placeName>.</hi> Die Zahl der während der
+				letzten beiden Wochen stattgehabten Concerte, denen ich zum Zwecke nachheriger
+				Berichterstattung über dieselben anwohnte, beträgt nicht weniger als <emph
+					rend="widespace">sieben</emph> (die Zahl der <emph rend="widespace"
 					>überhaupt</emph> in jener Frist hier stattgefundenen beträgt dagegen ein volles
-				Dutzend. <rs type="event" ref="#leipzig.1876.1">Die weitaus bedeutsamste unter den
+				Dutzend. <rs ref="#leipzig.1876.1" type="event">Die weitaus bedeutsamste unter den
 					hier in Frage kommenden musikalischen Aufführungen war jedenfalls das 19.
 					Gewandhausconcert (<date when-iso="1876-03-09">9. März</date>, in welchem
 						<persName ref="#verdi.giuseppe">Verdi’s</persName>
@@ -103,7 +107,7 @@
 				geworden sind, mögen die inzwischen hier bekannt gewordenen auswärtigen, meist Lobes
 				übervollen Berichte über das <title ref="#verdi.requiem">Requiem</title> einem sehr
 				beträchtlichen Theile des Musikpublicums die nöthige Unbefangenheit des Urtheils
-				geraubt oder doch abgeschwächt haben. <rs type="event" ref="#leipzig.1876.1">Als nun
+				geraubt oder doch abgeschwächt haben. <rs ref="#leipzig.1876.1" type="event">Als nun
 					am <date when-iso="1876-03-09">9. März</date> das <title ref="#verdi.requiem"
 						>Requiem</title> hier endlich zur Aufführung gelangte,</rs> da mögen nun
 				wohl die Einen gar Manches in das Werk <emph rend="widespace">hinein</emph>gehört
@@ -143,19 +147,20 @@
 				Italiener schrieb. Mag uns <emph rend="widespace">Deutschen</emph> auch gar mancher
 				Theil des Requiems, z. B. das „<title ref="#verdi.requiem.2">Dies irae</title>“, mit
 				zu brennenden Farben colorirt, mit zu grellen Contrasten ausgestattet, kurz zu <emph
-					rend="widespace">realistisch</emph> *) erscheinen, — der <emph rend="widespace"
-					>Italiener</emph> denkt und fühlt eben <emph rend="widespace">anders</emph> als
-				wir. Ihm erscheint noch Manches als natur- und sachgemässe Ausdrucksweise, was wir
-				nur noch als äusserliches Blend- und Flitterwerk betrachten; ihn stimmt zur reinsten
-				Frömmigkeit, was uns nur weltlich sentimental berührt; aber auch er wendet sich
-				verständniss- und theilnahmslos ab, wenn wir grüblerisch uns in uns selbst versenken
-				und die verborgensten Tiefen des Menschengemüths uns zu erschliessen trachten.
-				Dürfen wir den Italiener tadeln, weil er nicht unseres Sinnes ist? Dürfen wir uns
-				unterfangen, <emph rend="widespace">unser</emph> Denken und Fühlen als das <emph
-					rend="widespace">allein</emph> maassgebende hinzustellen? <hi rend="italic">Suum
-					cuique!</hi><note resp="tr" type="quoteLink">Lat. »Jedem das Seine!«,
-					preußisches Motto.</note> Und halten wir diesen Grundsatz stets im Auge, dann
-				werden wir auch dem <persName ref="#verdi.giuseppe">Verdi’schen</persName>
+					rend="widespace">realistisch</emph>*) aufgefasst erscheinen, — der <emph
+					rend="widespace">Italiener</emph> denkt und fühlt eben <emph rend="widespace"
+					>anders</emph> als wir. Ihm erscheint noch Manches als natur- und sachgemässe
+				Ausdrucksweise, was wir nur noch als äusserliches Blend- und Flitterwerk betrachten;
+				ihn stimmt zur reinsten Frömmigkeit, was uns nur weltlich sentimental berührt; aber
+				auch er wendet sich verständniss- und theilnahmslos ab, wenn wir grüblerisch uns in
+				uns selbst versenken und die verborgensten Tiefen des Menschengemüths uns zu
+				erschliessen trachten. Dürfen wir den Italiener tadeln, weil er nicht unseres Sinnes
+				ist? Dürfen wir uns unterfangen, <emph rend="widespace">unser</emph> Denken und
+				Fühlen als das <emph rend="widespace">allein</emph> maassgebende hinzustellen? <hi
+					rend="italic">Suum cuique!</hi><note resp="tr" type="quoteLink">Lat. »Jedem das
+					Seine!«, preußisches Motto.</note> Und halten wir diesen Grundsatz stets im
+				Auge, dann werden wir auch dem <persName ref="#verdi.giuseppe"
+					>Verdi’schen</persName>
 				<title ref="#verdi.requiem">Requiem</title> unsere Achtung nicht versagen können.
 				Wir werden dem sittlichen Ernst, dem edlen Streben, das aus dem Werke zu uns
 				spricht, Gerechtigkeit widerfahren lassen und den relativen Werth des Letzteren
@@ -177,14 +182,14 @@
 				vorliegenden Clavierauszuges unschwer Belege beibringen, wenn nicht die diesem
 				Berichte gesteckten Grenzen mich hieran, sowie an dem Eingehen auf Einzelheiten
 				hinderten.</p>
-			<pb break="null" n="161" type="skipped"/>
-			<p rend="right">
-				<persName ref="#kipke.carl">C. K.</persName>
-			</p>
 			<p rend="smaller">*) „Opernhaft“ beliebte man diese Partien zu nennen und suchte durch
 				dies leichtfertig herbeigeholte billige Schlagwort sich und seinen
 				Gesinnungsgenossen die Begründung des oberflächlichen, absprechenden Urtheils über
 				das Requiem zu erleichtern oder ganz zu ersparen.</p>
+			<pb break="null" n="161" type="skipped"/>
+			<p rend="right">
+				<persName ref="#kipke.carl">C. K.</persName>
+			</p>
 		</body>
 	</text>
 </TEI>

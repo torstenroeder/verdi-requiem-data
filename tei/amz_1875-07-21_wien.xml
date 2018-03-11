@@ -13,11 +13,10 @@
 					<orgName ref="#amz" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1875-07-21"/>
-					<biblScope unit="issue">29</biblScope><biblScope unit="volume"
-						>10</biblScope><series>amz</series>
+					<biblScope unit="issue">29</biblScope>
+					<biblScope unit="volume">10</biblScope>
+					<series>amz</series>
 					<biblScope unit="column">461–462</biblScope>
-					<link facs="amz_1875-07-21_461-462.jpg"
-						target="https://archive.org/stream/bub_gb_tVAfAAAAMAAJ#page/n227/mode/2up"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -34,10 +33,14 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="amz_1875-07-21_461-462.jpg"
+			url="https://archive.org/stream/bub_gb_tVAfAAAAMAAJ#page/n227/mode/2up" xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<cb break="null" n="461" type="initial"/>
-			<head rend="bold larger">Berichte. Nachrichten und Bemerkungen.</head>
+			<cb break="null" facs="#f1" n="461" type="initial"/>
+			<head rend="bold larger egypt">Berichte. Nachrichten und Bemerkungen.</head>
 			<p><hi rend="bold">* <placeName ref="#wien">Wien</placeName>.</hi> Angenehmeren Verlauf,
 				als die der eigentlichen Saison, nahmen die Kunstverhältnisse der Nachsaison. Des
 				Hangens und Bangens war es aber auch genug gewesen und gefestigte Verhältnisse waren
@@ -54,7 +57,7 @@
 				möglich war; — doch siehe da, statt dessen entwickelte der neue Director eine
 				Vielseitigkeit, die, von einigem Glück begünstigt, unserem Hofoperntheater eine
 				glanzvolle Zukunft in Aussicht stellt. Der denkbar glücklichste Griff, den der neue
-				Director gethan, war die Acquirirung der <rs type="event" ref="#wien.1875"><persName
+				Director gethan, war die Acquirirung der <rs ref="#wien.1875" type="event"><persName
 						ref="#verdi.giuseppe">Verdi’schen</persName>
 					<title ref="#verdi.requiem">Manzoni-Messe</title>, deren viermalige
 					Aufführung</rs> im Vereine mit den unter der Leitung des Componisten
@@ -100,12 +103,12 @@
 					<placeName ref="#neapel">Neapel</placeName> selbst gesehen — noch manche
 				Kränkung zu erdulden haben. (Indem wir diese den <orgName
 					ref="#hamburger-nachrichten">Hamb. Nachr.</orgName><note resp="tr"
-					type="textLink">Vgl. <ref type="text"
+					type="textLink">Vgl. <ref
 						target="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000126342946"
-						>Hamburger Nachrichten, 27. Juni 1875, S. 1–2</ref>.</note> entlehnten
-				Mittheilungen hier reproduciren, fällt uns natürlich nicht ein, damit die Urtheile
-				dieser und ähnlicher Correspondenzen zu den unserigen zu machen: sie sollen hier
-				lediglich als Stimme »aus der Gesellschaft« gelten. Herrn <persName
+						type="text">Hamburger Nachrichten, 27. Juni 1875, S. 1–2</ref>.</note>
+				entlehnten Mittheilungen hier reproduciren, fällt uns natürlich nicht ein, damit die
+				Urtheile dieser und ähnlicher Correspondenzen zu den unserigen zu machen: sie sollen
+				hier lediglich als Stimme »aus der Gesellschaft« gelten. Herrn <persName
 					ref="#jauner.franz-von">Jauner</persName> zu loben, weil ein baarer Unsinn, die
 				Aufführung eines trivialen <title ref="#verdi.requiem">Requiems</title> im
 					<placeName ref="#wien.hof-operntheater">kaiserl. Hofoperntheater</placeName>,

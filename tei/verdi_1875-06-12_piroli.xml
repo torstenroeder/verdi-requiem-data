@@ -15,7 +15,11 @@
 					<date when-iso="1875-06-12"/>
 				</bibl>
 				<bibl>
-					<title>Franco Abbiati: Giuseppe Verdi (Band 3). Mailand: Ricordi, 1959.</title>
+					<author>Franco Abbiati</author>
+					<title>Giuseppe Verdi (Vol. 3)</title>
+					<pubPlace>Mailand</pubPlace>
+					<publisher>Ricordi</publisher>
+					<date>1959</date>
 					<biblScope unit="page">752</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -35,13 +39,14 @@
 	</teiHeader>
 	<text xml:lang="it">
 		<body rend="antiqua">
-			<p>Ieri vi fu la <rs type="event" ref="#wien.1875.1">prima esecuzione della <title
+			<p>Ieri vi fu la <rs ref="#wien.1875.1" type="event">prima esecuzione della <title
 						ref="#verdi.requiem">Messa</title></rs>. Il successo fu buono, migliore che
 				altrove, e migliore di gran lunga che altrove fu l’esecuzione. Che buona orchestra e
 				che buoni cori! e come sono elastici e si lasciano ben guidare. infine un’esecuzione
-				che nell’insieme non si sentirà mai più. So che voi andrete a <rs type="event"
-					ref="#venedig.1875"><placeName ref="#venedig">Venezia</placeName></rs> (io non
-				vi sarò) ma per quanto bene, sarà esecuzione ben pallida in confronto a questa.</p>
+				che nell’insieme non si sentirà mai più. So che voi andrete a <rs
+					ref="#venedig.1875" type="event"><placeName ref="#venedig"
+					>Venezia</placeName></rs> (io non vi sarò) ma per quanto bene, sarà esecuzione
+				ben pallida in confronto a questa.</p>
 			<note resp="tr" type="translation">Übersetzung: <q>Gestern war hier die Erstaufführung
 					der Messa. Der Erfolg war gut, besser als anderswo, und weitaus besser als
 					anderswo war die Ausführung. Was für ein gutes Orchester, und was für gute

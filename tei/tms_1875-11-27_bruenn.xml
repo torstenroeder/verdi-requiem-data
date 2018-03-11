@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1875-11-27" when-custom="sat"/>
-					<biblScope unit="issue">272</biblScope><biblScope unit="volume"
-						>25</biblScope><series>tms</series>
+					<date when-custom="sat" when-iso="1875-11-27"/>
+					<biblScope unit="issue">272</biblScope>
+					<biblScope unit="volume">25</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">[3]</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -38,13 +39,13 @@
 			<cb n="3c"/>
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>
-			<p><g type="MULTIPLICATION_X" n="2715">✕</g> (<hi rend="widespace">Ein Komite</hi>.) Wir melden
-				jüngst, daß sich zur <rs type="event" ref="#bruenn.1876">Produktion des <title
-						ref="#verdi.requiem">Requiems</title> von <persName ref="#verdi.giuseppe"
-						>Verdi</persName></rs> ein Komite bilden wird. Dasselbe hat sich nun
-				konstituirt, und besteht aus folgenden Mitgliedern, aus den Damen: Ihre Exzellenz
-				die Statthalterin Baronin <hi rend="widespace"><persName ref="#possinger.emilie"
-						>Possinger</persName></hi>, Frau <persName
+			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<hi rend="widespace">Ein Komite</hi>.) Wir
+				melden jüngst, daß sich zur <rs ref="#bruenn.1876" type="event">Produktion des
+						<title ref="#verdi.requiem">Requiems</title> von <persName
+						ref="#verdi.giuseppe">Verdi</persName></rs> ein Komite bilden wird. Dasselbe
+				hat sich nun konstituirt, und besteht aus folgenden Mitgliedern, aus den Damen: Ihre
+				Exzellenz die Statthalterin Baronin <hi rend="widespace"><persName
+						ref="#possinger.emilie">Possinger</persName></hi>, Frau <persName
 					ref="#gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName>, Baronin
 					<persName ref="#herring.amalie">Herring</persName>, Gräfin <persName
 					ref="#serenyi.ernestine">Serenyi</persName>, Frau <persName ref="#teuber.adele"

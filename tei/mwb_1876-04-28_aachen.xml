@@ -1,19 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 28. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1876-04-28_aachen.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#mwb" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-04-28"/>
-				<biblScope unit="issue">18</biblScope><biblScope unit="volume">7</biblScope><series>mwb</series>
-				<biblScope unit="page">231</biblScope>
-				<link facs="mwb_1876-04-28_231.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760428&amp;seite=7"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#aachen"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<pb break="null" n="231" type="initial"/>
-		<head rend="larger">Concertumschau.</head>
-		<p><rs type="event" ref="#aachen.1876.1"><hi rend="bold"><placeName ref="#aachen">Aachen</placeName>.</hi> 6.
-				Abonn-Conc. unt. Leit. des Musikdirectors Hrn. <persName ref="#breunung.ferdinand">F.
-					Breunung</persName> am <date when-iso="1876-03-16">16. März</date>: <title ref="#gluck.iphigenie-en-aulide.ouverture">„Iphigenien“-Ouvert.</title> v. <persName ref="#gluck.christoph-willibald">Gluck</persName>, <title ref="#verdi.requiem">Requiem</title> v. <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi>. Solisten: Frau <persName ref="#lederer-ubrich.asminde">A.
-					Lederer-Ubrich</persName> a. <placeName ref="#aachen">Aachen</placeName>, Frl. <persName ref="#keller.elsa">Elsa Keller</persName> a. <placeName ref="#koeln">Cöln</placeName>, Hr.
-				Prof. <persName ref="#schneider.carl">Carl Schneider</persName> a. <placeName ref="#koeln">Cöln</placeName> und Hr. <persName ref="#pfeiffer.xxx">L. Pfeiffer</persName> a. <placeName ref="#duesseldorf">Düsseldorf</placeName>.</rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MWbl, Leipzig, 28. April 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mwb_1876-04-28_aachen.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#mwb" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-04-28"/>
+					<biblScope unit="issue">18</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<series>mwb</series>
+					<biblScope unit="page">231</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#aachen"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-04-28_231.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760428&amp;seite=7"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<pb break="null" facs="#f1" n="231" type="initial"/>
+			<head rend="lineale bold">Concertumschau.</head>
+			<p><rs ref="#aachen.1876.1" type="event"><hi rend="bold"><placeName ref="#aachen"
+							>Aachen</placeName>.</hi> 6. Abonn-Conc. unt. Leit. des Musikdirectors
+					Hrn. <persName ref="#breunung.ferdinand">F. Breunung</persName> am <date
+						when-iso="1876-03-16">16. März</date>: <title
+						ref="#gluck.iphigenie-en-aulide.ouverture">„Iphigenien“-Ouvert.</title> v.
+						<persName ref="#gluck.christoph-willibald">Gluck</persName>, <title
+						ref="#verdi.requiem">Requiem</title> v. <hi rend="widespace"><persName
+							ref="#verdi.giuseppe">Verdi</persName></hi>. Solisten: Frau <persName
+						ref="#lederer-ubrich.asminde">A. Lederer-Ubrich</persName> a. <placeName
+						ref="#aachen">Aachen</placeName>, Frl. <persName ref="#keller.elsa">Elsa
+						Keller</persName> a. <placeName ref="#koeln">Cöln</placeName>, Hr. Prof.
+						<persName ref="#schneider.carl">Carl Schneider</persName> a. <placeName
+						ref="#koeln">Cöln</placeName> und Hr. <persName ref="#pfeiffer.xxx">L.
+						Pfeiffer</persName> a. <placeName ref="#duesseldorf"
+					>Düsseldorf</placeName>.</rs></p>
+		</body>
+	</text>
 </TEI>

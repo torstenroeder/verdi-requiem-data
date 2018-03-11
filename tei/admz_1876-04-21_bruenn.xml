@@ -14,9 +14,9 @@
 					<orgName ref="#admz" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1876-04-21"/>
-					<biblScope unit="issue">16</biblScope><biblScope unit="volume">3</biblScope>
+					<biblScope unit="issue">16</biblScope>
+					<biblScope unit="volume">3</biblScope>
 					<biblScope unit="page">127</biblScope>
-					<link facs="admz_1876-04-21_127.png"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -33,6 +33,7 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--<graphic n="admz_1876-04-21_127.png"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="127b" type="initial"/>
@@ -40,12 +41,12 @@
 			<p><hi rend="bold"><placeName ref="#bruenn">Brünn</placeName>.</hi> Das Musikleben
 				unserer Stadt bot im abgelaufenen ersten Viertel des Jahres so wenig hervorstehende
 				Momente, daß die Aufgabe des Berichterstatters eine sehr leichte wird. Der schwere
-				Druck der Zeit, welcher sich in der <placeName ref="#bruenn"><emph rend="widespace"
-						>Fabrikstadt</emph> Brünn</placeName> nur fast vernichtender Wirkung geltend
+				Druck der Zeit, welcher sich in der <emph rend="widespace">Fabrikstadt</emph>
+				<placeName ref="#bruenn">Brünn</placeName> nur fast vernichtender Wirkung geltend
 				macht, läßt im Publikum keine Freude an künstlerischen Produktionen aufkommen, und
 				hält auch alle auswärtigen musikalischen Notabilitäten von einem so wenig
 				genußverheißenden Besuche unserer Stadt ab. Genußvoll gestaltete sich <rs
-					type="event" ref="#bruenn.1876">die (wiederholte) Aufführung von <hi
+					ref="#bruenn.1876" type="event">die (wiederholte) Aufführung von <hi
 						rend="widespace"><persName ref="#verdi.giuseppe" role="composer"
 							>Verdi’s</persName>
 						<title ref="#verdi.requiem">Requiem</title></hi>, unter Mitwirkung der <hi

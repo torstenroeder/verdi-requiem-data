@@ -18,6 +18,45 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body>
+			<!-- einarbeiten:
+				(1) wer ist Hauptträger der Produktion? Oper, Philharmonie oder Singverein?
+				(2) ist Aufführungsort ein Bühnenhaus, ein Konzerthaus, eine Kirche oder ein Vereinshaus? -->
+			<!-- Nicht aufgeführt:
+				- Magdeburg wird genannt in: Die Tonkunst, Berlin, 8. April 1876; möglicherweise Falschmeldung.
+				- Nürnberg wird genannt in: GMM 9.4.1876, S. 128; möglicherweise Falschmeldung.
+				- Venedig 1874 (offenbar Falschmeldung)
+				- Boston 1878 (hinzu!)
+				- Wien 1875b (hinzu!)
+				- Olmütz, 3. und 4. Aufführung? (nur zwei sind bislang belegt)
+				- Krakau
+				  => 16.01.1885 Tow. Muz[yczne]. Verdi: Requiem. (Seite fehlt)
+				  => 10.01.1908 Tow. Muz. Requiem Verdiego. (Seite fehlt)
+				  => siehe Józef Reiss: Almanach Muzyczny Krakowa 1780–1914
+			-->
+			<listEvent>
+				<head>Christliche Feiertage</head>
+				<event xml:id="feiertage.1876" type="religious">
+					<label>Feiertage 1876</label>
+					<event xml:id="feiertage.1876.karfreitag" type="religious">
+						<label>Karfreitag</label>
+					</event>
+					<event xml:id="feiertage.1876.karsamstag" type="religious">
+						<label>Karsamstag</label>
+					</event>
+					<event xml:id="feiertage.1876.ostersonntag" type="religious">
+						<label>Ostersonntag</label>
+					</event>
+					<event xml:id="feiertage.1876.ostermontag" type="religious">
+						<label>Ostermontag</label>
+					</event>
+					<event xml:id="feiertage.1876.allerheiligen" type="religious.catholic">
+						<label>Allerheiligen</label>
+					</event>
+					<event xml:id="feiertage.1876.allerseelen" type="religious.catholic">
+						<label>Allerseelen</label>
+					</event>
+				</event>
+			</listEvent>
 			<listEvent>
 				<head>1874</head>
 				<event xml:id="mailand.1874" type="musical.production">

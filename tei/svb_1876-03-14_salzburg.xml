@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#salzburger-volksblatt"/>
 					<placeName ref="#salzburg"/>
-					<date when-iso="1876-03-14" when-custom="tue"/>
-					<biblScope unit="issue">31</biblScope><biblScope unit="volume"
-						>6</biblScope><series>svb</series>
+					<date when-custom="tue" when-iso="1876-03-14"/>
+					<biblScope unit="issue">31</biblScope>
+					<biblScope unit="volume">6</biblScope>
+					<series>svb</series>
 					<biblScope unit="page">3</biblScope>
-					<link facs="svb_1876-03-14_3.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760314&amp;seite=3"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,6 +33,10 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="svb_1876-03-14_3.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760314&amp;seite=3"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="3" type="initial"/>
@@ -42,7 +44,7 @@
 			<gap resp="tr"/>
 			<p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title>.</hi>
-				<rs type="event" ref="#salzburg.1876"><persName ref="#verdi.giuseppe"
+				<rs ref="#salzburg.1876" type="event"><persName ref="#verdi.giuseppe"
 						>Verdi’s</persName> großes <title ref="#verdi.requiem">Requiem</title> wird
 					unter Leitung des Herrn Mozarteums-Directors Dr. <persName ref="#bach.otto">O.
 							<hi rend="widespace">Bach</hi></persName> im <date when-iso="1876-04"

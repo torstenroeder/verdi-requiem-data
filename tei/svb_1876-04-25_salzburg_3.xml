@@ -1,24 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Salzburger Volksblatt, 25. April 1876 [3]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/svb_1876-04-25_dank.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#salzburger-volksblatt"/>
-				<placeName ref="#salzburg"/>
-				<date when-iso="1876-04-25" when-custom="tue"/>
-				<biblScope unit="issue">49</biblScope><biblScope unit="volume">6</biblScope><series>svb</series>
-				<biblScope unit="page">4</biblScope>
-				<link facs="svb_1876-04-25_4.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=4"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#salzburg"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="4c" type="initial"/>
-		<head rend="larger">Dank.</head>
-		<p>Die Vorstehung des <hi rend="widespace"><orgName ref="#salzburg.dommusikverein">Dommusik-Vereines</orgName></hi> und <hi rend="widespace">Mozarteums</hi> fühlt
-			sich verpflichtet, hiemit allen geehrten Mitwirkenden bei der <rs type="event" ref="#salzburg.1876.1">Aufführung des <persName ref="#verdi.giuseppe"><hi rend="bold">Verdi</hi>’schen</persName>
-				<hi rend="bold"><title ref="#verdi.requiem">Requiems</title></hi></rs>, sowie Allen,
-			welche das Unternehmen durch thatkräftige Unterstützung ermöglichten und förderten,
-			insbesondere der Frau Gräfin <hi rend="widespace"><persName ref="#gatterburg.hedwig">Gatterburg</persName></hi>, Frln. <hi rend="widespace"><persName ref="#voigt.gabriele">Voigt</persName></hi>, Hrn. Oberst <hi rend="widespace"><persName ref="#latterer.josef">v. Latterer</persName></hi> und der verehrlichen <hi rend="widespace">Liedertafel</hi> den tiefgefühlten Dank öffentlich auszudrücken,
-			und verbindet damit das freundliche Ersuchen an alle <hi rend="antiqua">P. T.</hi>
-			Mitwirkenden, zur <rs type="event" ref="#salzburg.1876.2">zweiten Aufführung</rs>, welche <date when-iso="1876-04-30"><hi rend="bold">Sonntag</hi> den <hi rend="bold">30.
-				April</hi></date> Nachmittags 4 Uhr in der <hi rend="antiqua"><placeName ref="#salzburg.aula-academica">Aula academica</placeName></hi> stattfindet, sich
-			vollzählig um ½4 Uhr einfinden zu wollen.</p>
-		<p><hi rend="widespace"><placeName ref="#salzburg">Salzburg</placeName></hi>, <date when-iso="1876-04-24">24. April 1876</date>. </p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Salzburger Volksblatt, 25. April 1876 [3]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/svb_1876-04-25_dank.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#salzburger-volksblatt"/>
+					<placeName ref="#salzburg"/>
+					<date when-custom="tue" when-iso="1876-04-25"/>
+					<biblScope unit="issue">49</biblScope>
+					<biblScope unit="volume">6</biblScope>
+					<series>svb</series>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#salzburg"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="svb_1876-04-25_4.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=4"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="4c" type="initial"/>
+			<head rend="larger">Dank.</head>
+			<p>Die Vorstehung des <hi rend="widespace"><orgName ref="#salzburg.dommusikverein"
+						>Dommusik-Vereines</orgName></hi> und <hi rend="widespace">Mozarteums</hi>
+				fühlt sich verpflichtet, hiemit allen geehrten Mitwirkenden bei der <rs
+					ref="#salzburg.1876.1" type="event">Aufführung des <persName
+						ref="#verdi.giuseppe"><hi rend="bold">Verdi</hi>’schen</persName>
+					<hi rend="bold"><title ref="#verdi.requiem">Requiems</title></hi></rs>, sowie
+				Allen, welche das Unternehmen durch thatkräftige Unterstützung ermöglichten und
+				förderten, insbesondere der Frau Gräfin <hi rend="widespace"><persName
+						ref="#gatterburg.hedwig">Gatterburg</persName></hi>, Frln. <hi
+					rend="widespace"><persName ref="#voigt.gabriele">Voigt</persName></hi>, Hrn.
+				Oberst <hi rend="widespace"><persName ref="#latterer.josef">v.
+					Latterer</persName></hi> und der verehrlichen <hi rend="widespace"
+					>Liedertafel</hi> den tiefgefühlten Dank öffentlich auszudrücken, und verbindet
+				damit das freundliche Ersuchen an alle <hi rend="antiqua">P. T.</hi> Mitwirkenden,
+				zur <rs ref="#salzburg.1876.2" type="event">zweiten Aufführung</rs>, welche <date
+					when-iso="1876-04-30"><hi rend="bold">Sonntag</hi> den <hi rend="bold">30.
+						April</hi></date> Nachmittags 4 Uhr in der <hi rend="antiqua"><placeName
+						ref="#salzburg.aula-academica">Aula academica</placeName></hi> stattfindet,
+				sich vollzählig um ½4 Uhr einfinden zu wollen.</p>
+			<p><hi rend="widespace"><placeName ref="#salzburg">Salzburg</placeName></hi>, <date
+					when-iso="1876-04-24">24. April 1876</date>. </p>
+		</body>
+	</text>
 </TEI>

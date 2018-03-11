@@ -1,21 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>AmZ, Leipzig, 24. Juni 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/amz_1874-06-24_mailand.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#amz" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1874-06-24"/>
-				<biblScope unit="issue">25</biblScope><biblScope unit="volume">9</biblScope>
-				<biblScope unit="column">396</biblScope>
-				<link facs="amz_1874-06-24_395-396.jpg" target="http://reader.digitale-sammlungen.de/object/bsb11179879_00214.svg"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#mailand"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<cb break="null" n="395" type="initial"/>
-		<head rend="larger">Berichte. Nachrichten und Bemerkungen.</head>
-		<cb break="null" n="396" type="skipped"/>
-		<p><hi rend="bold">* <placeName ref="#mailand">Mailand</placeName>.</hi>
-			<rs type="event" ref="#mailand.1874.1">Am <date when-iso="1874-05-22">22. Mai</date> ist in der <placeName ref="#mailand.san-marco">Kirche San Marco</placeName> zu <placeName ref="#mailand">Mailand</placeName>
-				<hi rend="italic"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
-				<title ref="#verdi.requiem">Requiem</title> zum Gedächtniss <persName ref="#manzoni.alessandro">Manzoni’s</persName> unter des Componisten eigener
-				Leitung aufgeführt worden</rs> und die italienischen Blätter sind voll der
-			Lobeserhebungen.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AmZ, Leipzig, 24. Juni 1874</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/amz_1874-06-24_mailand.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#amz" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1874-06-24"/>
+					<biblScope unit="issue">25</biblScope>
+					<biblScope unit="volume">9</biblScope>
+					<biblScope unit="column">396</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#mailand"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="amz_1874-06-24_395-396.jpg"
+			url="http://reader.digitale-sammlungen.de/object/bsb11179879_00214.svg" xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<pb break="null" facs="#f1" n="395" type="initial"/>
+			<head rend="bold larger egypt">Berichte. Nachrichten und Bemerkungen.</head>
+			<cb break="null" n="396" type="skipped"/>
+			<p><hi rend="bold">* <placeName ref="#mailand">Mailand</placeName>.</hi>
+				<rs ref="#mailand.1874.1" type="event">Am <date when-iso="1874-05-22">22. Mai</date>
+					ist in der <placeName ref="#mailand.san-marco">Kirche San Marco</placeName> zu
+						<placeName ref="#mailand">Mailand</placeName>
+					<hi rend="italic"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
+					<title ref="#verdi.requiem">Requiem</title> zum Gedächtniss <persName
+						ref="#manzoni.alessandro">Manzoni’s</persName> unter des Componisten eigener
+					Leitung aufgeführt worden</rs> und die italienischen Blätter sind voll der
+				Lobeserhebungen.</p>
+		</body>
+	</text>
 </TEI>

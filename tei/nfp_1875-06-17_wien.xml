@@ -1,27 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 17. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-17_wien-manzoni-requiem.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#neue-freie-presse" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-17" when-custom="thu"/>
-				<biblScope unit="issue">3882</biblScope><biblScope unit="subIssue">3882</biblScope><series>nfp</series>
-				<biblScope unit="page">5</biblScope>
-				<link facs="nfp_1875-06-17_5.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750617&amp;seite=5"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="5b" type="initial"/>
-		<head rend="larger">Theater- und Kunstnachrichten.</head>
-		<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date when-iso="1875-06-16">16. Juni</date>.</p>
-		<p>Das Interesse für das <title ref="#verdi.requiem">Manzoni-Requiem</title>, anstatt sich
-			abzuschwächen, steigert sich mit jeder neuen Aufführung. <rs type="event" ref="#wien.1875.3">Die
-				heutige (dritte) Vorstellung</rs> fand vor einem total ausverkauften Hause statt.
-			Der Beifall, den Componist, Solosänger, Chor und Orchester ernteten, war stürmischer
-			denn je und ebenso das Verlangen nach der Wiederholung einzelner Sätze. Dieser seltene
-			Erfolg hat die Direction des Hofoperntheaters veranlaßt, noch eine <rs type="event" ref="#wien.1875.4">vierte Aufführung</rs> des Werkes an einem noch näher zu
-			bestimmenden Tage der nächsten Woche zu veranstalten. <gap resp="tr"/> Wie verlautet,
-			sollen für diese Vorstellungen von der Südbahn Extrazüge zwischen <placeName ref="#wien">Wien</placeName> und <placeName ref="#voeslau">Vöslau</placeName> eingerichtet werden, um den in
-			den südlichen Sommerfrischen wohnenden Besuchern der Oper die Möglichkeit zu bieten,
-			nach der Vorstellung in ihre Landwohnungen zurückzukehren. Die Westbahn besitzt einen
-			fahrplanmäßigen Zug, welcher um 10 Uhr 40 Minuten <placeName ref="#wien">Wien</placeName>
-			verläßt.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Freie Presse, Wien, 17. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nfp_1875-06-17_wien-manzoni-requiem.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neue-freie-presse" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="thu" when-iso="1875-06-17"/>
+					<biblScope unit="issue">3882</biblScope>
+					<biblScope unit="subIssue">3882</biblScope>
+					<series>nfp</series>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nfp_1875-06-17_5.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750617&amp;seite=5"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="5b" type="initial"/>
+			<head rend="larger">Theater- und Kunstnachrichten.</head>
+			<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date
+					when-iso="1875-06-16">16. Juni</date>.</p>
+			<p>Das Interesse für das <title ref="#verdi.requiem">Manzoni-Requiem</title>, anstatt
+				sich abzuschwächen, steigert sich mit jeder neuen Aufführung. <rs ref="#wien.1875.3"
+					type="event">Die heutige (dritte) Vorstellung</rs> fand vor einem total
+				ausverkauften Hause statt. Der Beifall, den Componist, Solosänger, Chor und
+				Orchester ernteten, war stürmischer denn je und ebenso das Verlangen nach der
+				Wiederholung einzelner Sätze. Dieser seltene Erfolg hat die Direction des
+				Hofoperntheaters veranlaßt, noch eine <rs ref="#wien.1875.4" type="event">vierte
+					Aufführung</rs> des Werkes an einem noch näher zu bestimmenden Tage der nächsten
+				Woche zu veranstalten. <gap resp="tr"/> Wie verlautet, sollen für diese
+				Vorstellungen von der Südbahn Extrazüge zwischen <placeName ref="#wien"
+					>Wien</placeName> und <placeName ref="#voeslau">Vöslau</placeName> eingerichtet
+				werden, um den in den südlichen Sommerfrischen wohnenden Besuchern der Oper die
+				Möglichkeit zu bieten, nach der Vorstellung in ihre Landwohnungen zurückzukehren.
+				Die Westbahn besitzt einen fahrplanmäßigen Zug, welcher um 10 Uhr 40 Minuten
+					<placeName ref="#wien">Wien</placeName> verläßt.</p>
+		</body>
+	</text>
 </TEI>

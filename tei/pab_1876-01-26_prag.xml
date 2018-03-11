@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#prager-abendblatt" role="publisher"/>
 					<placeName ref="#prag"/>
-					<date when-iso="1876-01-26" when-custom="wed"/>
-					<biblScope unit="issue">20</biblScope><biblScope unit="volume"
-						>?</biblScope><series>pab</series>
+					<date when-custom="wed" when-iso="1876-01-26"/>
+					<biblScope unit="issue">20</biblScope>
+					<biblScope unit="volume">?</biblScope>
+					<series>pab</series>
 					<biblScope unit="page">[3]</biblScope>
-					<link facs="pab_1876-01-26_3.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760126&amp;seite=3"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,12 +33,16 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="pab_1876-01-26_3.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760126&amp;seite=3"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><hi rend="bold"><g type="ASTERISM" n="2042">⁂</g></hi> Vom <placeName
+			<p><hi rend="bold"><g n="2042" type="ASTERISM">⁂</g></hi> Vom <placeName
 					ref="#prag.staendetheater">deutschen Landestheater</placeName>. Die Aufführungen
-				von „<title ref="#verdi.aida">Aida</title>“ und des <rs type="event" ref="#prag.1876"
-						><persName ref="#verdi.giuseppe">Verdi’schen</persName>
+				von „<title ref="#verdi.aida">Aida</title>“ und des <rs ref="#prag.1876"
+					type="event"><persName ref="#verdi.giuseppe">Verdi’schen</persName>
 					<title ref="#verdi.requiem">Requiems</title></rs> werden im <date
 					when-iso="1876-02">Feber</date> eine Unterbrechung erfahren, da schon in den
 				nächsten Tagen Frl. <persName ref="#burenne.henriette">Burenne</persName> nach

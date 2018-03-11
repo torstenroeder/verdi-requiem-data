@@ -13,15 +13,11 @@
 				<bibl>
 					<orgName ref="#die-presse"/>
 					<placeName ref="#wien"/>
-					<date when-iso="1875-11-03" when-custom="wed"/>
-					<biblScope unit="issue">304</biblScope><biblScope unit="volume"
-						>28</biblScope><series>dp</series>
+					<date when-custom="wed" when-iso="1875-11-03"/>
+					<biblScope unit="issue">304</biblScope>
+					<biblScope unit="volume">28</biblScope>
+					<series>dp</series>
 					<biblScope unit="page">8–9</biblScope>
-					<link facs="dp_1875-11-03_8.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751103&amp;seite=14"/>
-					<link facs="dp_1875-11-03_9.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751103&amp;seite=15"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,12 +34,20 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="dp_1875-11-03_8.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751103&amp;seite=14"
+			xml:id="f1"/>
+		<graphic n="dp_1875-11-03_9.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751103&amp;seite=15"
+			xml:id="f2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<cb n="8c"/>
+			<cb facs="#f1" n="8c"/>
 			<head rend="bold">Theater- und Kunstnachrichten.</head>
 			<p>(<hi rend="widespace"><placeName ref="#wien.hof-operntheater"
-				>Hofoperntheater</placeName></hi>.) <rs type="event" ref="#wien.1875a">Zur
+						>Hofoperntheater</placeName></hi>.) <rs ref="#wien.1875a" type="event">Zur
 					Allerseelenfeier hatte diesmal die Direction statt einer Opernvorstellung eine
 					Aufführung des „<title ref="#verdi.requiem">Requiem</title>“ von <persName
 						ref="#verdi.giuseppe">Verdi</persName> veranstaltet.</rs> Es entspricht auch
@@ -86,8 +90,8 @@
 				Stimme trat aber in diesen Registern viel zu stark, ja zu aufdringlich hervor,
 				während sie in den tieferen Lagen für den Effect zu wenig Klangkraft entfaltete. Das
 				Organ des Fräuleins <persName ref="#tremel.wilhelmine">Tremel</persName> versagt
-				fast gänzlich in der <pb break="yes" n="9" type="regular"/>Mittellage. In Folge
-				dessen gingen einzelne Partien, wie zum Beispiel das „<title
+				fast gänzlich in der <pb break="yes" facs="#f2" n="9" type="regular"/>Mittellage. In
+				Folge dessen gingen einzelne Partien, wie zum Beispiel das „<title
 					ref="#verdi.requiem.2.liber-scriptus">liber scriptus</title>“ vollständig
 				verloren. Herr <persName ref="#walter.gustav">Walter</persName> sang zwar sehr
 				geschmackvoll, ließ aber in der Vertheilung von Licht und Schatten, in der
@@ -97,15 +101,14 @@
 				sogar seinen italienischen Vorgänger, Herrn <persName ref="#medini.paolo"
 					>Medini</persName>, weit überragte. Im Weitern waren auch die Tempi nicht immer
 				die ganz richtigen, sie mußten zum Theile belebter sein. Die Chöre wurden übrigens
-				mit Sicherheit ausgeführt; nur die letzte Fuge „<title
-					ref="#verdi.requiem.7" n="libera-me">Libera me</title>“ war etwas verwischt. Es
-				spricht jedoch für das Werk, daß es auch bei solchen, größtentheils durch die Mittel
-				bedungenen Schwächen der Ausführung eine zündende Kraft bewiesen hat. Einzelne
-				Nummern, unter Anderm das „<title ref="#verdi.requiem.5">Agnus Dei</title>“ mußten
-				auf stürmisches Verlangen wiederholt werden. Ueberhaupt bewies sich das Publicum
-				sehr empfänglich für die Leistungen der Solisten sowol wie der Chöre und zeichnete
-				sie aufs Reichlichste durch Beifall aus. <persName ref="#schelle.eduard">E.
-					S.</persName></p>
+				mit Sicherheit ausgeführt; nur die letzte Fuge „<title n="libera-me"
+					ref="#verdi.requiem.7">Libera me</title>“ war etwas verwischt. Es spricht jedoch
+				für das Werk, daß es auch bei solchen, größtentheils durch die Mittel bedungenen
+				Schwächen der Ausführung eine zündende Kraft bewiesen hat. Einzelne Nummern, unter
+				Anderm das „<title ref="#verdi.requiem.5">Agnus Dei</title>“ mußten auf stürmisches
+				Verlangen wiederholt werden. Ueberhaupt bewies sich das Publicum sehr empfänglich
+				für die Leistungen der Solisten sowol wie der Chöre und zeichnete sie aufs
+				Reichlichste durch Beifall aus. <persName ref="#schelle.eduard">E. S.</persName></p>
 		</body>
 	</text>
 </TEI>

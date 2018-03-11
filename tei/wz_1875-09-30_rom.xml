@@ -1,15 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Wiener Zeitung, 30. September 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wz_1875-09-30_rom.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#wiener-zeitung" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-09-30"/>
-				<biblScope unit="issue">224</biblScope><biblScope unit="subIssue">224</biblScope><series>wz</series>
-				<biblScope unit="page">2</biblScope>
-				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750930&amp;seite=12"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#rom"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Kleine Chronik.</head>
-		<cb break="null" n="2c" type="skipped"/>
-		<p>(<hi rend="widespace">Musikalisches aus <placeName ref="#italien">Italien</placeName></hi>.) <persName ref="#verdi.giuseppe">Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ sollte nun auch in <placeName ref="#rom">Rom</placeName> gegeben werden; die Römer müssen aber vorläufig auf das Vergnügen, es zu hören, Verzicht leisten. Ein Impresario hatte den Plan, das ganze bei den <rs type="event" ref="#florenz.1875">Aufführungen in <placeName ref="#florenz">Florenz</placeName></rs> beschäftigt gewesenen Personal für eine einzige Aufführung nach <placeName ref="#rom">Rom</placeName> zu berufen. Er sollte dafür die Kleinigkeit von 50.000 Fr. zahlen und das war dem Manne zu viel. Ueberdies weigerte sich Signora <persName ref="#stolz.teresa">Stolz</persName> aus Furcht vor der Malaria, nach <placeName ref="#rom">Rom</placeName> zu kommen. <gap resp="tr"/> Ein Signor <persName ref="#meini.xxx">Meini</persName> hat einen gut geschriebenen Brief über <persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Requiem</title> veröffentlicht, worin er das Werk unter Berufung auf <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> und <persName ref="#cherubini.luigi">Cherubini</persName> gegen den Vorwurf der „Unkirchlichkeit“ vertheidigt <gap resp="tr"/></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Wiener Zeitung, 30. September 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/wz_1875-09-30_rom.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#wiener-zeitung" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-09-30"/>
+					<biblScope unit="issue">224</biblScope>
+					<biblScope unit="subIssue">224</biblScope>
+					<series>wz</series>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#rom"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750930&amp;seite=12"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Kleine Chronik.</head>
+			<cb break="null" n="2c" type="skipped"/>
+			<p>(<hi rend="widespace">Musikalisches aus <placeName ref="#italien"
+					>Italien</placeName></hi>.) <persName ref="#verdi.giuseppe">Verdi’s</persName>
+					„<title ref="#verdi.requiem">Requiem</title>“ sollte nun auch in <placeName
+					ref="#rom">Rom</placeName> gegeben werden; die Römer müssen aber vorläufig auf
+				das Vergnügen, es zu hören, Verzicht leisten. Ein Impresario hatte den Plan, das
+				ganze bei den <rs ref="#florenz.1875" type="event">Aufführungen in <placeName
+						ref="#florenz">Florenz</placeName></rs> beschäftigt gewesenen Personal für
+				eine einzige Aufführung nach <placeName ref="#rom">Rom</placeName> zu berufen. Er
+				sollte dafür die Kleinigkeit von 50.000 Fr. zahlen und das war dem Manne zu viel.
+				Ueberdies weigerte sich Signora <persName ref="#stolz.teresa">Stolz</persName> aus
+				Furcht vor der Malaria, nach <placeName ref="#rom">Rom</placeName> zu kommen. <gap
+					resp="tr"/> Ein Signor <persName ref="#meini.xxx">Meini</persName> hat einen gut
+				geschriebenen Brief über <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> veröffentlicht, worin er das Werk unter
+				Berufung auf <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> und
+					<persName ref="#cherubini.luigi">Cherubini</persName> gegen den Vorwurf der
+				„Unkirchlichkeit“ vertheidigt <gap resp="tr"/></p>
+		</body>
+	</text>
 </TEI>

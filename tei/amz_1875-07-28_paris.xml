@@ -10,25 +10,25 @@
 				<p>http://verdi-requiem.de/text/amz_1875-07-28_paris.xml</p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>
+				<bibl facs="#f11">
 					<orgName ref="#amz"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1875-07-28"/>
-					<biblScope unit="issue">30</biblScope><biblScope unit="volume"
-						>10</biblScope><series>amz</series>
+					<biblScope unit="issue">30</biblScope>
+<biblScope unit="volume"
+						>10</biblScope>
+<series>amz</series>
 					<biblScope unit="column">477–478</biblScope>
-					<link facs="amz_1875-07-28_477-478.jpg"
-						target="https://archive.org/stream/bub_gb_tVAfAAAAMAAJ#page/n235/mode/2up"/>
 				</bibl>
-				<bibl>
+				<bibl facs="#f21">
 					<orgName ref="#amz"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1875-08-04"/>
-					<biblScope unit="issue">31</biblScope><biblScope unit="volume"
-						>10</biblScope><series>amz</series>
+					<biblScope unit="issue">31</biblScope>
+<biblScope unit="volume"
+						>10</biblScope>
+<series>amz</series>
 					<biblScope unit="column">485–486</biblScope>
-					<link facs="amz_1875-08-04_485-486.jpg"
-						target="https://archive.org/stream/bub_gb_tVAfAAAAMAAJ#page/n239/mode/2up"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -45,15 +45,21 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="amz_1875-07-28_477-478.jpg"
+			url="https://archive.org/stream/bub_gb_tVAfAAAAMAAJ#page/n235/mode/2up" xml:id="f11"/>
+		<graphic n="amz_1875-08-04_485-486.jpg"
+			url="https://archive.org/stream/bub_gb_tVAfAAAAMAAJ#page/n239/mode/2up" xml:id="f21"/>
+	</facsimile>
 	<text xml:lang="de">
 		<group>
 			<text n="1">
 				<body rend="antiqua">
-					<cb break="null" n="477" type="initial"/>
-					<head rend="larger">Neuer Pariser Musikbericht.<note resp="tr" type="textLink"
-							>Vgl. <ref type="text" target="rddm_1875-06-01.xml">Revue des deux
-								mondes, Paris, 1. Mai 1875</ref>.</note></head>
-					<head rend="plain">(Nach <hi rend="widespace"><persName ref="#blaze.henri">de
+					<cb break="null" facs="#f11" n="477" type="initial"/>
+					<head rend="larger bold egypt">Neuer Pariser Musikbericht.<note resp="tr" type="textLink">Vgl.
+								<ref target="rddm_1875-06-01.xml" type="text">Revue des deux mondes,
+								Paris, 1. Mai 1875</ref>.</note></head>
+					<head rend="smaller">(Nach <hi rend="widespace"><persName ref="#blaze.henri">de
 								Lagenevais</persName></hi>.)</head>
 					<head rend="italic"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 						<title ref="#verdi.requiem">Messe</title>. <gap resp="tr"/></head>
@@ -68,14 +74,13 @@
 						Partituren, die, ein widerwärtiges Parfüm von Ambra<note resp="tr"
 							type="glossaryLink">Ambra: Eine Substanz aus dem Verdauungstrakt von
 							Pottwalen, die zur Parfümherstellung verwendet wurde; vgl. <ref
-								type="text"
 								target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10401903_00639.html"
-								>Meyer 1869, S. 605</ref>.</note> und Patschouli<note resp="tr"
-							type="glossaryLink">Patschouli, auch: Patchuli, eine tropische
+								type="text">Meyer 1869, S. 605</ref>.</note> und Patschouli<note
+							resp="tr" type="glossaryLink">Patschouli, auch: Patchuli, eine tropische
 							Pflanzenart, die zur Parfümherstellung und als Heilkraut verwendet
-							wurde; vgl. <ref type="text"
+							wurde; vgl. <ref
 								target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11003685_00702.html"
-								>Meyer 1871, S. 674</ref>.</note> ausströmen, das eine
+								type="text">Meyer 1871, S. 674</ref>.</note> ausströmen, das eine
 						Schmuggler-Gesellschaft an sich lockt, welche man mit so ordinärer Waare
 						abfindet? Europa amüsirt sich dabei, und das Vaterland eines <persName
 							ref="#beethoven.ludwig-van">Beethoven</persName>, <persName
@@ -93,7 +98,7 @@
 						es schwankt bald da, bald dorthin, jedoch nicht ohne eine vage Idee, ohne
 						ein gewisses Vorgefühl dessen, was etwa gut sein möchte, und die Kritik hat
 						dafür zu sorgen, diese Eindrücke zu überwachen und die Regung auf gewisse
-						Principien hinzulenken. <rs type="event" ref="#paris.1874">Als im vorigen
+						Principien hinzulenken. <rs ref="#paris.1874" type="event">Als im vorigen
 							Jahre zur selben Zeit die <hi rend="widespace"><title
 									ref="#verdi.requiem">Messe</title></hi> von <hi rend="widespace"
 									><persName ref="#verdi.giuseppe">Verdi</persName></hi> zum
@@ -140,7 +145,7 @@
 						schrieben, hielten sich für verpflichtet, der Alterthümelei zu huldigen. Das
 							<title ref="#mozart.requiem.3.6-lacrimosa"><hi rend="widespace"
 								>Lacrimosa</hi> des <hi rend="widespace">Requiems</hi></title>, das
-							<title ref="#beethoven.missa-solemnis.credo" key="124-143"><hi
+							<title key="124-143" ref="#beethoven.missa-solemnis.credo"><hi
 								rend="widespace">Incarnatus</hi> der <hi rend="widespace">Missa
 								solemnis</hi></title> spricht die nämliche Sprache, wie die <hi
 							rend="widespace"><title ref="#mozart.die-zauberfloete"
@@ -172,31 +177,37 @@
 								aeterna</title>!</hi> Wir fühlen mit <persName
 							ref="#alighieri.dante">Dante</persName>: »eine süsse Melodie zieht durch
 						den leuchtenden Aether«<note resp="tr" type="literatureLink">Vgl. <persName
-								ref="#alighieri.dante">Dante Alighieri</persName>, <ref type="text"
+								ref="#alighieri.dante">Dante Alighieri</persName>, <ref
 								target="https://archive.org/stream/LaDivinaCommediaDiDanteAllighieriCommentataPerLeScuoleEPerGli/par-federzoni#page/n448/mode/1up"
-								>La Divina Commedia, Purgatorio XXIX, 8 (22)</ref>: »Ed una melodia
-							dolce correva / Per l’aer luminoso«; z. B. nach <ref type="text"
+								type="text">La Divina Commedia, Purgatorio XXIX, 8 (22)</ref>: »Ed
+							una melodia dolce correva / Per l’aer luminoso«; z. B. nach <ref
 								target="https://archive.org/stream/commedia00aliggoog#page/n428/mode/1up"
-								>Tommaséo, Mailand 1869, S.
+								type="text">Tommaséo, Mailand 1869, S.
 							406</ref>.<!--ZITAT nicht gefunden (gesichtet: Bartsch, Eitner, Enk, Francke, Kannegießer, Streckfuss, Witte, Zoozmann)--></note>.
 						Wir haben hier nicht die Frage des Cultus und der Orthodoxie zu untersuchen;
 						allein wir behaupten, dass jene Angst- und Schreckenslaute, jene Klagen und
 						Bitten, jenes Schmachten des Gemüthes, das sich entschieden der Verzweiflung
 						wider setzt, aus dem tiefsten menschlichen Innern kommen, und dass deshalb
 						das Werk von Dauer sein wird.</p>
+					<p rend="center smaller">(Schluss folgt.)</p>
 				</body>
 			</text>
 			<text n="2">
 				<body rend="antiqua">
-					<cb break="null" n="485" type="initial"/>
+					<cb break="null" facs="#f21" n="485" type="initial"/>
+					<head rend="larger bold egypt">Neuer Pariser Musikbericht.</head>
+					<head rend="smaller">(Nach <hi rend="widespace"><persName ref="#blaze.henri">de
+								Lagenevais</persName></hi>.)</head>
+					<head rend="italic"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+						<title ref="#verdi.requiem">Messe</title>. <gap resp="tr"/></head>
 					<head rend="smaller plain">(Schluss.)</head>
-					<p><rs type="event" ref="#paris.1875">Die diesjährige Aufführung brachte ein
+					<p><rs ref="#paris.1875" type="event">Die diesjährige Aufführung brachte ein
 							besseres Ensemble und mehr Glanz.</rs> Der Bass war excellent, der Tenor
 						ein glücklicher Fund, wenigstens für uns, die wir zu so strenger
 						Enthaltsamkeit verurtheilt sind. Unsere gegenwärtigen Tenore machen mir den
 						Eindruck der an die Scholle gebundener Bauern des <persName
 							ref="#millet.jean-francois">Millet</persName><note resp="tr"
-							type="commentary">Die Bauern waren zwischen 1848 und 1862 ein zentrales
+							type="commentary">Bauern waren zwischen 1848 und 1862 ein zentrales
 							Motiv im Werk des französischen Malers Jean-François Millet, der deshalb
 							vom bürgerlichen Lager geächtet wurde.</note>, welche schwerfällig und
 						mühsam den Pflug fortschieben. Seine tägliche Arbeit vollbringen, seine
@@ -255,7 +266,9 @@
 						dirigiren, wie er die Aufführung seiner <title ref="#verdi.requiem"
 							>Messe</title> geleitet hat, und wir wollen sehen, ob ihn das Publikum
 						von ehedem und die Mode im Stiche lassen werden.</p>
-					<p><gap resp="tr"/></p>
+					<cb break="null" n="489" type="skipped"/>
+					<p rend="right"><hi rend="italic"><persName ref="#unidentified">L. v.
+								St.</persName></hi><!--Übersetzer, evtl. Luise von Stetter?--></p>
 				</body>
 			</text>
 		</group>

@@ -1,18 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 29. April 1876 [2]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-04-29_leipzig.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#tonkunst" role="publisher"/>
-				<placeName ref="#berlin"/>
-				<date when-iso="1876-04-29"/>
-				<biblScope unit="issue">14</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
-				<biblScope unit="page">243</biblScope>
-				<link facs="tonkunst_1876-04-29_243.png"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Miscellen, Notizen etc.</head>
-		<gap resp="tr"/>
-		<p><rs type="event" ref="#leipzig.1876.2">Das <hi rend="bold"><placeName ref="#leipzig.gewandhaus">Gewandhaus</placeName></hi> wiederholte <persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> mit aufgehobenem Abonnement vor —
-				halbleerem Saale.</rs> Seltsam! Sollte daraus zu schließen sein, dass das <placeName ref="#leipzig.gewandhaus">Gewandhaus</placeName> ein mit dem kleinen Saale abschließendes
-			Publikum nur besäße!</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Tonkunst, Berlin, 29. April 1876 [2]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tonkunst_1876-04-29_leipzig.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tonkunst" role="publisher"/>
+					<placeName ref="#berlin"/>
+					<date when-iso="1876-04-29"/>
+					<biblScope unit="issue">14</biblScope>
+					<biblScope unit="volume">1</biblScope>
+					<series>tonkunst</series>
+					<biblScope unit="page">243</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#leipzig"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Kurzbericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<!--<graphic n="tonkunst_1876-04-29_243.png"/>-->
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="242"/>
+			<head rend="larger">Miscellen, Notizen <g>et</g>c.</head>
+			<gap resp="tr"/>
+			<pb n="243"/>
+			<gap/>
+			<p><rs ref="#leipzig.1876.2" type="event">Das <hi rend="bold kanzlei"><placeName
+							ref="#leipzig.gewandhaus">Gewandhaus</placeName></hi> wiederholte
+						<persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> mit aufgehobenem Abonnement vor —
+					halbleerem Saale.</rs> Seltsam! Sollte daraus zu schließen sein, dass das
+					<placeName ref="#leipzig.gewandhaus">Gewandhaus</placeName> ein mit dem kleinen
+				Saale abschließendes Publikum nur besäße!</p>
+		</body>
+	</text>
 </TEI>

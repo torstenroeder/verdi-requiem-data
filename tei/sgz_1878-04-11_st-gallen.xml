@@ -1,17 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>St. Galler-Zeitung, 11. April 1878</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/sgz_1878-04-11.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#st-galler-zeitung"/>
-				<placeName ref="#st-gallen"/>
-				<date when-iso="1878-04-11" when-custom="thu"/>
-				<biblScope unit="issue">86</biblScope><series>sgz</series>
-				<biblScope unit="page">344 [4]</biblScope>
-				<link target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=F972921D&amp;href=SGZ%2F1878%2F04%2F11&amp;page=4"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#st-gallen"/></creation><textClass><keywords><term type="textType">Anzeige</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="344b" type="initial"/>
-		<p rend="center"><rs type="event" ref="#st-gallen.1878.1"> Kirchen-Concert<lb break="yes"/>am <date when-iso="1878-04-14">Palmsonntag, den 14. April 1878</date>, in der<lb break="yes"/><placeName ref="#st-gallen.kirche-st-laurenzen">St. Laurenzenkirche</placeName> in <placeName ref="#st-gallen">St. Gallen</placeName>.<lb break="yes"/><title ref="#verdi.requiem">REQUIEM</title>.<lb break="yes"/>Oratorium von <persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>.</rs><lb break="yes"/>Aufgeführt von der<lb break="yes"/><orgName ref="#st-gallen.antlitz">Antlitz-Gesellschaft St. Gallen</orgName>.<lb break="yes"/>Oeffnung der Kirche 3 Uhr. — Anfang präzis ½4 Uhr.</p>
-		<p>Nach Schluss des Concertes können auswärtige Besucher noch die Abendzüge Rorschach-Chur
-			und Wyl-Ebnat-Winterthur benutzen.</p>
-		<p rend="right">Die Kommission.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>St. Galler-Zeitung, 11. April 1878</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/sgz_1878-04-11.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#st-galler-zeitung"/>
+					<placeName ref="#st-gallen"/>
+					<date when-custom="thu" when-iso="1878-04-11"/>
+					<biblScope unit="issue">86</biblScope>
+					<series>sgz</series>
+					<biblScope unit="page">344 [4]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#st-gallen"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Anzeige</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=F972921D&amp;href=SGZ%2F1878%2F04%2F11&amp;page=4"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="344b" type="initial"/>
+			<p rend="center"><rs ref="#st-gallen.1878.1" type="event"> Kirchen-Concert<lb
+						break="yes"/>am <date when-iso="1878-04-14">Palmsonntag, den 14. April
+						1878</date>, in der<lb break="yes"/><placeName
+						ref="#st-gallen.kirche-st-laurenzen">St. Laurenzenkirche</placeName> in
+						<placeName ref="#st-gallen">St. Gallen</placeName>.<lb break="yes"/><title
+						ref="#verdi.requiem">REQUIEM</title>.<lb break="yes"/>Oratorium von
+						<persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>.</rs><lb
+					break="yes"/>Aufgeführt von der<lb break="yes"/><orgName
+					ref="#st-gallen.antlitz">Antlitz-Gesellschaft St. Gallen</orgName>.<lb
+					break="yes"/>Oeffnung der Kirche 3 Uhr. — Anfang präzis ½4 Uhr.</p>
+			<p>Nach Schluss des Concertes können auswärtige Besucher noch die Abendzüge
+				Rorschach-Chur und Wyl-Ebnat-Winterthur benutzen.</p>
+			<p rend="right">Die Kommission.</p>
+		</body>
+	</text>
 </TEI>

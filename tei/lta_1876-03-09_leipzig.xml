@@ -1,36 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Leipziger Tageblatt und Anzeiger, 9. März 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/lta_1876-03-09_anzeige.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#leipziger-tageblatt" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-03-09" when-custom="thu"/>
-				<biblScope unit="issue">69</biblScope><series>lt</series>
-				<biblScope unit="page">1302</biblScope>
-				<link facs="lt_1876-03-09_1302.jpg"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Anzeige</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<head><rs type="event" ref="#leipzig.1876.1">Neunzehntes<lb break="yes"/>
-				<hi rend="larger">Abonnement-Concert</hi></rs></head>
-		<p rend="center">
-			<hi rend="smaller">im</hi><lb break="yes"/> Saale des Gewandhauses zu <placeName ref="#leipzig">Leipzig</placeName><lb break="yes"/>
-			<date when-iso="1876-03-09">Donnerstag den 9. März 1876</date><lb break="yes"/>
-			<hi rend="larger"><title ref="#verdi.requiem">Requiem</title></hi><lb break="yes"/> für
-			Soli, Chor und Orchester<lb break="yes"/>
-			<hi rend="smaller">von</hi><lb break="yes"/>
-			<persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>.<lb break="yes"/>
-			<hi rend="smaller">(Zum ersten Male)</hi></p>
-		<p>Die Soli gesungen von Frau <persName ref="#peschka-leutner.minna">Peschka-Leutner</persName>,
-			Fräulein <persName ref="#nanitz.minna">Nanitz</persName>, Königl Hofopernsängerin aus <placeName ref="#dresden">Dresden</placeName>, Herrn <persName ref="#pielke.walter">Pielke</persName> und
-			Herrn <persName ref="#koehler.hans">Köhler</persName>, Königl. Hofopernsänger in <placeName ref="#dresden">Dresden</placeName></p>
-		<p>Wegen Vergrösserung des Orchesters können die Sperrsitze im Saale von 329 bis 392, mit
-			Ausnahme der Nummern 324, 329, 334, 339, 367, 372, 377 nicht benutzt werden.</p>
-		<p>Zu diesem Concert können Extra-Billets nicht verkauft werden</p>
-		<p rend="center">Einlass ½7 Uhr.</p>
-		<p rend="larger bold center">Anfang um 7 Uhr.</p>
-		<p rend="bold">Es wird besonders darauf aufmerksam gemacht, dass wegen ungewöhnlicher
-			Verstärkung des O<supplied resp="tr">r</supplied>chesters der Zutritt zum Orchester ohne jegliche
-			Ausnahme nur den Mitwirkenden gestattet werden kann.</p>
-		<p>Wegen des in nächste Woche fallenden Busstages findet das 20. Abonnement-Concert erst
-			Donnerstag den 24. März 1876 statt.</p>
-		<p rend="bold right">Die Concert-Direction.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Leipziger Tageblatt und Anzeiger, 9. März 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/lta_1876-03-09_anzeige.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#leipziger-tageblatt" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-custom="thu" when-iso="1876-03-09"/>
+					<biblScope unit="issue">69</biblScope>
+					<series>lt</series>
+					<biblScope unit="page">1302</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#leipzig"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Anzeige</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<!--<graphic n="lt_1876-03-09_1302.jpg"/>-->
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<head><rs ref="#leipzig.1876.1" type="event">Neunzehntes<lb break="yes"/>
+					<hi rend="larger">Abonnement-Concert</hi></rs></head>
+			<p rend="center">
+				<hi rend="smaller">im</hi><lb break="yes"/> Saale des Gewandhauses zu <placeName
+					ref="#leipzig">Leipzig</placeName><lb break="yes"/>
+				<date when-iso="1876-03-09">Donnerstag den 9. März 1876</date><lb break="yes"/>
+				<hi rend="larger"><title ref="#verdi.requiem">Requiem</title></hi><lb break="yes"/>
+				für Soli, Chor und Orchester<lb break="yes"/>
+				<hi rend="smaller">von</hi><lb break="yes"/>
+				<persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>.<lb break="yes"/>
+				<hi rend="smaller">(Zum ersten Male)</hi></p>
+			<p>Die Soli gesungen von Frau <persName ref="#peschka-leutner.minna"
+					>Peschka-Leutner</persName>, Fräulein <persName ref="#nanitz.minna"
+					>Nanitz</persName>, Königl Hofopernsängerin aus <placeName ref="#dresden"
+					>Dresden</placeName>, Herrn <persName ref="#pielke.walter">Pielke</persName> und
+				Herrn <persName ref="#koehler.hans">Köhler</persName>, Königl. Hofopernsänger in
+					<placeName ref="#dresden">Dresden</placeName></p>
+			<p>Wegen Vergrösserung des Orchesters können die Sperrsitze im Saale von 329 bis 392,
+				mit Ausnahme der Nummern 324, 329, 334, 339, 367, 372, 377 nicht benutzt werden.</p>
+			<p>Zu diesem Concert können Extra-Billets nicht verkauft werden</p>
+			<p rend="center">Einlass ½7 Uhr.</p>
+			<p rend="larger bold center">Anfang um 7 Uhr.</p>
+			<p rend="bold">Es wird besonders darauf aufmerksam gemacht, dass wegen ungewöhnlicher
+				Verstärkung des O<supplied resp="tr">r</supplied>chesters der Zutritt zum Orchester
+				ohne jegliche Ausnahme nur den Mitwirkenden gestattet werden kann.</p>
+			<p>Wegen des in nächste Woche fallenden Busstages findet das 20. Abonnement-Concert erst
+				Donnerstag den 24. März 1876 statt.</p>
+			<p rend="bold right">Die Concert-Direction.</p>
+		</body>
+	</text>
 </TEI>

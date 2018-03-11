@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#grazer-volksblatt" role="publisher"/>
 					<placeName ref="#graz"/>
-					<date when-iso="1875-12-10" when-custom="fri"/>
-					<biblScope unit="issue">282</biblScope><biblScope unit="volume"
-						>8</biblScope><series>gvb</series>
+					<date when-custom="fri" when-iso="1875-12-10"/>
+					<biblScope unit="issue">282</biblScope>
+					<biblScope unit="volume">8</biblScope>
+					<series>gvb</series>
 					<biblScope unit="page">3</biblScope>
-					<link facs="gvb_1875-12-10_3.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=gre&amp;datum=18751210seite=3"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,14 +33,19 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="gvb_1875-12-10_3.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=gre&amp;datum=18751210seite=3"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Grazer Notizen.</head>
 			<p rend="right"><placeName ref="#graz">Graz</placeName>, am <date when-iso="1875-12-09"
 					>9. Dezember</date>.</p>
 			<cb break="yes" n="3" type="skipped"/>
-			<p><g type="ASTERISK" n="002A">*</g>
-				<rs type="event" ref="#graz.1875.3">(Die Aufführung von <persName
+			<p><g n="002A" type="ASTERISK">*</g>
+				<rs ref="#graz.1875.3" type="event">(Die Aufführung von <persName
 						ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title>) von Seite des Grazer <orgName
 						ref="#graz.akademischer-gesangverein">akademischen Gesang-Vereines</orgName>

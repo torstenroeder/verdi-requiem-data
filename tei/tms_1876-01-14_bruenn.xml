@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1876-01-14" when-custom="fri"/>
-					<biblScope unit="issue">10</biblScope><biblScope unit="volume"
-						>26</biblScope><series>tms</series>
+					<date when-custom="fri" when-iso="1876-01-14"/>
+					<biblScope unit="issue">10</biblScope>
+					<biblScope unit="volume">26</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">2</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -53,26 +54,27 @@
 						ref="#maximilian-i.habsburg">Maximilian I.</persName> während der Belagerung
 					der Festung Kufstein zum Einsatz brachte.</note> donnern ließ! Indessen fand
 					<persName ref="#verdi.giuseppe">Verdi’s</persName> Werk allenthalben Beifall,
-				und es war ein recht zeitgemäßer Gedanke, dasselbe auch in <rs type="event"
-					ref="#bruenn.1876"><placeName ref="#bruenn">Brünn</placeName></rs> vorzuführen,
-				wo eben eine so allgemeine funebre Stimmung herrscht <cb break="yes" n="2c"
+				und es war ein recht zeitgemäßer Gedanke, dasselbe auch in <rs ref="#bruenn.1876"
+					type="event"><placeName ref="#bruenn">Brünn</placeName></rs> vorzuführen, wo
+				eben eine so allgemeine funebre Stimmung herrscht <cb break="yes" n="2c"
 					type="regular"/>und <hi rend="antiqua">Dies irae</hi>, <hi rend="antiqua">dies
 					illa</hi>, der die Zollverträge brachte,<note resp="tr" type="commentary"
 					>Hintergrund ist der »Gründerkrach« von 1873, der die Einführung von
 					Schutzzöllen nach sich zog. »Dies irae« ist eine Anspielung auf den 9. Mai 1873,
 					an dem 120 Unternehmen Insolvenz anmeldeten (»Schwarzer Freitag«).</note> immer
-				noch verwünscht wird. Jene geniale <persName ref="#gompertz-bettelheim.karoline-von"
-					cert="high">Künstlerin</persName>, welche alljährlich — wenn die Schwalben lange
-				fortgegangen und die Lerchen noch nicht gekommen sind — durch ihren herrlichen
-				Gesang in die Herzen der Hörer Entzücken und in die Kassen unserer Armenhäuser Geld
-				strömen läßt, stellte sich an die Spitze des wohlthätigen Unternehmens, und ein
-				„engeres Komite“ entwickelte jene Vielgeschäftigkeit, durch welche immer die
-				Inszenirung eines größern künstlerischen Ganzen bedingt ist. Wenn Komites überhaupt
-				vom Brote leben, so könnte man sagen, daß sie sich ihr Brod sauer verdienten — über
-				die Erlebnisse und Leiden des Requiem-Komites aber werden Dinge berichtet, die
-				„Menschen schaudern, Felsen weinen machen könnten!“<note resp="tr"
-					type="literatureLink">Anspielung auf die <persName ref="#orpheus"
-						>Orpheus</persName>-Sage.<!--*REFERENZ genaue Stelle in der Orpheus-Sage?--></note></p>
+				noch verwünscht wird. Jene geniale <persName cert="high"
+					ref="#gompertz-bettelheim.karoline-von">Künstlerin</persName>, welche
+				alljährlich — wenn die Schwalben lange fortgegangen und die Lerchen noch nicht
+				gekommen sind — durch ihren herrlichen Gesang in die Herzen der Hörer Entzücken und
+				in die Kassen unserer Armenhäuser Geld strömen läßt, stellte sich an die Spitze des
+				wohlthätigen Unternehmens, und ein „engeres Komite“ entwickelte jene
+				Vielgeschäftigkeit, durch welche immer die Inszenirung eines größern künstlerischen
+				Ganzen bedingt ist. Wenn Komites überhaupt vom Brote leben, so könnte man sagen, daß
+				sie sich ihr Brod sauer verdienten — über die Erlebnisse und Leiden des
+				Requiem-Komites aber werden Dinge berichtet, die „Menschen schaudern, Felsen weinen
+				machen könnten!“<note resp="tr" type="literatureLink">Anspielung auf die <persName
+						ref="#orpheus"
+					>Orpheus</persName>-Sage.<!--*REFERENZ genaue Stelle in der Orpheus-Sage?--></note></p>
 			<p>Sind doch die Herren Musiker allenthalben ein reizbarer und aufbegehrlicher
 				Menschenstamm — dazu kommt noch in neuester Zeit das hinreißende Beispiel ihres
 				Großmeisters <persName ref="#wagner.richard">Rich. <hi rend="widespace"

@@ -13,12 +13,10 @@
 					<orgName ref="#der-floh" role="publisher"/>
 					<placeName ref="#wien"/>
 					<date when-iso="1875-06-13"/>
-					<biblScope unit="issue">24</biblScope><biblScope unit="volume"
-						>7</biblScope><series>der-floh</series>
+					<biblScope unit="issue">24</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<series>der-floh</series>
 					<biblScope unit="page">2</biblScope>
-					<link facs="floh_1875-06-13_2.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=flo&amp;datum=18750613&amp;seite=2"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,11 +33,16 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="floh_1875-06-13_2.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=flo&amp;datum=18750613&amp;seite=2"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<pb n="2"/>
+			<pb facs="#f1" n="2"/>
 			<head rend="bold larger"><persName ref="#verdi.giuseppe">Giuseppe
-						Verdi</persName></head>
+				Verdi</persName></head>
 			<p>ist unstreitig der würdigste Repräsentant italienischer Musik. Die Vorsehung hat ihm
 				nicht nur eine glückliche Begabung, sie hat ihm auch einen glücklichen Namen
 				verliehen.</p>
@@ -70,7 +73,7 @@
 				Ziel seiner „frommen Wünsche“ und Maestro <hi rend="widespace"><persName
 						ref="#verdi.giuseppe">Verdi</persName></hi> erlangte auch, ohne die Politik,
 				eine Popularität, wie sie wenige jetzt lebende Compositeure genießen.</p>
-			<p><rs type="event" ref="#wien.1875">Aus Anlaß des von ihm componirten <title
+			<p><rs ref="#wien.1875" type="event">Aus Anlaß des von ihm componirten <title
 						ref="#verdi.requiem">Requiems</title>, das jetzt in der <placeName
 						ref="#wien.hof-operntheater">Hofoper</placeName> von dem Meister geleitet
 					zur Aufführung gelangt</rs>, bringen wir das Bild <hi rend="widespace"><persName

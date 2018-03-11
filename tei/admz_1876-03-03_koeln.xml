@@ -14,8 +14,9 @@
 					<orgName ref="#admz" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1876-03-03"/>
-					<biblScope unit="issue">9</biblScope><biblScope unit="volume"
-						>3</biblScope><series>admz</series>
+					<biblScope unit="issue">9</biblScope>
+					<biblScope unit="volume">3</biblScope>
+					<series>admz</series>
 					<biblScope unit="page">75–76</biblScope>
 					<!--FACS AdmZ: kein Digitalisat; Kopie vorhanden-->
 				</bibl>
@@ -40,11 +41,11 @@
 			<head rend="widespace larger">Korrespondenzen.</head>
 			<cb break="null" n="75b" type="skipped"/>
 			<p><hi rend="bold"><placeName ref="#hamburg">Cöln</placeName>,</hi>
-				<date when-iso="1876-02-20">20. Februar</date>. Das <rs type="event"
-					ref="#koeln.1875.2">achte Gürzenichkonzert</rs> brachte eine Wiederholung des
-					<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’schen</persName>
+				<date when-iso="1876-02-20">20. Februar</date>. Das <rs ref="#koeln.1875.2"
+					type="event">achte Gürzenichkonzert</rs> brachte eine Wiederholung des <hi
+					rend="widespace"><persName ref="#verdi.giuseppe">Verdi’schen</persName>
 					<title ref="#verdi.requiem">Requiems</title></hi>, dessen erste Aufführung
-				bereits im <rs type="event" ref="#koeln.1875.1">vierten Konzert</rs> stattgefunden,
+				bereits im <rs ref="#koeln.1875.1" type="event">vierten Konzert</rs> stattgefunden,
 				von uns jedoch damals nicht hatte besprochen werden können. Der durchschlagende
 				Erfolg, welchen das Werk auch diesmal wieder errang, durfte im Ganzen ein
 				berechtigter sein. Im Ganzen, denn im Einzelnen ließe sich der Komposition doch

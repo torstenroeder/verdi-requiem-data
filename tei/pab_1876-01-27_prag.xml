@@ -1,25 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Prager Abendblatt, 27. Januar 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/pab_1876-01-27_deutsches-koenigliches-landestheater.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#prager-abendblatt" role="publisher"/>
-				<placeName ref="#prag"/>
-				<date when-iso="1876-01-27" when-custom="thu"/>
-				<biblScope unit="issue">21</biblScope><biblScope unit="volume">?</biblScope><series>pab</series>
-				<biblScope unit="page">3</biblScope>
-				<link facs="pab_1876-01-27_3.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760127&amp;seite=3"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#prag"/></creation><textClass><keywords><term type="textType">Anzeige</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger"><placeName ref="#prag.staendetheater">Deutsches königliches Landestheater</placeName>.</head>
-		<p rend="noIndent">Den <date when-iso="1876-01-27">27. Jäner</date>. Bei aufgehobenem
-			Abonnement.</p>
-		<p rend="noIndent">Zum ersten Male:</p>
-		<p rend="center"><rs type="event" ref="#prag.1876.1"><title ref="#verdi.requiem">Requiem</title><lb break="yes"/>von <persName ref="#verdi.giuseppe">Giuseppe Verdi</persName> für Soli Chor und Orchester.</rs></p>
-		<p rend="noIndent">Soli: Frau <persName ref="#moser.marie">von Moser</persName>, Frl. <persName ref="#burenne.henriette">Burenne</persName>, Herr <persName ref="#hajos.siegmund">Hajos</persName>, Herr <persName ref="#schebesta.adalbert">Schebesta</persName>.</p>
-		<p rend="noIndent">Chor: (120 Sänger) der Chor des deutschen königl. Landestheaters,
-			verstärkt durch gefällige Mitwirkung der Gesangs-Eleven Herrn des Direktor <persName ref="#piwoda.franz">Piwoda</persName>, sowie der Mitglieder des <orgName ref="#prag.deutscher-maenner-gesangverein">deutschen
-			Männer-Gesangsvereines</orgName>.</p>
-		<p rend="noIndent">Instrumentale: Das große Orchester des deutschen königl.
-			Landestheaters, verstärkt durch Zöglinge des <placeName ref="#prag.konservatorium">Prager
-				Konservatoriums</placeName> mit freundlicher Bewilligung der Instituts-<sic>Direkzion</sic>.</p>
-		<p rend="noIndent">Anfang um 7 Uhr. Ende nach 9 Uhr.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Prager Abendblatt, 27. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/pab_1876-01-27_deutsches-koenigliches-landestheater.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#prager-abendblatt" role="publisher"/>
+					<placeName ref="#prag"/>
+					<date when-custom="thu" when-iso="1876-01-27"/>
+					<biblScope unit="issue">21</biblScope>
+					<biblScope unit="volume">?</biblScope>
+					<series>pab</series>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#prag"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Anzeige</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="pab_1876-01-27_3.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760127&amp;seite=3"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger"><placeName ref="#prag.staendetheater">Deutsches königliches
+					Landestheater</placeName>.</head>
+			<p rend="noIndent">Den <date when-iso="1876-01-27">27. Jäner</date>. Bei aufgehobenem
+				Abonnement.</p>
+			<p rend="noIndent">Zum ersten Male:</p>
+			<p rend="center"><rs ref="#prag.1876.1" type="event"><title ref="#verdi.requiem"
+						>Requiem</title><lb break="yes"/>von <persName ref="#verdi.giuseppe"
+						>Giuseppe Verdi</persName> für Soli Chor und Orchester.</rs></p>
+			<p rend="noIndent">Soli: Frau <persName ref="#moser.marie">von Moser</persName>, Frl.
+					<persName ref="#burenne.henriette">Burenne</persName>, Herr <persName
+					ref="#hajos.siegmund">Hajos</persName>, Herr <persName ref="#schebesta.adalbert"
+					>Schebesta</persName>.</p>
+			<p rend="noIndent">Chor: (120 Sänger) der Chor des deutschen königl. Landestheaters,
+				verstärkt durch gefällige Mitwirkung der Gesangs-Eleven Herrn des Direktor <persName
+					ref="#piwoda.franz">Piwoda</persName>, sowie der Mitglieder des <orgName
+					ref="#prag.deutscher-maenner-gesangverein">deutschen
+					Männer-Gesangsvereines</orgName>.</p>
+			<p rend="noIndent">Instrumentale: Das große Orchester des deutschen königl.
+				Landestheaters, verstärkt durch Zöglinge des <placeName ref="#prag.konservatorium"
+					>Prager Konservatoriums</placeName> mit freundlicher Bewilligung der
+					Instituts-<sic>Direkzion</sic>.</p>
+			<p rend="noIndent">Anfang um 7 Uhr. Ende nach 9 Uhr.</p>
+		</body>
+	</text>
 </TEI>

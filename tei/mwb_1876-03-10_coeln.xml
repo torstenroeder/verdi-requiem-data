@@ -14,14 +14,10 @@
 					<orgName ref="#mwb" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1876-03-10"/>
-					<biblScope unit="issue">11</biblScope><biblScope unit="volume"
-						>7</biblScope><series>mwb</series>
+					<biblScope unit="issue">11</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<series>mwb</series>
 					<biblScope unit="page">137–138</biblScope>
-					<link facs="mwb_1876-03-10_137.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760310&amp;seite=5"/>
-					<link facs="mwb_1876-03-10_138.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760310&amp;seite=6"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,14 +34,22 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-03-10_137.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760310&amp;seite=5"
+			xml:id="f1"/>
+		<graphic n="mwb_1876-03-10_138.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760310&amp;seite=6"
+			xml:id="f2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<head rend="antiqua widespace larger">Tagesgeschichte.</head>
 			<head rend="lineale bold">Berichte.</head>
-			<pb break="null" n="137" type="skipped"/>
+			<pb break="null" facs="#f1" n="137" type="skipped"/>
 			<p><hi rend="bold"><placeName ref="#koeln">Cöln</placeName></hi>, <date
 					when-iso="1876-02-28">28. Febr.</date>
-				<rs type="event" ref="#koeln.1875.1">Im 4. Gürzenichkonzert (<date
+				<rs ref="#koeln.1875.1" type="event">Im 4. Gürzenichkonzert (<date
 						when-iso="1875-12-07">7. Dec. 1875</date>) kam <persName
 						ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title> zur Aufführung</rs>; es war die <hi
@@ -58,7 +62,7 @@
 					<title ref="#verdi.requiem">Requiem</title> im Laufe der Saison, für welche das
 				Aufführungsrecht dauerte, noch einmal zu executiren, eine Idee, womit auch
 				diejenigen, welche das Werk schon gehört hatten, vollständig einverstanden waren.
-					<rs type="event" ref="#koeln.1875.2">Die Wiederholung geschah im 8. Concert
+					<rs ref="#koeln.1875.2" type="event">Die Wiederholung geschah im 8. Concert
 						(<date when-iso="1876-02-15">15. Febr.</date>)</rs> vor ausverkauftem Hause,
 				ein Beweis, dass der günstige Eindruck der ersten Aufführung sich rund gesprochen.
 					<persName ref="#verdi.giuseppe">Verdi</persName> ist durch sein <title
@@ -74,15 +78,16 @@
 					>Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> entschieden nicht der Fall ist, so liegt
 				darin nur der Beweis, dass <persName ref="#verdi.giuseppe">Verdi</persName> in
-				seiner Wesenheit eine reiche musikalische <pb break="yes" n="138" type="regular"
-				/>Ader besitzt, dass man folglich ihn früher — ganz falsch beurtheilt hat. Auch
-				jetzt makelt man in sonderbarer Weise an ihm herum. <persName ref="#verdi.giuseppe"
-					>Verdi</persName> ist doch, wie manniglich bekannt, ein Italiener; was will es
-				nun heissen, wenn Vergleiche mit <persName ref="#mozart.wolfgang-amadeus"
-					>Mozart</persName> oder <persName ref="#brahms.johannes">Joh. Brahms</persName>
-				angestellt werden, und zwar nicht in dem Sinne, um die charakteristischen
-				Unterschiede klar zu legen — das liesse sich noch hören — sondern nur, um die
-				Production des Einen auf Kosten des Anderen herunterzusetzen?</p>
+				seiner Wesenheit eine reiche musikalische <pb break="yes" facs="#f2" n="138"
+					type="regular"/>Ader besitzt, dass man folglich ihn früher — ganz falsch
+				beurtheilt hat. Auch jetzt makelt man in sonderbarer Weise an ihm herum. <persName
+					ref="#verdi.giuseppe">Verdi</persName> ist doch, wie manniglich bekannt, ein
+				Italiener; was will es nun heissen, wenn Vergleiche mit <persName
+					ref="#mozart.wolfgang-amadeus">Mozart</persName> oder <persName
+					ref="#brahms.johannes">Joh. Brahms</persName> angestellt werden, und zwar nicht
+				in dem Sinne, um die charakteristischen Unterschiede klar zu legen — das liesse sich
+				noch hören — sondern nur, um die Production des Einen auf Kosten des Anderen
+				herunterzusetzen?</p>
 			<p><persName ref="#verdi.giuseppe">Verdi</persName> hat allerdings kein Requiem nach
 				deutscher Art geschaffen — sein Werk ist mehr eine Traueroper für scenische und
 				decorative Ausstattung — eine richtige Illustration zu dem Prunk des
@@ -115,9 +120,7 @@
 				brillante Stellen reichlichen Ersatz, sodass im Ganzen nur ein günstiger Eindruck
 				resultiren konnte. Der Erfolg des <title ref="#verdi.requiem">Requiem</title> war
 				nach allgemeinster Stimmung grossartig.</p>
-			<p>
-				<gap resp="tr"/>
-			</p>
+			<gap resp="tr"/>
 			<p rend="right">Dr. <persName ref="#guckeisen.august">A. G.</persName></p>
 		</body>
 	</text>

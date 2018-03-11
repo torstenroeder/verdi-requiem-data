@@ -12,14 +12,12 @@
 				<bibl>
 					<orgName ref="#signale" role="publisher"/>
 					<placeName ref="#leipzig"/>
-					<date cert="low" when-iso="1876-03-31" notAfter-iso="1876-03-31"
-						notBefore-iso="1876-03-14"/>
+					<date cert="low" notAfter-iso="1876-03-31" notBefore-iso="1876-03-14"
+						when-iso="1876-03-31"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach der Aufführung-->
-					<biblScope unit="issue">24</biblScope><biblScope unit="volume">34</biblScope>
+					<biblScope unit="issue">24</biblScope>
+					<biblScope unit="volume">34</biblScope>
 					<biblScope unit="page">372</biblScope>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=380"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,14 +34,18 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=380"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="372" type="initial"/>
-			<head rend="antiqua widespace larger">Dur und Moll.</head>
-			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
+			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
 				<hi rend="widespace"><placeName ref="#leipzig">Leipzig</placeName></hi>. <gap
 					resp="tr"/></p>
-			<p><rs type="event" ref="#leipzig.1876.2"><hi rend="widespace">Eine Wiederholung des
+			<p><rs ref="#leipzig.1876.2" type="event"><hi rend="widespace">Eine Wiederholung des
 							<persName ref="#verdi.giuseppe">Verdi’schen</persName>
 						<title ref="#verdi.requiem">Requiems</title></hi> hat, wie wir nachträglich
 					berichten, am <date when-iso="1876-03-13">13. März</date> im Saale des
@@ -55,7 +57,7 @@
 				Werk (welches, wie wir voraussahen, in unserer Localpresse viel Staub aufgewirbelt
 				hat) von dem wenn auch nur kleinen Kreise mit großem Interesse angehört worden, wie
 				wir selbst speciell in unserer bereits ausgesprochenen Meinung<note resp="tr"
-					type="textLink">Vgl. <ref type="text" target="signale_1876-03_20_leipzig.xml"
+					type="textLink">Vgl. <ref target="signale_1876-03_20_leipzig.xml" type="text"
 						>Signale, Leipzig, März 1876</ref>.</note> von der Bedeutsamkeit desselben
 				uns nur bestärkt gesehen haben. Die Ausführung war im Großen und Ganzen etwas
 				weniger gelungen als das erste Mal, sowie sie auch unter etwas veränderten

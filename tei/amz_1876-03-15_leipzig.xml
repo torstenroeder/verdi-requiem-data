@@ -1,56 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>AmZ, Leipzig, 15. März 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/amz_1876-03-15_leipzig.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#amz" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-03-15"/>
-				<biblScope unit="issue">11</biblScope><biblScope unit="volume">11</biblScope><series>amz</series>
-				<biblScope unit="column">174</biblScope>
-				<link facs="amz_1876-03-15_173-174.jpg" target="https://archive.org/stream/allgemeinemusik14unkngoog#page/n98/mode/2up"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/><date when-iso="1876-03-10"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<cb break="null" n="172" type="initial"/>
-		<head rend="larger">Berichte.</head>
-		<cb break="null" n="174" type="skipped"/>
-		<head><hi rend="bold"><placeName ref="#leipzig">Leipzig</placeName></hi>, <date when-iso="1876-03-10">10.
-				März</date>.</head>
-		<p>Endlich hielt das vielbesprochene <rs type="event" ref="#leipzig.1876.1"><hi rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi> von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> (19. <hi rend="widespace">Gewandhausconcert</hi>, <date when-iso="1876-03-09">9. März</date>)</rs> auch
-			bei uns seinen Einzug. Dasselbe hat bereits neben vielen anderen Kritiken auch in diesem
-			Blatte — Jahrg. XI Nr. 6-9<note resp="tr" type="textLink">Vgl. <persName ref="#stetter.friedrich">Friedrich Stetter</persName>, <ref type="text" target="amz_1876-02-09_muenchen.xml">AmZ, Leipzig, 9. Februar–1.März
-				1876</ref>.</note> — eine so eingehende Beurtheilung gefunden, der wir uns
-			grossentheils anschliessen, dass wir uns auf Besprechung der Aufführung selbst
-			beschränken können. <persName ref="#verdi.giuseppe">Verdi’s</persName>
-			<title ref="#verdi.requiem">Requiem</title> will ebensowenig einseitig vom
-			absolut-musikalischen Standpunkte, wie von dem Standpunkte einer nüchternen religiösen
-			Anschauungsweise, welcher der moderne Nordländer zuneigt, beurtheilt sein, denn es steht
-			ganz und gar auf katholischem Boden und ist eine getreue Abspiegelung jenes
-			Phantasielebens, welches speciell die katholische Glaubenslehre in Verbindung mit ihrem
-			sinnbestrickenden Ritual im Menschen anzuregen vermag. Es ist daher auch, wie wir gleich
-			von vorn herein bemerken wollen, nicht der Concertsaal, sondern recht eigentlich die
-			Kirche der geeignete Ort für die Aufführung dieses Werkes; freilich wäre dort die
-			numerische Unzulänglichkeit der in zwei Chöre vertheilten Gesangskräfte noch fühlbarer
-			geworden, als in der in Rede stehenden Gewandhausaufführung. Als Solisten waren an
-			derselben die Damen Frau <hi rend="widespace"><persName ref="#peschka-leutner.minna">Peschka-Leutner</persName></hi>, Frl. <hi rend="widespace"><persName ref="#nanitz.minna">Nanitz</persName></hi> aus <placeName ref="#dresden">Dresden</placeName>, sowie die Herren <hi rend="widespace"><persName ref="#koehler.hans">Köhler</persName></hi>, ebenfalls aus <placeName ref="#dresden">Dresden</placeName>, und
-				<hi rend="widespace"><persName ref="#pielke.walter">Pielke</persName></hi> aus <placeName ref="#leipzig">Leipzig</placeName> betheiligt. Wir haben bei Vorführung derartiger
-			grösserer Vocalwerke hier selten ein so tüchtiges Ensemble von Solokräften beisammen
-			gesehen wie diesmal. Zunächst war es Frau <persName ref="#peschka-leutner.minna">Peschka-Leutner</persName>, welche — trotz eines ihr versagenden hohen Be’s — ihre
-			seltene Meisterschaft einsetzte und durch das edle, gefühlswarme Erfassen der vom
-			Componisten technisch und musikalisch gleich schwierig angelegten Sopranpartie dem hier
-			von einzelnen Seiten mit einem gewissen Misstrauen entgegengesehenen Werke den Weg zu
-			den Herzen der spannenden Zuhörer bahnen half. Ihr zur Seite wirkten, wenn auch nicht
-			durchgängig in ganz so dankbaren, so doch in ebenso wichtigen Partien die übrigen drei
-			Künstler in ebenfalls höchst verdienstvoller Weise. Herr Kapellmeister <persName ref="#reinecke.carl">Reinecke</persName>, als Leiter der Aufführung, hatte sich viele
-			Mühe gegeben und traf sowohl im äusserlichen Arrangement des ziemlich complicirten
-			Ganzen, als auch in der Auffassung und der Temponahme überall das Rechte; desgleichen
-			verräth das Orchester, dass es mit ungetheiltem Interesse bei der Aufführung war. Dürfen
-			wir dem Gerüchte von einer baldigen Wiederholung des Werkes Glauben schenken, so ist es
-			wohl erlaubt einige Wünsche auszusprechen. Dieselben beziehen sich auf eine edlere
-			Tongebung der Singbässe bei den Worten »<hi rend="italic"><title ref="#verdi.requiem.1" n="te-decet-hymnus">te decet hymnus</title></hi>«, auf eine
-			mannhaftere sicherere Haltung der Tenöre bei einzelnen Einsätzen in der Schlussfuge »<hi rend="italic"><title ref="#verdi.requiem.7">libera me</title></hi>«, auf die
-			Wiederherstellung des vom Componisten vorgeschriebenen höchst wirksamen Unisono der
-			Violoncelli im Anfange des <hi rend="italic"><title ref="#verdi.requiem.3">Offertorio (Nr.
-					3)</title></hi>, sowie auf eine harmonisch klarere Wiedergabe der allerdings sehr
-			tief liegenden Messingstelle in <title ref="#verdi.requiem.7" n="requiem-aeternam">Nr.
-				6</title> bei den Worten »<hi rend="italic">requiem aeternam</hi>« und endlich auf
-			eine noch sorgfältigere Abstimmung der Trompeten in der Einleitung zu dem »<hi rend="italic"><title ref="#verdi.requiem.2.tuba-mirum">tuba mirum</title></hi>«.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>AmZ, Leipzig, 15. März 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/amz_1876-03-15_leipzig.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#amz" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-03-15"/>
+					<biblScope unit="issue">11</biblScope>
+					<biblScope unit="volume">11</biblScope>
+					<series>amz</series>
+					<biblScope unit="column">174</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#leipzig"/><date when-iso="1876-03-10"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="amz_1876-03-15_173-174.jpg"
+			url="https://archive.org/stream/allgemeinemusik14unkngoog#page/n98/mode/2up" xml:id="f1"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<cb break="null" n="172" type="initial"/>
+			<head rend="larger bold egypt">Berichte.</head>
+			<cb break="null" facs="#f1" n="174" type="skipped"/>
+			<head><hi rend="bold"><placeName ref="#leipzig">Leipzig</placeName>,</hi> <date
+					when-iso="1876-03-10">10. März</date>.</head>
+			<p>Endlich hielt das vielbesprochene <rs ref="#leipzig.1876.1" type="event"><hi
+						rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi> von <hi
+						rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> (19.
+						<hi rend="widespace">Gewandhausconcert</hi>, <date when-iso="1876-03-09">9.
+						März</date>)</rs> auch bei uns seinen Einzug. Dasselbe hat bereits neben
+				vielen anderen Kritiken auch in diesem Blatte — Jahrg. XI Nr. 6—9<note resp="tr"
+					type="textLink">Vgl. <persName ref="#stetter.friedrich">Friedrich
+						Stetter</persName>, <ref target="amz_1876-02-09_muenchen.xml" type="text"
+						>AmZ, Leipzig, 9. Februar–1.März 1876</ref>.</note> — eine so eingehende
+				Beurtheilung gefunden, der wir uns grossentheils anschliessen, dass wir uns auf
+				Besprechung der Aufführung selbst beschränken können. <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> will ebensowenig einseitig vom
+				absolut-musikalischen Standpunkte, wie von dem Standpunkte einer nüchternen
+				religiösen Anschauungsweise, welcher der moderne Nordländer zuneigt, beurtheilt
+				sein, denn es steht ganz und gar auf katholischem Boden und ist eine getreue
+				Abspiegelung jenes Phantasielebens, welches speciell die katholische Glaubenslehre
+				in Verbindung mit ihrem sinnbestrickenden Ritual im Menschen anzuregen vermag. Es
+				ist daher auch, wie wir gleich von vorn herein bemerken wollen, nicht der
+				Concertsaal, sondern recht eigentlich die Kirche der geeignete Ort für die
+				Aufführung dieses Werkes; freilich wäre dort die numerische Unzulänglichkeit der in
+				zwei Chöre vertheilten Gesangskräfte noch fühlbarer geworden, als in der in Rede
+				stehenden Gewandhausaufführung. Als Solisten waren an derselben die Damen Frau <hi
+					rend="widespace"><persName ref="#peschka-leutner.minna"
+						>Peschka-Leutner</persName></hi>, Frl. <hi rend="widespace"><persName
+						ref="#nanitz.minna">Nanitz</persName></hi> aus <placeName ref="#dresden"
+					>Dresden</placeName>, sowie die Herren <hi rend="widespace"><persName
+						ref="#koehler.hans">Köhler</persName></hi>, ebenfalls aus <placeName
+					ref="#dresden">Dresden</placeName>, und <hi rend="widespace"><persName
+						ref="#pielke.walter">Pielke</persName></hi> aus <placeName ref="#leipzig"
+					>Leipzig</placeName> betheiligt. Wir haben bei Vorführung derartiger grösserer
+				Vocalwerke hier selten ein so tüchtiges Ensemble von Solokräften beisammen gesehen
+				wie diesmal. Zunächst war es Frau <persName ref="#peschka-leutner.minna"
+					>Peschka-Leutner</persName>, welche — trotz eines ihr versagenden hohen Be’s —
+				ihre seltene Meisterschaft einsetzte und durch das edle, gefühlswarme Erfassen der
+				vom Componisten technisch und musikalisch gleich schwierig angelegten Sopranpartie
+				dem hier von einzelnen Seiten mit einem gewissen Misstrauen entgegengesehenen Werke
+				den Weg zu den Herzen der spannenden Zuhörer bahnen half. Ihr zur Seite wirkten,
+				wenn auch nicht durchgängig in ganz so dankbaren, so doch in ebenso wichtigen
+				Partien die übrigen drei Künstler in ebenfalls höchst verdienstvoller Weise. Herr
+				Kapellmeister <persName ref="#reinecke.carl">Reinecke</persName>, als Leiter der
+				Aufführung, hatte sich viele Mühe gegeben und traf sowohl im äusserlichen
+				Arrangement des ziemlich complicirten Ganzen, als auch in der Auffassung und der
+				Temponahme überall das Rechte; desgleichen verräth das Orchester, dass es mit
+				ungetheiltem Interesse bei der Aufführung war. Dürfen wir dem Gerüchte von einer
+				baldigen Wiederholung des Werkes Glauben schenken, so ist es wohl erlaubt einige
+				Wünsche auszusprechen. Dieselben beziehen sich auf eine edlere Tongebung der
+				Singbässe bei den Worten »<hi rend="italic"><title n="te-decet-hymnus"
+						ref="#verdi.requiem.1">te decet hymnus</title></hi>«, auf eine mannhaftere
+				sicherere Haltung der Tenöre bei einzelnen Einsätzen in der Schlussfuge »<hi
+					rend="italic"><title ref="#verdi.requiem.7">libera me</title></hi>«, auf die
+				Wiederherstellung des vom Componisten vorgeschriebenen höchst wirksamen Unisono der
+				Violoncelli im Anfange des <hi rend="italic"><title ref="#verdi.requiem.3"
+						>Offertorio (Nr. 3)</title></hi>, sowie auf eine harmonisch klarere
+				Wiedergabe der allerdings sehr tief liegenden Messingstelle in <title
+					n="requiem-aeternam" ref="#verdi.requiem.7">Nr. 6</title> bei den Worten »<hi
+					rend="italic">requiem aeternam</hi>« und endlich auf eine noch sorgfältigere
+				Abstimmung der Trompeten in der Einleitung zu dem »<hi rend="italic"><title
+						ref="#verdi.requiem.2.tuba-mirum">tuba mirum</title></hi>«.</p>
+		</body>
+	</text>
 </TEI>

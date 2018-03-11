@@ -1,87 +1,168 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Signale, Leipzig, Juni 1875/30 [1] (= Neue Freie Pr., 9.6. + Fremden-Bl., 13.6.)</title><author><persName ref="#anonymus.ein-freund-verdis"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/signale_1875-06_30_verdi-in-wien.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#signale" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date cert="low" when-iso="1875-06-30" notAfter-iso="1875-06-30" notBefore-iso="1875-06-14"/>
-				<!--BIBLIO Datierung: frühestens ein Tag nach dem Erscheinen der Quelle-->
-				<biblScope unit="issue">30</biblScope><biblScope unit="volume">33</biblScope>
-				<biblScope unit="page">465–467</biblScope>
-				<link target="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n470/mode/1up"/>
-				<link target="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n471/mode/1up"/>
-				<link target="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n472/mode/1up"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Biografik</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger"><persName ref="#verdi.giuseppe">Verdi</persName> in <placeName ref="#wien">Wien</placeName>.</head>
-		<p>Ein <persName ref="#anonymus.ein-freund-verdis">persönlicher Freund</persName> des Componisten
-			schickt der „<orgName ref="#neue-freie-presse">Neuen freien Presse</orgName>“ über <persName ref="#verdi.giuseppe">Verdi</persName> folgende Zeilen:<note resp="tr" type="textLink">Vgl. <ref type="text" target="nfp_1875-06-09_verdi-in-wien.xml">Neue Freie Presse, Wien, 9. Juni
-					1875</ref>.</note> Es ist bekannt, daß <persName ref="#verdi.giuseppe">Verdi</persName> den größten Theil des Jahres in seiner bescheidenen Villa in <placeName ref="#busseto">Bus<supplied resp="tr">s</supplied>eto</placeName> verlebt; zu dem Hause gehören
-			ausgedehnte Ländereien, die er selbst bewirthschaftet. Die Winterzeit bringt <persName ref="#verdi.giuseppe">Verdi</persName> in einer gemietheten Wohnung des <placeName ref="#genua.palazzo-doria">Palastes Doria</placeName> in <placeName ref="#genua">Genua</placeName>
-			zu. Auf seinen Reisen begleitet ihn stets seine Frau, die ehemals gefeierte Sängerin
-				<persName ref="#verdi.giuseppina">Strepponi</persName>, welche besonders in seinen
-			ernsteren Werken häufig auftrat. <persName ref="#verdi.giuseppe">Verdi</persName> kam zum
-			ersten Male nach <placeName ref="#wien">Wien</placeName> im Jahre <date when-iso="1843">1843</date>,
-			wo er am <date when-iso="1843-04-04">4.</date> und <date when-iso="1843-04-05">5. April</date>
-			seine Oper „<title ref="#verdi.nabucco">Nabucco</title>“ im <placeName ref="#wien.kaerntnertor-theater">Kärntnertortheater</placeName> dirigirte: Mit Freude
-			erinnert er sich noch jener Zeit, wo ihm, der noch nicht 29 Jahre alt war, die
-			schmeichelhaftesten Ehren erwiesen wurden. <persName ref="#donizetti.gaetano">Donizetti</persName> dirigirte zur selben Zeit „<title ref="#donizetti.linda-di-chamounix">Linda</title>“ und „<title ref="#donizetti.maria-di-rohan">Maria von Rohan</title>“, die eigens für <placeName ref="#wien">Wien</placeName> componirt waren, und <persName ref="#verdi.giuseppe">Verdi</persName> erzählte mir, daß der große Meister aus <placeName ref="#bergamo">Bergamo</placeName>, eifersüchtig und mißtrauisch gegen <persName ref="#nicolai.otto">Nicolai</persName>, den damaligen Capellmeister im <placeName ref="#wien.kaerntnertor-theater">Kärntnertor-Theater</placeName>, niemals gestatten
-			wollte, daß dieser seine Opern dirigirte. Als wir im Gespräche auf <persName ref="#wagner.richard">Wagner</persName> kamen, bemerkte <persName ref="#verdi.giuseppe">Verdi</persName>, daß dieses große Genie der melodramatischen Kunst unberechenbare
-			Dienste erwiesen habe, weil er den Muth hatte, sich der traditionellen barocken Formen
-			zu entledigen; „die Verschmelzung der Musik mit dem Drama habe ich auch versucht“, sagte
-			er, „und zwar in <title ref="#verdi.macbeth">Macbeth</title>, doch konnte ich mir nicht
-			selbst die Textbücher dichten, wie <persName ref="#wagner.richard">Wagner</persName> es thut.
-				<persName ref="#wagner.richard">Wagner</persName> überflügelt alle Componisten im
-			Farbenreichthum der Instrumentirung, allein er ging sowohl in der Form als auch in der
-			Manier zu weit. Anfangs bekämpfte er mit Erfolg <pb break="yes" n="466" type="regular"/>
-			das Realistische, später aber entfernte er sich durch Uebertreibung von der idealen
-			Dichtung und verfiel in denselben Fehler, den er ursprünglich zu verbessern sich als
-			Aufgabe gestellt hatte. Die Einförmigkeit also, die er so siegreich bekämpfte, droht
-			neuerdings ihn zu beherrschen.“ Das neue Opernhaus gefiel <persName ref="#verdi.giuseppe">Verdi</persName> sehr, sowohl in der Architektur, als in den Decorationen und der
-			Ornamentik, nur findet er, daß die Bühne zu wenig abschüssig ist und dadurch die
-			Perspective in den großen scenischen Ensembles ungemein leide. Die Aufführung von „<title ref="#wagner.tannhaeuser">Tannhäuser</title>“, der <persName ref="#verdi.giuseppe">Verdi</persName> beigewohnt hat, fand er vorzüglich; besonders Orchester, sowie Chöre
-			und Inscenirung riefen seine Bewunderung wach. Ueber Sänger hat <persName ref="#verdi.giuseppe">Verdi</persName> seine eigenen Ansichten. „An Stimmen fehlt es
-			gewiß nicht in Deutschland“, sagt er, „sie sind beinahe klangvoller als die
-			italienischen, die Sänger aber betrachten den Gesang als eine Gymnastik, befassen sich
-			wenig mit der Ausbildung der Stimme und trachten nur in der kürzesten zeit ein großen
-			Repertoire zu erhalten. Sie geben sich keine Mühe, eine schöne Schattirung in den Gesang
-			zu bringen, ihr ganzes Bestreben ist dahin gerichtet, diese oder jene Note mit großer
-			Kraft hervorzustoßen. Daher ist ihr Gesang kein poetischer Ausdruck der Seele, sondern
-			ein physischer Kampf ihres Körpers.“ <placeName ref="#wien">Wien</placeName> machte auf <persName ref="#verdi.giuseppe">Verdi</persName> einen bezaubernden Eindruck, er hält es für die
-			schönste Stadt <placeName ref="#europa">Europas</placeName>; die Umgebungen, wie die Bewohner
-			erinnern ihn lebhaft an <placeName ref="#norditalien">Nord-Italien</placeName>. Die
-			enthusiastische Aufnahme, die man <persName ref="#verdi.giuseppe">Verdi</persName> schon bei
-			den Proben des <title ref="#verdi.requiem">Requiems</title> bereitete, haben tiefen
-			Eindruck auf ihn gemacht. Er hat sich entschlossen, bald wieder nach <placeName ref="#wien">Wien</placeName> zu kommen und dann die erste Aufführung eines neuen Werkes zu leiten.
-			Eine an den Meister gerichtete Einladung, nach <placeName ref="#pest">Pest</placeName> zu kommen
-			und dort persönlich am Nationaltheater das <title ref="#verdi.requiem">Requiem</title> zu
-				dirigiren,<note resp="tr" type="textLink">Vgl. <ref type="text" target="nfp_1875-06-05_ungarn.xml">Neue Freie Presse, Wien, 5. Juni
-				1875</ref>.</note> hat <persName ref="#verdi.giuseppe">Verdi</persName> dankend
-			abgelehnt.</p>
-		<p><persName ref="#verdi.giuseppe">Verdi’s</persName>
-			<hi rend="widespace">Persönlichkeit</hi> und das ihn begleitende Sänger-Quartett wird
-			von dem „Fremdenblatt“ folgendermaßen gezeichnet:<note resp="tr" type="textLink">Vgl.
-					<ref type="text" target="fb_1875-06-13_theater-und-kunst.xml">Fremden-Blatt, Wien, 13. Juni
-					1875</ref>.</note> Es klingt wie ein Märchen, daß wir von <persName ref="#verdi.giuseppe">Verdi</persName> eine Seelenmesse erlebt haben. Von dem Sänger
-			der ungezügelten weltlichen Leidenschaft, von einem Tonsetzer, der den heißen Trieben
-			des Blutes Accente geliehen, die in ihrem ungezähmten Aufschrei an das Brutale streifen
-			— von einem solchen Manne hätte noch vor wenigen Jahren Niemand ein <title ref="#verdi.requiem">Requiem</title> erwartet. Nach seiner „<title ref="#verdi.aida">Aida</title>“ freilich, welche die früher so grellen Farben dämpfte und den
-			abenteuerlichen Strom der Empfindung in ein ruhiges Bett lenkte, konnte die Nachricht,
-			daß <persName ref="#verdi.giuseppe">Verdi</persName> an einem <title ref="#verdi.requiem">Requiem</title> arbeite, wohl noch befremden, aber unglaublich klang sie nicht mehr.
-			Ganz <placeName ref="#wien">Wien</placeName> war versammelt, den Mann einmal von Angesicht zu
-			sehen, seine geistliche Musik zu hören, und Beides, das Persönliche und das Sachliche,
-			der Mann und seine Musik bestanden vor dem Wiener Publicum die Probe. <persName ref="#verdi.giuseppe">Verdi’s</persName> Persönlichkeit macht eine überaus günstigen
-			Eindruck. Auf einer etwas mehr als mittelgroßen Gestalt, die schlank und wie aus Stahl
-			gehämmert ist, sitzt ein brauner Kopf mit einem energisch herausgearbeiteten Gesicht,
-			dessen Ernst durch den Ausdruck von Wohlwollen gemildert wird. Die Silberfäden, die aus
-			dem Vollbart blinken, bringen in den Kopf einen Zug von Würde. Etwas von anmuthiger
-			Unbeholfenheit liegt in seinen Bewegungen. Sein Taktschlag ist fest, deutlich, energisch
-			— ganz der Ausdruck seines Charakters. <persName ref="#verdi.giuseppe">Verdi</persName>
-			gefiel schon durch seine persönliche Erscheinung, deren Eindruck sich freilich, wie dies
-			immer geschieht, durch die stillschweigende Voraussetzung seiner Verdienst unberechenbar
-				<pb break="yes" n="467" type="regular"/> steigerte. Und als man ihn nun in seinem
-			Werke leben sah und das Werk in ihm, fand der Beifall keine Grenzen. — In Fräulein <hi rend="widespace"><persName ref="#stolz.teresa">Stolz</persName></hi> lernten wir einen
-			geradezu wunderbaren Sopran kennen, der in der Tiefe, in der Mittellage und in der Höhe
-			von gleicher Fülle, Stärke und Energie ist. Ihre Methode, ihr Vortrag sind die
-			Natürlichkeit und die Schönheit selbst. Fräulein <hi rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi> und die Herren <hi rend="widespace"><persName ref="#masini.angelo">Masini</persName></hi> und <hi rend="widespace"><persName ref="#medini.paolo">Medini</persName></hi> wetteifern mit einander an
-			Pracht der sinnlichen Mittel und an Geschmack des Vortrages.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Signale, Leipzig, Juni 1875/30 [1] (= Neue Freie Pr., 9.6. + Fremden-Bl.,
+					13.6.)</title>
+				<author><persName ref="#anonymus.ein-freund-verdis"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/signale_1875-06_30_verdi-in-wien.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#signale" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date cert="low" notAfter-iso="1875-06-30" notBefore-iso="1875-06-14"
+						when-iso="1875-06-30"/>
+					<!--BIBLIO Datierung: frühestens ein Tag nach dem Erscheinen der Quelle-->
+					<biblScope unit="issue">30</biblScope>
+					<biblScope unit="volume">33</biblScope>
+					<biblScope unit="page">465–467</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Biografik</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic
+			url="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n470/mode/1up"/>
+		<graphic
+			url="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n471/mode/1up"/>
+		<graphic
+			url="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n472/mode/1up"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="465"/>
+			<head rend="larger widespace bold"><persName ref="#verdi.giuseppe">Verdi</persName> in
+					<placeName ref="#wien">Wien</placeName>.</head>
+			<p>Ein <persName ref="#anonymus.ein-freund-verdis">persönlicher Freund</persName> des
+				Componisten schickt der „<orgName ref="#neue-freie-presse">Neuen freien
+					Presse</orgName>“ über <persName ref="#verdi.giuseppe">Verdi</persName> folgende
+					Zeilen:<note resp="tr" type="textLink">Vgl. <ref
+						target="nfp_1875-06-09_verdi-in-wien.xml" type="text">Neue Freie Presse,
+						Wien, 9. Juni 1875</ref>.</note> Es ist bekannt, daß <persName
+					ref="#verdi.giuseppe">Verdi</persName> den größten Theil des Jahres in seiner
+				bescheidenen Villa in <placeName ref="#busseto">Bus<supplied resp="tr"
+					>s</supplied>eto</placeName> verlebt; zu dem Hause gehören ausgedehnte
+				Ländereien, die er selbst bewirthschaftet. Die Winterzeit bringt <persName
+					ref="#verdi.giuseppe">Verdi</persName> in einer gemietheten Wohnung des
+					<placeName ref="#genua.palazzo-doria">Palastes Doria</placeName> in <placeName
+					ref="#genua">Genua</placeName> zu. Auf seinen Reisen begleitet ihn stets seine
+				Frau, die ehemals gefeierte Sängerin <persName ref="#verdi.giuseppina"
+					>Strepponi</persName>, welche besonders in seinen ernsteren Werken häufig
+				auftrat. <persName ref="#verdi.giuseppe">Verdi</persName> kam zum ersten Male nach
+					<placeName ref="#wien">Wien</placeName> im Jahre <date when-iso="1843"
+					>1843</date>, wo er am <date when-iso="1843-04-04">4.</date> und <date
+					when-iso="1843-04-05">5. April</date> seine Oper „<title ref="#verdi.nabucco"
+					>Nabucco</title>“ im <placeName ref="#wien.kaerntnertor-theater"
+					>Kärntnertortheater</placeName> dirigirte: Mit Freude erinnert er sich noch
+				jener Zeit, wo ihm, der noch nicht 29 Jahre alt war, die schmeichelhaftesten Ehren
+				erwiesen wurden. <persName ref="#donizetti.gaetano">Donizetti</persName> dirigirte
+				zur selben Zeit „<title ref="#donizetti.linda-di-chamounix">Linda</title>“ und
+					„<title ref="#donizetti.maria-di-rohan">Maria von Rohan</title>“, die eigens für
+					<placeName ref="#wien">Wien</placeName> componirt waren, und <persName
+					ref="#verdi.giuseppe">Verdi</persName> erzählte mir, daß der große Meister aus
+					<placeName ref="#bergamo">Bergamo</placeName>, eifersüchtig und mißtrauisch
+				gegen <persName ref="#nicolai.otto">Nicolai</persName>, den damaligen Capellmeister
+				im <placeName ref="#wien.kaerntnertor-theater">Kärntnertor-Theater</placeName>,
+				niemals gestatten wollte, daß dieser seine Opern dirigirte. Als wir im Gespräche auf
+					<persName ref="#wagner.richard">Wagner</persName> kamen, bemerkte <persName
+					ref="#verdi.giuseppe">Verdi</persName>, daß dieses große Genie der
+				melodramatischen Kunst unberechenbare Dienste erwiesen habe, weil er den Muth hatte,
+				sich der traditionellen barocken Formen zu entledigen; „die Verschmelzung der Musik
+				mit dem Drama habe ich auch versucht“, sagte er, „und zwar in <title
+					ref="#verdi.macbeth">Macbeth</title>, doch konnte ich mir nicht selbst die
+				Textbücher dichten, wie <persName ref="#wagner.richard">Wagner</persName> es thut.
+					<persName ref="#wagner.richard">Wagner</persName> überflügelt alle Componisten
+				im Farbenreichthum der Instrumentirung, allein er ging sowohl in der Form als auch
+				in der Manier zu weit. Anfangs bekämpfte er mit Er<pb break="no" n="466"
+					type="regular"/>folg das Realistische, später aber entfernte er sich durch
+				Uebertreibung von der idealen Dichtung und verfiel in denselben Fehler, den er
+				ursprünglich zu verbessern sich als Aufgabe gestellt hatte. Die Einförmigkeit also,
+				die er so siegreich bekämpfte, droht neuerdings ihn zu beherrschen.“ Das neue
+				Opernhaus gefiel <persName ref="#verdi.giuseppe">Verdi</persName> sehr, sowohl in
+				der Architektur, als in den Decorationen und der Ornamentik, nur findet er, daß die
+				Bühne zu wenig abschüssig ist und dadurch die Perspective in den großen scenischen
+				Ensembles ungemein leide. Die Aufführung von „<title ref="#wagner.tannhaeuser"
+					>Tannhäuser</title>“, der <persName ref="#verdi.giuseppe">Verdi</persName>
+				beigewohnt hat, fand er vorzüglich; besonders Orchester, sowie Chöre und Inscenirung
+				riefen seine Bewunderung wach. Ueber Sänger hat <persName ref="#verdi.giuseppe"
+					>Verdi</persName> seine eigenen Ansichten. „An Stimmen fehlt es gewiß nicht in
+				Deutschland“, sagt er, „sie sind beinahe klangvoller als die italienischen, die
+				Sänger aber betrachten den Gesang als eine Gymnastik, befassen sich wenig mit der
+				Ausbildung der Stimme und trachten nur in der kürzesten zeit ein großen Repertoire
+				zu erhalten. Sie geben sich keine Mühe, eine schöne Schattirung in den Gesang zu
+				bringen, ihr ganzes Bestreben ist dahin gerichtet, diese oder jene Note mit großer
+				Kraft hervorzustoßen. Daher ist ihr Gesang kein poetischer Ausdruck der Seele,
+				sondern ein physischer Kampf ihres Körpers.“ <placeName ref="#wien">Wien</placeName>
+				machte auf <persName ref="#verdi.giuseppe">Verdi</persName> einen bezaubernden
+				Eindruck, er hält es für die schönste Stadt <placeName ref="#europa"
+					>Europas</placeName>; die Umgebungen, wie die Bewohner erinnern ihn lebhaft an
+					<placeName ref="#norditalien">Nord-Italien</placeName>. Die enthusiastische
+				Aufnahme, die man <persName ref="#verdi.giuseppe">Verdi</persName> schon bei den
+				Proben des <title ref="#verdi.requiem">Requiems</title> bereitete, haben tiefen
+				Eindruck auf ihn gemacht. Er hat sich entschlossen, bald wieder nach <placeName
+					ref="#wien">Wien</placeName> zu kommen und dann die erste Aufführung eines neuen
+				Werkes zu leiten. Eine an den Meister gerichtete Einladung, nach <placeName
+					ref="#pest">Pest</placeName> zu kommen und dort persönlich am Nationaltheater
+				das <title ref="#verdi.requiem">Requiem</title> zu dirigiren,<note resp="tr"
+					type="textLink">Vgl. <ref target="nfp_1875-06-05_ungarn.xml" type="text">Neue
+						Freie Presse, Wien, 5. Juni 1875</ref>.</note> hat <persName
+					ref="#verdi.giuseppe">Verdi</persName> dankend abgelehnt.</p>
+			<p><persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<hi rend="widespace">Persönlichkeit</hi> und das ihn begleitende Sänger-Quartett
+				wird von dem „Fremdenblatt“ folgendermaßen gezeichnet:<note resp="tr"
+					type="textLink">Vgl. <ref target="fb_1875-06-13_theater-und-kunst.xml"
+						type="text">Fremden-Blatt, Wien, 13. Juni 1875</ref>.</note> Es klingt wie
+				ein Märchen, daß wir von <persName ref="#verdi.giuseppe">Verdi</persName> eine
+				Seelenmesse erlebt haben. Von dem Sänger der ungezügelten weltlichen Leidenschaft,
+				von einem Tonsetzer, der den heißen Trieben des Blutes Accente geliehen, die in
+				ihrem ungezähmten Aufschrei an das Brutale streifen — von einem solchen Manne hätte
+				noch vor wenigen Jahren Niemand ein <title ref="#verdi.requiem">Requiem</title>
+				erwartet. Nach seiner „<title ref="#verdi.aida">Aida</title>“ freilich, welche die
+				früher so grellen Farben dämpfte und den abenteuerlichen Strom der Empfindung in ein
+				ruhiges Bett lenkte, konnte die Nachricht, daß <persName ref="#verdi.giuseppe"
+					>Verdi</persName> an einem <title ref="#verdi.requiem">Requiem</title> arbeite,
+				wohl noch befremden, aber unglaublich klang sie nicht mehr. Ganz <placeName
+					ref="#wien">Wien</placeName> war versammelt, den Mann einmal von Angesicht zu
+				sehen, seine geistliche Musik zu hören, und Beides, das Persönliche und das
+				Sachliche, der Mann und seine Musik bestanden vor dem Wiener Publicum die Probe.
+					<persName ref="#verdi.giuseppe">Verdi’s</persName> Persönlichkeit macht eine
+				überaus günstigen Eindruck. Auf einer etwas mehr als mittelgroßen Gestalt, die
+				schlank und wie aus Stahl gehämmert ist, sitzt ein brauner Kopf mit einem energisch
+				herausgearbeiteten Gesicht, dessen Ernst durch den Ausdruck von Wohlwollen gemildert
+				wird. Die Silberfäden, die aus dem Vollbart blinken, bringen in den Kopf einen Zug
+				von Würde. Etwas von anmuthiger Unbeholfenheit liegt in seinen Bewegungen. Sein
+				Taktschlag ist fest, deutlich, energisch — ganz der Ausdruck seines Charakters.
+					<persName ref="#verdi.giuseppe">Verdi</persName> gefiel schon durch seine
+				persönliche Erscheinung, deren Eindruck sich freilich, wie dies immer geschieht,
+				durch die stillschweigende Voraussetzung seiner Verdienst unberechenbar <pb
+					break="yes" n="467" type="regular"/>steigerte. Und als man ihn nun in seinem
+				Werke leben sah und das Werk in ihm, fand der Beifall keine Grenzen. — In Fräulein
+					<hi rend="widespace"><persName ref="#stolz.teresa">Stolz</persName></hi> lernten
+				wir einen geradezu wunderbaren Sopran kennen, der in der Tiefe, in der Mittellage
+				und in der Höhe von gleicher Fülle, Stärke und Energie ist. Ihre Methode, ihr
+				Vortrag sind die Natürlichkeit und die Schönheit selbst. Fräulein <hi
+					rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi> und
+				die Herren <hi rend="widespace"><persName ref="#masini.angelo"
+					>Masini</persName></hi> und <hi rend="widespace"><persName ref="#medini.paolo"
+						>Medini</persName></hi> wetteifern mit einander an Pracht der sinnlichen
+				Mittel und an Geschmack des Vortrages.</p>
+		</body>
+	</text>
 </TEI>

@@ -1,111 +1,250 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Neues Wiener Tagblatt, 12. Juni 1875</title><author><persName ref="#frey.wilhelm"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nwt_1875-06-12_ein-requiem.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#neues-wiener-tagblatt" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-12" when-custom="sat"/>
-				<biblScope unit="issue">161</biblScope><series>nwt</series>
-				<biblScope unit="page">1–2</biblScope>
-				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750612&amp;seite=1"/>
-				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750612&amp;seite=2"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Werkbesprechung</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<pb break="null" n="1a" type="initial"/>
-		<head rend="larger">Ein Requiem.</head>
-		<p>Der hohe und weite Marmorsaal ist erleuchtet, mit tausend und tausend Kerzen erleuchtet
-			und die unzähligen heiteren Lichter brechen sich in tanzenden Linien an den kunstvoll
-			gemeißelten Wänden und an der mit den anmuthigsten Kinderfiguren und Ornamenten
-			geschmückten Decke und vervielfältigen ihren Schein in den mächtigen Spiegeln von Silber
-			und Krystall. Und in der Mitte dieses märchenhaft blendenden Raumes, zu dessen
-			Ausschmückung sich die Meister vieler Künste neidlos und im holden Wetteifer die
-			kunstgeübten Hände gereicht, erhebt sich ein Lager, aus kostbarer Seide und kostbarem
-			Sammt errichtet<supplied resp="tr">,</supplied> dessen Farben und Arabeskenschmuck in strengster
-			Harmonie mit der Umgebung stimmt und auf dem prächtigen Lager des von Wohlgerüchen aller
-			Art erfüllten Saales ruht ein Mann, der mit dem Dasein abgeschlossen und seine Augen auf
-			ewig geschlossen hat. Aber kein einziges Zeichen der äußeren Szenerie, kein einziges
-			Symptom der äußeren Staffage deutet auf das Wesen des düsteren Lagers hin, kein Flor,
-			kein Schleier, kein schwarzes Tuch, keine im fahlen Schimmer absterbende Kerze — nichts
-			von all’ jenen Symbolen einer zerknirschten, zerdrückten und vernichteten Seele fällt
-			betrübnißschwer ins Auge und die Lider des todten Mannes sind nur leicht geschlossen, so
-			leicht und lose, daß man wähn’, sie im nächsten Augenblicke wieder aufschlagen zu sehen
-			und der Mund lächelt milde, als wolle er sprechen und die Hand zuckt, als wolle sie
-			schreiben, und sprechen und schreiben von dem beseligenden Gefühle jenes Sterbens, das
-			nicht den Tod bedeutet . . . . Und kein Auge der Umstehenden hat geweint und keines ist
-			naß, aber alle sind sie mit jenem leichten Schleier umflort, der die Wehmuth ist und
-			zugleich die beseligende Erinnerung an den Verlorenen, aber nicht ewig Verlorenen,
-			dessen Auge noch immer sieht, trotzdem <cb break="yes" n="1b" type="regular"/> es
-			erloschen, dessen Herz noch fühlt, trotzdem es gebrochen.</p>
-		<p>So und nicht anders mochte sich <persName ref="#verdi.giuseppe">Verdi</persName> den Hingang
-			seines Freundes und geistigen Bundesgenossen und Mitkämpfers im Reiche der Politik und
-			der Kunst gedacht haben, als er den Griffel zur Hand nahm und die Noten niederschrieb,
-			aus denen das <title ref="#verdi.requiem">Manzoni-Requiem</title> wurde, jene Feier des
-			großen Patrioten und Dichters, deren Klängen bereits <placeName ref="#italien">Italien</placeName>, <placeName ref="#frankreich">Frankreich</placeName> und <placeName ref="#grossbritannien">England</placeName> mit Erhebung gelauscht und die am gestrigen
-			Abend auch in unserer Mitte so ergreifend, so begeisternd zu wirken vermochte. Wer von
-			uns Allen hätte nicht ein geliebtes Herz zu beweinen, wer von uns Allen hätte nicht
-			schon an einem offenen Grabe gestanden und gehört, wie die unbarmherzigen Schollen auf
-			den Sarg hinunter fielen und das abgeschiedene Wesen auf ewig uns verbargen? Und wer von
-			uns Allen, frage ich, hätte nicht in der vergangenen Nacht dieses geliebten Hauptes
-			gedacht? Mit der Trauer um <persName ref="#manzoni.alessandro">Manzoni</persName>, der uns ja
-			nur mit dem Geiste, nicht aber so sehr mit seinem Herzen nahe gestanden, verband sich
-			das Weh jedes Einzelnen nach einem Theueren und Theuersten, das wir einst besessen.
-			Indem <persName ref="#verdi.giuseppe">Verdi</persName> dem Dichter der „<hi rend="antiqua">promessi sposi</hi>“ das <title ref="#verdi.requiem">Requiem</title> schrieb, hat er
-			nicht allein dem Freunde eine persönliche Huldigung dargebracht, sondern dem berühmten
-			Schriftsteller <placeName ref="#italien">Italiens</placeName> zu einer großartigen Popularität
-			verholfen. Unter den Tausenden, die außerhalb der Marken <placeName ref="#italien">Italiens</placeName> den Todten vom <date when-iso="1873-05-22">22. Mai 1873</date> nur dem
-			Namen nach gekannt, wird es wohl nicht Einen geben, der, nachdem er das <title ref="#verdi.requiem">Requiem</title> gehört, jenen Todten nicht näher kennen wollte,
-			dem solche Klänge nachgedichtet und nachgesungen werden! — —</p>
-		<p>Man hat, kaum war <persName ref="#verdi.giuseppe">Verdi</persName> mit seinem neuesten Werk
-			hervorgetreten und kaum war dasselbe <rs type="event" ref="#mailand.1874.1">am <date when-iso="1874-05-22">22. Mai 1874</date>, genau am ersten Jahrestage vom Tode
-					<persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>, in der Kirche
-					<placeName ref="#mailand.san-marco">San Marco</placeName> zu <placeName ref="#mailand">Mailand</placeName> zur <cb break="yes" n="1c" type="regular"/> öffentlichen
-				Aufführung gelangt</rs>, den einstimmigen Ruf erhoben, diese für die Kirche
-			bestimmte und aus der Kirche entsprungene Komposition trage einen durchaus weltlichen
-			Charakter und Diejenigen, die dem Urtheil auch eine gewisse Schärfe des Tadels beimengen
-			wollten, meinten und meinen noch immer, das <title ref="#verdi.requiem">Requiem</title> sei
-			— opernhaft. Nun, das weltliche Gepräge der „<hi rend="antiqua"><title ref="#verdi.requiem">Messa da Requiem</title></hi>“ ist nicht hinweg zu wischen,
-			es ist fast jedem einzelnen Satze aufgedrückt und nur die größere Fuge des <title ref="#verdi.requiem.4">Sanctus</title> erinnert den Hörer daran, daß er in einer
-			Kirche sich befinden könnte. Und gerade durch die jeder Scholastik aus dem Wege gehende
-			Diktion wußte der Komponist sein Werk den größeren, gebildeten Kreisen zugänglich zu
-			machen, gerade durch die sich einschmeichelnde Sprache der Todtenmesse errichtete
-				<persName ref="#verdi.giuseppe">Verdi</persName> überall eine — Kirche, wo er seine
-			Musiker aufstellte, und gerade dadurch wurde seine Partitur zum Gebetbuch. Die Oper
-			entwickelte sich einst aus der Liturgie der Kirche, wenn die Kirche heute zur Oper und
-			der Stätte ihrer Pflege zurückkehrt, so bedeutet das eben nur einen jener merkwürdigen
-			Kreisläufe, die sich so oft in der Kunst vollziehen und deren Gesetzlichkeit wir uns
-			willig unterwerfen. Die Welt versteht aber heutzutage den freien Ausdruck einer freien
-			Kunst viel besser, als die sklavisch-gefesselte Sprache ergrauter Formeln. Und wie
-			sollte sich das Lied der Kirche, sei dieses Lied der Freude, oder dem Schmerz, dem Jubel
-			oder der Trauer gewidmet, im Laufe der Jahrhunderte nicht geändert, ja sogar verändert
-			haben, nachdem die ganze übrige musikalische Kunst eine andere geworden?! <persName ref="#verdi.giuseppe">Verdi</persName> hat sich in seinem jüngsten Kunstwerke der
-			Pietät von dem sogenannten „Stil“ emanzipirt, wie es schon <persName ref="#rossini.gioachino">Rossini</persName> schüchtern wagte und wie es theilweise
-				<persName ref="#beethoven.ludwig-van">Beethoven</persName> in seiner „<hi rend="antiqua"><title ref="#beethoven.missa-solemnis">Missa solemnis</title></hi>“ so kühn
-			gethan, aber <persName ref="#verdi.giuseppe">Verdi</persName> ist in seiner Klage rührend,
-			erhebend, hinreißend und oft majestätisch, und wir verlassen das Theater, in welchem die
-				<pb break="yes" n="2a" type="regular"/> Klage ertönte, mit ebenso tiefer und
-			wirklicher Weihe, als wir je ein Gotteshaus verlassen haben. — —</p>
-		<p>Gleich die ersten paar Takte aus dem elegischen Dreiklang des <hi rend="antiqua">A-moll</hi> versetzen uns in die Feier des Momentes und diese wenigen Töne sind nicht nur das Diapason für die ganze abendliche Stimmung, sie sind gewissermaßen die gemessenen Schritte, mit denen der Freund zum Grabe des Freundes schreitet, den Kranz der Immortellen darauf zu legen und das sich daran schließende Orchestermotiv gibt sofort der geängstigten Seele die Beruhigung, daß der Tod nicht das größte der Uebel sei. Das „<hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi>“, aus <choice><orig>acht</orig><corr resp="tr">neun</corr></choice> selbstständigen Stücken bestehend, ist ungleich in seinem innern Werthe und ungleich den Eindrücken nach, die der „Tag der Klage und der Tag des Schreckes“ beim Hörer zurückläßt. Den stärksten äußeren Effekt bringt jedenfalls das „<hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>“ hervor. Die vielen Posaunen, die ihre schmetternden und vor das Gericht fordernden Töne zuerst getrennt aus verschiedenen Punkten des Emporiums in die Luft senden, bis sie dann, sich vereinigend, mit imposanter Macht die eherne Zunge des Weltgerichtes sprechen, wird man nicht sobald aus dem Ohre verlieren. Französische Kritiker haben zu wiederholten Malen bei allem Wohlwollen für <persName ref="#verdi.giuseppe">Verdi</persName> und bei aller Werthschätzung des gefeierten Komponisten darauf aufmerksam gemacht, daß der Gedanke der aus den verschiedenen Ecken ertönenden und dann in Eins zusammenströmenden Posaunen zuerst von <persName ref="#berlioz.hector">Berlioz</persName> in dessen Requiem ausgeführt worden sei und daß die Priorität der Idee dem Geiste des französischen Romantikers zukomme. Ohne auf diese Kontroverse näher einzugehen, sei nur bemerkt, daß <persName ref="#berlioz.hector">Berlioz</persName> für jede Art seiner Bläser und in jede Ecke seines Orchesters einen ganzen Chor von Posaunisten haben wollte und einmal auch wirklich aufstellte. — Aus dem „<hi rend="antiqua"><title ref="#verdi.requiem.2.recordare">Recordare</title></hi>“, für Sopran und Mezzosopran, spricht der dramatische Dichter sehr energisch, hier hat sich der geistliche Sänger, der Opernkomponist, sterblich gezeigt. Aber, <cb break="yes" n="2b" type="regular"/> ach! wie schön, wie innig und ergreifend klingt diese schwache Sterblichkeit. — Wenn die Stelle von den himmlischen Posaunen am gewaltigsten packt, so ist’s das „<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>“, das am tiefsten rührt. Jenes regt die Schrecken auf, dieses erschließt die Thränen und diesem naiven und wahren Erguß der geläuterten Seele vermag wohl selten ein Auge zu widerstehen. — Allerdings muß dieses „<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus</title></hi>“ von zwei so himmlischen Stimmen gesungen werden, wie sie bei der Generalprobe zum ersten und gestern zum zweiten Male an unser Ohr geschlagen. Die Stimme der <persName ref="#stolz.teresa">Theresa <hi rend="widespace">Stol<surplus resp="tr">t</surplus>z</hi></persName> klingt geradezu berauschend, und wenn man sich die Engel, womit <persName ref="#sanzio.rafaello">Rafael</persName> die Jungfrau Maria umschweben läßt, singend denken könnte, so müßten sie den Zauber dieser Stimme haben. Man ringt vergebens nach einem Ausdruck, der solchen Gesang genau und zutreffend bezeichnet und schließt sich gerne dem Ausspruche eines bekannten Komponisten und bekannteren Musikschriftstellers an, der sagt: „Ihre Stimme, die sich eben in die Tiefe des Abgrundes verloren, erscheint plötzlich wieder unter den Sternen; Du folgst ihr bewegt, entzückt, denn Du weißt, daß in ihr das Wort des Meisters wohnt und daß sie nicht straucheln wird.“<note resp="tr" type="textLink">Vgl. <persName ref="#blaze.henri">Henri Blaze</persName>, <ref type="text" target="rddm_1875-05-01.xml">Revue des deux mondes, Paris, 1. Mai 1875</ref>: »Sa voix, qui vient de se perdre dans les profondeurs de l’abime, reparaît soudain parmi les astres; vous a suivez ému, ravi, car vous savez qu’en elle est la parole du maître, et qu’elle ne fallira pas«; vgl. auch <ref type="text" target="amz_1875-07-28_paris.xml">AmZ, Leipzig, 21. Juli/4. August 1874</ref>.</note> Wenn nun <persName ref="#stolz.teresa">Theresa Stol<surplus resp="tr">t</surplus>z</persName> der „Silberblick“ ist, so ist <persName ref="#waldmann.maria">Marie <hi rend="widespace">Waldmann</hi></persName> die mächtige Resonanz, die Majestät des Kontre-Alt, die sich mit einem schön pathetischen Vortrage verbindet. Wenn man solche Stimmen mit solcher Schule hört, so mag noch lange nicht an den Untergang des Kunstgesanges gedacht werden, vorausgesetzt, daß sich solche Stimmen nicht an unsangbarster Deklamation zermartern müssen. — Herr <hi rend="widespace"><persName ref="#masini.angelo">Masini</persName></hi> ist ein Meister des <hi rend="antiqua">bel canto</hi>, ein Sänger, in dessen Munde jede Phrase, jedes Wort zur natürlichsten und gerundetsten Entfaltung gelangt. Man glaubt oft, dieser Künstler spreche nur, so leicht, so fließend ist dessen Vortrag, aber eben alles, was er spricht, ist Ton und Gesang. — Die Baßstimme des Herrn <hi rend="widespace"><persName ref="#medini.paolo">Medini</persName></hi> ist nicht so voll und markig, wie man sich die<cb break="no" n="2c" type="regular"/>selbe bei uns zu denken pflegt, aber in der Höhe schlägt sie sehr leicht an und wird von einem durchsichtigen und schlichten Vortrag gehoben.</p>
-		<p>Das Interesse, das unser Publikum der geistlichen Dichtung <persName ref="#verdi.giuseppe">Verdi’s</persName>
-			<rs type="event" ref="#wien.1875.1"><date>am gestrigen Abende</date></rs> entgegen brachte, war
-			ein äußerst warmes und enthusiastisches. Bei seinem Erscheinen inmitten des Orchesters
-			und Chores und an der Spitze seines auserlesenen Quartetts stürmisch empfangen, reihte
-			sich für <persName ref="#verdi.giuseppe">Verdi</persName> im Laufe des Abends eine Ovation an
-			die nächste und der folgende Sturm übertäubte stets den vorangehenden. Es war dies ein
-			italienischer Abend in der heißesten, unersättlichsten Bedeutung des Wortes. Von den
-			verschiedenen Abtheilungen des Werkes kamen nicht weniger als drei zur Wiederholung, das
-				„<hi rend="antiqua"><title ref="#verdi.requiem.2.recordare">Recordare, Jesu
-				pie</title></hi>“, Duett der beiden Damen, das „<title ref="#verdi.requiem.3">Offertorium-Quartett</title>“ und das „<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>.“ Wäre es übrigens der
-			Begeisterungsgluth der vielen Italiener nachgegangen, so wäre jede einzelne Nummer zur
-			Repetition gekommen. Daß nächst dem Komponisten das Soloquartett der Mittelpunkt aller
-			Auszeichnungen war, bedarf wohl keiner speziellen Betonung. Die Damen <hi rend="widespace"><persName ref="#stolz.teresa">Stol<surplus resp="tr">t</surplus>z</persName></hi> und <hi rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi> erinnerten mit ihren Triumphen an die einstigen
-			Glanzzeiten der italienischen Opernstagionen. Herr <hi rend="widespace"><persName ref="#masini.angelo">Masini</persName></hi> bestach vornehmlich mit seinem an die
-			Aida erinnernden Solo: „<hi rend="antiqua"><title ref="#verdi.requiem.2.ingemisco">Ingemisco</title></hi>“ und Herr <hi rend="widespace"><persName ref="#medini.paolo">Medini</persName></hi> erregte mit dem „<hi rend="antiqua"><title ref="#verdi.requiem.2.confutatis">Confutatis</title></hi><choice>
-				<orig>‘</orig>
-				<corr resp="tr">“</corr>
-			</choice> einige Aufmerksamkeit. Die Chöre gingen mit Präzision und Feuer, und das
-			sorgfältige Studium ging namentlich aus der Fuge des <hi rend="antiqua"><title ref="#verdi.requiem.4">Sanctus</title></hi> und aus dem <hi rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi> hervor.</p>
-		<p>Und so hätte denn das <title ref="#verdi.requiem">Manzoni-Requiem</title> auch bei uns seine
-			Probe bestanden und glänzend bestanden. Der Streit über seinen inneren Werth wird damit
-			wohl auch noch nicht entschieden sein, darin ist jedoch das musikalische <placeName ref="#wien">Wien</placeName> einig geworden, daß die Dichtung vollkommen das ist, was sie
-			sein will, eine erhebende Klage, ein echtes Requiem.</p>
-		<p rend="right"><persName ref="#frey.wilhelm">Wilh. <hi rend="widespace">Frey</hi></persName></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neues Wiener Tagblatt, 12. Juni 1875</title>
+				<author><persName ref="#frey.wilhelm"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nwt_1875-06-12_ein-requiem.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neues-wiener-tagblatt" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="sat" when-iso="1875-06-12"/>
+					<biblScope unit="issue">161</biblScope>
+					<series>nwt</series>
+					<biblScope unit="page">1–2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750612&amp;seite=1"/>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750612&amp;seite=2"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="1a" type="initial"/>
+			<head rend="larger">Ein Requiem.</head>
+			<p>Der hohe und weite Marmorsaal ist erleuchtet, mit tausend und tausend Kerzen
+				erleuchtet und die unzähligen heiteren Lichter brechen sich in tanzenden Linien an
+				den kunstvoll gemeißelten Wänden und an der mit den anmuthigsten Kinderfiguren und
+				Ornamenten geschmückten Decke und vervielfältigen ihren Schein in den mächtigen
+				Spiegeln von Silber und Krystall. Und in der Mitte dieses märchenhaft blendenden
+				Raumes, zu dessen Ausschmückung sich die Meister vieler Künste neidlos und im holden
+				Wetteifer die kunstgeübten Hände gereicht, erhebt sich ein Lager, aus kostbarer
+				Seide und kostbarem Sammt errichtet<supplied resp="tr">,</supplied> dessen Farben
+				und Arabeskenschmuck in strengster Harmonie mit der Umgebung stimmt und auf dem
+				prächtigen Lager des von Wohlgerüchen aller Art erfüllten Saales ruht ein Mann, der
+				mit dem Dasein abgeschlossen und seine Augen auf ewig geschlossen hat. Aber kein
+				einziges Zeichen der äußeren Szenerie, kein einziges Symptom der äußeren Staffage
+				deutet auf das Wesen des düsteren Lagers hin, kein Flor, kein Schleier, kein
+				schwarzes Tuch, keine im fahlen Schimmer absterbende Kerze — nichts von all’ jenen
+				Symbolen einer zerknirschten, zerdrückten und vernichteten Seele fällt
+				betrübnißschwer ins Auge und die Lider des todten Mannes sind nur leicht
+				geschlossen, so leicht und lose, daß man wähn’, sie im nächsten Augenblicke wieder
+				aufschlagen zu sehen und der Mund lächelt milde, als wolle er sprechen und die Hand
+				zuckt, als wolle sie schreiben, und sprechen und schreiben von dem beseligenden
+				Gefühle jenes Sterbens, das nicht den Tod bedeutet . . . . Und kein Auge der
+				Umstehenden hat geweint und keines ist naß, aber alle sind sie mit jenem leichten
+				Schleier umflort, der die Wehmuth ist und zugleich die beseligende Erinnerung an den
+				Verlorenen, aber nicht ewig Verlorenen, dessen Auge noch immer sieht, trotzdem <cb
+					break="yes" n="1b" type="regular"/> es erloschen, dessen Herz noch fühlt,
+				trotzdem es gebrochen.</p>
+			<p>So und nicht anders mochte sich <persName ref="#verdi.giuseppe">Verdi</persName> den
+				Hingang seines Freundes und geistigen Bundesgenossen und Mitkämpfers im Reiche der
+				Politik und der Kunst gedacht haben, als er den Griffel zur Hand nahm und die Noten
+				niederschrieb, aus denen das <title ref="#verdi.requiem">Manzoni-Requiem</title>
+				wurde, jene Feier des großen Patrioten und Dichters, deren Klängen bereits
+					<placeName ref="#italien">Italien</placeName>, <placeName ref="#frankreich"
+					>Frankreich</placeName> und <placeName ref="#grossbritannien"
+					>England</placeName> mit Erhebung gelauscht und die am gestrigen Abend auch in
+				unserer Mitte so ergreifend, so begeisternd zu wirken vermochte. Wer von uns Allen
+				hätte nicht ein geliebtes Herz zu beweinen, wer von uns Allen hätte nicht schon an
+				einem offenen Grabe gestanden und gehört, wie die unbarmherzigen Schollen auf den
+				Sarg hinunter fielen und das abgeschiedene Wesen auf ewig uns verbargen? Und wer von
+				uns Allen, frage ich, hätte nicht in der vergangenen Nacht dieses geliebten Hauptes
+				gedacht? Mit der Trauer um <persName ref="#manzoni.alessandro">Manzoni</persName>,
+				der uns ja nur mit dem Geiste, nicht aber so sehr mit seinem Herzen nahe gestanden,
+				verband sich das Weh jedes Einzelnen nach einem Theueren und Theuersten, das wir
+				einst besessen. Indem <persName ref="#verdi.giuseppe">Verdi</persName> dem Dichter
+				der „<hi rend="antiqua">promessi sposi</hi>“ das <title ref="#verdi.requiem"
+					>Requiem</title> schrieb, hat er nicht allein dem Freunde eine persönliche
+				Huldigung dargebracht, sondern dem berühmten Schriftsteller <placeName
+					ref="#italien">Italiens</placeName> zu einer großartigen Popularität verholfen.
+				Unter den Tausenden, die außerhalb der Marken <placeName ref="#italien"
+					>Italiens</placeName> den Todten vom <date when-iso="1873-05-22">22. Mai
+					1873</date> nur dem Namen nach gekannt, wird es wohl nicht Einen geben, der,
+				nachdem er das <title ref="#verdi.requiem">Requiem</title> gehört, jenen Todten
+				nicht näher kennen wollte, dem solche Klänge nachgedichtet und nachgesungen werden!
+				— —</p>
+			<p>Man hat, kaum war <persName ref="#verdi.giuseppe">Verdi</persName> mit seinem
+				neuesten Werk hervorgetreten und kaum war dasselbe <rs ref="#mailand.1874.1"
+					type="event">am <date when-iso="1874-05-22">22. Mai 1874</date>, genau am ersten
+					Jahrestage vom Tode <persName ref="#manzoni.alessandro">Alessandro
+						Manzoni’s</persName>, in der Kirche <placeName ref="#mailand.san-marco">San
+						Marco</placeName> zu <placeName ref="#mailand">Mailand</placeName> zur <cb
+						break="yes" n="1c" type="regular"/> öffentlichen Aufführung gelangt</rs>,
+				den einstimmigen Ruf erhoben, diese für die Kirche bestimmte und aus der Kirche
+				entsprungene Komposition trage einen durchaus weltlichen Charakter und Diejenigen,
+				die dem Urtheil auch eine gewisse Schärfe des Tadels beimengen wollten, meinten und
+				meinen noch immer, das <title ref="#verdi.requiem">Requiem</title> sei — opernhaft.
+				Nun, das weltliche Gepräge der „<hi rend="antiqua"><title ref="#verdi.requiem">Messa
+						da Requiem</title></hi>“ ist nicht hinweg zu wischen, es ist fast jedem
+				einzelnen Satze aufgedrückt und nur die größere Fuge des <title
+					ref="#verdi.requiem.4">Sanctus</title> erinnert den Hörer daran, daß er in einer
+				Kirche sich befinden könnte. Und gerade durch die jeder Scholastik aus dem Wege
+				gehende Diktion wußte der Komponist sein Werk den größeren, gebildeten Kreisen
+				zugänglich zu machen, gerade durch die sich einschmeichelnde Sprache der Todtenmesse
+				errichtete <persName ref="#verdi.giuseppe">Verdi</persName> überall eine — Kirche,
+				wo er seine Musiker aufstellte, und gerade dadurch wurde seine Partitur zum
+				Gebetbuch. Die Oper entwickelte sich einst aus der Liturgie der Kirche, wenn die
+				Kirche heute zur Oper und der Stätte ihrer Pflege zurückkehrt, so bedeutet das eben
+				nur einen jener merkwürdigen Kreisläufe, die sich so oft in der Kunst vollziehen und
+				deren Gesetzlichkeit wir uns willig unterwerfen. Die Welt versteht aber heutzutage
+				den freien Ausdruck einer freien Kunst viel besser, als die sklavisch-gefesselte
+				Sprache ergrauter Formeln. Und wie sollte sich das Lied der Kirche, sei dieses Lied
+				der Freude, oder dem Schmerz, dem Jubel oder der Trauer gewidmet, im Laufe der
+				Jahrhunderte nicht geändert, ja sogar verändert haben, nachdem die ganze übrige
+				musikalische Kunst eine andere geworden?! <persName ref="#verdi.giuseppe"
+					>Verdi</persName> hat sich in seinem jüngsten Kunstwerke der Pietät von dem
+				sogenannten „Stil“ emanzipirt, wie es schon <persName ref="#rossini.gioachino"
+					>Rossini</persName> schüchtern wagte und wie es theilweise <persName
+					ref="#beethoven.ludwig-van">Beethoven</persName> in seiner „<hi rend="antiqua"
+						><title ref="#beethoven.missa-solemnis">Missa solemnis</title></hi>“ so kühn
+				gethan, aber <persName ref="#verdi.giuseppe">Verdi</persName> ist in seiner Klage
+				rührend, erhebend, hinreißend und oft majestätisch, und wir verlassen das Theater,
+				in welchem die <pb break="yes" n="2a" type="regular"/> Klage ertönte, mit ebenso
+				tiefer und wirklicher Weihe, als wir je ein Gotteshaus verlassen haben. — —</p>
+			<p>Gleich die ersten paar Takte aus dem elegischen Dreiklang des <hi rend="antiqua"
+					>A-moll</hi> versetzen uns in die Feier des Momentes und diese wenigen Töne sind
+				nicht nur das Diapason für die ganze abendliche Stimmung, sie sind gewissermaßen die
+				gemessenen Schritte, mit denen der Freund zum Grabe des Freundes schreitet, den
+				Kranz der Immortellen darauf zu legen und das sich daran schließende Orchestermotiv
+				gibt sofort der geängstigten Seele die Beruhigung, daß der Tod nicht das größte der
+				Uebel sei. Das „<hi rend="antiqua"><title ref="#verdi.requiem.2">Dies
+					irae</title></hi>“, aus <choice>
+					<orig>acht</orig>
+					<corr resp="tr">neun</corr>
+				</choice> selbstständigen Stücken bestehend, ist ungleich in seinem innern Werthe
+				und ungleich den Eindrücken nach, die der „Tag der Klage und der Tag des Schreckes“
+				beim Hörer zurückläßt. Den stärksten äußeren Effekt bringt jedenfalls das „<hi
+					rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>“
+				hervor. Die vielen Posaunen, die ihre schmetternden und vor das Gericht fordernden
+				Töne zuerst getrennt aus verschiedenen Punkten des Emporiums in die Luft senden, bis
+				sie dann, sich vereinigend, mit imposanter Macht die eherne Zunge des Weltgerichtes
+				sprechen, wird man nicht sobald aus dem Ohre verlieren. Französische Kritiker haben
+				zu wiederholten Malen bei allem Wohlwollen für <persName ref="#verdi.giuseppe"
+					>Verdi</persName> und bei aller Werthschätzung des gefeierten Komponisten darauf
+				aufmerksam gemacht, daß der Gedanke der aus den verschiedenen Ecken ertönenden und
+				dann in Eins zusammenströmenden Posaunen zuerst von <persName ref="#berlioz.hector"
+					>Berlioz</persName> in dessen Requiem ausgeführt worden sei und daß die
+				Priorität der Idee dem Geiste des französischen Romantikers zukomme. Ohne auf diese
+				Kontroverse näher einzugehen, sei nur bemerkt, daß <persName ref="#berlioz.hector"
+					>Berlioz</persName> für jede Art seiner Bläser und in jede Ecke seines
+				Orchesters einen ganzen Chor von Posaunisten haben wollte und einmal auch wirklich
+				aufstellte. — Aus dem „<hi rend="antiqua"><title ref="#verdi.requiem.2.recordare"
+						>Recordare</title></hi>“, für Sopran und Mezzosopran, spricht der
+				dramatische Dichter sehr energisch, hier hat sich der geistliche Sänger, der
+				Opernkomponist, sterblich gezeigt. Aber, <cb break="yes" n="2b" type="regular"/>
+				ach! wie schön, wie innig und ergreifend klingt diese schwache Sterblichkeit. — Wenn
+				die Stelle von den himmlischen Posaunen am gewaltigsten packt, so ist’s das „<hi
+					rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>“, das am
+				tiefsten rührt. Jenes regt die Schrecken auf, dieses erschließt die Thränen und
+				diesem naiven und wahren Erguß der geläuterten Seele vermag wohl selten ein Auge zu
+				widerstehen. — Allerdings muß dieses „<hi rend="antiqua"><title
+						ref="#verdi.requiem.5">Agnus</title></hi>“ von zwei so himmlischen Stimmen
+				gesungen werden, wie sie bei der Generalprobe zum ersten und gestern zum zweiten
+				Male an unser Ohr geschlagen. Die Stimme der <persName ref="#stolz.teresa">Theresa
+						<hi rend="widespace">Stol<surplus resp="tr">t</surplus>z</hi></persName>
+				klingt geradezu berauschend, und wenn man sich die Engel, womit <persName
+					ref="#sanzio.rafaello">Rafael</persName> die Jungfrau Maria umschweben läßt,
+				singend denken könnte, so müßten sie den Zauber dieser Stimme haben. Man ringt
+				vergebens nach einem Ausdruck, der solchen Gesang genau und zutreffend bezeichnet
+				und schließt sich gerne dem Ausspruche eines bekannten Komponisten und bekannteren
+				Musikschriftstellers an, der sagt: „Ihre Stimme, die sich eben in die Tiefe des
+				Abgrundes verloren, erscheint plötzlich wieder unter den Sternen; Du folgst ihr
+				bewegt, entzückt, denn Du weißt, daß in ihr das Wort des Meisters wohnt und daß sie
+				nicht straucheln wird.“<note resp="tr" type="textLink">Vgl. <persName
+						ref="#blaze.henri">Henri Blaze</persName>, <ref target="rddm_1875-05-01.xml"
+						type="text">Revue des deux mondes, Paris, 1. Mai 1875</ref>: »Sa voix, qui
+					vient de se perdre dans les profondeurs de l’abime, reparaît soudain parmi les
+					astres; vous a suivez ému, ravi, car vous savez qu’en elle est la parole du
+					maître, et qu’elle ne fallira pas«; vgl. auch <ref
+						target="amz_1875-07-28_paris.xml" type="text">AmZ, Leipzig, 21. Juli/4.
+						August 1874</ref>.</note> Wenn nun <persName ref="#stolz.teresa">Theresa
+						Stol<surplus resp="tr">t</surplus>z</persName> der „Silberblick“ ist, so ist
+					<persName ref="#waldmann.maria">Marie <hi rend="widespace"
+					>Waldmann</hi></persName> die mächtige Resonanz, die Majestät des Kontre-Alt,
+				die sich mit einem schön pathetischen Vortrage verbindet. Wenn man solche Stimmen
+				mit solcher Schule hört, so mag noch lange nicht an den Untergang des Kunstgesanges
+				gedacht werden, vorausgesetzt, daß sich solche Stimmen nicht an unsangbarster
+				Deklamation zermartern müssen. — Herr <hi rend="widespace"><persName
+						ref="#masini.angelo">Masini</persName></hi> ist ein Meister des <hi
+					rend="antiqua">bel canto</hi>, ein Sänger, in dessen Munde jede Phrase, jedes
+				Wort zur natürlichsten und gerundetsten Entfaltung gelangt. Man glaubt oft, dieser
+				Künstler spreche nur, so leicht, so fließend ist dessen Vortrag, aber eben alles,
+				was er spricht, ist Ton und Gesang. — Die Baßstimme des Herrn <hi rend="widespace"
+						><persName ref="#medini.paolo">Medini</persName></hi> ist nicht so voll und
+				markig, wie man sich die<cb break="no" n="2c" type="regular"/>selbe bei uns zu
+				denken pflegt, aber in der Höhe schlägt sie sehr leicht an und wird von einem
+				durchsichtigen und schlichten Vortrag gehoben.</p>
+			<p>Das Interesse, das unser Publikum der geistlichen Dichtung <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
+				<rs ref="#wien.1875.1" type="event"><date>am gestrigen Abende</date></rs> entgegen
+				brachte, war ein äußerst warmes und enthusiastisches. Bei seinem Erscheinen inmitten
+				des Orchesters und Chores und an der Spitze seines auserlesenen Quartetts stürmisch
+				empfangen, reihte sich für <persName ref="#verdi.giuseppe">Verdi</persName> im Laufe
+				des Abends eine Ovation an die nächste und der folgende Sturm übertäubte stets den
+				vorangehenden. Es war dies ein italienischer Abend in der heißesten,
+				unersättlichsten Bedeutung des Wortes. Von den verschiedenen Abtheilungen des Werkes
+				kamen nicht weniger als drei zur Wiederholung, das „<hi rend="antiqua"><title
+						ref="#verdi.requiem.2.recordare">Recordare, Jesu pie</title></hi>“, Duett
+				der beiden Damen, das „<title ref="#verdi.requiem.3">Offertorium-Quartett</title>“
+				und das „<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>.“
+				Wäre es übrigens der Begeisterungsgluth der vielen Italiener nachgegangen, so wäre
+				jede einzelne Nummer zur Repetition gekommen. Daß nächst dem Komponisten das
+				Soloquartett der Mittelpunkt aller Auszeichnungen war, bedarf wohl keiner speziellen
+				Betonung. Die Damen <hi rend="widespace"><persName ref="#stolz.teresa">Stol<surplus
+							resp="tr">t</surplus>z</persName></hi> und <hi rend="widespace"
+						><persName ref="#waldmann.maria">Waldmann</persName></hi> erinnerten mit
+				ihren Triumphen an die einstigen Glanzzeiten der italienischen Opernstagionen. Herr
+					<hi rend="widespace"><persName ref="#masini.angelo">Masini</persName></hi>
+				bestach vornehmlich mit seinem an die Aida erinnernden Solo: „<hi rend="antiqua"
+						><title ref="#verdi.requiem.2.ingemisco">Ingemisco</title></hi>“ und Herr
+					<hi rend="widespace"><persName ref="#medini.paolo">Medini</persName></hi>
+				erregte mit dem „<hi rend="antiqua"><title ref="#verdi.requiem.2.confutatis"
+						>Confutatis</title></hi><choice>
+					<orig>‘</orig>
+					<corr resp="tr">“</corr>
+				</choice> einige Aufmerksamkeit. Die Chöre gingen mit Präzision und Feuer, und das
+				sorgfältige Studium ging namentlich aus der Fuge des <hi rend="antiqua"><title
+						ref="#verdi.requiem.4">Sanctus</title></hi> und aus dem <hi rend="antiqua"
+						><title ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi> hervor.</p>
+			<p>Und so hätte denn das <title ref="#verdi.requiem">Manzoni-Requiem</title> auch bei
+				uns seine Probe bestanden und glänzend bestanden. Der Streit über seinen inneren
+				Werth wird damit wohl auch noch nicht entschieden sein, darin ist jedoch das
+				musikalische <placeName ref="#wien">Wien</placeName> einig geworden, daß die
+				Dichtung vollkommen das ist, was sie sein will, eine erhebende Klage, ein echtes
+				Requiem.</p>
+			<p rend="right"><persName ref="#frey.wilhelm">Wilh. <hi rend="widespace"
+					>Frey</hi></persName></p>
+		</body>
+	</text>
 </TEI>

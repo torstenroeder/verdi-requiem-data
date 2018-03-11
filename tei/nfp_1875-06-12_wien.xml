@@ -1,43 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 12. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-12_hofoperntheater.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#neue-freie-presse" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-12" when-custom="sat"/>
-				<biblScope unit="issue">3877</biblScope><biblScope unit="subIssue">3877</biblScope><series>nfp</series>
-				<biblScope unit="page">6</biblScope>
-				<link facs="nfp_1875-06-12_6.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750612&amp;seite=6"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/><date when-iso="1875-06-11"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="6c" type="initial"/>
-		<head rend="larger">Theater- und Kunstnachrichten.</head>
-		<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date when-iso="1875-06-11">11. Juni</date>.</p>
-		<p>[<hi rend="widespace"><placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName></hi>.]
-			Gleich bei seinem Erscheinen am Dirigentenpulte wurde <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> von einem Beifallssturme empfangen,
-			welcher für den Verlauf des heutigen Abends von bester Vorbedeutung war. Die <rs type="event" ref="#wien.1875.1">Aufführung des in diesen Tagen so viel genannten <hi rend="widespace"><title ref="#verdi.requiem">Requiems</title></hi></rs> ging
-			denn auch in glänzender Weise von statten. Jedermann weiß, was unser Opernorchester, was
-			unser Opernchor (diesmal durch den <orgName ref="#wien.akademischer-gesangverein">Akademischen Gesangverein</orgName> verstärkt) zu leisten vermag; neugierig war man
-			also zumeist auf das Solisten-Quartett, welches, vom Meister persönlich gedrillt, die
-			Executirung des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
-			<title ref="#verdi.requiem">Requiems</title> für beide Hemisphären in Pacht genommen hat.
-			Die Damen <persName ref="#stolz.teresa" role="soloist.soprano">Theresa <hi rend="widespace">Stolz</hi></persName> und <persName ref="#waldmann.maria" role="soloist.mezzo">Marie
-					<hi rend="widespace">Waldmann</hi></persName> möchten wir einmal in voller
-			dramatischer Wirksamkeit, in einer Oper, hören — wir wissen von ihrem Talente kein
-			besseres Lob zu sagen. Die <persName ref="#stolz.teresa" role="soloist.soprano">Stolz</persName> besitzt einen Sopran, wie er nachgerade zu den Seltenheiten zählt,
-			und die angenehme, zwischen Mezzosopran und Contra-Alt schwankede Stimme der <persName ref="#waldmann.maria" role="soloist.mezzo">Waldmann</persName> kann man nicht satt
-			hören. Nicht minder Gutes haben wir von dem Tenor <hi rend="widespace"><persName ref="#masini.angelo" role="soloist.tenor">Masini</persName></hi> und von dem
-			Bassisten <hi rend="widespace"><persName ref="#medini.paolo" role="soloist.basso">Medini</persName></hi> zu melden; ein verunglücktes hohes <hi rend="antiqua">B</hi><note resp="tr" type="musicLink">Wahrscheinlich in <title ref="#verdi.requiem.2.rex-tremendae" n="salva-me">Salva me</title>, Takt 365.</note>
-			des einen und einige zweifelhafte Intonirungen des Andern rechnen wir zu jenen
-			Zufälligkeiten, welche nichts beweisen und dem besten Sänger passiren können. Ueber das
-			Werk selbst werden wir uns morgen des Näheren aussprechen. Für heute registriren wir nur
-			den äußeren Erfolg, der sich am ausdrucksvollsten in den massenhaften da capo-Rufen
-			darstellte. Wiederholt mußte werden: ein Sopranduett <hi rend="antiqua"><title ref="#verdi.requiem.2.recordare">„Recordare, Jesu pie“</title></hi>, ein
-			vierstimmiges <title ref="#verdi.requiem.3">Offertorium</title> und das eigenthümliche,
-			durchweg <hi rend="antiqua">unisono</hi> gehaltene <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>. Hätte man den Enthusiasten des
-			Parterres ihren Willen gelassen, so wäre jede Nummer doppelt zum Vortrag gekommen. Am
-			wildesten tobten diese Herren während der Pause, welche man zwischen einem <title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title> und dem <title ref="#verdi.requiem.3">Offertorium</title> in die Messe eingeschoben hatte. Für <persName ref="#verdi.giuseppe">Verdi</persName> waren dies Augenblicke des Triumphes; er wurde
-			unzähligemal gerufen und in einer Weise beklatscht, wie es nur unter heißblütigen
-			Südländern Brauch und Sitte ist. Die Italiener gebrauchen in solchen Fällen den
-			Superlativ <hi rend="antiqua">applauditissimo</hi>. Derselbe scheint beinahe zu schwach
-			für <persName ref="#verdi.giuseppe">Verdi’s</persName> heutigen Erfolg.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Freie Presse, Wien, 12. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nfp_1875-06-12_hofoperntheater.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neue-freie-presse" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="sat" when-iso="1875-06-12"/>
+					<biblScope unit="issue">3877</biblScope>
+					<biblScope unit="subIssue">3877</biblScope>
+					<series>nfp</series>
+					<biblScope unit="page">6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/><date when-iso="1875-06-11"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nfp_1875-06-12_6.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750612&amp;seite=6"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="6c" type="initial"/>
+			<head rend="larger">Theater- und Kunstnachrichten.</head>
+			<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date
+					when-iso="1875-06-11">11. Juni</date>.</p>
+			<p>[<hi rend="widespace"><placeName ref="#wien.hof-operntheater"
+						>Hofoperntheater</placeName></hi>.] Gleich bei seinem Erscheinen am
+				Dirigentenpulte wurde <hi rend="widespace"><persName ref="#verdi.giuseppe"
+						>Verdi</persName></hi> von einem Beifallssturme empfangen, welcher für den
+				Verlauf des heutigen Abends von bester Vorbedeutung war. Die <rs ref="#wien.1875.1"
+					type="event">Aufführung des in diesen Tagen so viel genannten <hi
+						rend="widespace"><title ref="#verdi.requiem">Requiems</title></hi></rs> ging
+				denn auch in glänzender Weise von statten. Jedermann weiß, was unser Opernorchester,
+				was unser Opernchor (diesmal durch den <orgName
+					ref="#wien.akademischer-gesangverein">Akademischen Gesangverein</orgName>
+				verstärkt) zu leisten vermag; neugierig war man also zumeist auf das
+				Solisten-Quartett, welches, vom Meister persönlich gedrillt, die Executirung des
+					<persName ref="#verdi.giuseppe">Verdi’schen</persName>
+				<title ref="#verdi.requiem">Requiems</title> für beide Hemisphären in Pacht genommen
+				hat. Die Damen <persName ref="#stolz.teresa" role="soloist.soprano">Theresa <hi
+						rend="widespace">Stolz</hi></persName> und <persName ref="#waldmann.maria"
+					role="soloist.mezzo">Marie <hi rend="widespace">Waldmann</hi></persName> möchten
+				wir einmal in voller dramatischer Wirksamkeit, in einer Oper, hören — wir wissen von
+				ihrem Talente kein besseres Lob zu sagen. Die <persName ref="#stolz.teresa"
+					role="soloist.soprano">Stolz</persName> besitzt einen Sopran, wie er nachgerade
+				zu den Seltenheiten zählt, und die angenehme, zwischen Mezzosopran und Contra-Alt
+				schwankede Stimme der <persName ref="#waldmann.maria" role="soloist.mezzo"
+					>Waldmann</persName> kann man nicht satt hören. Nicht minder Gutes haben wir von
+				dem Tenor <hi rend="widespace"><persName ref="#masini.angelo" role="soloist.tenor"
+						>Masini</persName></hi> und von dem Bassisten <hi rend="widespace"><persName
+						ref="#medini.paolo" role="soloist.basso">Medini</persName></hi> zu melden;
+				ein verunglücktes hohes <hi rend="antiqua">B</hi><note resp="tr" type="musicLink"
+					>Wahrscheinlich in <title n="salva-me" ref="#verdi.requiem.2.rex-tremendae"
+						>Salva me</title>, Takt 365.</note> des einen und einige zweifelhafte
+				Intonirungen des Andern rechnen wir zu jenen Zufälligkeiten, welche nichts beweisen
+				und dem besten Sänger passiren können. Ueber das Werk selbst werden wir uns morgen
+				des Näheren aussprechen. Für heute registriren wir nur den äußeren Erfolg, der sich
+				am ausdrucksvollsten in den massenhaften da capo-Rufen darstellte. Wiederholt mußte
+				werden: ein Sopranduett <hi rend="antiqua"><title ref="#verdi.requiem.2.recordare"
+						>„Recordare, Jesu pie“</title></hi>, ein vierstimmiges <title
+					ref="#verdi.requiem.3">Offertorium</title> und das eigenthümliche, durchweg <hi
+					rend="antiqua">unisono</hi> gehaltene <hi rend="antiqua"><title
+						ref="#verdi.requiem.5">Agnus Dei</title></hi>. Hätte man den Enthusiasten
+				des Parterres ihren Willen gelassen, so wäre jede Nummer doppelt zum Vortrag
+				gekommen. Am wildesten tobten diese Herren während der Pause, welche man zwischen
+				einem <title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title> und dem <title
+					ref="#verdi.requiem.3">Offertorium</title> in die Messe eingeschoben hatte. Für
+					<persName ref="#verdi.giuseppe">Verdi</persName> waren dies Augenblicke des
+				Triumphes; er wurde unzähligemal gerufen und in einer Weise beklatscht, wie es nur
+				unter heißblütigen Südländern Brauch und Sitte ist. Die Italiener gebrauchen in
+				solchen Fällen den Superlativ <hi rend="antiqua">applauditissimo</hi>. Derselbe
+				scheint beinahe zu schwach für <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				heutigen Erfolg.</p>
+		</body>
+	</text>
 </TEI>

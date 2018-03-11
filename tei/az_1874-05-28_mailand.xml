@@ -14,8 +14,8 @@
 					<orgName ref="#allgemeine-zeitung" role="publisher"/>
 					<placeName ref="#augsburg"/>
 					<date when-iso="1874-05-28"/>
-					<biblScope unit="issue">148</biblScope><biblScope unit="subIssue"
-						>148</biblScope>
+					<biblScope unit="issue">148</biblScope>
+					<biblScope unit="subIssue">148</biblScope>
 					<biblScope unit="page">2293–2294</biblScope>
 					<biblScope unit="page">1–2</biblScope>
 				</bibl>
@@ -27,11 +27,9 @@
 					<biblScope unit="page">2351–2352</biblScope>
 					<biblScope unit="page">3–4</biblScope>
 				</bibl>
-				<bibl>
-					<title>Hans von Bülow, Briefe und Schriften, hrsg. v. Marie von Bülow, III.
-						Band: Ausgewählte Schriften 1850–1892, Leipzig: Breitkopf und Härtel, 1896,
-						S. 307ff.</title>
-				</bibl>
+				<bibl>Hans von Bülow, Briefe und Schriften, hrsg. v. Marie von Bülow, III. Band:
+					Ausgewählte Schriften 1850–1892, Leipzig: Breitkopf und Härtel, 1896, S.
+					307ff.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -50,11 +48,11 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="1" type="initial"/>
-			<head rend="larger bold">Musikalisches aus <placeName ref="#italien"
-				>Italien</placeName>.</head>
-			<head>Von Hans v. Bülow.</head>
-			<head>I.</head>
-			<p><hi rend="bold"><g type="ASTERISK" n="002A">*</g>
+			<head rend="bold larger">Musikalisches aus <placeName ref="#italien">Italien</placeName>.</head>
+			<head>Von <hi rend="widespace"><persName ref="#buelow.hans-von">Hans v.
+				Bülow</persName></hi>.</head>
+			<head><hi rend="antiqua">I.</hi></head>
+			<p><hi rend="bold"><g n="002A" type="ASTERISK">*</g>
 					<placeName ref="#mailand">Mailand</placeName>,</hi>
 				<date when-iso="1874-05-21">21. Mai</date>. Die rasche Aufeinanderfolge zweier
 				musikalischen Ereignisse, denen man eine mehr als nur locale, auch mehr als nur
@@ -78,10 +76,10 @@
 					Reiches</placeName>, in dessen sämmtlichen operfähigen Städten es sich seit 35
 				Jahren mit Recht einer Popularität erfreut der in Deutschland nur die von <persName
 					ref="#weber.carl-maria-von">Webers</persName> „<title ref="#weber.freischuetz"
-					>Freischütz</title>“ an die Seite gestellt werden kann. <rs type="event"
-					ref="#mailand.1874.1">Das zweite wird die morgen Vormittags in der hierfür
-					theatralisch hergerichteten Kirche <placeName ref="#mailand.san-marco">San
-						Marco</placeName> vom Autor, Senator <persName ref="#verdi.giuseppe"
+					>Freischütz</title>“ an die Seite gestellt werden kann. <rs
+					ref="#mailand.1874.1" type="event">Das zweite wird die morgen Vormittags in der
+					hierfür theatralisch hergerichteten Kirche <placeName ref="#mailand.san-marco"
+						>San Marco</placeName> vom Autor, Senator <persName ref="#verdi.giuseppe"
 						>Giuseppe Verdi</persName>, ausnahmsweise selbst geleitete
 					Monstre-Aufführung seines im Auftrage der Stadtbehörden zur Feier der ersten
 					Wiederkehr von <persName ref="#manzoni.alessandro">Alessandro
@@ -122,21 +120,21 @@
 				Styl über den ein witziger Gesanglehrer an der Donau äußerte: daß „derselbe sich
 				sehr zu seinem Nachtheil verbessert habe.“<note resp="tr" type="textLink">Vgl.
 						<persName ref="#kulke.eduard">Eduard Kulke</persName>, Besprechung der
-						<title ref="#verdi.aida">Aida</title>, <ref type="text"
+						<title ref="#verdi.aida">Aida</title>, <ref
 						target="http://anno.onb.ac.at/cgi-content/anno?aid=vtl&amp;datum=18740501&amp;seite=1"
-						>Das Vaterland, Wien, 1. Mai 1874, S. 1–2</ref>: »Verdi hat hier wirklich
-					eine neue Bahn betreten, ob zu seinem Vortheil oder Nachtheil, dies wird wohl
-					sehr verschiedentlich beantwortet werden, je nach dem Standpunct, dem Geschmack
-					und den Neigungen des Hörers.«</note> Auch fiel uns im Verlaufe der Lectüre des
-				ziemlich umfangreichen Clavier-Auszugs unwillkürlich jenes naive Geständniß des
-				seligen <persName ref="#gyrowetz.adalbert">Gyrowetz</persName> ein, welcher, seitdem
-				ihn Phantasie und Erfindung verlassen, seine Notenfeder nur noch dem Dienste der
-				Kirche, nicht mehr dem des Theaters, zu widmen sich fähig erklärte. Endlich hat uns
-				aber das traurige Schauspiel der Niederlage slavischer Cultur (vom musikalischen
-				Standpunkte könnten wir ebenso gut deutscher Cultur sagen) am gestrigen Abend außer
-				Stand gesetzt kalten Blutes einem — noch dazu künstlich arrangirten — Triumphe
-				romanischer Barbarei anzuwohnen. Hoffentlich wird <persName ref="#verdi.giuseppe"
-					>Verdi’s</persName>
+						type="text">Das Vaterland, Wien, 1. Mai 1874, S. 1–2</ref>: »Verdi hat hier
+					wirklich eine neue Bahn betreten, ob zu seinem Vortheil oder Nachtheil, dies
+					wird wohl sehr verschiedentlich beantwortet werden, je nach dem Standpunct, dem
+					Geschmack und den Neigungen des Hörers.«</note> Auch fiel uns im Verlaufe der
+				Lectüre des ziemlich umfangreichen Clavier-Auszugs unwillkürlich jenes naive
+				Geständniß des seligen <persName ref="#gyrowetz.adalbert">Gyrowetz</persName> ein,
+				welcher, seitdem ihn Phantasie und Erfindung verlassen, seine Notenfeder nur noch
+				dem Dienste der Kirche, nicht mehr dem des Theaters, zu widmen sich fähig erklärte.
+				Endlich hat uns aber das traurige Schauspiel der Niederlage slavischer Cultur (vom
+				musikalischen Standpunkte könnten wir ebenso gut deutscher Cultur sagen) am
+				gestrigen Abend außer Stand gesetzt kalten Blutes einem — noch dazu künstlich
+				arrangirten — Triumphe romanischer Barbarei anzuwohnen. Hoffentlich wird <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> in <placeName ref="#paris"
 					>Paris</placeName> sicher vor den Werbungen deutscher Theater-Intendanten
 				bleiben, welche auch in rein geschäftlichem Interesse wohl daran thun würden, ihre

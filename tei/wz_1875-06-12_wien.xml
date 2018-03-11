@@ -13,15 +13,11 @@
 				<bibl>
 					<orgName ref="#wiener-zeitung" role="publisher"/>
 					<placeName ref="#wien"/>
-					<date when-iso="1875-06-12" when-custom="sat"/>
-					<biblScope unit="issue">132</biblScope><biblScope unit="subIssue"
-						>132</biblScope><series>wz</series>
+					<date when-custom="sat" when-iso="1875-06-12"/>
+					<biblScope unit="issue">132</biblScope>
+					<biblScope unit="subIssue">132</biblScope>
+					<series>wz</series>
 					<biblScope unit="page">3–4</biblScope>
-					<link facs="wap_1875-06-12_3.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750612&amp;seite=13"/>
-					<link facs="wap_1875-06-12_4.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750612&amp;seite=14"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,11 +34,17 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="wap_1875-06-12_3.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750612&amp;seite=13"/>
+		<graphic n="wap_1875-06-12_4.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750612&amp;seite=14"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title>.</head>
-			<head rend="smaller"><rs type="event" ref="#wien.1875.1">Aufführung im <placeName
+			<head rend="smaller"><rs ref="#wien.1875.1" type="event">Aufführung im <placeName
 						ref="#wien.hof-operntheater">k. k. Hofoperntheater</placeName>.</rs></head>
 			<p>Die <hi rend="antiqua"><title ref="#verdi.requiem">Missa pro defunctis</title></hi>,
 				mit welcher <persName ref="#verdi.giuseppe">Verdi</persName> und durch ihn Italien
@@ -128,17 +130,17 @@
 				Hauptwerke in diesem Sinne verstehen. Als uns das <title ref="#verdi.requiem"
 					>Requiem</title> endlich Schwarz auf Weiß in der eleganten Ricordi’schen Ausgabe
 				vorlag, lasen wir, staunten wir. Durchweg ein meisterhafter polyphoner Satz! Und
-				hinwiederum bei der Stelle: „<title ref="#verdi.requiem.2.confutatis" n="oro-supplex"
-					>oro supplex et acclinis</title>“ mit handgreiflicher Tendenz hingeschriebene
-				Parallelquinten, über welche <persName ref="#sechter.simon">Simon Sechter</persName>
-				sterben würde, wäre er nicht schon todt, und bei welchen uns war, als hörten wir
-					<persName ref="#verdi.giuseppe">Verdi</persName> sprechen: „Ihr alten
-				Schulfüchse, sehet, daß ich — schlaget im „<title ref="#verdi.requiem.4"
-					>Sanctus</title>“ nach — eine Doppelfuge schreiben kann, sogar achtstimmig, vor
-				welcher ihr Respect haben müßt. Wie viel ich mich aber um eure Regeln kümmere, das
-				sehet hier selbst: <hi rend="antiqua">gis, fis, e / cis, h,
-				a</hi><!--*LAYOUT zweizeililg--> u. s. w.“ Wir sind musikalisch so ziemlich liberal,
-				aber beim Anblick dieser Stelle wurden wir doch, was man in Italien <hi
+				hinwiederum bei der Stelle: „<title n="oro-supplex"
+					ref="#verdi.requiem.2.confutatis">oro supplex et acclinis</title>“ mit
+				handgreiflicher Tendenz hingeschriebene Parallelquinten, über welche <persName
+					ref="#sechter.simon">Simon Sechter</persName> sterben würde, wäre er nicht schon
+				todt, und bei welchen uns war, als hörten wir <persName ref="#verdi.giuseppe"
+					>Verdi</persName> sprechen: „Ihr alten Schulfüchse, sehet, daß ich — schlaget im
+					„<title ref="#verdi.requiem.4">Sanctus</title>“ nach — eine Doppelfuge schreiben
+				kann, sogar achtstimmig, vor welcher ihr Respect haben müßt. Wie viel ich mich aber
+				um eure Regeln kümmere, das sehet hier selbst: <hi rend="antiqua">gis, fis, e / cis,
+					h, a</hi><!--*LAYOUT zweizeililg--> u. s. w.“ Wir sind musikalisch so ziemlich
+				liberal, aber beim Anblick dieser Stelle wurden wir doch, was man in Italien <hi
 					rend="antiqua" xml:lang="it">stordito</hi> oder <hi rend="antiqua" xml:lang="it"
 					>sbalordito</hi><note resp="tr" type="quoteLink">Ital. »bestürzt«,
 					»verblüfft«.</note> nennt. Endlich haben wir die Composition auch gehört. Sollen
@@ -301,24 +303,25 @@
 					<title ref="#mozart.requiem">Requiem</title> — eine Verwandtschaft, welche
 				bekanntlich <persName ref="#jahn.otto">Otto Jahn</persName> so schön und geistvoll
 				nachzuweisen verstanden hat.<note resp="tr" type="literatureLink">Vgl. <persName
-						ref="#jahn.otto">Otto Jahn</persName>, <ref type="text"
-						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA737">W. A.
-						Mozart, 4. Theil (Leipzig 1859), S. 736, Anm. 87</ref>.</note> Daß <persName
-					ref="#verdi.giuseppe">Verdi</persName> sein <title ref="#verdi.requiem"
-					>Requiem</title> mit allem Glanz moderner Orchestration ausgestattet, darf man
-				ihm bei der Fülle und Menge der bezauberndsten, ganz neuen Klangmischungen wahrlich
-				nicht zum Vorwurf machen. Am stärksten sind die Farben, wie natürlich, im „<title
-					ref="#verdi.requiem.2.dies-irae">dies irae</title>“ aufgetragen, aber wenn
-				Himmel und Erde zusammenbrechen, kann es doch wohl nicht klingen, als lasse der
-				Bediente einen Teller fallen. Der Einfall mit den aus den vier Weltecken blasenden
-				Posaunen (beziehungsweise Blechinstrumenten überhaupt) gehört <persName
-					ref="#berlioz.hector">Berlioz</persName> an, <persName ref="#verdi.giuseppe"
-					>Verdi</persName> hat ihn neu und überaus wirksam verwerthet. Die „Gran Cassa“
-				ist dabei so gut, fast möchte man sagen so klug-bescheiden und mit so überraschender
-				Wirkung verwendet, daß sie uns weit zulässiger scheinen will als der berühmte
-				Tamtam-Schlag, mit welchem <persName ref="#cherubini.luigi">Cherubini</persName> das
-				Schlagen der Todesstunde der Welt etwas gar zu nachdrücklich malt. Wenn wir sagen
-				müssen, daß <persName ref="#verdi.giuseppe">Verdi’s</persName>
+						ref="#jahn.otto">Otto Jahn</persName>, <ref
+						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA737"
+						type="text">W. A. Mozart, 4. Theil (Leipzig 1859), S. 736, Anm.
+					87</ref>.</note> Daß <persName ref="#verdi.giuseppe">Verdi</persName> sein
+					<title ref="#verdi.requiem">Requiem</title> mit allem Glanz moderner
+				Orchestration ausgestattet, darf man ihm bei der Fülle und Menge der bezauberndsten,
+				ganz neuen Klangmischungen wahrlich nicht zum Vorwurf machen. Am stärksten sind die
+				Farben, wie natürlich, im „<title ref="#verdi.requiem.2.dies-irae">dies
+				irae</title>“ aufgetragen, aber wenn Himmel und Erde zusammenbrechen, kann es doch
+				wohl nicht klingen, als lasse der Bediente einen Teller fallen. Der Einfall mit den
+				aus den vier Weltecken blasenden Posaunen (beziehungsweise Blechinstrumenten
+				überhaupt) gehört <persName ref="#berlioz.hector">Berlioz</persName> an, <persName
+					ref="#verdi.giuseppe">Verdi</persName> hat ihn neu und überaus wirksam
+				verwerthet. Die „Gran Cassa“ ist dabei so gut, fast möchte man sagen so
+				klug-bescheiden und mit so überraschender Wirkung verwendet, daß sie uns weit
+				zulässiger scheinen will als der berühmte Tamtam-Schlag, mit welchem <persName
+					ref="#cherubini.luigi">Cherubini</persName> das Schlagen der Todesstunde der
+				Welt etwas gar zu nachdrücklich malt. Wenn wir sagen müssen, daß <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> sich gleich gut in der Kirche wie im
 				Concertsaal ausnimmt und daß sich dabei eben so gut beten wie darnach applaudiren
 				läßt, so ist das ein beneidenswerthes <hi rend="antiqua" xml:lang="la">omne tulit
@@ -336,15 +339,16 @@
 					>Michel-Angelo</persName> die Stanzen Raphaels im Vatican erblickte, soll er
 				ausgerufen haben: „<persName ref="#sanzio.rafaello">Sanzio</persName> war in der
 					<placeName ref="#rom.sixtinische-kapelle">sixtinischen Capelle</placeName>.“
-				Beim „<title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet hymnus</title>“ fühlt
-				man sich versucht, auszurufen: „<persName ref="#verdi.giuseppe">Verdi</persName> war
-				in der <placeName ref="#rom.sixtinische-kapelle">sixtinischen Capelle</placeName>!“
-				Die merkwürdige schauerliche Stelle: „<title
-					ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">mors stupebit et natura</title>“
-				überhörte man nicht. Es sind so wenige Compositionen, welche diesem ungeheuren Bilde
-				gerecht werden! Frappant wirken bei <persName ref="#verdi.giuseppe">Verdi</persName>
-				die nachschlagenden Pulse — ein Klangeffect, den er (der Erste) in glücklicher Weise
-				aus <persName ref="#beethoven.ludwig-van">Beethovens</persName>
+				Beim „<title n="te-decet-hymnus" ref="#verdi.requiem.1">Te decet hymnus</title>“
+				fühlt man sich versucht, auszurufen: „<persName ref="#verdi.giuseppe"
+					>Verdi</persName> war in der <placeName ref="#rom.sixtinische-kapelle"
+					>sixtinischen Capelle</placeName>!“ Die merkwürdige schauerliche Stelle: „<title
+					n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">mors stupebit et
+					natura</title>“ überhörte man nicht. Es sind so wenige Compositionen, welche
+				diesem ungeheuren Bilde gerecht werden! Frappant wirken bei <persName
+					ref="#verdi.giuseppe">Verdi</persName> die nachschlagenden Pulse — ein
+				Klangeffect, den er (der Erste) in glücklicher Weise aus <persName
+					ref="#beethoven.ludwig-van">Beethovens</persName>
 				<title ref="#beethoven.symphonie-9">neunter Symphonie</title> herübergenommen. Wir
 				würden gar nicht fertig, wollten wir auf alle einzelnen Schönheiten mit Fingern
 				deuten — es ist auch gar nicht nöthig. Das wundervolle Duo „<title
@@ -355,18 +359,18 @@
 				beiden Frauenstimmen durchdringen (man kann nicht sagen: accompagniren) — und andere
 				Details stellen das Werk auf eine Höhe, von der es mißwollende Kritik nimmermehr
 				herunterwerfen wird, und wenn <persName ref="#buelow.hans-von">Hans v.
-					Bülow</persName> nach der <rs type="event" ref="#mailand.1874.1"><placeName
+					Bülow</persName> nach der <rs ref="#mailand.1874.1" type="event"><placeName
 						ref="#mailand">Mailänder</placeName> Aufführung</rs> das Werk sehr „von oben
-				herab“ anerkennend behandelte<note resp="tr" type="textLink">Vgl. <ref type="text"
-						target="az_1874-05-28_mailand.xml">Allgemeine Zeitung, Augsburg, 28. Mai
-						1874</ref>.</note>, so kann <persName ref="#verdi.giuseppe">Verdi</persName>
-				dazu lächeln, — wir versprechen, ihm lächeln zu helfen. Aber auch mit blind
-				enthusiastischen Explosionen wird dem Meister nicht gedient sein. Wir lasen
-				kürzlich: „<persName ref="#verdi.giuseppe">Verdi’s</persName>
+				herab“ anerkennend behandelte<note resp="tr" type="textLink">Vgl. <ref
+						target="az_1874-05-28_mailand.xml" type="text">Allgemeine Zeitung, Augsburg,
+						28. Mai 1874</ref>.</note>, so kann <persName ref="#verdi.giuseppe"
+					>Verdi</persName> dazu lächeln, — wir versprechen, ihm lächeln zu helfen. Aber
+				auch mit blind enthusiastischen Explosionen wird dem Meister nicht gedient sein. Wir
+				lasen kürzlich: „<persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> ist die größte Tonschöpfung des
-					Jahrhunderts.“<note resp="tr" type="textLink">Vgl. <ref type="text"
-						target="iwe_1875-06-10_die-manzoni-messe-verdis.xml">Illustrirtes Wiener
-						Extrablatt, 10. Juni 1875</ref>.</note></p>
+					Jahrhunderts.“<note resp="tr" type="textLink">Vgl. <ref
+						target="iwe_1875-06-10_die-manzoni-messe-verdis.xml" type="text"
+						>Illustrirtes Wiener Extrablatt, 10. Juni 1875</ref>.</note></p>
 			<p>Erinnern wir uns nun, daß in diesem Jahrhundert einige Kleinigkeiten componirt
 				worden, wie die neun Symphonien <persName ref="#beethoven.ludwig-van"
 					>Beethovens</persName> und dessen „<title ref="#beethoven.fidelio"
@@ -375,23 +379,23 @@
 				lebensgefährlicher Weise zu viel Pulver geladen ist. Wir sind nicht blind — daß das
 				Werk seine schwächeren Partien hat. Man braucht kein Pedant zu sein, um die vorhin
 				erwähnten Parallelquinten<note resp="tr" type="musicLink">Siehe <title
-						ref="#verdi.requiem.2.confutatis" n="oro-supplex">Oro supplex</title>.</note>,
-				welche jeder musikalische ABC-Schütze ganz leicht corrigiren könnte, für eine
-				unmotivirte Marotte und für einen Effect zu erklären, der sehr peinlich klingt, — es
-				hilft nicht, daß die erste Violine nur als „Verdopplung“ des Solo-Basses auftritt —
-				es klingt schlecht und verdirbt die sonst so schöne Nummer. Möge <persName
-					ref="#verdi.giuseppe">Verdi</persName> sich hier ein „Pentimento“<note resp="tr"
-					type="quoteLink">Ital. »Reue« oder auch »Meinungsänderung«.</note> nicht
-				verdrießen lassen! Hat er doch an Stelle der (übrigens respectablen) Fuge: „<title
-					ref="#verdi.requiem.2.liber-scriptus.1874">liber scriptus</title>“ dermal mit
-				vortrefflicher Wirkung eine breit angelegte <title
-					ref="#verdi.requiem.2.liber-scriptus">Alt-Arie</title> gesetzt — bei welcher das
-				stellenweise dazwischen geflüsterte, ängstliche „dies iræ, dies illa“ des Chores
-				wieder von größter, echt dramatischer, wohlmotivirender Wirkung ist. Das „<title
-					ref="#verdi.requiem.3" n="quam-olim-abrahae">quam olim Abrahæ</title>“ hat <persName
-					ref="#verdi.giuseppe">Verdi</persName> ziemlich so abgefertigt, als habe er
-				damit nur fertig werden wollen; das chromatisch absteigende Motiv nimmt sich nicht
-				eben gut aus und die Sequenz-Harmonien auf einem in regelmäßigen Schritten
+						n="oro-supplex" ref="#verdi.requiem.2.confutatis">Oro
+					supplex</title>.</note>, welche jeder musikalische ABC-Schütze ganz leicht
+				corrigiren könnte, für eine unmotivirte Marotte und für einen Effect zu erklären,
+				der sehr peinlich klingt, — es hilft nicht, daß die erste Violine nur als
+				„Verdopplung“ des Solo-Basses auftritt — es klingt schlecht und verdirbt die sonst
+				so schöne Nummer. Möge <persName ref="#verdi.giuseppe">Verdi</persName> sich hier
+				ein „Pentimento“<note resp="tr" type="quoteLink">Ital. »Reue« oder auch
+					»Meinungsänderung«.</note> nicht verdrießen lassen! Hat er doch an Stelle der
+				(übrigens respectablen) Fuge: „<title ref="#verdi.requiem.2.liber-scriptus.1874"
+					>liber scriptus</title>“ dermal mit vortrefflicher Wirkung eine breit angelegte
+					<title ref="#verdi.requiem.2.liber-scriptus">Alt-Arie</title> gesetzt — bei
+				welcher das stellenweise dazwischen geflüsterte, ängstliche „dies iræ, dies illa“
+				des Chores wieder von größter, echt dramatischer, wohlmotivirender Wirkung ist. Das
+					„<title n="quam-olim-abrahae" ref="#verdi.requiem.3">quam olim Abrahæ</title>“
+				hat <persName ref="#verdi.giuseppe">Verdi</persName> ziemlich so abgefertigt, als
+				habe er damit nur fertig werden wollen; das chromatisch absteigende Motiv nimmt sich
+				nicht eben gut aus und die Sequenz-Harmonien auf einem in regelmäßigen Schritten
 				fortschreitenden Grundbaß, wie Lehrer dergleichen Scholaren der Harmonielehre als
 				Pensum aufzugeben pflegen, sind in einem so bedeutenden Werke doch wohl Lückenbüßer.
 				Daß Gott der Herr zu Anfang des „<title ref="#verdi.requiem.4">Sanctus</title>“ so
@@ -413,8 +417,8 @@
 				genialer Zug ist die Episode, wo der Tondichter den Anfang des Tonwerkes, den man
 				dort mit Orchester und Solostimme in C-moll gehört, als fünfstimmigen Vocalsatz in
 				B-moll wiederbringt, das folgende, recitativartige Solo des Soprans: „<title
-					ref="#verdi.requiem.7" key="171-381">Libera me Domine</title>“ u. s. w. auf einem
-				Geigen-Tremolo mag eine analoge Stelle im „<title
+					key="171-381" ref="#verdi.requiem.7">Libera me Domine</title>“ u. s. w. auf
+				einem Geigen-Tremolo mag eine analoge Stelle im „<title
 					ref="#beethoven.missa-solemnis.agnus-dei">Agnus</title>“ der großen <title
 					ref="#beethoven.missa-solemnis">Missa</title>
 				<persName ref="#beethoven.ludwig-van">Beethovens</persName> in Erinnerung
@@ -426,9 +430,9 @@
 					ref="#reyer.ernest">Reyer</persName>: „Quelques notes non mesurées dites
 				pianissimo par le soprano et répétées à l’unisson par le chœur, la dernière lueur de
 				la lampr qui s’éteint sous les arceaux d’une cathédrale, voilà comment finit cette
-				belle œuvre.“<note resp="tr" type="textLink">Vgl. <ref type="text"
-						target="jdd_1874-06-1_feuilleton.xml">Journal des Débats, Paris, 14. Juni
-						1874</ref>.</note> Getrost rufen wir nach dem Anhören des <title
+				belle œuvre.“<note resp="tr" type="textLink">Vgl. <ref
+						target="jdd_1874-06-1_feuilleton.xml" type="text">Journal des Débats, Paris,
+						14. Juni 1874</ref>.</note> Getrost rufen wir nach dem Anhören des <title
 					ref="#verdi.requiem">Requiem</title>
 				<persName ref="#verdi.giuseppe">Verdi’s</persName>: „Noch ist das musikalische
 				Italien nicht verloren!“<note resp="tr" type="commentary">Freie Abwandlung von »Noch
@@ -459,15 +463,15 @@
 				„latenter“ Bestandtheil des Programmes in letzterem mit einbegriffen war, ist kaum
 				nöthig zu sagen. Athemlose Stille während der Musik — und nach dem letzten Tact
 				jeder Nummer, wie auf eine gegebenes Signal, ein wahrer Beifallsdonner. Das „<title
-					ref="#verdi.requiem.2.recordare">Recordare</title>“, „<title
-					ref="#verdi.requiem.3" n="hostias">Hostias</title>“ und „<title
-					ref="#verdi.requiem.5">Agnus</title>“ wurden wiederholt. Am liebsten hätte das
-				Publicum das ganze <title ref="#verdi.requiem">Requiem</title> noch ein Mal gehört.
-				Zuletzt ertönten stürmische: „Viva <persName ref="#verdi.giuseppe"
-				>Verdi</persName>!“ Wir stimmen von ganzem Herzen ein; „Viva <persName
-					ref="#verdi.giuseppe">Verdi</persName>!“ und „Vivrà <persName
-					ref="#verdi.giuseppe">Verdi</persName>!“ obend’rein, denn wer so etwas
-				geschaffen, steht mit unter den großen Meistern für alle Zeiten da.</p>
+					ref="#verdi.requiem.2.recordare">Recordare</title>“, „<title n="hostias"
+					ref="#verdi.requiem.3">Hostias</title>“ und „<title ref="#verdi.requiem.5"
+					>Agnus</title>“ wurden wiederholt. Am liebsten hätte das Publicum das ganze
+					<title ref="#verdi.requiem">Requiem</title> noch ein Mal gehört. Zuletzt
+				ertönten stürmische: „Viva <persName ref="#verdi.giuseppe">Verdi</persName>!“ Wir
+				stimmen von ganzem Herzen ein; „Viva <persName ref="#verdi.giuseppe"
+					>Verdi</persName>!“ und „Vivrà <persName ref="#verdi.giuseppe"
+				>Verdi</persName>!“ obend’rein, denn wer so etwas geschaffen, steht mit unter den
+				großen Meistern für alle Zeiten da.</p>
 			<p rend="right"><persName ref="#ambros.august-wilhelm">A. W. <hi rend="widespace"
 						>Ambros</hi></persName>.</p>
 		</body>

@@ -1,27 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 9. Juni 1875 [2]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-09_verdi-und-die-kirche.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#neue-freie-presse" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-09" when-custom="wed"/>
-				<biblScope unit="issue">3874</biblScope><biblScope unit="subIssue">3874</biblScope><series>nfp</series>
-				<biblScope unit="page">5</biblScope>
-				<link facs="nfp_1875-06-09_5.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750609&amp;seite=5"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="5b" type="initial"/>
-		<head rend="larger">Kleine Chronik.</head>
-		<cb break="null" n="5c" type="skipped"/>
-		<p>[<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName> und die Kirche</hi>.]
-				<rs type="event" ref="#wien.1875">Das clericale <placeName ref="#graz">Grazer</placeName> „<orgName ref="#grazer-volksblatt">Volksblatt</orgName>“ klagt über die Aufführung von <persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> im <placeName ref="#wien">Wiener</placeName>
-				<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName></rs> und meint: „Wer
-			wird durch diese <hi rend="widespace">Theater</hi>nachricht erbaut sein? Sollte das
-				<title ref="#verdi.requiem">Requiem</title> später je einmal in einer Kirche aufgeführt
-			werden, so erbarmt uns der Priester, der den Statisten abgibt, und macht jeden Gläubigen
-			der Gedanke traurig, daß die allerheiligste Handlung dazu Gelegenheit bieten muß, um
-			Opernmusik zu Gehör zu bringen.“<note resp="tr" type="textLink">Vgl. <ref type="text" target="gvb_1875-06-08_requiem.xml">Grazer Volksblatt, 8. Juni 1875</ref>.</note>
-			Wir denken, die Kirche hat schon mehr vertragen, als den Verlust einer musikalischen
-			Primeur. Allerdings sollte die Bühne gegen die Kirche, welche in pompösen Aufzügen und
-			effectvoller Inscenirung seit jeher Mustergültiges geleistet hat, dankbarer sein.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Freie Presse, Wien, 9. Juni 1875 [2]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nfp_1875-06-09_verdi-und-die-kirche.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neue-freie-presse" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="wed" when-iso="1875-06-09"/>
+					<biblScope unit="issue">3874</biblScope>
+					<biblScope unit="subIssue">3874</biblScope>
+					<series>nfp</series>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nfp_1875-06-09_5.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750609&amp;seite=5"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="5b" type="initial"/>
+			<head rend="larger">Kleine Chronik.</head>
+			<cb break="null" n="5c" type="skipped"/>
+			<p>[<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName> und die
+					Kirche</hi>.] <rs ref="#wien.1875" type="event">Das clericale <placeName
+						ref="#graz">Grazer</placeName> „<orgName ref="#grazer-volksblatt"
+						>Volksblatt</orgName>“ klagt über die Aufführung von <persName
+						ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> im <placeName ref="#wien"
+						>Wiener</placeName>
+					<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName></rs> und
+				meint: „Wer wird durch diese <hi rend="widespace">Theater</hi>nachricht erbaut sein?
+				Sollte das <title ref="#verdi.requiem">Requiem</title> später je einmal in einer
+				Kirche aufgeführt werden, so erbarmt uns der Priester, der den Statisten abgibt, und
+				macht jeden Gläubigen der Gedanke traurig, daß die allerheiligste Handlung dazu
+				Gelegenheit bieten muß, um Opernmusik zu Gehör zu bringen.“<note resp="tr"
+					type="textLink">Vgl. <ref target="gvb_1875-06-08_requiem.xml" type="text">Grazer
+						Volksblatt, 8. Juni 1875</ref>.</note> Wir denken, die Kirche hat schon mehr
+				vertragen, als den Verlust einer musikalischen Primeur. Allerdings sollte die Bühne
+				gegen die Kirche, welche in pompösen Aufzügen und effectvoller Inscenirung seit
+				jeher Mustergültiges geleistet hat, dankbarer sein.</p>
+		</body>
+	</text>
 </TEI>

@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#die-presse"/>
 					<placeName ref="#wien"/>
-					<date when-iso="1875-10-22" when-custom="fri"/>
-					<biblScope unit="issue">293</biblScope><biblScope unit="volume"
-						>28</biblScope><series>dp</series>
+					<date when-custom="fri" when-iso="1875-10-22"/>
+					<biblScope unit="issue">293</biblScope>
+					<biblScope unit="volume">28</biblScope>
+					<series>dp</series>
 					<biblScope unit="page">10</biblScope>
-					<link facs="dp_1875-10-22_10.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751022&amp;seite=10"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,12 +33,17 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="dp_1875-10-22_10.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751022&amp;seite=10"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<cb n="10b"/>
+			<cb facs="#f1" n="10b"/>
 			<head rend="bold">Theater- und Kunstnachrichten.</head>
 			<cb break="null" n="10c" type="skipped"/>
-			<p>— <rs type="event" ref="#graz.1875">In <hi rend="widespace"><placeName ref="#graz"
+			<p>— <rs ref="#graz.1875" type="event">In <hi rend="widespace"><placeName ref="#graz"
 							>Graz</placeName></hi> bereitet die Direction des Landestheaters
 						<persName ref="#verdi.giuseppe">Verdi’s</persName> „<title
 						ref="#verdi.requiem">Requiem</title>“ für Ende dieses Monats mit sämmtlichen

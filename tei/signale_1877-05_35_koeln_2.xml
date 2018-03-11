@@ -9,19 +9,15 @@
 				<p>http://verdi-requiem.de/text/signale_1877-05_35_koeln-2.xml</p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>
+				<bibl facs="#f1 #f2">
 					<orgName ref="#signale" role="publisher"/>
 					<placeName ref="#leipzig"/>
-					<date cert="low" when-iso="1877-05-30" notAfter-iso="1877-05-30"
-						notBefore-iso="1877-05-23"/>
+					<date cert="low" notAfter-iso="1877-05-30" notBefore-iso="1877-05-23"
+						when-iso="1877-05-30"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach dem Ende des Musikfestes-->
-					<biblScope unit="issue">35</biblScope><biblScope unit="volume">35</biblScope>
+					<biblScope unit="issue">35</biblScope>
+					<biblScope unit="volume">35</biblScope>
 					<biblScope unit="page">553</biblScope>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=554"/>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=559"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,12 +34,21 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=554"
+			xml:id="f1"/>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=559"
+			xml:id="f2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="548" type="initial"/>
-			<head rend="larger">Dur und Moll.</head>
-			<pb break="null" n="553" type="skipped"/>
-			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
+			<gap/>
+			<pb n="553"/>
+			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
 				<hi rend="widespace">Ueber das künstlerische Ergebnis des diesjährigen
 					Niederrheinischen Musikfestes</hi> in <placeName ref="#koeln">Köln</placeName>
 				lauten die Stimmen überwiegend günstig. Unter Leitung <hi rend="antiqua">Dr.</hi>
@@ -58,8 +63,8 @@
 						ref="#ernst.heinrich" role="soloist.tenor">Ernst</persName></hi> und <hi
 					rend="widespace"><persName ref="#henschel.georg" role="soloist.basso">Georg
 						Henschel</persName></hi> (sämmtlich aus <placeName ref="#berlin"
-					>Berlin</placeName>) gleich hervorragenden Antheil hatten. <rs type="event"
-					ref="#koeln.1877.musikfest.2">Den zweiten Festtag leitete <persName
+					>Berlin</placeName>) gleich hervorragenden Antheil hatten. <rs
+					ref="#koeln.1877.musikfest.2" type="event">Den zweiten Festtag leitete <persName
 						ref="#mozart.wolfgang-amadeus">Mozart’s</persName>
 					<title ref="#mozart.die-zauberfloete.ouvertuere">Zauberflöten-Ouvertüre</title>
 					ein, dann trat der Held des Festes, Maestro <persName ref="#verdi.giuseppe"
@@ -72,7 +77,7 @@
 				Werk, das in seinem Verlaufe die Hörer zu begeisterten Beifallsausbrüchen
 				inflammirte und am Schluß selbstverständlich in den schmeichelhaften Ovationen für
 				den Componisten, Uebergabe eines silbernen Lorbeerkranzes mit goldener Schlinge <g
-					type="TIRONIAN_SIGN_ET" n="204A">⁊</g>c. <g type="TIRONIAN_SIGN_ET" n="204A"
+					n="204A" type="TIRONIAN_SIGN_ET">⁊</g>c. <g n="204A" type="TIRONIAN_SIGN_ET"
 					>⁊</g>c., culminirte. Ueber die Auführung selbst war der Maestro des Lobes voll,
 				namentlich wußte er sich nicht anerkennend genug über die Chor- und Orchesterkräfte
 				zu äußern. <persName ref="#beethoven.ludwig-van">Beethoven’s</persName>

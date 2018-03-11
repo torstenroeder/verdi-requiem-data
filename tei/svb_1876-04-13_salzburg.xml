@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#salzburger-volksblatt"/>
 					<placeName ref="#salzburg"/>
-					<date when-iso="1876-04-13" when-custom="thu"/>
-					<biblScope unit="issue">44</biblScope><biblScope unit="volume"
-						>6</biblScope><series>svb</series>
+					<date when-custom="thu" when-iso="1876-04-13"/>
+					<biblScope unit="issue">44</biblScope>
+					<biblScope unit="volume">6</biblScope>
+					<series>svb</series>
 					<biblScope unit="page">2</biblScope>
-					<link facs="svb_1876-04-13_2.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760413&amp;seite=2"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,13 +33,17 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="svb_1876-04-13_2.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760413&amp;seite=2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="2c" type="initial"/>
 			<head rend="larger">Salzburger Nachrichten.</head>
 			<gap resp="tr"/>
-			<p><hi rend="bold"><g type="ASTERISK" n="002A">*</g></hi>
-				<rs type="event" ref="#salzburg.1876.1"><hi rend="bold"><persName
+			<p><hi rend="bold"><g n="002A" type="ASTERISK">*</g></hi>
+				<rs ref="#salzburg.1876.1" type="event"><hi rend="bold"><persName
 							ref="#verdi.giuseppe">Verdi’s</persName>
 						<title ref="#verdi.requiem">Requiem</title></hi> wird definitiv <date
 						when-iso="1876-04-23">Sonntag den 23. April</date> 7 Uhr in der großen <hi

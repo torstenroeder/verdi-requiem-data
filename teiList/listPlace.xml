@@ -441,6 +441,13 @@
 						<region ref="#rheinland"/>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
+						<desc type="Meyer_1893">7: 85-95% Katholiken, 5-15% Protestanten</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">79606</desc>
+					</population>
 					<idno type="geonames.org">3247449</idno>
 					<idno type="geohash.org">u1h2f7q5u</idno>
 					<bibl type="de.wikipedia.org">Aachen</bibl>
@@ -463,6 +470,9 @@
 						<geo>53.55 9.93333</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">84097</desc>
+					</population>
 					<idno type="geonames.org">2911296</idno>
 					<idno type="geohash.org">u1x0dh3pr</idno>
 					<bibl type="de.wikipedia.org">Bezirk_Altona</bibl>
@@ -524,6 +534,11 @@
 						<geo>47.5584 7.57327</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">Katholiken und Reformierte gemischt</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+					</population>
 					<idno type="geonames.org">2661604</idno>
 					<idno type="geohash.org">u0mqsc8dp</idno>
 					<bibl type="de.wikipedia.org">Basel</bibl>
@@ -540,6 +555,9 @@
 						<geo>49.94806 11.57833</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">19180</desc>
+					</population>
 					<idno type="geonames.org">2951825</idno>
 					<bibl type="de.wikipedia.org">Bayreuth</bibl>
 				</place>
@@ -571,6 +589,13 @@
 						<geo>52.52437 13.41053</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">966858</desc>
+					</population>
 					<idno type="geonames.org">2950159</idno>
 					<idno type="geohash.org">u33dc0f42</idno>
 					<bibl type="de.wikipedia.org">Berlin</bibl>
@@ -604,6 +629,10 @@
 						<geo>44.49381 11.33875</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Italiener</desc>
+					</population>
 					<idno type="geonames.org">3181928</idno>
 					<idno type="geohash.org">srbj4h53w</idno>
 					<bibl type="de.wikipedia.org">Bologna</bibl>
@@ -643,6 +672,13 @@
 						<geo>53.07516 8.80777</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein evangelisch</desc>
+						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">102532</desc>
+					</population>
 					<idno type="geonames.org">2944388</idno>
 					<idno type="geohash.org">u1qmbqc1q</idno>
 					<bibl type="de.wikipedia.org">Bremen</bibl>
@@ -660,6 +696,13 @@
 						<geo>51.1 17.03333</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">gemischt, mehr evangelisch</desc>
+						<desc type="Meyer_1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">239050</desc>
+					</population>
 					<idno type="geonames.org">3081368</idno>
 					<idno type="geohash.org">u3h4exzj4</idno>
 					<bibl type="de.wikipedia.org">Breslau</bibl>
@@ -710,6 +753,11 @@
 						<geo>49.19522 16.60796</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">über 90% Katholiken, über 2% Juden</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+					</population>
 					<idno type="geonames.org">3078610</idno>
 					<idno type="geohash.org">u2ezcgstz</idno>
 					<bibl type="de.wikipedia.org">Brünn</bibl>
@@ -758,6 +806,9 @@
 					<location>
 						<settlement ref="#pest" role="parentSettlement"/>
 					</location>
+					<population>
+						<desc>Kerepesi út, 1837–1908</desc>
+					</population>
 					<bibl type="de.wikipedia.org">Nationaltheater_(Budapest)</bibl>
 				</place>
 				<place xml:id="buenos-aires" type="settlement">
@@ -826,6 +877,9 @@
 						<geo>52.51667 13.28333</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">25847</desc>
+					</population>
 					<idno type="geonames.org">2940187</idno>
 					<idno type="geohash.org">u336y8z21</idno>
 					<bibl type="de.wikipedia.org">Berlin-Charlottenburg</bibl>
@@ -843,6 +897,12 @@
 						<geo>50.25937 10.96384</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein evangelisch</desc>
+						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">14567</desc>
+					</population>
 					<idno type="geonames.org">2939951</idno>
 					<idno type="geohash.org">u0zv6x2h2</idno>
 					<bibl type="de.wikipedia.org">Coburg</bibl>
@@ -884,6 +944,12 @@
 						<geo>54.35205 18.64637</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">97931</desc>
+					</population>
 					<idno type="geonames.org">3099434</idno>
 					<bibl type="de.wikipedia.org">Danzig</bibl>
 				</place>
@@ -905,6 +971,12 @@
 						<geo>49.87056 8.64944</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">36993</desc>
+					</population>
 					<idno type="geonames.org">2938913</idno>
 					<idno type="geohash.org">u0vgwzvp2</idno>
 					<bibl type="de.wikipedia.org">Darmstadt</bibl>
@@ -921,6 +993,12 @@
 						<geo>51.83864 12.24555</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein evangelisch</desc>
+						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">19643</desc>
+					</population>
 					<idno type="geonames.org">2937959</idno>
 					<idno type="geohash.org">u30wvspsp</idno>
 					<bibl type="de.wikipedia.org">Dessau</bibl>
@@ -937,6 +1015,13 @@
 						<geo>51.05089 13.73832</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">197295</desc>
+					</population>
 					<idno type="geonames.org">2935022</idno>
 					<idno type="geohash.org">u31f2t7nj</idno>
 					<bibl type="de.wikipedia.org">Dresden</bibl>
@@ -977,6 +1062,12 @@
 						<region ref="#rheinland"/>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
+						<desc type="Meyer_1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">80695</desc>
+					</population>
 					<idno type="geonames.org">2934246</idno>
 					<idno type="geohash.org">u1hg6jsr0</idno>
 					<bibl type="de.wikipedia.org">Düsseldorf</bibl>
@@ -994,6 +1085,13 @@
 						<geo>51.25627 7.14816</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">80589</desc>
+					</population>
 					<idno type="geonames.org">2931276</idno>
 					<idno type="geohash.org">u1j5dc95d</idno>
 					<bibl type="de.wikipedia.org">Elberfeld</bibl>
@@ -1080,6 +1178,13 @@
 						<geo>50.11552 8.68417</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">103136</desc>
+					</population>
 					<idno type="geonames.org">2925533</idno>
 					<idno type="geohash.org">u0yjjd6jk</idno>
 					<bibl type="de.wikipedia.org">Frankfurt</bibl>
@@ -1138,6 +1243,9 @@
 						<geo>51.53443 9.93228</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">17038</desc>
+					</population>
 					<idno type="geonames.org">2918632</idno>
 					<idno type="geohash.org">u1pj1yq8d</idno>
 					<bibl type="de.wikipedia.org">Göttingen</bibl>
@@ -1154,6 +1262,12 @@
 						<geo>50.94823 10.70193</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">22928</desc>
+					</population>
 					<idno type="geonames.org">2918752</idno>
 					<idno type="geohash.org">u1p9gdw72</idno>
 					<bibl type="de.wikipedia.org">Gotha</bibl>
@@ -1202,6 +1316,9 @@
 						<geo>51.90693 8.37854</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">4491</desc>
+					</population>
 					<idno type="geonames.org">2913366</idno>
 					<idno type="geohash.org">u1jzqbdq6</idno>
 					<bibl type="de.wikipedia.org">Gütersloh</bibl>
@@ -1219,6 +1336,13 @@
 						<geo>53.57532 10.01534</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein evangelisch</desc>
+						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">264675</desc>
+					</population>
 					<idno type="geonames.org">2911298</idno>
 					<idno type="geohash.org">u1x0ektjt</idno>
 					<bibl type="de.wikipedia.org">Hamburg</bibl>
@@ -1242,6 +1366,13 @@
 						<geo>52.37052 9.73322</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">106677</desc>
+					</population>
 					<idno type="geonames.org">2910831</idno>
 					<idno type="geohash.org">u1qcvqwxs</idno>
 					<bibl type="de.wikipedia.org">Hannover</bibl>
@@ -1258,6 +1389,12 @@
 						<geo>49.13995 9.22054</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">21208</desc>
+					</population>
 					<idno type="geonames.org">2907669</idno>
 					<idno type="geohash.org">u0wr7uu42</idno>
 					<bibl type="de.wikipedia.org">Heilbronn</bibl>
@@ -1281,6 +1418,13 @@
 						<geo>49.00472 8.38583</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">gemischt, mehr evangelisch</desc>
+						<desc type="Meyer_1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">42895</desc>
+					</population>
 					<idno type="geonames.org">2892794</idno>
 					<idno type="geohash.org">u0tyy9y4f</idno>
 					<bibl type="de.wikipedia.org">Karlsruhe</bibl>
@@ -1304,6 +1448,9 @@
 						<geo>51.31667 9.5</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">53043</desc>
+					</population>
 					<idno type="geonames.org">2892518</idno>
 					<idno type="geohash.org">u1neztnyn</idno>
 					<bibl type="de.wikipedia.org">Kassel</bibl>
@@ -1320,6 +1467,12 @@
 						<geo>50.35357 7.57884</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">29282</desc>
+					</population>
 					<idno type="geonames.org">2886946</idno>
 					<idno type="geohash.org">u0vqkxyb3</idno>
 					<bibl type="de.wikipedia.org">Koblenz</bibl>
@@ -1338,6 +1491,13 @@
 						<geo>50.93333 6.95</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
+						<desc type="Meyer_1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">135371</desc>
+					</population>
 					<idno type="geonames.org">2886242</idno>
 					<idno type="geohash.org">u1hcy2ukd</idno>
 					<bibl type="de.wikipedia.org">Köln</bibl>
@@ -1364,6 +1524,13 @@
 						<geo>54.70649 20.51095</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein evangelisch</desc>
+						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">122636</desc>
+					</population>
 					<idno type="geonames.org">554234</idno>
 					<idno type="geohash.org">u3wx4xwnw</idno>
 					<bibl type="de.wikipedia.org">Königsberg</bibl>
@@ -1382,6 +1549,12 @@
 						<geo>50.06143 19.93658</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">über 90% Katholiken, über 2% Juden</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Polen</desc>
+						<desc type="Volkszählung_1875">xxx</desc>
+					</population>
 					<!--Einwohner?-->
 					<idno type="geonames.org">3094802</idno>
 					<idno type="geohash.org">u2yhvcgrx</idno>
@@ -1400,6 +1573,13 @@
 						<geo>51.33962 12.37129</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein evangelisch</desc>
+						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">127387</desc>
+					</population>
 					<idno type="geonames.org">2879139</idno>
 					<idno type="geohash.org">u30u1d1g3</idno>
 					<bibl type="de.wikipedia.org">Leipzig</bibl>
@@ -1428,6 +1608,11 @@
 						<geo>49.83826 24.02324</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">über 90% Katholiken, über 5% Juden</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Ruthenen</desc>
+					</population>
 					<idno type="geonames.org">702550</idno>
 					<idno type="geohash.org">u88hej250</idno>
 					<bibl type="de.wikipedia.org">Lemberg</bibl>
@@ -1469,6 +1654,9 @@
 						<geo>53.86893 10.68729</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">44799</desc>
+					</population>
 					<idno type="geonames.org">2875601</idno>
 					<idno type="geohash.org">u1xd7jype</idno>
 					<bibl type="de.wikipedia.org">Lübeck</bibl>
@@ -1485,6 +1673,10 @@
 						<geo>50.63373 5.56749</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Wallonen</desc>
+					</population>
 					<idno type="geonames.org">2792413</idno>
 					<idno type="geohash.org">u15bncqup</idno>
 					<bibl type="de.wikipedia.org">Lüttich</bibl>
@@ -1501,6 +1693,13 @@
 						<geo>52.12773 11.62916</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">87925</desc>
+					</population>
 					<idno type="geonames.org">2874545</idno>
 					<idno type="geohash.org">u3228d5gu</idno>
 					<bibl type="de.wikipedia.org">Magdeburg</bibl>
@@ -1517,6 +1716,10 @@
 						<geo>45.46427 9.18951</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Italiener</desc>
+					</population>
 					<idno type="geonames.org">3173435</idno>
 					<idno type="geohash.org">u0nd9h9rm</idno>
 					<bibl type="de.wikipedia.org">Mailand</bibl>
@@ -1570,6 +1773,9 @@
 						<geo>49.98419 8.2791</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">56421</desc>
+					</population>
 					<idno type="geonames.org">2874225</idno>
 					<idno type="geohash.org">u0vu7svmw</idno>
 					<bibl type="de.wikipedia.org">Mainz</bibl>
@@ -1586,6 +1792,9 @@
 						<geo>49.49671 8.47955</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">46453</desc>
+					</population>
 					<idno type="geonames.org">2873891</idno>
 					<idno type="geohash.org">u0y18fwe5z6</idno>
 					<bibl type="de.wikipedia.org">Mannheim</bibl>
@@ -1624,6 +1833,13 @@
 						<geo>48.13743 11.57549</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
+						<desc type="Meyer_1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">193024</desc>
+					</population>
 					<idno type="geonames.org">2867714</idno>
 					<idno type="geohash.org">u281z7n0j</idno>
 					<bibl type="de.wikipedia.org">München</bibl>
@@ -1668,6 +1884,13 @@
 						<geo>51.96236 7.62571</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein katholisch</desc>
+						<desc type="Meyer_1893">7: 85-95% Katholiken, 5-15% Protestanten</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">35705</desc>
+					</population>
 					<idno type="geonames.org">2867543</idno>
 					<idno type="geohash.org">u1jrt92xr</idno>
 					<bibl type="de.wikipedia.org">Münster</bibl>
@@ -1760,6 +1983,10 @@
 						<geo>48.85341 2.3488</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Franzosen</desc>
+					</population>
 					<idno type="geonames.org">2988507</idno>
 					<idno type="geohash.org">u09tvw0f6</idno>
 					<bibl type="de.wikipedia.org">Paris</bibl>
@@ -1845,6 +2072,13 @@
 						<geo>47.49801 19.03991</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc>1873 mit Buda und Óbuda zu „Budapest“ zusammengelegt</desc>
+						<desc type="Andree_1881">über 50% Katholiken, über 20% Evangelische, über 2%
+							Juden</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Magyaren</desc>
+					</population>
 					<idno type="geonames.org">3054643</idno>
 					<idno type="geohash.org">u2mw1qc43</idno>
 					<bibl type="de.wikipedia.org">Pest_(Stadt)</bibl>
@@ -1917,6 +2151,13 @@
 						<geo>52.40692 16.92993</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
+						<desc type="Meyer_1893">5: 50-70% Katholiken, 30-50% Protestanten</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">60998</desc>
+					</population>
 					<idno type="geonames.org">3088171</idno>
 					<idno type="geohash.org">u3k40gxfp</idno>
 					<bibl type="de.wikipedia.org">Posen</bibl>
@@ -1934,6 +2175,11 @@
 						<geo>50.08804 14.42076</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">über 90% Katholiken, über 2% Juden</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+					</population>
 					<idno type="geonames.org">3067696</idno>
 					<idno type="geohash.org">u2fkbecr1</idno>
 					<bibl type="de.wikipedia.org">Prag</bibl>
@@ -1971,6 +2217,9 @@
 						<geo>49.015 12.09556</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Volkszählung_1875">31504</desc>
+					</population>
 					<idno type="geonames.org">2849483</idno>
 					<idno type="geohash.org">u28wg6gd6</idno>
 					<bibl type="de.wikipedia.org">Regensburg</bibl>
@@ -2066,6 +2315,11 @@
 						<geo>47.79941 13.04399</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">über 90% Katholiken</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+					</population>
 					<idno type="geonames.org">2766824</idno>
 					<idno type="geohash.org">u23rcp6q7</idno>
 					<bibl type="de.wikipedia.org">Salzburg</bibl>
@@ -2103,6 +2357,13 @@
 						<geo>53.62937 11.41316</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein evangelisch</desc>
+						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">27643</desc>
+					</population>
 					<idno type="geonames.org">2834282</idno>
 					<idno type="geohash.org">u3815eqxe</idno>
 					<bibl type="de.wikipedia.org">Schwerin</bibl>
@@ -2202,6 +2463,10 @@
 						<geo>59.33258 18.0649</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Schweden</desc>
+					</population>
 					<idno type="geonames.org">2673730</idno>
 					<idno type="geohash.org">u6sce0d2n</idno>
 					<bibl type="de.wikipedia.org">Stockholm</bibl>
@@ -2220,6 +2485,13 @@
 						<geo>54.30911 13.0818</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein evangelisch</desc>
+						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">27765</desc>
+					</population>
 					<idno type="geonames.org">2826287</idno>
 					<idno type="geohash.org">u39kcufhv</idno>
 					<bibl type="de.wikipedia.org">Stralsund</bibl>
@@ -2236,6 +2508,13 @@
 						<geo>48.78232 9.17702</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
+						<desc type="Meyer_1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">107273</desc>
+					</population>
 					<idno type="geonames.org">2825297</idno>
 					<idno type="geohash.org">u0wt2zmcq</idno>
 					<bibl type="de.wikipedia.org">Stuttgart</bibl>
@@ -2254,6 +2533,11 @@
 						<geo>45.64861 13.78</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">über 90% Katholiken</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Slovenen</desc>
+					</population>
 					<idno type="geonames.org">3165185</idno>
 					<idno type="geohash.org">u21gccxv3</idno>
 					<bibl type="de.wikipedia.org">Triest</bibl>
@@ -2297,6 +2581,10 @@
 						<geo>45.43861 12.32667</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Italiener</desc>
+					</population>
 					<idno type="geonames.org">3164603</idno>
 					<idno type="geohash.org">u20f80rbh</idno>
 					<bibl type="de.wikipedia.org">Venedig</bibl>
@@ -2348,6 +2636,10 @@
 						<geo>52.22977 21.01178</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Polen</desc>
+					</population>
 					<idno type="geonames.org">756135</idno>
 					<idno type="geohash.org">u3qcnhheu</idno>
 					<bibl type="de.wikipedia.org">Warschau</bibl>
@@ -2364,6 +2656,13 @@
 						<geo>50.9803 11.32903</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">rein evangelisch</desc>
+						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">17522</desc>
+					</population>
 					<idno type="geonames.org">2812482</idno>
 					<idno type="geohash.org">u30419kz6</idno>
 					<bibl type="de.wikipedia.org">Weimar</bibl>
@@ -2391,6 +2690,11 @@
 						<geo>48.20849 16.37208</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">über 90% Katholiken</desc>
+						<desc type="Andree_1881">Röm. Katholiken</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+					</population>
 					<idno type="geonames.org">2761369</idno>
 					<idno type="geohash.org">u2edk850c</idno>
 					<bibl type="de.wikipedia.org">Wien</bibl>
@@ -2459,6 +2763,12 @@
 						<geo>50.08258 8.24932</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Brockhaus_1892">gemischt, mehr evangelisch</desc>
+						<desc type="Meyer_1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+						<desc type="Volkszählung_1875">43674</desc>
+					</population>
 					<idno type="geonames.org">2809346</idno>
 					<idno type="geohash.org">u0vug9dwe</idno>
 					<bibl type="de.wikipedia.org">Wiesbaden</bibl>
@@ -2497,14 +2807,74 @@
 						<geo>47.36667 8.55</geo>
 						<geogName ref="#europa" role="continent"/>
 					</location>
+					<population>
+						<desc type="Andree_1881">Katholiken und Reformierte gemischt</desc>
+						<desc type="Andree_1881">Evangelische</desc>
+						<desc type="Andree_1881">Deutsche</desc>
+					</population>
 					<idno type="geonames.org">2657896</idno>
 					<idno type="geohash.org">u0qnjw4bx</idno>
 					<bibl type="de.wikipedia.org">Zürich</bibl>
 				</place>
+
 				<!-- NICHT BEKANNT -->
 				<place xml:id="unidentified" type="undefinable">
 					<placeName type="index">? (nicht identifizierter Ort)</placeName>
 				</place>
+
+				<!-- DEAKTIVIERT -->
+				<!--<placeListItem nym="halle" type="settlement">
+					<geo authority="geonames.org">51.5 12</geo>
+					<id authority="geonames.org">2911522</id>
+					<id authority="geohash.org">u30sb7e71</id>
+					<name lang="de">Halle</name>
+					<name lang="de" type="index">Halle an der Saale</name>
+					<name lang="en">Halle</name>
+					<name lang="fr">Halle</name>
+					<name lang="it">Halle</name>
+					<name lang="pl">Halle</name>
+					<name lang="ru">Галле</name>
+					<place nym="deutschland" role="parentCountry"/>
+					<place nym="europa" role="parentContinent"/>
+					<description source="Brockhaus 1892">rein evangelisch</description>
+					<description source="Meyer 1893">2: 5-15% Katholiken, 85-95%
+						Protestanten</description>
+					<description source="Andree 1881">Deutsche</description>
+					<resource type="de.wikipedia.org" date="2012-11-15">Halle</resource>
+				</placeListItem>-->
+				<!--<placeListItem nym="oldenburg" type="settlement">
+					<geo authority="geonames.org">53.14118 8.21467</geo>
+					<id authority="geonames.org">2857458</id>
+					<id authority="geohash.org">u1my6g6b0</id>
+					<name lang="de" type="index">Oldenburg</name>
+					<name lang="en">Oldenburg</name>
+					<name lang="fr">Oldenbourg</name>
+					<name lang="it">Oldenburg</name>
+					<name lang="pl">Oldenburg</name>
+					<name lang="ru">Ольденбург</name>
+					<place nym="deutschland" role="parentCountry"/>
+					<place nym="europa" role="parentContinent"/>
+					<description source="Brockhaus 1892">überwiegend
+						evangelisch</description>
+					<description source="Meyer 1893">3: 15-30% Katholiken, 70-85%
+						Protestanten</description>
+					<description source="Andree 1881">Deutsche</description>
+					<resource type="de.wikipedia.org" date="2012-11-15">Oldenburg</resource>
+				</placeListItem>-->
+				<!--<placeListItem nym="wuppertal" type="settlement">
+					<geo authority="geonames.org">51.27027 7.16755</geo>
+					<id authority="geonames.org">2805753</id>
+					<id authority="geohash.org">u1j5ddzj0</id>
+					<name lang="de" type="index">Wuppertal</name>
+					<name lang="en">Wuppertal</name>
+					<name lang="fr">Wuppertal</name>
+					<name lang="it">Wuppertal</name>
+					<name lang="pl">Wuppertal</name>
+					<name lang="ru">Вупперталь</name>
+					<place nym="deutschland" role="parentCountry"/>
+					<resource type="de.wikipedia.org" date="2012-11-23">Wuppertal</resource>
+				</placeListItem>-->
+
 			</listPlace>
 		</body>
 	</text>

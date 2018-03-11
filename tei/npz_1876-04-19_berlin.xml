@@ -13,10 +13,10 @@
 				<bibl>
 					<orgName ref="#neue-preussische-zeitung" role="publisher"/>
 					<placeName ref="#berlin"/>
-					<date when-iso="1876-04-19" when-custom="wed"/>
-					<biblScope unit="issue">91</biblScope><series>npz</series>
+					<date when-custom="wed" when-iso="1876-04-19"/>
+					<biblScope unit="issue">91</biblScope>
+					<series>npz</series>
 					<biblScope unit="page">2</biblScope>
-					<link facs="npz_1876-04-19_2.jpg"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -33,11 +33,12 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--<graphic n="npz_1876-04-19_2.jpg"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger"><placeName ref="#berlin.hofoper">Königliches
 				Theater</placeName>.</head>
-			<p><rs type="event" ref="#berlin.1876.1">Im <hi rend="widespace"><placeName
+			<p><rs ref="#berlin.1876.1" type="event">Im <hi rend="widespace"><placeName
 							ref="#berlin.hofoper">Opernhause</placeName></hi>
 					<date when-iso="1876-04-15">Sonnabend, den 15. April</date>, zum ersten Male:
 						<hi rend="widespace">„<title ref="#verdi.requiem">Requiem</title>“</hi>, von
@@ -92,9 +93,10 @@
 				Kirchenmusik. Nun ließ er sich auch die Opern geben, und war vorurtheilsfrei genug,
 				auch in ihnen den Componisten des Requiem zu erkennen und lieb zu gewinnen.“<note
 					resp="tr" type="literatureLink">Vgl. <persName ref="#jahn.otto">Otto
-						Jahn</persName>, <ref type="text"
-						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA737">W. A.
-						Mozart, 4. Theil (Leipzig 1859), S. 736, Anm. 87</ref>.</note></p>
+						Jahn</persName>, <ref
+						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA737"
+						type="text">W. A. Mozart, 4. Theil (Leipzig 1859), S. 736, Anm.
+					87</ref>.</note></p>
 			<p>Allerdings tragen die „<title ref="#mozart.die-zauberfloete">Zauberflöte</title>“ in
 				ihrem ernsten Theile und das „<title ref="#mozart.requiem">Requiem</title>“, diese
 				beiden letzten Werke <persName ref="#mozart.wolfgang-amadeus">Mozarts</persName>,
@@ -137,16 +139,17 @@
 				der sich keineswegs scheue, den Opern-Geigen und Arien den Eingang in seine
 				schmuckreiche, von Wohlgerüchen und Jubelgesängen erfüllten Kirchen zu
 					gestatten.“<note resp="tr" type="literatureLink">Vgl. <persName
-						ref="#gautier.theophile">Théophile Gautier</persName>, <ref type="text"
+						ref="#gautier.theophile">Théophile Gautier</persName>, <ref
 						target="https://archive.org/stream/histoiredelartdr02gautuoft#page/207/mode/1up"
-						>Histoire de l'art dramatique en France depuis vingt-cinq ans, Bd. 2 (1859),
-						S. 207</ref>: »Le catholicisme italien n’a pas cette teinte austère que
-					l’inclémence du Nord a imprimée au nôtre. C’est un catholicisme heureux,
-					souriant, presque gai, toujours en fête, qui ne craint pas de laisser entrer les
-					violons et les airs d’opéra dans ses églises dorées, peintes de fresques azurées
-					et blondes, revêtues de marbre de couleur, pleines d’orangers et de myrtes, de
-					parfums et de chants d’allégresse; un catholicisme plus familier et plus humain
-					qui se mêle à la vie et l’accepte comme elle est.«</note></p>
+						type="text">Histoire de l'art dramatique en France depuis vingt-cinq ans,
+						Bd. 2 (1859), S. 207</ref>: »Le catholicisme italien n’a pas cette teinte
+					austère que l’inclémence du Nord a imprimée au nôtre. C’est un catholicisme
+					heureux, souriant, presque gai, toujours en fête, qui ne craint pas de laisser
+					entrer les violons et les airs d’opéra dans ses églises dorées, peintes de
+					fresques azurées et blondes, revêtues de marbre de couleur, pleines d’orangers
+					et de myrtes, de parfums et de chants d’allégresse; un catholicisme plus
+					familier et plus humain qui se mêle à la vie et l’accepte comme elle
+					est.«</note></p>
 			<p>Mit tieferem Ernste, als <persName ref="#rossini.gioachino">Rossini</persName>, ist
 					<persName ref="#verdi.giuseppe">Verdi</persName> von seinem katholischen
 				Standpunkte aus an die Aufgabe des „Requiems“ gegangen. Er schrieb diese Seelenmesse
@@ -160,18 +163,17 @@
 				Anerkennung zollt. Bevor <persName ref="#goethe.johann-wolfgang-von"
 					>Goethe</persName> großmüthig sich meiner annahm, hat man mich schlecht genug
 					behandelt.“<note resp="tr" type="literatureLink">Vgl. Karl Wilhelm Müller, <ref
-						type="text"
-						target="https://books.google.de/books?id=vVY6AAAAcAAJ&amp;pg=PA70">Goethes
-						letzte literarische Thätigkeit, Verhältniß zum Ausland und Scheiden (Jena
-						1832), S. 70–71</ref>.</note> Wußte <persName ref="#verdi.giuseppe"
-					>Verdi</persName>, mit welcher Pietät <persName ref="#manzoni.alessandro"
-					>Manzoni</persName> an dem deutschen Dichter hing? Wenn das, dann könnte man ein
-				Merkmal italienischer Erkenntlichkeit auch darin finden, daß der Componist in seinem
-					„<title ref="#verdi.requiem">Requiem</title>“ auf <persName
-					ref="#manzoni.alessandro">Manzoni</persName> in die Kunststraße deutscher
-				Meister einzulenken strebt, besonders in der Richtung auf den polyphonischen Satz.
-				Freilich hat <persName ref="#verdi.giuseppe">Verdi</persName> nicht ungestraft unter
-				den Palmen der <placeName ref="#paris">Pariser</placeName>
+						target="https://books.google.de/books?id=vVY6AAAAcAAJ&amp;pg=PA70"
+						type="text">Goethes letzte literarische Thätigkeit, Verhältniß zum Ausland
+						und Scheiden (Jena 1832), S. 70–71</ref>.</note> Wußte <persName
+					ref="#verdi.giuseppe">Verdi</persName>, mit welcher Pietät <persName
+					ref="#manzoni.alessandro">Manzoni</persName> an dem deutschen Dichter hing? Wenn
+				das, dann könnte man ein Merkmal italienischer Erkenntlichkeit auch darin finden,
+				daß der Componist in seinem „<title ref="#verdi.requiem">Requiem</title>“ auf
+					<persName ref="#manzoni.alessandro">Manzoni</persName> in die Kunststraße
+				deutscher Meister einzulenken strebt, besonders in der Richtung auf den
+				polyphonischen Satz. Freilich hat <persName ref="#verdi.giuseppe">Verdi</persName>
+				nicht ungestraft unter den Palmen der <placeName ref="#paris">Pariser</placeName>
 				<placeName ref="#paris.grand-opera">großen Oper</placeName> gewandelt, wie solche
 				durch die Vermischung der italienischen Lyrik und der neufranzösischen Dramatik als
 				effectsüchtiges Spektakelstück entstanden ist. Trotz der ernsten, oft innigen
@@ -191,35 +193,35 @@
 					>Meyerbeers</persName> „<title ref="#meyerbeer.robert-le-diable">Robert</title>“
 				erinnert. Den Eindruck einer Tongrimmasse macht das wiederholte Bum! der großen
 				Trommel bei dem aus dem Zusammenhange gerissenen Worte: <hi rend="antiqua"><title
-						ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">„Mors“
-					(stupebit)</title></hi>. Auch die Piccolo-Flötentöne zu dem Baß-Solo <hi
+						n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">„Mors“
+						(stupebit)</title></hi>. Auch die Piccolo-Flötentöne zu dem Baß-Solo <hi
 					rend="antiqua">„<title ref="#verdi.requiem.2.confutatis">Confutatis
 						maledictis</title>“</hi> berühren ungefähr so, wie das „unglückselige
 				Flötenspiel“, von dem Ferdinand in „Cabale und Liebe“ sagt, daß es ihm nie hätte
 				einfallen sollen.<note resp="tr" type="literatureLink">Vgl. <persName
 						ref="#schiller.friedrich">Friedrich Schiller</persName>, Kabale und Liebe,
 					5. Akt, 3. Szene: »Unglückseliges Flötenspiel, das mir nie hätte einfallen
-					sollen«; nach: <ref type="text"
-						target="http://www.deutschestextarchiv.de/schiller_kabale_1784/148">Mannheim
-						1784, S. 144</ref>.</note> Die zweichörige Doppelfuge zum „<title
-					ref="#verdi.requiem.4">Sanctus</title>“ dürfte als solche nur vor einem
+					sollen«; nach: <ref
+						target="http://www.deutschestextarchiv.de/schiller_kabale_1784/148"
+						type="text">Mannheim 1784, S. 144</ref>.</note> Die zweichörige Doppelfuge
+				zum „<title ref="#verdi.requiem.4">Sanctus</title>“ dürfte als solche nur vor einem
 				musikalischen Richterstuhle, dem die classische Lehne fehlt, passiren.</p>
 			<p>Nach diesen Rügen des Opernhaften wenden wir uns zu den in meisterhaften Tonstrahlen
 				leuchtenden Gipfeln des Werkes. Diese erheben sich namentlich in dem originell
-				componirten <title ref="#verdi.requiem.1" n="introitus">Introitus</title>, in dem Chore:
-					<hi rend="antiqua">„<title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet
-						hymnus</title>“,</hi> in den Sologesängen des „<title
-					ref="#verdi.requiem.1" n="kyrie">Kyrie</title>“, in dem wunderschönen Piano zu den
-				Worten: <hi rend="antiqua">„<title ref="#verdi.requiem.2.dies-irae" n="quantus-tremor"
+				componirten <title n="introitus" ref="#verdi.requiem.1">Introitus</title>, in dem
+				Chore: <hi rend="antiqua">„<title n="te-decet-hymnus" ref="#verdi.requiem.1">Te
+						decet hymnus</title>“,</hi> in den Sologesängen des „<title n="kyrie"
+					ref="#verdi.requiem.1">Kyrie</title>“, in dem wunderschönen Piano zu den Worten:
+					<hi rend="antiqua">„<title n="quantus-tremor" ref="#verdi.requiem.2.dies-irae"
 						>Quando judex</title>“</hi>, in dem tiefempfundenen Terzett: <hi
 					rend="antiqua">„<title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser tunc
 						dicturus</title>“</hi> und dem herrlichen Quartett mit Chor: <hi
 					rend="antiqua">„<title ref="#verdi.requiem.2.rex-tremendae">Rex tremendae
 						majestatis</title>“</hi>. Im zweiten Theile des „Requiems“ ist gleich das
-					<hi rend="antiqua">„<title ref="#verdi.requiem.3" n="domine-jesu"
+					<hi rend="antiqua">„<title n="domine-jesu" ref="#verdi.requiem.3"
 					>Domine</title>“</hi> von ergreifender Gewalt, wird aber in seiner Wirkung auf
 				das Gemüth der Hörer noch überragt durch das poetisch beseelte <hi rend="antiqua"
-						>„<title ref="#verdi.requiem.3" n="hostias">Hostias</title>“</hi> mit seiner
+						>„<title n="hostias" ref="#verdi.requiem.3">Hostias</title>“</hi> mit seiner
 				orgelähnlichen Instrumentirung. Hier steigert sich <persName ref="#verdi.giuseppe"
 					>Verdi</persName> zu einer wahrhaft idealischen Musik von lauterstem melodischen
 				Ausdruck und klarem Ebenmaß. An die Höhe dieser Tondichtung reiche weder das schon
@@ -242,12 +244,13 @@
 				das Morgenthor des Schönen“<note resp="tr" type="literatureLink">Vgl. <persName
 						ref="#schiller.friedrich">Friedrich Schiller</persName>, Ballade »Die
 					Künstler«: »Nur durch das Morgenthor des Schönen / Drangst du in der Erkenntniß
-					Land«, aus: <ref type="text"
+					Land«, aus: <ref
 						target="https://archive.org/stream/gedichtevonschil00schi#page/73/mode/1up"
-						>Schiller’s Gedichte (Berlin 1873), S. 73–87, Vers 34f</ref>.</note> nahm,
-				so kann sein „<title ref="#verdi.requiem">Requiem</title>“, trotz der ihm
-				stellenweise noch anhaftenden Opernschlacken, die Achtung vor dem überraschenden
-				Läuterungs-Processe des reichbegabten Künstlers nur noch erhöhen.</p>
+						type="text">Schiller’s Gedichte (Berlin 1873), S. 73–87, Vers
+					34f</ref>.</note> nahm, so kann sein „<title ref="#verdi.requiem"
+					>Requiem</title>“, trotz der ihm stellenweise noch anhaftenden Opernschlacken,
+				die Achtung vor dem überraschenden Läuterungs-Processe des reichbegabten Künstlers
+				nur noch erhöhen.</p>
 			<p>Die Aufführung des neuen Werkes unter der Leitung des Herrn Kapellmeisters <hi
 					rend="widespace"><persName ref="#radecke.robert">Radecke</persName></hi> war der
 				ernsten Tondichtung würdig. Die Solopartieen, gesungen von Frl. <hi rend="widespace"
@@ -270,8 +273,8 @@
 				und die <hi rend="widespace"><persName ref="#elisabeth.oesterreich-ungarn"
 						>Kaiserin</persName></hi> zeichneten die Aufführung durch Ihre Gegenwart bis
 				zum Schlusse aus.</p>
-			<p rend="right"><persName ref="#symbol.paragraph"><g type="SECTION_SIGN|ASTERISK"
-						n="00A7|002A">§*</g></persName></p>
+			<p rend="right"><persName ref="#symbol.paragraph"><g n="00A7|002A"
+						type="SECTION_SIGN|ASTERISK">§*</g></persName></p>
 		</body>
 	</text>
 </TEI>

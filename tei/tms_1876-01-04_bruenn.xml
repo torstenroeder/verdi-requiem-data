@@ -1,61 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Tagesbote aus Mähren und Schlesien, Brünn, 4. Januar 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tms_1876-01-04_kritik.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-				<placeName ref="#bruenn"/>
-				<date when-iso="1876-01-04" when-custom="tue"/>
-				<biblScope unit="issue">2</biblScope><biblScope unit="volume">26</biblScope><series>tms</series>
-				<biblScope unit="page">3–4</biblScope>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#bruenn"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Konzert.</head>
-		<p><rs type="event" ref="#bruenn.1876.1"><persName ref="#verdi.giuseppe">Verdi’s</persName> „<hi rend="widespace">Requiem</hi>“ gelangte <date>Sonntag am 2. Jänner</date> im
-					<placeName ref="#bruenn.redouta-theater">Redoutensaale</placeName> zur ersten
-				Aufführung.</rs> Der Erfolg war ein glänzender in jeder Beziehung, was bei dem
-			sorgfältigen Studium und der Mitwirkung so vorzüglicher Kräfte zu erwarten war.</p>
-		<p>Wir haben der „<title ref="#verdi.requiem">Todtenmesse</title>“ bereits eine ausführliche
-			Besprechung gewidmet und es bleibt uns nach dem Anhören des Werkes wenig mehr zu sagen
-			übrig. Nur fanden wir unsere Ansicht, daß der Italiener <persName ref="#verdi.giuseppe">Verdi</persName> sein Naturell nicht verläugnet hat, noch schärfer bestätigt, als wir
-			es gegen den Ausspruch vieler kritischer Stimmen schon nach dem Studium der Partitur
-			behaupteten.</p>
-		<p>Am Auffallendsten ist jedenfalls das Bemühen des Komponisten, den kirchlichen Styl im
-			ersten Satze: <hi rend="antiqua">„Kyrie“,</hi>zu treffen, und eben so im <hi rend="antiqua">„Libera me“</hi> den letzten Satz zu schließen. Der Anfang, besonders
-			im zartesten Piano, mit gedämpftem Streichquartette, ist von zauberhafter Wirkung. Eben
-			so tritt der fugirte Theil mit dem präzisen, scharfen Einsetzen <pb break="yes" n="4" type="regular"/>der Stimmen plastisch hervor. Diesen Sätzen schließt sich das
-				<hi rend="antiqua">Laycrymosa</hi> und das <hi rend="antiqua">Agnus Dei</hi> an. Das muß man <hi rend="widespace">Verdi</hi> wie allen Italienern zugestehen, sie verstehen es, wie
-			man menschliche Stimmen verwendet. Die <hi rend="antiqua">Cantilene</hi> im <hi rend="antiqua">Lacrymosa</hi> ist meisterhaft aufgebaut, und, was die Hauptsache
-			ist, nicht durch das Orchester gedeckt. Im <hi rend="antiqua">Agnus Dei</hi> hat Verdi
-			die Wirkung der Unisonostellen unstreitig Meyerbeer nachgeahmt. Wir konnten die
-			Erinnerung an das <hi rend="antiqua">Entrée</hi> zum 5. Akte der „Afrikanerin“, (sogar
-			die <hi rend="antiqua">C dur-</hi>Tonart ist beibehalten), nicht los werden.</p>
-		<p>Mehr Wirkung hatten wir von der Doppel-Fuge im <hi rend="antiqua">Sanctus</hi> erwartet,
-			sie macht beim Lesen einen viel größeren Eindruck als beim Anhören. Bei einer Fuge kommt
-			dem Musiker freilich immer Bach und Händel in’s Gedächtniß — und wer kann es wagen, in
-			dieser Richtung mit den großen Meistern zu konkurriren.</p>
-		<p>Im <hi rend="antiqua">„Dies irae“,</hi> der effektvollsten Nummer des Werkes, ist Verdi
-			in seinem Elemente; hier arbeitet er mit Trompeten, Posaunen und der <hi rend="antiqua">„Gran cassa!“</hi> —</p>
-		<p>Fassen wir den ganzen Eindruck zusammen, so müssen wir gestehen, daß das Requiem, ein
-			hervorragendes musikalisches Werk, die vollste Beachtung verdient, daß wir der
-			Aufführung mit dem größten Interesse gefolgt sind — und nur wünschen können, daß das
-			kunstsinnige Publikum die zweite Aufführung nicht versäumen möge.</p>
-		<p>Herr Musik-Direktor <hi rend="widespace"><persName ref="#kitzler.otto">Kitzler</persName></hi>
-			hat sich um den glänzenden Erfolg des Werkes besonders verdient gemacht. Ihm gebührt ein
-			großer Theil der Anerkennung, mit welcher wir nie zurückhalten, wo es gilt, Verdienste
-			hervorzuheben. Herr <persName ref="#kitzler.otto">Kitzler</persName> wurde wiederholt
-			gerufen; es zeigte sich, daß das Publikum auch unserer Ansicht war.</p>
-		<p>Von den Solosängern ragte Frau <hi rend="widespace"><persName ref="#gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName></hi> hervor.
-			Wir haben der geehrten Künstlerin schon so viele Genüsse zu verdanken, daß wir beinahe
-			um Worte des Lobes verlegen werden. Die Macht ihres wunderbaren Organs, der echt
-			künstlerisch weihevolle Vortrag übte seinen Zauber, besonders im <hi rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title></hi> und <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> aus. Letztere
-			Nummer wurde auf stürmisches Verlangen wiederholt.</p>
-		<p>Mit voller Anerkennung nennen wir Fräul. <hi rend="widespace"><persName ref="#will.julie">Will</persName></hi>, welche den schwierigen, anstrengenden Sopranpart vollkommen
-			bewältigte und im Vortrage einen gefühlvollen Ausdruck entwickelte.</p>
-		<p>Auch die Herren <hi rend="widespace"><persName ref="#curiel.xxx">Curiel</persName></hi> und
-				<hi rend="widespace"><persName ref="#krejci.friedrich">Krejczy</persName></hi> haben
-			Recht auf ungeschmälertes Lob. Sie sangen mit Verständniß und feiner <sic>Nuanzirung</sic>.</p>
-		<p>Es bleibt uns nun noch übrig, des Chores unseres Musik- und Männergesang-Vereins, welcher
-			mit voller Hingebung mitwirkte, mit warmen Worten zu gedenken — und auch das Orchester
-			nicht zu vergessen.</p>
-		<p>Der <placeName ref="#bruenn.redouta-theater">Redoutensaal</placeName> war ganz gefüllt, sohin auch
-			der materielle Erfolg — für Wohlthätigkeitszwecke bestimmt — vollkommen erzielt.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 4. Januar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1876-01-04_kritik.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-custom="tue" when-iso="1876-01-04"/>
+					<biblScope unit="issue">2</biblScope>
+					<biblScope unit="volume">26</biblScope>
+					<series>tms</series>
+					<biblScope unit="page">3–4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Konzert.</head>
+			<p><rs ref="#bruenn.1876.1" type="event"><persName ref="#verdi.giuseppe"
+						>Verdi’s</persName> „<hi rend="widespace">Requiem</hi>“ gelangte
+						<date>Sonntag am 2. Jänner</date> im <placeName
+						ref="#bruenn.redouta-theater">Redoutensaale</placeName> zur ersten
+					Aufführung.</rs> Der Erfolg war ein glänzender in jeder Beziehung, was bei dem
+				sorgfältigen Studium und der Mitwirkung so vorzüglicher Kräfte zu erwarten war.</p>
+			<p>Wir haben der „<title ref="#verdi.requiem">Todtenmesse</title>“ bereits eine
+				ausführliche Besprechung gewidmet und es bleibt uns nach dem Anhören des Werkes
+				wenig mehr zu sagen übrig. Nur fanden wir unsere Ansicht, daß der Italiener
+					<persName ref="#verdi.giuseppe">Verdi</persName> sein Naturell nicht verläugnet
+				hat, noch schärfer bestätigt, als wir es gegen den Ausspruch vieler kritischer
+				Stimmen schon nach dem Studium der Partitur behaupteten.</p>
+			<p>Am Auffallendsten ist jedenfalls das Bemühen des Komponisten, den kirchlichen Styl im
+				ersten Satze: <hi rend="antiqua">„Kyrie“,</hi>zu treffen, und eben so im <hi
+					rend="antiqua">„Libera me“</hi> den letzten Satz zu schließen. Der Anfang,
+				besonders im zartesten Piano, mit gedämpftem Streichquartette, ist von zauberhafter
+				Wirkung. Eben so tritt der fugirte Theil mit dem präzisen, scharfen Einsetzen <pb
+					break="yes" n="4" type="regular"/>der Stimmen plastisch hervor. Diesen Sätzen
+				schließt sich das <hi rend="antiqua">Laycrymosa</hi> und das <hi rend="antiqua"
+					>Agnus Dei</hi> an. Das muß man <hi rend="widespace">Verdi</hi> wie allen
+				Italienern zugestehen, sie verstehen es, wie man menschliche Stimmen verwendet. Die
+					<hi rend="antiqua">Cantilene</hi> im <hi rend="antiqua">Lacrymosa</hi> ist
+				meisterhaft aufgebaut, und, was die Hauptsache ist, nicht durch das Orchester
+				gedeckt. Im <hi rend="antiqua">Agnus Dei</hi> hat Verdi die Wirkung der
+				Unisonostellen unstreitig Meyerbeer nachgeahmt. Wir konnten die Erinnerung an das
+					<hi rend="antiqua">Entrée</hi> zum 5. Akte der „Afrikanerin“, (sogar die <hi
+					rend="antiqua">C dur-</hi>Tonart ist beibehalten), nicht los werden.</p>
+			<p>Mehr Wirkung hatten wir von der Doppel-Fuge im <hi rend="antiqua">Sanctus</hi>
+				erwartet, sie macht beim Lesen einen viel größeren Eindruck als beim Anhören. Bei
+				einer Fuge kommt dem Musiker freilich immer Bach und Händel in’s Gedächtniß — und
+				wer kann es wagen, in dieser Richtung mit den großen Meistern zu konkurriren.</p>
+			<p>Im <hi rend="antiqua">„Dies irae“,</hi> der effektvollsten Nummer des Werkes, ist
+				Verdi in seinem Elemente; hier arbeitet er mit Trompeten, Posaunen und der <hi
+					rend="antiqua">„Gran cassa!“</hi> —</p>
+			<p>Fassen wir den ganzen Eindruck zusammen, so müssen wir gestehen, daß das Requiem, ein
+				hervorragendes musikalisches Werk, die vollste Beachtung verdient, daß wir der
+				Aufführung mit dem größten Interesse gefolgt sind — und nur wünschen können, daß das
+				kunstsinnige Publikum die zweite Aufführung nicht versäumen möge.</p>
+			<p>Herr Musik-Direktor <hi rend="widespace"><persName ref="#kitzler.otto"
+						>Kitzler</persName></hi> hat sich um den glänzenden Erfolg des Werkes
+				besonders verdient gemacht. Ihm gebührt ein großer Theil der Anerkennung, mit
+				welcher wir nie zurückhalten, wo es gilt, Verdienste hervorzuheben. Herr <persName
+					ref="#kitzler.otto">Kitzler</persName> wurde wiederholt gerufen; es zeigte sich,
+				daß das Publikum auch unserer Ansicht war.</p>
+			<p>Von den Solosängern ragte Frau <hi rend="widespace"><persName
+						ref="#gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName></hi>
+				hervor. Wir haben der geehrten Künstlerin schon so viele Genüsse zu verdanken, daß
+				wir beinahe um Worte des Lobes verlegen werden. Die Macht ihres wunderbaren Organs,
+				der echt künstlerisch weihevolle Vortrag übte seinen Zauber, besonders im <hi
+					rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title></hi>
+				und <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> aus.
+				Letztere Nummer wurde auf stürmisches Verlangen wiederholt.</p>
+			<p>Mit voller Anerkennung nennen wir Fräul. <hi rend="widespace"><persName
+						ref="#will.julie">Will</persName></hi>, welche den schwierigen,
+				anstrengenden Sopranpart vollkommen bewältigte und im Vortrage einen gefühlvollen
+				Ausdruck entwickelte.</p>
+			<p>Auch die Herren <hi rend="widespace"><persName ref="#curiel.xxx"
+					>Curiel</persName></hi> und <hi rend="widespace"><persName
+						ref="#krejci.friedrich">Krejczy</persName></hi> haben Recht auf
+				ungeschmälertes Lob. Sie sangen mit Verständniß und feiner
+				<sic>Nuanzirung</sic>.</p>
+			<p>Es bleibt uns nun noch übrig, des Chores unseres Musik- und Männergesang-Vereins,
+				welcher mit voller Hingebung mitwirkte, mit warmen Worten zu gedenken — und auch das
+				Orchester nicht zu vergessen.</p>
+			<p>Der <placeName ref="#bruenn.redouta-theater">Redoutensaal</placeName> war ganz
+				gefüllt, sohin auch der materielle Erfolg — für Wohlthätigkeitszwecke bestimmt —
+				vollkommen erzielt.</p>
+		</body>
+	</text>
 </TEI>

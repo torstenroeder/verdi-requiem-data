@@ -1,174 +1,274 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 1877</title><author><persName ref="#schrattenholz.josef"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1877_niederrheinisches-musikfest.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#nzfm" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date cert="low" when-iso="1877-06-01"/>
-				<biblScope unit="issue">Extra-Beilage</biblScope><biblScope unit="volume">73</biblScope>
-				<biblScope unit="page">[605]–[606]</biblScope>
-				<link facs="nzfm_1877_i.png" target="https://archive.org/stream/NeueZeitschriftFuerMusik1877Jg44Bd73#page/n604/mode/1up"/>
-				<link facs="nzfm_1877_ii.png" target="https://archive.org/stream/NeueZeitschriftFuerMusik1877Jg44Bd73#page/n605/mode/1up"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#koeln"/></creation><textClass><keywords><term type="textType">Werkbesprechung</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="widespace larger">EXTRA-BEILAGE.</head>
-		<head><rs type="event" ref="#koeln.1877">54. Niederrheinisches Musikfest in <placeName ref="#koeln">Cöln</placeName></rs></head>
-		<head>am <date when-iso="1877-05-20">20.</date>
-			<date when-iso="1877-05-21">21.</date> und <date when-iso="1877-05-22">22. Mai
-			1877</date></head>
-		<head>von <persName ref="#schrattenholz.josef">J. Schrattenholz</persName>.</head>
-		<p><persName ref="#haydn.joseph">Haydn’s</persName> „<title ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“ und <persName ref="#verdi.giuseppe">Verdi’s</persName>
-			<title ref="#verdi.requiem">Requiem</title> waren die beiden für das diesmalige Fest
-			gewählten Hauptwerke. <persName ref="#hiller.ferdinand">Hiller</persName> hatte dem
-			Festprogramm ein kleines Vorwort vorausgehen lassen, worin er sich sowohl über die <title ref="#haydn.die-schoepfung">„Schöpfung“</title> und die „<title ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“ wie über <persName ref="#verdi.giuseppe">Verdi’s</persName>
-			<title ref="#verdi.requiem">Requiem</title> äußerte <gap resp="tr"/></p>
-		<p>Für das <persName ref="#verdi.giuseppe">Verdi’sche</persName>
-			<title ref="#verdi.requiem">Requiem</title> hat, irre ich nicht, in <placeName ref="#deutschland">Deutschland</placeName> zuerst <persName ref="#hiller.ferdinand">Hiller</persName> Propaganda gemacht und zwar mit einem in der „<orgName ref="#koelnische-zeitung">Köln. Ztg</orgName>“ public. Artikel<note resp="tr" type="textLink">Vgl. <ref type="text" target="kz_1875-08-24_requiem.xml">Kölnische Zeitung, 24.
-					August 1875</ref>.</note>, welcher auch im Textbuche des diesjährigen Festes
-			abgedruckt ist. <placeName ref="#koeln">Köln</placeName> brachte denn auch vor 1½ Jahren die
-				<rs type="event" ref="#koeln.1875">erste Aufführung</rs> der Novität in <placeName ref="#deutschland">Deutschland</placeName>. Dem Titel zufolge hat man ein entschiedenes
-			Recht, dieselbe als ein Requiem, d. h. als eine, bei Gelegenheit der in katholischen
-			Kirchen zu Ehren eines Todten gefeierten Seelenmesse aufzuführende Tondichtung zu
-			betrachten. <persName ref="#hiller.ferdinand">Hiller</persName> bestreitet dies jedoch und
-			will das Werk, wol zur Erinnerungsfeier des großen Dichters geschrieben, nicht als
-			kirchliches, sondern als pathetisch-festliches aufgefaßt wissen. Ich kann dem nicht
-			zustimmen. Der Text bindet den Componisten bis zu einer gewissen Grenze in allen vocalen
-			Compositionsgattungen, denn er bedingt die Wahl der formalen Ausdrucksmittel und also
-			auch den Stil des Componisten. In einer Oper dürfen wir andere Stilformen verlangen wie
-			im Oratorium und in diesem andere als in der Mischcantate oder im Requiem. Selbst die
-			Mitwirkung einzelner Instrumente wird durch diese Verschiedenartigket des Stils bedingt.
-			Und was nun die rein geistlichen Musikgattungen, in specie die Messe und das Requiem
-			betrifft, so setzen diese schon durch ihre bestimmt abgegrenzten poetischen Formen dem
-			Componisten solche Daumschrauben an, daß man durchaus nicht annehmen kann, derjenige
-			Tondichter, welcher sich zur Composition einer Messe oder eines Requiem verstehe, thue
-			dies ohne Beobachtung des kirchlichen Charakters dieser Tonstücke. Er mag es ohne die
-			Hoffnung thun, sein Werk jemals in einer Kirche aufzuführen, aber ohne den Wunsch, das
-			Werk dem Orte, für den es gedacht ist, einstens zugänglich gemacht zu sehen und ohne den
-			noch näher liegenden Wunsch, durch seine Aufführung im Hörer religiöse Empfindungen zu
-			erwecken, wird der Componist, wenn der es mit der Kunst und seiner Sache überhaupt ernst
-			nimmt, niemals an eine solche Arbeit herantreten. Gemüther indeß, die sich in unserer
-			rationalistischen Zeit aus innerer Ueberzeugung und also mit begeisterter Hingabe der
-			Composition rein kirchlicher Stoffe unterziehen (und nur solche dürfen dies, oder
-			sollten es wenigstens dürfen) sind sehr spärlich gesät heutzutage und meiner
-			Ueberzeugung zufolge nicht zum Schaden der Kunst. Wir besitzen in den Werken eines
-				<persName ref="#bach.johann-sebastian">Bach</persName>, von den älteren eines <persName ref="#palestrina.giovanni-pierluigi">Palestrina</persName>, <persName ref="#astorga.emanuele-d">Astorga</persName>, <persName ref="#durante.francesco">Durante</persName> und den glücklichen Nachfolgern ganz zu schweigen, einen so
-			unendlichen und werthvollen Schatz geistlicher Musik, daß wir Jahrzehnte lang davon
-			zehren können, ohne ihn nur zum kleinsten Theile erschöpft zu haben. Das soll natürlich
-			keinen Sohn der Jetztzeit und sei er selbst ein Italiener, davon abhalten, auch
-			seinerseits seinen religiösen Bedürfnissen durch Anschluß an die kirchlichen Formen
-			Ausdruck zu geben, wenn anders er solche Bedürfnisse hat oder bekommt. Geben wir auch
-			einmal zu, daß dem Componisten eine kirchliche Verwendung des Requiem gänzlich fern
-			gelegen und er bei der Arbeit nur eine in poetisch-weltlichem Sinne gedachte
-			Verherrlichung des Angedenkens eines großen Todten: ein Concertsaal-Requiem im Auge
-			hatte, auch ein solches bleibt immer ein Requiem und kann und darf seinem idealen
-			Hauptziele: der Wiedererschaffung einer frommen, geistigen Todtenfeier im Hirne des
-			Hörern nicht untreu werden. Das wird aber nicht erreicht durch Anwendung der vollen
-			Mittel moderner Orchester- und Gesangs-Technik und aller raffinirten Erfahrungen einer
-			mehrjährigen Opernpraxis. Das wird nicht erreicht durch fein spintisierte Schlageffecte,
-				<choice>
-				<orig>drrch</orig>
-				<corr resp="tr">durch</corr>
-			</choice> subtile Reflexionen — das wird erreicht nur durch inneren schöpferischen Drang
-			und Befähigung, durch die geniale Allgewalt des mit unüberwindlicher Naturkraft sich
-			äußernden genialen, gottgesandten Gedankens, der seine Originalität in seiner Aussprache
-			trägt, das wird erreicht nur durch den Mund des wahren, reines Genies, durch die
-			Mithilfe echter Künstlerschaft, deren Coexistenz die Tonriesenbauten unserer Großmeister
-			ihren granitnen ewigen Bau und ihre wunderbare Architektonik verdanken. „Wenn ihr’s
-			nicht fühlt, ihr werdet’s nicht erjagen, wenn es nicht aus der Seele dringt und mit
-			urkräftigem Behagen die Herzen aller Hörer zwingt.“<note resp="tr" type="literatureLink">Vgl. <persName ref="#goethe.johann-wolfgang-von">Johann Wolfgang Goethe</persName>:
-					<ref type="text" target="http://www.deutschestextarchiv.de/goethe_faust01_1808/49">Faust.
-					Eine Tragödie, Tübingen 1808</ref>, hier: S. 43.</note> Und eben die in diesen
-			Versen ruhende Grundforderung alles echten, wahrhaft Kunstgemäßen vermag ich dem <persName ref="#verdi.giuseppe">Verdi’schen</persName> Werke beim besten Willen nicht
-			zuzusprechen, wie oft ich es auch höre und mit wie guten Vorsätzen ich auch den
-			Clavierauszug in die Hand nehme. Aeußere Vorzüge (andere hebt, wenn man seiner Kritik
-			auf den Grund geht, eigentlich auch <persName ref="#hiller.ferdinand">Hiller</persName> nicht
-			hervor) lassen sich dem Werke viele nachrühmen, innere sehr wenige. Die beim Hörer
-			erzeugte immer größere Anziehungskraft, das beste Characteristikon eines echten
-			Kunstwerkes, besitzt die Composition nicht. Im Gegentheil, je öfter ich das Werk höre,
-			je kühler und abstoßender wirkt es auf mich ein. Und daß diese Wirkung nicht etwa eine
-			Folge meiner individuellen Geistesbeschaffenheit ist, wird durch die gleiche Erfahrung
-			anderer Musikliebhaber deutlich genug bewiesen. Das Kölner Concertcomité ist durch die
-			Einschaltung dieses Werkes auf das Programm unserer Musikfeste den künstlerischen
-			Traditionen und Principien derselben untreu geworden, und das verdient eine ernste Rüge!
-			Ein glänzender materieller Erfolg freilich ist den Veranstaltern durch diese That nicht
-			entgangen. Ich kenne Leute, denen ein gemalter Theatermondschein immer lieber ist als
-			der wirkliche, und auch das Publikum eines Musikfestes besteht nur zum kleinsten Theile
-			aus Musikfreunden und Kunstverständigen und jauchzt dem Neuen, Unbekannten, wenn
-			dasselbe in gehöriger Weise eingeführt wird, aus vollem Halse entgegen. Und an dem
-			Letzteren, der Einführungsweise, ließ man nichts mangeln. Vortreffliche publicistische
-			Einführung der Composition und ihres Autors — begeisterter Empfang — Hervorhebung der
-			Großmuth, mit welcher der autor auf jedes Honorar für seine Mitwirkung verzichtet — als
-			Dankesspende goldener Lorbeerkranz, Tactirstock, Festessen — das war alles ganz gut
-			gemacht und sprach sehr zum Vortheil des gastgeberischen Pflichtverhältnisses unserer
-			rheinischen Landsleute. Leider wurde aber weder das <title ref="#verdi.requiem">Requiem</title> noch sein Autor um ein Haar besser dadurch. Ich gesteht, daß ich
-			mich trotz der ausgezeichneten Wiedergabe des Werkes und der vortrefflichen,
-			höchsteigenständigen Leitung des Componisten entschieden langweilte. Man konnte sich
-			eben weniger über das Was als über das Wie *) des Geleisteten freuen, und das bleibt auf
-			einem solchen Feste immer traurig. Wo die Kunstmittel zum Selbstzweck werden, da hört
-			die Kunst auf und fängt die Künstelei an. Die Kraft und Frische unserer rheinischen
-			Sängerchöre, welche mir ein norddeutscher Componist jüngst so begeistert hervorhob,
-			traten auch heute wieder schön zu Tage, aber diese Eigenschaften reichten nicht aus, für
-			das Was zu entschädigen. — Und auf ein solches Was läßt man <persName ref="#beethoven.ludwig-van">Beethoven’s</persName>
-			<title ref="#beethoven.symphonie-9">Neunte</title> folgen!? <persName ref="#dumas.alexandre.pere">Dumas père</persName> und <persName ref="#shakespeare.william">Shakespeare</persName> Arm in Arm! Eine Geschmacklosigkeit von bemerkenswerther
-			Größe! Die Manen des unsterblichen Instrumentaldichters schienen sich denn auch für die
-			ihnen octroyirte Gesellschaft rächen zu wollen, denn die Wiedergabe des Werkes war trotz
-				<persName ref="#hiller.ferdinand">Hiller’s</persName> ausgezeichneter Leitung und der
-			schönen Leistungen von <persName ref="#assmann.adele">Adele Aßmann</persName> und <persName ref="#henschel.georg">Henschel</persName> durchaus nicht vollkommen. In zweiter Linie
-			bleibt allerdings die im Allgemeinen vortreffliche Exactheit und Stimmfülle des Chores
-			zu loben. Bei dem Orchester ergaben sich dieselben Eigenschaften durch die Anwesenheit
-			so vieler trefflicher Künstler von selbst. Einzelne Mitglieder hätte ich allerdings
-			lieber nicht auf der Liste gesehen, da dieselben die für ihre Stellung nöthigen
-			Qualitäten kaum in Besitz hatten. Die seinen solchen Mangel vermeidende sorgfältige
-			Auswahl ist aber gewiß ebenso schwer zu erreichen, wie das Abwenden unberechenbarer, aus
-			äußeren Gründen resultierender Eventualitäten, worunter auch die Aufführung der neunten
-			Symphonie litt. Dagegen muß ich einer für die innere Entwicklung unserer Musikfeste
-			vielleicht von großer Bedeutung werdenden, reinäußerlichen Reform des Kölner Comités
-			gedenken. Das ist die feierliche Cassirung — man erschrecke nicht! ich meine nur eine
-			geistige — des auf unseren Musikfestprogrammen so beliebten Festdirigenten. Ich finde
-			nämlich das bisher beliebte Engagement eines zweiten auswärtigen Festdirigenten, dessen
-			Name den Comité’s nur als Magnet für einen regen Billetverkauf dient, durchaus
-			verwerflich. Das Engagement eines solchen homme de qualité hat nur dann Sinn und Zweck,
-			wenn er, — wie <persName ref="#verdi.giuseppe">Verdi</persName> — auf dem Feste ein Werk
-			eigener Composition zu dirigiren hat oder wenn der einheimische Dirigent künstlerisch
-			impotent ist. Schiebt man aber den fremden Dirigenten, den einheimitschen, dem doch die
-			Hauptmühe und also auch das Heuptverdienst zufällt, in rücksichtsloser Weise
-			zurücksetzend, als lockendes Aushängeschild für die vielköpfige Hydra Publikum in den
-			Vordergrund des Festes, so begeht man damit einen Verstoß gegen das wahre Verdienst,
-			sodaß ich nicht begrfife, wie diese Festdirigentenmanie sich in den Städten, <placeName ref="#aachen">Aachen</placeName>, <placeName ref="#koeln">Köln</placeName> und <placeName ref="#duesseldorf">Düsseldorf</placeName>, die doch an guten Musikern und vortrefflichen
-			Dirigenten keinen Mangel haben, so hartnäckig einnisten konnte. Sind die Vorstudien zu
-			der Feier durch die einheimischen Dirigenten nicht mit genügender sorgfalt betrieben
-			worden, so ist auch der beste Festdirigent nicht im Stande, diesen Fehler in zwei oder
-			drei Vorproben (und mehr bleiben ihm zur Entwickelung seiner Thätigkeit nicht übrig) zu
-			corrigiren. Wozu also das fortwährende Beibehalten eines Reclamemittels, dessen die
-			Feste durch ihre innere Tüchtigkeit doch überhoben sein sollten? Die vortreffliche
-			Directionsthätigkeit unseres rheinischen Musikgenerals <persName ref="#hiller.ferdinand">Hiller</persName> kenne ich nun schon seit Jahren und muß gestehen, daß mir jede neue
-			Probe Genuß bereitet. Man fühlt nicht nur die Markirung jedes einzelnen Tacttheils, auch
-			das leiseste piano, das unvermuthete sforzato prägt sich in den Bewegungen des von der
-			eisernen Faust mit infallibler Sicherheit geführten Stabes aus. Die dynamischen
-			Schattirungen regnen den Ausführenden ordentlich auf die Köpfe hernieder und selbst der
-			Zuhörer glaubt diese wuchtig markirten Noten mit den Augen fühlen zu können. Ein zweiter
-			Moses, weiß <persName ref="#hiller.ferdinand">Hiller</persName> (wenn auch nicht dem Felsen,
-			so doch was vielleicht noch mehr) dem dürren Holze die belebendste Geistesquelle zu
-			entlocken, eine Eigenschaft, worin er von nicht vielen Zeitgenossen übertroffen
-			wird.</p>
-		<p>Ueberblicken wir nun den Totaleindruck alles Gebotenen und abstrahiren von der
-			geschmacklosen Zusammensetzung des Programmes, welches durch die dem <persName ref="#verdi.giuseppe">Verdi’schen</persName>
-			<title ref="#verdi.requiem">Requiem</title> vorausgehende <title ref="#mozart.die-zauberfloete.ouvertuere">Ouverture zur „Zauberflöte“</title> noch
-			einen größeren Contrastwechsel erhielt, als die <title ref="#beethoven.symphonie-9">Neunte
-				Symphonie</title> allein hervorgerufen haben würde, eine Zusammensetzung, die auch am
-			letzten Abend wieder Manches zu wünschen übrig ließ, so müssen wir den Preis der besten
-			Leistung und des nachhaltigsten, schönsten und tiefsten Eindrucks unstreitig der ersten
-			Aufführung: der Wiedergabe von <persName ref="#haydn.joseph">Haydn’s</persName> „<title ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“ zusprechen. — <gap resp="tr"/> Das
-			Programm enthielt jedoch in dem <title ref="#verdi.requiem.5">Agnus dei</title> aus <persName ref="#verdi.giuseppe">Verdi’s</persName>
-			<title ref="#verdi.requiem">Requiem</title> und der von <persName ref="#hiller.ferdinand">Hiller</persName> arrangirten Nationalhymne: <title ref="#heil-dir-im-siegerkranz">„Heil Dir im Siegerkranz“</title> (!) zwei Nummern, die durchaus nicht in seinen
-			Rahmen paßten und also die Gesammtwirkung des Musikabends störten. Ich habe bisher immer
-			der Meinung gelebt, unsere Musikfeste seien rein künstlerische Unternehmungen und würden
-			als solche dem Einfluß patriotischer oder unpatriotischer Demonstratiönchen entzogen.
-				<gap resp="tr"/></p>
-		<p>*) Verglch. S. 405: Provinzialmusikfeste.<note resp="tr" type="textLink">Vgl. <persName ref="#zopff.hermann">Hermann Zopff</persName>, <ref type="text" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18770921&amp;seite=5">NZfM, 21. September 1877 (Nr. 39), S. 405</ref>: »Einer der schönsten,
-				fruchtbringendsten Züge des germanischen Volkscharakters ist unleugbar der
-				Gemeinsinn. <gap resp="tr"/> Wenn wir die bei allen Kunstleistungen maßgebenden
-				Hauptfragen nach dem <hi rend="widespace">Wie</hi> und <hi rend="widespace">Was</hi>
-				auch hier schärfer ins Auge fassen, so wird <gap resp="tr"/> der ersteren von beiden
-				in der Regel mit gebührender Genugthuung entsprochen. Seltener dagegen läst sich
-				dies in Bezug auf die letztere behaupten.«</note></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>NZfM, Leipzig, 1877</title>
+				<author><persName ref="#schrattenholz.josef"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nzfm_1877_niederrheinisches-musikfest.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nzfm" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date cert="low" when-iso="1877-06-01"/>
+					<biblScope unit="issue">Extra-Beilage</biblScope>
+					<biblScope unit="volume">73</biblScope>
+					<biblScope unit="page">[605]–[606]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#koeln"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nzfm_1877_i.png"
+			url="https://archive.org/stream/NeueZeitschriftFuerMusik1877Jg44Bd73#page/n604/mode/1up"/>
+		<graphic n="nzfm_1877_ii.png"
+			url="https://archive.org/stream/NeueZeitschriftFuerMusik1877Jg44Bd73#page/n605/mode/1up"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="widespace larger bold antiqua">EXTRA-BEILAGE.</head>
+			<head rend="bold"><rs ref="#koeln.1877" type="event">54. Niederrheinisches Musikfest in
+						<placeName ref="#koeln">Cöln</placeName></rs></head>
+			<head>am <date when-iso="1877-05-20">20.</date>
+				<date when-iso="1877-05-21">21.</date> und <date when-iso="1877-05-22">22. Mai
+					1877</date></head>
+			<head rend="smaller">von <persName ref="#schrattenholz.josef">J. Schrattenholz</persName>.</head>
+			<p><persName ref="#haydn.joseph">Haydn’s</persName> „<title
+					ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“ und <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> waren die beiden für das diesmalige Fest
+				gewählten Hauptwerke. <persName ref="#hiller.ferdinand">Hiller</persName> hatte dem
+				Festprogramm ein kleines Vorwort vorausgehen lassen, worin er sich sowohl über die
+					<title ref="#haydn.die-schoepfung">„Schöpfung“</title> und die „<title
+					ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“ wie über <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> äußerte <gap resp="tr"/></p>
+			<p>Für das <persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>’sche</persName>
+				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> hat, irre ich
+				nicht, in <placeName ref="#deutschland">Deutschland</placeName> zuerst <persName
+					ref="#hiller.ferdinand">Hiller</persName> Propaganda gemacht und zwar mit einem
+				in der „<orgName ref="#koelnische-zeitung">Köln. Ztg</orgName>“ public. Artikel<note
+					resp="tr" type="textLink">Vgl. <ref target="kz_1875-08-24_requiem.xml"
+						type="text">Kölnische Zeitung, 24. August 1875</ref>.</note>, welcher auch
+				im Textbuche des diesjährigen Festes abgedruckt ist. <placeName ref="#koeln"
+					>Köln</placeName> brachte denn auch vor 1½ Jahren die <rs ref="#koeln.1875"
+					type="event">erste Aufführung</rs> der Novität in <placeName ref="#deutschland"
+					>Deutschland</placeName>. Dem Titel zufolge hat man ein entschiedenes Recht,
+				dieselbe als ein <hi rend="antiqua">Requiem</hi>, d. h. als eine, bei Gelegenheit
+				der in katholischen Kirchen zu Ehren eines Todten gefeierten Seelenmesse
+				aufzuführende Tondichtung zu betrachten. <persName ref="#hiller.ferdinand"
+					>Hiller</persName> bestreitet dies jedoch und will das Werk, wol zur
+				Erinnerungsfeier des großen Dichters geschrieben, nicht als kirchliches, sondern als
+				pathetisch-festliches aufgefaßt wissen. Ich kann dem nicht zustimmen. Der Text
+				bindet den Componisten bis zu einer gewissen Grenze in allen vocalen
+				Compositionsgattungen, denn er bedingt die Wahl der formalen Ausdrucksmittel und
+				also auch den Stil des Componisten. In einer Oper dürfen wir andere Stilformen
+				verlangen wie im Oratorium und in diesem andere als in der Mischcantate oder im
+				Requiem. Selbst die Mitwirkung einzelner Instrumente wird durch diese
+				Verschiedenartigket des Stils bedingt. Und was nun die rein geistlichen
+				Musikgattungen, in specie die Messe und das Requiem betrifft, so setzen diese schon
+				durch ihre bestimmt abgegrenzten poetischen Formen dem Componisten solche
+				Daumschrauben an, daß man durchaus nicht annehmen kann, derjenige Tondichter,
+				welcher sich zur Composition einer Messe oder eines Requiem verstehe, thue dies ohne
+				Beobachtung des kirchlichen Charakters dieser Tonstücke. Er mag es ohne die Hoffnung
+				thun, sein Werk jemals in einer Kirche aufzuführen, aber ohne den Wunsch, das Werk
+				dem Orte, für den es gedacht ist, einstens zugänglich gemacht zu sehen und ohne den
+				noch näher liegenden Wunsch, durch seine Aufführung im Hörer religiöse Empfindungen
+				zu erwecken, wird der Componist, wenn der es mit der Kunst und seiner Sache
+				überhaupt ernst nimmt, niemals an eine solche Arbeit herantreten. Gemüther indeß,
+				die sich in unserer rationalistischen Zeit aus innerer Ueberzeugung und also mit
+				begeisterter Hingabe der Composition rein kirchlicher Stoffe unterziehen (und nur
+				solche dürfen dies, oder sollten es wenigstens dürfen) sind sehr spärlich gesät
+				heutzutage und meiner Ueberzeugung zufolge nicht zum Schaden der Kunst. Wir besitzen
+				in den Werken eines <persName ref="#bach.johann-sebastian">Bach</persName>, von den
+				älteren eines <persName ref="#palestrina.giovanni-pierluigi">Palestrina</persName>,
+					<persName ref="#astorga.emanuele-d">Astorga</persName>, <persName
+					ref="#durante.francesco">Durante</persName> und den glücklichen Nachfolgern ganz
+				zu schweigen, einen so unendlichen und werthvollen Schatz geistlicher Musik, daß wir
+				Jahrzehnte lang davon zehren können, ohne ihn nur zum kleinsten Theile erschöpft zu
+				haben. Das soll natürlich keinen Sohn der Jetztzeit und sei er selbst ein Italiener,
+				davon abhalten, auch seinerseits seinen religiösen Bedürfnissen durch Anschluß an
+				die kirchlichen Formen Ausdruck zu geben, wenn anders er solche Bedürfnisse hat oder
+				bekommt. Geben wir auch einmal zu, daß dem Componisten eine kirchliche Verwendung
+				des <hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> gänzlich
+				fern gelegen und er bei der Arbeit nur eine in poetisch-weltlichem Sinne gedachte
+				Verherrlichung des Angedenkens eines großen Todten: ein Concertsaal-<hi
+					rend="antiqua">Requiem</hi> im Auge hatte, auch ein solches bleibt immer ein <hi
+					rend="antiqua">Requiem</hi> und kann und darf seinem idealen Hauptziele: der
+				Wiedererschaffung einer frommen, geistigen Todtenfeier im Hirne des Hörern nicht
+				untreu werden. Das wird aber nicht erreicht durch Anwendung der vollen Mittel
+				moderner Orchester- und Gesangs-Technik und aller <hi rend="widespace"
+					>raffinirten</hi> Erfahrungen einer mehrjährigen <hi rend="widespace"
+				>Opern</hi>praxis. Das wird nicht erreicht durch fein spintisierte <hi
+					rend="widespace">Schlageffecte</hi>, <choice>
+					<orig>drrch</orig>
+					<corr resp="tr">durch</corr>
+				</choice> subtile Reflexionen — das wird erreicht nur durch inneren schöpferischen
+				Drang und Befähigung, durch die geniale Allgewalt des mit unüberwindlicher
+				Naturkraft sich äußernden genialen, gottgesandten Gedankens, der seine Originalität
+				in seiner Aussprache trägt, das wird erreicht nur durch den Mund des wahren, reines
+				Genies, durch die Mithilfe echter Künstlerschaft, deren Coexistenz die
+				Tonriesenbauten unserer Großmeister ihren granitnen ewigen Bau und ihre wunderbare
+				Architektonik verdanken. „Wenn ihr’s nicht fühlt, ihr werdet’s nicht erjagen, wenn
+				es nicht aus der <hi rend="widespace">Seele</hi> dringt und mit urkräftigem Behagen
+				die Herzen aller Hörer zwingt.“<note resp="tr" type="literatureLink">Vgl. <persName
+						ref="#goethe.johann-wolfgang-von">Johann Wolfgang Goethe</persName>: <ref
+						target="http://www.deutschestextarchiv.de/goethe_faust01_1808/49"
+						type="text">Faust. Eine Tragödie, Tübingen 1808</ref>, hier: S. 43.</note>
+				Und eben die in diesen Versen ruhende Grundforderung alles echten, wahrhaft
+				Kunstgemäßen vermag ich dem <persName ref="#verdi.giuseppe">Verdi’schen</persName>
+				Werke beim besten Willen nicht zuzusprechen, wie oft ich es auch höre und mit wie
+				guten Vorsätzen ich auch den Clavierauszug in die Hand nehme. Aeußere Vorzüge
+				(andere hebt, wenn man seiner Kritik auf den Grund geht, eigentlich auch <persName
+					ref="#hiller.ferdinand">Hiller</persName> nicht hervor) lassen sich dem Werke
+				viele nachrühmen, <hi rend="widespace">innere sehr wenige</hi>. Die beim Hörer
+				erzeugte immer größere Anziehungskraft, das beste Characteristikon eines echten
+				Kunstwerkes, besitzt die Composition nicht. Im Gegentheil, je <hi rend="widespace"
+					>öfter</hi> ich das Werk höre, je <hi rend="widespace">kühler</hi> und <hi
+					rend="widespace">abstoßender</hi> wirkt es auf mich ein. Und daß diese Wirkung
+				nicht etwa eine Folge meiner individuellen Geistesbeschaffenheit ist, wird durch die
+				gleiche Erfahrung anderer Musikliebhaber deutlich genug bewiesen. Das Kölner
+				Concertcomité ist durch die Einschaltung dieses Werkes auf das Programm unserer
+				Musikfeste den künstlerischen Traditionen und Principien derselben <hi
+					rend="widespace">untreu geworden</hi>, und das verdient eine <hi
+					rend="widespace">ernste Rüge</hi>! Ein glänzender materieller Erfolg freilich
+				ist den Veranstaltern durch diese That nicht entgangen. Ich kenne Leute, denen ein
+				gemalter Theatermondschein immer lieber ist als der wirkliche, und auch das Publikum
+				eines Musikfestes besteht nur zum kleinsten Theile aus Musikfreunden und
+				Kunstverständigen und jauchzt dem Neuen, Unbekannten, wenn dasselbe in gehöriger
+				Weise eingeführt wird, aus vollem Halse entgegen. Und an dem Letzteren, der
+				Einführungsweise, ließ man nichts mangeln. Vortreffliche <hi rend="widespace"
+					>publicistische</hi> Einführung der Composition und ihres Autors — begeisterter
+				Empfang — <hi rend="widespace">Hervorhebung der Großmuth</hi>, mit welcher der autor
+				auf jedes Honorar für seine Mitwirkung verzichtet — als Dankesspende goldener <hi
+					rend="widespace">Lorbeerkranz</hi>, Tactirstock, Festessen — das war alles ganz
+				gut gemacht und sprach sehr zum Vortheil des gastgeberischen Pflichtverhältnisses
+				unserer rheinischen Landsleute. Leider wurde aber weder das <title
+					ref="#verdi.requiem">Requiem</title> noch sein Autor um ein Haar besser dadurch.
+				Ich gesteht, daß ich mich trotz der ausgezeichneten Wiedergabe des Werkes und der
+				vortrefflichen, höchsteigenständigen Leitung des Componisten entschieden langweilte.
+				Man konnte sich eben weniger über das <hi rend="widespace">Was</hi> als über das <hi
+					rend="widespace">Wie</hi> *) des Geleisteten freuen, und das bleibt auf einem
+				solchen Feste immer traurig. Wo die Kunstmittel zum Selbstzweck werden, da hört die
+				Kunst auf und fängt die Künstelei an. Die Kraft und Frische unserer rheinischen
+				Sängerchöre, welche mir ein norddeutscher Componist jüngst so begeistert hervorhob,
+				traten auch heute wieder schön zu Tage, aber diese Eigenschaften reichten nicht aus,
+				für das Was zu entschädigen. — Und auf ein solches Was läßt man <hi rend="widespace"
+						><persName ref="#beethoven.ludwig-van">Beethoven’s</persName>
+					<title ref="#beethoven.symphonie-9">Neunte</title></hi> folgen!? <persName
+					ref="#dumas.alexandre.pere">Dumas père</persName> und <persName
+					ref="#shakespeare.william">Shakespeare</persName> Arm in Arm! Eine <hi
+					rend="widespace">Geschmacklosigkeit</hi> von bemerkenswerther Größe! Die Manen
+				des unsterblichen Instrumentaldichters schienen sich denn auch für die ihnen
+				octroyirte Gesellschaft rächen zu wollen, denn die Wiedergabe des Werkes war trotz
+					<persName ref="#hiller.ferdinand">Hiller’s</persName> ausgezeichneter Leitung
+				und der schönen Leistungen von <persName ref="#assmann.adele">Adele
+					Aßmann</persName> und <persName ref="#henschel.georg">Henschel</persName>
+				durchaus nicht vollkommen. In zweiter Linie bleibt allerdings die im Allgemeinen
+				vortreffliche Exactheit und Stimmfülle des Chores zu loben. Bei dem Orchester
+				ergaben sich dieselben Eigenschaften durch die Anwesenheit so vieler trefflicher
+				Künstler von selbst. Einzelne Mitglieder hätte ich allerdings lieber nicht auf der
+				Liste gesehen, da dieselben die für ihre Stellung nöthigen Qualitäten kaum in Besitz
+				hatten. Die seinen solchen Mangel vermeidende sorgfältige Auswahl ist aber gewiß
+				ebenso schwer zu erreichen, wie das Abwenden unberechenbarer, aus äußeren Gründen
+				resultierender Eventualitäten, worunter auch die Aufführung der neunten Symphonie
+				litt. Dagegen muß ich einer für die innere Entwicklung unserer Musikfeste vielleicht
+				von großer Bedeutung werdenden, reinäußerlichen Reform des Kölner Comités gedenken.
+				Das ist die feierliche Cassirung — man erschrecke nicht! ich meine nur eine geistige
+				— des auf unseren Musikfestprogrammen so beliebten Festdirigenten. Ich finde nämlich
+				das bisher beliebte Engagement eines zweiten auswärtigen Festdirigenten, dessen Name
+				den Comité’s nur als Magnet für einen regen Billetverkauf dient, durchaus
+				verwerflich. Das Engagement eines solchen homme de qualité hat nur dann Sinn und
+				Zweck, wenn er, — wie <persName ref="#verdi.giuseppe">Verdi</persName> — auf dem
+				Feste ein Werk eigener Composition zu dirigiren hat oder wenn der einheimische
+				Dirigent künstlerisch impotent ist. Schiebt man aber den fremden Dirigenten, den
+				einheimitschen, dem doch die Hauptmühe und also auch das Heuptverdienst zufällt, in
+				rücksichtsloser Weise zurücksetzend, als lockendes Aushängeschild für die
+				vielköpfige Hydra Publikum in den Vordergrund des Festes, so begeht man damit einen
+				Verstoß gegen das wahre Verdienst, sodaß ich nicht begrfife, wie diese
+				Festdirigentenmanie sich in den Städten, <placeName ref="#aachen"
+				>Aachen</placeName>, <placeName ref="#koeln">Köln</placeName> und <placeName
+					ref="#duesseldorf">Düsseldorf</placeName>, die doch an guten Musikern und
+				vortrefflichen Dirigenten keinen Mangel haben, so hartnäckig einnisten konnte. Sind
+				die Vorstudien zu der Feier durch die einheimischen Dirigenten nicht mit genügender
+				sorgfalt betrieben worden, so ist auch der beste Festdirigent nicht im Stande,
+				diesen Fehler in zwei oder drei Vorproben (und mehr bleiben ihm zur Entwickelung
+				seiner Thätigkeit nicht übrig) zu corrigiren. Wozu also das fortwährende Beibehalten
+				eines Reclamemittels, dessen die Feste durch ihre innere Tüchtigkeit doch überhoben
+				sein sollten? Die vortreffliche Directionsthätigkeit unseres rheinischen
+				Musikgenerals <persName ref="#hiller.ferdinand">Hiller</persName> kenne ich nun
+				schon seit Jahren und muß gestehen, daß mir jede neue Probe Genuß bereitet. Man
+				fühlt nicht nur die Markirung jedes einzelnen Tacttheils, auch das leiseste piano,
+				das unvermuthete sforzato prägt sich in den Bewegungen des von der eisernen Faust
+				mit infallibler Sicherheit geführten Stabes aus. Die dynamischen Schattirungen
+				regnen den Ausführenden ordentlich auf die Köpfe hernieder und selbst der Zuhörer
+				glaubt diese wuchtig markirten Noten mit den Augen fühlen zu können. Ein zweiter
+				Moses, weiß <persName ref="#hiller.ferdinand">Hiller</persName> (wenn auch nicht dem
+				Felsen, so doch was vielleicht noch mehr) dem dürren Holze die belebendste
+				Geistesquelle zu entlocken, eine Eigenschaft, worin er von nicht vielen Zeitgenossen
+				übertroffen wird.</p>
+			<p>Ueberblicken wir nun den Totaleindruck alles Gebotenen und abstrahiren von der geschmacklosen
+				Zusammensetzung des Programmes, welches durch die dem <persName
+					ref="#verdi.giuseppe">Verdi’schen</persName>
+				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> vorausgehende
+					<title ref="#mozart.die-zauberfloete.ouvertuere">Ouverture zur
+					„Zauberflöte“</title> noch einen größeren Contrastwechsel erhielt, als die
+					<title ref="#beethoven.symphonie-9">Neunte Symphonie</title> allein
+				hervorgerufen haben würde, eine Zusammensetzung, die auch am letzten Abend wieder
+				Manches zu wünschen übrig ließ, so müssen wir den Preis der besten Leistung und des
+				nachhaltigsten, schönsten und tiefsten Eindrucks unstreitig der ersten Aufführung:
+				der Wiedergabe von <persName ref="#haydn.joseph">Haydn’s</persName> „<title
+					ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“ zusprechen. — Das Programm
+				des <hi rend="widespace">dritten</hi> Concerttages bot ja auch manches Schöne und
+				Genußreiche. <gap resp="tr"/> Das Programm enthielt jedoch in dem <hi rend="antiqua"
+						><title ref="#verdi.requiem.5">Agnus Dei</title></hi> aus <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
+				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> und der von
+					<persName ref="#hiller.ferdinand">Hiller</persName> arrangirten Nationalhymne:
+					<title ref="#heil-dir-im-siegerkranz">„Heil Dir im Siegerkranz“</title> (!) zwei
+				Nummern, die <hi rend="widespace">durchaus nicht in seinen Rahmen paßten</hi> und
+				also die Gesammtwirkung des Musikabends <hi rend="widespace">störten</hi>. Ich habe
+				bisher immer der Meinung gelebt, unsere Musikfeste seien rein künstlerische
+				Unternehmungen und würden als solche dem Einfluß patriotischer oder unpatriotischer
+				Demonstratiönchen entzogen. Was nun die Symphonie von <persName
+					ref="#hiller.ferdinand">Hiller</persName> betrifft <gap resp="tr"/> Im Uebrigen
+				berührte es wirklich erfrischend, im Gegensatz zu so vieler greisenhafter
+				Jugendlichkeit unter den neueren Tondichtern durch das neue Opus wieder einmal einem
+				jugendfrohen Greise zu begegnen. <persName ref="#hiller.ferdinand">Hiller</persName>
+				besitzt darin wirklich eine gewisse Verwandtschaft mit dem alten Vater <persName
+					ref="#haydn.joseph">Haydn</persName>, aus dessen herrlichen „<title
+					ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“ wir leider — trotzdem wir es
+				der Sitte gemäß zu erwarten berechtigt waren, — nichts mehr vernahmen. Statt dessen
+				sang der Chor in unangenehm detonirender Weise abermals <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
+				<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>!</p>
+			<p>*) Verglch. S. 405: Provinzialmusikfeste.<note resp="tr" type="textLink">Vgl.
+						<persName ref="#zopff.hermann">Hermann Zopff</persName>, <ref
+						target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18770921&amp;seite=5"
+						type="text">NZfM, 21. September 1877 (Nr. 39), S. 405</ref>: »Einer der
+					schönsten, fruchtbringendsten Züge des germanischen Volkscharakters ist
+					unleugbar der Gemeinsinn. <gap resp="tr"/> Wenn wir die bei allen
+					Kunstleistungen maßgebenden Hauptfragen nach dem <hi rend="widespace">Wie</hi>
+					und <hi rend="widespace">Was</hi> auch hier schärfer ins Auge fassen, so wird
+						<gap resp="tr"/> der ersteren von beiden in der Regel mit gebührender
+					Genugthuung entsprochen. Seltener dagegen läst sich dies in Bezug auf die
+					letztere behaupten.«</note></p>
+		</body>
+	</text>
 </TEI>

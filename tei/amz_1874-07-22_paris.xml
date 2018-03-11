@@ -14,12 +14,9 @@
 					<orgName ref="#amz" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1874-07-22"/>
-					<biblScope unit="issue">29</biblScope><biblScope unit="volume">9</biblScope>
+					<biblScope unit="issue">29</biblScope>
+					<biblScope unit="volume">9</biblScope>
 					<biblScope unit="column">459–461</biblScope>
-					<link facs="amz_1874-07-22_459-460.jpg"
-						target="http://reader.digitale-sammlungen.de/object/bsb11179879_00246.svg"/>
-					<link facs="amz_1874-07-22_461-462.jpg"
-						target="http://reader.digitale-sammlungen.de/object/bsb11179879_00247.svg"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,22 +33,29 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="amz_1874-07-22_457-458.jpg"
+			url="http://reader.digitale-sammlungen.de/object/bsb11179879_00245.svg" xml:id="f0"/>
+		<graphic n="amz_1874-07-22_459-460.jpg"
+			url="http://reader.digitale-sammlungen.de/object/bsb11179879_00246.svg" xml:id="f1"/>
+		<graphic n="amz_1874-07-22_461-462.jpg"
+			url="http://reader.digitale-sammlungen.de/object/bsb11179879_00247.svg" xml:id="f2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<!--*SEITE Beginn?-->
-			<head rend="larger">Berichte. Nachrichten und Bemerkungen.</head>
-			<cb break="null" n="459" type="skipped"/>
+			<cb facs="#f0" n="458" type="initial"/>
+			<head rend="bold larger egypt">Berichte. Nachrichten und Bemerkungen.</head>
+			<cb break="null" facs="#f1" n="459" type="skipped"/>
 			<p><hi rend="bold">* <placeName ref="#paris">Paris</placeName>.</hi> [»<hi
 					rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Todtenmesse</title> zum Andenken an <persName
 						ref="#manzoni.alessandro">Manzoni</persName></hi>«.] Der in der <orgName
 					ref="#allgemeine-zeitung">Augsburger Allgemeinen Zeitung</orgName> vom <date
 					when-iso="1874-06-30">30. Juni</date> veröffentlichten »Pariser Chronik«<note
-					resp="tr" type="textLink">Vgl. <ref type="text"
-						target="az_1874-06-30_pariser-chronik.xml">Allgemeine Zeitung (Augsburg),
-						30. Juni 1874</ref>.</note> entnehmen wir Nachfolgendes über die <rs
-					type="event" ref="#paris.1874">Aufführung der <title ref="#verdi.requiem"
-						>Todtenmesse</title>
+					resp="tr" type="textLink">Vgl. <ref target="az_1874-06-30_pariser-chronik.xml"
+						type="text">Allgemeine Zeitung (Augsburg), 30. Juni 1874</ref>.</note>
+				entnehmen wir Nachfolgendes über die <rs ref="#paris.1874" type="event">Aufführung
+					der <title ref="#verdi.requiem">Todtenmesse</title>
 					<persName ref="#verdi.giuseppe">Verdi’s</persName></rs> daselbst. »Des Meisters
 					<persName ref="#verdi.giuseppe">Giuseppe Verdi</persName> »<title
 					ref="#verdi.requiem">Todtenmesse</title> zum Andenken an <persName
@@ -135,7 +139,7 @@
 				ohne Einhalt springt ein hochgehaltener Satz ins Triviale über, endet eine
 				ergreifende Phrase mit einer Tanzmelodie, die mit dem Todtenamte doch gewiss nichts
 				zu schaffen hat. Der Beginn <hi rend="italic">piano</hi> in schönem Rhythmus hat
-				nichts Markantes bis zum <title ref="#verdi.requiem.1" n="kyrie">Quartett mit
+				nichts Markantes bis zum <title n="kyrie" ref="#verdi.requiem.1">Quartett mit
 					Chor</title>, das durch die herrlichen Solistinnen einen grossen Eindruck
 				machte. — »<title ref="#verdi.requiem.2">Dies irae</title>« wird von einer Fuge der
 				Trompeten wirksam eingeleitet. »Der Tag des Zorns, an dem die Welt in Funken
@@ -190,39 +194,39 @@
 				Orchester dem ersten Geiger desselben, Herrn <persName ref="#croissille.xxx"
 					>Croissille</persName>, die Hand zum Abschied. Den beiden Damen wurden
 				prachtvolle Bouquets zutheil, den Italienern — nichts, als der verdiente, aber durch
-				den Neid der Freunde hiesiger Sänger ge<cb break="no" n="461" type="regular"
-				/>schwächte Applaus. — <persName ref="#verdi.giuseppe">Verdi’s</persName> Leistung
-				als Dirigent ist keine bedeutende. Er rührt den Taktstock ohne Feuer; man würde
-				schwerlich den leidenschaftlichen Verfasser des <title ref="#verdi.il-trovatore"
-					>Trouvadore</title>, der <title ref="#verdi.la-traviata">Traviata</title>, des
-					<title ref="#verdi.rigoletto">Rigoletto</title> im Kapellmeister <persName
-					ref="#verdi.giuseppe">Verdi</persName> erkennen. Selten nur blickt er in die
-				Partitur, die er nach so häufigen Proben und Aufführungen natürlich bis auf jede
-				Note auswendig weiss. Sonderbar ist ausser der fast genirten Haltung seine
-				Gewohnheit das Pult zu verlassen und einige Schritte den Chören und Solisten näher
-				zu treten, als wolle er voraus bezeichnen, wer nun an die Reihe kommt. Das ist
-				unschön, es hat’s ihm sicher kein Freund gesagt. — Warum hat nun eigentlich der
-				begabte <persName ref="#verdi.giuseppe">Verdi</persName> so viel dramatischen
-				Opernstoff auf ein Kirchen-Requiem vergeudet, das bereits so ganz unvergleichliche
-				Componisten beschäftigt hat? Musste <persName ref="#manzoni.alessandro"
-					>Manzoni</persName> mit neuer Musik gefeiert werden? Genügten <persName
-					ref="#pergolesi.giovanni-battista">Pergolesi</persName>, <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName>, <persName
-					ref="#cherubini.luigi">Cherubini</persName> nicht, und auch <persName
-					ref="#berlioz.hector">Berlioz</persName>, da ihn <persName ref="#verdi.giuseppe"
-					>Verdi’s</persName> Fugen wieder ins Gedächtniss riefen? Warum will <persName
-					ref="#verdi.giuseppe">Verdi</persName> absolut Anderes schaffen, als was seinem
-				speciellen Talent am nächsten liegt? — Es heisst: der Schlusssatz sei schon lange
-				fertig gewesen, da vor mehreren Jahren bereits von einer <title
-					ref="#messa-per-rossini">Messe</title> die Rede war, die zum Andenken <persName
-					ref="#rossini.gioachino">Rossini’s</persName> von allen lebenden italienischen
-				Componisten vereint gefertigt werden sollte. <persName ref="#verdi.giuseppe"
-					>Verdi</persName> hatte dazu jenes Finale geschrieben. Da kam der Krieg
-				dazwischen, und das Kriegsgetöse liess die Musik beiseite liegen. Dann starb
-					<persName ref="#manzoni.alessandro">Manzoni</persName>. Sofort ging der thätige
-				Meister ans Werk, und während seine »<title ref="#verdi.aida">Aïda</title>« wieder
-				überall von ihm reden machte, hatte er schon am ersten Jahrestage des Todes von
-					<persName ref="#manzoni.alessandro">Manzoni</persName> sein <title
+				den Neid der Freunde hiesiger Sänger ge<cb break="no" facs="#f2" n="461"
+					type="regular"/>schwächte Applaus. — <persName ref="#verdi.giuseppe"
+					>Verdi’s</persName> Leistung als Dirigent ist keine bedeutende. Er rührt den
+				Taktstock ohne Feuer; man würde schwerlich den leidenschaftlichen Verfasser des
+					<title ref="#verdi.il-trovatore">Trouvadore</title>, der <title
+					ref="#verdi.la-traviata">Traviata</title>, des <title ref="#verdi.rigoletto"
+					>Rigoletto</title> im Kapellmeister <persName ref="#verdi.giuseppe"
+					>Verdi</persName> erkennen. Selten nur blickt er in die Partitur, die er nach so
+				häufigen Proben und Aufführungen natürlich bis auf jede Note auswendig weiss.
+				Sonderbar ist ausser der fast genirten Haltung seine Gewohnheit das Pult zu
+				verlassen und einige Schritte den Chören und Solisten näher zu treten, als wolle er
+				voraus bezeichnen, wer nun an die Reihe kommt. Das ist unschön, es hat’s ihm sicher
+				kein Freund gesagt. — Warum hat nun eigentlich der begabte <persName
+					ref="#verdi.giuseppe">Verdi</persName> so viel dramatischen Opernstoff auf ein
+				Kirchen-Requiem vergeudet, das bereits so ganz unvergleichliche Componisten
+				beschäftigt hat? Musste <persName ref="#manzoni.alessandro">Manzoni</persName> mit
+				neuer Musik gefeiert werden? Genügten <persName ref="#pergolesi.giovanni-battista"
+					>Pergolesi</persName>, <persName ref="#mozart.wolfgang-amadeus"
+					>Mozart</persName>, <persName ref="#cherubini.luigi">Cherubini</persName> nicht,
+				und auch <persName ref="#berlioz.hector">Berlioz</persName>, da ihn <persName
+					ref="#verdi.giuseppe">Verdi’s</persName> Fugen wieder ins Gedächtniss riefen?
+				Warum will <persName ref="#verdi.giuseppe">Verdi</persName> absolut Anderes
+				schaffen, als was seinem speciellen Talent am nächsten liegt? — Es heisst: der
+				Schlusssatz sei schon lange fertig gewesen, da vor mehreren Jahren bereits von einer
+					<title ref="#messa-per-rossini">Messe</title> die Rede war, die zum Andenken
+					<persName ref="#rossini.gioachino">Rossini’s</persName> von allen lebenden
+				italienischen Componisten vereint gefertigt werden sollte. <persName
+					ref="#verdi.giuseppe">Verdi</persName> hatte dazu jenes Finale geschrieben. Da
+				kam der Krieg dazwischen, und das Kriegsgetöse liess die Musik beiseite liegen. Dann
+				starb <persName ref="#manzoni.alessandro">Manzoni</persName>. Sofort ging der
+				thätige Meister ans Werk, und während seine »<title ref="#verdi.aida">Aïda</title>«
+				wieder überall von ihm reden machte, hatte er schon am ersten Jahrestage des Todes
+				von <persName ref="#manzoni.alessandro">Manzoni</persName> sein <title
 					ref="#verdi.requiem">Requiem</title> bereit.<note resp="tr" type="commentary"
 					>Der letzte Absatz des ursprünglichen Textes („Verdi wird Garibaldi […]“) fehlt.
 					Möglicherweise wurde er wegen des Spaltenumbruchs übersehen.</note></p>

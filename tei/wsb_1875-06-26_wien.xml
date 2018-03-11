@@ -1,44 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Wiener Salonblatt, 26. Juni 1875</title><author><persName ref="#akronym.jk"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wsb_1875-06-26_wiener-briefe.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#wiener-salonblatt" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-26"/>
-				<biblScope unit="issue">26</biblScope><biblScope unit="volume">6</biblScope><series>wsb</series>
-				<biblScope unit="page">9–10</biblScope>
-				<link facs="wsb_1875-06-26_9.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750626&amp;seite=9"/>
-				<link facs="wsb_1875-06-26_10.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750626&amp;seite=10"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="9b" type="initial"/>
-		<head rend="bold larger">Wiener Briefe.</head>
-		<p rend="smaller center">(<gap resp="tr"/> Die neue <title ref="#verdi.aida">„Aïda“</title>. — <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> beim <persName ref="#franz-joseph-i.habsburg">Kaiser</persName>.
-				<gap resp="tr"/>)</p>
-		<pb break="null" n="10" type="skipped"/>
-		<p>Doch wenden wir uns nun einem heiteren Thema zu, einem Thema, das wenigstens heiter sein
-			sollte, wenn es auch nicht immer so ist, dem theatralischen. Die Bühnen haben gerade in
-			der letzten Woche mehr Gesprächsstoff geliefert, als vorher. Mehr als irgendwo macht
-			sich auf theatralischem Gebiete der Kampf uns Dasein geltend. Trotzdem im Augenblicke
-			nur mehr an drei Bühnen: dem Burg-, Carl- und Fürst-Theater gespielt wird, fehlt es in
-			der Theaterwelt nicht an Ereignissen und die Thätigkeit, die in den verschiedenen
-			Kanzleien und Secretarien entfaltet wird, darf nachgerade eine „rührende“ genannt
-			werden. Wenn nur auch das Publikum den Eifer, mit dem man an den Wiener Kunsttempeln
-			bereits jetzt für seine künftigen Vergnügungen zu sorgen beginnt, anerkennen und lohnen
-			wird! Da muß das <placeName ref="#wien.hof-operntheater">Hofoperntheater<surplus resp="tr">n</surplus></placeName> in den Vordergrund gestellt werden, dessen Direction es in
-			wirklich anerkennenswerther Weise noch knapp vor Thorschluß gelungen ist, die
-			lahmgelegte Theaterluft wieder anzufachen und das Publikum in das schöne Haus zu locken,
-			trotzdem das Thermometer 25 und mehr Grade zeigte. Aber, wen würden auch nicht die
-			herrlichen Klänge und Arien <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi> bestricken, wen ließen sie kalt, auf wen übten sie nicht
-			unwiderstehlichen Zauber aus. <rs type="event" ref="#wien.1875">Wir haben gewissenhaft verzeichnet,
-				welche Triumphe der Meister mit seinem <title ref="#verdi.requiem">„Requiem“</title>
-				geerntet</rs>, und es muß uns daher gestattet sein, der <hi rend="widespace">italienischen</hi> „<title ref="#verdi.aida">Aïda</title>“ in wenigen Worten zu
-			gedenken. <cb break="yes" n="2" type="skipped"/> Ueber die Aufnahme und den Empfang in
-				<placeName ref="#wien">Wien</placeName> werden sich sowohl <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> als auch seine Sänger hoffentlich nicht
-			beklagen. Selbst der <hi rend="widespace"><persName ref="#franz-joseph-i.habsburg">Kaiser</persName></hi>, der fast allen Verdi-Abenden beiwohnte, erklärte, er habe
-			selten so Herrliches und Schönes gehört. Die Verleihung des Comthurkreuzes des Franz
-			Josefs-Ordens an den Maestro bezeugt gewiß am besten, in wie hohem Grade die jüngsten
-			Werke <persName ref="#verdi.giuseppe">Verdi’s</persName> den Gefallen des Monarchen erregt
-			haben.</p>
-		<gap resp="tr"/>
-		<p rend="right"><hi rend="antiqua"><persName ref="#akronym.jk">J. K.</persName></hi></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Wiener Salonblatt, 26. Juni 1875</title>
+				<author><persName ref="#akronym.jk"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/wsb_1875-06-26_wiener-briefe.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#wiener-salonblatt" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-26"/>
+					<biblScope unit="issue">26</biblScope>
+					<biblScope unit="volume">6</biblScope>
+					<series>wsb</series>
+					<biblScope unit="page">9–10</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="wsb_1875-06-26_9.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750626&amp;seite=9"/>
+		<graphic n="wsb_1875-06-26_10.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750626&amp;seite=10"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="9b" type="initial"/>
+			<head rend="bold larger">Wiener Briefe.</head>
+			<p rend="smaller center">(<gap resp="tr"/> Die neue <title ref="#verdi.aida"
+					>„Aïda“</title>. — <hi rend="widespace"><persName ref="#verdi.giuseppe"
+						>Verdi</persName></hi> beim <persName ref="#franz-joseph-i.habsburg"
+					>Kaiser</persName>. <gap resp="tr"/>)</p>
+			<pb break="null" n="10" type="skipped"/>
+			<p>Doch wenden wir uns nun einem heiteren Thema zu, einem Thema, das wenigstens heiter
+				sein sollte, wenn es auch nicht immer so ist, dem theatralischen. Die Bühnen haben
+				gerade in der letzten Woche mehr Gesprächsstoff geliefert, als vorher. Mehr als
+				irgendwo macht sich auf theatralischem Gebiete der Kampf uns Dasein geltend.
+				Trotzdem im Augenblicke nur mehr an drei Bühnen: dem Burg-, Carl- und Fürst-Theater
+				gespielt wird, fehlt es in der Theaterwelt nicht an Ereignissen und die Thätigkeit,
+				die in den verschiedenen Kanzleien und Secretarien entfaltet wird, darf nachgerade
+				eine „rührende“ genannt werden. Wenn nur auch das Publikum den Eifer, mit dem man an
+				den Wiener Kunsttempeln bereits jetzt für seine künftigen Vergnügungen zu sorgen
+				beginnt, anerkennen und lohnen wird! Da muß das <placeName
+					ref="#wien.hof-operntheater">Hofoperntheater<surplus resp="tr"
+					>n</surplus></placeName> in den Vordergrund gestellt werden, dessen Direction es
+				in wirklich anerkennenswerther Weise noch knapp vor Thorschluß gelungen ist, die
+				lahmgelegte Theaterluft wieder anzufachen und das Publikum in das schöne Haus zu
+				locken, trotzdem das Thermometer 25 und mehr Grade zeigte. Aber, wen würden auch
+				nicht die herrlichen Klänge und Arien <hi rend="widespace"><persName
+						ref="#verdi.giuseppe">Verdi’s</persName></hi> bestricken, wen ließen sie
+				kalt, auf wen übten sie nicht unwiderstehlichen Zauber aus. <rs ref="#wien.1875"
+					type="event">Wir haben gewissenhaft verzeichnet, welche Triumphe der Meister mit
+					seinem <title ref="#verdi.requiem">„Requiem“</title> geerntet</rs>, und es muß
+				uns daher gestattet sein, der <hi rend="widespace">italienischen</hi> „<title
+					ref="#verdi.aida">Aïda</title>“ in wenigen Worten zu gedenken. <cb break="yes"
+					n="2" type="skipped"/> Ueber die Aufnahme und den Empfang in <placeName
+					ref="#wien">Wien</placeName> werden sich sowohl <hi rend="widespace"><persName
+						ref="#verdi.giuseppe">Verdi</persName></hi> als auch seine Sänger
+				hoffentlich nicht beklagen. Selbst der <hi rend="widespace"><persName
+						ref="#franz-joseph-i.habsburg">Kaiser</persName></hi>, der fast allen
+				Verdi-Abenden beiwohnte, erklärte, er habe selten so Herrliches und Schönes gehört.
+				Die Verleihung des Comthurkreuzes des Franz Josefs-Ordens an den Maestro bezeugt
+				gewiß am besten, in wie hohem Grade die jüngsten Werke <persName
+					ref="#verdi.giuseppe">Verdi’s</persName> den Gefallen des Monarchen erregt
+				haben.</p>
+			<gap resp="tr"/>
+			<p rend="right"><hi rend="antiqua"><persName ref="#akronym.jk">J. K.</persName></hi></p>
+		</body>
+	</text>
 </TEI>

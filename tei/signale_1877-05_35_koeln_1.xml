@@ -12,16 +12,12 @@
 				<bibl>
 					<orgName ref="#signale" role="publisher"/>
 					<placeName ref="#leipzig"/>
-					<date cert="low" when-iso="1877-05-30" notAfter-iso="1877-05-30"
-						notBefore-iso="1877-05-23"/>
+					<date cert="low" notAfter-iso="1877-05-30" notBefore-iso="1877-05-23"
+						when-iso="1877-05-30"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach dem Ende des Musikfestes-->
-					<biblScope unit="issue">35</biblScope><biblScope unit="volume">35</biblScope>
+					<biblScope unit="issue">35</biblScope>
+					<biblScope unit="volume">35</biblScope>
 					<biblScope unit="page">552</biblScope>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=554"/>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=558"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,22 +34,30 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=554"/>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1877&amp;page=558"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="548" type="initial"/>
-			<head rend="larger">Dur und Moll.</head>
-			<pb break="null" n="552" type="skipped"/>
-			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
+			<gap/>
+			<pb n="552"/>
+			<gap/>
+			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
 				<hi rend="widespace">Maëstro <hi rend="widespace"><persName ref="#verdi.giuseppe"
 							>Verdi</persName></hi></hi>, welcher aus Anlaß des dort stattfindenden
-					<rs type="event" ref="#koeln.1877">rheinischen Musikfestes</rs> mehre Tage in
+					<rs ref="#koeln.1877" type="event">rheinischen Musikfestes</rs> mehre Tage in
 					<placeName ref="#koeln">Köln</placeName> weilte, ist daselbst Gegenstand
 				vielfacher Ovationen gewesen. Das Comité des Musikfestes machte ihm ein
 				Ehrengeschenk mit dem neuen Rhein-Album von Professor <persName
 					ref="#scheuren.caspar">Caspar Scheuren</persName> in <placeName
 					ref="#duesseldorf">Düsseldorf</placeName>.<note resp="tr" type="literatureLink"
 					>Vgl. <persName ref="#scheuren.caspar">Caspar Scheuren</persName>, <ref
-						type="text" target="http://nbn-resolving.de/urn:nbn:de:hbz:061:2-1456">Vom
+						target="http://nbn-resolving.de/urn:nbn:de:hbz:061:2-1456" type="text">Vom
 						deutschen Rhein. Mit landschaftlichen u. architektonischen Ansichten nebst
 						Illustrationen zu rheinischen Dichtungen, in 50 Blättern. Düsseldorf:
 						Breidenbach &amp; Baumann, 1877</ref>.</note> Der Meister <persName

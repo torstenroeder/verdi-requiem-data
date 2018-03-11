@@ -14,12 +14,10 @@
 					<orgName ref="#das-vaterland" role="publisher"/>
 					<placeName ref="#wien"/>
 					<date when-iso="1875-06-23"/>
-					<biblScope unit="issue">172</biblScope><biblScope unit="volume"
-						>16</biblScope><series>dv</series>
+					<biblScope unit="issue">172</biblScope>
+					<biblScope unit="volume">16</biblScope>
+					<series>dv</series>
 					<biblScope unit="page">1</biblScope>
-					<link facs="dv_1875-06-23_1.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=vtl&amp;datum=18750623&amp;seite=1"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,6 +34,11 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="dv_1875-06-23_1.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=vtl&amp;datum=18750623&amp;seite=1"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Vom Operntheater.</head>
@@ -124,7 +127,7 @@
 			<p>Er hat aber nicht nur das Haus und die Casse gefüllt, er hat noch ein Drittes
 				bewirkt; er hat bewirkt, daß man über die Angelegenheiten des Operntheaters wieder
 				mit einiger Lebhaftigkeit spricht, und zwar zu einer Zeit, da die anderen Theater
-				der Unterhaltung so wenig Stoff und Anhalt bieten. <rs type="event" ref="#wien.1875"
+				der Unterhaltung so wenig Stoff und Anhalt bieten. <rs ref="#wien.1875" type="event"
 					>Freilich spricht man mehr von <persName ref="#verdi.giuseppe">Verdi</persName>
 					und seinem „<title ref="#verdi.requiem">Requiem</title>“ als vom Operntheater;
 					allein da die Aufführung dieses Werkes im <placeName
@@ -142,8 +145,8 @@
 					>Requiem</title>“ hie und da sehr scharfe Urtheile vernehmen. Die Puristen
 				wollen es ein für alle Mal als „<title ref="#verdi.requiem">Requiem</title>“ gar
 				nicht gelten lassen.</p>
-			<p>Dagegen erwiedern die Anhänger <persName ref="#verdi.giuseppe">Verdi’s</persName>, daß auch in
-					<persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName> „<title
+			<p>Dagegen erwiedern die Anhänger <persName ref="#verdi.giuseppe">Verdi’s</persName>,
+				daß auch in <persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName> „<title
 					ref="#mozart.requiem">Requiem</title>“ Stellen vorkommen, welche ebenso gut im
 					„<title ref="#mozart.don-giovanni">Don Juan</title>“ einen Platz hätten finden
 				können, und selbst in der <hi rend="antiqua"><title ref="#beethoven.missa-solemnis"
@@ -175,7 +178,7 @@
 					>Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ sich ebenso
 				wenig wie in dessen Opern erkennen läßt.</p>
 			<p>Was mich betrifft, so habe ich schon in meinem vorigen Berichte<note resp="tr"
-					type="textLink"><ref type="text" target="dv_1875-06-15_verdis-requiem.xml">Vgl.
+					type="textLink"><ref target="dv_1875-06-15_verdis-requiem.xml" type="text">Vgl.
 						Das Vaterland (Wien), 15. Juni 1875.</ref></note> gesagt, daß man an eine
 				Vergleichung des <persName ref="#verdi.giuseppe">Verdi’schen</persName> „<title
 					ref="#verdi.requiem">Requiems</title>“ mit den kirchlichen Compositionen von

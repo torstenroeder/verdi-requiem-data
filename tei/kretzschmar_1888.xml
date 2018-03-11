@@ -1,132 +1,212 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Führer durch den Konzertsaal, Leipzig 1888</title><author><persName ref="#kretzschmar.hermann"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/kretzschmar_1888_konzertfuehrer.xml</p></publicationStmt><sourceDesc><bibl>
-				<title>Hermann Kretzschmar: Führer durch den Concertsaal / II. Abtheilung, Erster Theil, Leipzig: Liebeskind, 1888.</title>
-				<date when-iso="1888-00-00"/>
-				<biblScope unit="page">252–256</biblScope>
-				<link target="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n262/mode/1up"/>
-				<link target="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n263/mode/1up"/>
-				<link target="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n264/mode/1up"/>
-				<link target="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n265/mode/1up"/>
-				<link target="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n266/mode/1up"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation/><textClass><keywords><term type="textType">Werkbesprechung</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<head><persName ref="#verdi.giuseppe">G. Verdi</persName></head>
-		<head><title ref="#verdi.requiem">Requiem</title>.</head>
-		<p><rs type="event" ref="#mailand.1874.1">Im Jahre <date when-iso="1874">1874</date>, am ersten Jahrestage
-				des Todes von <persName ref="#manzoni.alessandro">A. Manzoni</persName> wurde <choice>
-					<orig>im Dom</orig>
-					<corr resp="tr">in der Kirche San Marco</corr>
-				</choice> zu <placeName ref="#mailand">Mailand</placeName> für den grossen Dichter die
-				officielle Todtenfeier gehalten.</rs> Mit der Composition des <title ref="#verdi.requiem">Requiem</title> war (von Seiten der Stadt) <placeName ref="#italien">Italiens</placeName> grösster Musiker: <hi rend="widespace"><persName ref="#verdi.giuseppe">G. Verdi</persName></hi> beauftragt. In <placeName ref="#deutschland">Deutschland</placeName> wird zur Zeit nicht nach neuer italienischer
-			Kirchenmusik gefragt. Wenn man in diesem Falle eine Ausnahme machte, so war sie
-			hauptsächlich dadurch begründet, dass die unlängst bekannt geworden<supplied resp="tr">e</supplied> »<title ref="#verdi.aida">Aida</title>« Verdi auf einer neuen und einer
-			höheren geistigen Stufe gezeigt hatte. Das <title ref="#verdi.requiem">Requiem</title> kam
-			in <placeName ref="#deutschland">Deutschland</placeName> schnell in Umlauf und erfuhr die
-			verschiedensten Beurtheilungen. Mittlerweile hat scheinbar das Geschick zu Gunsten der
-			Widersacher dieses <title ref="#verdi.requiem">Requiem</title> entschieden: Wir hören nur
-			noch selten von ihm und sehen es nur ausnahmsweise auf <choice>
-				<orig>dem</orig>
-				<corr resp="tr">den</corr>
-			</choice> Programmen unserer Chorvereine. Die ungeheuren Kosten des Aufführungsrechts
-			sind daran zum Theil schuld. Denn an und für sich verdient das Werk sehr wohl gekannt zu
-			werden. Es ist eine leichtgefügte, durchsichtige Composition, welche den Charakter der
-			italienischen Kunst fast nur von seiner vortheilhaften und beneidenswerthen Seite
-			veranschaulicht. Die Ueberlegenheit, welche die Italiener in der Kraft, Schönheit und
-			Bestimmtheit des melodischen Ausdrucks vor anderen Musiknationen voraus haben, ihre
-			grosse Begabung in der Wirkung mit <pb break="yes" n="253" type="regular"/>einfachen
-			Formen spricht aus diesem <title ref="#verdi.requiem">Requiem</title> mit neuer
-			Deutlichkeit und ohne dass wir durch trivialen Missbrauch dieser Gaben gestört werden.
-			Ein milder, aber immer ernster Geist beherrscht das Werk. Dabei ist es auch entschieden
-			modern: ohne Effektsucht, aber mit schöner poetischer Wirkung sind in seiner Architektur
-			und seiner Instrumentirung musikalische Ausdrucksmittel verwendet, welche erst die neue
-			Zeit, <persName ref="#wagner.richard">R. Wagner</persName> folgend, systematisch zu
-			gebrauchen begonnen hat.</p>
-		<p>Unter denjenigen Abschnitten dieser Todtenmesse, welche von der in <placeName ref="#deutschland">Deutschland</placeName> herrschenden Auffassung am ersichtlichsten
-			abweichen, zeichnet sich der erste Satz am meisten aus. Der Ton, in welchem hier vom
-			Tode gesungen wird, entspricht ganz dem liebenswürdigen kindlich gläubigen Zug, welcher
-			dem italienischen Volke eigen ist. Von jeher finden wir in dem italienischen Musikdrama
-			die Sterbescenen in einer rührenden Mischung von Wehmuth und verklärter Freundlichkeit
-			gehalten. Man denke an den Schluss von <persName ref="#monteverdi.claudio">Monteverde’s</persName> berühmtem »<title ref="#monteverdi.il-combattimento-di-tancredi-e-clorinda">Combattimento</title>«, man
-			denke an <persName ref="#verdi.giuseppe">Verdi</persName> selbst, an den letzten Gesang
-			seiner Acuzena, an den fünften Akt der »<title ref="#verdi.aida">Aida</title>«. So ist auch
-			dieser <title ref="#verdi.requiem.1" n="introitus">Introitus</title> des <title ref="#verdi.requiem">Requiem</title> behandelt: ein freundlich elegisches Bild des
-			Todes, wie wir es an dieser Stelle in der deutschen Litteratur nicht gewohnt sind.
-				<persName ref="#jommelli.niccolo">Jomelli</persName> bietet das nächste geschichtliche
-			Seitenstück. Wie wunderbar schön theilen sich hier die Klage und ein zartes
-			Himmelsschwärmen in die Aufgabe und reichen einander die Hand. Erst kommt in den
-			einsetzenden Motiven der Bässe, in dem resignirten Hinsprechen der Singstimmen, in der
-			Melodie der Oboe der Schmerz zu massvollem Ausdrucke. Dann löst ihn mit den Durtönen des
-				»<title ref="#verdi.requiem.1" n="et-lux">et lux etc.</title>« der Trost sanft ab. Im
-				»<title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet</title>« scheinen die Rollen
-			getauscht zu sein. Beim »<title ref="#verdi.requiem.1" n="te-decet-hymnus">in
-			Jerusalem</title>« biegt der Lobgesang traurig zur Seite. Die Stimmung des <title ref="#verdi.requiem.1" n="kyrie">Kyrie</title> ist eine hoffnungsvoll bewegte. Von einem
-			kirchlich gesetzten Eingang wendet sich seine Weise bald leichteren Formen zu und
-			gelangt zu einer grösseren Erregung, in welcher auf einen Augenblick <pb break="yes" n="254" type="regular"/>(die D moll-Stelle) auch das leidenschaftliche Gebiet
-			gestreift wird. In rasch wechselnden Lichtern, wie ein Traumbild, verklingt der
-			merkwürdig schöne Satz.</p>
-		<p>In der Sequenz von <persName ref="#verdi.giuseppe">Verdi’s</persName>
-			<title ref="#verdi.requiem">Todtenmesse</title> sind allerdings das »<title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser</title>«, das »<title ref="#verdi.requiem.2.rex-tremendae">Rex tremendae</title>«, das »<title ref="#verdi.requiem.2.recordare">Recordare</title>«, das »<title ref="#verdi.requiem.2.ingemisco">Ingemisco</title>«, das »<title ref="#verdi.requiem.2.confutatis">Confutatis</title>« als kurze, selbständige Nummern
-			bezeichnet und behandelt. Doch sind sie als zusammenhängendes Ganzes gedacht. Bald in
-			erschrecktem, bald in klagendem und zagendem Ton lässt <persName ref="#verdi.giuseppe">Verdi</persName> zwischen alle einzelnen Bilder des Textes wieder den Ausruf: »<title ref="#verdi.requiem.2.dies-irae">Dies irae</title>« hineinklingen und am Schlusse des
-				»<title ref="#verdi.requiem.2.confutatis">Confutatis</title>« wiederholt er den
-			Anfangs- und Hauptsatz der Sequenz. Das <title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title> wird somit ähnlich wie in <persName ref="#cherubini.luigi">Cherubini’s</persName>
-			<title ref="#cherubini.requiem-c-moll">C moll-Requiem</title> der Anhang des Satzes, seine
-			ideelle Spitze. Der erste Gedanke an den Tag des Gerichts hat in der Musik einen Sturm
-			von Aufregung veranlasst, welcher heulende, stechende, zuckende und harte Motive zu Tage
-			fördert. Bald aber gewinnt die klagende Empfindung die Oberhand und beherrscht mit dem
-			kurzen Thema <!--*ABBILDUNG-->, welcher schon im <title ref="#verdi.requiem.1" n="introitus">Introitus</title> angeklungen hat<note resp="tr" type="musicLink">Vgl. Takt
-				12–13.</note>, den Abschnitt. Das »<title ref="#verdi.requiem.2.tuba-mirum">Tuba
-				mirum</title>« giebt die Bläserchöre des <persName ref="#berlioz.hector">Berlioz’schen</persName>
-			<title ref="#berlioz.grande-messe-des-morts">Requiems</title> in einer vereinfachten
-			Nachbildung wieder. Das »<title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors
-				stupebit</title>« ruht auf einem kurzen Motitv der Instrumentalbässe von bedeutender
-			malerischer Kraft. Im »<title ref="#verdi.requiem.2.liber-scriptus">Liber scriptus</title>«
-			lebt wieder die Erregung auf, mit der die Sequenz begann. Zum Theil in verlängerten
-			Rhythmen, wie aus der Feme drohende Gestalten, ziehen die charakteristischen Motive des
-			ersten Abschnittes des »<title ref="#verdi.requiem.2">Dies irae</title>« durch das dunkle
-			Gewebe des Satzes hindurch. Dynamik und Modulation wirken mit schauerlichen Contrasten.
-			Am Ende kommt die Phantasie wieder bei dem oben angeführten Klagemotiv an und leitet mit
-			ihm in den schönen Bittgesang über, welchen das Soloquartett in »<title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser</title>« ausführt. Seine
-			einfachen Weisen sprechen fromme Ergebung und leise Hoffnung aus. Gegen den Schluss hin
-			erklingen Seufzer und die allerletzte Periode drückt die verzagende <pb break="yes" n="255" type="regular"/>Stimmung in ganz ungestützten Soli der Sänger aus. Im »<title ref="#verdi.requiem.2.rex-tremendae">Rex tremendae</title>« hat <persName ref="#verdi.giuseppe">Verdi</persName> die beiden treffend gezeichneten Tonbilder von
-			der Majestät des ewigen Richters und der gnadenbedürftigen Menschheit ganz nahe an
-			einander gestellt und in enge Reibung gebracht. Nachdem das erstere gegen den Schluss
-			hin im höchsten Glanze erstrahlt (C dur-Cadenz), entfaltet auch das bittende Motiv
-				»<title ref="#verdi.requiem.2.rex-tremendae" n="salva-me">Salva me</title>« in verlängerten
-			Rhythmen die ganze Fülle seiner Demuth und Innigkeit. Das »<title ref="#verdi.requiem.2.recordare">Recordare</title>« und das »<title ref="#verdi.requiem.2.ingemisco">Ingemisco</title>« sind diejenigen Abschnitte, in
-			welchen mehr als sonst der religiöse Ausdruck dieses <title ref="#verdi.requiem">Requiems</title> sich den Formen der Oper zuneigt. Jenes, ein Frauenduett mit ganz
-			specifisch italienischen Melodieschlüssen und einem unwiderstehlich lieblichen
-			Charakter, erinnert an <persName ref="#pergolesi.giovanni-battista">Pergolese</persName>,
-			dieses, ein Tenorsolo mit orientalischen Harmoniewendungen, an <persName ref="#verdi.giuseppe">Verdi’s</persName> eigene »<title ref="#verdi.aida">Aida</title>«.
-			Das »<title ref="#verdi.requiem.2.confutatis">Confutatis</title>« (Basssolo) steht in der
-			Erfindung hinter allen anderen Sätzen. Seine lebendigsten Züge befinden sich am Eingang;
-			hervorragend ist der Ausdruck des Entsetzens in den herunter rauschenden Instrumenten.
-			Um eine gewisse Verwirrung auszudrücken, begleitet darauf der Componist das Gebet des
-			Sängers »<title ref="#verdi.requiem.2.confutatis" n="oro-supplex">Oro supplex</title>« in
-			Quintenparallelen. Das »<title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title>«, welchem
-			die Schreckensbilder des Gerichts noch einmal kurz vorangehen, wendet sich gegen diese
-			als mit dem besten Mittel, mit dem schlichtesten volksthümlichen Vortrag frommen Gebets.
-			In dieser Weise sehr schön gedacht, kann der Satz doch den Eindruck vollständiger
-			Banalität hinterlassen, wenn seiner Wiedergabe nicht ein sehr hohes Mass von Ausdruck zu
-			Hülfe kommt. Das Offertorium »<title ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu
-				Christe</title>« will die Gedanken an Gericht und Fegefeuer mit Klängen
-			paradiesischer Musik verscheuchen. Sein Hauptsatz ist ein friedlich ruhiges Spiel mit
-			zart schwärmerischen Tonideen. Der Mittelsatz »<title ref="#verdi.requiem.3" n="quam-olim-abrahae">Quam olim Abrahae</title>« bringt
-			ausnahmsweise keine Fuge. Eine solche und noch dazu eine mit doppeltem Thema bildet erst
-			das <title ref="#verdi.requiem.4">Sanctus</title>. Die Begeisterung, welche der Componist
-			mit diesem Satze schildern wollte, muss der Hörer haupt<pb break="no" n="256" type="regular"/>sächlich aus Tempo und Rhythmus entnehmen. Der Entwickelung fehlt
-			der Schwung. Das »<title ref="#verdi.requiem.5">Agnus dei</title>« beginnt mit einer
-			breiten Melodie des Solosoprans, welche der Alt in der Octav mitsingt. Diese
-			eigenthümliche Instrumentation erhebt die an und für sich einfache und beschauliche
-			Melodie in eine höhere, romantische Sphäre. Der Satz besteht in der Hauptsache nur aus
-			neuen Klangbildern über das Eingangsthema. Das »<title ref="#verdi.requiem.6">Lux
-				aetema</title>« schillert in fremdartigem Lichte. Mit Quintsextaccord und
-			schattenartig wandelnden Harmonien einsetzend, scheint es Stimmung und Phantasie von
-			jedem gewohnten irdischen Grund hinweg führen zu wollen. Es schliesst in verklärten
-			Klängen. Der eigenthümlichste Satz des <title ref="#verdi.requiem">Requiem</title> von
-				<persName ref="#verdi.giuseppe">Verdi</persName> ist das »<title ref="#verdi.requiem.7">Libera me</title>« durch die grosse Ausdehnung, welche ihm der Componist gegeben
-			hat. Bedeutend ist in ihm der Eindruck der psalmodirenden Stellen, bedeutend auch der
-			Eindruck der Reminiscenzen aus dem <title ref="#verdi.requiem.1" n="introitus">Introitus</title> und dem »<title ref="#verdi.requiem.2.dies-irae">Dies irae</title>«.
-			Auch das Thema zu seiner langen Fuge ist der Sequenz entnommen.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Führer durch den Konzertsaal, Leipzig 1888</title>
+				<author><persName ref="#kretzschmar.hermann"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/kretzschmar_1888_konzertfuehrer.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Hermann Kretzschmar: Führer durch den Concertsaal / II. Abtheilung,
+						Erster Theil, Leipzig: Liebeskind, 1888.</title>
+					<date when-iso="1888-00-00"/>
+					<biblScope unit="page">252–256</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation/>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n262/mode/1up"
+			xml:id="f1"/>
+		<graphic url="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n263/mode/1up"
+			xml:id="f2"/>
+		<graphic url="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n264/mode/1up"
+			xml:id="f3"/>
+		<graphic url="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n265/mode/1up"
+			xml:id="f4"/>
+		<graphic url="http://archive.org/stream/fhrerdurchdenco07kretgoog#page/n266/mode/1up"
+			xml:id="f5"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<head><persName ref="#verdi.giuseppe">G. Verdi</persName></head>
+			<head><title ref="#verdi.requiem">Requiem</title>.</head>
+			<p><rs ref="#mailand.1874.1" type="event">Im Jahre <date when-iso="1874">1874</date>, am
+					ersten Jahrestage des Todes von <persName ref="#manzoni.alessandro">A.
+						Manzoni</persName> wurde <choice>
+						<orig>im Dom</orig>
+						<corr resp="tr">in der Kirche San Marco</corr>
+					</choice> zu <placeName ref="#mailand">Mailand</placeName> für den grossen
+					Dichter die officielle Todtenfeier gehalten.</rs> Mit der Composition des <title
+					ref="#verdi.requiem">Requiem</title> war (von Seiten der Stadt) <placeName
+					ref="#italien">Italiens</placeName> grösster Musiker: <hi rend="widespace"
+						><persName ref="#verdi.giuseppe">G. Verdi</persName></hi> beauftragt. In
+					<placeName ref="#deutschland">Deutschland</placeName> wird zur Zeit nicht nach
+				neuer italienischer Kirchenmusik gefragt. Wenn man in diesem Falle eine Ausnahme
+				machte, so war sie hauptsächlich dadurch begründet, dass die unlängst bekannt
+					geworden<supplied resp="tr">e</supplied> »<title ref="#verdi.aida">Aida</title>«
+				Verdi auf einer neuen und einer höheren geistigen Stufe gezeigt hatte. Das <title
+					ref="#verdi.requiem">Requiem</title> kam in <placeName ref="#deutschland"
+					>Deutschland</placeName> schnell in Umlauf und erfuhr die verschiedensten
+				Beurtheilungen. Mittlerweile hat scheinbar das Geschick zu Gunsten der Widersacher
+				dieses <title ref="#verdi.requiem">Requiem</title> entschieden: Wir hören nur noch
+				selten von ihm und sehen es nur ausnahmsweise auf <choice>
+					<orig>dem</orig>
+					<corr resp="tr">den</corr>
+				</choice> Programmen unserer Chorvereine. Die ungeheuren Kosten des
+				Aufführungsrechts sind daran zum Theil schuld. Denn an und für sich verdient das
+				Werk sehr wohl gekannt zu werden. Es ist eine leichtgefügte, durchsichtige
+				Composition, welche den Charakter der italienischen Kunst fast nur von seiner
+				vortheilhaften und beneidenswerthen Seite veranschaulicht. Die Ueberlegenheit,
+				welche die Italiener in der Kraft, Schönheit und Bestimmtheit des melodischen
+				Ausdrucks vor anderen Musiknationen voraus haben, ihre grosse Begabung in der
+				Wirkung mit <pb break="yes" facs="#f2" n="253" type="regular"/>einfachen Formen
+				spricht aus diesem <title ref="#verdi.requiem">Requiem</title> mit neuer
+				Deutlichkeit und ohne dass wir durch trivialen Missbrauch dieser Gaben gestört
+				werden. Ein milder, aber immer ernster Geist beherrscht das Werk. Dabei ist es auch
+				entschieden modern: ohne Effektsucht, aber mit schöner poetischer Wirkung sind in
+				seiner Architektur und seiner Instrumentirung musikalische Ausdrucksmittel
+				verwendet, welche erst die neue Zeit, <persName ref="#wagner.richard">R.
+					Wagner</persName> folgend, systematisch zu gebrauchen begonnen hat.</p>
+			<p>Unter denjenigen Abschnitten dieser Todtenmesse, welche von der in <placeName
+					ref="#deutschland">Deutschland</placeName> herrschenden Auffassung am
+				ersichtlichsten abweichen, zeichnet sich der erste Satz am meisten aus. Der Ton, in
+				welchem hier vom Tode gesungen wird, entspricht ganz dem liebenswürdigen kindlich
+				gläubigen Zug, welcher dem italienischen Volke eigen ist. Von jeher finden wir in
+				dem italienischen Musikdrama die Sterbescenen in einer rührenden Mischung von
+				Wehmuth und verklärter Freundlichkeit gehalten. Man denke an den Schluss von
+					<persName ref="#monteverdi.claudio">Monteverde’s</persName> berühmtem »<title
+					ref="#monteverdi.il-combattimento-di-tancredi-e-clorinda"
+				>Combattimento</title>«, man denke an <persName ref="#verdi.giuseppe"
+					>Verdi</persName> selbst, an den letzten Gesang seiner Acuzena, an den fünften
+				Akt der »<title ref="#verdi.aida">Aida</title>«. So ist auch dieser <title
+					n="introitus" ref="#verdi.requiem.1">Introitus</title> des <title
+					ref="#verdi.requiem">Requiem</title> behandelt: ein freundlich elegisches Bild
+				des Todes, wie wir es an dieser Stelle in der deutschen Litteratur nicht gewohnt
+				sind. <persName ref="#jommelli.niccolo">Jomelli</persName> bietet das nächste
+				geschichtliche Seitenstück. Wie wunderbar schön theilen sich hier die Klage und ein
+				zartes Himmelsschwärmen in die Aufgabe und reichen einander die Hand. Erst kommt in
+				den einsetzenden Motiven der Bässe, in dem resignirten Hinsprechen der Singstimmen,
+				in der Melodie der Oboe der Schmerz zu massvollem Ausdrucke. Dann löst ihn mit den
+				Durtönen des »<title n="et-lux" ref="#verdi.requiem.1">et lux etc.</title>« der
+				Trost sanft ab. Im »<title n="te-decet-hymnus" ref="#verdi.requiem.1">Te
+					decet</title>« scheinen die Rollen getauscht zu sein. Beim »<title
+					n="te-decet-hymnus" ref="#verdi.requiem.1">in Jerusalem</title>« biegt der
+				Lobgesang traurig zur Seite. Die Stimmung des <title n="kyrie"
+					ref="#verdi.requiem.1">Kyrie</title> ist eine hoffnungsvoll bewegte. Von einem
+				kirchlich gesetzten Eingang wendet sich seine Weise bald leichteren Formen zu und
+				gelangt zu einer grösseren Erregung, in welcher auf einen Augenblick <pb break="yes"
+					facs="#f3" n="254" type="regular"/>(die D moll-Stelle) auch das
+				leidenschaftliche Gebiet gestreift wird. In rasch wechselnden Lichtern, wie ein
+				Traumbild, verklingt der merkwürdig schöne Satz.</p>
+			<p>In der Sequenz von <persName ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Todtenmesse</title> sind allerdings das »<title
+					ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser</title>«, das »<title
+					ref="#verdi.requiem.2.rex-tremendae">Rex tremendae</title>«, das »<title
+					ref="#verdi.requiem.2.recordare">Recordare</title>«, das »<title
+					ref="#verdi.requiem.2.ingemisco">Ingemisco</title>«, das »<title
+					ref="#verdi.requiem.2.confutatis">Confutatis</title>« als kurze, selbständige
+				Nummern bezeichnet und behandelt. Doch sind sie als zusammenhängendes Ganzes
+				gedacht. Bald in erschrecktem, bald in klagendem und zagendem Ton lässt <persName
+					ref="#verdi.giuseppe">Verdi</persName> zwischen alle einzelnen Bilder des Textes
+				wieder den Ausruf: »<title ref="#verdi.requiem.2.dies-irae">Dies irae</title>«
+				hineinklingen und am Schlusse des »<title ref="#verdi.requiem.2.confutatis"
+					>Confutatis</title>« wiederholt er den Anfangs- und Hauptsatz der Sequenz. Das
+					<title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title> wird somit ähnlich wie
+				in <persName ref="#cherubini.luigi">Cherubini’s</persName>
+				<title ref="#cherubini.requiem-c-moll">C moll-Requiem</title> der Anhang des Satzes,
+				seine ideelle Spitze. Der erste Gedanke an den Tag des Gerichts hat in der Musik
+				einen Sturm von Aufregung veranlasst, welcher heulende, stechende, zuckende und
+				harte Motive zu Tage fördert. Bald aber gewinnt die klagende Empfindung die Oberhand
+				und beherrscht mit dem kurzen Thema <!--*ABBILDUNG-->, welcher schon im <title
+					n="introitus" ref="#verdi.requiem.1">Introitus</title> angeklungen hat<note
+					resp="tr" type="musicLink">Vgl. Takt 12–13.</note>, den Abschnitt. Das »<title
+					ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title>« giebt die Bläserchöre des
+					<persName ref="#berlioz.hector">Berlioz’schen</persName>
+				<title ref="#berlioz.grande-messe-des-morts">Requiems</title> in einer vereinfachten
+				Nachbildung wieder. Das »<title n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum"
+					>Mors stupebit</title>« ruht auf einem kurzen Motitv der Instrumentalbässe von
+				bedeutender malerischer Kraft. Im »<title ref="#verdi.requiem.2.liber-scriptus"
+					>Liber scriptus</title>« lebt wieder die Erregung auf, mit der die Sequenz
+				begann. Zum Theil in verlängerten Rhythmen, wie aus der Feme drohende Gestalten,
+				ziehen die charakteristischen Motive des ersten Abschnittes des »<title
+					ref="#verdi.requiem.2">Dies irae</title>« durch das dunkle Gewebe des Satzes
+				hindurch. Dynamik und Modulation wirken mit schauerlichen Contrasten. Am Ende kommt
+				die Phantasie wieder bei dem oben angeführten Klagemotiv an und leitet mit ihm in
+				den schönen Bittgesang über, welchen das Soloquartett in »<title
+					ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser</title>« ausführt. Seine
+				einfachen Weisen sprechen fromme Ergebung und leise Hoffnung aus. Gegen den Schluss
+				hin erklingen Seufzer und die allerletzte Periode drückt die verzagende <pb
+					break="yes" facs="#f4" n="255" type="regular"/>Stimmung in ganz ungestützten
+				Soli der Sänger aus. Im »<title ref="#verdi.requiem.2.rex-tremendae">Rex
+					tremendae</title>« hat <persName ref="#verdi.giuseppe">Verdi</persName> die
+				beiden treffend gezeichneten Tonbilder von der Majestät des ewigen Richters und der
+				gnadenbedürftigen Menschheit ganz nahe an einander gestellt und in enge Reibung
+				gebracht. Nachdem das erstere gegen den Schluss hin im höchsten Glanze erstrahlt (C
+				dur-Cadenz), entfaltet auch das bittende Motiv »<title n="salva-me"
+					ref="#verdi.requiem.2.rex-tremendae">Salva me</title>« in verlängerten Rhythmen
+				die ganze Fülle seiner Demuth und Innigkeit. Das »<title
+					ref="#verdi.requiem.2.recordare">Recordare</title>« und das »<title
+					ref="#verdi.requiem.2.ingemisco">Ingemisco</title>« sind diejenigen Abschnitte,
+				in welchen mehr als sonst der religiöse Ausdruck dieses <title ref="#verdi.requiem"
+					>Requiems</title> sich den Formen der Oper zuneigt. Jenes, ein Frauenduett mit
+				ganz specifisch italienischen Melodieschlüssen und einem unwiderstehlich lieblichen
+				Charakter, erinnert an <persName ref="#pergolesi.giovanni-battista"
+					>Pergolese</persName>, dieses, ein Tenorsolo mit orientalischen
+				Harmoniewendungen, an <persName ref="#verdi.giuseppe">Verdi’s</persName> eigene
+					»<title ref="#verdi.aida">Aida</title>«. Das »<title
+					ref="#verdi.requiem.2.confutatis">Confutatis</title>« (Basssolo) steht in der
+				Erfindung hinter allen anderen Sätzen. Seine lebendigsten Züge befinden sich am
+				Eingang; hervorragend ist der Ausdruck des Entsetzens in den herunter rauschenden
+				Instrumenten. Um eine gewisse Verwirrung auszudrücken, begleitet darauf der
+				Componist das Gebet des Sängers »<title n="oro-supplex"
+					ref="#verdi.requiem.2.confutatis">Oro supplex</title>« in Quintenparallelen. Das
+					»<title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title>«, welchem die
+				Schreckensbilder des Gerichts noch einmal kurz vorangehen, wendet sich gegen diese
+				als mit dem besten Mittel, mit dem schlichtesten volksthümlichen Vortrag frommen
+				Gebets. In dieser Weise sehr schön gedacht, kann der Satz doch den Eindruck
+				vollständiger Banalität hinterlassen, wenn seiner Wiedergabe nicht ein sehr hohes
+				Mass von Ausdruck zu Hülfe kommt. Das Offertorium »<title n="domine-jesu"
+					ref="#verdi.requiem.3">Domine Jesu Christe</title>« will die Gedanken an Gericht
+				und Fegefeuer mit Klängen paradiesischer Musik verscheuchen. Sein Hauptsatz ist ein
+				friedlich ruhiges Spiel mit zart schwärmerischen Tonideen. Der Mittelsatz »<title
+					n="quam-olim-abrahae" ref="#verdi.requiem.3">Quam olim Abrahae</title>« bringt
+				ausnahmsweise keine Fuge. Eine solche und noch dazu eine mit doppeltem Thema bildet
+				erst das <title ref="#verdi.requiem.4">Sanctus</title>. Die Begeisterung, welche der
+				Componist mit diesem Satze schildern wollte, muss der Hörer haupt<pb break="no"
+					facs="#f5" n="256" type="regular"/>sächlich aus Tempo und Rhythmus entnehmen.
+				Der Entwickelung fehlt der Schwung. Das »<title ref="#verdi.requiem.5">Agnus
+					dei</title>« beginnt mit einer breiten Melodie des Solosoprans, welche der Alt
+				in der Octav mitsingt. Diese eigenthümliche Instrumentation erhebt die an und für
+				sich einfache und beschauliche Melodie in eine höhere, romantische Sphäre. Der Satz
+				besteht in der Hauptsache nur aus neuen Klangbildern über das Eingangsthema. Das
+					»<title ref="#verdi.requiem.6">Lux aetema</title>« schillert in fremdartigem
+				Lichte. Mit Quintsextaccord und schattenartig wandelnden Harmonien einsetzend,
+				scheint es Stimmung und Phantasie von jedem gewohnten irdischen Grund hinweg führen
+				zu wollen. Es schliesst in verklärten Klängen. Der eigenthümlichste Satz des <title
+					ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
+					>Verdi</persName> ist das »<title ref="#verdi.requiem.7">Libera me</title>«
+				durch die grosse Ausdehnung, welche ihm der Componist gegeben hat. Bedeutend ist in
+				ihm der Eindruck der psalmodirenden Stellen, bedeutend auch der Eindruck der
+				Reminiscenzen aus dem <title n="introitus" ref="#verdi.requiem.1">Introitus</title>
+				und dem »<title ref="#verdi.requiem.2.dies-irae">Dies irae</title>«. Auch das Thema
+				zu seiner langen Fuge ist der Sequenz entnommen.</p>
+		</body>
+	</text>
 </TEI>

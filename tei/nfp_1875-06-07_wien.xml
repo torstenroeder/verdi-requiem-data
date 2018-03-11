@@ -1,26 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 7. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-07_hofoper.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#neue-freie-presse" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-07" when-custom="mon"/>
-				<biblScope unit="issue">3872</biblScope><biblScope unit="subIssue">3872</biblScope><series>nfp</series>
-				<biblScope unit="page">1</biblScope>
-				<link facs="nfp_1875-06-07_a1.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750607&amp;seite=1"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<pb break="null" n="1" type="initial"/>
-		<head rend="larger">Kleine Chronik.</head>
-		<cb break="null" n="1b" type="skipped"/>
-		<p><rs type="event" ref="#wien.1875.gp">[<hi rend="widespace"><placeName ref="#wien.hof-operntheater">Hofoper</placeName></hi>.] Maestro <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> erschien heute Vormittags 11 Uhr im
-					<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName>, um die erste
-				Gesammtprobe seines großen <title ref="#verdi.requiem">Manzoni-Requiems</title>
-				persönlich zu leiten.</rs> Der berühmte Compositeur wurde von dem versammelten
-			Chorpersonale und dem mitwirkenden <orgName ref="#wien.akademischer-gesangverein">Akademischen Gesangvereine</orgName> mit stürmischen Hochrufen und minutenlang
-			anhaltendem Händeklatschen empfangen. <persName ref="#verdi.giuseppe">Verdi</persName> dankte
-			freundlich, worauf die Probe ihren Anfang nahm. Im Verlaufe derselben, bei besonders
-			markanten Stellen, übernahmen die Mitwirkenden gleichsam die Rolle des Publicums und
-			brachen in lebhafte Beifallsbezeigungen aus. <persName ref="#verdi.giuseppe">Verdi</persName>, der mit den Musikern zumeist französisch verkehrt, soll von der
-			Leistung des Orchesters und Chores im höchsten Grade befriedigt sein, und sprach es
-			wiederholt aus, daß seine höchsten Erwartungen übertroffen seien.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Freie Presse, Wien, 7. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nfp_1875-06-07_hofoper.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neue-freie-presse" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="mon" when-iso="1875-06-07"/>
+					<biblScope unit="issue">3872</biblScope>
+					<biblScope unit="subIssue">3872</biblScope>
+					<series>nfp</series>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Notiz</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nfp_1875-06-07_a1.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750607&amp;seite=1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="1" type="initial"/>
+			<head rend="larger">Kleine Chronik.</head>
+			<cb break="null" n="1b" type="skipped"/>
+			<p><rs ref="#wien.1875.gp" type="event">[<hi rend="widespace"><placeName
+							ref="#wien.hof-operntheater">Hofoper</placeName></hi>.] Maestro <hi
+						rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi>
+					erschien heute Vormittags 11 Uhr im <placeName ref="#wien.hof-operntheater"
+						>Hofoperntheater</placeName>, um die erste Gesammtprobe seines großen <title
+						ref="#verdi.requiem">Manzoni-Requiems</title> persönlich zu leiten.</rs> Der
+				berühmte Compositeur wurde von dem versammelten Chorpersonale und dem mitwirkenden
+					<orgName ref="#wien.akademischer-gesangverein">Akademischen
+					Gesangvereine</orgName> mit stürmischen Hochrufen und minutenlang anhaltendem
+				Händeklatschen empfangen. <persName ref="#verdi.giuseppe">Verdi</persName> dankte
+				freundlich, worauf die Probe ihren Anfang nahm. Im Verlaufe derselben, bei besonders
+				markanten Stellen, übernahmen die Mitwirkenden gleichsam die Rolle des Publicums und
+				brachen in lebhafte Beifallsbezeigungen aus. <persName ref="#verdi.giuseppe"
+					>Verdi</persName>, der mit den Musikern zumeist französisch verkehrt, soll von
+				der Leistung des Orchesters und Chores im höchsten Grade befriedigt sein, und sprach
+				es wiederholt aus, daß seine höchsten Erwartungen übertroffen seien.</p>
+		</body>
+	</text>
 </TEI>

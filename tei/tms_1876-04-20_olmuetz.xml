@@ -1,24 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Tagesbote aus Mähren und Schlesien, Brünn, 20. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tms_1876-04-20_olmuetz.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-				<placeName ref="#bruenn"/>
-				<date when-iso="1876-04-20" when-custom="thu"/>
-				<biblScope unit="issue">90</biblScope><biblScope unit="volume">26</biblScope><series>tms</series>
-				<biblScope unit="page">2</biblScope>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#olmuetz"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Aus <placeName ref="#maehren">Mähren</placeName> und <placeName ref="#unidentified">Schlesien</placeName>.</head>
-		<p><hi rend="bold"><placeName ref="#olmuetz">Olmütz</placeName></hi>, <date when-iso="1876-04-17">17. April</date>. (Orig.-Korr.) (Berichtigung. <persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Requiem</title>.) <gap resp="tr"/></p>
-		<p><rs type="event" ref="#olmuetz.1876.1 olmuetz.1876.2">Das Komite des Frauen-Wohlthätigkeitsvereines,
-				an dessen Spitze die unermüdlich thätige Frau <persName ref="#schroetter.marie">Marie
-						<hi rend="widespace">Schrötter</hi></persName> steht, veranstaltet am <date when-iso="1876-04-22">22.</date> und <date when-iso="1876-04-23">23. April</date> eine
-				Wohlthäigkeits-Vorstellung, bei welcher das berühmte <title ref="#verdi.requiem">Requiem</title> von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> unter Mitwirkung der Damen: Frau <persName ref="#passy-cornet.adele">Adele <hi rend="widespace">Passy-Cornet</hi></persName>,
-				Gesangsprofessorin aus Wien, Frau <persName ref="#bustini.emilie">Emilie <hi rend="widespace">Bustini</hi> geb. Elias</persName> aus <placeName ref="#bruenn">Brünn</placeName>, der Herren: <persName ref="#schultner.adolf">Adolf Ritter v. <hi rend="widespace">Schultner</hi></persName>, Gesangsprofessor aus <placeName ref="#wien">Wien</placeName>, <persName ref="#chlumetzky.karl">Karl <hi rend="widespace">Chlumetzky</hi></persName>, Mitglied der Oper in <placeName ref="#olmuetz">Olmütz</placeName>, ferner eines mehr als 60 Damen aus den ersten Kreisen unserer
-				Stadt zählenden Damenchores, des Männer-Gesangvereines, der Zöglinge der k. k.
-				Lehrer- und Lehrerin<supplied resp="tr">n</supplied>en-Bildungsanstalt, sowie des durch die
-				besten Musikräfte unserer Stadt und durch Mitglieder der hiesigen Militärkapellen
-				verstärkten städt. Orchesters zur Aufführung gelangt.</rs> Die Gesammt-Direktion
-			besorgt der Chormeister unseres Gesangvereines, Herr <persName ref="#labler.wladimir">Wladimir <hi rend="widespace">Labler</hi></persName>, welcher seit mehreren Wochen
-			mit großer Sorgfalt die diesfälligen Proben leitet.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 20. April 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1876-04-20_olmuetz.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-custom="thu" when-iso="1876-04-20"/>
+					<biblScope unit="issue">90</biblScope>
+					<biblScope unit="volume">26</biblScope>
+					<series>tms</series>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#olmuetz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Ankündigung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Aus <placeName ref="#maehren">Mähren</placeName> und <placeName
+					ref="#unidentified">Schlesien</placeName>.</head>
+			<p><hi rend="bold"><placeName ref="#olmuetz">Olmütz</placeName></hi>, <date
+					when-iso="1876-04-17">17. April</date>. (Orig.-Korr.) (Berichtigung. <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title>.) <gap resp="tr"/></p>
+			<p><rs ref="#olmuetz.1876.1 olmuetz.1876.2" type="event">Das Komite des
+					Frauen-Wohlthätigkeitsvereines, an dessen Spitze die unermüdlich thätige Frau
+						<persName ref="#schroetter.marie">Marie <hi rend="widespace"
+						>Schrötter</hi></persName> steht, veranstaltet am <date
+						when-iso="1876-04-22">22.</date> und <date when-iso="1876-04-23">23.
+						April</date> eine Wohlthäigkeits-Vorstellung, bei welcher das berühmte
+						<title ref="#verdi.requiem">Requiem</title> von <hi rend="widespace"
+							><persName ref="#verdi.giuseppe">Verdi</persName></hi> unter Mitwirkung
+					der Damen: Frau <persName ref="#passy-cornet.adele">Adele <hi rend="widespace"
+							>Passy-Cornet</hi></persName>, Gesangsprofessorin aus Wien, Frau
+						<persName ref="#bustini.emilie">Emilie <hi rend="widespace">Bustini</hi>
+						geb. Elias</persName> aus <placeName ref="#bruenn">Brünn</placeName>, der
+					Herren: <persName ref="#schultner.adolf">Adolf Ritter v. <hi rend="widespace"
+							>Schultner</hi></persName>, Gesangsprofessor aus <placeName ref="#wien"
+						>Wien</placeName>, <persName ref="#chlumetzky.karl">Karl <hi
+							rend="widespace">Chlumetzky</hi></persName>, Mitglied der Oper in
+						<placeName ref="#olmuetz">Olmütz</placeName>, ferner eines mehr als 60 Damen
+					aus den ersten Kreisen unserer Stadt zählenden Damenchores, des
+					Männer-Gesangvereines, der Zöglinge der k. k. Lehrer- und Lehrerin<supplied
+						resp="tr">n</supplied>en-Bildungsanstalt, sowie des durch die besten
+					Musikräfte unserer Stadt und durch Mitglieder der hiesigen Militärkapellen
+					verstärkten städt. Orchesters zur Aufführung gelangt.</rs> Die Gesammt-Direktion
+				besorgt der Chormeister unseres Gesangvereines, Herr <persName
+					ref="#labler.wladimir">Wladimir <hi rend="widespace">Labler</hi></persName>,
+				welcher seit mehreren Wochen mit großer Sorgfalt die diesfälligen Proben leitet.</p>
+		</body>
+	</text>
 </TEI>

@@ -1,27 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 5. Januar 1877</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1877-01-05_breslau.xml</p></publicationStmt><sourceDesc><bibl>
-                <orgName ref="#mwb" role="publisher"/>
-                <placeName ref="#leipzig"/>
-                <date when-iso="1877-01-05"/>
-                <biblScope unit="issue">2</biblScope><biblScope unit="volume">8</biblScope><series>mwb</series>
-                <biblScope unit="page">20</biblScope>
-                <link facs="mwb_1877-01-05_20.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18770105&amp;seite=4"/>
-                <link facs="mwb_1877-01-12_38.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18770112&amp;seite=6"/>
-            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#breslau"/><date when-iso="1876-12"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-    <text xml:lang="de"><body rend="antiqua">
-        <pb break="null" n="20" type="initial"/>
-        <head rend="larger">Tagesgeschichte.</head>
-        <head rend="lineale">Musikbrief.</head>
-        <p rend="right"><hi rend="bold"><placeName ref="#breslau">Breslau</placeName>,</hi> im <date when-iso="1877-12-00">December</date>.</p>
-        <p>Der Bau „von Sang und Klingen“, den auch unsere Stadt begonnen und mit der Saison fertig
-            werden soll, treibt zusehends nach der Höhe. Man schafft wacker an seiner Aufrichtung,
-            wenn er auch demnächst nur eine Spitze tragen kann. Soll und wird doch diese um so höher
-            in die Lüfte ragen, jedenfalls fernab genug vom Fundament, um der Welt so etwas wie eine
-            legitime Ehrenrettung zu weisen.</p>
-        <p>Ein Eckstein in dem grossen Gefüge trägt das Datum des <date when-iso="1877-11-07">7. November</date>. <rs type="event" ref="#breslau.1876.1">Dieser Tag brachte das <persName ref="#verdi.giuseppe">Verdi’sche</persName> <title ref="#verdi.requiem">Requiem</title>, aufgeführt von der Singakademie.</rs> Die <orgName ref="#breslau.singakademie">Breslauer Singakademie</orgName> ist hierorts von allen ähnlichen Instituten numerisch und productiv der weitaus bedeutendste Vocalkörper; ein trefflich geschulter Chor, aus kleinen Anfängen zu einem mächtigen Repräsentationsorgan unseres Musiklebens emporgewachsen. Die ehrenvollen Resultate eines halben Säculum deuten in ihren letzten Ausläufern auf die Person des hochverdienten Dirigenten <persName ref="#schaeffer.julius">Julius Schäffer</persName>, der nun seinem Verein das Zeichen einer freien Tendenz auf die Fahne geschrieben. Es ist wohl zum grössten Theil <persName ref="#schaeffer.julius">Schäffer’s</persName> That, zahlreiche ungefüge und heterogene Elemente zu einem gesunden, harmonischen Ganzen geklärt zu haben, hierorts, wo gerade ein solcher Consolidationsprocess schwieriger und langsamer als anderswo von Statten geht.</p>
-        <p>Die jüngste Programmnummer der <orgName ref="#breslau.singakademie">Singakademie</orgName>, ein Kind des Südens, hat erst vor Kurzem unter hallendem Trommelschlage die Alpen überschritten und die citramontanen, insbesondere deutschen Musikmenschen, da es seinem Geburtsschein vorwies, weidlich staunen gemacht. Man stellte den Ankömmling neben seine älteren Geschwister, und „so aus der Art zu schlagen“ rief der Vergleich, zumeinst wohl freudig mit der Version in <hi rend="italic">bonam partem</hi>, aber auch kopfschüttelnd mit der <hi rend="italic">in malam</hi>. Das <persName ref="#verdi.giuseppe">Verdi’sche</persName> <title ref="#verdi.requiem">Requiem</title> ist bereits eingehend in diesen Blättern besprochen worden, also dass ich mich einer erschöpfenden Analyse füglich enthalten kann. Ja, es bleibt merkwürdig, der Mann der Coulissen geht auf einmal in sich und zu den Compositeurs des ernsten <hi rend="italic">genre religieux:</hi> <persName ref="#verdi.giuseppe">Verdi</persName>, der profane Opernfabrikant <hi rend="italic">par excellence</hi>, schafft auf düster-kirchlichen Textesworten eine Todtenmesse. Ich habe in meinem Urtheil nach Kenntnissnahme des <title ref="#verdi.requiem">Requiem</title> nicht geschwankt. Nach meiner ansicht trägt es entschieden die Signatur des Talentes, der Intelligenz, vor Allem des künstlerischen Ernstes, die <title ref="#verdi.requiem">Manzoni-Messe</title> ist das Product einer concentrirten schöpferischen Kraft und als solches von den engbrüstigen Wechselbälgen des italienischen Maëstro dramatischer Muse durch die weite Kluft getrennt, die die Wirkungskreise des berufenen und des schnöden Lohnes halber thätigen Arbeiters scheidet. Aber freilich nach den Keimen einer Lebensfähigkeit, die alle zeitlichen Schranken bricht, suche ich auch bei dem neuen Werke vergebens. Es fehlt ihm das <hi rend="italic">perpetuum mobile</hi> eines kräftigen Pulsschlages, der das Leben bedeutet. Wir gewahren das Walten zusammengehaltener, eminent schaffensfähiger Kräfte, aber nicht frei und losgelöst von jeglichem Selbstzweck, nicht durchaus im Dienste der Idee. Das <title ref="#verdi.requiem">Requiem</title> ist hochbedeutend, wenn es in Beziehung zu seinem Autor gesetzt, nicht aber, wenn es isolirt, ohne Rücksicht auf die Titelvignette, beurtheilt wird. Indessen, der deutsche Musiker vergisst gern über der ersten Betrachtungsweise die strenge letztere. Ist es doch etwas gar Erfreuliches um den Anblick, wie ein Mann, der den blendenden Fond ausgeprägter musikalischer Begabung seither in puffendem Feuerwerk versprühte, aus dem alten, tiefgefahrenen Geleise in neue Bahnen einlenkt, die nach edleren Zeiten hinleiten. Strebt wirklich der vielumräucherte Diener der Plebs aus der rasch davontreibenden Strömung einer anrüchigen Geschmacksrichtung nach dem festen Boden, auf dem die Altäre der wahren Kunst stehen, nun so werden ihre auserwählten Jünger ein Uebriges thun, um dem Herankommenden vollends ans Land zu helfen: ist er ihnen nur erst so nahe, dass sie seine Hand zu fassen vermögen. —</p>
-        <pb break="null" n="38" type="skipped"/>
-        <p rend="right"><hi rend="widespace"><persName ref="#weiss.albert">Albert
-            Weiss</persName></hi>.</p>
-    </body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MWbl, Leipzig, 5. Januar 1877</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/mwb_1877-01-05_breslau.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#mwb" role="publisher"/>
+                    <placeName ref="#leipzig"/>
+                    <date when-iso="1877-01-05"/>
+                    <biblScope unit="issue">2</biblScope>
+                    <biblScope unit="volume">8</biblScope>
+                    <series>mwb</series>
+                    <biblScope unit="page">20</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#breslau"/><date when-iso="1876-12"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Bericht</term>
+                    <term type="corpusGroup">Rezeptionsgeschichte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="mwb_1877-01-05_20.jpg"
+            url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18770105&amp;seite=4"
+            xml:id="f1"/>
+        <graphic n="mwb_1877-01-12_38.jpg"
+            url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18770112&amp;seite=6"
+            xml:id="f2"/>
+    </facsimile>
+    <text xml:lang="de">
+        <body rend="antiqua">
+            <pb break="null" facs="#f1" n="20" type="initial"/>
+            <head rend="larger widespace">Tagesgeschichte.</head>
+            <head rend="lineale bold">Musikbrief.</head>
+            <p rend="right"><hi rend="bold"><placeName ref="#breslau">Breslau</placeName>,</hi> im
+                    <date when-iso="1877-12-00">December</date>.</p>
+            <p>Der Bau „von Sang und Klingen“, den auch unsere Stadt begonnen und mit der Saison
+                fertig werden soll, treibt zusehends nach der Höhe. Man schafft wacker an seiner
+                Aufrichtung, wenn er auch demnächst nur eine Spitze tragen kann. Soll und wird doch
+                diese um so höher in die Lüfte ragen, jedenfalls fernab genug vom Fundament, um der
+                Welt so etwas wie eine legitime Ehrenrettung zu weisen.</p>
+            <p>Ein Eckstein in dem grossen Gefüge trägt das Datum des <date when-iso="1877-11-07">7.
+                    November</date>. <rs ref="#breslau.1876.1" type="event">Dieser Tag brachte das
+                        <persName ref="#verdi.giuseppe">Verdi’sche</persName>
+                    <title ref="#verdi.requiem">Requiem</title>, aufgeführt von der
+                    Singakademie.</rs> Die <orgName ref="#breslau.singakademie">Breslauer
+                    Singakademie</orgName> ist hierorts von allen ähnlichen Instituten numerisch und
+                productiv der weitaus bedeutendste Vocalkörper; ein trefflich geschulter Chor, aus
+                kleinen Anfängen zu einem mächtigen Repräsentationsorgan unseres Musiklebens
+                emporgewachsen. Die ehrenvollen Resultate eines halben Säculum deuten in ihren
+                letzten Ausläufern auf die Person des hochverdienten Dirigenten <persName
+                    ref="#schaeffer.julius">Julius Schäffer</persName>, der nun seinem Verein das
+                Zeichen einer freien Tendenz auf die Fahne geschrieben. Es ist wohl zum grössten
+                Theil <persName ref="#schaeffer.julius">Schäffer’s</persName> That, zahlreiche
+                ungefüge und heterogene Elemente zu einem gesunden, harmonischen Ganzen geklärt zu
+                haben, hierorts, wo gerade ein solcher Consolidationsprocess schwieriger und
+                langsamer als anderswo von Statten geht.</p>
+            <p>Die jüngste Programmnummer der <orgName ref="#breslau.singakademie"
+                    >Singakademie</orgName>, ein Kind des Südens, hat erst vor Kurzem unter
+                hallendem Trommelschlage die Alpen überschritten und die citramontanen, insbesondere
+                deutschen Musikmenschen, da es seinem Geburtsschein vorwies, weidlich staunen
+                gemacht. Man stellte den Ankömmling neben seine älteren Geschwister, und „so aus der
+                Art zu schlagen“ rief der Vergleich, zumeinst wohl freudig mit der Version in <hi
+                    rend="italic">bonam partem</hi>, aber auch kopfschüttelnd mit der <hi
+                    rend="italic">in malam</hi>. Das <persName ref="#verdi.giuseppe"
+                    >Verdi’sche</persName>
+                <title ref="#verdi.requiem">Requiem</title> ist bereits eingehend in diesen Blättern
+                besprochen worden, also dass ich mich einer erschöpfenden Analyse füglich enthalten
+                kann. Ja, es bleibt merkwürdig, der Mann der Coulissen geht auf einmal in sich und
+                zu den Compositeurs des ernsten <hi rend="italic">genre religieux:</hi>
+                <persName ref="#verdi.giuseppe">Verdi</persName>, der profane Opernfabrikant <hi
+                    rend="italic">par excellence</hi>, schafft auf düster-kirchlichen Textesworten
+                eine Todtenmesse. Ich habe in meinem Urtheil nach Kenntnissnahme des <title
+                    ref="#verdi.requiem">Requiem</title> nicht geschwankt. Nach meiner ansicht trägt
+                es entschieden die Signatur des Talentes, der Intelligenz, vor Allem des
+                künstlerischen Ernstes, die <title ref="#verdi.requiem">Manzoni-Messe</title> ist
+                das Product einer concentrirten schöpferischen Kraft und als solches von den
+                engbrüstigen Wechselbälgen des italienischen Maëstro dramatischer Muse durch die
+                weite Kluft getrennt, die die Wirkungskreise des berufenen und des schnöden Lohnes
+                halber thätigen Arbeiters scheidet. Aber freilich nach den Keimen einer
+                Lebensfähigkeit, die alle zeitlichen Schranken bricht, suche ich auch bei dem neuen
+                Werke vergebens. Es fehlt ihm das <hi rend="italic">perpetuum mobile</hi> eines
+                kräftigen Pulsschlages, der das Leben bedeutet. Wir gewahren das Walten
+                zusammengehaltener, eminent schaffensfähiger Kräfte, aber nicht frei und losgelöst
+                von jeglichem Selbstzweck, nicht durchaus im Dienste der Idee. Das <title
+                    ref="#verdi.requiem">Requiem</title> ist hochbedeutend, wenn es in Beziehung zu
+                seinem Autor gesetzt, nicht aber, wenn es isolirt, ohne Rücksicht auf die
+                Titelvignette, beurtheilt wird. Indessen, der deutsche Musiker vergisst gern über
+                der ersten Betrachtungsweise die strenge letztere. Ist es doch etwas gar
+                Erfreuliches um den Anblick, wie ein Mann, der den blendenden Fond ausgeprägter
+                musikalischer Begabung seither in puffendem Feuerwerk versprühte, aus dem alten,
+                tiefgefahrenen Geleise in neue Bahnen einlenkt, die nach edleren Zeiten hinleiten.
+                Strebt wirklich der vielumräucherte Diener der Plebs aus der rasch davontreibenden
+                Strömung einer anrüchigen Geschmacksrichtung nach dem festen Boden, auf dem die
+                Altäre der wahren Kunst stehen, nun so werden ihre auserwählten Jünger ein Uebriges
+                thun, um dem Herankommenden vollends ans Land zu helfen: ist er ihnen nur erst so
+                nahe, dass sie seine Hand zu fassen vermögen. —</p>
+            <pb break="null" facs="#f2" n="38" type="skipped"/>
+            <p rend="right"><hi rend="widespace"><persName ref="#weiss.albert">Albert
+                        Weiss</persName></hi>.</p>
+        </body>
+    </text>
 </TEI>

@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#dresdner-nachrichten" role="publisher"/>
 					<placeName ref="#dresden"/>
-					<date when-iso="1876-01-04" when-custom="tue"/>
-					<biblScope unit="issue">4</biblScope><biblScope unit="volume"
-						>21</biblScope><series>dn</series>
+					<date when-custom="tue" when-iso="1876-01-04"/>
+					<biblScope unit="issue">4</biblScope>
+					<biblScope unit="volume">21</biblScope>
+					<series>dn</series>
 					<biblScope unit="page">2–3</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -35,8 +36,8 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
-			<p><g type="DAGGER" n="2020">†</g>
-				<rs type="event" ref="#dresden.1876.1"><date when-iso="1876-01-08">Künftigen <hi
+			<p><g n="2020" type="DAGGER">†</g>
+				<rs ref="#dresden.1876.1" type="event"><date when-iso="1876-01-08">Künftigen <hi
 							rend="widespace">Sonnabend</hi></date> wird in <placeName ref="#dresden"
 						>Dresden</placeName> im <hi rend="widespace">Altstädter</hi>, durch ein
 					Orchesterpodium vorgerichteten <placeName ref="#dresden.hoftheater"
@@ -50,15 +51,15 @@
 					<persName ref="#erl.anton">A. <hi rend="widespace">Erl</hi></persName> und Herr
 					<hi rend="widespace"><persName ref="#koehler.hans">Köhler</persName></hi> singen
 				die Soli. Die sieben Nummern des Tonwerkes sind alle von bedeutender Schönheit.
-				Hervorragt das <title ref="#verdi.requiem.1" n="kyrie">Kyrie</title> (vierstimmig) und
-				aus dem <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi> das
-				herrliche <hi rend="antiqua"><title ref="#verdi.requiem.2.liber-scriptus">liber
+				Hervorragt das <title n="kyrie" ref="#verdi.requiem.1">Kyrie</title> (vierstimmig)
+				und aus dem <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi>
+				das herrliche <hi rend="antiqua"><title ref="#verdi.requiem.2.liber-scriptus">liber
 						scriptus</title></hi> (Mezzosopran). Kaum minder ist das <hi rend="antiqua"
 						><title ref="#verdi.requiem">recordare</title></hi> ein empfindungsschönes
 				Tonstück. Das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus
 					Dei</title></hi> und <hi rend="antiqua"><title ref="#verdi.requiem.6">lux
-						aeterna</title></hi> haben in <rs type="event" ref="#paris.1875"><placeName
-						ref="#paris">Paris</placeName></rs> und <rs type="event" ref="#wien.1875"
+						aeterna</title></hi> haben in <rs ref="#paris.1875" type="event"><placeName
+						ref="#paris">Paris</placeName></rs> und <rs ref="#wien.1875" type="event"
 						><placeName ref="#wien">Wien</placeName></rs> den größten Eindruck gemacht
 				und es ist wohl kaum zu zweifeln, daß das kunstsinnige <placeName ref="#dresden"
 					>Dresden</placeName> in der Schätzung dieses Werkes <persName

@@ -14,18 +14,10 @@
 					<orgName ref="#mwb" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1876-05-19"/>
-					<biblScope unit="issue">21</biblScope><biblScope unit="volume"
-						>7</biblScope><series>mwb</series>
+					<biblScope unit="issue">21</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<series>mwb</series>
 					<biblScope unit="page">273–274</biblScope>
-					<link facs="mwb_1876-05-19_273.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=5"/>
-					<link facs="mwb_1876-05-19_274.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=6"/>
-					<link facs="mwb_1876-05-26_284.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=4"/>
-					<link facs="mwb_1876-05-26_285.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=5"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -42,13 +34,30 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-05-19_273.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=5"
+			xml:id="f1"/>
+		<graphic n="mwb_1876-05-19_274.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=6"
+			xml:id="f2"/>
+		<graphic n="mwb_1876-05-26_284.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=4"
+			xml:id="f3"/>
+		<graphic n="mwb_1876-05-26_285.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=5"
+			xml:id="f4"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<head rend="larger">Musikbrief.</head>
+			<pb n="273"/>
+			<head rend="widespace larger">Tagesgeschichte.</head>
+			<head rend="lineale bold">Musikbrief.</head>
 			<p rend="right"><hi rend="bold"><placeName ref="#muenchen">München</placeName>,</hi>
 				<date when-iso="1876-04-11">11. April</date>.</p>
+			<pb n="274" type="skipped"/>
 			<p><gap resp="tr"/>
-				<rs type="event" ref="#muenchen.1875.2"><persName ref="#verdi.giuseppe"
+				<rs ref="#muenchen.1875.2" type="event"><persName ref="#verdi.giuseppe"
 						>Verdi’s</persName>
 					<title ref="#verdi.requiem"><choice>
 							<orig>Missa</orig>
@@ -67,10 +76,8 @@
 				bedeutend übertönte, — was bei künftigen derartigen Aufführungen im Theater
 				ernstlich zu beherzigen sein dürfte.</p>
 			<pb break="null" n="285" type="skipped"/>
-			<p rend="right">
-				<hi rend="italic"><persName ref="#symbol.b"><g type="MUSIC_FLAT_SIGN" n="266D"
-						>♭</g></persName></hi>
-			</p>
+			<p rend="right"><persName ref="#symbol.b"><g n="266D" type="MUSIC_FLAT_SIGN"
+					>♭</g></persName></p>
 		</body>
 	</text>
 </TEI>

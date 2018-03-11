@@ -34,7 +34,8 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="2817" type="initial"/>
-			<head rend="larger">Pariser Chronik.</head>
+			<head rend="larger bold">Pariser Chronik.</head>
+			<gap/>
 			<p rend="smaller hanging"><gap resp="tr"/>
 				<persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem-Messe</title> für Manzoni in der komischen Oper.

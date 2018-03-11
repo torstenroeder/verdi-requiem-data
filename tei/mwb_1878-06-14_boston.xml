@@ -1,17 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 14. Juni 1878</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1878-06-14_boston.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#mwb" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1878-06-14"/>
-				<biblScope unit="issue">25</biblScope><biblScope unit="volume">9</biblScope><series>mwb</series>
-				<biblScope unit="page">305</biblScope>
-				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18780614&amp;seite=5"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#boston"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<pb break="null" n="305" type="initial"/>
-		<head rend="larger">Aufgeführte Novitäten.</head>
-		<cb break="null" n="305b" type="skipped"/>
-		<p><rs type="event" ref="#unidentified"><persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>
-					(G.)</persName>, <title ref="#verdi.requiem">Requiem</title>. (<placeName ref="#boston">Boston</placeName>, Aufführ. durch die <orgName ref="#boston.haendel-and-haydn-society">Händel- u. Haydn-Gesellschaft</orgName>.)</rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MWbl, Leipzig, 14. Juni 1878</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mwb_1878-06-14_boston.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#mwb" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1878-06-14"/>
+					<biblScope unit="issue">25</biblScope>
+					<biblScope unit="volume">9</biblScope>
+					<series>mwb</series>
+					<biblScope unit="page">305</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#boston"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18780614&amp;seite=5"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<pb break="null" facs="#f1" n="305" type="initial"/>
+			<head rend="bold lineale">Aufgeführte Novitäten.</head>
+			<cb break="null" n="305b" type="skipped"/>
+			<p rend="hanging"><rs ref="#unidentified" type="event"><persName ref="#verdi.giuseppe"><hi
+							rend="widespace">Verdi</hi> (G.)</persName>, <title ref="#verdi.requiem"
+						>Requiem</title>. (<placeName ref="#boston">Boston</placeName>, Aufführ.
+					durch die <orgName ref="#boston.haendel-and-haydn-society">Händel- u.
+						Haydn-Gesellschaft</orgName>.)</rs></p>
+		</body>
+	</text>
 </TEI>

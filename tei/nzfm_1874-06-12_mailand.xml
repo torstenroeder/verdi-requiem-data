@@ -1,18 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 12. Juni 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1874-06-12_mailand.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#nzfm" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1874-06-12"/>
-				<biblScope unit="issue">24</biblScope><biblScope unit="volume">70</biblScope><series>nzfm</series>
-				<biblScope unit="page">240 [8]</biblScope>
-				<link facs="nzfm_1874-06-12_240.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18740612&amp;seite=8"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#mailand"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Aufführungen.</head>
-		<gap resp="tr"/>
-		<p><rs type="event" ref="#mailand.1874.1"><hi rend="widespace"><placeName ref="#mailand">Mailand</placeName></hi>. Am <date when-iso="1874-05-22">22. v. M.</date> erste
-				Aufführung von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
-				<title ref="#verdi.requiem">Seelenmesse</title> für <persName ref="#manzoni.alessandro">Manzoni</persName> mit großem Pomp u. Leit. des Comp. (Chor 120 P., Orchester 110
-				P., Solisten die Damen <hi rend="widespace"><persName ref="#stolz.teresa">Stolz</persName></hi> und <hi rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi>, Tenor. <hi rend="widespace"><persName ref="#capponi.giuseppe">Capponi</persName></hi> und Bass. <hi rend="widespace"><persName ref="#maini.armando">Maini</persName></hi>)</rs>. — <gap resp="tr"/></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>NZfM, Leipzig, 12. Juni 1874</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nzfm_1874-06-12_mailand.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nzfm" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1874-06-12"/>
+					<biblScope unit="issue">24</biblScope>
+					<biblScope unit="volume">70</biblScope>
+					<series>nzfm</series>
+					<biblScope unit="page">240 [8]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#mailand"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nzfm_1874-06-12_240.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18740612&amp;seite=8"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Aufführungen.</head>
+			<gap resp="tr"/>
+			<p><rs ref="#mailand.1874.1" type="event"><hi rend="widespace"><placeName ref="#mailand"
+							>Mailand</placeName></hi>. Am <date when-iso="1874-05-22">22. v.
+						M.</date> erste Aufführung von <hi rend="widespace"><persName
+							ref="#verdi.giuseppe">Verdi’s</persName></hi>
+					<title ref="#verdi.requiem">Seelenmesse</title> für <persName
+						ref="#manzoni.alessandro">Manzoni</persName> mit großem Pomp u. Leit. des
+					Comp. (Chor 120 P., Orchester 110 P., Solisten die Damen <hi rend="widespace"
+							><persName ref="#stolz.teresa">Stolz</persName></hi> und <hi
+						rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi>,
+					Tenor. <hi rend="widespace"><persName ref="#capponi.giuseppe"
+						>Capponi</persName></hi> und Bass. <hi rend="widespace"><persName
+							ref="#maini.armando">Maini</persName></hi>)</rs>. — <gap resp="tr"/></p>
+		</body>
+	</text>
 </TEI>

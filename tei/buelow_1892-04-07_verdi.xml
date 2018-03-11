@@ -1,38 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Hans von Bülow, Brief an Giuseppe Verdi, Hamburg, 7. April 1892</title><author><persName ref="#buelow.hans-von"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/buelow_1892-04-07_brief-an-verdi.xml</p></publicationStmt><sourceDesc><bibl>
-				<placeName ref="#hamburg"/>
-				<date when-iso="1892-04-07"/>
-			</bibl><bibl>
-				<title>Briefe. Siebter Band (Briefe und Schriften 8), Marie von Bülow (Hg.), Leipzig: Breitkopf und Härtel, 1904, Nr. 412, S. 386–387.</title>
-				<link facs="buelow_briefe-und-schriften-8_386-387.png" target="https://archive.org/stream/briefeundschrif08blgoog#page/n420/mode/1up"/>
-				<link facs="buelow_briefe-und-schriften-8_386-387.png" target="https://archive.org/stream/briefeundschrif08blgoog#page/n421/mode/1up"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#hamburg"/><date when-iso="1892-04-07"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="it"><body rend="antiqua">
-		<p rend="right"><hi rend="widespace"><placeName ref="#hamburg">Amburgo</placeName></hi>, li <date when-iso="1892-04-07">7 Aprile 1892</date>.</p>
-		<p>Illustre Maestro,</p>
-		<p>Degnatevi ascoltare la confessione di un contrito peccatore! Fa già diciotto anni che il
-			sottoscritto si è fatto reo di una gran — gran <hi rend="italic">bestialità</hi>
-			giornalistica — verso l’ultimo dei cinque Re della musica italiana moderna. Se n’è
-			pentito, se n’è vergognato amaramente, oh quante volte! Quando commesse il peccato
-			acennato (forse la Vostra magnanimità <pb break="yes" n="387" type="regular"/>l’avrà
-			affatto dimenticato) era proprio in istato di mentecattaggine — compatite ch’io mentovi
-			quella circostanza, per cosi dire, attenuante. Ebbi la mente acciecata da un fanatismo,
-			da »Seide« oltrewagnerista. Sette anni dopo — man a man si è fatta la luce. Il fanatismo
-			si è purificato, è diventato: entusiasmo.</p>
-		<p>Fanatismo=petrolio; entusiasmo=luce elettrica. Nel mondo intellettuale e morale la luce
-			chiamasi: giustizia. Niente di più distruttivo dell’ingiustizia, nulla di più
-			intollerabile dell’intolleranza, come l’ha già detto il nobilissimo <persName ref="#leopardi.giacomo">Giacomo Leopardi</persName>.</p>
-		<p>Giunto alfin a quel »punto di cognizione« quanto n’ebbi a congratularmi, quanto se n’è
-			arricchita la mia vita, se n’è accresciuto il campo delle più preziose gioie, le
-			artistiche! Ho principiato collo studiare le Vostre ultime opere: <hi rend="italic"><title ref="#verdi.aida">l’Aida</title></hi>, <hi rend="italic"><title ref="#verdi.otello">l’Otello</title></hi> ed il <hi rend="italic"><title ref="#verdi.requiem">Requiem</title></hi>, di cui ultimamente una esecuzione anzi
-			piuttosto debole — m’ha commosso fin’ alle lagrime: le ho studiate non solamente secondo
-			la lettera che uccide, ma secondo lo spirito che ravviva! Ebbene, illustre Maestro, ora
-			Vi ammiro, Vi amo!</p>
-		<p>Volete perdonarmi, volete valervi del privilegio dei sovrani di graziare? Comunque sia,
-			debbo, potendolo, fosse anche solo per darne l’esempio ai minori fratelli erranti,
-			confessare la colpa del passato.</p>
-		<p>E fedele al motto prussiano: <hi rend="italic">Suum cuique</hi>, esclamo bravamente</p>
-		<p>Evviva <persName ref="#verdi.giuseppe">VERDI</persName>, il <persName ref="#wagner.richard">Wagner</persName> dei nostri cari alleati!</p>
-		<p rend="right"><persName ref="#buelow.hans-von">Hans von Bülow</persName> (nato <date when-iso="1830-01-08">8 Gennaio 1830</date>).</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Hans von Bülow, Brief an Giuseppe Verdi, Hamburg, 7. April 1892</title>
+				<author><persName ref="#buelow.hans-von"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/buelow_1892-04-07_brief-an-verdi.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<placeName ref="#hamburg"/>
+					<date when-iso="1892-04-07"/>
+				</bibl>
+				<bibl>Briefe. Siebter Band (Briefe und Schriften 8), Marie von Bülow (Hg.), Leipzig:
+					Breitkopf und Härtel, 1904, Nr. 412, S. 386–387.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#hamburg"/><date when-iso="1892-04-07"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Privatschrift</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="buelow_briefe-und-schriften-8_386-387.png"
+			url="https://archive.org/stream/briefeundschrif08blgoog#page/n420/mode/1up" xml:id="f1"/>
+		<graphic n="buelow_briefe-und-schriften-8_386-387.png"
+			url="https://archive.org/stream/briefeundschrif08blgoog#page/n421/mode/1up" xml:id="f2"
+		/>
+	</facsimile>
+	<text xml:lang="it">
+		<body rend="antiqua">
+			<pb break="null" facs="#f1" n="386" type="initial"/>
+			<p rend="right"><hi rend="widespace"><placeName ref="#hamburg">Amburgo</placeName></hi>,
+				li <date when-iso="1892-04-07">7 Aprile 1892</date>.</p>
+			<p>Illustre Maestro,</p>
+			<p>Degnatevi ascoltare la confessione di un contrito peccatore! Fa già diciotto anni che
+				il sottoscritto si è fatto reo di una gran — gran <hi rend="italic">bestialità</hi>
+				giornalistica — verso l’ultimo dei cinque Re della musica italiana moderna. Se n’è
+				pentito, se n’è vergognato amaramente, oh quante volte! Quando commesse il peccato
+				acennato (forse la Vostra magnanimità <pb break="yes" facs="#f2" n="387"
+					type="regular"/>l’avrà affatto dimenticato) era proprio in istato di
+				mentecattaggine — compatite ch’io mentovi quella circostanza, per cosi dire,
+				attenuante. Ebbi la mente acciecata da un fanatismo, da »Seide« oltrewagnerista.
+				Sette anni dopo — man a man si è fatta la luce. Il fanatismo si è purificato, è
+				diventato: entusiasmo.</p>
+			<p>Fanatismo=petrolio; entusiasmo=luce elettrica. Nel mondo intellettuale e morale la
+				luce chiamasi: giustizia. Niente di più distruttivo dell’ingiustizia, nulla di più
+				intollerabile dell’intolleranza, come l’ha già detto il nobilissimo <persName
+					ref="#leopardi.giacomo">Giacomo Leopardi</persName>.</p>
+			<p>Giunto alfin a quel »punto di cognizione« quanto n’ebbi a congratularmi, quanto se
+				n’è arricchita la mia vita, se n’è accresciuto il campo delle più preziose gioie, le
+				artistiche! Ho principiato collo studiare le Vostre ultime opere: <hi rend="italic"
+						><title ref="#verdi.aida">l’Aida</title></hi>, <hi rend="italic"><title
+						ref="#verdi.otello">l’Otello</title></hi> ed il <hi rend="italic"><title
+						ref="#verdi.requiem">Requiem</title></hi>, di cui ultimamente una esecuzione
+				anzi piuttosto debole — m’ha commosso fin’ alle lagrime: le ho studiate non
+				solamente secondo la lettera che uccide, ma secondo lo spirito che ravviva! Ebbene,
+				illustre Maestro, ora Vi ammiro, Vi amo!</p>
+			<p>Volete perdonarmi, volete valervi del privilegio dei sovrani di graziare? Comunque
+				sia, debbo, potendolo, fosse anche solo per darne l’esempio ai minori fratelli
+				erranti, confessare la colpa del passato.</p>
+			<p>E fedele al motto prussiano: <hi rend="italic">Suum cuique</hi>, esclamo
+				bravamente</p>
+			<p>Evviva <persName ref="#verdi.giuseppe">VERDI</persName>, il <persName
+					ref="#wagner.richard">Wagner</persName> dei nostri cari alleati!</p>
+			<p rend="right"><persName ref="#buelow.hans-von">Hans von Bülow</persName> (nato <date
+					when-iso="1830-01-08">8 Gennaio 1830</date>).</p>
+		</body>
+	</text>
 </TEI>

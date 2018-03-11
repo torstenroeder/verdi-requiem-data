@@ -1,18 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Bayerischer Kurier, München, 12. Dezember 1875</title><author><persName ref="#akronym.r"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/bk_1875-12-12_muenchen.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#bayerischer-kurier" role="publisher"/>
-				<placeName ref="#muenchen"/>
-				<date when-iso="1875-12-12" when-custom="sun"/>
-				<date when-iso="1875-12-13" when-custom="mon"/>
-				<biblScope unit="issue">343/344</biblScope><biblScope unit="subIssue">343/344</biblScope><biblScope unit="volume">19</biblScope><series>bk</series>
-				<biblScope unit="page">[1]</biblScope>
-				<link facs="bk_1875-12-12_1.jpg"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#muenchen"/><date when-iso="1875-12-11" when-custom="sat"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Lokales und Provinzielles.</head>
-		<head><hi rend="widespace"><placeName ref="#muenchen">München</placeName></hi>, <date when-iso="1875-12-11">11. Dezember</date>.</head>
-		<p><hi rend="bold"><persName ref="#akronym.r">— r.</persName> (Conzert.)</hi>
-				<rs type="event" ref="#wien.1875">Nachdem in <placeName ref="#wien">Wien</placeName>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bayerischer Kurier, München, 12. Dezember 1875</title>
+				<author><persName ref="#akronym.r"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/bk_1875-12-12_muenchen.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#bayerischer-kurier" role="publisher"/>
+					<placeName ref="#muenchen"/>
+					<date when-custom="sun" when-iso="1875-12-12"/>
+					<date when-custom="mon" when-iso="1875-12-13"/>
+					<biblScope unit="issue">343/344</biblScope>
+					<biblScope unit="subIssue">343/344</biblScope>
+					<biblScope unit="volume">19</biblScope>
+					<series>bk</series>
+					<biblScope unit="page">[1]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#muenchen"/><date when-custom="sat" when-iso="1875-12-11"
+				/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<!--<graphic n="bk_1875-12-12_1.jpg"/>-->
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Lokales und Provinzielles.</head>
+			<head><hi rend="widespace"><placeName ref="#muenchen">München</placeName></hi>, <date
+					when-iso="1875-12-11">11. Dezember</date>.</head>
+			<p><hi rend="bold"><persName ref="#akronym.r">— r.</persName> (Conzert.)</hi>
+				<rs ref="#wien.1875" type="event">Nachdem in <placeName ref="#wien">Wien</placeName>
 					<hi rend="widespace"><persName ref="#verdi.giuseppe" role="composer"
 							>Verdi’s</persName>
 						<title ref="#verdi.requiem">Requiem</title></hi> unter persönlicher Leitung
@@ -43,22 +75,21 @@
 					ref="#verdi.requiem.1">Introitus</title> als kurze, dramatische Einleitung, in
 				welcher die Textworte vom Chor in abgebrochenen fast recitativartigen Sätzen
 				vorgetragen und von einer zarten Instrumentalbegleitung gehoben werden. Der <title
-					ref="#verdi.requiem.1" n="te-decet-hymnus">Psalm</title> ist ein herrlicher Satz im
-				Styl <hi rend="antiqua">a capella</hi>, dessen Harmonik gegen Ende reich und kühn
-				ist. Das sich eng anschließende <hi rend="antiqua"><title
-						ref="#verdi.requiem.1" n="kyrie">Kyrie</title></hi> trägt eine mehr weltliche
-				Färbung, hier treten die ersten Sologesänge auf, an denen <persName
-					ref="#verdi.giuseppe">Verdi’s</persName> Eigenthümlichkeit nicht übersehen
-				werden kann. Der gewaltige Text des <hi rend="antiqua"><title ref="#verdi.requiem.2"
-						>Dies irae</title></hi> forderte den Componisten zur Anwendung großartiger
-				Effekte auf, er verschmähte es selbst nicht die große Trommel anzuwenden. Für die
-				Kirche müßten wir jedoch solche Sätze ablehnen, wenn sie musikalisch noch so
-				berechtigt sein mögen. Der ganze breit ausgesponnene Satz ist voll dramatischen
-				Lebens, entbehrt jedoch keineswegs gewisser Seltsamkeiten; so begegnet uns im <hi
-					rend="antiqua"><title ref="#verdi.requiem.2.confutatis" n="oro-supplex"
-						>Confutatis</title></hi> eine öfter wiederholte Reihenfolge von
-				Quinten-Parallelen für deren absichtliche Anwendung kein Grund erfindlich. Die
-				Verwendung von Trompeten im <hi rend="antiqua"><title
+					n="te-decet-hymnus" ref="#verdi.requiem.1">Psalm</title> ist ein herrlicher Satz
+				im Styl <hi rend="antiqua">a capella</hi>, dessen Harmonik gegen Ende reich und kühn
+				ist. Das sich eng anschließende <hi rend="antiqua"><title n="kyrie"
+						ref="#verdi.requiem.1">Kyrie</title></hi> trägt eine mehr weltliche Färbung,
+				hier treten die ersten Sologesänge auf, an denen <persName ref="#verdi.giuseppe"
+					>Verdi’s</persName> Eigenthümlichkeit nicht übersehen werden kann. Der gewaltige
+				Text des <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi>
+				forderte den Componisten zur Anwendung großartiger Effekte auf, er verschmähte es
+				selbst nicht die große Trommel anzuwenden. Für die Kirche müßten wir jedoch solche
+				Sätze ablehnen, wenn sie musikalisch noch so berechtigt sein mögen. Der ganze breit
+				ausgesponnene Satz ist voll dramatischen Lebens, entbehrt jedoch keineswegs gewisser
+				Seltsamkeiten; so begegnet uns im <hi rend="antiqua"><title n="oro-supplex"
+						ref="#verdi.requiem.2.confutatis">Confutatis</title></hi> eine öfter
+				wiederholte Reihenfolge von Quinten-Parallelen für deren absichtliche Anwendung kein
+				Grund erfindlich. Die Verwendung von Trompeten im <hi rend="antiqua"><title
 						ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi> mit dem Echo ist
 				eine Modifizirung des von <persName ref="#berlioz.hector">H. Berlioz</persName> in
 				seinem <title ref="#berlioz.grande-messe-des-morts">Requiem</title> verwertheten
@@ -74,21 +105,21 @@
 				Beginn der zweichörigen Doppelfuge an nicht nur musikalisch interessant, sondern
 				bringt ganz der Situation gemäß die geeignete andächtige Stimmung zum Ausdruck. In
 				dem <hi rend="antiqua"><title ref="#verdi.requiem.4">Sanctus</title></hi> ist das
-					<hi rend="antiqua"><title ref="#verdi.requiem.4" n="benedictus"
-					>Benedictus</title></hi> mit verflochten und nicht als eigener Satz behandelt.
-				Das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> beginnt
-				mit einem längeren Solosatz in Unisono zwischen Tenor<note resp="tr"
-					type="eventCommentary">Eigentlich Sopran und Mezzosopran, jedoch könnte die
-					Besetzung umgestellt worden sein; vgl. <ref type="text"
-						target="euterpe_1876_35-07_heilbronn.xml">Euterpe, Leipzig, Mitte
-					1876</ref>.</note> und Sopran piano vorgetragen, dessen Effekt sich noch dadurch
-				steigert, daß beim dritten Agnus die Instrumente und der Chor einsetzten und die
-				ganze etwas breit gehaltene Phrase mit einer interessanten harmonischen Unterlage
-				wiederholen. Das <hi rend="antiqua"><title ref="#verdi.requiem.7">Post
-						comunio</title></hi> ist ein Satz mit Solo und Chor, in dem <persName
-					ref="#verdi.giuseppe">Verdi</persName> die Hauptmotive des ganzen Requiem
-				zusammenfaßt und die überwältigenden Instrumentaleffekte de<supplied resp="tr"
-					>s</supplied>
+					<hi rend="antiqua"><title n="benedictus" ref="#verdi.requiem.4"
+						>Benedictus</title></hi> mit verflochten und nicht als eigener Satz
+				behandelt. Das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus
+					Dei</title></hi> beginnt mit einem längeren Solosatz in Unisono zwischen
+					Tenor<note resp="tr" type="eventCommentary">Eigentlich Sopran und Mezzosopran,
+					jedoch könnte die Besetzung umgestellt worden sein; vgl. <ref
+						target="euterpe_1876_35-07_heilbronn.xml" type="text">Euterpe, Leipzig,
+						Mitte 1876</ref>.</note> und Sopran piano vorgetragen, dessen Effekt sich
+				noch dadurch steigert, daß beim dritten Agnus die Instrumente und der Chor
+				einsetzten und die ganze etwas breit gehaltene Phrase mit einer interessanten
+				harmonischen Unterlage wiederholen. Das <hi rend="antiqua"><title
+						ref="#verdi.requiem.7">Post comunio</title></hi> ist ein Satz mit Solo und
+				Chor, in dem <persName ref="#verdi.giuseppe">Verdi</persName> die Hauptmotive des
+				ganzen Requiem zusammenfaßt und die überwältigenden Instrumentaleffekte de<supplied
+					resp="tr">s</supplied>
 				<hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi>
 				andeutungsweise wiederkehren. Im <hi rend="antiqua"><title ref="#verdi.requiem.7"
 						>Libera</title></hi> begegnen wir einer trefflich gearbeiteten Fuge und sind
@@ -102,23 +133,32 @@
 				gegen die Fuge erinnern wollten, so gäbe eine angewendete Rosalie<note resp="tr"
 					type="glossaryLink">Rosalie: Abwertender Begriff für eine aufsteigende
 					Sequenzierung eines Melodieabschnittes; die Bezeichnung geht auf das
-					italienische Volkslied »Rosalia mia cara« zurück (vgl. <ref type="text"
-						target="https://de.wikipedia.org/wiki/Rosalie_(Musik)"
+					italienische Volkslied »Rosalia mia cara« zurück (vgl. <ref
+						target="https://de.wikipedia.org/wiki/Rosalie_(Musik)" type="text"
 						>de.wikipedia.org)</ref>.</note> Gelegenheit, die aber so gut klingt, daß
 				sie immerhin passiren mag.</p>
-		<p>Zur Ausführung dieser großartigen Composition in der wir vornehmlich den Zweck, die
-			Ausmalung des noch poetischen Textes der Todtenmesse erkennen, gehören immerhin
-			bedeutende Mittel und sie stellt an die Solisten hohe Ansprüche, welche einen gewißen
-			Grad von Technik fordern, der bei unsern deutschen Sängern nicht all zu häufig
-			anzutreffen. Von den mitwirkenden Solisten hielt sich Frl. <persName ref="#schefsky.josephine">Schefzky</persName> vorzüglich, ebenso Frl. <persName ref="#radecke.luise">Radeke</persName> und Hr. <persName ref="#bausewein.kaspar">Bausewein</persName>, Hr. <persName ref="#nachbaur.franz" role="soloist.tenor">Nachbauer</persName> hatte die Tenorparthie zu vertreten! Von Seite des Chors wurde
-			wie gewohnt Vorzügliches geleistet, nicht minder hielten sich die Orchestermassen auf
-			gleicher Höhe.</p>
-		<p>Was die Behandlung des Orchesters überhaupt anlangt, so beweiset <persName ref="#verdi.giuseppe">Verdi</persName>, daß er mit den einzelnen Instrumenten mehr
-			vertraut als von vielen der berühmten Instrumentatoren der Gegenwart gesagt werden kann.
-			Der Erfolg war sehr günstig und mußte das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> wiederholt werden.</p>
-		<p>Durch die <rs type="event" ref="#muenchen.1875.1">Aufführung</rs> hat die musikalische Akademie
-			sich ein unbestrittenes Verdienst erworben, Herrn Hofkapellmeister <persName ref="#wuellner.franz">Wüllner</persName> gebührt für seine dem Werke gewidmeten
-			Bemühungen Dank und Anerkennung und hat er sich damit in der Geschichte des <placeName ref="#muenchen">Münchener</placeName> Concertlebens ein bleibendes Andenken
-			gesichert.</p>
-	</body></text>
+			<p>Zur Ausführung dieser großartigen Composition in der wir vornehmlich den Zweck, die
+				Ausmalung des noch poetischen Textes der Todtenmesse erkennen, gehören immerhin
+				bedeutende Mittel und sie stellt an die Solisten hohe Ansprüche, welche einen
+				gewißen Grad von Technik fordern, der bei unsern deutschen Sängern nicht all zu
+				häufig anzutreffen. Von den mitwirkenden Solisten hielt sich Frl. <persName
+					ref="#schefsky.josephine">Schefzky</persName> vorzüglich, ebenso Frl. <persName
+					ref="#radecke.luise">Radeke</persName> und Hr. <persName ref="#bausewein.kaspar"
+					>Bausewein</persName>, Hr. <persName ref="#nachbaur.franz" role="soloist.tenor"
+					>Nachbauer</persName> hatte die Tenorparthie zu vertreten! Von Seite des Chors
+				wurde wie gewohnt Vorzügliches geleistet, nicht minder hielten sich die
+				Orchestermassen auf gleicher Höhe.</p>
+			<p>Was die Behandlung des Orchesters überhaupt anlangt, so beweiset <persName
+					ref="#verdi.giuseppe">Verdi</persName>, daß er mit den einzelnen Instrumenten
+				mehr vertraut als von vielen der berühmten Instrumentatoren der Gegenwart gesagt
+				werden kann. Der Erfolg war sehr günstig und mußte das <hi rend="antiqua"><title
+						ref="#verdi.requiem.5">Agnus Dei</title></hi> wiederholt werden.</p>
+			<p>Durch die <rs ref="#muenchen.1875.1" type="event">Aufführung</rs> hat die
+				musikalische Akademie sich ein unbestrittenes Verdienst erworben, Herrn
+				Hofkapellmeister <persName ref="#wuellner.franz">Wüllner</persName> gebührt für
+				seine dem Werke gewidmeten Bemühungen Dank und Anerkennung und hat er sich damit in
+				der Geschichte des <placeName ref="#muenchen">Münchener</placeName> Concertlebens
+				ein bleibendes Andenken gesichert.</p>
+		</body>
+	</text>
 </TEI>

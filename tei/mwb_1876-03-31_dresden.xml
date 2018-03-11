@@ -1,20 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 31. März 1876 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1876-03-31_dresden.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#mwb" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-03-31"/>
-				<biblScope unit="issue">14</biblScope><biblScope unit="volume">7</biblScope>
-				<biblScope unit="page">177</biblScope>
-				<link facs="mwb_1876-03-31_177.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760331&amp;seite=9"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#leipzig"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<head rend="lineale bold">Opernaufführungen.</head>
-		<gap resp="tr"/>
-		<head><date when-iso="1876-02">Februar</date>.</head>
-		<cb break="null" n="177b" type="skipped"/>
-		<p><rs type="event" ref="#dresden.1876.3 dresden.1876.4 dresden.1876.5"><hi rend="bold"><placeName ref="#dresden">Dresden</placeName>.</hi>
-				<gap resp="tr"/>
-				<date when-iso="1876-02-05">5.</date>, <date when-iso="1876-02-10">10.</date> u. <date when-iso="1876-02-24">24.</date>
-				<title ref="#verdi.requiem">Requiem</title>.</rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MWbl, Leipzig, 31. März 1876 [1]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mwb_1876-03-31_dresden.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#mwb" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-03-31"/>
+					<biblScope unit="issue">14</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<biblScope unit="page">177</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#leipzig"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-03-31_177.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760331&amp;seite=9"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<head rend="lineale bold">Opernaufführungen.</head>
+			<gap resp="tr"/>
+			<head><date when-iso="1876-02">Februar</date>.</head>
+			<cb break="null" n="177b" type="skipped"/>
+			<p><rs ref="#dresden.1876.3 dresden.1876.4 dresden.1876.5" type="event"><hi rend="bold"
+							><placeName ref="#dresden">Dresden</placeName>.</hi>
+					<gap resp="tr"/>
+					<date when-iso="1876-02-05">5.</date>, <date when-iso="1876-02-10">10.</date> u.
+						<date when-iso="1876-02-24">24.</date>
+					<title ref="#verdi.requiem">Requiem</title>.</rs></p>
+		</body>
+	</text>
 </TEI>

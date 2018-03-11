@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1876-01-01" when-custom="sat"/>
-					<biblScope unit="issue">1</biblScope><biblScope unit="volume"
-						>26</biblScope><series>tms</series>
+					<date when-custom="sat" when-iso="1876-01-01"/>
+					<biblScope unit="issue">1</biblScope>
+					<biblScope unit="volume">26</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">[3]</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -34,7 +35,7 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><g type="WHITE_SQUARE" n="25A1">□</g> (<persName ref="#verdi.giuseppe"
+			<p><g n="25A1" type="WHITE_SQUARE">□</g> (<persName ref="#verdi.giuseppe"
 					>Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title>.) Die jetzt — nach dem gestern zum
 				ersten Male Soli, Chor und Orchester zusammenwirkten — stattfindenden Proben nehmen
@@ -44,7 +45,7 @@
 				tiefergreifende sein, uns namentlich staunen selbst die strengen Fachmusiker über
 				die Intensität, mit welcher es hier dem italienischen Maestro gelungen ist, graziöse
 				Führung der Melodie mit polyfonisch exakter Stylisirung zu vereinigen. Das Komite
-				ist übrigens bestrebt, die <rs type="event" ref="#bruenn.1876">Aufführung</rs> des
+				ist übrigens bestrebt, die <rs ref="#bruenn.1876" type="event">Aufführung</rs> des
 				großen Tonwerkes zu einem möglichst ungestörten und weihevollen zu gestalten, und
 				wir machen das Publikum hier darauf aufmerksam, daß mit Beginn des <title
 					ref="#verdi.requiem">Requiems</title> der <placeName

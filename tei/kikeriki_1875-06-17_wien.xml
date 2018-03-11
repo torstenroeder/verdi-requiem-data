@@ -13,12 +13,10 @@
 					<orgName ref="#kikeriki" role="publisher"/>
 					<placeName ref="#wien"/>
 					<date when-iso="1875-06-17"/>
-					<biblScope unit="issue">48</biblScope><biblScope unit="volume"
-						>15</biblScope><series>kikeriki</series>
+					<biblScope unit="issue">48</biblScope>
+					<biblScope unit="volume">15</biblScope>
+					<series>kikeriki</series>
 					<biblScope unit="page">3</biblScope>
-					<link facs="kikeriki_1875-06-17_3.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=kik&amp;datum=18750617&amp;seite=3"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,20 +33,27 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="kikeriki_1875-06-17_3.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=kik&amp;datum=18750617&amp;seite=3"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Musikalische Verwirrungen.</head>
-			<p><graphic url="kikeriki_1875-06-17_3a.png">
-					<desc>Szene vor dem Opernhaus</desc>
-				</graphic></p>
+			<figure>
+				<graphic url="kikeriki_1875-06-17_3a.png"/>
+				<desc>Szene vor dem Opernhaus</desc>
+			</figure>
 			<p rend="noIndent">
 				<l>— Was gibt’s denn heute im <hi rend="bold">Opernhause?</hi></l>
-				<l>— <rs type="event" ref="#wien.1875">Ein <hi rend="bold"><title
+				<l>— <rs ref="#wien.1875" type="event">Ein <hi rend="bold"><title
 								ref="#verdi.requiem">Requiem</title>.</hi></rs></l>
 			</p>
-			<p><graphic url="kikeriki_1875-06-17_3b.png">
-					<desc>Szene vor der Michaeler-Kirche</desc>
-				</graphic></p>
+			<figure>
+				<graphic url="kikeriki_1875-06-17_3b.png"/>
+				<desc>Szene vor der Michaeler-Kirche</desc>
+			</figure>
 			<p rend="noIndent">
 				<l>— Was gibt’s denn heute in der Michaeler-Kirche?</l>
 				<l>— Es singen dort der <hi rend="bold"><persName ref="#walter.gustav"

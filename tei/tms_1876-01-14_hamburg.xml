@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1876-01-14" when-custom="fri"/>
-					<biblScope unit="issue">10</biblScope><biblScope unit="volume"
-						>26</biblScope><series>tms</series>
+					<date when-custom="fri" when-iso="1876-01-14"/>
+					<biblScope unit="issue">10</biblScope>
+					<biblScope unit="volume">26</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">4</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -34,8 +35,8 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><g type="MULTIPLICATION_X" n="2715">✕</g> (<hi rend="widespace">Musik- und
-					Theater-Nachrichten</hi>.) <rs type="event" ref="#hamburg.1876"><persName
+			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<hi rend="widespace">Musik- und
+					Theater-Nachrichten</hi>.) <rs ref="#hamburg.1876" type="event"><persName
 						ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title> ist auch in <placeName
 						ref="#hamburg">Hamburg</placeName> mit großem Erfolge aufgeführt

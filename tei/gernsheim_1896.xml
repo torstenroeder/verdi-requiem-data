@@ -17,7 +17,6 @@
 					<date when-iso="1896-00-00"/>
 					<biblScope unit="volume">55/56</biblScope>
 					<biblScope unit="page">3</biblScope>
-					<!--FACS Musikführer: kein Digitalisat; Kopie vorhanden-->
 					<!--*BIBLIO Serie: http://imslp.org/wiki/Der_Musikführer -->
 				</bibl>
 			</sourceDesc>
@@ -35,6 +34,7 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--FACS Musikführer: kein Digitalisat; Kopie vorhanden-->
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<p>Als sich im Jahre <date when-iso="1874">1874</date> in der musikalischen Welt die

@@ -14,13 +14,9 @@
 					<orgName ref="#mwb" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1875-12-31"/>
-					<biblScope unit="issue">1</biblScope><biblScope unit="volume">7</biblScope>
+					<biblScope unit="issue">1</biblScope>
+					<biblScope unit="volume">7</biblScope>
 					<biblScope unit="page">7–8</biblScope>
-					<link facs="mwb_1875-12-31_7.png"
-						target="anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18751231&amp;seite=7"/>
-					<link facs="mwb_1875-12-31_8.png"
-						target="anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18751231&amp;seite=8"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -37,6 +33,13 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1875-12-31_7.png"
+			url="anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18751231&amp;seite=7" xml:id="f1"/>
+		<graphic n="mwb_1875-12-31_8.png"
+			url="anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18751231&amp;seite=8" xml:id="f2"
+		/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<cb n="7b"/>
@@ -44,7 +47,7 @@
 			<head rend="lineale bold">Musikbrief.</head>
 			<p rend="right"><hi rend="lineale bold"><placeName ref="#muenchen"
 					>München</placeName></hi>, <date when-iso="1875-12">December 1875</date>.</p>
-			<p><rs type="event" ref="#muenchen.1875.1">Am <date when-iso="1875-12-07">7. d.
+			<p><rs ref="#muenchen.1875.1" type="event">Am <date when-iso="1875-12-07">7. d.
 						Mts.</date> ist die erstmalige Aufführung von <persName
 						ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Messa da Requiem</title> in <placeName
@@ -92,16 +95,16 @@
 				vorgefasste Meinung zu der <title ref="#verdi.requiem">Messa</title> gegangen —
 				hatte ich doch den letzten Rest einer solchen abstreifen müssen, als ich vor Kurzem
 				unter italienischem Himmel und unter den liebenswürdigsten Verhältnissen einer
-				erstmaligen, durch den Componisten einstudirten, <rs type="event" ref="#florenz.1875"
-					>von <persName ref="#sbolci.jefte">Sbolci</persName> geleiteten Aufführung</rs>
-				anwohnte. — Es ist ebenso unmöglich, die Vollkommenheit der dortigen Leistungen,
-				zumal des berühmten und in seiner Art unübertrefflichen Sängerquartetts, die
-				wirklich nur gehauchten <hi rend="italic">piano</hi>-Stellen der Chöre, die
-				fabelhafte Einheit und Discretion des begleitenden Orchesters zu schildern, als den
-				Fanatismus, mit welchem jenes musikalisch so warm und so fein empfindende Volk das
-				Alles im Grossen und bis in die kleinsten Einzelheiten aufnahm und bald lautlos
-				verfolgte, bald mit tumultuarischer Begeisterung unterbrach. — Zwischen jener
-				Aufnahme und der, die dem Werke hier in <placeName ref="#muenchen"
+				erstmaligen, durch den Componisten einstudirten, <rs ref="#florenz.1875"
+					type="event">von <persName ref="#sbolci.jefte">Sbolci</persName> geleiteten
+					Aufführung</rs> anwohnte. — Es ist ebenso unmöglich, die Vollkommenheit der
+				dortigen Leistungen, zumal des berühmten und in seiner Art unübertrefflichen
+				Sängerquartetts, die wirklich nur gehauchten <hi rend="italic">piano</hi>-Stellen
+				der Chöre, die fabelhafte Einheit und Discretion des begleitenden Orchesters zu
+				schildern, als den Fanatismus, mit welchem jenes musikalisch so warm und so fein
+				empfindende Volk das Alles im Grossen und bis in die kleinsten Einzelheiten aufnahm
+				und bald lautlos verfolgte, bald mit tumultuarischer Begeisterung unterbrach. —
+				Zwischen jener Aufnahme und der, die dem Werke hier in <placeName ref="#muenchen"
 					>München</placeName> geworden, wiederholt sich der ganze Contrast, welcher auch
 				zwischen einem leichtentzündlichen, sanguinischen italienischen Maestro und unserem
 				gediegenen, gewissenhaften <persName ref="#wuellner.franz">Wüllner</persName> liegt.
@@ -171,43 +174,43 @@
 				Composition aus sich selbst, aus eigenen Verdienste zu wirken im Stande ist.</p>
 			<p>Die Instrumentation ist durchgehends geschickt und wirkungsvoll, — oft mit geringen
 				Mitteln (wie die Maler sagen) ein überraschender Effect erzielt. So klingt schon der
-					<title ref="#verdi.requiem.1" n="requiem-aeternam">Anfang</title> wie eine einfache,
-				fast lautlose Klage dahingeschiedener Seelen, auf welche der Chor mit eintönigem <hi
-					rend="italic">pianissimo</hi> sein wiederholt abgesetztes, beruhigendes „<title
-					ref="#verdi.requiem.1" n="requiem-aeternam">requiem</title>“ antwortet. — Das
-					„<title ref="#verdi.requiem.1" n="kyrie">Kyrie</title>“ ist ein richtiger, würdiger
-				Eingang zu einer religiösen Feier. Von grossartiger, ergreifender Wirkung ist das
-					„<title ref="#verdi.requiem.2">dies irae</title>“ in all seinen Theilen. Es
-				beginnt mit unruhiger stürmischer Bewegung im Orchester, schrillen Geigenläufen,
-				während die Soprane das <supplied resp="tr">g’’</supplied><note resp="tr"
-					type="commentary">Im Original als Note über der 5. Linie
-				wiedergegeben.</note><!--*BILD eigentlich besser als inline-Grafik--> festhalten, —
-				dann stellt sich eine erscheckte, athemlose Stile ein, Tod und Natur bleiben
-				erstarrt, bis die <title ref="#verdi.requiem.2.tuba-mirum">Posaunen des jüngsten
-					Gerichtes</title>, zuerst leise, in der Ferne kaum hörbar wiederholt, allmählich
-				lauter, schneller zusammen ertönen, und der Chor wieder einfällt. Aus dem Tumult
-				löst sich die Mezzosopran-Stimme, das <title ref="#verdi.requiem.2.liber-scriptus"
-					>Erscheinen des Buches</title> verkündigend, in dem alle Thaten und Unthaten
-				verzeichnet sind. Es folgt ein hübsches kleines <title
-					ref="#verdi.requiem.2.quid-sum-miser">Terzett a capella</title> und dann ein
-					<title ref="#verdi.requiem.2.rex-tremendae">Quartett mit Chor und
-					Orchester</title>, aus welchem die flehentliche Bitte „<title
-					ref="#verdi.requiem.2.rex-tremendae" n="salva-me">salva me, fons pietatis</title>“
-				ergreifend herausklingt. — Die wohlklingende Cantilene der beiden Frauenstimmen
-					„<title ref="#verdi.requiem.2.recordare">recordare Jesu pie</title>“ ist nicht
-				ganz original; aber angenehm; und nachdem ein langes <title
-					ref="#verdi.requiem.2.ingemisco">Tenorsolo</title> und darauf das schon erwähnte
-				Basssolo „<title ref="#verdi.requiem.2.confutatis">Confutatis</title>“ folgte, dann
-				ein schönes <title ref="#verdi.requiem.2.lacrymosa">Solo-Quartett mit Chor</title>
-				und in den Worten des Chors „<title ref="#verdi.requiem.2.lacrymosa" n="dona-eis">dona
-					eis requiem</title>“ die Ruhe, der Friede hergestellt scheinen, bricht das
-				Entsetzen wieder herein mit dem abermals wiederholten Aufschrei „<title
-					ref="#verdi.requiem.2.confutatis" n="dies-irae">dies irae, dies illae</title>“ und
-				der einfachen und doch so lebendigen Violin-Figur. Das Alles ist das „<title
-					ref="#verdi.requiem.2">dies irae</title>“ — welchem nun eine bemerkenswerthe
-				Orchester-Einleitung und dann ein <title ref="#verdi.requiem.3">Soloquartett</title>
-				folgen, welches im Mittelsatz einige schöne Modulationen enthält. — Nachdem
-					<persName ref="#verdi.giuseppe">Verdi</persName> im „<title
+					<title n="requiem-aeternam" ref="#verdi.requiem.1">Anfang</title> wie eine
+				einfache, fast lautlose Klage dahingeschiedener Seelen, auf welche der Chor mit
+				eintönigem <hi rend="italic">pianissimo</hi> sein wiederholt abgesetztes,
+				beruhigendes „<title n="requiem-aeternam" ref="#verdi.requiem.1">requiem</title>“
+				antwortet. — Das „<title n="kyrie" ref="#verdi.requiem.1">Kyrie</title>“ ist ein
+				richtiger, würdiger Eingang zu einer religiösen Feier. Von grossartiger,
+				ergreifender Wirkung ist das „<title ref="#verdi.requiem.2">dies irae</title>“ in
+				all seinen Theilen. Es beginnt mit unruhiger stürmischer Bewegung im Orchester,
+				schrillen Geigenläufen, während die Soprane das <supplied resp="tr"
+					>g’’</supplied><note resp="tr" type="commentary">Im Original als Note über der
+					5. Linie wiedergegeben.</note><!--*BILD eigentlich besser als inline-Grafik-->
+				festhalten, — dann stellt sich eine erscheckte, athemlose Stile ein, Tod und Natur
+				bleiben erstarrt, bis die <title ref="#verdi.requiem.2.tuba-mirum">Posaunen des
+					jüngsten Gerichtes</title>, zuerst leise, in der Ferne kaum hörbar wiederholt,
+				allmählich lauter, schneller zusammen ertönen, und der Chor wieder einfällt. Aus dem
+				Tumult löst sich die Mezzosopran-Stimme, das <title
+					ref="#verdi.requiem.2.liber-scriptus">Erscheinen des Buches</title>
+				verkündigend, in dem alle Thaten und Unthaten verzeichnet sind. Es folgt ein
+				hübsches kleines <title ref="#verdi.requiem.2.quid-sum-miser">Terzett a
+					capella</title> und dann ein <title ref="#verdi.requiem.2.rex-tremendae"
+					>Quartett mit Chor und Orchester</title>, aus welchem die flehentliche Bitte
+					„<title n="salva-me" ref="#verdi.requiem.2.rex-tremendae">salva me, fons
+					pietatis</title>“ ergreifend herausklingt. — Die wohlklingende Cantilene der
+				beiden Frauenstimmen „<title ref="#verdi.requiem.2.recordare">recordare Jesu
+					pie</title>“ ist nicht ganz original; aber angenehm; und nachdem ein langes
+					<title ref="#verdi.requiem.2.ingemisco">Tenorsolo</title> und darauf das schon
+				erwähnte Basssolo „<title ref="#verdi.requiem.2.confutatis">Confutatis</title>“
+				folgte, dann ein schönes <title ref="#verdi.requiem.2.lacrymosa">Solo-Quartett mit
+					Chor</title> und in den Worten des Chors „<title n="dona-eis"
+					ref="#verdi.requiem.2.lacrymosa">dona eis requiem</title>“ die Ruhe, der Friede
+				hergestellt scheinen, bricht das Entsetzen wieder herein mit dem abermals
+				wiederholten Aufschrei „<title n="dies-irae" ref="#verdi.requiem.2.confutatis">dies
+					irae, dies illae</title>“ und der einfachen und doch so lebendigen Violin-Figur.
+				Das Alles ist das „<title ref="#verdi.requiem.2">dies irae</title>“ — welchem nun
+				eine bemerkenswerthe Orchester-Einleitung und dann ein <title ref="#verdi.requiem.3"
+					>Soloquartett</title> folgen, welches im Mittelsatz einige schöne Modulationen
+				enthält. — Nachdem <persName ref="#verdi.giuseppe">Verdi</persName> im „<title
 					ref="#verdi.requiem.4">Sanctus</title>“ bewiesen, dass er auch einer Fuge
 				capabel ist, und nur leider das Benedictus zu schnell daran erinnert, dass <persName
 					ref="#verdi.giuseppe">Verdi</persName>, der Operncomponist, das gekonnt,
@@ -229,24 +232,18 @@
 				wenn er auch freilich sich beeilt, wieder nach Hause zu kommen; — das ist ebenso
 				auch in den a capella gesungenen Stellen wohl bemerkbar.</p>
 			<p>Der <title ref="#verdi.requiem.7">Schluss</title> ist des Ganzen werth, — abermals
-				ist es die Wiederkehr des „<title ref="#verdi.requiem.7" n="dies-irae">dies
+				ist es die Wiederkehr des „<title n="dies-irae" ref="#verdi.requiem.7">dies
 					illae</title>“, welche den Zuhörer wie durch die Erinnerung an vergangene
 				Schreckenszeiten erschüttert, — ein mächtiger fugirter Chor löst sich befriedigend,
 				und wahrhaft schön gedacht ist dann das monotone Verharren auf einem Ton, mit
-				welchem der Solosopran zum Schluss ganz allein betet: „<title
-					ref="#verdi.requiem.7" n="requiem-aeternam">Requiem aeternam dona eis,
-					domine</title>“.</p>
+				welchem der Solosopran zum Schluss ganz allein betet: „<title n="requiem-aeternam"
+					ref="#verdi.requiem.7">Requiem aeternam dona eis, domine</title>“.</p>
 			<p>Damit wollen auch wir sie — für heute — ruhen lassen, die geplagten Seelen im
 				Fegefeuer der Kritik, Componisten, Capellmeister und tutti quanti; mögen ihnen auf
 				einem schönen Stern lauter ungetrübtes Lob und lauter schwerhörige Recensenten zu
 				Theil werden!</p>
-			<p rend="right">
-				<hi rend="bold">
-					<persName ref="#symbol.b" role="author">
-						<g type="MUSIC_FLAT_SIGN" n="266D">♭</g>
-					</persName>
-				</hi>
-			</p>
+			<p rend="right"><hi rend="bold"><persName ref="#symbol.b" role="author"><g n="266D"
+							type="MUSIC_FLAT_SIGN">♭</g></persName></hi></p>
 		</body>
 	</text>
 </TEI>

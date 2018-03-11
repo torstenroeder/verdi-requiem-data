@@ -1,14 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Mathilde Marchesi, Brief an Ferdinand Hiller, 12. Dezember 1875</title><author><persName ref="#marchesi.mathilde"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/marchesi_1875-12-12_brief-an-hiller.xml</p></publicationStmt><sourceDesc><bibl>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-12-12"/>
-			</bibl><bibl>
-				<title>Aus Ferdinand Hillers Briefwechsel (Band III), Köln: Arno Volk, 1964, S. 184.</title>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/><date when-iso="1875-12-12"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<p>Das <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName> haben Sie aufgeführt! Hat es gefallen? Es braucht vorzügliche
-			Sänger; wer hat bei Ihnen gesungen? <rs type="event" ref="#wien.1875a">Hier wurde es kürzlich an
-				der <placeName ref="#wien.hof-operntheater">Oper</placeName> von den deutschen Sängern
-				gegeben</rs>, war aber nicht mehr zu erkennen.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mathilde Marchesi, Brief an Ferdinand Hiller, 12. Dezember 1875</title>
+				<author><persName ref="#marchesi.mathilde"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/marchesi_1875-12-12_brief-an-hiller.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Aus Ferdinand Hillers Briefwechsel (Band III), Köln: Arno Volk, 1964, S.
+					184.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/><date when-iso="1875-12-12"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Privatschrift</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<p>Das <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
+					>Verdi</persName> haben Sie aufgeführt! Hat es gefallen? Es braucht vorzügliche
+				Sänger; wer hat bei Ihnen gesungen? <rs ref="#wien.1875a" type="event">Hier wurde es
+					kürzlich an der <placeName ref="#wien.hof-operntheater">Oper</placeName> von den
+					deutschen Sängern gegeben</rs>, war aber nicht mehr zu erkennen.</p>
+		</body>
+	</text>
 </TEI>

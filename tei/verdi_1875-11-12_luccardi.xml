@@ -1,17 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Giuseppe Verdi, Brief an Vincenzo Luccardi, Wien, 12. November 1875</title><author><persName ref="#verdi.giuseppe"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/verdi_1875-11-12_brief-an-luccardi.xml</p></publicationStmt><sourceDesc><bibl>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giuseppe Verdi, Brief an Vincenzo Luccardi, Wien, 12. November 1875</title>
+				<author><persName ref="#verdi.giuseppe"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/verdi_1875-11-12_brief-an-luccardi.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-11-12"/>
+				</bibl>
+				<bibl>
+					<title>Briefe</title>
+					<pubPlace>Kassel</pubPlace>
+					<publisher>Bärenreiter</publisher>
+					<date>1983</date>
+					<biblScope unit="page">255</biblScope>
+					<biblScope unit="document">286</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
 				<placeName ref="#wien"/>
 				<date when-iso="1875-11-12"/>
-			</bibl><bibl>
-				<title>Briefe. Kassel: Bärenreiter, 1983.</title>
-				<biblScope unit="page">255</biblScope>
-				<biblScope unit="document">286</biblScope>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/><date when-iso="1875-11-12"/></creation><textClass><keywords><term type="textType">Privatschrift</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<p>Caro <persName ref="#luccardi.vincenzo">Luccardi</persName>,</p>
-		<p>Da Du es willst, werde ich Dir sagen, daß der Erfolg der <title ref="#verdi.requiem">Messa</title> sehr gut gewesen ist. Aufführung, wie Du ihresgleichen nie wieder
-			hören wirst. Orchester und Chöre wunderbar! Wiederholt das <title ref="#verdi.requiem.2.recordare">Duett der Frauen</title>, das <title ref="#verdi.requiem.3">Offertorio</title> und das <title ref="#verdi.requiem.5">Agnus
-				Dei</title>
-			<gap resp="tr"/></p>
-	</body></text>
+			</creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Privatschrift</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<p>Caro <persName ref="#luccardi.vincenzo">Luccardi</persName>,</p>
+			<p>Da Du es willst, werde ich Dir sagen, daß der Erfolg der <title ref="#verdi.requiem"
+					>Messa</title> sehr gut gewesen ist. Aufführung, wie Du ihresgleichen nie wieder
+				hören wirst. Orchester und Chöre wunderbar! Wiederholt das <title
+					ref="#verdi.requiem.2.recordare">Duett der Frauen</title>, das <title
+					ref="#verdi.requiem.3">Offertorio</title> und das <title ref="#verdi.requiem.5"
+					>Agnus Dei</title>
+				<gap resp="tr"/></p>
+		</body>
+	</text>
 </TEI>

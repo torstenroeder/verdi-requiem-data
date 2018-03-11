@@ -13,14 +13,10 @@
 					<orgName ref="#nzfm" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1876-03-17"/>
-					<biblScope unit="issue">12</biblScope><biblScope unit="volume"
-						>72</biblScope><series>nzfm</series>
+					<biblScope unit="issue">12</biblScope>
+					<biblScope unit="volume">72</biblScope>
+					<series>nzfm</series>
 					<biblScope unit="page">122 [6]–123 [7]</biblScope>
-					<link facs="nzfm_1876-03-17_122.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760317&amp;seite=6"/>
-					<link facs="nzfm_1876-03-17_123.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760317&amp;seite=7"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -37,12 +33,18 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="nzfm_1876-03-17_122.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760317&amp;seite=6"/>
+		<graphic n="nzfm_1876-03-17_123.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760317&amp;seite=7"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="120b" type="initial"/>
 			<head rend="larger">Correspondenzen.</head>
 			<cb break="null" n="122b" type="skipped"/>
-			<p rend="right"><placeName ref="#prag">Prag</placeName>.</p>
+			<p rend="right"><hi rend="bold"><placeName ref="#prag">Prag</placeName></hi>.</p>
 			<p>Unsere Theaterleitung ist endlich in der letzten Zeit ihres Regimes dahin gelangt,
 				mit Vater <persName ref="#homer">Homeros</persName> (Odyssee I. 350<note resp="tr"
 					type="literatureLink">Vgl. <persName ref="#homer">Homer</persName>, Odyssee I,
@@ -64,14 +66,14 @@
 					<persName ref="#verdi.giuseppe">V.</persName> den sicher leitenden Instinct, was
 				sich deutlich darin zeigt, daß überall das rechte Maß verfehlt ist. Bald dramatische
 				Leidenschaftlichkeit (<title ref="#verdi.requiem.2">dies irae</title>) und nachgrade
-				theatralisches Pathos (<title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors
-					stupebit</title>), bald eine peinliche Herbheit und Simplicität im Ausdruck
-				(Octavenparallelen im <title ref="#verdi.requiem.5">Agnus</title>) „Diabolus in
-					musica“<note resp="tr" type="glossaryLink">»Diabolus in musica« bezeichnet
-					üblicherweise das Tritonus-Intervall (»mi contra fa / diabolus in musica«); hier
-					ist es jedoch eine Anspielung auf die Parallelführung der Akkorde in
-					Quintlage.</note> im <title ref="#verdi.requiem.2.confutatis"
-				>Confutatis</title>, die auf das Requiem von <persName ref="#prioris.johannes"
+				theatralisches Pathos (<title n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum"
+					>Mors stupebit</title>), bald eine peinliche Herbheit und Simplicität im
+				Ausdruck (Octavenparallelen im <title ref="#verdi.requiem.5">Agnus</title>)
+				„Diabolus in musica“<note resp="tr" type="glossaryLink">»Diabolus in musica«
+					bezeichnet üblicherweise das Tritonus-Intervall (»mi contra fa / diabolus in
+					musica«); hier ist es jedoch eine Anspielung auf die Parallelführung der Akkorde
+					in Quintlage.</note> im <title ref="#verdi.requiem.2.confutatis"
+					>Confutatis</title>, die auf das Requiem von <persName ref="#prioris.johannes"
 					>Prioris</persName> und <persName ref="#rue.pierre-de-la">Pierre de la
 					Rue</persName> zurückverweist. Ob künftige Zeiten gewisse in <persName
 					ref="#verdi.giuseppe">Verdis</persName>
@@ -84,12 +86,12 @@
 				nicht die polyphonischen Versuche (allerdings bezeichnet schon <persName
 					ref="#petrucci.ottaviano">Ott. Petrucci</persName> die Polyphonie als
 				unentbehrlich, Gott zu preisen<note resp="tr" type="literatureLink">Vgl. <persName
-						ref="#petrucci.ottaviano">Ottaviano Petrucci</persName>, <ref type="text"
+						ref="#petrucci.ottaviano">Ottaviano Petrucci</persName>, <ref
 						target="https://archive.org/stream/imslp-musices-odhecaton-petrucci-ottaviano/PMLP75514-OPetrucci_Harmonice_Musices_Odhecaton_LC_sgmt1#page/n1/mode/1up"
-						>Harmonice Musices Odhecaton, Fol. 1v, Zeile 9</ref>: »musicam vero illam
-					numerosam sive discantum malis sine qua non deum optimum maximum propiciamus:
-					non nuptiarum solennia celebramus: non convivia: non quicquid in vita jucundum
-					transmittimus«.</note>) noch die 2 Fugen, von denen die zum <title
+						type="text">Harmonice Musices Odhecaton, Fol. 1v, Zeile 9</ref>: »musicam
+					vero illam numerosam sive discantum malis sine qua non deum optimum maximum
+					propiciamus: non nuptiarum solennia celebramus: non convivia: non quicquid in
+					vita jucundum transmittimus«.</note>) noch die 2 Fugen, von denen die zum <title
 					ref="#verdi.requiem.4">Sanctus</title> übrigens eine schwache grammatische
 				Toncombination ist, geeignet, <persName ref="#leibniz.gottfried-wilhelm"
 					>Leibnitz’s</persName> einseitige Ansicht vom Wesen der Musik<note resp="tr"
@@ -97,15 +99,15 @@
 					exercitium arithmeticae occultum nescientis se numerare animi« – »Musik ist eine
 					verborgene Rechenkunst des seines Zählens unbewussten Geistes«, Brief von
 					Gottfried Wilhelm Leibniz an Christian Goldbach vom 27. April 1712.</note> zu
-				bestätigen. Der Vocal- und Instrumentalkörper war zu den <rs type="event"
-					ref="#prag.1876">Aufführungen des <title ref="#verdi.requiem"
-					>Requiem</title></rs> ansehnlich verstärkt, die Soli (<persName
-					ref="#hajos.siegmund">Hajos</persName>, <persName ref="#schebesta.adalbert"
-					>Schebesta</persName>, <persName ref="#moser.marie">Moser</persName>, <persName
-					ref="#burenne.henriette">Burenne</persName>) bis auf die Baßpartie, welche
-				seltsamer Weise dem Bariton zugetheilt wurde, sehr gut vertreten. Das Ensemble ging
-				unter Kplm. <persName ref="#slansky.ludwig">Slanskys</persName> Leitung recht präcis
-				und ausdrucksvoll.</p>
+				bestätigen. Der Vocal- und Instrumentalkörper war zu den <rs ref="#prag.1876"
+					type="event">Aufführungen des <title ref="#verdi.requiem">Requiem</title></rs>
+				ansehnlich verstärkt, die Soli (<persName ref="#hajos.siegmund">Hajos</persName>,
+					<persName ref="#schebesta.adalbert">Schebesta</persName>, <persName
+					ref="#moser.marie">Moser</persName>, <persName ref="#burenne.henriette"
+					>Burenne</persName>) bis auf die Baßpartie, welche seltsamer Weise dem Bariton
+				zugetheilt wurde, sehr gut vertreten. Das Ensemble ging unter Kplm. <persName
+					ref="#slansky.ludwig">Slanskys</persName> Leitung recht präcis und
+				ausdrucksvoll.</p>
 		</body>
 	</text>
 </TEI>

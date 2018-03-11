@@ -1,29 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Figaro, Wien, 26. Juni 1875 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/figaro_1875-06-26_wiener-spaziergaenge.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#figaro" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-26"/>
-				<biblScope unit="issue">29</biblScope><biblScope unit="volume">19</biblScope><series>figaro</series>
-				<biblScope unit="page">114</biblScope>
-				<link facs="figaro_1875-06-26_114.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=fig&amp;datum=18750626&amp;seite=2"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Satire</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger widespace">Wiener Spaziergänge.</head>
-		<gap resp="tr"/>
-		<p rend="noIndent">
-			<l>Die Herz Jesu-Woche hätten wir gefahrlos überstanden,</l>
-			<l>Hier war wenig zu bemerken, daß Begeisterte sich fanden,</l>
-			<l>Bei dem <rs type="event" ref="#wien.1875"><title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName></rs> gab es viel mehr Entzückungstolle,</l>
-			<l>Einer Kirche fast vergleichbar war das Opernhaus, das volle,</l>
-			<l>Aber soll die <title ref="#verdi.requiem">Verdi-Messe</title> auch der Kirche Gunst
-				erstreben,</l>
-			<l>Muß man die einmal zum Vortheil für den Peterspfennig geben.</l>
-			<l>Uebrigens entspricht’s der Lage, wenn zu Gunsten ihrer Kassen</l>
-			<l>Die weltlustigen Theater sich mit Requiems befassen,</l>
-			<l>Ist ihr Dasein doch ein schwankes, über’m Abgrund schweberisches,</l>
-			<l>Auch die Wiederkehr des Laube hat was Todtengräberisches,</l>
-			<l>Wenn ein Glückswind die Theater nicht errettet aus der Scylla,</l>
-			<l>Werden sie bald alle singen: Dies irae, dies illa!</l>
-		</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Figaro, Wien, 26. Juni 1875 [1]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/figaro_1875-06-26_wiener-spaziergaenge.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#figaro" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-26"/>
+					<biblScope unit="issue">29</biblScope>
+					<biblScope unit="volume">19</biblScope>
+					<series>figaro</series>
+					<biblScope unit="page">114</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Satire</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="figaro_1875-06-26_114.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=fig&amp;datum=18750626&amp;seite=2"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger widespace">Wiener Spaziergänge.</head>
+			<gap resp="tr"/>
+			<p rend="noIndent">
+				<l>Die Herz Jesu-Woche hätten wir gefahrlos überstanden,</l>
+				<l>Hier war wenig zu bemerken, daß Begeisterte sich fanden,</l>
+				<l>Bei dem <rs ref="#wien.1875" type="event"><title ref="#verdi.requiem"
+							>Requiem</title> von <persName ref="#verdi.giuseppe"
+						>Verdi</persName></rs> gab es viel mehr Entzückungstolle,</l>
+				<l>Einer Kirche fast vergleichbar war das Opernhaus, das volle,</l>
+				<l>Aber soll die <title ref="#verdi.requiem">Verdi-Messe</title> auch der Kirche
+					Gunst erstreben,</l>
+				<l>Muß man die einmal zum Vortheil für den Peterspfennig geben.</l>
+				<l>Uebrigens entspricht’s der Lage, wenn zu Gunsten ihrer Kassen</l>
+				<l>Die weltlustigen Theater sich mit Requiems befassen,</l>
+				<l>Ist ihr Dasein doch ein schwankes, über’m Abgrund schweberisches,</l>
+				<l>Auch die Wiederkehr des Laube hat was Todtengräberisches,</l>
+				<l>Wenn ein Glückswind die Theater nicht errettet aus der Scylla,</l>
+				<l>Werden sie bald alle singen: Dies irae, dies illa!</l>
+			</p>
+		</body>
+	</text>
 </TEI>

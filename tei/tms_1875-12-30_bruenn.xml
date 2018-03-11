@@ -1,12 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Tagesbote aus Mähren und Schlesien, Brünn, 30. Dezember 1875</title><author><persName ref="#akronym.cw"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tms_1875-12-30_vorbesprechung.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-				<placeName ref="#bruenn"/>
-				<date when-iso="1875-12-30" when-custom="thu"/>
-				<biblScope unit="issue">298</biblScope><biblScope unit="volume">25</biblScope><series>tms</series>
-				<biblScope unit="page">[2]</biblScope>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#bruenn"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tagesbote aus Mähren und Schlesien, Brünn, 30. Dezember 1875</title>
+				<author><persName ref="#akronym.cw"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tms_1875-12-30_vorbesprechung.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName ref="#bruenn"/>
+					<date when-custom="thu" when-iso="1875-12-30"/>
+					<biblScope unit="issue">298</biblScope>
+					<biblScope unit="volume">25</biblScope>
+					<series>tms</series>
+					<biblScope unit="page">[2]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruenn"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
 			<pb n="2"/>
 			<head rend="larger">Das <title ref="#verdi.requiem">Requiem</title> von <persName
 					ref="#verdi.giuseppe">Verdi</persName>.</head>
@@ -17,7 +46,7 @@
 				<date when-iso="1874-05-22">22. Mai 1874</date>, <title ref="#verdi.requiem"
 					>Requiem</title>, komponirt von <persName ref="#verdi.giuseppe">Verdi</persName>
 				für vier Solostimmen und Chor,“ — so lautet die Ueberschrift in der Partitur dieses
-				Werkes, welches <rs type="event" ref="#bruenn.1876.1">dem Publikum <placeName
+				Werkes, welches <rs ref="#bruenn.1876.1" type="event">dem Publikum <placeName
 						ref="#bruenn">Brünns</placeName> am <date when-iso="1876-01-02">zweiten
 						Jänner 1876</date> zum erstenmale vorgeführt</rs> werden soll.</p>
 			<p><persName ref="#manzoni.alessandro">Alessandro Graf Manzoni</persName>, einer der
@@ -42,7 +71,7 @@
 				jenem, welchen er mit seiner Oper <title ref="#verdi.aida">Aida</title> errungen.
 				Und als wollte er den strengen Theoretikern ein Schnippchen schlagen, brachte er
 				gleich im ersten Satze <title ref="#verdi.requiem.1">Requiem und Kyrie</title> — <hi
-					rend="antiqua">„<title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet
+					rend="antiqua">„<title n="te-decet-hymnus" ref="#verdi.requiem.1">Te decet
 						hymnus</title>“</hi> einen fugirten Satz, im <title ref="#verdi.requiem.4"
 					>Sanctus</title> aber sogar eine achtstimmige Doppelfuge. Daß <persName
 					ref="#verdi.giuseppe">Verdi</persName> seine Studien an den Werken der
@@ -62,14 +91,15 @@
 				in seinem <title ref="#verdi.requiem">Requiem</title> nicht. Der bekannte Ausspruch
 				des römischen Dichters <hi rend="antiqua">„Naturam expellas furca, tamen usque
 					recurret,“</hi><note resp="tr" type="literatureLink">Vgl. <persName ref="#horaz"
-						>Horaz</persName>, Epistularum, Liber Primus, X, 24; z. B. <ref type="text"
+						>Horaz</persName>, Epistularum, Liber Primus, X, 24; z. B. <ref
 						target="https://archive.org/stream/operahor02horauoft#page/236/mode/1up"
-						>Keller/Holder (Leipzig 1864), S. 236</ref>. – »Auch wenn du die Natur
-					gewaltsam austreibst, kehrt sie doch zurück.«</note> welchen wir in Beziehung
-				auf <persName ref="#verdi.giuseppe">Verdi</persName> mit: „Der Italiener kann seine
-				Natur nicht verläugnen,“ frei übersetzen möchten, wurde zur Wahrheit und alle
-				Behauptungen, welche in manchen Urtheilen geschaffen, sind darum nicht richtig, weil
-				sie unmittelbar nach dem bloßen Hören ohne tieferen Eingehen geschöpft wurden.</p>
+						type="text">Keller/Holder (Leipzig 1864), S. 236</ref>. – »Auch wenn du die
+					Natur gewaltsam austreibst, kehrt sie doch zurück.«</note> welchen wir in
+				Beziehung auf <persName ref="#verdi.giuseppe">Verdi</persName> mit: „Der Italiener
+				kann seine Natur nicht verläugnen,“ frei übersetzen möchten, wurde zur Wahrheit und
+				alle Behauptungen, welche in manchen Urtheilen geschaffen, sind darum nicht richtig,
+				weil sie unmittelbar nach dem bloßen Hören ohne tieferen Eingehen geschöpft
+				wurden.</p>
 			<p>Der nationale Charakter tritt in der Melodienführung, in dem intensiven Ausdruck,
 				welcher in den vokalen Theil gelegt ist, in der vollen Harmonie des Orchesters
 				hervor. Das ist keine Todtenmesse, wie sie von unsern deutschen Meistern geschaffen
@@ -82,12 +112,12 @@
 				Grundregeln Mephistos „Da wird der Geist wohl dessirt, in spanische Stiefel
 					eingeschnürt“<note resp="tr" type="literatureLink">Vgl. <persName
 						ref="#goethe.johann-wolfgang-von">Goethe</persName>, Faust I, Studierzimmer;
-					z.B. nach: <ref type="text"
+					z.B. nach: <ref
 						target="https://archive.org/stream/faust04unkngoog#page/n78/mode/1up"
-						>Stuttgart 1863, S. 70</ref>.</note> — lehren wollen, werden über manche
-				Freiheiten, die sich <persName ref="#verdi.giuseppe">Verdi</persName> erlaubt,
-				stolpern, aber der Maestro kümmert sich wenig um Schulweisheit, wo er sein Genie
-				sprechen läßt.</p>
+						type="text">Stuttgart 1863, S. 70</ref>.</note> — lehren wollen, werden über
+				manche Freiheiten, die sich <persName ref="#verdi.giuseppe">Verdi</persName>
+				erlaubt, stolpern, aber der Maestro kümmert sich wenig um Schulweisheit, wo er sein
+				Genie sprechen läßt.</p>
 			<p>Man hat die „<title ref="#verdi.requiem">Todtenmesse</title>“ meist nur in
 				Konzertsälen zur Aufführung gebracht, wer aber glauben wollte, sie passe nicht auch
 				in die Kirche, der täuscht sich gewaltig. Das Werk duftet gerade nicht nach
@@ -114,14 +144,14 @@
 					ref="#verdi.requiem.4">Sanctus</title> ist gleich Anfangs die Blechharmonie
 				dominirent, aber dies dürfte nach unserem Empfinden die schwächste Partie des Werkes
 				sein. Gott den Herrn so stark in „Trompeten“ zu loben, ist gar zu — militärisch.</p>
-			<p>Nach dem „<hi rend="antiqua"><title ref="#verdi.requiem.7" n="requiem-aeternam">Requiem
-						aeternam dona eis Domine</title></hi>“, mit welchem die Todtenmessen
-				schließen, läßt <persName ref="#verdi.giuseppe">Verdi</persName> nach „langer Pause“
-				noch einen Satz „<hi rend="antiqua"><title ref="#verdi.requiem.7" n="libera-me.fuga"
-						>Libera me Domine, de morte aeterna</title></hi>,“ Befreie mich Herr vom
-				ewigen Tode, folgen, welcher nach einem kurzen Rezitative in ein <hi rend="antiqua"
-					>Allegro risoluto</hi> übergeht, welches theilweise fugirt gehalten, das ganze
-				Werk in würdiger und erhebender Weise zum Abschlusse bringt.</p>
+			<p>Nach dem „<hi rend="antiqua"><title n="requiem-aeternam" ref="#verdi.requiem.7"
+						>Requiem aeternam dona eis Domine</title></hi>“, mit welchem die
+				Todtenmessen schließen, läßt <persName ref="#verdi.giuseppe">Verdi</persName> nach
+				„langer Pause“ noch einen Satz „<hi rend="antiqua"><title n="libera-me.fuga"
+						ref="#verdi.requiem.7">Libera me Domine, de morte aeterna</title></hi>,“
+				Befreie mich Herr vom ewigen Tode, folgen, welcher nach einem kurzen Rezitative in
+				ein <hi rend="antiqua">Allegro risoluto</hi> übergeht, welches theilweise fugirt
+				gehalten, das ganze Werk in würdiger und erhebender Weise zum Abschlusse bringt.</p>
 			<p>Wir haben in Kürze die Aufmerksamkeit unseres kunstfreundlichen Publikums auf ein
 				Werk gelenkt, welches mit Recht zu den bedeutendsten musikalischen Schöpfungen der
 				Neuzeit gehört und überall, wo es gehört wurde, die glänzendste Aufnahme gefunden
@@ -138,5 +168,6 @@
 					rend="widespace"><persName ref="#krejci.friedrich">Krejczy</persName></hi>,
 				vorgeführt wird, bildet den Höhepunkt unserer diesjährigen musikalischen Saison und
 				wir können mit Sicherheit einem hohen Genuße entgegensehen.</p>
-		</body></text>
+		</body>
+	</text>
 </TEI>

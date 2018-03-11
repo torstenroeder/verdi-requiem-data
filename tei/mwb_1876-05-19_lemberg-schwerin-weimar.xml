@@ -13,11 +13,9 @@
 					<orgName ref="#mwb" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1876-05-19"/>
-					<biblScope unit="issue">21</biblScope><biblScope unit="volume">7</biblScope>
+					<biblScope unit="issue">21</biblScope>
+					<biblScope unit="volume">7</biblScope>
 					<biblScope unit="page">275</biblScope>
-					<link facs="mwb_1876-05-19_275.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=7"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,19 +33,24 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-05-19_275.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=7"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<pb n="275"/>
+			<pb facs="#f1" n="275"/>
 			<head rend="lineale bold">Concertumschau.</head>
 			<gap resp="tr"/>
-			<p><rs type="event" ref="#lemberg.1876"><hi rend="bold"><placeName ref="#lemberg"
+			<p><rs ref="#lemberg.1876" type="event"><hi rend="bold"><placeName ref="#lemberg"
 							>Lemberg</placeName>.</hi> Am <date when-iso="1876-04-09">9.</date> u.
 						<date when-iso="1876-04-10">10. April</date> von Hrn. Musikdir. <persName
 						ref="#mikuli.karol">Mikuli</persName> geleitete, gelungene Aufführungen des
 						<title ref="#verdi.requiem">Requiems</title> von <hi rend="widespace"
 							><persName ref="#verdi.giuseppe">Verdi</persName></hi>.</rs></p>
 			<cb n="275b" type="skipped"/>
-			<p><rs type="event" ref="#schwerin.1876.1"><hi rend="bold"><placeName ref="#schwerin"
+			<p><rs ref="#schwerin.1876.1" type="event"><hi rend="bold"><placeName ref="#schwerin"
 							>Schwerin</placeName>.</hi>
 					<gap resp="tr"/> Conc. im <placeName ref="#schwerin.hoftheater"
 						>Hoftheater</placeName> am <date when-iso="1876-04-16">16. April</date>:
@@ -60,7 +63,7 @@
 						>Candidus</persName> a. <placeName ref="#hamburg">Hamburg</placeName> u. Hr.
 						<persName ref="#hill.karl">Hill</persName>).</rs></p>
 			<gap resp="tr"/>
-			<p><rs type="event" ref="#weimar.1876.1"><hi rend="bold"><placeName ref="#weimar"
+			<p><rs ref="#weimar.1876.1" type="event"><hi rend="bold"><placeName ref="#weimar"
 							>Weimar</placeName>.</hi> Am <date when-iso="1876-04-26">26.
 						April</date>: Aufführung von <persName ref="#verdi.giuseppe"
 						>Verdi’s</persName>

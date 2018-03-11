@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#dresdner-nachrichten" role="publisher"/>
 					<placeName ref="#dresden"/>
-					<date when-iso="1876-01-07" when-custom="fri"/>
-					<biblScope unit="issue">7</biblScope><biblScope unit="volume"
-						>21</biblScope><series>dn</series>
+					<date when-custom="fri" when-iso="1876-01-07"/>
+					<biblScope unit="issue">7</biblScope>
+					<biblScope unit="volume">21</biblScope>
+					<series>dn</series>
 					<biblScope unit="page">2</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -36,13 +37,13 @@
 		<body rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
 			<gap resp="tr"/>
-			<p><g type="DAGGER" n="2020">†</g>
-				<rs type="event" ref="#dresden.1876"><hi rend="widespace"><persName
+			<p><g n="2020" type="DAGGER">†</g>
+				<rs ref="#dresden.1876" type="event"><hi rend="widespace"><persName
 							ref="#verdi.giuseppe">Verdi’s</persName></hi>
 					<title ref="#verdi.requiem">Requiem</title> wird, da die Betheiligung des
 					Publikums erfreulicherweise sehr rege ist, außer <date when-iso="1876-01-08"
 						>Sonnabend</date>, wahrscheinlich noch zwei Mal aufgeführt werden.</rs>
-				Bestimmt ist hierüber aber noch Nichts. <rs type="event" ref="#wien.1875">In
+				Bestimmt ist hierüber aber noch Nichts. <rs ref="#wien.1875" type="event">In
 						<placeName ref="#wien">Wien</placeName> hat man bei ganz ungeschwächter
 					Theilnahme das Werk 12 Mal repetirt.</rs></p>
 		</body>

@@ -13,9 +13,10 @@
 				<bibl>
 					<orgName ref="#dresdner-nachrichten" role="publisher"/>
 					<placeName ref="#dresden"/>
-					<date when-iso="1876-01-10" when-custom="mon"/>
-					<biblScope unit="issue">10</biblScope><biblScope unit="volume"
-						>21</biblScope><series>dn</series>
+					<date when-custom="mon" when-iso="1876-01-10"/>
+					<biblScope unit="issue">10</biblScope>
+					<biblScope unit="volume">21</biblScope>
+					<series>dn</series>
 					<biblScope unit="page">1</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -36,8 +37,8 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
-			<p><g type="PLUS_SIGN" n="002B">+</g>
-				<rs type="event" ref="#dresden.1876.1"><hi rend="widespace"><placeName
+			<p><g n="002B" type="PLUS_SIGN">+</g>
+				<rs ref="#dresden.1876.1" type="event"><hi rend="widespace"><placeName
 							ref="#dresden.hoftheater">K. Hoftheater</placeName>, Altstadt.</hi> Das
 					am <date when-iso="1876-01-07">7. Januar</date> zum ersten Male aufgeführte <hi
 						rend="widespace"><title ref="#verdi.requiem">„Requiem“</title></hi> von
@@ -47,8 +48,8 @@
 				applaudiren, so rissen doch im Verlauf des Abends das <hi rend="antiqua"><title
 						ref="#verdi.requiem.2.rex-tremendae">„rex tremendae“</title></hi>, das <hi
 					rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">„lacrymosa“</title></hi>
-				und das <hi rend="antiqua"><title ref="#verdi.requiem.3" n="hostias"
-					>„hostias“</title></hi> zu lauten Beifallsstürmen hin. Die Schönheiten des
+				und das <hi rend="antiqua"><title n="hostias" ref="#verdi.requiem.3"
+						>„hostias“</title></hi> zu lauten Beifallsstürmen hin. Die Schönheiten des
 				Werkes sind mithin auch in <placeName ref="#dresden">Dresden</placeName> vollkommen
 				anerkannt worden und die wenigen bevorstehenden Wiederholungen werden nicht nur neue
 				Zuhörer anziehen, sondern Manche, die ehegestern dieser bestrickend schönen
@@ -58,7 +59,7 @@
 				>Requiem</title>. Unleugbar sind manche Stücke, und namentlich die dramatischen
 				Momente, äußerlich erfaßt und nicht von der architektonischen Macht, welche deutsche
 				Kirchenmusik auszeichnet. Der Anfang (überhaupt merkwürdig flach prosodirt) bis zum
-					<title ref="#verdi.requiem.1" n="kyrie">Kyrie</title>; dann <title
+					<title n="kyrie" ref="#verdi.requiem.1">Kyrie</title>; dann <title
 					ref="#verdi.requiem.2.dies-irae">„Tag des Schreckens“</title> und <title
 					ref="#verdi.requiem.2.tuba-mirum">„die Posaune himmlisch tönend“</title> lassen
 				sich mit besseren deutschen Messen nicht vergleichen. Trotz der Dutzend Trompeten
@@ -96,12 +97,12 @@
 				nennen) ganz die Rührung der Textworte abspiegeln. In diesem Stück und überall
 				vorher, wo es statthaft war, kommt <persName ref="#verdi.giuseppe">Verdi</persName>
 				auf ein Hauptmotiv des <title ref="#verdi.requiem">Requiem</title>, das zuerst im
-					<title ref="#verdi.requiem.1" n="kyrie">Kyrie</title> auftritt, zurück; es ist dies
-				die frei einsetzende kleine None nebst Septime, der sanft klagendste Accord, den die
-				Tonkunst kennt. Harmonisch fein sind auch die Schlußaccorde <hi rend="antiqua"
-						><title ref="#verdi.requiem.2.lacrymosa">„dona eis requiem.
-					Amen“</title></hi> componirt. Im zweiten Theil der Messe ragt das <hi
-					rend="antiqua"><title ref="#verdi.requiem.3" n="domine-jesu">„domine Jesu
+					<title n="kyrie" ref="#verdi.requiem.1">Kyrie</title> auftritt, zurück; es ist
+				dies die frei einsetzende kleine None nebst Septime, der sanft klagendste Accord,
+				den die Tonkunst kennt. Harmonisch fein sind auch die Schlußaccorde <hi
+					rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">„dona eis requiem.
+						Amen“</title></hi> componirt. Im zweiten Theil der Messe ragt das <hi
+					rend="antiqua"><title n="domine-jesu" ref="#verdi.requiem.3">„domine Jesu
 						Christe“</title></hi> hervor, ein Quartett-Satz mit freier Stimmführung, der
 				mit Recht durch stürmischen Beifall seiten des Publikums ausgezeichnet wird. Das <hi
 					rend="antiqua"><title ref="#verdi.requiem.5">„Agnus Dei“</title></hi> hat Frau
@@ -113,7 +114,7 @@
 					>„Confutatis“</title></hi> ein prächtiges Terrain, auf welchen sich der Sänger
 				durch Wohllaut und Mäßigung auszeichnete. Im Schlußsatz <hi rend="antiqua"><title
 						ref="#verdi.requiem.7">„libera me“</title></hi> sind die Worte <hi
-					rend="antiqua"><title ref="#verdi.requiem.7" n="requiem-aeternam">„lux
+					rend="antiqua"><title n="requiem-aeternam" ref="#verdi.requiem.7">„lux
 						perpetua“</title></hi> nach Art der griechischen Ritualien vom gesammten
 				Chor mehr leise gesprochen als gesungen, noch bemerkenswerth. Diesen Schußchor wie
 				die anderen Chöre hat Referent auch bei der <placeName ref="#wien"

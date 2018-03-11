@@ -1,26 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 14. Januar 1876 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-01-14_muenchen.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#nzfm" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-01-14"/>
-				<biblScope unit="issue">3</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
-				<biblScope unit="page">25 [5]</biblScope>
-				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760114&amp;seite=5"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#muenchen"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<pb break="null" n="24" type="initial"/>
-		<head rend="larger">Correspondenzen.</head>
-		<pb break="null" n="25" type="skipped"/>
-		<p rend="right"><hi rend="bold"><placeName ref="#muenchen">München</placeName>.</hi></p>
-		<cb break="null" n="25b" type="skipped"/>
-		<p><rs type="event" ref="#muenchen.1875.1">Nach Abgang m. letzten Ber. gab die „Musikakademie“ noch
-				zwei Concerte, in ersterem das <hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi></rs>, in letzterem <persName ref="#beethoven.ludwig-van">Beethoven’s</persName>
-			<title ref="#beethoven.symphonie-7">siebente Symph</title>. In diesem hörte das Publikum
-			auch Ihre Primadonna Frau <hi rend="widespace"><persName ref="#peschka-leutner.minna">Peschka-Leutner</persName></hi>. Ich selbst war leider verhindert, das Concert zu
-			besuchen. Einen Bericht über <persName ref="#verdi.giuseppe">Verdi’s</persName>
-			<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> will ich verschieben*),
-			bis das Werk zum zweiten Male gegeben worden ist.</p>
-		<p rend="smaller">*) Sehr zu billigen, denn es sind so viele Beurtheilungen dieser <persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>’schen</persName> Musik in Sicht,
-			daß, da wir unseren Lesern unmöglich mehr wie 2- bis 3mal <hi rend="widespace">Dasselbe</hi> bieten können, wir nur wenige derselben aufnehmen können. — D. R.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>NZfM, Leipzig, 14. Januar 1876 [1]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nzfm_1876-01-14_muenchen.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nzfm" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-01-14"/>
+					<biblScope unit="issue">3</biblScope>
+					<biblScope unit="volume">72</biblScope>
+					<series>nzfm</series>
+					<biblScope unit="page">25 [5]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#muenchen"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760114&amp;seite=5"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="24" type="initial"/>
+			<head rend="larger">Correspondenzen.</head>
+			<pb break="null" n="25" type="skipped"/>
+			<p rend="right"><hi rend="bold"><placeName ref="#muenchen">München</placeName>.</hi></p>
+			<cb break="null" n="25b" type="skipped"/>
+			<p><rs ref="#muenchen.1875.1" type="event">Nach Abgang m. letzten Ber. gab die
+					„Musikakademie“ noch zwei Concerte, in ersterem das <hi rend="antiqua"><title
+							ref="#verdi.requiem">Requiem</title></hi> von <hi rend="widespace"
+							><persName ref="#verdi.giuseppe">Verdi</persName></hi></rs>, in
+				letzterem <persName ref="#beethoven.ludwig-van">Beethoven’s</persName>
+				<title ref="#beethoven.symphonie-7">siebente Symph</title>. In diesem hörte das
+				Publikum auch Ihre Primadonna Frau <hi rend="widespace"><persName
+						ref="#peschka-leutner.minna">Peschka-Leutner</persName></hi>. Ich selbst war
+				leider verhindert, das Concert zu besuchen. Einen Bericht über <persName
+					ref="#verdi.giuseppe">Verdi’s</persName>
+				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> will ich
+				verschieben*), bis das Werk zum zweiten Male gegeben worden ist.</p>
+			<p rend="smaller">*) Sehr zu billigen, denn es sind so viele Beurtheilungen dieser
+					<persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>’schen</persName>
+				Musik in Sicht, daß, da wir unseren Lesern unmöglich mehr wie 2- bis 3mal <hi
+					rend="widespace">Dasselbe</hi> bieten können, wir nur wenige derselben aufnehmen
+				können. — D. R.</p>
+		</body>
+	</text>
 </TEI>

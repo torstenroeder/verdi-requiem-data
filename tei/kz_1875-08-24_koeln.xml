@@ -14,14 +14,13 @@
 					<orgName ref="#koelnische-zeitung" role="publisher"/>
 					<placeName ref="#koeln"/>
 					<date when-iso="1875-08-24"/>
-					<biblScope unit="issue">234</biblScope><biblScope unit="subIssue"
-						>234</biblScope><series>kz</series>
+					<biblScope unit="issue">234</biblScope>
+					<biblScope unit="subIssue">234</biblScope>
+					<series>kz</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
-				<bibl>
-					<title>Nachdruck: Ferdinand Hiller, Musikalisches und Persönliches, Leipzig:
-						Breitkopf und Härtel, 1876, S. 249ff.</title>
-				</bibl>
+				<bibl>Nachdruck: Ferdinand Hiller, Musikalisches und Persönliches, Leipzig:
+					Breitkopf und Härtel, 1876, S. 249ff.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -39,17 +38,17 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head><g type="SIX_POINTED_BLACK_STAR" n="2736">✶</g>
+			<head><g n="2736" type="SIX_POINTED_BLACK_STAR">✶</g>
 				<persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title>.</head>
 			<p>Dieses Tonwerk, welches der populäre Componist des <title ref="#verdi.il-trovatore"
 					>Trovatore</title> zur Feier des <date when-iso="1873-04-22">Todestages</date>
 				<persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName> geschrieben (<rs
-					type="event" ref="#mailand.1874.1">es wurde am <date when-iso="1874-05-22">22.
+					ref="#mailand.1874.1" type="event">es wurde am <date when-iso="1874-05-22">22.
 						Mai 1874</date> zum ersten Mal aufgeführt</rs>), hat seitdem in <rs
-					type="event" ref="#paris.1874"><placeName ref="#paris">Paris</placeName></rs>,
-					<rs type="event" ref="#london.1875"><placeName ref="#london"
-					>London</placeName></rs> und <rs type="event" ref="#wien.1875"><placeName
+					ref="#paris.1874" type="event"><placeName ref="#paris">Paris</placeName></rs>,
+					<rs ref="#london.1875" type="event"><placeName ref="#london"
+					>London</placeName></rs> und <rs ref="#wien.1875" type="event"><placeName
 						ref="#wien">Wien</placeName></rs>, wo es unter der persönlichen Leitung
 					<persName ref="#verdi.giuseppe">Verdi’s</persName> zu wiederholten Malen gegeben
 				worden, großes Aufsehen erregt. Hier zu Lande müssen wir uns vorläufig gedulden. Der
@@ -114,9 +113,9 @@
 				seinen Tribut bezahlt, weiß er sich mit einer Gewandtheit zu bewegen, die eben so
 				natürlich ist, als entfernt von schulmeisterlichen Tintenklecksen. Die <title
 					ref="#verdi.requiem.4">Sanctus-Fuge</title> für Doppelchor und das vierstimmige
-				Fugato im <hi rend="antiqua">„<title ref="#verdi.requiem.7" n="libera-me.fuga">Libera
-						me</title>“</hi> können manchem Contrepunktisten <hi rend="antiqua">ex
-					professo</hi><note resp="tr" type="quoteLink">Lat. »von Amts wegen«,
+				Fugato im <hi rend="antiqua">„<title n="libera-me.fuga" ref="#verdi.requiem.7"
+						>Libera me</title>“</hi> können manchem Contrepunktisten <hi rend="antiqua"
+					>ex professo</hi><note resp="tr" type="quoteLink">Lat. »von Amts wegen«,
 					»berufsmäßig«.</note> zu denken geben.</p>
 			<p>Man wird auch nach dem Clavierauszug keinen Augenblick im Zweifel darüber bleiben,
 				daß <persName ref="#verdi.giuseppe">Verdi</persName> sein Orchester zur vollsten

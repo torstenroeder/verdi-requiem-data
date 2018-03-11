@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1876-01-15" when-custom="sat"/>
-					<biblScope unit="issue">11</biblScope><biblScope unit="volume"
-						>26</biblScope><series>tms</series>
+					<date when-custom="sat" when-iso="1876-01-15"/>
+					<biblScope unit="issue">11</biblScope>
+					<biblScope unit="volume">26</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -39,7 +40,7 @@
 			<gap resp="tr"/>
 			<p> (<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title></hi>.) Aus dem Erträgniß der <rs
-					type="event" ref="#bruenn.1876">zweimaligen Aufführung des <persName
+					ref="#bruenn.1876" type="event">zweimaligen Aufführung des <persName
 						ref="#verdi.giuseppe">Verdi’schen</persName>
 					<title ref="#verdi.requiem">Requiems</title></rs> sind dem hiesigen
 				evangelischen Frauenvereine durch gütige Vermittlung der Frau <persName

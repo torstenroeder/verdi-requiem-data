@@ -1,18 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Die Presse, Wien, 31. Dezember 1875</title><author><persName ref="#schelle.eduard"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/dp_1875-12-31_musik-revue.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#die-presse"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-12-31" when-custom="fri"/>
-				<biblScope unit="issue">360</biblScope><biblScope unit="volume">28</biblScope><series>dp</series>
-				<biblScope unit="page">7</biblScope>
-				<link facs="dp_1875-12-31_7.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751231&amp;seite=7"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Musik-Revue.</head>
-		<p>Das Jahr neigt sich jetzt dem Untergange zu. Bald wird es seinen Lauf vollendet haben und in die Urne der Erinnerung rollen, und was es an Erscheinungen und Vorgängen brachte, die den Nerv des Lebens wie der Kunst in Schwingungen versetzen, das wird hier je nach der Bedeutung dieser Erscheinungen oder Vorgänge nachklingen in stärkeren oder schwächeren, in harmonischen oder disharmonischen Ac<supplied resp="tr">c</supplied>orden. An großen, verheißungsvollen Vorgängen in unserem Kunstleben ist dieses Jahr wahrlich nicht arm gewesen. So hat sich am Institute der Hofoper ein längsterwünschter Wechsel in der Direction vollzogen, der wiederum dem Singverein und den Concerten der Gesellschaft der Musikfreunde den alten erprobten Führer zurückgab, und wenn wir in der Person des Hern <persName ref="#dessoff.felix-otto">Dessoff</persName> eine werthvolle Kraft verloren haben, so ist uns dafür in Herrn Capellmeister <persName ref="#richter.hans">Richter</persName> ein glänzender Ersatz geboten worden. Aus diesen Begebenheiten ist eine Fülle von Hoffnungen für das Gedeihen unserer Musikzustände erblüht, von denen manche in der That bereits in Erfüllung gegangen sind, andere dagegen mit ihrer Erfüllung uns auf das nächste Jahr vertrösten. Vor Allem aber waren zwei Ereignisse danach angethan, eine allgemeine Aufregung in den musikalischen Kreisen hervorzurufen. Die beiden ersten Matadore unserer Zeit auf dem Gebiete der Oper, <persName ref="#verdi.giuseppe">Verdi</persName> und <persName ref="#wagner.richard">Wagner</persName>, hatten sich in Person hier eingestellt. Schon vor Anbruch des Frühlings gab uns <persName ref="#wagner.richard">Wagner</persName> im großen Musikvereinssaale Bruchstücke aus seinem letzten Werke: „<title ref="#wagner.goetterdaemmerung">Götterdämmerung</title>“ zu kosten und jüngst noch führte er seinen „<title ref="#wagner.tannhaeuser">Tannhäuser</title>“ und „<title ref="#wagner.lohengrin">Lohengrin</title>“ in einer ganz neuen Gewandung auf unsere Bühne; <rs type="event" ref="#wien.1875">im Sommer erschien <persName ref="#verdi.giuseppe">Verdi</persName>, um uns mit seiner letzten Schöpfung, dem „<title ref="#verdi.requiem">Requiem</title>“ bekannt zu machen</rs> und durch seine mitgeführten Sänger uns zu überzeugen, daß die Traditionen des Belcanto noch nicht gänzlich erloschen seien.</p>
-		<pb break="yes" n="8" type="skipped"/>
-		<p>Die Festwoche füllten die Aufführungen des „<title ref="#schumann.manfred">Manfred</title>“ von <persName ref="#byron.george-gordon">Byron</persName> mit der Musik von <persName ref="#schumann.robert">Schumann</persName> und <rs type="event" ref="#wien.1875a">das „<title ref="#verdi.requiem">Requiem</title>“ von <persName ref="#verdi.giuseppe">Verdi</persName> in der <placeName ref="#wien.hof-operntheater">Oper</placeName></rs> aus, deren Ertrag dem Pensions-Institute dieses Hoftheaters zugute kam. <cb break="yes" n="3" type="skipped"/> Die Besetzung von <persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Requiem</title> wies keine Aenderung auf. Die Aufführung war im Ganzen recht gelungen und hinterließ sogar einen einheitlicheren Totaleindruck, als die letzte von Seite unserer einheimischen Künstler.</p>
-		<p><gap resp="tr"/>
-			<persName ref="#schelle.eduard">E. Schelle</persName>.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Presse, Wien, 31. Dezember 1875</title>
+				<author><persName ref="#schelle.eduard"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/dp_1875-12-31_musik-revue.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#die-presse"/>
+					<placeName ref="#wien"/>
+					<date when-custom="fri" when-iso="1875-12-31"/>
+					<biblScope unit="issue">360</biblScope>
+					<biblScope unit="volume">28</biblScope>
+					<series>dp</series>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="dp_1875-12-31_7.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18751231&amp;seite=7"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Musik-Revue.</head>
+			<p>Das Jahr neigt sich jetzt dem Untergange zu. Bald wird es seinen Lauf vollendet haben
+				und in die Urne der Erinnerung rollen, und was es an Erscheinungen und Vorgängen
+				brachte, die den Nerv des Lebens wie der Kunst in Schwingungen versetzen, das wird
+				hier je nach der Bedeutung dieser Erscheinungen oder Vorgänge nachklingen in
+				stärkeren oder schwächeren, in harmonischen oder disharmonischen Ac<supplied
+					resp="tr">c</supplied>orden. An großen, verheißungsvollen Vorgängen in unserem
+				Kunstleben ist dieses Jahr wahrlich nicht arm gewesen. So hat sich am Institute der
+				Hofoper ein längsterwünschter Wechsel in der Direction vollzogen, der wiederum dem
+				Singverein und den Concerten der Gesellschaft der Musikfreunde den alten erprobten
+				Führer zurückgab, und wenn wir in der Person des Hern <persName
+					ref="#dessoff.felix-otto">Dessoff</persName> eine werthvolle Kraft verloren
+				haben, so ist uns dafür in Herrn Capellmeister <persName ref="#richter.hans"
+					>Richter</persName> ein glänzender Ersatz geboten worden. Aus diesen
+				Begebenheiten ist eine Fülle von Hoffnungen für das Gedeihen unserer Musikzustände
+				erblüht, von denen manche in der That bereits in Erfüllung gegangen sind, andere
+				dagegen mit ihrer Erfüllung uns auf das nächste Jahr vertrösten. Vor Allem aber
+				waren zwei Ereignisse danach angethan, eine allgemeine Aufregung in den
+				musikalischen Kreisen hervorzurufen. Die beiden ersten Matadore unserer Zeit auf dem
+				Gebiete der Oper, <persName ref="#verdi.giuseppe">Verdi</persName> und <persName
+					ref="#wagner.richard">Wagner</persName>, hatten sich in Person hier eingestellt.
+				Schon vor Anbruch des Frühlings gab uns <persName ref="#wagner.richard"
+					>Wagner</persName> im großen Musikvereinssaale Bruchstücke aus seinem letzten
+				Werke: „<title ref="#wagner.goetterdaemmerung">Götterdämmerung</title>“ zu kosten
+				und jüngst noch führte er seinen „<title ref="#wagner.tannhaeuser"
+					>Tannhäuser</title>“ und „<title ref="#wagner.lohengrin">Lohengrin</title>“ in
+				einer ganz neuen Gewandung auf unsere Bühne; <rs ref="#wien.1875" type="event">im
+					Sommer erschien <persName ref="#verdi.giuseppe">Verdi</persName>, um uns mit
+					seiner letzten Schöpfung, dem „<title ref="#verdi.requiem">Requiem</title>“
+					bekannt zu machen</rs> und durch seine mitgeführten Sänger uns zu überzeugen,
+				daß die Traditionen des Belcanto noch nicht gänzlich erloschen seien.</p>
+			<pb break="yes" n="8" type="skipped"/>
+			<p>Die Festwoche füllten die Aufführungen des „<title ref="#schumann.manfred"
+					>Manfred</title>“ von <persName ref="#byron.george-gordon">Byron</persName> mit
+				der Musik von <persName ref="#schumann.robert">Schumann</persName> und <rs
+					ref="#wien.1875a" type="event">das „<title ref="#verdi.requiem">Requiem</title>“
+					von <persName ref="#verdi.giuseppe">Verdi</persName> in der <placeName
+						ref="#wien.hof-operntheater">Oper</placeName></rs> aus, deren Ertrag dem
+				Pensions-Institute dieses Hoftheaters zugute kam. <cb break="yes" n="3"
+					type="skipped"/> Die Besetzung von <persName ref="#verdi.giuseppe"
+					>Verdi’s</persName>
+				<title ref="#verdi.requiem">Requiem</title> wies keine Aenderung auf. Die Aufführung
+				war im Ganzen recht gelungen und hinterließ sogar einen einheitlicheren
+				Totaleindruck, als die letzte von Seite unserer einheimischen Künstler.</p>
+			<p><gap resp="tr"/>
+				<persName ref="#schelle.eduard">E. Schelle</persName>.</p>
+		</body>
+	</text>
 </TEI>

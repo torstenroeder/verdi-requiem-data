@@ -13,12 +13,10 @@
 				<bibl>
 					<orgName ref="#st-galler-zeitung"/>
 					<placeName ref="#st-gallen"/>
-					<date when-iso="1878-04-13" when-custom="sat"/>
-					<biblScope unit="issue">88</biblScope><series>sgz</series>
+					<date when-custom="sat" when-iso="1878-04-13"/>
+					<biblScope unit="issue">88</biblScope>
+					<series>sgz</series>
 					<biblScope unit="page">351 [3]</biblScope>
-					<link
-						target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=9BC688E2&amp;href=SGZ%2F1878%2F04%2F13&amp;page=3"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,10 +33,15 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=9BC688E2&amp;href=SGZ%2F1878%2F04%2F13&amp;page=3"
+		/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="351c" type="initial"/>
-			<head rend="larger"><g type="DAGGER" n="2020">†</g> Requiem.</head>
+			<head rend="larger"><g n="2020" type="DAGGER">†</g> Requiem.</head>
 			<p>Zu den Verdiensten, welche sich nebst dem „<orgName ref="#st-gallen.frohsinn"
 					>Frohsinn</orgName>“ auch das „<hi rend="widespace"><orgName
 						ref="#st-gallen.antlitz">Antlitz</orgName></hi>“, namentlich unter der

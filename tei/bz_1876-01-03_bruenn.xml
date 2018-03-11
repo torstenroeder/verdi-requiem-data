@@ -33,8 +33,8 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Kunst, Wissenschaft und Literatur.</head>
-			<p><g type="WHITE_UP-POINTING_TRIANGLE" n="25B3">△</g>
-				<rs type="event" ref="#bruenn.1876.1"><hi rend="bold"><placeName ref="#bruenn"
+			<p><g n="25B3" type="WHITE_UP-POINTING_TRIANGLE">△</g>
+				<rs ref="#bruenn.1876.1" type="event"><hi rend="bold"><placeName ref="#bruenn"
 							>Brünn</placeName></hi>, <date when-iso="1876-01-03">3. Jänner</date>.
 						(<hi rend="widespace"><title ref="#verdi.requiem">Requiem</title> von
 							<persName ref="#verdi.giuseppe">G. Verdi</persName> für Soli, Chor und
@@ -48,9 +48,9 @@
 				schöpferische Kraft auch kirchliche Musikwerke zu bilden im Stande ist. Inwieweit er
 				dies that, das hat uns der Erfolg seines Werkes in seinem eigenen Vaterlande
 				gelehrt, das hat ferner die enthusiastische Aufnahme seines Werkes gelegentlich
-				dessen <rs type="event" ref="#wien.1875">Aufführung in <placeName ref="#wien"
+				dessen <rs ref="#wien.1875" type="event">Aufführung in <placeName ref="#wien"
 						>Wien</placeName></rs> unter seiner persönlichen Leitung bewiesen, und <rs
-					type="event" ref="#bruenn.1876.1">gestern konnten auch die Musikfreunde
+					ref="#bruenn.1876.1" type="event">gestern konnten auch die Musikfreunde
 						<placeName ref="#bruenn">Brünns</placeName> beurtheilen, wie es seiner
 					Aufgabe gerecht wurde</rs>. Wenngleich, strenge genommen, die eigentliche
 				rituale Form des Requiems nicht beibehalten erscheint und der Ernst des
@@ -70,23 +70,23 @@
 							aeterna<supplied resp="tr">m</supplied></title>“ a-moll</hi>) leitet das
 				ganze Werk würdevoll ein und drückt das Gefühl der Trauer in treffender Weise aus.
 				Herrlich hört man die Disposition der Soli aus dem ganzen Gebilde hervorklingen und
-				der Schluß des Satzes (<hi rend="antiqua">a dur — <title
-						ref="#verdi.requiem.1" n="kyrie">Kyrie eleison</title></hi>) hinterläßt einen
-				wahrhaft beruhigenden Eindruck. Die zweite Nummer — die längste (<hi rend="antiqua"
-						><title ref="#verdi.requiem.2">Dies irae</title> — g-moll — alla breve</hi>)
-				beginnt mit Chor und vollem Orchester und veranschaulicht musikalisch den Schrecken
-				des „Tages des Zornes“ mächtig und ergreifend. Die donnerähnlichen Paukenschläge,
-				sowie die später im langsamen Tempo eintretenden Trompeten-Fanfaren, die sehr
-				effectvoll im Nebensaale durch andere, als Echo wiederholt werden und der große Chor
-					(<hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba
-					mirum</title></hi>), in stets anschwellendem Forte sich bis zum höchsten
-				Fortissimo steigernd — sind in der That von höchst erschütternder Wirkung. Freilich
-				könnte man diese Stelle eine bedenkliche nennen, da der Compositeur hier den
-				kirchlichen Charakter verläßt und in den weltlichen übergeht; auch das plötzliche
-				Abbrechen der gewaltigen Tonmassen, die darauffolgende Generalpause und der Eintritt
-				des <title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Baß-Solo</title> — von
-				ganz eigenthümlicher Färbung — sind Effecte, welche die Begriffe des Nordens von der
-					<hi rend="antiqua">musica sacra</hi> in unseren Kirchen beinahe als unzulässig
+				der Schluß des Satzes (<hi rend="antiqua">a dur — <title n="kyrie"
+						ref="#verdi.requiem.1">Kyrie eleison</title></hi>) hinterläßt einen wahrhaft
+				beruhigenden Eindruck. Die zweite Nummer — die längste (<hi rend="antiqua"><title
+						ref="#verdi.requiem.2">Dies irae</title> — g-moll — alla breve</hi>) beginnt
+				mit Chor und vollem Orchester und veranschaulicht musikalisch den Schrecken des
+				„Tages des Zornes“ mächtig und ergreifend. Die donnerähnlichen Paukenschläge, sowie
+				die später im langsamen Tempo eintretenden Trompeten-Fanfaren, die sehr effectvoll
+				im Nebensaale durch andere, als Echo wiederholt werden und der große Chor (<hi
+					rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba
+				mirum</title></hi>), in stets anschwellendem Forte sich bis zum höchsten Fortissimo
+				steigernd — sind in der That von höchst erschütternder Wirkung. Freilich könnte man
+				diese Stelle eine bedenkliche nennen, da der Compositeur hier den kirchlichen
+				Charakter verläßt und in den weltlichen übergeht; auch das plötzliche Abbrechen der
+				gewaltigen Tonmassen, die darauffolgende Generalpause und der Eintritt des <title
+					n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">Baß-Solo</title> — von ganz
+				eigenthümlicher Färbung — sind Effecte, welche die Begriffe des Nordens von der <hi
+					rend="antiqua">musica sacra</hi> in unseren Kirchen beinahe als unzulässig
 				erscheinen lassen.</p>
 			<p>Das darauffolgende <title ref="#verdi.requiem.2.liber-scriptus"
 					>Mezzosopran-Solo</title>, dann das <title ref="#verdi.requiem.2.quid-sum-miser"
@@ -120,7 +120,7 @@
 				auf. An dieses schließt sich das <hi rend="antiqua"><title ref="#verdi.requiem.7"
 						>Libera me</title></hi> Nr. <hi rend="antiqua">VII</hi> mit Sopran-Solo und
 				Chor mit Fuge, worin wir das Thema des ersten Satzes wieder finden (<title
-					ref="#verdi.requiem.7" n="requiem-aeternam">Requiem</title>); es schließt dieser
+					n="requiem-aeternam" ref="#verdi.requiem.7">Requiem</title>); es schließt dieser
 				Satz mit erwähnter Fuge in der gewöhnlichen Form ruhig ab.</p>
 			<p>Die Aufführung des Werkes war eine, in Anbetracht der wenigen Proben und des
 				riesigen, zu bewältigenden Materials, sehr gelungene zu nennen. Der genialen
@@ -135,8 +135,8 @@
 						scriptus</title></hi>), sowie an das (<hi rend="antiqua"><title
 						ref="#verdi.requiem.2.recordare">Recordare</title></hi>) ebendaselbst
 				(Sopran- und Mezzosopran-Solo), wo die Tiefe und Klangfülle namentlich zum Schluße
-					(<hi rend="antiqua"><title ref="#verdi.requiem.2.recordare" n="donum-fac">Donum fac
-						remissione</title></hi>) zu ergreifender Wirkung gelangte und
+					(<hi rend="antiqua"><title n="donum-fac" ref="#verdi.requiem.2.recordare">Donum
+						fac remissione</title></hi>) zu ergreifender Wirkung gelangte und
 				enthusiastischen Beifall entfesselte.</p>
 			<p>Frl. <hi rend="widespace"><persName ref="#will.julie" role="soloist.soprano"
 						>Will</persName></hi> löste mit ihrer prächtig ausklingenden Stimme ihre

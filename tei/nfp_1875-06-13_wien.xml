@@ -1,22 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 13. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-06-13_wien-zweite-auffuehrung.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#neue-freie-presse" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-13" when-custom="sun"/>
-				<biblScope unit="issue">3878</biblScope><biblScope unit="subIssue">3878</biblScope><series>nfp</series>
-				<biblScope unit="page">6</biblScope>
-				<link facs="nfp_1875-06-13_6.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750613&amp;seite=6"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/><date when-iso="1875-06-12"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<pb break="null" n="5" type="initial"/>
-		<head rend="larger">Theater- und Kunstnachrichten.</head>
-		<p><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date when-iso="1875-06-12">12.
-				Juni</date>.</p>
-		<p>— <rs type="event" ref="#wien.1875.2 wien.1875.1">Die heutige zweite Aufführung des <hi rend="widespace"><title ref="#verdi.requiem">Requiems</title></hi> von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> im <placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> gestaltete sich womöglich noch glänzender als die gestrige</rs>; die Aufführung war wieder eine vollendete, und das Zusammenwirken des herrlichen Quartetts mit unseren brillanten Orchester- und Chorkräften hat einen ganz unvergleichlichen Genuß. Der Eindruck des Werkes war auch heute ein sensationeller, der Enthusiasmus kannte keine Grenzen, und das außerdem die italienische Colonie <placeName ref="#wien">Wiens</placeName> diesmal erheblich stärker vertreten war, erlebten wir wieder Beifallsstürme von einer Intensität und Ausdauer, wie sie nur bei den außerordentlichsten Anlässen auszubrechen pflegen. Der <title ref="#verdi.requiem.3" n="hostias">zweite Theil</title> des <title ref="#verdi.requiem.3">Offertoriums</title> und das <title ref="#verdi.requiem.5">Agnus Dei</title> wurden wiederholt. Das Publicum wollte zwar alle Sätze wiederholen lassen; allein der Compositeur nahm Rücksicht auf die ohnedies stark in Anspruch genommenen Sänger und gab nur die bezeichneten Repetitionen. Es ist überflüssig, zu sagen, daß <persName ref="#verdi.giuseppe">Verdi</persName> unzähligemale hervorgerufen wurde, und daß auch die Damen <persName ref="#stolz.teresa">Stolz</persName> und <persName ref="#waldmann.maria">Waldmann</persName> gleich den Herren <persName ref="#masini.angelo">Masini</persName> und <persName ref="#medini.paolo">Medini</persName> reichsten Beifall fanden. Zu denen, welche am lebhaftesten applaudirten, gehörte der <hi rend="widespace"><persName ref="#franz-joseph-i.habsburg">Kaiser</persName></hi>, welcher dem Kronprinzen <hi rend="widespace"><persName ref="#rudolf.oesterreich-ungarn">Rudolph</persName></hi> in der Incognito-Loge der Aufführung anwohnte. Eine ausführliche Besprechung des Werkes schon heute zu bieten, sind wir leider durch die bedauerliche Erkrankung unseres Musikreferenten, Herrn Professor <hi rend="widespace"><persName ref="#hanslick.eduard">Hanslick</persName></hi>, außer Stande. Wir hoffen indeß unseren Mitarbeiter in einigen Tagen schon so weit hergestellt, um sein Referat für eine der nächsten Nummern erwarten zu können.<note resp="tr" type="textLink">Vgl. <persName ref="#hanslick.eduard">Eduard Hanslick</persName>, <ref type="text" target="nfp_1875-06-24_verdi-in-wien.xml">Neue Freie Presse, Wien, 24. Juni 1875</ref>.</note></p>
-		<p><gap resp="tr"/></p>
-		<p>— <rs type="event" ref="#wien.1875.3">Für <date when-iso="1875-06-16">Mittwoch den 16. Juni</date> ist
-				noch eine dritte Aufführung des „<title ref="#verdi.requiem">Requiem</title>“
-				angesetzt, welche, wie verlautet, bei ermäßigten Preisen stattfinden soll, um auch
-				dem größeren Publicum den Besuch desselben zu ermöglichen.</rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Freie Presse, Wien, 13. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nfp_1875-06-13_wien-zweite-auffuehrung.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neue-freie-presse" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="sun" when-iso="1875-06-13"/>
+					<biblScope unit="issue">3878</biblScope>
+					<biblScope unit="subIssue">3878</biblScope>
+					<series>nfp</series>
+					<biblScope unit="page">6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/><date when-iso="1875-06-12"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Kurzbericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nfp_1875-06-13_6.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750613&amp;seite=6"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="5" type="initial"/>
+			<head rend="larger">Theater- und Kunstnachrichten.</head>
+			<p><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date
+					when-iso="1875-06-12">12. Juni</date>.</p>
+			<p>— <rs ref="#wien.1875.2 wien.1875.1" type="event">Die heutige zweite Aufführung des
+						<hi rend="widespace"><title ref="#verdi.requiem">Requiems</title></hi> von
+						<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi>
+					im <placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName>
+					gestaltete sich womöglich noch glänzender als die gestrige</rs>; die Aufführung
+				war wieder eine vollendete, und das Zusammenwirken des herrlichen Quartetts mit
+				unseren brillanten Orchester- und Chorkräften hat einen ganz unvergleichlichen
+				Genuß. Der Eindruck des Werkes war auch heute ein sensationeller, der Enthusiasmus
+				kannte keine Grenzen, und das außerdem die italienische Colonie <placeName
+					ref="#wien">Wiens</placeName> diesmal erheblich stärker vertreten war, erlebten
+				wir wieder Beifallsstürme von einer Intensität und Ausdauer, wie sie nur bei den
+				außerordentlichsten Anlässen auszubrechen pflegen. Der <title n="hostias"
+					ref="#verdi.requiem.3">zweite Theil</title> des <title ref="#verdi.requiem.3"
+					>Offertoriums</title> und das <title ref="#verdi.requiem.5">Agnus Dei</title>
+				wurden wiederholt. Das Publicum wollte zwar alle Sätze wiederholen lassen; allein
+				der Compositeur nahm Rücksicht auf die ohnedies stark in Anspruch genommenen Sänger
+				und gab nur die bezeichneten Repetitionen. Es ist überflüssig, zu sagen, daß
+					<persName ref="#verdi.giuseppe">Verdi</persName> unzähligemale hervorgerufen
+				wurde, und daß auch die Damen <persName ref="#stolz.teresa">Stolz</persName> und
+					<persName ref="#waldmann.maria">Waldmann</persName> gleich den Herren <persName
+					ref="#masini.angelo">Masini</persName> und <persName ref="#medini.paolo"
+					>Medini</persName> reichsten Beifall fanden. Zu denen, welche am lebhaftesten
+				applaudirten, gehörte der <hi rend="widespace"><persName
+						ref="#franz-joseph-i.habsburg">Kaiser</persName></hi>, welcher dem
+				Kronprinzen <hi rend="widespace"><persName ref="#rudolf.oesterreich-ungarn"
+						>Rudolph</persName></hi> in der Incognito-Loge der Aufführung anwohnte. Eine
+				ausführliche Besprechung des Werkes schon heute zu bieten, sind wir leider durch die
+				bedauerliche Erkrankung unseres Musikreferenten, Herrn Professor <hi
+					rend="widespace"><persName ref="#hanslick.eduard">Hanslick</persName></hi>,
+				außer Stande. Wir hoffen indeß unseren Mitarbeiter in einigen Tagen schon so weit
+				hergestellt, um sein Referat für eine der nächsten Nummern erwarten zu können.<note
+					resp="tr" type="textLink">Vgl. <persName ref="#hanslick.eduard">Eduard
+						Hanslick</persName>, <ref target="nfp_1875-06-24_verdi-in-wien.xml"
+						type="text">Neue Freie Presse, Wien, 24. Juni 1875</ref>.</note></p>
+			<p><gap resp="tr"/></p>
+			<p>— <rs ref="#wien.1875.3" type="event">Für <date when-iso="1875-06-16">Mittwoch den
+						16. Juni</date> ist noch eine dritte Aufführung des „<title
+						ref="#verdi.requiem">Requiem</title>“ angesetzt, welche, wie verlautet, bei
+					ermäßigten Preisen stattfinden soll, um auch dem größeren Publicum den Besuch
+					desselben zu ermöglichen.</rs></p>
+		</body>
+	</text>
 </TEI>

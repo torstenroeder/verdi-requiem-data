@@ -12,12 +12,10 @@
 				<bibl>
 					<orgName ref="#wiener-zeitung" role="publisher"/>
 					<placeName ref="#wien"/>
-					<date when-iso="1875-10-31" when-custom="sun"/>
-					<biblScope unit="issue">251</biblScope><series>wz</series>
+					<date when-custom="sun" when-iso="1875-10-31"/>
+					<biblScope unit="issue">251</biblScope>
+					<series>wz</series>
 					<biblScope unit="page">378 [8]</biblScope>
-					<link facs="wz_1875-10-31_8.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18751031&amp;seite=8"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -34,6 +32,10 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="wz_1875-10-31_8.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18751031&amp;seite=8"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Theater und Sehenswürdigkeiten.</head>
@@ -41,7 +43,7 @@
 			<head><placeName ref="#wien.hof-operntheater">K. K. Hof-Operntheater.</placeName></head>
 			<gap resp="tr"/>
 			<p rend="center">
-				<rs type="event" ref="#wien.1875a.1"><hi rend="bold">Morgen Montag:</hi><lb
+				<rs ref="#wien.1875a.1" type="event"><hi rend="bold">Morgen Montag:</hi><lb
 						break="no"/>
 					<hi rend="widespace bold antiqua"><title ref="#verdi.requiem"
 						>REQUIEM</title></hi><lb break="no"/> von<lb break="no"/>

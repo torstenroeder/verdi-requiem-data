@@ -1,16 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Die Tonkunst, Berlin, 11. März 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/tonkunst_1876-03-11_utrecht.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#tonkunst" role="publisher"/>
-				<placeName ref="#berlin"/>
-				<date when-iso="1876-03-11"/>
-				<biblScope unit="issue">7</biblScope><biblScope unit="volume">1</biblScope><series>tonkunst</series>
-				<biblScope unit="page">117–118</biblScope>
-				<link facs="tonkunst_1876-03-11_117.png"/>
-				<link facs="tonkunst_1876-03-11_118.png"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#utrecht"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<p><hi rend="bold">Concerte.</hi>
-			<gap resp="tr"/>
-			<rs type="event" ref="#utrecht.1876"><placeName ref="#utrecht">Utrecht</placeName>. <persName ref="#hol.richard">Rich. Hol</persName>, <title ref="#verdi.requiem">Verdi-Messe</title>.</rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Tonkunst, Berlin, 11. März 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/tonkunst_1876-03-11_utrecht.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#tonkunst" role="publisher"/>
+					<placeName ref="#berlin"/>
+					<date when-iso="1876-03-11"/>
+					<biblScope unit="issue">7</biblScope>
+					<biblScope unit="volume">1</biblScope>
+					<series>tonkunst</series>
+					<biblScope unit="page">117–118</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#utrecht"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Ankündigung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<!--<graphic n="tonkunst_1876-03-11_117.png"/>-->
+	<!--<graphic n="tonkunst_1876-03-11_118.png"/>-->
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb n="117"/>
+			<head>Musikpflege.</head>
+			<gap/>
+			<p><hi rend="bold kanzlei">Concerte.</hi>
+				<pb n="118" type="skipped"/>
+				<rs ref="#utrecht.1876" type="event"><placeName ref="#utrecht">Utrecht</placeName>.
+						<persName ref="#hol.richard">Rich. Hol</persName>, <title
+						ref="#verdi.requiem">Verdi-Messe</title>.</rs></p>
+		</body>
+	</text>
 </TEI>

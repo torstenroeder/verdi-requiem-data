@@ -13,12 +13,10 @@
 					<orgName ref="#nzfm" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1869-07-09"/>
-					<biblScope unit="issue">28</biblScope><biblScope unit="volume"
-						>65</biblScope><series>nzfm</series>
+					<biblScope unit="issue">28</biblScope>
+					<biblScope unit="volume">65</biblScope>
+					<series>nzfm</series>
 					<biblScope unit="page">235 [7]</biblScope>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18690709&amp;seite=7"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,11 +33,15 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18690709&amp;seite=7"
+		/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="235a" type="initial"/>
 			<head rend="larger">Vermischtes.</head>
-			<p><g type="ASTERISK|EM_DASH|ASTERISK" n="002A|2014|002A">*—*</g> Das Project <persName
+			<p><g n="002A|2014|002A" type="ASTERISK|EM_DASH|ASTERISK">*—*</g> Das Project <persName
 					ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>’s</persName>, ein von
 				allen besseren italienischen Componisten zu verfasendes <title
 					ref="#messa-per-rossini">Requiem</title> für <hi rend="widespace"><persName

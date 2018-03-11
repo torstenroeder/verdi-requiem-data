@@ -1,20 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 14. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-04-14_rio-de-janeiro.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#nzfm" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-04-14"/>
-				<biblScope unit="issue">16</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
-				<biblScope unit="page">166 [6]</biblScope>
-				<link facs="nzfm_1876-04-14_166.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760414&amp;seite=6"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#rio-de-janeiro"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<pb break="null" n="165" type="initial"/>
-		<head rend="larger">Tagesgeschichte.</head>
-		<head>Aufführungen.</head>
-		<pb break="null" n="166" type="skipped"/>
-		<p><rs type="event" ref="#rio-de-janeiro.1876"><hi rend="widespace"><placeName ref="#rio-de-janeiro">Rio de
-						Janeiro</placeName></hi>. Auch die Hauptstadt <placeName ref="#brasilien">Brasiliens</placeName> hat bereits ihre Aufführung von <persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> unter großem Furore
-				gehabt.</rs> —</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>NZfM, Leipzig, 14. April 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nzfm_1876-04-14_rio-de-janeiro.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nzfm" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-04-14"/>
+					<biblScope unit="issue">16</biblScope>
+					<biblScope unit="volume">72</biblScope>
+					<series>nzfm</series>
+					<biblScope unit="page">166 [6]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#rio-de-janeiro"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nzfm_1876-04-14_166.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760414&amp;seite=6"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="165" type="initial"/>
+			<head rend="larger">Tagesgeschichte.</head>
+			<head>Aufführungen.</head>
+			<pb break="null" n="166" type="skipped"/>
+			<p><rs ref="#rio-de-janeiro.1876" type="event"><hi rend="widespace"><placeName
+							ref="#rio-de-janeiro">Rio de Janeiro</placeName></hi>. Auch die
+					Hauptstadt <placeName ref="#brasilien">Brasiliens</placeName> hat bereits ihre
+					Aufführung von <persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> unter großem
+					Furore gehabt.</rs> —</p>
+		</body>
+	</text>
 </TEI>

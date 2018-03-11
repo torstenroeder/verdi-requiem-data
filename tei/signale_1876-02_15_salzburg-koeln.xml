@@ -12,15 +12,11 @@
                 <bibl>
                     <orgName ref="#signale" role="publisher"/>
                     <placeName ref="#leipzig"/>
-                    <date cert="low" when-iso="1876-02-29" notAfter-iso="1876-02-29"
-                        notBefore-iso="1876-02-15"/>
-                    <biblScope unit="issue">15</biblScope><biblScope unit="volume">34</biblScope>
+                    <date cert="low" notAfter-iso="1876-02-29" notBefore-iso="1876-02-15"
+                        when-iso="1876-02-29"/>
+                    <biblScope unit="issue">15</biblScope>
+                    <biblScope unit="volume">34</biblScope>
                     <biblScope unit="page">233</biblScope>
-                    <link
-                        target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=236"/>
-                    <link
-                        target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=241"
-                    />
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -37,13 +33,19 @@
             <p>see http://verdi-requiem.de for a detailed description</p>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <graphic
+            url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=236"/>
+        <graphic
+            url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=241"/>
+    </facsimile>
     <text xml:lang="de">
         <body rend="fraktur">
             <pb break="null" n="228" type="initial"/>
-            <head rend="antiqua widespace larger">Dur und Moll.</head>
+            <head rend="antiqua widespace larger bold">Dur und Moll.</head>
             <pb break="null" n="233" type="skipped"/>
-            <p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
-                <rs type="event" ref="#salzburg.1876"><hi rend="widespace">In <placeName
+            <p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
+                <rs ref="#salzburg.1876" type="event"><hi rend="widespace">In <placeName
                             ref="#salzburg">Salzburg</placeName></hi> wird <date when-iso="1876-04"
                         >Anfangs April</date>
                     <persName ref="#verdi.giuseppe">Verdi’s</persName>
@@ -60,8 +62,8 @@
                 dankt es ausschließlich den persönlichen, kunstfreundlichen Bemühungen der Comtesse
                     <persName ref="#gatterburg.hedwig">Hedwig von Gatterburg</persName>, daß diese
                 Kosten erbracht wurden.</p>
-            <p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
-                <rs type="event" ref="#koeln.1875.2"><hi rend="widespace">In <placeName ref="#koeln"
+            <p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
+                <rs ref="#koeln.1875.2" type="event"><hi rend="widespace">In <placeName ref="#koeln"
                             >Cöln</placeName></hi> kam im achten Gürzenichconcert am <date
                         when-iso="1876-02-15">15. Febr.</date> auf allseitig gehegten Wunsch
                         <persName ref="#verdi.giuseppe">Verdi’s</persName>

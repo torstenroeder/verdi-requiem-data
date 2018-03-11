@@ -13,15 +13,11 @@
 				<bibl>
 					<orgName ref="#salzburger-volksblatt" role="publisher"/>
 					<placeName ref="#salzburg"/>
-					<date when-iso="1876-04-25" when-custom="tue"/>
-					<biblScope unit="issue">49</biblScope><biblScope unit="volume"
-						>6</biblScope><series>svb</series>
+					<date when-custom="tue" when-iso="1876-04-25"/>
+					<biblScope unit="issue">49</biblScope>
+					<biblScope unit="volume">6</biblScope>
+					<series>svb</series>
 					<biblScope unit="page">1–2</biblScope>
-					<link facs="svb_1876-04-25_1.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=1"/>
-					<link facs="svb_1876-04-25_2.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=2"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,14 +34,20 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="svb_1876-04-25_1.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=1"/>
+		<graphic n="svb_1876-04-25_2.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="1c" type="initial"/>
 			<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title>.</head>
 			<p>Es war ein Wagniß, in einer Stadt das <title ref="#verdi.requiem">Requiem</title> des
-				italienischen Meisters zur <rs type="event" ref="#salzburg.1876.1">Aufführung</rs> zu
-				bringen, in welcher lebendiger als sonst irgendwo Traditionen — bewußt oder
+				italienischen Meisters zur <rs ref="#salzburg.1876.1" type="event">Aufführung</rs>
+				zu bringen, in welcher lebendiger als sonst irgendwo Traditionen — bewußt oder
 				gedankenlos — kultivirt werden. Wurden ja schon im Vorhinein nicht einzelne, sondern
 				viele Stimmen laut, daß <persName ref="#verdi.giuseppe">Verdi</persName> nie und
 				nimmer <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> erreichen könne.
@@ -170,10 +172,9 @@
 					ref="#mozart.die-zauberfloete">Zauberflöte</title> nicht auch eine
 				Verwandtschaft? (Siehe <persName ref="#jahn.otto">O. Jahn</persName><note resp="tr"
 					type="literatureLink">Vgl. <persName ref="#jahn.otto">Otto Jahn</persName>, <ref
-						type="text"
-						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA737">W. A.
-						Mozart, 4. Theil (Leipzig 1859), S. 736, Anm. 87</ref>.</note>). <persName
-					ref="#verdi.giuseppe">Verdi’s</persName>
+						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA737"
+						type="text">W. A. Mozart, 4. Theil (Leipzig 1859), S. 736, Anm.
+					87</ref>.</note>). <persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> ist hauptsächlich im Concertsaale
 				aufgeführt worden, aber deßhalb ist noch nicht gesagt, daß es nicht auch in der
 				Kirche von mächtiger Wirkung sei, daß man nicht auch danach ebenso ergriffen beten
@@ -185,16 +186,16 @@
 					ref="#verdi.requiem.2.lacrymosa">Lacrimosa</title>, wo der Alt schluchzend
 				auftritt, so ergreift dies ebenso tief und mächtig wie die weihevolle ceremonielle
 				Stimmung dort, wo das Gebet in den Vordergrund tritt, erhebt. Wie heiliges Schauern
-				ergreift es den Zuhörer bei der Stelle: »<title
-					ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors stupebit et
-				natura</title>«, wie entzückend ist das Duo »<title ref="#verdi.requiem.2.recordare"
-					>Recordare pie</title>« und wie geist- und effektvoll das <title
-					ref="#verdi.requiem.5">Agnus</title> mit dem wunderbar lieblichen
-				Flöten-Accompagnement zu den Frauenstimmen. Der C-Accord mit der Septime im <title
-					ref="#verdi.requiem.4">Sanctus</title> ist von ungeheurer Wirkung, und der
-				Wechsel zwischen Psalmod<supplied resp="tr">i</supplied>e, Fuge und Cantate im
-					<title ref="#verdi.requiem.7">Libera</title> genial und vielleicht einzig in
-				seiner Art. Es wäre eine zu große Aufgabe, alle einzelnen Schönheiten des Werkes
+				ergreift es den Zuhörer bei der Stelle: »<title n="mors-stupebit"
+					ref="#verdi.requiem.2.tuba-mirum">Mors stupebit et natura</title>«, wie
+				entzückend ist das Duo »<title ref="#verdi.requiem.2.recordare">Recordare
+					pie</title>« und wie geist- und effektvoll das <title ref="#verdi.requiem.5"
+					>Agnus</title> mit dem wunderbar lieblichen Flöten-Accompagnement zu den
+				Frauenstimmen. Der C-Accord mit der Septime im <title ref="#verdi.requiem.4"
+					>Sanctus</title> ist von ungeheurer Wirkung, und der Wechsel zwischen
+					Psalmod<supplied resp="tr">i</supplied>e, Fuge und Cantate im <title
+					ref="#verdi.requiem.7">Libera</title> genial und vielleicht einzig in seiner
+				Art. Es wäre eine zu große Aufgabe, alle einzelnen Schönheiten des Werkes
 				auszuzählen, das jeden, auch den Laien mächtig ergreifen muß. Wem die gewaltig
 				brausenden Tonmassen des <title ref="#verdi.requiem.2">Dies irae</title>, das süße
 				erhebende <title ref="#verdi.requiem.5">Agnus</title>, der wunderschöne Anhangsatz
@@ -205,27 +206,27 @@
 				Expectoration eines Enthusiasten: „<persName ref="#verdi.giuseppe"
 					>Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> sei die größte Tonschöpfung des
-					Jahrhunderts“<note resp="tr" type="textLink">Vgl. <ref type="text"
-						target="iwe_1875-06-10_die-manzoni-messe-verdis.xml">Illustrirtes Wiener
-						Extrablatt, 10. Juni 1875</ref>.</note>, als einen unüberlegten Ausbruch
-				momentaner Unzurechnungsfähigkeit belächeln. Es sind auch Mängel und Schwächen darin
-				zu finden; wir sagen dies, obwohl wir es aus dem Munde einer Dame hören mußten, wie
-				jeder Kritiker, der daran etwas zu tadeln fände, im Vorhinein als „dumm“ erklärt
-				wurde.</p>
+					Jahrhunderts“<note resp="tr" type="textLink">Vgl. <ref
+						target="iwe_1875-06-10_die-manzoni-messe-verdis.xml" type="text"
+						>Illustrirtes Wiener Extrablatt, 10. Juni 1875</ref>.</note>, als einen
+				unüberlegten Ausbruch momentaner Unzurechnungsfähigkeit belächeln. Es sind auch
+				Mängel und Schwächen darin zu finden; wir sagen dies, obwohl wir es aus dem Munde
+				einer Dame hören mußten, wie jeder Kritiker, der daran etwas zu tadeln fände, im
+				Vorhinein als „dumm“ erklärt wurde.</p>
 			<p>Das Geigen-Tremolo bei <title ref="#verdi.requiem.6">Lux aeterna</title>, mancher
 				leidenschaftliche Aufschrei der Singstimmen streifen an das Opernhafte,
 				Theatralische; der Fehler ist freilich reichlich aufgewogen durch die geniale und
 				maßvolle Malerei des Weltuntergangs. Die Parallelquinten<note resp="tr"
-					type="musicLink">Vgl. <title ref="#verdi.requiem.2.confutatis" n="oro-supplex">Oro
-						supplex</title>.</note> klingen schlecht und das <title
-					ref="#verdi.requiem.3" n="quam-olim-abrahae">quam olim Abrahae</title> mit dem
+					type="musicLink">Vgl. <title n="oro-supplex" ref="#verdi.requiem.2.confutatis"
+						>Oro supplex</title>.</note> klingen schlecht und das <title
+					n="quam-olim-abrahae" ref="#verdi.requiem.3">quam olim Abrahae</title> mit dem
 				chromatisch absteigenden Motive hätte ein Schüler auch zuwege gebracht. Aber diese
 				kleinen Schwächen verschwinden im Vergleiche zu den großartigen Schönheiten und
 				schmälern den Ruhm des Komponisten nicht.</p>
 			<p><persName ref="#akronym.emr">emr.</persName></p>
-			<p><gap resp="tr"/><note resp="tr" type="textLink">Es folgt die <ref type="text"
-						target="svb_1876-04-25_verdis-requiem-2.xml">Besprechung eines anderen
-						Autors</ref>.</note></p>
+			<p><gap resp="tr"/><note resp="tr" type="textLink">Es folgt die <ref
+						target="svb_1876-04-25_verdis-requiem-2.xml" type="text">Besprechung eines
+						anderen Autors</ref>.</note></p>
 		</body>
 	</text>
 </TEI>

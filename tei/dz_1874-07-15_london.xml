@@ -1,15 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader><fileDesc><titleStmt><title>Deutsche Zeitung, Wien, 15. Juli 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/dz_1874-07-15_london.xml</p></publicationStmt><sourceDesc><bibl>
-                <orgName ref="#deutsche-zeitung" role="publisher"/>
-                <placeName ref="#wien"/>
-                <date when-iso="1874-07-15"/>
-                <biblScope unit="issue">909</biblScope><biblScope unit="subIssue">909</biblScope><biblScope unit="volume">19</biblScope><series>dz</series>
-                <biblScope unit="page">5</biblScope>
-                <link facs="dz_1874-07-15_5.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=dzg&amp;datum=18740715&amp;seite=5"/>
-            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#london"/></creation><textClass><keywords><term type="textType">Notiz</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-    <text xml:lang="de"><body rend="fraktur">
-        <head rend="larger">Theater, Kunst und Literatur.</head>
-        <cb break="null" n="5b" type="skipped"/>
-        <p>— <rs type="event" ref="#london.1875"><persName ref="#verdi.giuseppe">Verdi’s</persName> <hi rend="widespace"><title ref="#verdi.requiem">Manzoni-Requiem</title></hi> wird vor dem Schlusse der italienischen Opern-Saison im <placeName ref="#london.covent-garden-theatre">Coventgarden-Theater</placeName> in <placeName ref="#london">London</placeName> mit den Damen <persName ref="#wildt.xxx">Wildt</persName>, <persName ref="#d-angeri.xxx">d’Angeri</persName> und Signor <persName ref="#marini.xxx">Marini</persName> als Solisten zur Aufführung gelangen.</rs></p>
-    </body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deutsche Zeitung, Wien, 15. Juli 1874</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/dz_1874-07-15_london.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#deutsche-zeitung" role="publisher"/>
+                    <placeName ref="#wien"/>
+                    <date when-iso="1874-07-15"/>
+                    <biblScope unit="issue">909</biblScope>
+                    <biblScope unit="subIssue">909</biblScope>
+                    <biblScope unit="volume">19</biblScope>
+                    <series>dz</series>
+                    <biblScope unit="page">5</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#london"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Notiz</term>
+                    <term type="corpusGroup">Aufführungsgeschichte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="dz_1874-07-15_5.jpg"
+            url="http://anno.onb.ac.at/cgi-content/anno?aid=dzg&amp;datum=18740715&amp;seite=5"
+            xml:id="f1"/>
+    </facsimile>
+    <text xml:lang="de">
+        <body rend="fraktur">
+            <head rend="larger">Theater, Kunst und Literatur.</head>
+            <cb break="null" n="5b" type="skipped"/>
+            <p>— <rs ref="#london.1875" type="event"><persName ref="#verdi.giuseppe"
+                        >Verdi’s</persName>
+                    <hi rend="widespace"><title ref="#verdi.requiem">Manzoni-Requiem</title></hi>
+                    wird vor dem Schlusse der italienischen Opern-Saison im <placeName
+                        ref="#london.covent-garden-theatre">Coventgarden-Theater</placeName> in
+                        <placeName ref="#london">London</placeName> mit den Damen <persName
+                        ref="#wildt.xxx">Wildt</persName>, <persName ref="#d-angeri.xxx"
+                        >d’Angeri</persName> und Signor <persName ref="#marini.xxx"
+                        >Marini</persName> als Solisten zur Aufführung gelangen.</rs></p>
+        </body>
+    </text>
 </TEI>

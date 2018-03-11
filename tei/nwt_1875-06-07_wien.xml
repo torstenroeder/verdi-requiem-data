@@ -12,13 +12,11 @@
                 <bibl>
                     <orgName ref="#neues-wiener-tagblatt" role="publisher"/>
                     <placeName ref="#wien"/>
-                    <date when-iso="1875-06-07" when-custom="sun"/>
-                    <biblScope unit="issue">156</biblScope><biblScope unit="subIssue"
-                        >156</biblScope><series>nwt</series>
+                    <date when-custom="sun" when-iso="1875-06-07"/>
+                    <biblScope unit="issue">156</biblScope>
+                    <biblScope unit="subIssue">156</biblScope>
+                    <series>nwt</series>
                     <biblScope unit="page">3</biblScope>
-                    <link
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750607&amp;seite=11"
-                    />
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -35,13 +33,17 @@
             <p>see http://verdi-requiem.de for a detailed description</p>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <graphic
+            url="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750607&amp;seite=11"/>
+    </facsimile>
     <text xml:lang="de">
         <body rend="fraktur">
             <pb break="null" n="3b" type="initial"/>
             <head rend="larger">Theater und Kunst.</head>
-            <p><g type="ASTERISK" n="002A">*</g>
+            <p><g n="002A" type="ASTERISK">*</g>
                 <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> hat heute
-                die <rs type="event" ref="#wien.1875.gp">erste Gesammtprobe seiner <title
+                die <rs ref="#wien.1875.gp" type="event">erste Gesammtprobe seiner <title
                         ref="#verdi.requiem">Manzoni-Messe</title></rs> persönlich dirigirt und
                 wurde bei seinem Erscheinen mit stürmischem Applaus und Hochrufen der Mitwirkenden
                 empfangen. Der Beifall wiederholte sich während der Aufführung oft und

@@ -13,23 +13,14 @@
 				<bibl>
 					<orgName ref="#neue-freie-presse" role="publisher"/>
 					<placeName ref="#wien"/>
-					<date when-iso="1875-06-24" when-custom="thu"/>
-					<biblScope unit="issue">3889</biblScope><biblScope unit="subIssue"
-						>3889</biblScope><series>nfp</series>
+					<date when-custom="thu" when-iso="1875-06-24"/>
+					<biblScope unit="issue">3889</biblScope>
+					<biblScope unit="subIssue">3889</biblScope>
+					<series>nfp</series>
 					<biblScope unit="page">1–3</biblScope>
-					<link facs="nfp_1875-06-24_1.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750624&amp;seite=1"/>
-					<link facs="nfp_1875-06-24_2.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750624&amp;seite=2"/>
-					<link facs="nfp_1875-06-24_3.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750624&amp;seite=3"
-					/>
 				</bibl>
-				<bibl>
-					<title>Nachdruck: Eduard Hanslick, Musikalische Stationen (Der „Modernen Oper“
-						II. Theil), Berlin: Allgemeiner Verein für deutsche Literatur, 1885, S.
-						3ff.</title>
-				</bibl>
+				<bibl>Nachdruck: Eduard Hanslick, Musikalische Stationen (Der „Modernen Oper“ II.
+					Theil), Berlin: Allgemeiner Verein für deutsche Literatur, 1885, S. 3ff.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -45,6 +36,14 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="nfp_1875-06-24_1.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750624&amp;seite=1"/>
+		<graphic n="nfp_1875-06-24_2.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750624&amp;seite=2"/>
+		<graphic n="nfp_1875-06-24_3.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750624&amp;seite=3"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="1" type="initial"/>
@@ -57,7 +56,7 @@
 					<persName ref="#verdi.giuseppe">Verdi</persName> mit seinen Sängern <placeName
 					ref="#wien">Wien</placeName> verlassen, und tiefe Stille liegt wieder aus
 				unserem Opernhause. Nach friedlichen Siegen ein Waffenstillstand für zwei Monate.
-					<rs type="event" ref="#wien.1875">Viermal dirigirte <persName
+					<rs ref="#wien.1875" type="event">Viermal dirigirte <persName
 						ref="#verdi.giuseppe">Verdi</persName> sein <title ref="#verdi.requiem"
 						>Requiem</title></rs>, zweimal seine „<title ref="#verdi.aida">Aïda</title>“
 				im <placeName ref="#wien.hof-operntheater">Hofopentheater</placeName>, jedesmal
@@ -259,12 +258,11 @@
 				Ausdruck religiöser Andacht (wie das <persName ref="#jahn.otto">Jahn</persName> in
 				seiner Mozart-Biographie sehr hübsch ausgeführt hat<note resp="tr"
 					type="literatureLink">Vgl. <persName ref="#jahn.otto">Otto Jahn</persName>, <ref
-						type="text"
-						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA709">W. A.
-						Mozart, 4. Theil (Leipzig 1859), S. 709, Anm. 56</ref>.</note>), trotzdem
-				machen unsere Componisten keine Kirchenmusik ohne Fuge; das klingt oft recht
-				widerwillig, wie ein Citat aus <persName ref="#cicero.marcus-tullius"
-					>Cicero</persName> De officiis. Selbst <persName
+						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA709"
+						type="text">W. A. Mozart, 4. Theil (Leipzig 1859), S. 709, Anm.
+					56</ref>.</note>), trotzdem machen unsere Componisten keine Kirchenmusik ohne
+				Fuge; das klingt oft recht widerwillig, wie ein Citat aus <persName
+					ref="#cicero.marcus-tullius">Cicero</persName> De officiis. Selbst <persName
 					ref="#mendelssohn-bartholdy.felix">Mendelssohn</persName>, der die Künste <cb
 					break="yes" n="2c" type="regular"/>gelehrter Musik mit größerer Meisterschaft,
 				jedenfalls mit mehr Klarheit und Anmuth handhabte, als die meisten Modernen, scheint
@@ -282,13 +280,13 @@
 				<title ref="#verdi.requiem">Requiem</title> liegen glücklicherweise inmitten eines
 				blühenden Gartens. Gleich der A-moll-Satz zu Anfang (<title ref="#verdi.requiem.1"
 					>Requiem aeternam</title>) ist ungemein schön in dem Ausdrucke ruhiger, gefaßter
-				Trauer, und wie ein milder Sonnenstrahl fällt das A-dur-Motiv „<title
-					ref="#verdi.requiem.1" n="et-lux">et lux</title>“ ein. Das „<title
-					ref="#verdi.requiem.2">Dies irae</title>“, effectvoll mit ziemlich grellen
-				Farben gemalt, erinnert an die bekannten Fresken im Campo Santo zu <placeName
-					ref="#pisa">Pisa</placeName>, welche alle Schrecken des jüngsten Gerichtes, des
-				Fegefeuers und der Hölle mit so erbarmungsloser Anschaulichkeit darstellen. Das
-					„<title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title>“ durch einander
+				Trauer, und wie ein milder Sonnenstrahl fällt das A-dur-Motiv „<title n="et-lux"
+					ref="#verdi.requiem.1">et lux</title>“ ein. Das „<title ref="#verdi.requiem.2"
+					>Dies irae</title>“, effectvoll mit ziemlich grellen Farben gemalt, erinnert an
+				die bekannten Fresken im Campo Santo zu <placeName ref="#pisa">Pisa</placeName>,
+				welche alle Schrecken des jüngsten Gerichtes, des Fegefeuers und der Hölle mit so
+				erbarmungsloser Anschaulichkeit darstellen. Das „<title
+					ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title>“ durch einander
 				antwortende, an die vier Ecken des Orchesters postirte Trompeten- und Posaunenrufe
 				zu versinnlichen, ist eine Idee, die <persName ref="#verdi.giuseppe"
 					>Verdi</persName> dem <title ref="#berlioz.grande-messe-des-morts"
@@ -301,32 +299,32 @@
 				verwendet zu diesem Effecte vier verschiedene Orchester von Blech-Instrumenten und
 				acht Paar Pauken! Von dem rollenden Donner des „<title
 					ref="#verdi.requiem.2.rex-tremendae">Rex tremendae majestatis</title>“ hebt sich
-				die innig flehende Melodie „<title ref="#verdi.requiem.2.rex-tremendae" n="salva-me"
+				die innig flehende Melodie „<title n="salva-me" ref="#verdi.requiem.2.rex-tremendae"
 					>Salva me</title>“ ungemein schön ab; es folgt das durch den bezaubernden
 				Zusammenhang der beiden Frauenstimmen so einschmeichelnde Duo „<title
 					ref="#verdi.requiem.2.recordare">Recordare</title>“, ein Strom von Wohllaut,
 				wenn auch knapp an dem Gestade der Oper fließend — dann schlagen wieder die Flammen
-				des „<title ref="#verdi.requiem.2.confutatis" n="dies-irae">Dies irae</title>“
-				lodernd in die Höhe. Ein Tenorsolo in Es-dur („<title
-					ref="#verdi.requiem.2.ingemisco" n="qui-mariam">Qui Mariam absolvisti</title>“)
-				erinnert durch seinen Wechsel zwischen der großen und übermäßigen Quinte in der
-				Begleitung an ähnliche Wendungen in der „<title ref="#verdi.aida">Aïda</title>“;
-				dieser unschuldige Anklang ist aber auch die einzige Reminiscenz <pb break="yes"
-					n="3" type="regular"/>an jene Oper, die mit in <persName ref="#verdi.giuseppe"
+				des „<title n="dies-irae" ref="#verdi.requiem.2.confutatis">Dies irae</title>“
+				lodernd in die Höhe. Ein Tenorsolo in Es-dur („<title n="qui-mariam"
+					ref="#verdi.requiem.2.ingemisco">Qui Mariam absolvisti</title>“) erinnert durch
+				seinen Wechsel zwischen der großen und übermäßigen Quinte in der Begleitung an
+				ähnliche Wendungen in der „<title ref="#verdi.aida">Aïda</title>“; dieser
+				unschuldige Anklang ist aber auch die einzige Reminiscenz <pb break="yes" n="3"
+					type="regular"/>an jene Oper, die mit in <persName ref="#verdi.giuseppe"
 					>Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> auffiel. Beide Werke stehen so
 				selbstständig und eigenthümlich neben einander, wie es eben zwei Compositionen
 				desselben Autors vermögen. Es sei noch das vierstimmige <title
-					ref="#verdi.requiem.3">Offertorium</title> „<title ref="#verdi.requiem.3"
-					n="domine-jesu">Domine Jesu</title>“, mit dem einfachen und doch rhythmisch so
-				belebenden Mittelsatze „<title ref="#verdi.requiem.3" n="quam-olim-abrahae">Quam
-					olim Abrahae</title>“, als ein Satz von schön gegliederter Architektur und
-				ungemeinem Klangzauber hervorgehoben; dann das „<title ref="#verdi.requiem.5">Agnus
-					Dei</title>“, dessen etwas psalmodische Sopran-Melodie durch das Mitsingen der
-				Altstimme in der tieferen Octave ein sehr stimmungsvolles Halbdunkel gewinnt;
-				endlich das rührende, sanfte Ausklingen des ganzen Werkes auf die immer leiser
-				hingehauchten Worte „<title ref="#verdi.requiem.7" n="libera-me">Libera
-				me</title>“!</p>
+					ref="#verdi.requiem.3">Offertorium</title> „<title n="domine-jesu"
+					ref="#verdi.requiem.3">Domine Jesu</title>“, mit dem einfachen und doch
+				rhythmisch so belebenden Mittelsatze „<title n="quam-olim-abrahae"
+					ref="#verdi.requiem.3">Quam olim Abrahae</title>“, als ein Satz von schön
+				gegliederter Architektur und ungemeinem Klangzauber hervorgehoben; dann das „<title
+					ref="#verdi.requiem.5">Agnus Dei</title>“, dessen etwas psalmodische
+				Sopran-Melodie durch das Mitsingen der Altstimme in der tieferen Octave ein sehr
+				stimmungsvolles Halbdunkel gewinnt; endlich das rührende, sanfte Ausklingen des
+				ganzen Werkes auf die immer leiser hingehauchten Worte „<title n="libera-me"
+					ref="#verdi.requiem.7">Libera me</title>“!</p>
 			<p><persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> enthält neben großen Schönheiten auch
 				manche schwache Stelle, sogar einiges Unschöne (wie die mit sonderbarer
@@ -343,11 +341,10 @@
 				Fleisches erstickt. Italien darf sich dieses Werkes rühmen, und wir dürfen uns
 				dessen aufrichtig mitfreuen, ohne darum in Uebertreibungen zu verfallen, wie die, es
 				sei dieses Requiem „die bedeutendste Tondichtung des Jahrhunderts“<note resp="tr"
-					type="textLink">Vgl. <ref type="text"
-						target="iwe_1875-06-10_die-manzoni-messe-verdis.xml">Illustrirtes Wiener
-						Extrablatt, 10. Juni 1875</ref>.</note>. Nicht einmal die bedeutendste
-				Kirchenmusik dieses Decenniums! Denn so kindlich wird wol Niemand sein, <persName
-					ref="#verdi.giuseppe">Verdi’s</persName>
+					type="textLink">Vgl. <ref target="iwe_1875-06-10_die-manzoni-messe-verdis.xml"
+						type="text">Illustrirtes Wiener Extrablatt, 10. Juni 1875</ref>.</note>.
+				Nicht einmal die bedeutendste Kirchenmusik dieses Decenniums! Denn so kindlich wird
+				wol Niemand sein, <persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Manzoni-Messe</title> mit dem „<title
 					ref="#brahms.requiem">Deutschen Requiem</title>“ von <persName
 					ref="#brahms.johannes">Brahms</persName> auf Eine Höhe zu stellen. Zum Glücke

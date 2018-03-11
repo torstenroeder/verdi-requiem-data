@@ -13,20 +13,19 @@
 				<bibl>
 					<orgName ref="#euterpe" role="publisher"/>
 					<placeName ref="#leipzig"/>
-					<date cert="low" when-iso="1876-06-30" notAfter-iso="1876-06-30"
-						notBefore-iso="1876-06-21"/>
+					<date cert="low" notAfter-iso="1876-06-30" notBefore-iso="1876-06-21"
+						when-iso="1876-06-30"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach der Aufführung-->
-					<biblScope unit="issue">7</biblScope><biblScope unit="volume"
-						>35</biblScope><series>euterpe</series>
+					<biblScope unit="issue">7</biblScope>
+					<biblScope unit="volume">35</biblScope>
+					<series>euterpe</series>
 					<biblScope unit="page">130–131</biblScope>
-					<link facs="euterpe_35-07_130.png"/>
-					<link facs="euterpe_35-07_131.png"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#heilbronn"/><date when-iso="1876-06-21"
-					notBefore-iso="1876-06-21"/></creation>
+			<creation><placeName ref="#heilbronn"/><date notBefore-iso="1876-06-21"
+					when-iso="1876-06-21"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -38,6 +37,8 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--<graphic n="euterpe_35-07_130.png"/>-->
+	<!--<graphic n="euterpe_35-07_131.png"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb n="130"/>
@@ -47,7 +48,7 @@
 					Manzoni’s</persName> componirt.</head>
 			<head rend="smaller">Von <persName ref="#koestlin.heinrich-adolf">H. A. <hi
 						rend="widespace">Köstlin</hi></persName>.</head>
-			<p>Ihr Mitarbeiter hatte gestern Gelegenheit, <rs type="event" ref="#heilbronn.1876"
+			<p>Ihr Mitarbeiter hatte gestern Gelegenheit, <rs ref="#heilbronn.1876" type="event"
 						><persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">„Requiem“</title> mit tüchtiger Besetzung in der
 						<placeName ref="#heilbronn.st-kilian">St. Kilianskirche</placeName> zu
@@ -112,7 +113,7 @@
 				Tannhäuser</title><!--*REFERENZ genaue Stelle im Tannhäuser?-->; andre Stellen mit
 				auffallend hohen Geigentönen und Tremolo’s erinnern an die Graal’smusik im <title
 					ref="#wagner.lohengrin">Lohengrin</title><note resp="tr" type="musicLink">Vgl.
-						<title ref="#verdi.requiem.6" key="bar:1">Lux aeterna</title>, Takt 1ff (WGV
+						<title key="bar:1" ref="#verdi.requiem.6">Lux aeterna</title>, Takt 1ff (WGV
 					S. 191) und <title ref="#wagner.lohengrin">Lohengrin</title>, 3. Akt, Takt
 					1228ff (RWSW S. 139).</note>; das „<hi rend="antiqua"><title
 						ref="#verdi.requiem.5">Agnus Dei</title></hi>“, welches im Tone der
@@ -120,18 +121,18 @@
 					<orig>Tenor</orig>
 					<corr resp="tr">Mezzosopran</corr>
 				</choice><note resp="tr" type="eventCommentary">Eigentlich Sopran und Mezzosopran,
-					jedoch könnte die Besetzung umgestellt worden sein; vgl. <ref type="text"
-						target="bk_1875-12-12_muenchen.xml">Bayerischer Kurier, München, 12.
-						Dezember 1875</ref>.</note> in Octaven gesungen wird, mahnt uns fast an die
-				realistischen Effecte <persName ref="#meyerbeer.giacomo">Meyerbeer’s</persName>;
+					jedoch könnte die Besetzung umgestellt worden sein; vgl. <ref
+						target="bk_1875-12-12_muenchen.xml" type="text">Bayerischer Kurier, München,
+						12. Dezember 1875</ref>.</note> in Octaven gesungen wird, mahnt uns fast an
+				die realistischen Effecte <persName ref="#meyerbeer.giacomo">Meyerbeer’s</persName>;
 				doch sind die wunderschönen Chor-Einklänge im <hi rend="antiqua"><title
 						ref="#verdi.requiem.5">Agnus Dei</title></hi> ganz geeignet, für den
 				plötzlich in unsere Nase eindringenden Lampengeruch<note resp="tr" type="commentary"
 					>Bezogen auf den typischen Geruch der Beleuchtung in Bühnenhäusern.</note> uns
-				zu entschädigen. Auch im „<hi rend="antiqua"><title
-						ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu</title></hi>“ (Offertorium)
-				ist uns der „Pfaffengesang“ theilweise zu realistisch imitirt: das gehört auf den
-				Altar, nicht auf den <emph rend="widespace">Chor</emph>.</p>
+				zu entschädigen. Auch im „<hi rend="antiqua"><title n="domine-jesu"
+						ref="#verdi.requiem.3">Domine Jesu</title></hi>“ (Offertorium) ist uns der
+				„Pfaffengesang“ theilweise zu realistisch imitirt: das gehört auf den Altar, nicht
+				auf den <emph rend="widespace">Chor</emph>.</p>
 			<p>Verräth in allen diesen Zügen <persName ref="#verdi.giuseppe">Verdi</persName> den
 				Eklektiker, der von der neuesten deutschen Richtung stark beeinflußt ist, so tritt
 				uns in der Behandlung der Singstimmen der Italiener entgegen der es nicht über das
@@ -147,8 +148,8 @@
 				von schöner Wirkung ist jedoch das Baßsolo: „<hi rend="antiqua"><title
 						ref="#verdi.requiem.2.confutatis">Confutatis maledictis</title></hi>“ (<hi
 					rend="antiqua">H moll</hi>) trotz einer starrenden Quintenfolge; ergreifend ist
-				namentlich das Sätzchen „<hi rend="antiqua"><title
-						ref="#verdi.requiem.2.confutatis" n="oro-supplex">oro <choice>
+				namentlich das Sätzchen „<hi rend="antiqua"><title n="oro-supplex"
+						ref="#verdi.requiem.2.confutatis">oro <choice>
 							<orig>suppase</orig>
 							<corr resp="tr">supplex</corr>
 						</choice> et acclinis</title></hi>“ gesetzt, das tieftraurige „<hi

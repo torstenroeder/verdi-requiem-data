@@ -18,8 +18,6 @@
 					<title>Lilli Lehmann: Mein Weg. Leipzig: Hirzel, 1913.</title>
 					<date when-iso="1913-00-00"/>
 					<biblScope unit="page">15–16</biblScope>
-					<link target="https://archive.org/stream/meinweg00lehm#page/15/mode/1up"/>
-					<link target="https://archive.org/stream/meinweg00lehm#page/16/mode/1up"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,10 +34,14 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic url="https://archive.org/stream/meinweg00lehm#page/15/mode/1up" xml:id="f1"/>
+		<graphic url="https://archive.org/stream/meinweg00lehm#page/16/mode/1up" xml:id="f2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<p><pb break="null" n="15" type="initial"/>
-				<rs type="event" ref="#berlin.1876.1">Der <date when-iso="1876-04-15">15. April
+			<p><pb break="null" facs="#f1" n="15" type="initial"/>
+				<rs ref="#berlin.1876.1" type="event">Der <date when-iso="1876-04-15">15. April
 						1876</date> brachte ein Ereignis für mich: <persName ref="#verdi.giuseppe"
 						>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“, das wir im
 						<placeName ref="#berlin.hofoper">Königlichen Opernhause</placeName> dreimal
@@ -57,9 +59,9 @@
 				stets fühlte ich mit Bestimmtheit, daß ich die einzige Mitwirkende war, welche der
 				tief religiösen Empfindung, der Heiligkeit der Handlung im Ausdruck gerecht wurde.
 				Vielleicht lag es an meiner mir wohlbewußten italienischen Stilkenntnis. Etwas mußte
-				schon an diesem Gefühle richtig sein, <pb break="yes" n="16" type="regular"/> denn
-					<rs type="event" ref="#koeln.1877.musikfest.2">als wir: <persName
-						ref="#ernst.heinrich">Heinrich Ernst</persName>, <persName
+				schon an diesem Gefühle richtig sein, <pb break="yes" facs="#f2" n="16"
+					type="regular"/> denn <rs ref="#koeln.1877.musikfest.2" type="event">als wir:
+						<persName ref="#ernst.heinrich">Heinrich Ernst</persName>, <persName
 						ref="#henschel.georg">Georg Hentschel</persName>, <persName
 						ref="#brandt.marianne">Marianne Brandt</persName> und ich beim Kölner
 					Musikfest <date when-iso="1877">77</date> das <title ref="#verdi.requiem"

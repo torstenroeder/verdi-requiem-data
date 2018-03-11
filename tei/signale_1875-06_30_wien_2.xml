@@ -12,14 +12,12 @@
 				<bibl>
 					<orgName ref="#signale" role="publisher"/>
 					<placeName ref="#leipzig"/>
-					<date cert="low" when-iso="1875-06-30" notAfter-iso="1875-06-30"
-						notBefore-iso="1875-06-14"/>
+					<date cert="low" notAfter-iso="1875-06-30" notBefore-iso="1875-06-14"
+						when-iso="1875-06-30"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach dem Erscheinen der Quelle-->
-					<biblScope unit="issue">30</biblScope><biblScope unit="volume">33</biblScope>
+					<biblScope unit="issue">30</biblScope>
+					<biblScope unit="volume">33</biblScope>
 					<biblScope unit="page">474</biblScope>
-					<link
-						target="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n479/mode/1up"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,10 +34,16 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic
+			url="https://archive.org/stream/SignaleFuerDieMusikalischeWelt33Jg1875#page/n479/mode/1up"
+		/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
-				<rs type="event" ref="#wien.1875.1"><hi rend="widespace"><persName
+			<pb n="474"/>
+			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
+				<rs ref="#wien.1875.1" type="event"><hi rend="widespace"><persName
 							ref="#verdi.giuseppe">Verdi’s</persName>
 						<title ref="#verdi.requiem">Requiem</title></hi> ist in <placeName
 						ref="#wien">Wien</placeName> im <placeName ref="#wien.hof-operntheater"
@@ -76,9 +80,9 @@
 					>Fremdenblatt</orgName>“, „wird man an diesen Verdi-Abend lange zurückdenken.
 				Jenes Soloquartett im Vereine mit den übrigen herrlichen Kräften musiciren zu hören,
 				war ein Genuß, wie er dem Menschen nur an den hohen Festtagen der Kunst bescheert
-					wird.“<note resp="tr" type="textLink">Vgl. <ref type="text"
-						target="fb_1875-06-13_theater-und-kunst.xml">Fremden-Blatt, Wien, 13. Juni
-						1875</ref>.</note></p>
+					wird.“<note resp="tr" type="textLink">Vgl. <ref
+						target="fb_1875-06-13_theater-und-kunst.xml" type="text">Fremden-Blatt,
+						Wien, 13. Juni 1875</ref>.</note></p>
 		</body>
 	</text>
 </TEI>

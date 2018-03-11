@@ -1,17 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 21. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-04-21_salzburg.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#nzfm" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-04-21"/>
-				<biblScope unit="issue">17</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
-				<biblScope unit="page">175 [7]</biblScope>
-				<link facs="nzfm_1876-04-21_175.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760421&amp;seite=7"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#salzburg"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="173b" type="initial"/>
-		<head rend="larger">Tagesgeschichte.</head>
-		<head>Aufführungen.</head>
-		<pb break="null" n="175" type="skipped"/>
-		<p><rs type="event" ref="#salzburg.1876.1"><placeName ref="#salzburg">Salzburg</placeName>. <date when-iso="1876-04-23">Am 23.</date> <persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Requiem</title> mit der Gräfin <persName ref="#gatterburg.hedwig">Gatterburg</persName>, Frl. <persName ref="#voigt.gabriele">Voigt</persName> (Sopran), Hrn. <persName ref="#huber.franz">Huber</persName> (Tenor) und Hrn. <persName ref="#schuegraf.eduard">Schuegraft</persName> aus <placeName ref="#muenchen">München</placeName>.</rs> —</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>NZfM, Leipzig, 21. April 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nzfm_1876-04-21_salzburg.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nzfm" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-04-21"/>
+					<biblScope unit="issue">17</biblScope>
+					<biblScope unit="volume">72</biblScope>
+					<series>nzfm</series>
+					<biblScope unit="page">175 [7]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#salzburg"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Ankündigung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nzfm_1876-04-21_175.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760421&amp;seite=7"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="173b" type="initial"/>
+			<head rend="larger">Tagesgeschichte.</head>
+			<head>Aufführungen.</head>
+			<pb break="null" n="175" type="skipped"/>
+			<p><rs ref="#salzburg.1876.1" type="event"><hi rend="widespace"><placeName ref="#salzburg"
+							>Salzburg</placeName></hi>. <date when-iso="1876-04-23">Am 23.</date>
+					<persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> mit der
+					Gräfin <persName ref="#gatterburg.hedwig">Gatterburg</persName>, Frl. <persName
+						ref="#voigt.gabriele">Voigt</persName> (Sopran), Hrn. <persName
+						ref="#huber.franz">Huber</persName> (Tenor) und Hrn. <persName
+						ref="#schuegraf.eduard">Schuegraft</persName> aus <placeName ref="#muenchen"
+						>München</placeName>.</rs> —</p>
+		</body>
+	</text>
 </TEI>

@@ -13,11 +13,9 @@
                     <orgName ref="#mwb" role="publisher"/>
                     <placeName ref="#leipzig"/>
                     <date when-iso="1876-05-26"/>
-                    <biblScope unit="issue">22</biblScope><biblScope unit="volume">7</biblScope>
+                    <biblScope unit="issue">22</biblScope>
+                    <biblScope unit="volume">7</biblScope>
                     <biblScope unit="page">288</biblScope>
-                    <link facs="mwb_1876-05-26_288.jpg"
-                        target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=8"
-                    />
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -34,13 +32,20 @@
             <p>see http://verdi-requiem.de for a detailed description</p>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <graphic n="mwb_1876-05-26_288.jpg"
+            url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=8"
+            xml:id="f1"/>
+    </facsimile>
     <text xml:lang="de">
         <body rend="antiqua">
-            <head rend="larger">Vermischte Mittheilungen und Notizen.</head>
-            <cb break="null" n="288b" type="skipped"/>
-            <p><g type="ASTERISK" n="002A">*</g>
-                <rs type="event" ref="#olmuetz.1876">In <placeName ref="#olmuetz">Olmütz</placeName>
-                    kam <persName ref="#verdi.giuseppe">Verdi’s</persName>
+            <pb n="288" type="initial"/>
+            <head rend="bold lineale">Vermischte Mittheilungen und Notizen.</head>
+            <cb break="null" facs="#f1" n="288b" type="skipped"/>
+            <p><g n="002A" type="ASTERISK">*</g>
+                <rs ref="#olmuetz.1876" type="event">In <hi rend="widespace"><placeName
+                            ref="#olmuetz">Olmütz</placeName></hi> kam <hi rend="widespace"
+                            ><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
                     <title ref="#verdi.requiem">Requiem</title> kürzlich vier<note resp="tr"
                         type="eventCommentary">Bislang nur zwei Aufführungen belegbar.</note> Mal
                     zur Aufführung.</rs> Das Werk hat dort sehr gefallen.</p>

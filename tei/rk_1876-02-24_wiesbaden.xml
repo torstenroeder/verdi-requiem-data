@@ -13,8 +13,8 @@
 					<orgName ref="#rheinischer-kurier" role="publisher"/>
 					<placeName ref="#wiesbaden"/>
 					<date when-iso="1876-02-24"/>
-					<biblScope unit="issue">76</biblScope><series>rheinischer-kurier</series>
-					<link facs="rk_1876-02-24.png"/>
+					<biblScope unit="issue">76</biblScope>
+					<series>rheinischer-kurier</series>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -31,18 +31,19 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--<graphic n="rk_1876-02-24.png"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Kunst, Literatur und Wissenschaft.</head>
-			<p><g type="BOX_DRAWINGS_DOUBLE_HORIZONTAL" n="2550">═</g>
-				<rs type="event" ref="#wiesbaden.1876.1"><hi rend="bold"><placeName ref="#wiesbaden"
+			<p><g n="2550" type="BOX_DRAWINGS_DOUBLE_HORIZONTAL">═</g>
+				<rs ref="#wiesbaden.1876.1" type="event"><hi rend="bold"><placeName ref="#wiesbaden"
 							>Wiesbaden</placeName>,</hi>
 					<date when-iso="1876-02-23">23. Febr.</date> (<hi rend="widespace"
 					>Theater</hi>.) Die gestrige erste Aufführung des <persName
 						ref="#verdi.giuseppe">Verdi’schen</persName>
 					<title ref="#verdi.requiem">Requiems</title> fiel glänzend aus und wurde mit
 					großem Beifalle aufgenommen.</rs>
-				<rs type="event" ref="#wiesbaden.1876.2">Das nächste Symphonie-Concert findet
+				<rs ref="#wiesbaden.1876.2" type="event">Das nächste Symphonie-Concert findet
 						<date>Freitag den 25. Februar d. J.</date> statt. Statt der ursprünglich in
 					Aussicht genommenen <persName ref="#beethoven.ludwig-van"
 						>Beethoven’schen</persName>

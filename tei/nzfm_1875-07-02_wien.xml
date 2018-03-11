@@ -1,27 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 2. Juli 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1875-07-02_verdis-aida.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#nzfm" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1875-07-02"/>
-				<biblScope unit="issue">27</biblScope><biblScope unit="volume">71</biblScope><series>nzfm</series>
-				<biblScope unit="page">275 [7]</biblScope>
-				<link facs="nzfm_1875-07-02_275.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18750702&amp;seite=7"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<pb break="null" n="275" type="initial"/>
-		<head rend="larger">Tagesgeschichte.</head>
-		<cb break="null" n="275b" type="skipped"/>
-		<head>Neue und neu einstudirte Opern.</head>
-		<gap resp="tr"/>
-		<p><hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi> „<title ref="#verdi.aida">Aida</title>“ macht in <placeName ref="#wien">Wien</placeName> ebenso volle
-			Häuser wie sein <title ref="#verdi.requiem">Manzoni-Requiem</title>. Der Enthusiasmus hat
-			nahezu die ganze Stadt angesteckt (ganz ähnlich wie einst bei <persName ref="#rossini.gioachino">Rossini</persName>, als „<title ref="#beethoven.fidelio">Fidelio</title>“ vollständig vergessen wurde); <persName ref="#verdi.giuseppe">Verdi</persName> ist jetzt bei den Wienern der populärste Mann, in allen Wein- und
-			Biergärten werden sogn. „Verdifeiern“ mit und ohne Illumination inscenirt, alle
-			Leierkasten drehen den <hi rend="antiqua"><title ref="#verdi.il-trovatore">Trovatore</title></hi> bis zur <hi rend="antiqua"><title ref="#verdi.aida">Aida</title></hi> herunter. Die hervorragendsten Kritiker sind von dem
-			allgemeinen Rausch in kaum glaublicher Weise angesteckt und wissen nicht genug von der
-			gediegenen Erfindung und feinen Ausarbeitung beider Werke zu rühmen. Theilweise
-			Erklärung findet diese Erscheinung dadurch, daß in <placeName ref="#wien">Wien</placeName>
-			zahlreiche Italiener leben und überhaupt südlich-gemüthliche Geschmacksrichtung dort
-			überwiegt. —</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>NZfM, Leipzig, 2. Juli 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nzfm_1875-07-02_verdis-aida.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nzfm" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1875-07-02"/>
+					<biblScope unit="issue">27</biblScope>
+					<biblScope unit="volume">71</biblScope>
+					<series>nzfm</series>
+					<biblScope unit="page">275 [7]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nzfm_1875-07-02_275.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18750702&amp;seite=7"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="275" type="initial"/>
+			<head rend="larger">Tagesgeschichte.</head>
+			<cb break="null" n="275b" type="skipped"/>
+			<head rend="bold">Neue und neu einstudirte Opern.</head>
+			<gap resp="tr"/>
+			<p><hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi> „<title
+					ref="#verdi.aida">Aida</title>“ macht in <placeName ref="#wien">Wien</placeName>
+				ebenso volle Häuser wie sein <title ref="#verdi.requiem">Manzoni-Requiem</title>.
+				Der Enthusiasmus hat nahezu die ganze Stadt angesteckt (ganz ähnlich wie einst bei
+					<persName ref="#rossini.gioachino">Rossini</persName>, als „<title
+					ref="#beethoven.fidelio">Fidelio</title>“ vollständig vergessen wurde);
+					<persName ref="#verdi.giuseppe">Verdi</persName> ist jetzt bei den Wienern der
+				populärste Mann, in allen Wein- und Biergärten werden sogn. „Verdifeiern“ mit und
+				ohne Illumination inscenirt, alle Leierkasten drehen den <hi rend="antiqua"><title
+						ref="#verdi.il-trovatore">Trovatore</title></hi> bis zur <hi rend="antiqua"
+						><title ref="#verdi.aida">Aida</title></hi> herunter. Die hervorragendsten
+				Kritiker sind von dem allgemeinen Rausch in kaum glaublicher Weise angesteckt und
+				wissen nicht genug von der gediegenen Erfindung und feinen Ausarbeitung beider Werke
+				zu rühmen. Theilweise Erklärung findet diese Erscheinung dadurch, daß in <placeName
+					ref="#wien">Wien</placeName> zahlreiche Italiener leben und überhaupt
+				südlich-gemüthliche Geschmacksrichtung dort überwiegt. —</p>
+		</body>
+	</text>
 </TEI>

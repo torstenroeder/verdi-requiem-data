@@ -1,20 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 22. Oktober 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1875-10-22_bruessel.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#nzfm" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1875-10-22"/>
-				<biblScope unit="issue">43</biblScope><biblScope unit="volume">71</biblScope><series>nzfm</series>
-				<biblScope unit="page">424 [4]</biblScope>
-				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18751022&amp;seite=4"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#bruessel"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="424b" type="initial"/>
-		<head rend="larger">Tagesgeschichte.</head>
-		<head>Aufführungen.</head>
-		<gap resp="tr"/>
-		<p><rs type="event" ref="#bruessel.1875.1"><placeName ref="#bruessel">Brüssel</placeName>. <persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> soll daselbst <date when-iso="1875-12" notAfter-iso="1875-12-15">Anfang Dezember</date>
-				<placeName ref="#bruessel.la-monnaie">im Théatre de la Monnaie</placeName> zur Aufführung
-				kommen</rs>.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>NZfM, Leipzig, 22. Oktober 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nzfm_1875-10-22_bruessel.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nzfm" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1875-10-22"/>
+					<biblScope unit="issue">43</biblScope>
+					<biblScope unit="volume">71</biblScope>
+					<series>nzfm</series>
+					<biblScope unit="page">424 [4]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bruessel"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Ankündigung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18751022&amp;seite=4"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="424b" type="initial"/>
+			<head rend="larger">Tagesgeschichte.</head>
+			<head rend="bold">Aufführungen.</head>
+			<gap resp="tr"/>
+			<p><rs ref="#bruessel.1875.1" type="event"><hi rend="widespace"><placeName ref="#bruessel"
+							>Brüssel</placeName></hi>. <persName ref="#verdi.giuseppe"
+						>Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> soll daselbst <date
+						notAfter-iso="1875-12-15" when-iso="1875-12">Anfang December</date>
+					<hi rend="antiqua"><placeName ref="#bruessel.la-monnaie">im Théatre de la
+							Monnaie</placeName></hi> zur Aufführung kommen</rs>.</p>
+		</body>
+	</text>
 </TEI>

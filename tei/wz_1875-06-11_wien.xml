@@ -1,21 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Wiener Zeitung, 11. Juni 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wz_1875-06-11_theater-von-heute.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#wiener-zeitung" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-11" when-custom="fri"/>
-				<biblScope unit="issue">131</biblScope><biblScope unit="subIssue">131</biblScope><series>wz</series>
-				<biblScope unit="page">6</biblScope>
-				<link facs="wap_1875-06-11_6.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750611&amp;seite=14"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Anzeige</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Theater von heute.</head>
-		<gap resp="tr"/>
-		<p><rs type="event" ref="#wien.1875.1"><hi rend="bold"><placeName ref="#wien.hof-operntheater">Hofoperntheater.</placeName></hi> Unter persönlicher Leitung des Componisten
-					<persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>. „<title ref="#verdi.requiem">Requiem</title>“ für Soli, Chor und Orchester. (Erste Aufführung in <placeName ref="#wien">Wien</placeName>.) Soli: Sigra. <persName ref="#stolz.teresa">Teresa
-					Stolz</persName>, Sgra. <persName ref="#waldmann.maria">Maria Waldmann</persName>,
-				Sigr. <persName ref="#masini.angelo">Angelo Masini</persName>, Sigr. <persName ref="#medini.paolo">Paolo Medini</persName>. Chor (150 Mitwirkende): der gesammte
-				Chor der <placeName ref="#wien.hof-operntheater">k. k. Hofoper</placeName>, verstärkt durch
-				Mitglieder des <orgName ref="#wien.akademischer-gesangverein">akademischen
-					Gesangvereines</orgName>. Instrumentale: das Orchester der <placeName ref="#wien.hof-operntheater">k. k. Hofoper</placeName>.</rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Wiener Zeitung, 11. Juni 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/wz_1875-06-11_theater-von-heute.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#wiener-zeitung" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="fri" when-iso="1875-06-11"/>
+					<biblScope unit="issue">131</biblScope>
+					<biblScope unit="subIssue">131</biblScope>
+					<series>wz</series>
+					<biblScope unit="page">6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Anzeige</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="wap_1875-06-11_6.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750611&amp;seite=14"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Theater von heute.</head>
+			<gap resp="tr"/>
+			<p><rs ref="#wien.1875.1" type="event"><hi rend="bold"><placeName
+							ref="#wien.hof-operntheater">Hofoperntheater.</placeName></hi> Unter
+					persönlicher Leitung des Componisten <persName ref="#verdi.giuseppe">Giuseppe
+						Verdi</persName>. „<title ref="#verdi.requiem">Requiem</title>“ für Soli,
+					Chor und Orchester. (Erste Aufführung in <placeName ref="#wien"
+					>Wien</placeName>.) Soli: Sigra. <persName ref="#stolz.teresa">Teresa
+						Stolz</persName>, Sgra. <persName ref="#waldmann.maria">Maria
+						Waldmann</persName>, Sigr. <persName ref="#masini.angelo">Angelo
+						Masini</persName>, Sigr. <persName ref="#medini.paolo">Paolo
+						Medini</persName>. Chor (150 Mitwirkende): der gesammte Chor der <placeName
+						ref="#wien.hof-operntheater">k. k. Hofoper</placeName>, verstärkt durch
+					Mitglieder des <orgName ref="#wien.akademischer-gesangverein">akademischen
+						Gesangvereines</orgName>. Instrumentale: das Orchester der <placeName
+						ref="#wien.hof-operntheater">k. k. Hofoper</placeName>.</rs></p>
+		</body>
+	</text>
 </TEI>

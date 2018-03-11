@@ -1,18 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader><fileDesc><titleStmt><title>Wiener Zeitung, 30. April 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wz_1874-04-30_mailand.xml</p></publicationStmt><sourceDesc><bibl>
-                <orgName ref="#wiener-zeitung" role="publisher"/>
-                <placeName ref="#wien"/>
-                <date when-iso="1874-04-30" when-custom="thu"/>
-                <biblScope unit="issue">98</biblScope><biblScope unit="subIssue">98</biblScope><series>wz</series>
-                <biblScope unit="page">779 [3]</biblScope>
-                <link facs="wz_1874-05-26_779.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740430&amp;seite=23"/>
-            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#mailand"/></creation><textClass><keywords><term type="textType">Ankündigung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-    <text xml:lang="de"><body rend="fraktur">
-        <cb break="null" n="778b" type="initial"/>
-        <head rend="larger">Kleine Chronik.</head>
-        <p rend="smaller center"><hi rend="bold"><placeName ref="#wien">Wien</placeName>,</hi>
-            <date when-iso="1874-03-30">30. April</date>.</p>
-        <pb break="null" n="779" type="skipped"/>
-        <p rend="smaller">(<hi rend="widespace">Ein <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName></hi>.) Wie wir schon einmal mitgetheilt, hat <persName ref="#verdi.giuseppe">Verdi</persName> ein <title ref="#verdi.requiem">Requiem</title> zu Ehren <persName ref="#manzoni.alessandro">Manzoni’s</persName> componirt, <rs type="event" ref="#mailand.1874.1">das am Todestage des letzteren, am <date when-iso="1874-05-22">22. Mai d. J.</date>, in der Kirche zu <placeName ref="#mailand.san-marco">San Marco</placeName> in <placeName ref="#mailand">Mailand</placeName> zur Aufführung kommen soll</rs>. <persName ref="#verdi.giuseppe">Verdi</persName> selbst wird die Aufführung leiten, an der nach der „<orgName ref="#gazzetta-musicale-di-milano">Gazz. musicale</orgName>“ 120 Choristen und 100 Orchestermitglieder mitwirken werden. Die Soli werden von den Damen <persName ref="#stolz.teresa">Stolz</persName> und <persName ref="#waldmann.maria">Waldmann</persName> und den Herren <persName ref="#capponi.giuseppe">Capponi</persName> und <persName ref="#maini.armando">Maini</persName> vorgetragen werden. Wie das genannte Blatt beifügt, laufen aus allen Theilen <placeName ref="#italien">Italiens</placeName> Anträge von Sängern und Musikern, die mitwirken wollen, ein.</p>
-    </body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wiener Zeitung, 30. April 1874</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/wz_1874-04-30_mailand.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#wiener-zeitung" role="publisher"/>
+                    <placeName ref="#wien"/>
+                    <date when-custom="thu" when-iso="1874-04-30"/>
+                    <biblScope unit="issue">98</biblScope>
+                    <biblScope unit="subIssue">98</biblScope>
+                    <series>wz</series>
+                    <biblScope unit="page">779 [3]</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#mailand"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Ankündigung</term>
+                    <term type="corpusGroup">Aufführungsgeschichte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="wz_1874-05-26_779.png"
+            url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740430&amp;seite=23"/>
+    </facsimile>
+    <text xml:lang="de">
+        <body rend="fraktur">
+            <cb break="null" n="778b" type="initial"/>
+            <head rend="larger">Kleine Chronik.</head>
+            <p rend="smaller center"><hi rend="bold"><placeName ref="#wien">Wien</placeName>,</hi>
+                <date when-iso="1874-03-30">30. April</date>.</p>
+            <pb break="null" n="779" type="skipped"/>
+            <p rend="smaller">(<hi rend="widespace">Ein <title ref="#verdi.requiem">Requiem</title>
+                    von <persName ref="#verdi.giuseppe">Verdi</persName></hi>.) Wie wir schon einmal
+                mitgetheilt, hat <persName ref="#verdi.giuseppe">Verdi</persName> ein <title
+                    ref="#verdi.requiem">Requiem</title> zu Ehren <persName
+                    ref="#manzoni.alessandro">Manzoni’s</persName> componirt, <rs
+                    ref="#mailand.1874.1" type="event">das am Todestage des letzteren, am <date
+                        when-iso="1874-05-22">22. Mai d. J.</date>, in der Kirche zu <placeName
+                        ref="#mailand.san-marco">San Marco</placeName> in <placeName ref="#mailand"
+                        >Mailand</placeName> zur Aufführung kommen soll</rs>. <persName
+                    ref="#verdi.giuseppe">Verdi</persName> selbst wird die Aufführung leiten, an der
+                nach der „<orgName ref="#gazzetta-musicale-di-milano">Gazz. musicale</orgName>“ 120
+                Choristen und 100 Orchestermitglieder mitwirken werden. Die Soli werden von den
+                Damen <persName ref="#stolz.teresa">Stolz</persName> und <persName
+                    ref="#waldmann.maria">Waldmann</persName> und den Herren <persName
+                    ref="#capponi.giuseppe">Capponi</persName> und <persName ref="#maini.armando"
+                    >Maini</persName> vorgetragen werden. Wie das genannte Blatt beifügt, laufen aus
+                allen Theilen <placeName ref="#italien">Italiens</placeName> Anträge von Sängern und
+                Musikern, die mitwirken wollen, ein.</p>
+        </body>
+    </text>
 </TEI>

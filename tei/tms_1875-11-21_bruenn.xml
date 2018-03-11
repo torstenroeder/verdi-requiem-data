@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1875-11-21" when-custom="sun"/>
-					<biblScope unit="issue">267</biblScope><biblScope unit="volume"
-						>25</biblScope><series>tms</series>
+					<date when-custom="sun" when-iso="1875-11-21"/>
+					<biblScope unit="issue">267</biblScope>
+					<biblScope unit="volume">25</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">[5]</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -34,10 +35,10 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><g type="MULTIPLICATION_X" n="2715">✕</g> (Das <title ref="#verdi.requiem"
+			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (Das <title ref="#verdi.requiem"
 					>Requiem</title>
 				<persName ref="#verdi.giuseppe">Verdi’s</persName>.) Zu unserer gestrigen Meldung
-				wegen <rs type="event" ref="#bruenn.1876.1">Produktion des <persName
+				wegen <rs ref="#bruenn.1876.1" type="event">Produktion des <persName
 						ref="#verdi.giuseppe">Verdi’schen</persName>
 					<title ref="#verdi.requiem">Requiems</title> am <date when-iso="1876-01-02">2.
 						Jänner 1876</date></rs> fügen wir noch hinzu, daß nebst dem künstlerischen

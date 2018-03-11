@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1875-12-11" when-custom="sat"/>
-					<biblScope unit="issue">183</biblScope><biblScope unit="volume"
-						>25</biblScope><series>tms</series>
+					<date when-custom="sat" when-iso="1875-12-11"/>
+					<biblScope unit="issue">183</biblScope>
+					<biblScope unit="volume">25</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">[4]</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -37,11 +38,11 @@
 			<pb n="4a"/>
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>
-			<p><g type="PLUS_SIGN" n="002B">+</g> (<persName ref="#verdi.giuseppe"
+			<p><g n="002B" type="PLUS_SIGN">+</g> (<persName ref="#verdi.giuseppe"
 					>Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title>.) Nach Ueberwindung zahlloser
 				Schwierigkeiten ist es nunmehr dem betreffenden Komite gelungen, die (von uns
-				neulich erwähnte) <rs type="event" ref="#bruenn.1876">Aufführung des <persName
+				neulich erwähnte) <rs ref="#bruenn.1876" type="event">Aufführung des <persName
 						ref="#verdi.giuseppe">Verdi’schen</persName>
 					<title ref="#verdi.requiem">Requiems</title> definitiv für den <date
 						when-iso="1876-01-02">2.</date> und <date when-iso="1876-01-06">6. Jänner

@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#echo-der-gegenwart" role="publisher"/>
 					<placeName ref="#aachen"/>
-					<date when-iso="1876-03-16" when-custom="thu"/>
-					<biblScope unit="issue">76</biblScope><biblScope unit="subIssue"
-						>76</biblScope><series>edg</series>
+					<date when-custom="thu" when-iso="1876-03-16"/>
+					<biblScope unit="issue">76</biblScope>
+					<biblScope unit="subIssue">76</biblScope>
+					<series>edg</series>
 					<biblScope unit="page">[3]</biblScope>
-					<link facs="edg_1876-03-16.png"
-						target="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/zoom/2661369"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,25 +33,39 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="edg_1876-03-16.png"
+			url="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/zoom/2661369"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger"><date when-iso="1876-03-16" when-custom="thu">Donnerstag den 16.
+			<head rend="larger"><date when-custom="thu" when-iso="1876-03-16">Donnerstag den 16.
 					März</date>:<lb break="yes"/>
-				<hi rend="lineale"><rs type="event" ref="#aachen.1876.1">VI.
-					Abbonementsconcert,</rs></hi><lb break="yes"/> im großen Kurhaussaale, unter<lb
-					break="yes"/> Leitung des städtischen Musik<lb break="no"/>direktors Herrn
-					<persName ref="#breunung.ferdinand">Breunung</persName>.</head><lg>
-			<head rend="widespace">Programm:</head>
-			<l rend="hanging">1. <title ref="#gluck.iphigenie-en-aulide.ouverture">Ouverture zu Iphigenie in
-						Aulis</title> von <persName ref="#gluck.christoph-willibald"
-						>Gluck</persName>.</l><l rend="hanging">2. <title ref="#verdi.requiem">Requiem</title> für Solostimmen, Chor und Orchester
-					von <persName ref="#verdi.giuseppe">G. Verdi</persName> (zum 1. Mal)</l>
-				<l><hi rend="widespace">Solisten:</hi></l><l rend="hanging">1. Frau <persName ref="#lederer-ubrich.asminde">Asminde Lederer-Ubrich</persName>,
-					Königl. Kammersängerin, Sopran,</l><l rend="hanging">2. Frl. <persName ref="#keller.elsa">Elsa Keller</persName>, Opernsängerin aus
-						<placeName ref="#koeln">Köln</placeName>, Mezzo-Sopran,</l><l rend="hanging">3. Herr Professor <persName ref="#schneider.carl">Carl Schneider</persName> aus
-						<placeName ref="#koeln">Cöln</placeName>, Tenor,</l><l rend="hanging">4. Herr <persName ref="#pfeiffer.xxx">H. Pfeiffer</persName>, Opernsänger aus
-						<placeName ref="#duesseldorf">Düsseldorf</placeName>, Baß.</l><l>Einzelkarten à 4 Mark sind Abends
-				an der Kasse zu haben.</l><l rend="center">Anfang präcise halb sieben Uhr.</l>
+				<hi rend="lineale"><rs ref="#aachen.1876.1" type="event">VI.
+						Abbonementsconcert,</rs></hi><lb break="yes"/> im großen Kurhaussaale,
+					unter<lb break="yes"/> Leitung des städtischen Musik<lb break="no"/>direktors
+				Herrn <persName ref="#breunung.ferdinand">Breunung</persName>.</head>
+			<lg>
+				<head rend="widespace">Programm:</head>
+				<l rend="hanging">1. <title ref="#gluck.iphigenie-en-aulide.ouverture">Ouverture zu
+						Iphigenie in Aulis</title> von <persName ref="#gluck.christoph-willibald"
+						>Gluck</persName>.</l>
+				<l rend="hanging">2. <title ref="#verdi.requiem">Requiem</title> für Solostimmen,
+					Chor und Orchester von <persName ref="#verdi.giuseppe">G. Verdi</persName> (zum
+					1. Mal)</l>
+				<l><hi rend="widespace">Solisten:</hi></l>
+				<l rend="hanging">1. Frau <persName ref="#lederer-ubrich.asminde">Asminde
+						Lederer-Ubrich</persName>, Königl. Kammersängerin, Sopran,</l>
+				<l rend="hanging">2. Frl. <persName ref="#keller.elsa">Elsa Keller</persName>,
+					Opernsängerin aus <placeName ref="#koeln">Köln</placeName>, Mezzo-Sopran,</l>
+				<l rend="hanging">3. Herr Professor <persName ref="#schneider.carl">Carl
+						Schneider</persName> aus <placeName ref="#koeln">Cöln</placeName>,
+					Tenor,</l>
+				<l rend="hanging">4. Herr <persName ref="#pfeiffer.xxx">H. Pfeiffer</persName>,
+					Opernsänger aus <placeName ref="#duesseldorf">Düsseldorf</placeName>, Baß.</l>
+				<l>Einzelkarten à 4 Mark sind Abends an der Kasse zu haben.</l>
+				<l rend="center">Anfang präcise halb sieben Uhr.</l>
 			</lg>
 		</body>
 	</text>

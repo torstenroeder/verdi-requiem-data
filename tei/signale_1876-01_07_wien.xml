@@ -12,16 +12,12 @@
 				<bibl>
 					<orgName ref="#signale" role="publisher"/>
 					<placeName ref="#leipzig"/>
-					<date cert="low" when-iso="1876-01-31" notAfter-iso="1876-01-31"
-						notBefore-iso="1876-01-09"/>
+					<date cert="low" notAfter-iso="1876-01-31" notBefore-iso="1876-01-09"
+						when-iso="1876-01-31"/>
 					<!--BIBLIO Datierung: vgl. Signale Januar 1876, Nr. 7-->
-					<biblScope unit="issue">7</biblScope><biblScope unit="volume">34</biblScope>
+					<biblScope unit="issue">7</biblScope>
+					<biblScope unit="volume">34</biblScope>
 					<biblScope unit="page">104</biblScope>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=109"/>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=112"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,17 +34,23 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=109"/>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=112"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="101" type="initial"/>
-			<head rend="antiqua widespace larger">Dur und Moll.</head>
+			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
 			<pb break="null" n="104" type="skipped"/>
-			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
+			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
 				<hi rend="widespace">In <placeName ref="#wien">Wien</placeName></hi> fanden im
 					<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> in den 365
 				Tagen des Jahres <date when-iso="1875">1875</date> 294 Vorstellungen statt. An
 				Novitäten wurde gegeben: <gap resp="tr"/>
-				<rs type="event" ref="#wien.1875.1">am <date when-iso="1875-06-11">11. Juni</date>
+				<rs ref="#wien.1875.1" type="event">am <date when-iso="1875-06-11">11. Juni</date>
 					zum ersten Male: „<title ref="#verdi.requiem">Requiem</title>“ (Manzoni-Messe)
 					unter persönlicher Leitung <persName ref="#verdi.giuseppe">Verdi’s</persName>
 					und Mitwirkung der Damen <persName ref="#stolz.teresa">Therese Stolz</persName>

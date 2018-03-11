@@ -1,18 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 9. Juni 1876 [2]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-06-09_hannover.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#nzfm" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-06-09"/>
-				<biblScope unit="issue">24</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
-				<biblScope unit="page">245 [7]</biblScope>
-				<link facs="nzfm_1876-06-09_245.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760609&amp;seite=7"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#hannover"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<pb break="null" n="244" type="initial"/>
-		<head rend="larger">Tagesgeschichte.</head>
-		<cb break="null" n="245b" type="skipped"/>
-		<head>Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
-		<gap resp="tr"/>
-		<p><rs type="event" ref="#hannover.1876.1"><persName ref="#verdi.giuseppe">Verdi, G.</persName>, <hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi>. <placeName ref="#hannover">Hannover</placeName>, wohlth. Concert.</rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>NZfM, Leipzig, 9. Juni 1876 [2]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nzfm_1876-06-09_hannover.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nzfm" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-06-09"/>
+					<biblScope unit="issue">24</biblScope>
+					<biblScope unit="volume">72</biblScope>
+					<series>nzfm</series>
+					<biblScope unit="page">245 [7]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#hannover"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nzfm_1876-06-09_245.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760609&amp;seite=7"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="244" type="initial"/>
+			<head rend="larger">Tagesgeschichte.</head>
+			<cb break="null" n="245b" type="skipped"/>
+			<head rend="bold">Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
+			<gap resp="tr"/>
+			<p rend="hanging"><rs ref="#hannover.1876.1" type="event"><persName ref="#verdi.giuseppe">Verdi,
+						G.</persName>, <hi rend="antiqua"><title ref="#verdi.requiem"
+							>Requiem</title></hi>. <placeName ref="#hannover">Hannover</placeName>,
+					wohlth. Concert.</rs></p>
+		</body>
+	</text>
 </TEI>

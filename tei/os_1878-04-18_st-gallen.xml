@@ -9,38 +9,32 @@
 				<p>http://verdi-requiem.de/text/os_1878-04-18_st-gallen.xml</p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>
+				<bibl facs="#f11">
 					<orgName ref="#die-ostschweiz" role="publisher"/>
 					<placeName ref="#st-gallen"/>
-					<date when-iso="1878-04-18" when-custom="thu"/>
-					<biblScope unit="issue">91</biblScope><biblScope unit="volume"
-						>5</biblScope><series>os</series>
+					<date when-custom="thu" when-iso="1878-04-18"/>
+					<biblScope unit="issue">91</biblScope>
+					<biblScope unit="volume">5</biblScope>
+					<series>os</series>
 					<biblScope unit="page">3</biblScope>
-					<link
-						target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=6BF6D400&amp;href=OSZ%2F1878%2F04%2F18&amp;page=3"
-					/>
 				</bibl>
-				<bibl>
+				<bibl facs="#f21">
 					<orgName ref="#die-ostschweiz" role="publisher"/>
 					<placeName ref="#st-gallen"/>
-					<date when-iso="1878-04-19" when-custom="fri"/>
-					<biblScope unit="issue">92</biblScope><biblScope unit="volume"
-						>5</biblScope><series>os</series>
+					<date when-custom="fri" when-iso="1878-04-19"/>
+					<biblScope unit="issue">92</biblScope>
+					<biblScope unit="volume">5</biblScope>
+					<series>os</series>
 					<biblScope unit="page">3</biblScope>
-					<link
-						target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=21440BCD&amp;href=OSZ%2F1878%2F04%2F19&amp;page=3"
-					/>
 				</bibl>
-				<bibl>
+				<bibl facs="#f31">
 					<orgName ref="#die-ostschweiz" role="publisher"/>
 					<placeName ref="#st-gallen"/>
-					<date when-iso="1878-04-21" when-custom="sat"/>
-					<biblScope unit="issue">93</biblScope><biblScope unit="volume"
-						>5</biblScope><series>os</series>
+					<date when-custom="sat" when-iso="1878-04-21"/>
+					<biblScope unit="issue">93</biblScope>
+					<biblScope unit="volume">5</biblScope>
+					<series>os</series>
 					<biblScope unit="page">3</biblScope>
-					<link
-						target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=D038C625&amp;href=OSZ%2F1878%2F04%2F21&amp;page=3"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -57,13 +51,24 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=6BF6D400&amp;href=OSZ%2F1878%2F04%2F18&amp;page=3"
+			xml:id="f11"/>
+		<graphic
+			url="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=21440BCD&amp;href=OSZ%2F1878%2F04%2F19&amp;page=3"
+			xml:id="f21"/>
+		<graphic
+			url="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/sharedpages/SharedView.Page.aspx?sk=D038C625&amp;href=OSZ%2F1878%2F04%2F21&amp;page=3"
+			xml:id="f31"/>
+	</facsimile>
 	<text xml:lang="de">
 		<group>
 			<text n="1">
 				<body rend="fraktur">
 					<cb n="1c"/>
-					<head rend="larger"><g type="SUN" n="2609">☉</g>
-						<rs type="event" ref="#st-gallen.1878"><persName ref="#verdi.giuseppe"
+					<head rend="larger"><g n="2609" type="SUN">☉</g>
+						<rs ref="#st-gallen.1878" type="event"><persName ref="#verdi.giuseppe"
 								>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ in
 								<placeName ref="#st-gallen.kirche-st-laurenzen">St.
 								Laurenzen</placeName> zu <placeName ref="#st-gallen">St.
@@ -166,8 +171,8 @@
 			<text n="2">
 				<body rend="fraktur">
 					<cb n="3c"/>
-					<head><g type="SUN" n="2609">☉</g>
-						<rs type="event" ref="#st-gallen.1878"><persName ref="#verdi.giuseppe"
+					<head><g n="2609" type="SUN">☉</g>
+						<rs ref="#st-gallen.1878" type="event"><persName ref="#verdi.giuseppe"
 								>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ in
 								<placeName ref="#st-gallen.kirche-st-laurenzen">St.
 								Laurenzen</placeName> zu <placeName ref="#st-gallen">St.
@@ -236,41 +241,41 @@
 			<text n="3">
 				<body rend="fraktur">
 					<cb break="null" n="3b" type="initial"/>
-					<head><g type="SUN" n="2609">☉</g>
-						<rs type="event" ref="#st-gallen.1878"><persName ref="#verdi.giuseppe"
+					<head><g n="2609" type="SUN">☉</g>
+						<rs ref="#st-gallen.1878" type="event"><persName ref="#verdi.giuseppe"
 								>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ in
 								<placeName ref="#st-gallen.kirche-st-laurenzen">St.
 								Laurenzen</placeName> zu <placeName ref="#st-gallen">St.
 								Gallen</placeName>.</rs></head>
 					<p rend="center">(Schluß.)</p>
 					<p>Als in mehrfach repetirten, unterbrochenen Solotönen einer Baßstimme das Wort
-							<hi rend="antiqua">„<title
-								ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors — mors —
-								mors</title>“</hi> erscholl, da war’s mir, ich erblicke den
-						Sensenmann, dessen Stunde gekommen, wie er noch dreimal sich erhebt, sich
-						fortschleppen will, aber sinkt, in die Grube fällt, die er einst den Todten
-						gegraben, selbst stirbt, ausröchelt, schläft. „O Tod, ich bin dein Tod!“ Auf
-						Erden tödtete die Posaune den Tod, aber in der Wolkenhöhe haben sie den Ruf
-						auch verstanden, denn in einem Sopran, dessen Reinheit an himmlische
-						Regionen erinnert, kündet es die andere folgende Solostimme: „<hi
-							rend="widespace"><title ref="#verdi.requiem.2.liber-scriptus">Ein
-								geschriebenes Buch sich zeiget</title></hi>“ an. Die Reinheit der
-						Stimme war die lichte Farbe in der Ausführung dieser Partie, wie die
-						Baßstimme des <hi rend="antiqua">„mors“</hi> das dunkle Colorit des
-						sterbenden Todes war auf diesem musikalischen Gemälde. Die Szenerie ist
-						vollendet; der Richter sitzt <hi rend="antiqua">„<title
-								ref="#verdi.requiem.2.liber-scriptus" n="judex-ergo">judex ergo cum
-								sedebit</title>“</hi> — die Aktion kann beginnen. Was vor Allem —
-						ich darf es nicht verschweigen — die ganze bisherige Durchführung
-						durchzittert, ist der stets wiederholte Ausruf „Tag der Schrecken, Tag des
-						Zornes“. Bald tönt ihn laut die erbebende Natur aus, bald wird er scheinbar
-						erstickt von der Majestät des erscheinenden Richters, aber wie der momentan
-						gehemmte Athem drängt er wiederum hervor. Es ist ja ein zitterndes Gemälde,
-						das sich uns zeigt. An die mehr objektive Schilderung des gewaltigen
-						Ereignisses tritt nun die tiefste subjektive Empfindung jener erschütterten,
-						von Angst und Beklommenheit durchwogten Seele, jenes vom Glühroth der
-						Beschämung und der Blässe seelischer Beklommenheit überzogenen Sünders heran
-						und die Musik, die vielleicht noch gefügiger ist, dem Ausdruck der zartesten
+							<hi rend="antiqua">„<title n="mors-stupebit"
+								ref="#verdi.requiem.2.tuba-mirum">Mors — mors — mors</title>“</hi>
+						erscholl, da war’s mir, ich erblicke den Sensenmann, dessen Stunde gekommen,
+						wie er noch dreimal sich erhebt, sich fortschleppen will, aber sinkt, in die
+						Grube fällt, die er einst den Todten gegraben, selbst stirbt, ausröchelt,
+						schläft. „O Tod, ich bin dein Tod!“ Auf Erden tödtete die Posaune den Tod,
+						aber in der Wolkenhöhe haben sie den Ruf auch verstanden, denn in einem
+						Sopran, dessen Reinheit an himmlische Regionen erinnert, kündet es die
+						andere folgende Solostimme: „<hi rend="widespace"><title
+								ref="#verdi.requiem.2.liber-scriptus">Ein geschriebenes Buch sich
+								zeiget</title></hi>“ an. Die Reinheit der Stimme war die lichte
+						Farbe in der Ausführung dieser Partie, wie die Baßstimme des <hi
+							rend="antiqua">„mors“</hi> das dunkle Colorit des sterbenden Todes war
+						auf diesem musikalischen Gemälde. Die Szenerie ist vollendet; der Richter
+						sitzt <hi rend="antiqua">„<title n="judex-ergo"
+								ref="#verdi.requiem.2.liber-scriptus">judex ergo cum
+							sedebit</title>“</hi> — die Aktion kann beginnen. Was vor Allem — ich
+						darf es nicht verschweigen — die ganze bisherige Durchführung durchzittert,
+						ist der stets wiederholte Ausruf „Tag der Schrecken, Tag des Zornes“. Bald
+						tönt ihn laut die erbebende Natur aus, bald wird er scheinbar erstickt von
+						der Majestät des erscheinenden Richters, aber wie der momentan gehemmte
+						Athem drängt er wiederum hervor. Es ist ja ein zitterndes Gemälde, das sich
+						uns zeigt. An die mehr objektive Schilderung des gewaltigen Ereignisses
+						tritt nun die tiefste subjektive Empfindung jener erschütterten, von Angst
+						und Beklommenheit durchwogten Seele, jenes vom Glühroth der Beschämung und
+						der Blässe seelischer Beklommenheit überzogenen Sünders heran und die Musik,
+						die vielleicht noch gefügiger ist, dem Ausdruck der zartesten
 						Seelenstimmungen zu dienen, als der Wiedergabe großer Ereignisse im
 						objektiven Leben, streitet hier in Harmonisirung des Hymnus den Wettkampf,
 						in welcher Partie ihr der Lorbeer gebühre, ob in der mehr epischen ersten
@@ -321,7 +326,7 @@
 						der Gefühle des Vertrauens <hi rend="antiqua">„Huic ergo parce Deus“</hi>
 						thürmt sich noch einmal. Dann fällt sie. Die Ebbe tritt in diesem
 						innerlichen Meere ein. Die Wellen legen sich — ruhen. <hi rend="antiqua"
-								>„<title ref="#verdi.requiem.2.lacrymosa" n="dona-eis">Dona eis
+								>„<title n="dona-eis" ref="#verdi.requiem.2.lacrymosa">Dona eis
 								requiem</title>“</hi> „<hi rend="widespace">Gib Ihnen die ewige
 							Ruhe</hi>“ schließt das Meisterwerk.</p>
 					<p>Ich glaube einigermaßen den Empfindungen gerecht geworden zu sein, die das

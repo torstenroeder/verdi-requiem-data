@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#prager-abendblatt" role="publisher"/>
 					<placeName ref="#prag"/>
-					<date when-iso="1876-01-29" when-custom="sat"/>
-					<biblScope unit="issue">23</biblScope><biblScope unit="volume"
-						>?</biblScope><series>pab</series>
+					<date when-custom="sat" when-iso="1876-01-29"/>
+					<biblScope unit="issue">23</biblScope>
+					<biblScope unit="volume">?</biblScope>
+					<series>pab</series>
 					<biblScope unit="page">2</biblScope>
-					<link facs="pab_1876-01-29_2.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760129&amp;seite=2"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,10 +33,14 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="pab_1876-01-29_2.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760129&amp;seite=2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><hi rend="bold"><g type="ASTERISM" n="2042">⁂</g></hi>
-				<rs type="event" ref="#prag.1876.2"><hi rend="bold">Vom <placeName
+			<p><hi rend="bold"><g n="2042" type="ASTERISM">⁂</g></hi>
+				<rs ref="#prag.1876.2" type="event"><hi rend="bold">Vom <placeName
 							ref="#prag.staendetheater">deutschen Landestheater</placeName>.</hi>
 					<gap resp="tr"/> Morgen will man „Die beiden Waisen“<note resp="tr"
 						type="literatureLink">Vgl. Adolphe d’Ennery und Eugène Cormon, »Les deux

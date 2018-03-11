@@ -12,12 +12,10 @@
 				<bibl>
 					<orgName ref="#neues-wiener-tagblatt" role="publisher"/>
 					<placeName ref="#wien"/>
-					<date when-iso="1875-06-05" when-custom="sat"/>
-					<biblScope unit="issue">154</biblScope><series>nwt</series>
+					<date when-custom="sat" when-iso="1875-06-05"/>
+					<biblScope unit="issue">154</biblScope>
+					<series>nwt</series>
 					<biblScope unit="page">5</biblScope>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750605&amp;seite=5"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -34,14 +32,18 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750605&amp;seite=5"
+		/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="5a" type="initial"/>
 			<head rend="larger">Theater und Kunst.</head>
 			<gap resp="tr"/>
-			<p><g type="ASTERISK" n="002A">*</g>
+			<p><g n="002A" type="ASTERISK">*</g>
 				<persName ref="#verdi.giuseppe">Verdi</persName> ist, wie mir bereits gemeldet, in
-				Wien angekommen und die <rs type="event" ref="#wien.1875">Aufführungen der <title
+				Wien angekommen und die <rs ref="#wien.1875" type="event">Aufführungen der <title
 						ref="#verdi.requiem">Manzoni-Messe</title></rs> und der „<title
 					ref="#verdi.aida">Aida</title>“ unter des Komponisten persönlicher Leitung
 				stehen vor der Thüre. Auch die gelben Plakate sind bereits erschienen, die sich mit
@@ -75,10 +77,10 @@
 				Regel ihr Vormerkungen vorauszuwerfen — scheint die Fluth der Billetbewerber nicht
 				gewaltig genug hereinbrechen zu wollen, um auch noch für die Agiotage<note resp="tr"
 					type="glossaryLink">Agiotage: Spekulationsgeschäft an der Börse, auch bezogen
-					auf Eintrittskarten, vgl. <ref type="text"
-						target="https://www.duden.de/node/687618/revisions/1077804/view">Duden
-						online</ref></note> genug Wasser zum Schwimmen und Fischen zu haben. . . .
-				.</p>
+					auf Eintrittskarten, vgl. <ref
+						target="https://www.duden.de/node/687618/revisions/1077804/view" type="text"
+						>Duden online</ref></note> genug Wasser zum Schwimmen und Fischen zu haben.
+				. . . .</p>
 		</body>
 	</text>
 </TEI>

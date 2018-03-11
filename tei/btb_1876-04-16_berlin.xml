@@ -13,22 +13,25 @@
 				<bibl>
 					<orgName ref="#berliner-tageblatt" role="publisher"/>
 					<placeName ref="#berlin"/>
-					<date when-iso="1876-04-16" when-custom="sun"/>
-					<biblScope unit="issue">90</biblScope><series>bert</series>
+					<date when-custom="sun" when-iso="1876-04-16"/>
+					<biblScope unit="issue">90</biblScope>
+					<series>bert</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 				<bibl>
 					<orgName ref="#berliner-tageblatt" role="publisher"/>
 					<placeName ref="#berlin"/>
-					<date when-iso="1876-04-19" when-custom="wed"/>
-					<biblScope unit="issue">91</biblScope><series>bert</series>
+					<date when-custom="wed" when-iso="1876-04-19"/>
+					<biblScope unit="issue">91</biblScope>
+					<series>bert</series>
 					<biblScope unit="page">2–3</biblScope>
 				</bibl>
 				<bibl>
 					<orgName ref="#berliner-tageblatt" role="publisher"/>
 					<placeName ref="#berlin"/>
-					<date when-iso="1876-04-27" when-custom="thu"/>
-					<biblScope unit="issue">98</biblScope><series>bert</series>
+					<date when-custom="thu" when-iso="1876-04-27"/>
+					<biblScope unit="issue">98</biblScope>
+					<series>bert</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -52,7 +55,7 @@
 				<body rend="fraktur">
 					<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName> „<title
 							ref="#verdi.requiem">Requiem</title>“.</head>
-					<p><rs type="event" ref="#berlin.1876.1 mailand.1874.1">Am Sonnabend vor Ostern
+					<p><rs ref="#berlin.1876.1 mailand.1874.1" type="event">Am Sonnabend vor Ostern
 							wurde <persName ref="#verdi.giuseppe">Joseph Verdi’s</persName>, den
 							Manen des <persName ref="#manzoni.alessandro">Alessandro
 								Manzoni</persName> gewidmetes <title ref="#verdi.requiem"
@@ -291,16 +294,16 @@
 							<orig>Pianissime</orig>
 							<corr resp="tr">Pianissimo</corr>
 						</choice> verhallenden „libera me!“ Die ersten — einige zwanzig — Takte, zu
-						den Worten „<title ref="#verdi.requiem.1" n="requiem-aeternam">requiem
+						den Worten „<title n="requiem-aeternam" ref="#verdi.requiem.1">requiem
 							aeternam dona eis, Domine, et lux perpetua luceat eis</title>,“ in
 						A-moll und dur von vier Solostimmen und Chor intonirt, sind durchweg piano
 						gehalten, und das erste Forte tritt in belebterem Tempo bei den Worten
-							„<title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet hymnus, Deus
+							„<title n="te-decet-hymnus" ref="#verdi.requiem.1">Te decet hymnus, Deus
 							in Sion</title>“ ein, welcher Satz in freier kanonischer Schreibart
 						durchgeführt ist, wonach unmittelbar auf den abschließenden F-dur-Dreiklang,
 						ohne modulatorischen Übergang, das A-moll des Anfanges zu dem Text „<title
-							ref="#verdi.requiem.1" n="requiem-aeternam.re">requiem aeternam</title>“
-						etc. wiederkehrt und in das <title ref="#verdi.requiem.1" n="kyrie"
+							n="requiem-aeternam.re" ref="#verdi.requiem.1">requiem aeternam</title>“
+						etc. wiederkehrt und in das <title n="kyrie" ref="#verdi.requiem.1"
 							>Kyrie</title> — ein Soloquartett mit Chor — hinüberleitet.</p>
 					<p>Man konnte wahrnehmen, daß diese erste Nummer der Partitur im Publikum einem
 						ungemein günstigen Eindruck gemacht und die Theilnahme für das Werk
@@ -325,16 +328,16 @@
 							ref="#verdi.requiem.2.recordare">Recordare</title>“ mit dem lieblichen <choice>
 							<orig>Alternativ</orig>
 							<corr resp="tr">Altmotiv</corr>
-						</choice><supplied resp="tr">,</supplied> „<title
-							ref="#verdi.requiem.2.ingemisco" n="qui-mariam">Qui Mariam
-							absolvisti</title>“ und das „<title ref="#verdi.requiem.2.lacrymosa"
-							>Lacrymosa</title>“ (Soloquartett mit Chor) zählen. Nach dem letzten
-						Amen, womit diese Abtheilung des Werkes schließt, brach in allen Räumen des
-						Hauses lebhafter Beifall hervor, und in der nun folgenden Zwischenpause
-						bekundete die Unterhaltung in den Foyers, mit welcher Theilnahme das ernste
-						Werk des berühmten Opernkomponisten bis dahin gehört worden sei. In der
-						Konditorei machte aber ein seltsamer Kauz mit ernster Miene die heitere
-						Bemerkung, daß er sich wundere, wie man eine <persName ref="#verdi.giuseppe"
+						</choice><supplied resp="tr">,</supplied> „<title n="qui-mariam"
+							ref="#verdi.requiem.2.ingemisco">Qui Mariam absolvisti</title>“ und das
+							„<title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title>“
+						(Soloquartett mit Chor) zählen. Nach dem letzten Amen, womit diese
+						Abtheilung des Werkes schließt, brach in allen Räumen des Hauses lebhafter
+						Beifall hervor, und in der nun folgenden Zwischenpause bekundete die
+						Unterhaltung in den Foyers, mit welcher Theilnahme das ernste Werk des
+						berühmten Opernkomponisten bis dahin gehört worden sei. In der Konditorei
+						machte aber ein seltsamer Kauz mit ernster Miene die heitere Bemerkung, daß
+						er sich wundere, wie man eine <persName ref="#verdi.giuseppe"
 							>Verdi’sche</persName> Musik im Opernhause ohne Kostüm geben könne. Er
 						wurde durch die Erklärung beruhigt, daß die Ultramontanen dagegen gestimmt
 						hätten.</p>
@@ -348,7 +351,7 @@
 						Chor und Schlußfuge.</p>
 					<p>Bezüglich des ersten Theils will ich nachträglich bemerken, daß wohlerzogenen
 						Musikerohren, die ganz offen und ehrlich zu Tage liegenden Quinten in dem
-						Passus „<title ref="#verdi.requiem.2.confutatis" n="oro-supplex">oro supplex
+						Passus „<title n="oro-supplex" ref="#verdi.requiem.2.confutatis">oro supplex
 							et acclinis</title>“ wohl etwas gallenbitter schmecken mochten, bin aber
 						überzeugt, daß sie dem Maestro nicht unbewußt entwichen sind, sondern daß er
 						sie mit voller Absicht hingesetzt hat; denn einem wo gewandten Techniker,
@@ -445,13 +448,13 @@
 							ref="#verdi.giuseppe">Verdis</persName> kein Vertrauen für dessen
 						musikalische Entwickelung fassen können.“<note resp="tr"
 							type="literatureLink">Vgl. <persName ref="#fetis.francois-joseph"
-								>François Joseph Fétis</persName>, <ref type="text"
+								>François Joseph Fétis</persName>, <ref
 								target="https://archive.org/stream/biographieunive18ftgoog#page/n329/mode/1up"
-								>Biographie universelle des musiciens, Bd. 8 (1865), S. 321</ref>:
-							»Il est à peu près certain que Basili chercha dans l’aspect de Verdi
-							quelque indication de ses facultés d’artiste; car c’est par là qu’un
-							chef d’école peut, dans la plupart des cas, apprécier les chances
-							d’avenir d’un élève aspirant«.</note> Wer lacht da?!</p>
+								type="text">Biographie universelle des musiciens, Bd. 8 (1865), S.
+								321</ref>: »Il est à peu près certain que Basili chercha dans
+							l’aspect de Verdi quelque indication de ses facultés d’artiste; car
+							c’est par là qu’un chef d’école peut, dans la plupart des cas, apprécier
+							les chances d’avenir d’un élève aspirant«.</note> Wer lacht da?!</p>
 					<p><persName ref="#verdi.giuseppe">Verdi’s</persName> Gesichtszüge sollen
 						freilich düster, hart und unbeweglich erscheinen, aber man beurtheilt ein
 						Talent doch nicht nach seiner Physiognomie, um so weniger, wenn dieselbe wie

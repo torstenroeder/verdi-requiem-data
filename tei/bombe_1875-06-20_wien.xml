@@ -13,12 +13,10 @@
 					<orgName ref="#die-bombe" role="publisher"/>
 					<placeName ref="#wien"/>
 					<date when-iso="1875-06-20"/>
-					<biblScope unit="issue">24</biblScope><biblScope unit="volume"
-						>5</biblScope><series>bombe</series>
+					<biblScope unit="issue">24</biblScope>
+					<biblScope unit="volume">5</biblScope>
+					<series>bombe</series>
 					<biblScope unit="page">98</biblScope>
-					<link facs="bombe_1875-06-20_98.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750620&amp;seite=2"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,9 +33,14 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="bombe_1875-06-20_98.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750620&amp;seite=2"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<pb n="98"/>
+			<pb facs="#f1" n="98"/>
 			<head rend="antiqua bold widespace larger">„Dona nobis requiem!“</head>
 			<head rend="smaller">Ein profanes Couplet mit heiligem Refrain.</head>
 			<lg>
@@ -48,7 +51,8 @@
 				<l>Als in’s Evangelium blickt.</l>
 				<l>Jüngling aus Jerusalem —</l>
 				<l><hi rend="antiqua">Dona nobis requiem.</hi></l>
-				<l rend="right"><persName ref="#verdi.giuseppe">Verdi</persName> und sein Quartett.</l>
+				<l rend="right"><persName ref="#verdi.giuseppe">Verdi</persName> und sein
+					Quartett.</l>
 			</lg>
 			<lg>
 				<l>Lass’, Distanzfex, schon genug sein</l>

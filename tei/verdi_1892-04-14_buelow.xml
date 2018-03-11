@@ -10,25 +10,17 @@
 				<p>http://verdi-requiem.de/text/verdi_1892-04-14_brief-an-buelow.xml</p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>
-					<persName ref="#verdi.giuseppe" role="author"/>
-					<persName ref="#buelow.hans-von" role="recipient"/>
-					<placeName ref="#genua"/>
-					<date when-iso="1892-04-14"/>
-				</bibl>
-				<bibl>
-					<title>Briefe. Siebter Band (Briefe und Schriften 8), Marie von Bülow (Hg.),
-						Leipzig: Breitkopf und Härtel, 1904, Nr. 412, S. 387–388.</title>
-					<link facs="buelow_briefe-und-schriften-8_386-387.png"
-						target="https://archive.org/stream/briefeundschrif08blgoog#page/n421/mode/1up"/>
-					<link facs="buelow_briefe-und-schriften-8_388-389.png"
-						target="https://archive.org/stream/briefeundschrif08blgoog#page/n422/mode/1up"
-					/>
-				</bibl>
+				<bibl>Briefe. Siebter Band (Briefe und Schriften 8), Marie von Bülow (Hg.), Leipzig:
+					Breitkopf und Härtel, 1904, Nr. 412, S. 387–388.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#genua"/><date when-iso="1892-04-14"/></creation>
+			<creation>
+				<persName ref="#verdi.giuseppe" role="author"/>
+				<persName ref="#buelow.hans-von" role="recipient"/>
+				<placeName ref="#genua"/>
+				<date when-iso="1892-04-14"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -40,6 +32,12 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="buelow_briefe-und-schriften-8_386-387.png"
+			url="https://archive.org/stream/briefeundschrif08blgoog#page/n421/mode/1up"/>
+		<graphic n="buelow_briefe-und-schriften-8_388-389.png"
+			url="https://archive.org/stream/briefeundschrif08blgoog#page/n422/mode/1up"/>
+	</facsimile>
 	<text xml:lang="it">
 		<body rend="antiqua">
 			<p>Illustre Maestro <persName ref="#buelow.hans-von">Bülow</persName>,</p>

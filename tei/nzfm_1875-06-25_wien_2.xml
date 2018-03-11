@@ -13,12 +13,10 @@
 					<orgName ref="#nzfm" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1875-06-25"/>
-					<biblScope unit="issue">26</biblScope><biblScope unit="volume"
-						>71</biblScope><series>nzfm</series>
+					<biblScope unit="issue">26</biblScope>
+					<biblScope unit="volume">71</biblScope>
+					<series>nzfm</series>
 					<biblScope unit="page">265 [9]</biblScope>
-					<link facs="nzfm_1875-06-25_265.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18750625&amp;seite=9"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,18 +33,22 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="nzfm_1875-06-25_265.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18750625&amp;seite=9"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="265b" type="initial"/>
-			<head rend="larger">Personalnachrichten.</head>
-			<p><g type="ASTERISK|EM_DASH|ASTERISK" n="002A|2014|002A">*—*</g> Der <persName
+			<head rend="bold">Personalnachrichten.</head>
+			<p><g n="002A|2014|002A" type="ASTERISK|EM_DASH|ASTERISK">*—*</g> Der <persName
 					ref="#franz-joseph-i.habsburg">Kaiser von Oestreich</persName> hat <hi
 					rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> bei
 				Aufführung seiner <title ref="#verdi.aida">„Aida“</title> das Comthurkreuz des Franz
 				Josephord. m. d. Stern und dem Verleger <persName ref="#ricordi.giulio">Ric<surplus
 						resp="tr">c</surplus>ordi</persName> das Ritterkreuz verliehen sowie dem
 				Orchester und Chor seine besondere Anerkennung für ihre Leistungen bei <rs
-					type="event" ref="#wien.1875"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+					ref="#wien.1875" type="event"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi></rs> und
 				Oper aussprechen lassen. —</p>
 		</body>

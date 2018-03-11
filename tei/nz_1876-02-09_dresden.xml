@@ -14,10 +14,12 @@
 					<orgName ref="#national-zeitung" role="publisher"/>
 					<placeName ref="#berlin"/>
 					<date when-iso="1876-02-09" when-custom="wed"/>
-					<biblScope unit="issue">65</biblScope><biblScope unit="subIssue"
-						>65</biblScope><biblScope unit="volume">29</biblScope><series>nz</series>
+					<biblScope unit="issue">65</biblScope>
+<biblScope unit="subIssue"
+						>65</biblScope>
+<biblScope unit="volume">29</biblScope>
+<series>nz</series>
 					<biblScope unit="page">1–3</biblScope>
-					<!--FACS National-Zeitung: kein Digitalisat; Kopie vorhanden-->
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -34,6 +36,7 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--FACS National-Zeitung: kein Digitalisat; Kopie vorhanden-->
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>

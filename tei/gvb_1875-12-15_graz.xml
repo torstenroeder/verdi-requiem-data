@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#grazer-volksblatt" role="publisher"/>
 					<placeName ref="#graz"/>
-					<date when-iso="1875-12-15" when-custom="wed"/>
-					<biblScope unit="issue">286</biblScope><biblScope unit="volume"
-						>8</biblScope><series>gvb</series>
+					<date when-custom="wed" when-iso="1875-12-15"/>
+					<biblScope unit="issue">286</biblScope>
+					<biblScope unit="volume">8</biblScope>
+					<series>gvb</series>
 					<biblScope unit="page">4</biblScope>
-					<link facs="gvb_1875-12-15_4.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=gre&amp;datum=18751215&amp;seite=4"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,14 +33,18 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="gvb_1875-12-15_4.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=gre&amp;datum=18751215&amp;seite=4"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<pb n="4"/>
-			<cb n="c"/>
+			<cb facs="#f1" n="4c"/>
 			<head rend="larger"><placeName ref="#graz.stadt-theater">Stadt-Theater</placeName> in
 					<placeName ref="#graz">Graz</placeName>.</head>
-			<p rend="center"><rs type="event" ref="#graz.1875.4"><date when-iso="1875-12-15">Mittwoch
-						den 15. Dezember 1875</date>.<lb break="yes"/>
+			<p rend="center"><rs ref="#graz.1875.4" type="event"><date when-iso="1875-12-15"
+						>Mittwoch den 15. Dezember 1875</date>.<lb break="yes"/>
 					<hi rend="lineale larger"><title ref="#verdi.requiem">Requiem</title> von
 							<persName ref="#verdi.giuseppe">Verdi</persName>.</hi></rs></p>
 		</body>

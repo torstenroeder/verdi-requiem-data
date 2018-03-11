@@ -1,16 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 24. November 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-11-24_breslau.xml</p></publicationStmt><sourceDesc><bibl>
-                <orgName ref="#nzfm" role="publisher"/>
-                <placeName ref="#leipzig"/>
-                <date when-iso="1876-11-24"/>
-                <biblScope unit="issue">48</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
-                <biblScope unit="page">474 [4]</biblScope>
-                <link facs="nzfm_1876-11-24_474.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18761124&amp;seite=4"/>
-            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#breslau"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-    <text xml:lang="de"><body rend="fraktur">
-        <cb break="null" n="474b" type="initial"/>
-        <head rend="larger">Tagesgeschichte.</head>
-        <head>Aufführungen.</head>
-        <p><rs type="event" ref="#breslau.1876.1"><hi rend="widespace"><placeName ref="#breslau">Breslau</placeName></hi>. Am <date when-iso="1876-11-07">7.</date> durch die <orgName ref="#breslau.singakademie">Singakademie</orgName> mit Frl. <persName ref="#haenisch.xxx">Hänisch</persName>, Frl. <persName ref="#hahn.xxx">Hahn</persName>, HH. <persName ref="#torrige.xxx">Torrige</persName> und <persName ref="#franck.xxx">Franck</persName> unter <persName ref="#schaeffer.julius">Schäffer</persName>: <persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Requiem</title>.</rs> <gap resp="tr"/></p>
-    </body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>NZfM, Leipzig, 24. November 1876</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/nzfm_1876-11-24_breslau.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#nzfm" role="publisher"/>
+                    <placeName ref="#leipzig"/>
+                    <date when-iso="1876-11-24"/>
+                    <biblScope unit="issue">48</biblScope>
+                    <biblScope unit="volume">72</biblScope>
+                    <series>nzfm</series>
+                    <biblScope unit="page">474 [4]</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#breslau"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Nachmeldung</term>
+                    <term type="corpusGroup">Aufführungsgeschichte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="nzfm_1876-11-24_474.png"
+            url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18761124&amp;seite=4"/>
+    </facsimile>
+    <text xml:lang="de">
+        <body rend="fraktur">
+            <cb break="null" n="474b" type="initial"/>
+            <head rend="larger">Tagesgeschichte.</head>
+            <head>Aufführungen.</head>
+            <p><rs ref="#breslau.1876.1" type="event"><hi rend="widespace"><placeName ref="#breslau"
+                            >Breslau</placeName></hi>. Am <date when-iso="1876-11-07">7.</date>
+                    durch die <orgName ref="#breslau.singakademie">Singakademie</orgName> mit Frl.
+                        <persName ref="#haenisch.xxx">Hänisch</persName>, Frl. <persName
+                        ref="#hahn.xxx">Hahn</persName>, HH. <persName ref="#torrige.xxx"
+                        >Torrige</persName> und <persName ref="#franck.xxx">Franck</persName> unter
+                        <persName ref="#schaeffer.julius">Schäffer</persName>: <persName
+                        ref="#verdi.giuseppe">Verdi’s</persName>
+                    <title ref="#verdi.requiem">Requiem</title>.</rs>
+                <gap resp="tr"/></p>
+        </body>
+    </text>
 </TEI>

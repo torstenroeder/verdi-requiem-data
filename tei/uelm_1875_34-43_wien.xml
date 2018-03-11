@@ -1,30 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Über Land und Meer, Stuttgart, [25. Juli] 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/uelm_1875_34-43_musik.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#ueber-land-und-meer" role="publisher"/>
-				<placeName ref="#stuttgart"/>
-				<date cert="medium" when-iso="1875-07-25"/>
-				<!--BIBLIO Datierung: Sonntage von April 1875 aus gezählt-->
-				<date cert="low" when-iso="1875-06-20"/>
-				<!--BIBLIO Datierung: zwei Aufführungen in Wien vorausgehend-->
-				<biblScope unit="issue">43</biblScope><biblScope unit="volume">34</biblScope>
-				<!--BIBLIO Bandangabe: 34. Bd. = 17. Jg., 2. Bd. = Nr. 27–52, 1875/04–1875/09-->
-				<biblScope unit="page">851</biblScope>
-				<link target="https://archive.org/stream/bub_gb_UfoN3WjRcJkC#page/n862/mode/1up"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Musik.</head>
-		<gap resp="tr"/>
-		<p>— <rs type="event" ref="#wien.1875"><hi rend="bold">Der kolossale Erfolg, den die drei Aufführungen
-					von</hi>
-				<persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> unter Direktion des gefeierten Komponisten
-				zu Wege brachten, hat die wiener Hofoperndirektion veranlaßt, vier Aufführungen des
-				bedeutenden Werkes zu veranlassen.</rs></p>
-		<p>— <hi rend="bold">Der große Erfolg, dessen das <title ref="#verdi.requiem">Manzoni-Requiem</title> am </hi><placeName ref="#wien.hof-operntheater"><hi rend="bold">wiener</hi>
-				<lb break="yes"/>Hofoperntheater</placeName> sich erfreute, hat den dankbaren
-			Komponisten be<cb break="no" n="851b" type="regular"/>wogen, dem Direktor <persName ref="#jauner.franz-von">Jauner</persName> das Versprechen zu geben, in der nächsten
-			Wintersaison nach <placeName ref="#wien">Wien</placeName> zu kommen, um seine zur Aufführung
-			angenommene Oper <title ref="#verdi.don-carlos">„Don Carlos“</title> persönlich zu
-			dirigiren.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Über Land und Meer, Stuttgart, [25. Juli] 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/uelm_1875_34-43_musik.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#ueber-land-und-meer" role="publisher"/>
+					<placeName ref="#stuttgart"/>
+					<date cert="medium" when-iso="1875-07-25"/>
+					<!--BIBLIO Datierung: Sonntage von April 1875 aus gezählt-->
+					<date cert="low" when-iso="1875-06-20"/>
+					<!--BIBLIO Datierung: zwei Aufführungen in Wien vorausgehend-->
+					<biblScope unit="issue">43</biblScope>
+					<biblScope unit="volume">34</biblScope>
+					<!--BIBLIO Bandangabe: 34. Bd. = 17. Jg., 2. Bd. = Nr. 27–52, 1875/04–1875/09-->
+					<biblScope unit="page">851</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Kurzbericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="https://archive.org/stream/bub_gb_UfoN3WjRcJkC#page/n862/mode/1up"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Musik.</head>
+			<gap resp="tr"/>
+			<p>— <rs ref="#wien.1875" type="event"><hi rend="bold">Der kolossale Erfolg, den die
+						drei Aufführungen von</hi>
+					<persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> unter Direktion des gefeierten
+					Komponisten zu Wege brachten, hat die wiener Hofoperndirektion veranlaßt, vier
+					Aufführungen des bedeutenden Werkes zu veranlassen.</rs></p>
+			<p>— <hi rend="bold">Der große Erfolg, dessen das <title ref="#verdi.requiem"
+						>Manzoni-Requiem</title> am </hi><placeName ref="#wien.hof-operntheater"><hi
+						rend="bold">wiener</hi>
+					<lb break="yes"/>Hofoperntheater</placeName> sich erfreute, hat den dankbaren
+				Komponisten be<cb break="no" n="851b" type="regular"/>wogen, dem Direktor <persName
+					ref="#jauner.franz-von">Jauner</persName> das Versprechen zu geben, in der
+				nächsten Wintersaison nach <placeName ref="#wien">Wien</placeName> zu kommen, um
+				seine zur Aufführung angenommene Oper <title ref="#verdi.don-carlos">„Don
+					Carlos“</title> persönlich zu dirigiren.</p>
+		</body>
+	</text>
 </TEI>

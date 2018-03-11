@@ -1,22 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Kölnische Zeitung, 18. Februar 1876</title><author><persName ref="#guckeisen.august"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/kz_1876-02-18_guerzenich-konzert.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#koelnische-zeitung" role="publisher"/>
-				<placeName ref="#koeln"/>
-				<date when-iso="1876-02-18" when-custom="fri"/>
-				<biblScope unit="issue">49</biblScope><biblScope unit="subIssue">49</biblScope><series>kz</series>
-				<biblScope unit="page">1</biblScope>
-				<link facs="kz_1876-02-18_1c.png"/>
-				<link facs="kz_1876-02-18_1d.png"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#koeln"/><date when-iso="1876-02-15"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="widespace larger">Achtes Gürzenich-Concert</head>
-		<p rend="center">unter Leitung des städtischen Capellmeisters Herrn <hi rend="antiqua">Dr.</hi>
-			<hi rend="widespace"><persName ref="#hiller.ferdinand">Ferd. Hiller</persName></hi>,</p>
-		<p rend="center"><date>Dinstag, den 15. Februar</date>.</p>
-		<p rend="right"><hi rend="antiqua"><persName ref="#guckeisen.august">G</persName></hi>
-			<hi rend="bold"><placeName ref="#koeln">Köln</placeName></hi>, <date>17. Februar</date>.</p>
-		<p><rs type="event" ref="#koeln.1875.2">Einen allseitig geäußerten Wunsche entsprechend, kam in jüngsten Concerte nochmals <persName ref="#verdi.giuseppe">Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ zur Aufführung.</rs> Für diesmal hatte sich denn auch so zu sagen die ganze musicalische Umgegend <placeName ref="#koeln">Kölns</placeName> zusammengefunden, so daß der große Saal bis in den letzten Raum gefüllt war. Wir sehen von einer weiteren Besprechung ab, da wir im Wesentlichen nur das günstige Urtheil wiederholen müßten, dem wir schon in dem ersten Referate<note resp="tr" type="textLink">Vgl. <ref type="text" target="kz_1875-12-12_viertes-guerzenich-konzert.xml">Kölnische Zeitung, 12. Dezember 1875</ref>.</note> Ausdruck verliehen haben. Nur der verbissene Principienreiter kann sich gegen die Schönheiten dieses Werkes verschließen, oder daran etwa Anstoß nehmen, daß ein „Requiem“ nicht mit der Musik des 16. Jahrhunderts vor das Publicum tritt. Wer will, wende lieber den Namen „Traueroper“ an, <cb break="yes" n="1d" type="regular"/>wie denn in der That bei den meisten Aufführungen außerhalb Deutschlands das Theater mit seinen scenischen und decorativen Hülfsmitteln zum Orte der Aufführung gewählt worden ist. Und wirklich, uns kam es bei der zweiten Aufführung fast vor, als ob unser Gürzenich dem Werke einen bereits zu oratorienhaften Charakter aufgedrückt habe; vielleicht hätte die Schöpfung <persName ref="#verdi.giuseppe">Verdi’s</persName> mehr von ihrem Originalcolorit erhalten, wenn die Tempi durchgängig bewegter gewesen wären, ohne darum zu einem frivolen Geschwindmarsch auszuarten. Unser Chor hielt sich wie das erste Mal recht wacker, zeigte aber auch, nebenbei bemerkt, dieselben Mängel bei einigen wenigen Einsätzen. Die Sololeistungen standen hingegen hinter den erstmaligen entschieden zurück. Frl. <persName ref="#lehmann.marie">Lehmann</persName> sang erst untadelhaft rein gegen den Schluß hin, und Frl. <persName ref="#keller.elsa">Keller</persName> ließ sich in Tonbildung und Textaussprache innerhalb der tieferen Stimmlage große Nachlässigkeiten zu Schulden kommen. Kein Vocal behielt bei ihr wenigstens annähernd seinen natürlichen Charakter; alle Klangfarben der Alttöne waren einem grausenhaften Gemisch von <hi rend="antiqua">u</hi>, <hi rend="antiqua">o</hi> und <hi rend="antiqua">a</hi> entsprungen. So weit darf sich die beliebte Manier, mit schauerlichen Alttönen zu imponiren, denn doch nicht versteigen. Herr Schelper wirkte in der früheren gediegenen Weise, doch wäre zu wünschen, daß das operistische Athemholen, welches z. B. aus <hi rend="antiqua">fil</hi> <hi rend="antiqua">fihil</hi> macht, aus dem Concertsaals verbannt bliebe. Herr <persName ref="#schneider.carl">Schneider</persName>, der aus Gefälligkeit nocht in letzter Stunde für den erkrankten Herr <persName ref="#diener.franz">Diener</persName> die Tenorpartie übernahm, erwarb sich die allgemeinste Anerkennung.</p>
-		<p>Dem Requiem gingen voraus <title ref="#brahms.variationen-ueber-ein-thema-von-haydn">Variationen für Orchester über ein Thema von Haydn</title> (Chorale St. Antoni) von
-				<persName ref="#brahms.johannes">Johannes Brahms</persName>. <gap resp="tr"/></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kölnische Zeitung, 18. Februar 1876</title>
+				<author><persName ref="#guckeisen.august"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/kz_1876-02-18_guerzenich-konzert.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#koelnische-zeitung" role="publisher"/>
+					<placeName ref="#koeln"/>
+					<date when-custom="fri" when-iso="1876-02-18"/>
+					<biblScope unit="issue">49</biblScope>
+					<biblScope unit="subIssue">49</biblScope>
+					<series>kz</series>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#koeln"/><date when-iso="1876-02-15"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<!--<graphic n="kz_1876-02-18_1c.png"/>-->
+	<!--<graphic n="kz_1876-02-18_1d.png"/>-->
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="widespace larger">Achtes Gürzenich-Concert</head>
+			<p rend="center">unter Leitung des städtischen Capellmeisters Herrn <hi rend="antiqua"
+					>Dr.</hi>
+				<hi rend="widespace"><persName ref="#hiller.ferdinand">Ferd.
+				Hiller</persName></hi>,</p>
+			<p rend="center"><date>Dinstag, den 15. Februar</date>.</p>
+			<p rend="right"><hi rend="antiqua"><persName ref="#guckeisen.august">G</persName></hi>
+				<hi rend="bold"><placeName ref="#koeln">Köln</placeName></hi>, <date>17.
+					Februar</date>.</p>
+			<p><rs ref="#koeln.1875.2" type="event">Einen allseitig geäußerten Wunsche entsprechend,
+					kam in jüngsten Concerte nochmals <persName ref="#verdi.giuseppe"
+						>Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ zur
+					Aufführung.</rs> Für diesmal hatte sich denn auch so zu sagen die ganze
+				musicalische Umgegend <placeName ref="#koeln">Kölns</placeName> zusammengefunden, so
+				daß der große Saal bis in den letzten Raum gefüllt war. Wir sehen von einer weiteren
+				Besprechung ab, da wir im Wesentlichen nur das günstige Urtheil wiederholen müßten,
+				dem wir schon in dem ersten Referate<note resp="tr" type="textLink">Vgl. <ref
+						target="kz_1875-12-12_viertes-guerzenich-konzert.xml" type="text">Kölnische
+						Zeitung, 12. Dezember 1875</ref>.</note> Ausdruck verliehen haben. Nur der
+				verbissene Principienreiter kann sich gegen die Schönheiten dieses Werkes
+				verschließen, oder daran etwa Anstoß nehmen, daß ein „Requiem“ nicht mit der Musik
+				des 16. Jahrhunderts vor das Publicum tritt. Wer will, wende lieber den Namen
+				„Traueroper“ an, <cb break="yes" n="1d" type="regular"/>wie denn in der That bei den
+				meisten Aufführungen außerhalb Deutschlands das Theater mit seinen scenischen und
+				decorativen Hülfsmitteln zum Orte der Aufführung gewählt worden ist. Und wirklich,
+				uns kam es bei der zweiten Aufführung fast vor, als ob unser Gürzenich dem Werke
+				einen bereits zu oratorienhaften Charakter aufgedrückt habe; vielleicht hätte die
+				Schöpfung <persName ref="#verdi.giuseppe">Verdi’s</persName> mehr von ihrem
+				Originalcolorit erhalten, wenn die Tempi durchgängig bewegter gewesen wären, ohne
+				darum zu einem frivolen Geschwindmarsch auszuarten. Unser Chor hielt sich wie das
+				erste Mal recht wacker, zeigte aber auch, nebenbei bemerkt, dieselben Mängel bei
+				einigen wenigen Einsätzen. Die Sololeistungen standen hingegen hinter den
+				erstmaligen entschieden zurück. Frl. <persName ref="#lehmann.marie"
+					>Lehmann</persName> sang erst untadelhaft rein gegen den Schluß hin, und Frl.
+					<persName ref="#keller.elsa">Keller</persName> ließ sich in Tonbildung und
+				Textaussprache innerhalb der tieferen Stimmlage große Nachlässigkeiten zu Schulden
+				kommen. Kein Vocal behielt bei ihr wenigstens annähernd seinen natürlichen
+				Charakter; alle Klangfarben der Alttöne waren einem grausenhaften Gemisch von <hi
+					rend="antiqua">u</hi>, <hi rend="antiqua">o</hi> und <hi rend="antiqua">a</hi>
+				entsprungen. So weit darf sich die beliebte Manier, mit schauerlichen Alttönen zu
+				imponiren, denn doch nicht versteigen. Herr Schelper wirkte in der früheren
+				gediegenen Weise, doch wäre zu wünschen, daß das operistische Athemholen, welches z.
+				B. aus <hi rend="antiqua">fil</hi>
+				<hi rend="antiqua">fihil</hi> macht, aus dem Concertsaals verbannt bliebe. Herr
+					<persName ref="#schneider.carl">Schneider</persName>, der aus Gefälligkeit nocht
+				in letzter Stunde für den erkrankten Herr <persName ref="#diener.franz"
+					>Diener</persName> die Tenorpartie übernahm, erwarb sich die allgemeinste
+				Anerkennung.</p>
+			<p>Dem Requiem gingen voraus <title ref="#brahms.variationen-ueber-ein-thema-von-haydn"
+					>Variationen für Orchester über ein Thema von Haydn</title> (Chorale St. Antoni)
+				von <persName ref="#brahms.johannes">Johannes Brahms</persName>. <gap resp="tr"
+				/></p>
+		</body>
+	</text>
 </TEI>

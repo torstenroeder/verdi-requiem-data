@@ -13,13 +13,9 @@
                 <bibl>
                     <orgName ref="#journal-des-debats"/>
                     <placeName ref="#paris"/>
-                    <date when-iso="1874-06-14" when-custom="sun"/>
+                    <date when-custom="sun" when-iso="1874-06-14"/>
                     <series>jdd</series>
                     <biblScope unit="page">1–2</biblScope>
-                    <link facs="jdd_1874-06-14_1.png"
-                        target="http://gallica.bnf.fr/ark:/12148/bpt6k459024p/f1.item"/>
-                    <link facs="jdd_1874-06-14_2.png"
-                        target="http://gallica.bnf.fr/ark:/12148/bpt6k459024p/f2.item"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -36,6 +32,12 @@
             <p>see http://verdi-requiem.de for a detailed description</p>
         </encodingDesc>
     </teiHeader>
+    <facsimile>
+        <graphic n="jdd_1874-06-14_1.png"
+            url="http://gallica.bnf.fr/ark:/12148/bpt6k459024p/f1.item" xml:id="f1"/>
+        <graphic n="jdd_1874-06-14_2.png"
+            url="http://gallica.bnf.fr/ark:/12148/bpt6k459024p/f2.item" xml:id="f2"/>
+    </facsimile>
     <text xml:lang="fr">
         <body rend="antiqua">
             <head rend="larger">FEUILLETON DU JOURNAL DES DÉBATS</head>
@@ -106,16 +108,16 @@
                     rend="italic">tutti</hi>. Alors, sur une phrase plaintive qu’accompagne une
                 marche harmonique simple, mais d’une contexture élégante, quatre soprani soli
                 achèvent le verset et chantent en notes syncopées le <hi rend="italic"><title
-                        ref="#verdi.requiem.1" n="requiem-aeternam" key="bar:12">Dona eis,
+                        key="bar:12" n="requiem-aeternam" ref="#verdi.requiem.1">Dona eis,
                         Domine</title></hi>. Par une de ces oppositions que le maître affectionne,
                 l’orchestre continue dans le mode majeur la phrase commencée; les voix du chœur se
                 répondent en notes syllabiques, murmurées à <hi rend="italic">mezza voce</hi>; puis
                 les quatre voix <hi rend="italic">soli</hi> chantent sans accompagnement quelques
                 mesures en style fugué qui ramènent le <hi rend="italic"><title ref="#verdi.requiem"
                         >Requiem</title></hi> jusqu’au <hi rend="italic"><title
-                        ref="#verdi.requiem.1" n="requiem-aeternam.re">Luceat eis</title></hi>. Les
+                        n="requiem-aeternam.re" ref="#verdi.requiem.1">Luceat eis</title></hi>. Les
                 mêmes voix traitées dans le même style et entrant successivement l’une après l’autre
-                répètent la même phrase: <hi rend="italic"><title ref="#verdi.requiem.1" n="kyrie"
+                répètent la même phrase: <hi rend="italic"><title n="kyrie" ref="#verdi.requiem.1"
                         >Kyrie eleison, Christe eleison</title></hi>, avec un dessin persistant des
                 basses <hi rend="italic">staccati</hi>; l’entrée du chœur, les développements, les
                 progressions, les changements de rhythme et les ingénieuses combinaisons
@@ -131,7 +133,7 @@
                 cette habileté dans l’art d’écrire qu’on peut s’étonner des quelques négligences qui
                 ont échappé à la plume de M. <persName ref="#verdi.giuseppe">Verdi</persName>, des
                 trois quintes successives, par exemple, qui sont dans l’accompagnement du solo de
-                basse: <hi rend="italic"><title ref="#verdi.requiem.2.confutatis" n="oro-supplex"
+                basse: <hi rend="italic"><title n="oro-supplex" ref="#verdi.requiem.2.confutatis"
                         >Oro supplex et acclinis</title></hi>, au commencement du <hi rend="italic"
                         ><title ref="#verdi.requiem.2.confutatis">Confutatis</title></hi>. Pourquoi
                 ces quintes, qui doivent être voulues évidemment, car il était bien facile de les
@@ -140,7 +142,7 @@
                         Tell</title></hi>, dans l’originalité de l’effet? Je n’aime pas davantage la
                 brusque transition de l’accord de <hi rend="italic">si</hi> majeur à celui de <hi
                     rend="italic">sol</hi> mineur à la reprise du <hi rend="italic"><title
-                        ref="#verdi.requiem.2.confutatis" n="dies-irae">Dies irae</title></hi>,
+                        n="dies-irae" ref="#verdi.requiem.2.confutatis">Dies irae</title></hi>,
                 cette transition étant à peine adoucie par un point d’arrêt à l’orchestre et par un
                 point d’orgue sur la dominante à l’avant-dernière mesure du chant.</p>
             <p>Le <hi rend="italic"><title ref="#verdi.requiem.2">Dies irae</title></hi> se compose
@@ -249,7 +251,7 @@
                         ref="#berlioz.grande-messe-des-morts">Requiem</title></hi> de <persName
                     ref="#berlioz.hector">Berlioz</persName>), et la basse solo laisse tomber comme
                 un glas funèbre entrecoupé de notes de timbales les accents froids et désolés du <hi
-                    rend="italic"><title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors
+                    rend="italic"><title n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">Mors
                         stupebit</title></hi>.</p>
             <cb break="yes" n="2b" type="regular"/>
             <p>J’aime moins la fugue un peu trop sautillante du <hi rend="italic"><title
@@ -276,9 +278,10 @@
                     ref="#verdi.giuseppe">Verdi</persName> n’eût pris soin d’éviter la comparaison
                 dès le début par des oppositions de piano et de forte entre le chant des basses et
                 les réponses du chœur. Cette page est d’ailleurs très belle, et la phrase mélodique
-                    <hi rend="italic"><title ref="#verdi.requiem.2.rex-tremendae" n="salva-me">Salva me,
-                        fons pietatis</title></hi> est conduite très habilement et par d’ingénieuses
-                modulations à travers les différentes parties des soli qu’accompagne le chœur.</p>
+                    <hi rend="italic"><title n="salva-me" ref="#verdi.requiem.2.rex-tremendae">Salva
+                        me, fons pietatis</title></hi> est conduite très habilement et par
+                d’ingénieuses modulations à travers les différentes parties des soli qu’accompagne
+                le chœur.</p>
             <cb break="yes" n="2c" type="regular"/>
             <p>Le <hi rend="italic"><title ref="#verdi.requiem.2.recordare">Recordare</title></hi> à
                 deux voix (soprano et mezzo-soprano), à part sa valeur musicale, a produit une très
@@ -289,14 +292,14 @@
                 flûte et de clarinette qui se détachent sur les tenues du quatuor, les trémolos <hi
                     rend="italic">pianissimo</hi>, les oppositions de nuances, tout cela est
                 intéressant, parfaitement écrit et d’un excellent style. Cet éloge rendra moins
-                amère la critique du morceau suivant: <hi rend="italic"><title
-                        ref="#verdi.requiem.2.ingemisco" n="qui-mariam">Qui Mariam
-                    absolvisti</title></hi>, que le ténor a chanté au-dessous du ton et que l’on
-                dirait détaché de la partition d’<hi rend="italic"><title ref="#verdi.aida"
-                        >Aïda</title></hi>; ces trémolos de violons divisés, ces traits de bassons
-                et de clarinettes, et la forme mélodique elle-même, m’ont fait songer à la grande
-                scène entre <title ref="#verdi.aida.amneris">Amnéris</title> et les prêtres qui
-                viennent de condamner <title ref="#verdi.aida.radames">Radamès</title>.</p>
+                amère la critique du morceau suivant: <hi rend="italic"><title n="qui-mariam"
+                        ref="#verdi.requiem.2.ingemisco">Qui Mariam absolvisti</title></hi>, que le
+                ténor a chanté au-dessous du ton et que l’on dirait détaché de la partition d’<hi
+                    rend="italic"><title ref="#verdi.aida">Aïda</title></hi>; ces trémolos de
+                violons divisés, ces traits de bassons et de clarinettes, et la forme mélodique
+                elle-même, m’ont fait songer à la grande scène entre <title
+                    ref="#verdi.aida.amneris">Amnéris</title> et les prêtres qui viennent de
+                condamner <title ref="#verdi.aida.radames">Radamès</title>.</p>
             <p>Dans le <hi rend="italic"><title ref="#verdi.requiem.2.confutatis"
                     >Confutatis</title></hi>, il n’y a pas seulement le <hi rend="italic">lapsus
                     calami</hi> ou peut-être bien les quintes volontaires que j’ai signalées plus
@@ -309,23 +312,22 @@
                 les développements que le sujet; les premiers et seconds violons à l’octave dominent
                 l’accompagnement de leurs notes plaintives et syncopées; la lamentation <cb
                     break="yes" n="2d" type="regular"/> augmente, grandit, puis s’éteint
-                graduellement à l’entrée du <hi rend="italic"><title
-                        ref="#verdi.requiem.2.lacrymosa" n="pie-jesu">Pie Jesu</title></hi>, que
-                chantent d’abord les quatre voix soli et qui se termine avec l’intervention du
-                chœur.</p>
+                graduellement à l’entrée du <hi rend="italic"><title n="pie-jesu"
+                        ref="#verdi.requiem.2.lacrymosa">Pie Jesu</title></hi>, que chantent d’abord
+                les quatre voix soli et qui se termine avec l’intervention du chœur.</p>
             <p>L’<hi rend="italic"><title ref="#verdi.requiem.3">Offertoire</title></hi> est écrit
                 tout entier pour quatre voix seules; le chant principal, confié d’abord aux altos et
                 aux violoncelles, est répété ensuite par les violons en sourdine; le rhythme change,
-                le mouvement aussi, et le <hi rend="italic"><title
-                        ref="#verdi.requiem.3" n="quam-olim-abrahae">Quam olim Abrahæ</title></hi>,
-                traité en style fugué, sert de trait d’union entre le <hi rend="italic"><title
-                        ref="#verdi.requiem.3" n="domine-jesu">Domine Jesù</title></hi> et l’<hi
-                    rend="italic"><title ref="#verdi.requiem.3" n="hostias">Hostias et
-                    preces</title></hi>, dont la mélodie, chantée par le ténor solo, puis par la
-                basse, est pleine d’onction et de suavité. Le retour du premier motif à six-huit
-                forme la péroraison de l’<hi rend="italic"><title ref="#verdi.requiem.3"
-                        >Offertoire</title></hi> qui peut être cité comme une des pages les plus
-                complètes et les plus remarquables de la partition.</p>
+                le mouvement aussi, et le <hi rend="italic"><title n="quam-olim-abrahae"
+                        ref="#verdi.requiem.3">Quam olim Abrahæ</title></hi>, traité en style fugué,
+                sert de trait d’union entre le <hi rend="italic"><title n="domine-jesu"
+                        ref="#verdi.requiem.3">Domine Jesù</title></hi> et l’<hi rend="italic"
+                        ><title n="hostias" ref="#verdi.requiem.3">Hostias et preces</title></hi>,
+                dont la mélodie, chantée par le ténor solo, puis par la basse, est pleine d’onction
+                et de suavité. Le retour du premier motif à six-huit forme la péroraison de l’<hi
+                    rend="italic"><title ref="#verdi.requiem.3">Offertoire</title></hi> qui peut
+                être cité comme une des pages les plus complètes et les plus remarquables de la
+                partition.</p>
             <p>La fugue à deux chœurs du <hi rend="italic"><title ref="#verdi.requiem.4"
                         >Sanctus</title></hi> doit lever, il me semble, toute incertitude au sujet
                 des aptitudes scolastiques de M. <persName ref="#verdi.giuseppe">Verdi</persName>.
@@ -346,12 +348,12 @@
                 moins quant aux premières mesures du morceau: trémolos des violons divisés et
                 marches d’harmonie rappelant la scène de l’invocation du <hi rend="italic"><title
                         ref="#meyerbeer.le-prophete">Prophète</title></hi>. La basse attaque ensuite
-                le <hi rend="italic"><title ref="#verdi.requiem.6" n="requiem-aeternam">Requiem
+                le <hi rend="italic"><title n="requiem-aeternam" ref="#verdi.requiem.6">Requiem
                         eternam</title></hi>, et sous les trémolos exécutés par les altos et les
                 violoncelles se détachent quelques accords d’instruments de cuivre dans le grave;
                 les voix chantent sans accompagnement jusqu’à la reprise du <hi rend="italic"><title
-                        ref="#verdi.requiem.6" n="requiem-aeternam">Requiem eternam</title></hi>, et il
-                nous faut signaler encore une nouvelle réminiscence d’<hi rend="italic"><title
+                        n="requiem-aeternam" ref="#verdi.requiem.6">Requiem eternam</title></hi>, et
+                il nous faut signaler encore une nouvelle réminiscence d’<hi rend="italic"><title
                         ref="#verdi.aida">Aïda</title></hi> dans la phrase du soprano: <hi
                     rend="italic"><title ref="#unidentified">Quià pius es</title></hi>. Le morceau
                 finit <hi rend="italic">smorzando</hi> avec la reprise des trémolos de violons et
@@ -360,16 +362,16 @@
                 par une psalmodie du soprano-solo continuée par le chœur; puis le chant du soprano
                 se développe, large et très expressif, sur d’intéressans dessins du quatuor. La voix
                 s’éteint graduellement, tout se tait, et, après un silence prolongé, l’orchestre
-                attaque de nouveau les vigoureux accords du <hi rend="italic"><title
-                        ref="#verdi.requiem.7" n="dies-irae">Dies irae</title></hi>, auquel succède la
-                reprise du <hi rend="italic"><title ref="#verdi.requiem.7" n="requiem-aeternam"
+                attaque de nouveau les vigoureux accords du <hi rend="italic"><title n="dies-irae"
+                        ref="#verdi.requiem.7">Dies irae</title></hi>, auquel succède la reprise du
+                    <hi rend="italic"><title n="requiem-aeternam" ref="#verdi.requiem.7"
                         >Requiem</title></hi> sans accompagnement, les voix se substituant aux
                 instruments.</p>
             <p>Les accents suppliants du soprano-solo viennent se superposer sur les derniers
-                épisodes de la fugue du <hi rend="italic"><title
-                        ref="#verdi.requiem.7" n="libera-me.fuga">Libera me</title></hi> et le chœur
-                chantant à <hi rend="italic">mezza voce</hi> n’accompagne plus que d’un léger
-                murmure cette émouvante prière.</p>
+                épisodes de la fugue du <hi rend="italic"><title n="libera-me.fuga"
+                        ref="#verdi.requiem.7">Libera me</title></hi> et le chœur chantant à <hi
+                    rend="italic">mezza voce</hi> n’accompagne plus que d’un léger murmure cette
+                émouvante prière.</p>
             <p>Quelques notes non mesurées dites pianissimo par le soprano et répétées à l’unisson
                 par le chœur, la dernière lueur de la lampe qui s’éteint sous les arceaux d’une
                 cathédrale, voilà comment finit cette belle œuvre qui, malgré quelques réminiscences

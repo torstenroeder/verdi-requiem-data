@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#salzburger-volksblatt"/>
 					<placeName ref="#salzburg"/>
-					<date when-iso="1876-03-30" when-custom="thu"/>
-					<biblScope unit="issue">38</biblScope><biblScope unit="volume"
-						>6</biblScope><series>svb</series>
+					<date when-custom="thu" when-iso="1876-03-30"/>
+					<biblScope unit="issue">38</biblScope>
+					<biblScope unit="volume">6</biblScope>
+					<series>svb</series>
 					<biblScope unit="page">2–3</biblScope>
-					<link facs="svb_1876-03-30_3.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760330&amp;seite=3"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,18 +33,22 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="svb_1876-03-30_3.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760330&amp;seite=3"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="2c" type="initial"/>
 			<head rend="larger">Salzburger Nachrichten.</head>
 			<pb break="null" n="3" type="skipped"/>
-			<p><pb break="yes" n="3" type="regular"/><hi rend="bold"><g type="ASTERISK" n="002A"
+			<p><pb break="yes" n="3" type="regular"/><hi rend="bold"><g n="002A" type="ASTERISK"
 						>*</g>
-					<rs type="event" ref="#salzburg.1876"><persName ref="#verdi.giuseppe"
+					<rs ref="#salzburg.1876" type="event"><persName ref="#verdi.giuseppe"
 							>Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></rs></hi><rs type="event"
-					ref="#salzburg.1876"> wird alsbald <date notBefore-iso="1876-04-17">nach
-						Ostern</date> in der großen <hi rend="antiqua"><placeName
+						<title ref="#verdi.requiem">Requiem</title></rs></hi><rs
+					ref="#salzburg.1876" type="event"> wird alsbald <date notBefore-iso="1876-04-17"
+						>nach Ostern</date> in der großen <hi rend="antiqua"><placeName
 							ref="#salzburg.aula-academica">Aula academica</placeName></hi> zur
 					Aufführung gelangen.</rs> Orchester- und Chor-Proben unter Herrn
 				Mozarteums-Direktor <persName ref="#bach.otto">Bach’s</persName> Leitung dazu sind

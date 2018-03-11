@@ -14,12 +14,11 @@
 					<orgName ref="#amz" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1876-05-10"/>
-					<biblScope unit="issue">19</biblScope><biblScope unit="volume"
-						>11</biblScope><series>amz</series>
+					<biblScope unit="issue">19</biblScope>
+<biblScope unit="volume"
+						>11</biblScope>
+<series>amz</series>
 					<biblScope unit="column">300</biblScope>
-					<link facs="amz_1876-05-10_299-300.jpg"
-						target="https://archive.org/stream/allgemeinemusik14unkngoog#page/n162/mode/2up"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,15 +35,20 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="amz_1876-05-10_299-300.jpg"
+			url="https://archive.org/stream/allgemeinemusik14unkngoog#page/n162/mode/2up"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<cb break="null" n="297" type="initial"/>
-			<head rend="larger">Münchener Musikbrief.</head>
+			<cb break="null" facs="#f1" n="297" type="initial"/>
+			<head rend="larger bold egypt">Münchener Musikbrief.</head>
 			<pb break="yes" n="300" type="skipped"/>
 			<p>Ihren <persName ref="#anonymus.ein-koelner-referent">Cölner
-					Berichterstatter</persName> — s. <ref type="text"
-					target="amz_1876-03-29_koeln.xml">Nr. 13 d. Bl.</ref> — wird zumeist
-				interessiren, <rs type="event" ref="#muenchen.1875.2 koeln.1875.2">dass am <date
+					Berichterstatter</persName> — s. <ref target="amz_1876-03-29_koeln.xml"
+					type="text">Nr. 13 d. Bl.</ref> — wird zumeist interessiren, <rs
+					ref="#muenchen.1875.2 koeln.1875.2" type="event">dass am <date
 						when-iso="1876-03-21">21. März</date>
 					<persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">»Requiem«</title> auch hier unter lebhaftem Beifalle
@@ -54,14 +58,13 @@
 					ref="#muenchen.hoftheater">kgl. Hoftheater</placeName> weniger exact und
 				weihevoll war, als die erste im <placeName ref="#muenchen">Concertsaale</placeName>,
 				wie wohl dieselben Kräfte mitwirkten; vermuthlich hatten nicht mehr die
-				erforderlichen Proben stattgefunden. <ref type="text"
-					target="amz_1876-02-09_muenchen.xml">Meine in Nr. 6-9 d. Bl. abgedruckte
-					Beurtheilung des Werkes</ref> kann ich selbst hinsichtlich der Frage, ob
-				kirchlich oder nicht, wegen der mich Ihr <persName
-					ref="#anonymus.ein-koelner-referent">Cölner Referent</persName> angreift, nur
-				bestätigt finden. Wenn derselbe bessere Gründe für die Bejahung dieser Frage
-				wünscht, als den Hinweis auf den künstlerischen Adel des Werkes und die Berufung auf
-				die ähnliche Textauffassung durch <persName ref="#cherubini.luigi"
+				erforderlichen Proben stattgefunden. <ref target="amz_1876-02-09_muenchen.xml"
+					type="text">Meine in Nr. 6-9 d. Bl. abgedruckte Beurtheilung des Werkes</ref>
+				kann ich selbst hinsichtlich der Frage, ob kirchlich oder nicht, wegen der mich Ihr
+					<persName ref="#anonymus.ein-koelner-referent">Cölner Referent</persName>
+				angreift, nur bestätigt finden. Wenn derselbe bessere Gründe für die Bejahung dieser
+				Frage wünscht, als den Hinweis auf den künstlerischen Adel des Werkes und die
+				Berufung auf die ähnliche Textauffassung durch <persName ref="#cherubini.luigi"
 					>Cherubini</persName> und <persName ref="#mozart.wolfgang-amadeus"
 					>Mozart</persName>, im Vergleich zu welchen einem italienischen Componisten der
 				Jetztzeit wohl ein kleines Plus erlaubt sein möchte, so hätte er nur noch einen Satz

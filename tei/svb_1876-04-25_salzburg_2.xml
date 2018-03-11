@@ -12,15 +12,11 @@
 				<bibl>
 					<orgName ref="#salzburger-volksblatt"/>
 					<placeName ref="#salzburg"/>
-					<date when-iso="1876-04-25" when-custom="tue"/>
-					<biblScope unit="issue">49</biblScope><biblScope unit="volume"
-						>6</biblScope><series>svb</series>
+					<date when-custom="tue" when-iso="1876-04-25"/>
+					<biblScope unit="issue">49</biblScope>
+					<biblScope unit="volume">6</biblScope>
+					<series>svb</series>
 					<biblScope unit="page">2–3</biblScope>
-					<link facs="svb_1876-04-25_2.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=2"/>
-					<link facs="svb_1876-04-25_3.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=3"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -37,12 +33,18 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="svb_1876-04-25_2.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=2"/>
+		<graphic n="svb_1876-04-25_3.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760425&amp;seite=3"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Verdi’s Requiem.</head>
-			<p><gap resp="tr"/><note resp="tr" type="textLink">Es geht die <ref type="text"
-						target="svb_1876-04-25_verdis-requiem-1.xml">Besprechung eines anderen
-						Autors</ref> voraus.</note></p>
+			<p><gap resp="tr"/><note resp="tr" type="textLink">Es geht die <ref
+						target="svb_1876-04-25_verdis-requiem-1.xml" type="text">Besprechung eines
+						anderen Autors</ref> voraus.</note></p>
 			<p>Ueber die Aufführung des <title ref="#verdi.requiem">Requiems</title> berichtet unser
 				ständiger Konzert-Referent:</p>
 			<p>An der Mitwirkung betheiligten sich als Solisten: Die Damen Gräfin <persName
@@ -79,17 +81,17 @@
 				ganzen, der großen heroischen Oper angehörigen orchestralen Apparate, jener
 				einfachen und doch erhabenen Würde entbehrt, welche die Grundbedingung eines
 				kirchlichen Tonwerkes ist.*) Von diesem Gesichtspunkte mag der <persName
-					ref="#breslaur.emil">Berliner Referent</persName> über die <rs type="event"
-					ref="#berlin.1876">Aufführung des <persName ref="#verdi.giuseppe"
+					ref="#breslaur.emil">Berliner Referent</persName> über die <rs
+					ref="#berlin.1876" type="event">Aufführung des <persName ref="#verdi.giuseppe"
 						>Verdi’schen</persName>
 					<title ref="#verdi.requiem">Requiem</title> im <placeName ref="#berlin.hofoper"
 						>dortigen Opernhause</placeName></rs> nicht so ganz Unrecht haben, welcher
 				behauptet: es mache den Eindruck einer mater dolorosa im Schleppkleide mit Chignon
-				und Panzertaille!<note resp="tr" type="textLink">Vgl. <ref type="text"
-						target="bfb_1876-04-19_berlin.xml">Berliner Fremdenblatt, 19. April
-						1876</ref>.</note> — Bezeichnend für das Tonwerk ist jedenfalls, daß es sich
-				aus der Kirche in den Konzertsaal begab, wohin es seiner Konzeption und Anlage nach
-				auch gehört.</p>
+				und Panzertaille!<note resp="tr" type="textLink">Vgl. <ref
+						target="bfb_1876-04-19_berlin.xml" type="text">Berliner Fremdenblatt, 19.
+						April 1876</ref>.</note> — Bezeichnend für das Tonwerk ist jedenfalls, daß
+				es sich aus der Kirche in den Konzertsaal begab, wohin es seiner Konzeption und
+				Anlage nach auch gehört.</p>
 			<p>Von diesem Standpunkte aus kann auch dasselbe eine richtige Beurtheilung finden, das
 				in seiner Originalität und in der, mit den blendendsten Tonfarben ausgestatteten
 				Totalwirkung einen mächtigen und erschütternden Eindruck auf den Zuhörer macht. —
@@ -170,7 +172,7 @@
 				aber eine musikalische That, der Einzeichnung in die Annalen unserer musikliebenden
 				Stadt werth, für das Institut selbst aber mag es ein erfreulicher Moment sein, auf
 				ein erfolgreiches Wirken zurückblicken zu können.</p>
-			<p>(<rs type="event" ref="#salzburg.1876.2">Eine zweite und letzte Aufführung des <title
+			<p>(<rs ref="#salzburg.1876.2" type="event">Eine zweite und letzte Aufführung des <title
 						ref="#verdi.requiem">Requiems</title> findet als Vereins-Concert nächsten
 						<date when-iso="1876-04-30">Sonntag Nachmittags 4 Uhr</date> statt.</rs>
 				Herr Oberst <persName ref="#latterer.josef">v. Latterer</persName> hat auch für

@@ -13,12 +13,10 @@
 					<orgName ref="#die-bombe" role="publisher"/>
 					<placeName ref="#wien"/>
 					<date when-iso="1875-06-13"/>
-					<biblScope unit="issue">23</biblScope><biblScope unit="volume"
-						>5</biblScope><series>bombe</series>
+					<biblScope unit="issue">23</biblScope>
+					<biblScope unit="volume">5</biblScope>
+					<series>bombe</series>
 					<biblScope unit="page">94</biblScope>
-					<link facs="bombe_1875-06-13_94.png"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750613&amp;seite=2"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,26 +33,31 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="bombe_1875-06-13_94.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750613&amp;seite=2"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<pb n="14"/>
+			<pb facs="#f1" n="14"/>
 			<head rend="antiqua bold larger"><persName ref="#verdi.giuseppe"
 				>Verdi</persName>.</head>
 			<p>Unter den nachgelassenen Ideen <hi rend="widespace"><persName
-						ref="#herbeck.johann-von">Herbeck’s</persName></hi> war die, <rs type="event"
-					ref="#wien.1875"><persName ref="#verdi.giuseppe">Verdi</persName> und seine
-						<title ref="#verdi.requiem">Messe</title> den Wienern vorzuführen</rs>,
-				nicht die schlechteste. Das Verdienst der jetzigen Direction besteht darin, diese
-				Idee zur vollen Ausführung gebracht zu haben, <hi rend="widespace">trotzdem</hi> sie
-				von <persName ref="#herbeck.johann-von">Herbeck</persName> war. Es ist ein rührender
-				Zug von Selbstverläugnung, daß selbst Herr <persName ref="#levi.richard">Richard
-					Lewy</persName>, der heute um <persName ref="#herbeck.johann-von"
-					>Herbeck</persName> mit Vergnügen trauert, für <persName ref="#verdi.giuseppe"
-					>Verdi</persName> schwärmt, während <persName ref="#richter.hans">Hans
-					Richter</persName>, der hiesige <persName ref="#wagner.richard"
-					>Wagner</persName>-Pontifex, im Vereine mit den anderen <persName
-					ref="#wagner.richard">Wagner</persName>-Feren ihre wigalawahagewohnten Ohren
-				zuhalten, damit kein profaner Ton <persName ref="#verdi.giuseppe"
+						ref="#herbeck.johann-von">Herbeck’s</persName></hi> war die, <rs
+					ref="#wien.1875" type="event"><persName ref="#verdi.giuseppe">Verdi</persName>
+					und seine <title ref="#verdi.requiem">Messe</title> den Wienern
+				vorzuführen</rs>, nicht die schlechteste. Das Verdienst der jetzigen Direction
+				besteht darin, diese Idee zur vollen Ausführung gebracht zu haben, <hi
+					rend="widespace">trotzdem</hi> sie von <persName ref="#herbeck.johann-von"
+					>Herbeck</persName> war. Es ist ein rührender Zug von Selbstverläugnung, daß
+				selbst Herr <persName ref="#levi.richard">Richard Lewy</persName>, der heute um
+					<persName ref="#herbeck.johann-von">Herbeck</persName> mit Vergnügen trauert,
+				für <persName ref="#verdi.giuseppe">Verdi</persName> schwärmt, während <persName
+					ref="#richter.hans">Hans Richter</persName>, der hiesige <persName
+					ref="#wagner.richard">Wagner</persName>-Pontifex, im Vereine mit den anderen
+					<persName ref="#wagner.richard">Wagner</persName>-Feren ihre wigalawahagewohnten
+				Ohren zuhalten, damit kein profaner Ton <persName ref="#verdi.giuseppe"
 					>Verdi’scher</persName> Melodie Eingang finde. Hier Verdianer — dort
 				Wagnerianer, Propheten rechts, Propheten links, und das Weltkind <persName
 					ref="#jauner.franz-von">Jauner</persName> in der Mitte. Uebrigens war das zur

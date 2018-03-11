@@ -1,25 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Berliner Fremdenblatt, 19. April 1876</title><author><persName ref="#breslaur.emil"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/bfb_1876-04-19_berlin.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#berliner-fremdenblatt" role="publisher"/>
-				<placeName ref="#berlin"/>
-				<date when-iso="1876-04-19" when-custom="wed"/>
-				<biblScope unit="issue">91</biblScope><biblScope unit="subIssue">91</biblScope><series>bfb</series>
-				<biblScope unit="page">1</biblScope>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#berlin"/></creation><textClass><keywords><term type="textType">Werkbesprechung</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger"><placeName ref="#berlin.hofoper">Königliches Opernhaus</placeName>.</head>
-		<p><rs type="event" ref="#berlin.1876.1"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Berliner Fremdenblatt, 19. April 1876</title>
+				<author><persName ref="#breslaur.emil"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/bfb_1876-04-19_berlin.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#berliner-fremdenblatt" role="publisher"/>
+					<placeName ref="#berlin"/>
+					<date when-custom="wed" when-iso="1876-04-19"/>
+					<biblScope unit="issue">91</biblScope>
+					<biblScope unit="subIssue">91</biblScope>
+					<series>bfb</series>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#berlin"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger"><placeName ref="#berlin.hofoper">Königliches
+				Opernhaus</placeName>.</head>
+			<p><rs ref="#berlin.1876.1" type="event"><persName ref="#verdi.giuseppe"
+						>Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title> gelangte am <date
 						when-iso="1876-04-15">15. d. M.</date> auch im hiesigen <placeName
 						ref="#berlin.hofoper">Opernhause</placeName> zur Aufführung</rs>, nachdem es
-				bereits auf den Hofbühnen von <rs type="event" ref="#wien.1875"><placeName
-						ref="#wien">Wien</placeName></rs> und <rs type="event" ref="#dresden.1876"
-						><placeName ref="#dresden">Dresden</placeName></rs>, in <rs type="event"
-					ref="#mailand.1874"><placeName ref="#mailand">Mailand</placeName></rs>, <rs
-					type="event" ref="#florenz.1875"><placeName ref="#florenz"
-					>Florenz</placeName></rs> und andern Orten mit Erfolg gesungen worden ist. Das
-				Werk wurde zum Todestage <persName ref="#manzoni.alessandro">Alessandro
-					Manzoni’s</persName>, des auch in <placeName ref="#deutschland"
+				bereits auf den Hofbühnen von <rs ref="#wien.1875" type="event"><placeName
+						ref="#wien">Wien</placeName></rs> und <rs ref="#dresden.1876" type="event"
+						><placeName ref="#dresden">Dresden</placeName></rs>, in <rs
+					ref="#mailand.1874" type="event"><placeName ref="#mailand"
+					>Mailand</placeName></rs>, <rs ref="#florenz.1875" type="event"><placeName
+						ref="#florenz">Florenz</placeName></rs> und andern Orten mit Erfolg gesungen
+				worden ist. Das Werk wurde zum Todestage <persName ref="#manzoni.alessandro"
+					>Alessandro Manzoni’s</persName>, des auch in <placeName ref="#deutschland"
 					>Deutschland</placeName>, am meisten wohl durch seine »Verlobten« bekannten
 				Dichters, komponirt. Hätte <persName ref="#verdi.giuseppe">Verdi</persName> sein
 					<title ref="#verdi.requiem">Requiem</title> vielleicht nach dem <title
@@ -82,24 +113,23 @@
 				welche durch Wahrheit, Würde und Poesie des Ausdrucks hervorragen und eine wahrhaft
 				fromme Stimmung erzeugen. Da ist das <hi rend="antiqua">»<title
 						ref="#verdi.requiem.2.quid-sum-miser">quid sum miser</title>«</hi> und das
-				darauf folgende <hi rend="antiqua">»<title
-						ref="#verdi.requiem.2.rex-tremendae" n="qui-salvandos">qui
-					salvandos</title>«</hi>, letzteres zwar etwas weltlich, aber von süßestem
-				Wohllaut. Dann das den zweiten Theil des Werkes eröffnende <hi rend="antiqua"
-						>»<title ref="#verdi.requiem.3" n="domine-jesu">domine Jesu
-					Christe</title>«</hi>, das sich durch die edel und melodiös gehaltene
-				Selbständigkeit der vier Stimmen auszeichnet, bis zu der Stelle, wo die Geigen, ganz
-				leise beginnend, hinzutreten und den schönen Eindruck durch opernhaftes Gebahren
-				fast wieder zerstören. Als beste Nummer des Werkes rühmen wir das <hi rend="antiqua"
-						>»<title ref="#verdi.requiem.3" n="hostias">hostias et preces
-				tibi</title>«</hi>, das von ergreifender Wirkung ist. Die Melodie des Tenor, welcher
-				beginnt, ist überaus rührend und ihm schließen sich klagend die andern Stimmen nach
-				und nach an. Das Unisono des Chores auf ein und demselben Tone, womit das <title
-					ref="#verdi.requiem.7">Finale</title> beginnt, hat zwar etwas von einem
+				darauf folgende <hi rend="antiqua">»<title n="qui-salvandos"
+						ref="#verdi.requiem.2.rex-tremendae">qui salvandos</title>«</hi>, letzteres
+				zwar etwas weltlich, aber von süßestem Wohllaut. Dann das den zweiten Theil des
+				Werkes eröffnende <hi rend="antiqua">»<title n="domine-jesu" ref="#verdi.requiem.3"
+						>domine Jesu Christe</title>«</hi>, das sich durch die edel und melodiös
+				gehaltene Selbständigkeit der vier Stimmen auszeichnet, bis zu der Stelle, wo die
+				Geigen, ganz leise beginnend, hinzutreten und den schönen Eindruck durch opernhaftes
+				Gebahren fast wieder zerstören. Als beste Nummer des Werkes rühmen wir das <hi
+					rend="antiqua">»<title n="hostias" ref="#verdi.requiem.3">hostias et preces
+						tibi</title>«</hi>, das von ergreifender Wirkung ist. Die Melodie des Tenor,
+				welcher beginnt, ist überaus rührend und ihm schließen sich klagend die andern
+				Stimmen nach und nach an. Das Unisono des Chores auf ein und demselben Tone, womit
+				das <title ref="#verdi.requiem.7">Finale</title> beginnt, hat zwar etwas von einem
 				Operneffekt, wirkt aber nicht gerade abstoßend, obgleich es im strengen Style nicht
 				zur Nachahmung empfohlen werden dürfte. Es macht den Eindruck eines halb leise von
 				einer Gemeinde im Takte gesprochenen Gebetes. In der Fuge des Schlußchors <hi
-					rend="antiqua">»<title ref="#verdi.requiem.7" n="libera-me.fuga">libera me
+					rend="antiqua">»<title n="libera-me.fuga" ref="#verdi.requiem.7">libera me
 						domine</title>«</hi> begegnen wir einem sehr charakteristischen Thema, das
 				geschickt und wirkungsvoll behandelt wird; sowohl im Aufbau wie in der Stimmung
 				zeigt sich hier der Einfluß unserer großen Kirchen-Komponisten. Leider bleibt die
@@ -110,8 +140,8 @@
 				Orchesters lassen uns nicht zu ungetheiltem Genuß des großartig angelegten Satzes
 				kommen. Herrscht in dem, was wir bisher erwähnten, zumeist ein würdiger Ton, so
 				haben wir in dem Uebrigen fast nur einen Zwiespalt zwischen Wort und Ton, eine
-				Vergewaltigung der Textworte zu beklagen. Gleich im <title
-					ref="#verdi.requiem.1" n="requiem-aeternam">ersten Chore</title>, der begleitet von
+				Vergewaltigung der Textworte zu beklagen. Gleich im <title n="requiem-aeternam"
+					ref="#verdi.requiem.1">ersten Chore</title>, der begleitet von
 				Streichinstrumenten <hi rend="antiqua">con sordini</hi> vielversprechend und
 				stimmungsvoll anhebt, treffen wir auf eine durchaus widersinnige Textzerreißung.
 				Zwischen <hi rend="antiqua">aeternam</hi> und <hi rend="antiqua">dona</hi>, zwischen
@@ -122,8 +152,8 @@
 				würde jeden deutschen Requiem-Komponisten bittre Vorwürfe machen, wenn er sich je so
 				etwas zu Schulden kommen ließe. Das wilde <hi rend="antiqua">»<title
 						ref="#verdi.requiem.2.dies-irae">dies irae</title>«</hi> bis zu <hi
-					rend="antiqua">»<title ref="#verdi.requiem.2.dies-irae" n="quantus-tremor">quando
-						judex</title>«</hi> würde als Hunnenchor in der Oper »<title
+					rend="antiqua">»<title n="quantus-tremor" ref="#verdi.requiem.2.dies-irae"
+						>quando judex</title>«</hi> würde als Hunnenchor in der Oper »<title
 					ref="#verdi.attila">Attila</title>« desselben Komponisten gewiß sehr wirksam
 				sein. Die rasenden Gänge der Violinen, die Aufwendung der Blas- und
 				Schlag-Instrumente, die mit voller Kraft eintreten, lassen eher die orchestrale
@@ -131,11 +161,11 @@
 					irae«</hi> vermuthen. In dem nächsten Chore <hi rend="antiqua">»<title
 						ref="#verdi.requiem.2.tuba-mirum">tuba mirum</title>«</hi>, in dem sich aber
 				der Komponist nicht der Posaune, sondern statt ihrer iniger Trompeten bedient, wirkt
-				das viermal wiederkehrende <hi rend="antiqua">»<title
-						ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">mors</title>«</hi> mit dem
-				Schlage der großen Trommel nach jeder Wiederholung nahezu komisch. Ebenso wild und
-				rauschend wie das <hi rend="antiqua">»<title ref="#verdi.requiem.2.dies-irae">dies
-						irae</title>«</hi> ist der Chor <hi rend="antiqua">»<title
+				das viermal wiederkehrende <hi rend="antiqua">»<title n="mors-stupebit"
+						ref="#verdi.requiem.2.tuba-mirum">mors</title>«</hi> mit dem Schlage der
+				großen Trommel nach jeder Wiederholung nahezu komisch. Ebenso wild und rauschend wie
+				das <hi rend="antiqua">»<title ref="#verdi.requiem.2.dies-irae">dies
+					irae</title>«</hi> ist der Chor <hi rend="antiqua">»<title
 						ref="#verdi.requiem.2.lacrymosa">lacrymosa dies illa</title>«</hi> gehalten,
 				hier kommen noch Becken, Posaunen und große Trommel zu <cb break="yes" n="1e"
 					type="regular"/>der ohnehin starken Instrumentalbegleitung. Mit ganz besonderem
@@ -170,7 +200,8 @@
 					ref="#fricke.august-ludwig">Fricke</persName> oder <persName ref="#krolop.franz"
 					>Krolop</persName>, gehört. Ein wuchtigeres Fundament hätte auch den
 				Soloquartetten einen noch größeren Reiz verliehen.</p>
-		<p rend="right"><hi rend="widespace"><persName ref="#breslaur.emil">Emil
-				Breslaur</persName></hi>.</p>
-	</body></text>
+			<p rend="right"><hi rend="widespace"><persName ref="#breslaur.emil">Emil
+						Breslaur</persName></hi>.</p>
+		</body>
+	</text>
 </TEI>

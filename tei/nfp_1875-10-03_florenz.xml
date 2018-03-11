@@ -1,17 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 3. Oktober 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1875-10-03_florenz.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#neue-freie-presse" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-10-03" when-custom="sun"/>
-				<biblScope unit="issue">3990</biblScope><biblScope unit="subIssue">3990</biblScope><series>nfp</series>
-				<biblScope unit="page">7</biblScope>
-				<link facs="nfp_1875-10-03_7.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18751003&amp;seite=7"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#florenz"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="6c" type="initial"/>
-		<head rend="larger">Theater- und Kunstnachrichten.</head>
-		<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date when-iso="1875-10-03">2. October</date>.</p>
-		<pb break="null" n="7" type="skipped"/>
-		<p>— <rs type="event" ref="#florenz.1875"><persName ref="#verdi.giuseppe">Verdi’s</persName> <hi rend="widespace"><title ref="#verdi.requiem">Requiem-Messe</title></hi> hat an den vier Abenden, an welchen sie gelegentlich der Michel-Angelo-Feste in <placeName ref="#florenz">Florenz</placeName> einmal im dortigen <placeName ref="#florenz.teatro-principe-umberto">Teatro Principe Umberto</placeName> und dreimal im <placeName ref="#florenz.teatro-pagliano">Teatro Pagliano</placeName> aufgeführt wurde</rs>, eine Einnahme von 74,000 Lire ergeben. Bei der letzten Aufführung war der Andrang des Publicums ein so außerordentlicher, daß das Theater nicht mehr Raum genug bot und demselben in Folge Erlaubniß der Polizei auch ein Theil der Bühne eingeräumt wurde.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Freie Presse, Wien, 3. Oktober 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nfp_1875-10-03_florenz.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neue-freie-presse" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="sun" when-iso="1875-10-03"/>
+					<biblScope unit="issue">3990</biblScope>
+					<biblScope unit="subIssue">3990</biblScope>
+					<series>nfp</series>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#florenz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Kurzbericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nfp_1875-10-03_6.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18751003&amp;seite=6"
+			xml:id="f1"/>
+		<graphic n="nfp_1875-10-03_7.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18751003&amp;seite=7"
+			xml:id="f2"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" facs="#f1" n="6c" type="initial"/>
+			<head rend="larger">Theater- und Kunstnachrichten.</head>
+			<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date
+					when-iso="1875-10-03">2. October</date>.</p>
+			<pb break="null" facs="#f2" n="7" type="skipped"/>
+			<p>— <rs ref="#florenz.1875" type="event"><persName ref="#verdi.giuseppe"
+						>Verdi’s</persName>
+					<hi rend="widespace"><title ref="#verdi.requiem">Requiem-Messe</title></hi> hat
+					an den vier Abenden, an welchen sie gelegentlich der Michel-Angelo-Feste in
+						<placeName ref="#florenz">Florenz</placeName> einmal im dortigen <placeName
+						ref="#florenz.teatro-principe-umberto">Teatro Principe Umberto</placeName>
+					und dreimal im <placeName ref="#florenz.teatro-pagliano">Teatro
+						Pagliano</placeName> aufgeführt wurde</rs>, eine Einnahme von 74,000 Lire
+				ergeben. Bei der letzten Aufführung war der Andrang des Publicums ein so
+				außerordentlicher, daß das Theater nicht mehr Raum genug bot und demselben in Folge
+				Erlaubniß der Polizei auch ein Theil der Bühne eingeräumt wurde.</p>
+		</body>
+	</text>
 </TEI>

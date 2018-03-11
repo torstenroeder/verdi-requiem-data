@@ -1,18 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader><fileDesc><titleStmt><title>Wiener Zeitung, 2. Juni 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wz_1874-06-02_mailand-paris.xml</p></publicationStmt><sourceDesc><bibl>
-                <orgName ref="#wiener-zeitung" role="publisher"/>
-                <placeName ref="#wien"/>
-                <date when-iso="1874-06-02" when-custom="thu"/>
-                <biblScope unit="issue">124</biblScope><biblScope unit="subIssue">124</biblScope><series>wz</series>
-                <biblScope unit="page">987 [3]</biblScope>
-                <link facs="wz_1874-06-17_987.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740602&amp;seite=17"/>
-            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#mailand"/></creation><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Randtexte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-    <text xml:lang="de"><body rend="fraktur">
-        <pb break="null" n="986" type="initial"/>
-        <head rend="larger">Kleine Chronik.</head>
-        <p rend="smaller center"><placeName ref="#wien">Wien</placeName>, <date when-iso="1874-06-02">2.
-                Juni</date>.</p>
-        <cb break="null" n="987b" type="skipped"/>
-        <p rend="smaller">(<hi rend="widespace">Musikalisches aus <placeName ref="#italien">Italien</placeName></hi>.) <persName ref="#verdi.giuseppe">Verdi’s</persName> <title ref="#verdi.requiem">Requiem</title> ist soeben in elegantem Klavierauszug bei <orgName ref="#ricordi">Ricordi</orgName> in <placeName ref="#mailand">Mailand</placeName> erschienen. Ueber die <rs type="event" ref="#mailand.1874.1">Aufführung, welche am <date when-iso="1874-05-25">25<supplied resp="tr">.</supplied> Mai</date> im <placeName ref="#mailand.teatro-alla-scala">Scala-Theater</placeName> stattfand</rs>, erfahren wir jetzt die näheren Details. — Charakteristisch ist die Aeußerung der „<orgName ref="#l-opinione">Opinione</orgName>“, daß <persName ref="#verdi.giuseppe">Verdi</persName>, als er im Orchester erschien, mit einem frenetischen Geheul (!) von mehreren Minuten empfangen wurde („<hi rend="antiqua">un urlo frenetico, durante alcuni minuti</hi>“.) Der Lorbeerkranz, welchen <persName ref="#verdi.giuseppe">Verdi</persName> erhielt, bestand nicht etwa aus gewöhnlichem, natürlichen Lorbeer, welcher in <placeName ref="#italien">Italien</placeName> überall wild wächst und wohlfeil genug ist, sondern aus Silber und Gold und mit einem Stern von Brillanten<supplied resp="tr">.</supplied> <persName ref="#buelow.hans-von">Hans von Bülow</persName> war <hi rend="widespace">nicht</hi>, wie die Zeitungen gemeldet, unter den Gästen, er dementirte die bezügliche Zeitungsnotiz, was ihm die „<orgName ref="#l-opinione">Opinione</orgName>“ sehr übel nimmt: „<hi rend="antiqua">un pianista tedesco, certo Signor <persName ref="#buelow.hans-von">Haus <hi rend="fraktur">(so!)</hi> de Bulow <hi rend="fraktur">(so!)</hi></persName></hi>“, sagt sie, „ein deutscher Pianist, ein gewisser <persName ref="#buelow.hans-von">Hans von Bülow</persName>“. Der „gewisse“ <persName ref="#buelow.hans-von">Hans oder Haus von Bülow oder Bulow</persName> war einige Jahre lang in <placeName ref="#italien">Italien</placeName> für deutsche Musik bekanntlich einfrig und mit Erfolg bemüht und so etwas verdient Strafe. Zunächst reist <persName ref="#verdi.giuseppe">Verdi</persName> mit den vier Solisten nach <placeName ref="#paris">Paris</placeName>, wo sein <title ref="#verdi.requiem">Requiem</title> sechs Mal in der komischen Oper aufgeführt werden soll — für ein „<title ref="#verdi.requiem">Requiem</title>“ ein wunderlich gewähltes Local! „Der Erfolg“, sagt die „<orgName ref="#l-opinione">Opinione</orgName>“, „ist, Dank den enthusiastischen Kritiken, bereits gesichert, es sind bereits Briefe von Personen eingetroffen, welche sich um Plätze bewerben, weil beinahe schon Alles vergriffen ist.“ Vielleicht wäre es Zeit, einmal auch den Vers <persName ref="#juvenal">Juvenals</persName> in Musik zu setzen: „<hi rend="antiqua">difficile est satiram non scribere</hi>“.<note resp="tr" type="literatureLink">Vgl. <persName ref="#juvenal">Juvenal</persName>, Satirae: »Es ist schwierig, keine Satire zu schreiben.«</note></p>
-    </body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wiener Zeitung, 2. Juni 1874</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/wz_1874-06-02_mailand-paris.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#wiener-zeitung" role="publisher"/>
+                    <placeName ref="#wien"/>
+                    <date when-custom="thu" when-iso="1874-06-02"/>
+                    <biblScope unit="issue">124</biblScope>
+                    <biblScope unit="subIssue">124</biblScope>
+                    <series>wz</series>
+                    <biblScope unit="page">987 [3]</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#mailand"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Kurzbericht</term>
+                    <term type="corpusGroup">Randtexte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic n="wz_1874-06-17_987.png"
+            url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740602&amp;seite=17"/>
+    </facsimile>
+    <text xml:lang="de">
+        <body rend="fraktur">
+            <pb break="null" n="986" type="initial"/>
+            <head rend="larger">Kleine Chronik.</head>
+            <p rend="smaller center"><placeName ref="#wien">Wien</placeName>, <date
+                    when-iso="1874-06-02">2. Juni</date>.</p>
+            <cb break="null" n="987b" type="skipped"/>
+            <p rend="smaller">(<hi rend="widespace">Musikalisches aus <placeName ref="#italien"
+                        >Italien</placeName></hi>.) <persName ref="#verdi.giuseppe"
+                    >Verdi’s</persName>
+                <title ref="#verdi.requiem">Requiem</title> ist soeben in elegantem Klavierauszug
+                bei <orgName ref="#ricordi">Ricordi</orgName> in <placeName ref="#mailand"
+                    >Mailand</placeName> erschienen. Ueber die <rs ref="#mailand.1874.1"
+                    type="event">Aufführung, welche am <date when-iso="1874-05-25">25<supplied
+                            resp="tr">.</supplied> Mai</date> im <placeName
+                        ref="#mailand.teatro-alla-scala">Scala-Theater</placeName> stattfand</rs>,
+                erfahren wir jetzt die näheren Details. — Charakteristisch ist die Aeußerung der
+                    „<orgName ref="#l-opinione">Opinione</orgName>“, daß <persName
+                    ref="#verdi.giuseppe">Verdi</persName>, als er im Orchester erschien, mit einem
+                frenetischen Geheul (!) von mehreren Minuten empfangen wurde („<hi rend="antiqua">un
+                    urlo frenetico, durante alcuni minuti</hi>“.) Der Lorbeerkranz, welchen
+                    <persName ref="#verdi.giuseppe">Verdi</persName> erhielt, bestand nicht etwa aus
+                gewöhnlichem, natürlichen Lorbeer, welcher in <placeName ref="#italien"
+                    >Italien</placeName> überall wild wächst und wohlfeil genug ist, sondern aus
+                Silber und Gold und mit einem Stern von Brillanten<supplied resp="tr">.</supplied>
+                <persName ref="#buelow.hans-von">Hans von Bülow</persName> war <hi rend="widespace"
+                    >nicht</hi>, wie die Zeitungen gemeldet, unter den Gästen, er dementirte die
+                bezügliche Zeitungsnotiz, was ihm die „<orgName ref="#l-opinione"
+                >Opinione</orgName>“ sehr übel nimmt: „<hi rend="antiqua">un pianista tedesco, certo
+                    Signor <persName ref="#buelow.hans-von">Haus <hi rend="fraktur">(so!)</hi> de
+                        Bulow <hi rend="fraktur">(so!)</hi></persName></hi>“, sagt sie, „ein
+                deutscher Pianist, ein gewisser <persName ref="#buelow.hans-von">Hans von
+                    Bülow</persName>“. Der „gewisse“ <persName ref="#buelow.hans-von">Hans oder Haus
+                    von Bülow oder Bulow</persName> war einige Jahre lang in <placeName
+                    ref="#italien">Italien</placeName> für deutsche Musik bekanntlich einfrig und
+                mit Erfolg bemüht und so etwas verdient Strafe. Zunächst reist <persName
+                    ref="#verdi.giuseppe">Verdi</persName> mit den vier Solisten nach <placeName
+                    ref="#paris">Paris</placeName>, wo sein <title ref="#verdi.requiem"
+                    >Requiem</title> sechs Mal in der komischen Oper aufgeführt werden soll — für
+                ein „<title ref="#verdi.requiem">Requiem</title>“ ein wunderlich gewähltes Local!
+                „Der Erfolg“, sagt die „<orgName ref="#l-opinione">Opinione</orgName>“, „ist, Dank
+                den enthusiastischen Kritiken, bereits gesichert, es sind bereits Briefe von
+                Personen eingetroffen, welche sich um Plätze bewerben, weil beinahe schon Alles
+                vergriffen ist.“ Vielleicht wäre es Zeit, einmal auch den Vers <persName
+                    ref="#juvenal">Juvenals</persName> in Musik zu setzen: „<hi rend="antiqua"
+                    >difficile est satiram non scribere</hi>“.<note resp="tr" type="literatureLink"
+                    >Vgl. <persName ref="#juvenal">Juvenal</persName>, Satirae: »Es ist schwierig,
+                    keine Satire zu schreiben.«</note></p>
+        </body>
+    </text>
 </TEI>

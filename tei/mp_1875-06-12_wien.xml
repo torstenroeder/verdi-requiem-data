@@ -1,35 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Morgen-Post, Wien, 12. Juni 1875</title><author><persName ref="#akronym.ahm"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mp_1875-06-12_hofoperntheater.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#morgen-post"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-06-12" when-custom="sat"/>
-				<biblScope unit="issue">161</biblScope><biblScope unit="volume">25</biblScope><series>mp</series>
-				<biblScope unit="page">4</biblScope>
-				<link facs="mp_1875-06-12_4.jpg"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#wien"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Theater, Kunst und Literatur.</head>
-		<p>— <hi rend="bold"><placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName>.</hi>
-			Maestro <persName ref="#verdi.giuseppe">Verdi</persName> hat gestern gelegentlich der <rs type="event" ref="#wien.1875.1">ersten Aufführung seines, dem Andenken des italienischen Dichters
-					<persName ref="#manzoni.alessandro">Manzoni</persName> gewidmeten <title ref="#verdi.requiem">Requiems</title></rs> einen ganz außergewöhnlichen und
-			wohlberechtigten Triumph gefeiert. Schon bei seinem ersten Erscheinen am Dirigentenpulte
-			erhob sich ein Beifallssturm, der sich nach fast jeder Nummer (von welchen drei
-			wiederholt werden mußten) erneuerte und der nach der ersten Abtheilung seinen
-			Gipfelpunkt erreicht zu haben schien. Der Begeisterungsjubel aber, der sich zum Schlusse
-			erhob und sich gar nicht zu legen wollen schien, spottet aller Beschreibung.</p>
-		<p><persName ref="#verdi.giuseppe">Verdi</persName> mußte immer wieder erscheinen, brachte aber
-			immer wieder sein ausgezeichnetes Gesangs-Quartett, die Damen <persName ref="#stolz.teresa">Stolz</persName>, <persName ref="#waldmann.maria">Waldmann</persName> und die Herren
-				<persName ref="#medini.paolo"><choice>
-					<orig>Mesini</orig>
-					<corr resp="tr">Medini</corr>
-				</choice></persName> und <persName ref="#masini.angelo"><choice>
-					<orig>Madini</orig>
-					<corr resp="tr">Masini</corr>
-				</choice></persName> mit, zugleich durch <sic>Geberden</sic> einen Theil des
-			Beifalls auf Chor und Orchester überweisend. Direktor <persName ref="#jauner.franz-von">Jauner</persName> überreichte dem Kompositeur, der durch die vielen Zeichen der
-			Anerkennung sichtlich erfreut war, einen mächtigen Lorbeerkranz. Ueber das
-			hochbedeutsame, effektvoll gearbeitete und höchst würdig gehaltene Werk, sowie über die
-			obgenannten vier ausgezeichneten Gesangskräfte sprechen wir morgen. Das Haus war von
-			einem eleganten Publikum bis zum letzten Platz besetzt. <hi rend="antiqua"><persName ref="#akronym.ahm">ahm</persName></hi>.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Morgen-Post, Wien, 12. Juni 1875</title>
+				<author><persName ref="#akronym.ahm"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mp_1875-06-12_hofoperntheater.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#morgen-post"/>
+					<placeName ref="#wien"/>
+					<date when-custom="sat" when-iso="1875-06-12"/>
+					<biblScope unit="issue">161</biblScope>
+					<biblScope unit="volume">25</biblScope>
+					<series>mp</series>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<!--<graphic n="mp_1875-06-12_4.jpg"/>-->
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Theater, Kunst und Literatur.</head>
+			<p>— <hi rend="bold"><placeName ref="#wien.hof-operntheater"
+					>Hofoperntheater</placeName>.</hi> Maestro <persName ref="#verdi.giuseppe"
+					>Verdi</persName> hat gestern gelegentlich der <rs ref="#wien.1875.1"
+					type="event">ersten Aufführung seines, dem Andenken des italienischen Dichters
+						<persName ref="#manzoni.alessandro">Manzoni</persName> gewidmeten <title
+						ref="#verdi.requiem">Requiems</title></rs> einen ganz außergewöhnlichen und
+				wohlberechtigten Triumph gefeiert. Schon bei seinem ersten Erscheinen am
+				Dirigentenpulte erhob sich ein Beifallssturm, der sich nach fast jeder Nummer (von
+				welchen drei wiederholt werden mußten) erneuerte und der nach der ersten Abtheilung
+				seinen Gipfelpunkt erreicht zu haben schien. Der Begeisterungsjubel aber, der sich
+				zum Schlusse erhob und sich gar nicht zu legen wollen schien, spottet aller
+				Beschreibung.</p>
+			<p><persName ref="#verdi.giuseppe">Verdi</persName> mußte immer wieder erscheinen,
+				brachte aber immer wieder sein ausgezeichnetes Gesangs-Quartett, die Damen <persName
+					ref="#stolz.teresa">Stolz</persName>, <persName ref="#waldmann.maria"
+					>Waldmann</persName> und die Herren <persName ref="#medini.paolo"><choice>
+						<orig>Mesini</orig>
+						<corr resp="tr">Medini</corr>
+					</choice></persName> und <persName ref="#masini.angelo"><choice>
+						<orig>Madini</orig>
+						<corr resp="tr">Masini</corr>
+					</choice></persName> mit, zugleich durch <sic>Geberden</sic> einen Theil des
+				Beifalls auf Chor und Orchester überweisend. Direktor <persName
+					ref="#jauner.franz-von">Jauner</persName> überreichte dem Kompositeur, der durch
+				die vielen Zeichen der Anerkennung sichtlich erfreut war, einen mächtigen
+				Lorbeerkranz. Ueber das hochbedeutsame, effektvoll gearbeitete und höchst würdig
+				gehaltene Werk, sowie über die obgenannten vier ausgezeichneten Gesangskräfte
+				sprechen wir morgen. Das Haus war von einem eleganten Publikum bis zum letzten Platz
+				besetzt. <hi rend="antiqua"><persName ref="#akronym.ahm">ahm</persName></hi>.</p>
+		</body>
+	</text>
 </TEI>

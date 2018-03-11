@@ -1,71 +1,127 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Echo der Gegenwart, Aachen, 19. März 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/edg_1876-03-19_musikalisches.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#echo-der-gegenwart" role="publisher"/>
-				<placeName ref="#aachen"/>
-				<date when-iso="1876-03-19" when-custom="sun"/>
-				<biblScope unit="issue">79</biblScope><biblScope unit="subIssue">79</biblScope>
-				<biblScope unit="page">[2]–[3]</biblScope>
-				<link facs="edg_1876-03-19_a.png" target="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/pageview/2661392"/>
-				<link facs="edg_1876-03-19_b.png" target="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/pageview/2661393"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#aachen"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Musikalisches.</head>
-		<p><rs type="event" ref="#aachen.1876">Also das „berühmte“ <persName ref="#verdi.giuseppe">Verdi’sche</persName>
-				<title ref="#verdi.requiem">Requiem</title> ist nun auch durch unsern Concertsaal
-				gewandert, hat aber hier nicht ganz die Begeisterung erweckt, von welcher wir aus
-				andern Städten gelesen haben.</rs> Zwar begreifen wir recht wohl, daß in <rs type="event" ref="#wien.1875"><placeName ref="#wien">Wien</placeName></rs>, <rs type="event" ref="#paris.1874"><placeName ref="#paris">Paris</placeName></rs> etc. die Bedingungen und Umstände der
-			Begeisterungs-Erweckung günstiger waren. In <rs type="event" ref="#wien.1875"><placeName ref="#wien">Wien</placeName></rs> namentlich hat Herr <persName ref="#verdi.giuseppe">Verdi</persName> sein Werk persönlich einstudirt und geleitet; der große und
-			wohldisziplinirte Chor der Hofoper stand ihm täglich zur Verfügung, ein exquisites
-			Solo-Quartett brachte er aus Italien mit, und da läßt sich denken, daß die Aufführung
-			mit allem möglichen musikalischen Raffinement in Scene gesetzt wurde, daß die auf jeder
-			Seite der Partitur dutzendweis vorgeschriebenen dynamischen Steigerungen vom fünfmaligen
-				<hi rend="antiqua">ppppp.</hi> bis zum <hi rend="antiqua">ff.</hi> auf’s feinste
-			ausgearbeitet wurden und namentlich die <hi rend="antiqua">piano’s</hi> das Publikum
-			bezauberten, daß die Sätze, mit ihren großen <hi rend="antiqua">crescendo’s</hi> an
-				<persName ref="#donizetti.gaetano">Donizetti’sche</persName> und <persName ref="#verdi.giuseppe">Verdi’sche</persName> Opern-Finales erinnern, wie z. B. das <title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title>, dort mit größtmöglichem Effekt
-			vorgetragen wurden und enthusiastische Aufnahme fanden. Auf der andern Seite aber
-			begreifen wir eben so wohl, daß das Aachener Publikum viel kühler an die Sache ging.
-			Schon das wirkte befremdend auf die Mehrzahl unserer Hörer, daß der herrliche
-			Kirchentext, den sie sonst mit Ehrfurcht zu betrachten gewohnt sind, der ein
-			unablässiges Gebet ist, hier als Folie zu einer theatralischen, bald excessiv lärmenden,
-			bald hypersentimentalen Musik dient. Sah der Hörer aber von dem ehrwürdigen Text ganz ab
-			und nahm die Musik für das, was sie eigentlich ist: eine profane Theater- und
-			Concert-Musik, — denn die paar fugirten Sätze des <title ref="#verdi.requiem.4">Sanctus</title> und <title ref="#verdi.requiem.7">Libera</title> verändern den
-			Charakter des Werkes nicht — so war doch der Reiz der Ausführung bei uns nicht so groß,
-			um ihn zu bemeistern. Das Solo-Quartett war nicht so homogen, d. h. so zueinander
-			passend, wie man es hätte wünschen können; aber hier zu Lande hat man keine große
-			Auswahl und muß die Sänger nehmen, wie man sie bekommen kann. Und unsere Dilettanten im
-			Chor besuchen die Proben nicht so regelmäßig, wie es nöthig wäre, um solche feine
-			Schattirungen, wie sie <persName ref="#verdi.giuseppe">Verdi</persName> verlangt und wodurch
-			seine Musik wirken muß, ausführen zu können. Denn einen großen inneren Gehalt hat diese
-			Musik nicht, und es muß ihr daher äußerlich etwas angethan werden; es ist eben
-			Effekt-Musik. So fanden denn wohl die einzelnen Nummern bei unserm Publikum mäßigen
-			Beifall, aber zu einem Enthusiasmus, zu einem <hi rend="antiqua">Dacapo</hi>-Verlangen,
-			wie anderwärts, kam es nicht.</p>
-		<p>Betrachten wir nun die Musik an und für sich, so ist anzuerkennen, daß der <persName ref="#verdi.giuseppe">Verdi</persName> des <title ref="#verdi.il-trovatore">Troubadour</title> sich bis zu seinem Requiem bedeutend veredelt hat. Lieferte er
-			damals nur Decorations-Malerei mit gar groben Pinselstrichen, so hat sich sein Malen
-			doch heute sowohl in der Faktur, als im Charakter gewaltig verfeinert, wenn es auch noch
-			immer Dekorations-Malerei ist. Dagegen birgt die Partitur des <title ref="#verdi.il-trovatore">Troubadour</title> mehr Ursprüngliches, mehr Erfindung, als
-			das <title ref="#verdi.requiem">Requiem</title>; denn hier stoßen wir jeden Augenblick auf
-			gute Bekannte; die Orchester-Wirkungen sind zum Theil <persName ref="#wagner.richard">Wagner</persName> abgelauscht, und die Melodien der Soli klingen alle, als ob wir sie
-			schon oft gehört hätten. Eine geschickte, überall auf Wirkung spekulirende Mache läßt
-			sich nicht abstreiten, und wenn hin und wieder des Guten zu viel gethan ist, so muß man
-			immer wieder das italienische Blut berücksichtigen, das grelle Farben mehr liebt, als
-			wir Deutschen.</p>
-		<p>Ausgeführt wurde das Werk von unserm Standpukte aus ganz leidlich; es ging Alles recht
-			glatt, und sowohl Orchester als Chor haben sich ihrer nicht leichten Aufgabe mit Liebe
-			hingegeben und sie mit Glanz durchgeführt. Die Solisten waren: 1. Frau <persName ref="#lederer-ubrich.asminde" role="soloist.soprano">Lederer-Ubrich</persName>, Sopran,
-			welche ihre umfangreiche, bald im tiefen c sich bewegende, bald bis zum hohen c
-			hinansteigende Partie tapfer und verständig wiedergab, 2. Frl. <persName ref="#keller.elsa" role="soloist.mezzo">Elsa Keller</persName> aus <placeName ref="#koeln">Köln</placeName>,
-			Mezzosopran resp. Alt, deren kräftiges Organ und echt dramatische Gesangsweise
-			imponirten, 3. Herr <persName ref="#schneider.carl" role="soloist.tenor">Schneider</persName>
-			aus <placeName ref="#koeln">Köln</placeName>, Tenor, unser alter, braver Oratoriensänger, der in
-			gewohnter Liebenswürdigkeit noch stets bereit ist, auszuhelfen, wenn man ihn ruft, stets
-			noch schön zu singen weiß und nichts verdirbt, 4. Herr <persName ref="#pfeiffer.xxx" role="soloist.basso">Pfeiffer</persName> aus <placeName ref="#duesseldorf">Düsseldorf</placeName>, Baß resp. Bariton, der mit sonorer, ausgiebiger Stimme seinen
-			Part zu allseitiger Zufriedenheit vortrug. Im Ensemble waren die Stimmen etwas ungleich;
-			Alt und Baß verdeckten stellenweise Tenor und Sopran, abgesehen von der großen
-			Verschiedenheit der Timbres. — Besondere Anerkennung verdient Hr. <persName ref="#breunung.ferdinand">Breunung</persName> dafür, das heilige Werk während der
-			unruhigen Karnevalszeit mit nur wenigen Proben so gut einstudirt zu haben, und
-			jedenfalls ist es dankenswerth, dasselbe in so würdiger Wiedergabe gehört zu haben.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Echo der Gegenwart, Aachen, 19. März 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/edg_1876-03-19_musikalisches.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#echo-der-gegenwart" role="publisher"/>
+					<placeName ref="#aachen"/>
+					<date when-custom="sun" when-iso="1876-03-19"/>
+					<biblScope unit="issue">79</biblScope>
+					<biblScope unit="subIssue">79</biblScope>
+					<biblScope unit="page">[2]–[3]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#aachen"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="edg_1876-03-19_a.png"
+			url="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/pageview/2661392"
+			xml:id="f1"/>
+		<graphic n="edg_1876-03-19_b.png"
+			url="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/pageview/2661393"
+			xml:id="f2"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Musikalisches.</head>
+			<p><rs ref="#aachen.1876" type="event">Also das „berühmte“ <persName
+						ref="#verdi.giuseppe">Verdi’sche</persName>
+					<title ref="#verdi.requiem">Requiem</title> ist nun auch durch unsern
+					Concertsaal gewandert, hat aber hier nicht ganz die Begeisterung erweckt, von
+					welcher wir aus andern Städten gelesen haben.</rs> Zwar begreifen wir recht
+				wohl, daß in <rs ref="#wien.1875" type="event"><placeName ref="#wien"
+						>Wien</placeName></rs>, <rs ref="#paris.1874" type="event"><placeName
+						ref="#paris">Paris</placeName></rs> etc. die Bedingungen und Umstände der
+				Begeisterungs-Erweckung günstiger waren. In <rs ref="#wien.1875" type="event"
+						><placeName ref="#wien">Wien</placeName></rs> namentlich hat Herr <persName
+					ref="#verdi.giuseppe">Verdi</persName> sein Werk persönlich einstudirt und
+				geleitet; der große und wohldisziplinirte Chor der Hofoper stand ihm täglich zur
+				Verfügung, ein exquisites Solo-Quartett brachte er aus Italien mit, und da läßt sich
+				denken, daß die Aufführung mit allem möglichen musikalischen Raffinement in Scene
+				gesetzt wurde, daß die auf jeder Seite der Partitur dutzendweis vorgeschriebenen
+				dynamischen Steigerungen vom fünfmaligen <hi rend="antiqua">ppppp.</hi> bis zum <hi
+					rend="antiqua">ff.</hi> auf’s feinste ausgearbeitet wurden und namentlich die
+					<hi rend="antiqua">piano’s</hi> das Publikum bezauberten, daß die Sätze, mit
+				ihren großen <hi rend="antiqua">crescendo’s</hi> an <persName
+					ref="#donizetti.gaetano">Donizetti’sche</persName> und <persName
+					ref="#verdi.giuseppe">Verdi’sche</persName> Opern-Finales erinnern, wie z. B.
+				das <title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title>, dort mit
+				größtmöglichem Effekt vorgetragen wurden und enthusiastische Aufnahme fanden. Auf
+				der andern Seite aber begreifen wir eben so wohl, daß das Aachener Publikum viel
+				kühler an die Sache ging. Schon das wirkte befremdend auf die Mehrzahl unserer
+				Hörer, daß der herrliche Kirchentext, den sie sonst mit Ehrfurcht zu betrachten
+				gewohnt sind, der ein unablässiges Gebet ist, hier als Folie zu einer
+				theatralischen, bald excessiv lärmenden, bald hypersentimentalen Musik dient. Sah
+				der Hörer aber von dem ehrwürdigen Text ganz ab und nahm die Musik für das, was sie
+				eigentlich ist: eine profane Theater- und Concert-Musik, — denn die paar fugirten
+				Sätze des <title ref="#verdi.requiem.4">Sanctus</title> und <title
+					ref="#verdi.requiem.7">Libera</title> verändern den Charakter des Werkes nicht —
+				so war doch der Reiz der Ausführung bei uns nicht so groß, um ihn zu bemeistern. Das
+				Solo-Quartett war nicht so homogen, d. h. so zueinander passend, wie man es hätte
+				wünschen können; aber hier zu Lande hat man keine große Auswahl und muß die Sänger
+				nehmen, wie man sie bekommen kann. Und unsere Dilettanten im Chor besuchen die
+				Proben nicht so regelmäßig, wie es nöthig wäre, um solche feine Schattirungen, wie
+				sie <persName ref="#verdi.giuseppe">Verdi</persName> verlangt und wodurch seine
+				Musik wirken muß, ausführen zu können. Denn einen großen inneren Gehalt hat diese
+				Musik nicht, und es muß ihr daher äußerlich etwas angethan werden; es ist eben
+				Effekt-Musik. So fanden denn wohl die einzelnen Nummern bei unserm Publikum mäßigen
+				Beifall, aber zu einem Enthusiasmus, zu einem <hi rend="antiqua"
+				>Dacapo</hi>-Verlangen, wie anderwärts, kam es nicht.</p>
+			<p>Betrachten wir nun die Musik an und für sich, so ist anzuerkennen, daß der <persName
+					ref="#verdi.giuseppe">Verdi</persName> des <title ref="#verdi.il-trovatore"
+					>Troubadour</title> sich bis zu seinem Requiem bedeutend veredelt hat. Lieferte
+				er damals nur Decorations-Malerei mit gar groben Pinselstrichen, so hat sich sein
+				Malen doch heute sowohl in der Faktur, als im Charakter gewaltig verfeinert, wenn es
+				auch noch immer Dekorations-Malerei ist. Dagegen birgt die Partitur des <title
+					ref="#verdi.il-trovatore">Troubadour</title> mehr Ursprüngliches, mehr
+				Erfindung, als das <title ref="#verdi.requiem">Requiem</title>; denn hier stoßen wir
+				jeden Augenblick auf gute Bekannte; die Orchester-Wirkungen sind zum Theil <persName
+					ref="#wagner.richard">Wagner</persName> abgelauscht, und die Melodien der Soli
+				klingen alle, als ob wir sie schon oft gehört hätten. Eine geschickte, überall auf
+				Wirkung spekulirende Mache läßt sich nicht abstreiten, und wenn hin und wieder des
+				Guten zu viel gethan ist, so muß man immer wieder das italienische Blut
+				berücksichtigen, das grelle Farben mehr liebt, als wir Deutschen.</p>
+			<p>Ausgeführt wurde das Werk von unserm Standpukte aus ganz leidlich; es ging Alles
+				recht glatt, und sowohl Orchester als Chor haben sich ihrer nicht leichten Aufgabe
+				mit Liebe hingegeben und sie mit Glanz durchgeführt. Die Solisten waren: 1. Frau
+					<persName ref="#lederer-ubrich.asminde" role="soloist.soprano"
+					>Lederer-Ubrich</persName>, Sopran, welche ihre umfangreiche, bald im tiefen c
+				sich bewegende, bald bis zum hohen c hinansteigende Partie tapfer und verständig
+				wiedergab, 2. Frl. <persName ref="#keller.elsa" role="soloist.mezzo">Elsa
+					Keller</persName> aus <placeName ref="#koeln">Köln</placeName>, Mezzosopran
+				resp. Alt, deren kräftiges Organ und echt dramatische Gesangsweise imponirten, 3.
+				Herr <persName ref="#schneider.carl" role="soloist.tenor">Schneider</persName> aus
+					<placeName ref="#koeln">Köln</placeName>, Tenor, unser alter, braver
+				Oratoriensänger, der in gewohnter Liebenswürdigkeit noch stets bereit ist,
+				auszuhelfen, wenn man ihn ruft, stets noch schön zu singen weiß und nichts verdirbt,
+				4. Herr <persName ref="#pfeiffer.xxx" role="soloist.basso">Pfeiffer</persName> aus
+					<placeName ref="#duesseldorf">Düsseldorf</placeName>, Baß resp. Bariton, der mit
+				sonorer, ausgiebiger Stimme seinen Part zu allseitiger Zufriedenheit vortrug. Im
+				Ensemble waren die Stimmen etwas ungleich; Alt und Baß verdeckten stellenweise Tenor
+				und Sopran, abgesehen von der großen Verschiedenheit der Timbres. — Besondere
+				Anerkennung verdient Hr. <persName ref="#breunung.ferdinand">Breunung</persName>
+				dafür, das heilige Werk während der unruhigen Karnevalszeit mit nur wenigen Proben
+				so gut einstudirt zu haben, und jedenfalls ist es dankenswerth, dasselbe in so
+				würdiger Wiedergabe gehört zu haben.</p>
+		</body>
+	</text>
 </TEI>

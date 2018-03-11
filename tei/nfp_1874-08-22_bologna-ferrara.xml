@@ -1,40 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Neue Freie Presse, Wien, 22. August 1874</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nfp_1874-08-22_bologna.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#neue-freie-presse"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1874-08-22" when-custom="sat"/>
-				<biblScope unit="issue">3587</biblScope><biblScope unit="subIssue">3587</biblScope><series>nfp</series>
-				<biblScope unit="page">7</biblScope>
-				<link target="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18740822&amp;seite=7"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#bologna"/><placeName ref="#ferrara"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<cb break="null" n="7b" type="initial"/>
-		<head rend="larger">Theater- und Kunstnachrichten.</head>
-		<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date when-iso="1874-08-21">21. August</date>.</p>
-		<cb break="null" n="7c" type="skipped"/>
-		<p>— Die italienischen Blätter veröffentlichen nachstehenden Brief des Maestro <persName ref="#verdi.giuseppe">Verdi</persName>:</p>
-		<p rend="smaller">Liebster <persName ref="#ricordi.tito">Titus <sic>Ricardi</sic></persName>!*) Mit tiefster Entrüstung vernehme ich, daß von einer
-			Musikbande in einer Arena zu <hi rend="widespace"><placeName ref="#ferrara">Ferrara</placeName></hi> die <title ref="#verdi.requiem">Messe</title> aufgespielt wurde,
-			die ich für <hi rend="widespace"><persName ref="#manzoni.alessandro">Manzoni</persName></hi>
-			schrieb! <persName ref="#manzoni.alessandro">Manzoni</persName>, <title ref="#verdi.requiem">Requiem-Messe</title>, Arena, Musikbande — welche ein Gemenge (<hi rend="antiqua">amalgama</hi>) von Namen und Dingen! Und ich höre sogar, daß man diese arme Messe
-			zu <hi rend="widespace"><placeName ref="#bologna">Bologna</placeName></hi> in einer Bearbeitung
-			für Clavier aufzuführen willen sei! Ein Orchester zu reduciren, welchem, es mag gut oder
-			schlecht sein, immerhin einige Absicht und Bedeutung innewohnt! Gibt es wirklich in
-				<placeName ref="#bologna">Bologna</placeName> Musiker, welche sich zu einer solchen
-			Entweihung (<hi rend="antiqua">profanazione</hi>) hergeben? Ich sage: Entweihung, nicht
-			meinetwegen, sondern um der Kunst willen. Und Solches geschieht in dem schönen lande,
-			welches sie das Land der Kunst und des Genius nennen! Und Solches geschieht in einer
-			Stadt wie <placeName ref="#bologna">Bologna</placeName>, unter den Augen des Municipiums, welches
-			den Ruf hat, unsere Kunst zu beschützen! Und dann spricht man noch vom Verfall der
-			Kunst; dann beurtheilt man noch die Werke der Componisten, wenn die dem Publicum in
-			einer so barbarischen Verballhornung vorgeführt werden! Und selbst wenn diese Messe
-			stofflich (<hi rend="antiqua">materialmente</hi>) gut aufgeführt wurde: der Ausdruck und
-			die Färbung könnten nimmermehr dem entsprechen, was mir vorschwebte, der Geist wäre
-			nicht mehr der meinige! Ich weiß nicht, ob das Gesetz zur Bestrafung solcher Sacrilegien
-			gelangen kann; ist dies möglich, so rufe dessen vollste Strenge an. Dies ist nicht blos
-			sein eigenes Interesse zu vertreten, sondern auch den Ruf der Autoren zu schützen und
-			die Würde der Kunst aufrechtzuerhalten. <hi rend="antiqua">Addio</hi>!</p>
-		<p rend="right"><persName ref="#verdi.giuseppe">G. Verdi</persName></p>
-		<p>*) Der bekannte Verleger <persName ref="#verdi.giuseppe">Verdi’s</persName> in <placeName ref="#mailand">Mailand</placeName>.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Freie Presse, Wien, 22. August 1874</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nfp_1874-08-22_bologna.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neue-freie-presse"/>
+					<placeName ref="#wien"/>
+					<date when-custom="sat" when-iso="1874-08-22"/>
+					<biblScope unit="issue">3587</biblScope>
+					<biblScope unit="subIssue">3587</biblScope>
+					<series>nfp</series>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bologna"/><placeName ref="#ferrara"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18740822&amp;seite=7"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb break="null" n="7b" type="initial"/>
+			<head rend="larger">Theater- und Kunstnachrichten.</head>
+			<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date
+					when-iso="1874-08-21">21. August</date>.</p>
+			<cb break="null" n="7c" type="skipped"/>
+			<p>— Die italienischen Blätter veröffentlichen nachstehenden Brief des Maestro <persName
+					ref="#verdi.giuseppe">Verdi</persName>:</p>
+			<p rend="smaller">Liebster <persName ref="#ricordi.tito">Titus
+					<sic>Ricardi</sic></persName>!*) Mit tiefster Entrüstung vernehme ich, daß von
+				einer Musikbande in einer Arena zu <hi rend="widespace"><placeName ref="#ferrara"
+						>Ferrara</placeName></hi> die <title ref="#verdi.requiem">Messe</title>
+				aufgespielt wurde, die ich für <hi rend="widespace"><persName
+						ref="#manzoni.alessandro">Manzoni</persName></hi> schrieb! <persName
+					ref="#manzoni.alessandro">Manzoni</persName>, <title ref="#verdi.requiem"
+					>Requiem-Messe</title>, Arena, Musikbande — welche ein Gemenge (<hi
+					rend="antiqua">amalgama</hi>) von Namen und Dingen! Und ich höre sogar, daß man
+				diese arme Messe zu <hi rend="widespace"><placeName ref="#bologna"
+						>Bologna</placeName></hi> in einer Bearbeitung für Clavier aufzuführen
+				willen sei! Ein Orchester zu reduciren, welchem, es mag gut oder schlecht sein,
+				immerhin einige Absicht und Bedeutung innewohnt! Gibt es wirklich in <placeName
+					ref="#bologna">Bologna</placeName> Musiker, welche sich zu einer solchen
+				Entweihung (<hi rend="antiqua">profanazione</hi>) hergeben? Ich sage: Entweihung,
+				nicht meinetwegen, sondern um der Kunst willen. Und Solches geschieht in dem schönen
+				lande, welches sie das Land der Kunst und des Genius nennen! Und Solches geschieht
+				in einer Stadt wie <placeName ref="#bologna">Bologna</placeName>, unter den Augen
+				des Municipiums, welches den Ruf hat, unsere Kunst zu beschützen! Und dann spricht
+				man noch vom Verfall der Kunst; dann beurtheilt man noch die Werke der Componisten,
+				wenn die dem Publicum in einer so barbarischen Verballhornung vorgeführt werden! Und
+				selbst wenn diese Messe stofflich (<hi rend="antiqua">materialmente</hi>) gut
+				aufgeführt wurde: der Ausdruck und die Färbung könnten nimmermehr dem entsprechen,
+				was mir vorschwebte, der Geist wäre nicht mehr der meinige! Ich weiß nicht, ob das
+				Gesetz zur Bestrafung solcher Sacrilegien gelangen kann; ist dies möglich, so rufe
+				dessen vollste Strenge an. Dies ist nicht blos sein eigenes Interesse zu vertreten,
+				sondern auch den Ruf der Autoren zu schützen und die Würde der Kunst
+				aufrechtzuerhalten. <hi rend="antiqua">Addio</hi>!</p>
+			<p rend="right"><persName ref="#verdi.giuseppe">G. Verdi</persName></p>
+			<p>*) Der bekannte Verleger <persName ref="#verdi.giuseppe">Verdi’s</persName> in
+					<placeName ref="#mailand">Mailand</placeName>.</p>
+		</body>
+	</text>
 </TEI>

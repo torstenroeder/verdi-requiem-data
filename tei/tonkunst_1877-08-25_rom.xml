@@ -13,10 +13,10 @@
 					<orgName ref="#tonkunst" role="publisher"/>
 					<placeName ref="#berlin"/>
 					<date when-iso="1877-08-25"/>
-					<biblScope unit="issue">34</biblScope><biblScope unit="volume"
-						>4</biblScope><series>tonkunst</series>
+					<biblScope unit="issue">34</biblScope>
+					<biblScope unit="volume">4</biblScope>
+					<series>tonkunst</series>
 					<biblScope unit="page">125</biblScope>
-					<link facs="tonkunst_1877-08-25_125.png"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -33,12 +33,12 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--<graphic n="tonkunst_1877-08-25_125.png"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="124" type="initial"/>
 			<head rend="larger">Gesetzwesen.</head>
-			<pb break="null" n="125" type="skipped"/>
-			<p>
+			<p><pb n="125" type="skipped"/>
 				<persName ref="#marchesi.xxx">Marchesi</persName>, Red. der „<orgName
 					ref="#la-palestra-musicale">Palestra</orgName>“ (<placeName ref="#rom"
 					>Rom</placeName>), veröffentlicht Nr. 13 einen Brief<note resp="tr"

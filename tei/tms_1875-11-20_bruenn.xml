@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1875-11-20" when-custom="sat"/>
-					<biblScope unit="issue">266</biblScope><biblScope unit="volume"
-						>25</biblScope><series>tms</series>
+					<date when-custom="sat" when-iso="1875-11-20"/>
+					<biblScope unit="issue">266</biblScope>
+					<biblScope unit="volume">25</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">[3]</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -37,10 +38,10 @@
 			<cb n="[3]c"/>
 			<head rend="larger">Brünner Chronik.</head>
 			<gap resp="tr"/>
-			<p><g type="MULTIPLICATION_X" n="2715">✕</g> (<persName ref="#verdi.giuseppe"
+			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<persName ref="#verdi.giuseppe"
 					>Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title>.) Den Brünnern steht ein besonderer
-				künstlerischer Genuß bevor. <rs type="event" ref="#bruenn.1876.1">Am <date
+				künstlerischer Genuß bevor. <rs ref="#bruenn.1876.1" type="event">Am <date
 						when-iso="1876-01-02">2. Jänner</date> soll uns das <title
 						ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
 						>Verdi</persName> unter gefälliger Mitwirkung der Frau <persName

@@ -1,14 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Illustrierte Musikgeschichte, 1885</title><author><persName ref="#naumann.emil"/></author></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/naumann_1885_musikgeschichte.xml</p></publicationStmt><sourceDesc><bibl>
-				<title>Emil Naumann: Illustrirte Musikgeschichte, Berlin und Stuttgart, 1885, S. 726</title>
-				<date when-iso="1885-00-00"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation/><textClass><keywords><term type="textType">Kurzbericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<p>Im Jahre <date when-iso="1874">1874</date> überraschte <persName ref="#verdi.giuseppe">Verdi</persName>
-			die musikalische Welt, die ihn nur als dramatischen Komponisten zu feiern gewohnt war,
-			durch ein dem Gebiet der Kirchenmusik angehörendes Werk: durch sein großes „<title ref="#verdi.requiem">Requiem</title>“, eine in erhabenem Stil komponierte und von
-			ergreifendem Ausdruck und jugendlichem Feuer erfüllte Tondichtung, die umsomehr Zeugnis
-			für die seltene Begabung ihres Schöpfers ablegt, als er sie in seinem 61. Jahre
-			schrieb.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Illustrierte Musikgeschichte, 1885</title>
+				<author><persName ref="#naumann.emil"/></author>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/naumann_1885_musikgeschichte.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Emil Naumann: Illustrirte Musikgeschichte, Berlin und Stuttgart, 1885, S.
+						726</title>
+					<date when-iso="1885-00-00"/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation/>
+			<textClass>
+				<keywords>
+					<term type="textType">Kurzbericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<p>Im Jahre <date when-iso="1874">1874</date> überraschte <persName
+					ref="#verdi.giuseppe">Verdi</persName> die musikalische Welt, die ihn nur als
+				dramatischen Komponisten zu feiern gewohnt war, durch ein dem Gebiet der
+				Kirchenmusik angehörendes Werk: durch sein großes „<title ref="#verdi.requiem"
+					>Requiem</title>“, eine in erhabenem Stil komponierte und von ergreifendem
+				Ausdruck und jugendlichem Feuer erfüllte Tondichtung, die umsomehr Zeugnis für die
+				seltene Begabung ihres Schöpfers ablegt, als er sie in seinem 61. Jahre schrieb.</p>
+		</body>
+	</text>
 </TEI>

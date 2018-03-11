@@ -12,12 +12,10 @@
 				<bibl>
 					<orgName ref="#altonaer-nachrichten"/>
 					<placeName ref="#altona"/>
-					<date when-iso="1876-01-18" when-custom="tue"/>
-					<biblScope unit="issue">14</biblScope><series>an</series>
+					<date when-custom="tue" when-iso="1876-01-18"/>
+					<biblScope unit="issue">14</biblScope>
+					<series>an</series>
 					<biblScope unit="page">1</biblScope>
-					<link
-						target="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000117667536?page=1"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -34,15 +32,19 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic url="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000117667536?page=1"
+			xml:id="f1"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<pb break="null" n="1" type="initial"/>
+			<pb break="null" facs="#f1" n="1" type="initial"/>
 			<head rend="larger">Vaterstädtisches und Unterhaltendes.</head>
-			<p rend="right"><hi rend="bold"><g type="ASTERISK" n="002A">*</g>
+			<p rend="right"><hi rend="bold"><g n="002A" type="ASTERISK">*</g>
 					<placeName ref="#altona">Altona</placeName>,</hi>
 				<date when-iso="1876-01-17">17. Januar</date>.</p>
 			<cb break="null" n="1c" type="skipped"/>
-			<p><rs type="event" ref="#hamburg.1876.1 hamburg.1876.2">In voriger Woche gelangte
+			<p><rs ref="#hamburg.1876.1 hamburg.1876.2" type="event">In voriger Woche gelangte
 						<persName ref="#verdi.giuseppe">Verdi’s</persName> „<title
 						ref="#verdi.requiem">Requiem</title>“ am <placeName
 						ref="#hamburg.stadt-theater">Hamburger Stadttheater</placeName> zur
@@ -65,14 +67,13 @@
 				von denen vorzüglich der Letztere mit seinem schönen, für das Lyrische sich ganz
 				besonders eignenden Tenor seine schwierige Aufgabe mit dem besten Erfolg löste. Die
 				Aufführung fand ungetheilten lebhaften Beifall. Die <persName ref="#verdi.giuseppe"
-					>Verdi’sche</persName> Composition, welche an der <rs type="event"
-					ref="#wien.1875"><placeName ref="#wien.hof-operntheater">Hofbühne</placeName> in
-						<placeName ref="#wien">Wien</placeName></rs> und <rs type="event"
-					ref="#dresden.1876"><date>vor etwa acht Tagen</date> auch in <placeName
-						ref="#dresden">Dresden</placeName></rs> einer eben so glänzenden Aufnahme
-				sich zu erfreuen hatte, <rs type="event" ref="#hamburg.1876.4">wird <date>nächsten
-						Sonntag</date> Mittags und zwar bei ermäßigten Preisen wiederholt
-					werden</rs>.</p>
+					>Verdi’sche</persName> Composition, welche an der <rs ref="#wien.1875"
+					type="event"><placeName ref="#wien.hof-operntheater">Hofbühne</placeName> in
+						<placeName ref="#wien">Wien</placeName></rs> und <rs ref="#dresden.1876"
+					type="event"><date>vor etwa acht Tagen</date> auch in <placeName ref="#dresden"
+						>Dresden</placeName></rs> einer eben so glänzenden Aufnahme sich zu erfreuen
+				hatte, <rs ref="#hamburg.1876.4" type="event">wird <date>nächsten Sonntag</date>
+					Mittags und zwar bei ermäßigten Preisen wiederholt werden</rs>.</p>
 		</body>
 	</text>
 </TEI>

@@ -14,14 +14,10 @@
 					<orgName ref="#wiener-salonblatt" role="publisher"/>
 					<placeName ref="#wien"/>
 					<date when-iso="1875-06-12"/>
-					<biblScope unit="issue">24</biblScope><biblScope unit="volume"
-						>6</biblScope><series>wsb</series>
+					<biblScope unit="issue">24</biblScope>
+					<biblScope unit="volume">6</biblScope>
+					<series>wsb</series>
 					<biblScope unit="page">8–9</biblScope>
-					<link facs="wsb_1875-06-12_8.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750612&amp;seite=8"/>
-					<link facs="wsb_1875-06-12_9.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750612&amp;seite=9"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,6 +34,12 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="wsb_1875-06-12_8.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750612&amp;seite=8"/>
+		<graphic n="wsb_1875-06-12_9.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750612&amp;seite=9"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="8b" type="initial"/>
@@ -52,7 +54,7 @@
 				weitestem Interesse. <hi rend="widespace"><persName ref="#verdi.giuseppe">Giuseppe
 						Verdi</persName></hi> in <placeName ref="#wien">Wien</placeName> — das ist
 				die <hi rend="antiqua" xml:lang="en">great attraction</hi> der Woche. <rs
-					type="event" ref="#wien.1875">Der Compositeur des „<title
+					ref="#wien.1875" type="event">Der Compositeur des „<title
 						ref="#verdi.il-trovatore">Troubadour</title>“ hat seine stille Villa in
 						<placeName ref="#busseto">Bus<supplied resp="tr">s</supplied>eto</placeName>
 					verlassen und ist, wie einst <persName ref="#cincinnatus">Cincinnatus</persName>

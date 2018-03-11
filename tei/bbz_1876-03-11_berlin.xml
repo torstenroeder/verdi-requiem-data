@@ -1,38 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader><fileDesc><titleStmt><title>Berliner Börsen-Zeitung, 11. März 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/bbz_1876-03-11_berlin.xml</p></publicationStmt><sourceDesc><bibl>
-                <orgName ref="#berliner-boersen-zeitung" role="publisher"/>
-                <placeName ref="#berlin"/>
-                <date when-iso="1876-03-11" when-custom="sat"/>
-                <biblScope unit="issue">119</biblScope><biblScope unit="subIssue">119</biblScope>
-                <biblScope unit="page">1</biblScope>
-                <link target="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000115113883"/>
-            </bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#berlin"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-    <text xml:lang="de"><body rend="fraktur">
-        <pb break="null" n="1" type="initial"/>
-        <head rend="larger bold">Politische Nachrichten.</head>
-        <p rend="center"><hi rend="bold"><placeName ref="#berlin">Berlin</placeName>,</hi>
-            <date when-iso="1876-03-11">11. März</date>.</p>
-        <p><cb break="yes" n="1b" type="skipped"/> Bei der am <rs type="event" ref="#berlin.1876-hofconcerte.1"><date when-iso="1876-03-09">Donnerstag</date> Abend im <placeName ref="#berlin.kronprinzenpalais">Königlichen Palais</placeName> stattgehabten
-                musikalischen Abendunterhaltung</rs> gelangte unter Leitung des
-            Ober-Capellmeisters <persName ref="#taubert.wilhelm">Taubert</persName> nachfolgendes
-            Programm zur Aufführung: 1. <hi rend="antiqua"><title ref="#verdi.requiem.7">Libera
-                    me</title></hi> und <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus
-                    dei</title></hi> aus dem <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName> gesungen von Frau <persName ref="#artot-de-padilla.desiree">Artôt de Padilla</persName> und Frl. <persName ref="#lehmann.lilli">Lehmann</persName> und den Herren <persName ref="#bossi.xxx">Bossi</persName> und <persName ref="#ernst.heinrich">Ernst</persName>, 2. <hi rend="antiqua">a) <title ref="#scarlatti.allegro">Allegro</title>, b) <title ref="#chopin.nocturne">Nocturne</title>, c) <title ref="#liszt.au-bord-d-une-source">Au bord d’une source</title></hi> für Piano von <persName ref="#scarlatti.alessandro">Scarlatti</persName>, <persName ref="#chopin.frederic">Chopin</persName> und <persName ref="#liszt.franz">Liszt</persName>, vorgetragen von Herrn
-                <persName ref="#pinner.max">Pinner</persName>, 3. <hi rend="antiqua">a) <title ref="#l-adieu">L’adieu (Air béarnois)</title></hi> und <hi rend="antiqua">b) <title ref="#gounod.ho-messo-nuove-corde-al-mandolino">Il mandolino</title></hi> von
-                <persName ref="#gounod.charles">Gounod</persName>, gesungen von Frau <persName ref="#artot-de-padilla.desiree">Artôt</persName>, 4. <hi rend="antiqua">a)</hi>
-            <title ref="#hauser.lieder-ohne-worte">Liebeslied — Wiegenlied</title> und <hi rend="antiqua">b)</hi>
-            <title ref="#hauser.ungarische-rhapsodie">Ungarische Rhapsodie</title> von <persName ref="#hauser.miska">Hauser</persName>, vorgetragen von Herrn <persName ref="#hauser.miska">Miska Hauser</persName>, 5. Arie aus „<title ref="#mozart.don-giovanni">Don
-            Juan</title>“ von <persName ref="#mozart.wolfgang-amadeus">Mozart</persName>, gesungen von
-            Herrn <persName ref="#bossi.xxx">Bossi</persName>, 6. Duett aus „<title ref="#rossini.zelmira">Zelmire</title>“ von <persName ref="#rossini.gioachino">Rossini</persName>, gesungen von
-            Frau <persName ref="#artot-de-padilla.desiree">Artôt</persName> und Herrn <persName ref="#bossi.xxx">Bossi</persName>, 7. „<title ref="#godefroid.thautropfen">Thautropfen</title>“, Harfensolo von <persName ref="#godefroid.felix">Godefroid</persName>, vorgetragen von Herrn <persName ref="#hummel.ferdinand">Hummel</persName>, 8. <hi rend="antiqua">a) <title ref="#garat.la-fileuse">La fileuse
-                    (Air Basque)</title></hi> von <persName ref="#garat.pierre-jean">Garat</persName> und
-                <hi rend="antiqua">b) <title ref="#ni-jamais-ni-toujours">Ni jamais, ni
-                    toujours</title>,</hi> gesungen von Frl. <persName ref="#lehmann.lilli">Lehmann</persName> und Frau <persName ref="#artot-de-padilla.desiree">Artôt</persName>, 9.
-                <title ref="#thalberg.fantaisie-sur-l-opera-lucrezia-borgia">Fantasie über „Lucrezia
-                Borgia“</title>, vorgetragen von Herrn <persName ref="#hauser.miska">Hauser</persName> und
-                10<supplied resp="tr">.</supplied>
-            <hi rend="antiqua">a) <title ref="#massenet.nuit-d-espagne">Nuit d’Espagne</title></hi> von
-                <persName ref="#massenet.jules">Massenet</persName> und <hi rend="antiqua">b) <title ref="#yradier.la-calesera">La Calesera</title></hi> von <persName ref="#yradier.sebastian-de">Yradier</persName>, gesungen von Frau <persName ref="#artot-de-padilla.desiree">Artôt</persName>. Diese Festlichkeit, zu der etwa 160
-            Einladungen ergangen waren, erreichte erst nach 12 Uhr ihr Ende. — <gap resp="tr"/></p>
-    </body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Berliner Börsen-Zeitung, 11. März 1876</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>http://verdi-requiem.de/text/bbz_1876-03-11_berlin.xml</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <orgName ref="#berliner-boersen-zeitung" role="publisher"/>
+                    <placeName ref="#berlin"/>
+                    <date when-custom="sat" when-iso="1876-03-11"/>
+                    <biblScope unit="issue">119</biblScope>
+                    <biblScope unit="subIssue">119</biblScope>
+                    <biblScope unit="page">1</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><placeName ref="#berlin"/></creation>
+            <textClass>
+                <keywords>
+                    <term type="textType">Bericht</term>
+                    <term type="corpusGroup">Aufführungsgeschichte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <p>see http://verdi-requiem.de for a detailed description</p>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000115113883"
+            xml:id="f1"/>
+    </facsimile>
+    <text xml:lang="de">
+        <body rend="fraktur">
+            <pb break="null" facs="#f1" n="1" type="initial"/>
+            <head rend="larger bold">Politische Nachrichten.</head>
+            <p rend="center"><hi rend="bold"><placeName ref="#berlin">Berlin</placeName>,</hi>
+                <date when-iso="1876-03-11">11. März</date>.</p>
+            <p><cb break="yes" n="1b" type="skipped"/> Bei der am <rs
+                    ref="#berlin.1876-hofconcerte.1" type="event"><date when-iso="1876-03-09"
+                        >Donnerstag</date> Abend im <placeName ref="#berlin.kronprinzenpalais"
+                        >Königlichen Palais</placeName> stattgehabten musikalischen
+                    Abendunterhaltung</rs> gelangte unter Leitung des Ober-Capellmeisters <persName
+                    ref="#taubert.wilhelm">Taubert</persName> nachfolgendes Programm zur Aufführung:
+                1. <hi rend="antiqua"><title ref="#verdi.requiem.7">Libera me</title></hi> und <hi
+                    rend="antiqua"><title ref="#verdi.requiem.5">Agnus dei</title></hi> aus dem
+                    <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
+                    >Verdi</persName> gesungen von Frau <persName ref="#artot-de-padilla.desiree"
+                    >Artôt de Padilla</persName> und Frl. <persName ref="#lehmann.lilli"
+                    >Lehmann</persName> und den Herren <persName ref="#bossi.xxx">Bossi</persName>
+                und <persName ref="#ernst.heinrich">Ernst</persName>, 2. <hi rend="antiqua">a)
+                        <title ref="#scarlatti.allegro">Allegro</title>, b) <title
+                        ref="#chopin.nocturne">Nocturne</title>, c) <title
+                        ref="#liszt.au-bord-d-une-source">Au bord d’une source</title></hi> für
+                Piano von <persName ref="#scarlatti.alessandro">Scarlatti</persName>, <persName
+                    ref="#chopin.frederic">Chopin</persName> und <persName ref="#liszt.franz"
+                    >Liszt</persName>, vorgetragen von Herrn <persName ref="#pinner.max"
+                    >Pinner</persName>, 3. <hi rend="antiqua">a) <title ref="#l-adieu">L’adieu (Air
+                        béarnois)</title></hi> und <hi rend="antiqua">b) <title
+                        ref="#gounod.ho-messo-nuove-corde-al-mandolino">Il mandolino</title></hi>
+                von <persName ref="#gounod.charles">Gounod</persName>, gesungen von Frau <persName
+                    ref="#artot-de-padilla.desiree">Artôt</persName>, 4. <hi rend="antiqua">a)</hi>
+                <title ref="#hauser.lieder-ohne-worte">Liebeslied — Wiegenlied</title> und <hi
+                    rend="antiqua">b)</hi>
+                <title ref="#hauser.ungarische-rhapsodie">Ungarische Rhapsodie</title> von <persName
+                    ref="#hauser.miska">Hauser</persName>, vorgetragen von Herrn <persName
+                    ref="#hauser.miska">Miska Hauser</persName>, 5. Arie aus „<title
+                    ref="#mozart.don-giovanni">Don Juan</title>“ von <persName
+                    ref="#mozart.wolfgang-amadeus">Mozart</persName>, gesungen von Herrn <persName
+                    ref="#bossi.xxx">Bossi</persName>, 6. Duett aus „<title ref="#rossini.zelmira"
+                    >Zelmire</title>“ von <persName ref="#rossini.gioachino">Rossini</persName>,
+                gesungen von Frau <persName ref="#artot-de-padilla.desiree">Artôt</persName> und
+                Herrn <persName ref="#bossi.xxx">Bossi</persName>, 7. „<title
+                    ref="#godefroid.thautropfen">Thautropfen</title>“, Harfensolo von <persName
+                    ref="#godefroid.felix">Godefroid</persName>, vorgetragen von Herrn <persName
+                    ref="#hummel.ferdinand">Hummel</persName>, 8. <hi rend="antiqua">a) <title
+                        ref="#garat.la-fileuse">La fileuse (Air Basque)</title></hi> von <persName
+                    ref="#garat.pierre-jean">Garat</persName> und <hi rend="antiqua">b) <title
+                        ref="#ni-jamais-ni-toujours">Ni jamais, ni toujours</title>,</hi> gesungen
+                von Frl. <persName ref="#lehmann.lilli">Lehmann</persName> und Frau <persName
+                    ref="#artot-de-padilla.desiree">Artôt</persName>, 9. <title
+                    ref="#thalberg.fantaisie-sur-l-opera-lucrezia-borgia">Fantasie über „Lucrezia
+                    Borgia“</title>, vorgetragen von Herrn <persName ref="#hauser.miska"
+                    >Hauser</persName> und 10<supplied resp="tr">.</supplied>
+                <hi rend="antiqua">a) <title ref="#massenet.nuit-d-espagne">Nuit
+                    d’Espagne</title></hi> von <persName ref="#massenet.jules">Massenet</persName>
+                und <hi rend="antiqua">b) <title ref="#yradier.la-calesera">La Calesera</title></hi>
+                von <persName ref="#yradier.sebastian-de">Yradier</persName>, gesungen von Frau
+                    <persName ref="#artot-de-padilla.desiree">Artôt</persName>. Diese Festlichkeit,
+                zu der etwa 160 Einladungen ergangen waren, erreichte erst nach 12 Uhr ihr Ende. —
+                    <gap resp="tr"/></p>
+        </body>
+    </text>
 </TEI>

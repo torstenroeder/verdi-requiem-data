@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1876-01-16" when-custom="sun"/>
-					<biblScope unit="issue">12</biblScope><biblScope unit="volume"
-						>26</biblScope><series>tms</series>
+					<date when-custom="sun" when-iso="1876-01-16"/>
+					<biblScope unit="issue">12</biblScope>
+					<biblScope unit="volume">26</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -37,7 +38,7 @@
 			<cb n="3b"/>
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>
-			<p>(<hi rend="widespace">Danksagung</hi>.) Die <rs type="event" ref="#bruenn.1876">am
+			<p>(<hi rend="widespace">Danksagung</hi>.) Die <rs ref="#bruenn.1876" type="event">am
 						<date when-iso="1876-01-02">2.</date> und <date when-iso="1876-01-06">6. d.
 						Mts.</date> im <placeName ref="#bruenn.redouta-theater">städt.
 						Redoutensaale</placeName> stattgehabten Aufführungen von <persName
@@ -68,7 +69,7 @@
 				Mitwirkung mehrerer Musiker von k. k. Militärkapellen; der löblichen <hi
 					rend="widespace">Direktion des <orgName ref="#bruenn.musikverein">Brünner
 						Musikvereines</orgName></hi> für die Ueberlassung ihres Schullokales, sowie
-				von Instrumenten und Geräthschaften <g type="TIRONIAN_SIGN_ET" n="204A">⁊</g>c.; den
+				von Instrumenten und Geräthschaften <g n="204A" type="TIRONIAN_SIGN_ET">⁊</g>c.; den
 					<hi rend="widespace">ausübenden Mitgliedern (Damen und Herren)</hi> des
 				Musik-Vereines, sowie anderen geehrten Dilettanten und Dilettantin<supplied
 					resp="tr">n</supplied>en, die ausnahmsweise an den Produktionen mitwirkten; den

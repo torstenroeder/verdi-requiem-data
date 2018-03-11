@@ -1,16 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 19. Mai 1876 [3]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1876-05-19_petersburg.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#mwb" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-05-19"/>
-				<biblScope unit="issue">21</biblScope><biblScope unit="volume">7</biblScope>
-				<biblScope unit="page">276</biblScope>
-				<link facs="mwb_1876-05-19_276.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=8"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#st-petersburg"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<head rend="larger">Aufgeführte Novitäten.</head>
-		<p><gap resp="tr"/><rs type="event" ref="#st-petersburg.1876.1">
-				<persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi> (G.)</persName>, <title ref="#verdi.requiem">Requiem</title>. (<placeName ref="#st-petersburg">St.
-					Petersburg</placeName>, Aufführung im <placeName ref="#st-petersburg.mariinski-theater">Grossen Theater</placeName>.)</rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MWbl, Leipzig, 19. Mai 1876 [3]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mwb_1876-05-19_petersburg.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#mwb" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-05-19"/>
+					<biblScope unit="issue">21</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<biblScope unit="page">276</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#st-petersburg"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-05-19_276.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760519&amp;seite=8"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<head rend="lineale bold">Aufgeführte Novitäten.</head>
+			<gap resp="tr"/>
+			<p rend="noIndent"><rs ref="#st-petersburg.1876.1" type="event">
+					<persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi> (G.)</persName>,
+						<title ref="#verdi.requiem">Requiem</title>. (<placeName
+						ref="#st-petersburg">St. Petersburg</placeName>, Aufführung im <placeName
+						ref="#st-petersburg.mariinski-theater">Grossen
+				Theater</placeName>.)</rs></p>
+		</body>
+	</text>
 </TEI>

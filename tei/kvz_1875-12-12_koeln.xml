@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#koelnische-volkszeitung" role="publisher"/>
 					<placeName ref="#koeln"/>
-					<date when-iso="1875-12-12" when-custom="sun"/>
-					<biblScope unit="issue">342</biblScope><biblScope unit="subIssue"
-						>342</biblScope><series>kvz</series>
+					<date when-custom="sun" when-iso="1875-12-12"/>
+					<biblScope unit="issue">342</biblScope>
+					<biblScope unit="subIssue">342</biblScope>
+					<series>kvz</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -35,9 +36,9 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="3b" type="initial"/>
-			<head rend="larger"><g type="DOUBLE_DAGGER" n="2021">‡</g>
-				<rs type="event" ref="#koeln.1875.1">Viertes Abonnements-Concert im großen <placeName
-						ref="#koeln.guerzenich">Gürzenich-Saale</placeName>.</rs></head>
+			<head rend="larger"><g n="2021" type="DOUBLE_DAGGER">‡</g>
+				<rs ref="#koeln.1875.1" type="event">Viertes Abonnements-Concert im großen
+						<placeName ref="#koeln.guerzenich">Gürzenich-Saale</placeName>.</rs></head>
 			<head rend="plain"><date when-iso="1875-12-07">Dinstag, den 7. December
 				1875</date>.</head>
 			<p>Der jüngste Concert-Abend brachte nur zwei Werke; um des einheitlichen Eindrucks
@@ -75,9 +76,9 @@
 			<p><hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title></hi> ist geschrieben zu Ehren des
 				berühmten Dichters der <hi rend="antiqua">„Promessi sposi“</hi>, <persName
-					ref="#manzoni.alessandro">Alessandro Manzoni</persName>, <rs type="event"
-					ref="#mailand.1874.1">und wurde am <date when-iso="1874-05-22">22. Mai
-						1874</date>, dem ersten Jahrestage seines Todes, <placeName
+					ref="#manzoni.alessandro">Alessandro Manzoni</persName>, <rs
+					ref="#mailand.1874.1" type="event">und wurde am <date when-iso="1874-05-22">22.
+						Mai 1874</date>, dem ersten Jahrestage seines Todes, <placeName
 						ref="#mailand.dom mailand.san-marco"><choice>
 							<orig>im Dome</orig>
 							<corr resp="tr">in der Kirche San Marco</corr>
@@ -115,8 +116,8 @@
 					>4</hi>, gibt zunächst das Orchester dem Gefühle des Schmerzes und sanfter
 				Wehmuth Ausdruck, der Chor singt die Worte fast „Parlando“ dazwischen. Vor diesem
 				ernsten Hintergrunde hebt sich dann das helle <hi rend="antiqua">A-dur</hi> des „<hi
-					rend="antiqua"><title ref="#verdi.requiem.1" n="et-lux">Et lux
-				perpetua</title></hi>“ wie ein milder Lichtschein ungemein wirkungsvoll ab. Das
+					rend="antiqua"><title n="et-lux" ref="#verdi.requiem.1">Et lux
+					perpetua</title></hi>“ wie ein milder Lichtschein ungemein wirkungsvoll ab. Das
 				Orchester sowie das Solo-Quartett könnten etwas mehr hervortreten. Zu dem „<hi
 					rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi>“
 				hat <persName ref="#verdi.giuseppe">Verdi</persName> die Farben etwas theatralisch,
@@ -138,9 +139,9 @@
 				Wirkung derart gedacht, wie sie hier zu Gehör gebracht wurde. Es sollen diese
 				Fanfaren nach <persName ref="#verdi.giuseppe">Verdi’s</persName> Angabe bald aus der
 				Nähe, bald aus größter Entfernung erklingen, während sie hier nur aus nächster Nähe
-				erklangen. „<hi rend="antiqua"><title
-						ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors stupebit</title></hi>“
-				ist als Baß-Solo behandelt und wurde von Hrn. <hi rend="widespace"><persName
+				erklangen. „<hi rend="antiqua"><title n="mors-stupebit"
+						ref="#verdi.requiem.2.tuba-mirum">Mors stupebit</title></hi>“ ist als
+				Baß-Solo behandelt und wurde von Hrn. <hi rend="widespace"><persName
 						ref="#schelper.otto">Schelper</persName></hi> sehr stilvoll wiedergegeben.
 					„<hi rend="antiqua"><title ref="#verdi.requiem.2.liber-scriptus">Liber
 						scriptus</title></hi>“, dem Mezzo-Sopran zugetheilt, erhielt durch Frl. <hi
@@ -148,7 +149,7 @@
 				entsprechenden Ausdruck. Von „<title ref="#verdi.requiem.2.rex-tremendae">Rex
 					tremendae majestatis</title>“, welches wiederum effectvoll, aber etwas
 				theatralisch gehalten ist, hebt sich sehr wirkungsvoll das tief empfundene „<hi
-					rend="antiqua"><title ref="#verdi.requiem.2.rex-tremendae" n="salva-me"><choice>
+					rend="antiqua"><title n="salva-me" ref="#verdi.requiem.2.rex-tremendae"><choice>
 							<orig>Salve</orig>
 							<corr resp="tr">Salva</corr>
 						</choice> me</title></hi>“ ab. Eine Glanz-Nummer von großer Klangschönheit,
@@ -166,18 +167,17 @@
 					rend="antiqua"><title ref="#verdi.requiem.2.confutatis"
 				>Confutatis</title></hi>“. Von besonders schöner Wirkung ist das <title
 					ref="#verdi.requiem.3">Offertorium</title> „<hi rend="antiqua"><title
-						ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu Christe</title></hi>“ und
-				darin das als Mittelsatz behandelte „<hi rend="antiqua"><title
-						ref="#verdi.requiem.3" n="quam-olim-abrahae">Quam olim Abrahae</title></hi>“.
-				Die ausführenden vier Solisten verdienten vollkommen den dieser Nummer folgenden
-				Beifall. Die Doppelfuge „<hi rend="antiqua"><title ref="#verdi.requiem.4"
-						>Sanctus</title></hi>“ ist besser als ihr Ruf: wenn sie auch kein
-				Meisterwerk ist, so kann man ihr doch großen Wohlklang und Durchsichtigkeit
-				nachrühmen, Eigenschaften, die man sonst bei Fugen oft schmerzlich vermißt. „<hi
-					rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>“, vom Sopran
-				unisono vorgetragen, erinnert an den <title
-					ref="#mozart.die-zauberfloete.gesang-der-geharnischten-maenner">Gesang der
-						gehar<supplied resp="tr">n</supplied>ischten Männer</title> in der <title
+						n="domine-jesu" ref="#verdi.requiem.3">Domine Jesu Christe</title></hi>“ und
+				darin das als Mittelsatz behandelte „<hi rend="antiqua"><title n="quam-olim-abrahae"
+						ref="#verdi.requiem.3">Quam olim Abrahae</title></hi>“. Die ausführenden
+				vier Solisten verdienten vollkommen den dieser Nummer folgenden Beifall. Die
+				Doppelfuge „<hi rend="antiqua"><title ref="#verdi.requiem.4">Sanctus</title></hi>“
+				ist besser als ihr Ruf: wenn sie auch kein Meisterwerk ist, so kann man ihr doch
+				großen Wohlklang und Durchsichtigkeit nachrühmen, Eigenschaften, die man sonst bei
+				Fugen oft schmerzlich vermißt. „<hi rend="antiqua"><title ref="#verdi.requiem.5"
+						>Agnus Dei</title></hi>“, vom Sopran unisono vorgetragen, erinnert an den
+					<title ref="#mozart.die-zauberfloete.gesang-der-geharnischten-maenner">Gesang
+					der gehar<supplied resp="tr">n</supplied>ischten Männer</title> in der <title
 					ref="#mozart.die-zauberfloete">Zauberflöte</title>. In dem „<hi rend="antiqua"
 						><title ref="#verdi.requiem.6">Lux aeterna</title></hi>“, welches von dem
 				Solo-Terzett gesungen wird, machen die vier Fagotte eine ganz eigenthümliche
@@ -185,9 +185,9 @@
 					me</title></hi>“, für Sopran-Solo und Chor, ist theilweise im Psalmen-Tone
 				gehalten, und verlangt deshalb eine prosodisch richtige und doch freie Declamation,
 				welche nur theilweise gelang. Das ganze Werk klingt sehr andächtig mit dem „<hi
-					rend="antiqua"><title ref="#verdi.requiem.7" n="libera-me">Libera</title></hi>“ aus.
-				Auf den schönen Schluß war ausdrücklich aufmerksam gemacht worden, und so verließ
-				denn auch Niemand vorzeitig das Concert.</p>
+					rend="antiqua"><title n="libera-me" ref="#verdi.requiem.7">Libera</title></hi>“
+				aus. Auf den schönen Schluß war ausdrücklich aufmerksam gemacht worden, und so
+				verließ denn auch Niemand vorzeitig das Concert.</p>
 			<p>Die ganze Aufführung war in allen Theilen höchst sorgsam und mit wirklicher Hingabe
 				vorbereitet. Für Einzelnes würde <persName ref="#verdi.giuseppe">Verdi</persName>
 				sich vielleicht noch eine gesteigerte Ausdrucksweise gewünscht, manche Contraste

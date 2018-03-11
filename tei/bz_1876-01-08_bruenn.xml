@@ -33,15 +33,15 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Kunst, Wissenschaft und Literatur.</head>
-			<p><g type="WHITE_UP-POINTING_TRIANGLE" n="25B3">△</g>
-				<rs type="event" ref="#bruenn.1876.2"><hi rend="bold"><placeName ref="#bruenn"
+			<p><g n="25B3" type="WHITE_UP-POINTING_TRIANGLE">△</g>
+				<rs ref="#bruenn.1876.2" type="event"><hi rend="bold"><placeName ref="#bruenn"
 							>Brünn</placeName></hi>, <date when-iso="1876-01-08">8. Jänner</date>.
 						(<hi rend="widespace"><title ref="#verdi.requiem">Requiem</title> von
 							<persName ref="#verdi.giuseppe">G. Verdi</persName></hi>.) Die zweite
 					Aufführung dieses sensationellen Tonwerkes fand am <date when-iso="1876-01-06"
 						>6. d. M.</date> vor einem sehr zahlreichen Publicum statt und fand eine
 					überaus warme Aufnahme.</rs> Man darf sagen, daß diese zweite Aufführung eine
-				viel gerundetere und correctere war als die <rs type="event" ref="#bruenn.1876.1"
+				viel gerundetere und correctere war als die <rs ref="#bruenn.1876.1" type="event"
 					>erste</rs> und daß die einzelnen Solos und Chöre eine nachhaltigere Wirkung
 				erzielten. Wir erwähnen des <hi rend="antiqua"><title ref="#verdi.requiem.2">„Dies
 						irae“</title></hi>, sowie des Chores <hi rend="antiqua"><title

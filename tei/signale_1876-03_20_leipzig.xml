@@ -12,14 +12,12 @@
 				<bibl>
 					<orgName ref="#signale" role="publisher"/>
 					<placeName ref="#leipzig"/>
-					<date cert="low" when-iso="1876-03-31" notAfter-iso="1876-03-31"
-						notBefore-iso="1876-03-10"/>
+					<date cert="low" notAfter-iso="1876-03-31" notBefore-iso="1876-03-10"
+						when-iso="1876-03-31"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach der Aufführung-->
-					<biblScope unit="issue">20</biblScope><biblScope unit="volume">34</biblScope>
+					<biblScope unit="issue">20</biblScope>
+					<biblScope unit="volume">34</biblScope>
 					<biblScope unit="page">309</biblScope>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=317"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,19 +34,23 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=317"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="309" type="initial"/>
-			<head rend="antiqua widespace larger">Dur und Moll.</head>
-			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
-				<rs type="event" ref="#leipzig.1876.1"><hi rend="widespace"><placeName ref="#leipzig"
-							>Leipzig</placeName></hi>. Das <hi rend="widespace">neunzehnte</hi>, am
-						<date when-iso="1876-03-09">9. März</date> stattgehabte <hi rend="widespace"
-						>Gewandhausconcert</hi> vermittelte unsrer Stadt die Bekanntschaft mit
-					demjenigen Werke der musikalischen Kunst, welches seit einiger Zeit seinen
-					Rundgang durch die Welt macht und jedenfalls augenblicklich das notabelste und
-					besprochenste musikalische Ereignis bildet — <persName ref="#verdi.giuseppe"
-						>Verdi’s</persName>
+			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
+			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
+				<rs ref="#leipzig.1876.1" type="event"><hi rend="widespace"><placeName
+							ref="#leipzig">Leipzig</placeName></hi>. Das <hi rend="widespace"
+						>neunzehnte</hi>, am <date when-iso="1876-03-09">9. März</date> stattgehabte
+						<hi rend="widespace">Gewandhausconcert</hi> vermittelte unsrer Stadt die
+					Bekanntschaft mit demjenigen Werke der musikalischen Kunst, welches seit einiger
+					Zeit seinen Rundgang durch die Welt macht und jedenfalls augenblicklich das
+					notabelste und besprochenste musikalische Ereignis bildet — <persName
+						ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title></rs>. <persName
 					ref="#verdi.giuseppe">Verdi</persName> im <placeName ref="#leipzig.gewandhaus"
 					>Gewandhause</placeName>! Was sagen die Italianophoben und Classicomanen hier

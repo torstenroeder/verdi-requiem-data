@@ -13,11 +13,10 @@
 					<orgName ref="#tonkunst" role="publisher"/>
 					<placeName ref="#berlin"/>
 					<date when-iso="1876-10-14"/>
-					<biblScope unit="issue">38</biblScope><biblScope unit="volume"
-						>2</biblScope><series>tonkunst</series>
+					<biblScope unit="issue">38</biblScope>
+					<biblScope unit="volume">2</biblScope>
+					<series>tonkunst</series>
 					<biblScope unit="page">245–246</biblScope>
-					<link facs="tonkunst_1876-10-14_245.png"/>
-					<link facs="tonkunst_1876-10-14_246.png"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -34,10 +33,13 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--<graphic n="tonkunst_1876-10-14_245.png"/>-->
+	<!--<graphic n="tonkunst_1876-10-14_246.png"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
+			<pb n="245"/>
 			<head rend="larger">Theorie, Aesthetik und Geschichte.</head>
-			<head rend="antiqua">PPPPP.</head>
+			<head rend="antiqua widespace bold">PPPPP.</head>
 			<head rend="smaller">Von <persName ref="#musiol.robert">R. <hi rend="widespace"
 						>Musiol</hi></persName>.</head>
 			<p><persName ref="#verdi.giuseppe">G. <hi rend="widespace">Verdi</hi></persName> hat uns
@@ -79,17 +81,17 @@
 					<persName ref="#huckebein.hans">Hans Huckebein</persName>, der Unglücksrabe,
 				seine Heidelbeer-Compot-Malereien dort versucht hätt<note resp="tr"
 					type="literatureLink">Vgl. <persName ref="#busch.wilhelm">Wilhelm
-						Busch</persName>, <ref type="text"
+						Busch</persName>, <ref
 						target="http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=PPN512543577|LOG_0003&amp;physid=PHYS_0021"
-						>Hans Huckebein</ref>: »Nichts Schönres gab's für Tante Lotte / Als schwarze
-					Heidelbeerkompotte. / Doch Huckebein verschleudert nur / Die schöne Gabe der
-					Natur. / Die Tante naht voll Zorn und Schrecken; / Hans Huckebein verläßt das
-					Becken. / Und schnell betritt er, angstbeflügelt, / Die Wäsche, welche frisch
-					gebügelt.«</note>. Es ist überhaupt eigen, worauf die Componisten manchmal
-				kommen. So verlangt ein Componist einmal einen <hi rend="widespace"
+						type="text">Hans Huckebein</ref>: »Nichts Schönres gab's für Tante Lotte /
+					Als schwarze Heidelbeerkompotte. / Doch Huckebein verschleudert nur / Die schöne
+					Gabe der Natur. / Die Tante naht voll Zorn und Schrecken; / Hans Huckebein
+					verläßt das Becken. / Und schnell betritt er, angstbeflügelt, / Die Wäsche,
+					welche frisch gebügelt.«</note>. Es ist überhaupt eigen, worauf die Componisten
+				manchmal kommen. So verlangt ein Componist einmal einen <hi rend="widespace"
 					>ausgehaltenen</hi> Schlußaccord <hi rend="widespace">auf dem Pianoforte</hi>
-				<g type="MUSICAL_SYMBOL_CRESCENDO" n="1D192">&lt;</g>
-				<g type="MUSICAL_SYMBOL_DECRESCENDO" n="1D193">&gt;</g> ausgeführt Wer <hi
+				<g n="1D192" type="MUSICAL_SYMBOL_CRESCENDO">&lt;</g>
+				<g n="1D193" type="MUSICAL_SYMBOL_DECRESCENDO">&gt;</g> ausgeführt Wer <hi
 					rend="widespace">das</hi> kann, mag damit glänzen, aber Vielen - vielleicht
 				Keinem! - wird es wohl gegeben sein. Wir wollen eine Entschuldigung dafür in der
 				Poesie der Vorstellung suchen, die sich nichts um praktische Ausführbarkeit kümmert,
@@ -100,10 +102,9 @@
 				schaffen kann. Oder sollte doch das gleichsam instinctive Schaffen höheren Werth als
 				das reflectirende, das mit <pb break="yes" n="246" type="regular"/>künstlerischem
 				Bewußtsein (— „So und nicht anders!“ —)<note resp="tr" type="literatureLink">Vgl.
-					z.B. <ref type="text"
-						target="https://books.google.de/books?id=srwpAAAAYAAJ&amp;pg=PA167">Moses
-						Mendelssohn, Jerusalem, Leipzig 1869, S. 167</ref>.</note> geschehende
-				Schaffen haben? Muß auch die Hauptsache dem Künstler angeboren sein, die
+					z.B. <ref target="https://books.google.de/books?id=srwpAAAAYAAJ&amp;pg=PA167"
+						type="text">Moses Mendelssohn, Jerusalem, Leipzig 1869, S. 167</ref>.</note>
+				geschehende Schaffen haben? Muß auch die Hauptsache dem Künstler angeboren sein, die
 				künstlerische Erziehung muß doch das Meiste thun. Nehmen wir nur ein Beispiel: <hi
 					rend="widespace"><persName ref="#boehner.johann-ludwig">Louis
 					Böhner</persName></hi>. Er war gewiß einer der Talentvollsten, vielleicht

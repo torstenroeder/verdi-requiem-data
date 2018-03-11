@@ -23,7 +23,7 @@
 				<item xml:id="bach.h-moll-messe">
 					<idno type="gnd">300009879</idno>
 					<name type="index">H-Moll-Messe</name>
-					<!-- 'H' großgeschrieben für die Sortierung in XSL 1.0 -->
+					<!-- 'H' großgeschrieben für die Sortierung in XSL 1.0 :( -->
 					<name type="ordinal">BWV 232</name>
 					<desc>Geistlich / Messe</desc>
 					<lang>Lateinisch</lang>
@@ -235,7 +235,7 @@
 					<bibl type="imslp.org">Requiem_(Jommelli,_Niccolò)</bibl>
 				</item>
 				<item xml:id="kiel.requiem-as-moll">
-					<name type="index">Requiem in As-Dur </name>
+					<name type="index">Requiem in As-Dur</name>
 					<name type="ordinal">op. 80</name>
 					<desc>Geistlich / Messe / Requiem</desc>
 					<lang>Lateinisch</lang>

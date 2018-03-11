@@ -1,48 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Coburger Zeitung, 5. Dezember 1877 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/cz_1877-12-05_kunstnotiz.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#coburger-zeitung" role="publisher"/>
-				<placeName ref="#coburg"/>
-				<date when-iso="1877-12-05" when-custom="wed"/>
-				<biblScope unit="issue">285</biblScope><biblScope unit="volume">17</biblScope><series>cz</series>
-				<biblScope unit="page">1152 [2]–1153 [3]</biblScope>
-				<link facs="cz_1877-12-05_1152.jpg" target="http://digipress.digitale-sammlungen.de/de/fs1/calendar/1877-12-05.1396849-x/bsb00001115_01154.html"/>
-				<link facs="cz_1877-12-05_1153.jpg" target="http://digipress.digitale-sammlungen.de/de/fs1/calendar/1877-12-05.1396849-x/bsb00001115_01155.html"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#coburg"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Rezeptionsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Kunstnotiz.</head>
-		<p><rs type="event" ref="#coburg.1877.1">Ueber das am <date>nächsten Freitag, den 7. December</date>,
-				Abends, <placeName ref="#coburg.hoftheater">im Herzoglichen <pb break="yes" n="1153" type="regular"/>Hoftheater</placeName> zur Aufführung gelangende „<hi rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi>“ von <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> bemerken wir
-				Folgendes</rs>: Die höchst interessante und eigenartige Todtenmesse wurde von
-				<persName ref="#verdi.giuseppe">Verdi</persName> zum Todestage <persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName> componirt und überall, wo sie
-			zur Aufführung gelangte, enthusiastisch aufgenommen. <rs type="event" ref="#koeln.1877.musikfest.2">In <placeName ref="#koeln">Köln</placeName> wurde sie zu <date>Pfingsten d. J.</date> unter
-				Leitung des Componisten mit immensem Erfolg executirt</rs> (Vgl. Nr. <choice>
-				<orig>110</orig>
-				<corr resp="tr">119</corr>
-			</choice> unserer Zeitung vom <date when-iso="1877-05-25">25. Mai</date>.)</p>
-		<p>Gleich die erste Nr. Soloquartett und Chor <hi rend="antiqua"><title ref="#verdi.requiem.1">„Requiem aeternam“</title></hi> (Ewige Ruhe gib ihnen) ist von tief ergreifender
-			Wirkung. <hi rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">„Dies
-				irae“</title></hi> ist ein durch überraschende Modulationen gehobener, kräftiger,
-			feuriger, ganz den Worten „Tag des Schreckens“ entsprechender Chorgesang. Im <hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">„Tuba mirum“</title></hi>
-			behaupten die Blechinstrumente selbstverständlich das Feld und das Musikstück schließt
-			sich an das höchst originelle Baß-Solo <hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">„Mors stupebit“</title></hi> mit
-			Solobegleitung der großen Trommel an. — Als Gegensatz zu den lärmenden Musikstücken
-			bietet das <title ref="#verdi.requiem">Requiem</title> aber auch viel Zartes und Duftiges,
-			wie z. B. das Terzett <hi rend="antiqua"><title ref="#verdi.requiem.2.quid-sum-miser">„Quid sum miser tunc dicturus“</title></hi> für Sopran, Alt und Tenorstimmen,
-			das berühmte Duett <hi rend="antiqua"><title ref="#verdi.requiem.2.recordare">„Recordare,
-					Jesu pie“</title></hi> für Sopran und Alt und die Arien <hi rend="antiqua"><title ref="#verdi.requiem.2.ingemisco" n="qui-mariam">„Qui Mariam absolvisti“</title></hi>
-			für Tenor und <hi rend="antiqua"><title ref="#verdi.requiem.2.confutatis">„Confutatis“</title></hi> für Baß. <hi rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">„Lacrymosa“,</title></hi> ein zartes, Andacht
-			erregendes Quartett für Sologesang, in welches stellenweise der Chorgesang eintritt, ist
-			eine der wirksamsten Nummern der ganzen Tondichtung. <hi rend="antiqua"><title ref="#verdi.requiem.3" n="domine-jesu">„Domine Jesu“,</title></hi>
-			<hi rend="antiqua"><title ref="#verdi.requiem.6">„Lux aeterna“</title></hi> und <hi rend="antiqua"><title ref="#verdi.requiem.5">„Agnus Dei“</title></hi> sind sehr
-			melodiöse, ausdrucksvolle Tonstücke, deren Wirkung erhebend und rührend ist. <hi rend="antiqua"><title ref="#verdi.requiem.4">„Sanctus“</title></hi> Fuge und Doppelchor
-			ist ein compacter Tonsatz, in welchem <persName ref="#verdi.giuseppe">Verdi</persName>, wie
-			in der Schlußfuge <hi rend="antiqua"><title ref="#verdi.requiem.7">„Libera me
-					Domine“,</title></hi> bewiesen hat, daß er auch in contrapunctischen Wendungen zu
-			Hause ist. Schließlich muß noch des herrlichen Chorgesangs mit Sopransolis a capella,
-			welcher von weihevoller Erfindung ist, gedacht werden.</p>
-		<p>Die Chöre werden, außer vom Hoftheater-Chor, von den Mitgliedern des hiesigen
-			Sängerkranzes ausgeführt. Die Soloparthien sind in den Händen der Fräulein <hi rend="widespace"><persName ref="#gerl.helene" role="soloist.soprano">Gerl</persName></hi>
-			und <hi rend="widespace"><persName ref="#stirl.helene" role="soloist.mezzo">Stirl</persName></hi>, sowie der Herren <hi rend="widespace"><persName ref="#eilers.ludwig-albert" role="soloist.tenor">Eilers</persName></hi> und <hi rend="widespace"><persName ref="#buerger.max" role="soloist.basso">Bürger</persName></hi>
-			— Namen, welche für die Vortrefflichkeit ihrer Leistungen einstehen.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Coburger Zeitung, 5. Dezember 1877 [1]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/cz_1877-12-05_kunstnotiz.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#coburger-zeitung" role="publisher"/>
+					<placeName ref="#coburg"/>
+					<date when-custom="wed" when-iso="1877-12-05"/>
+					<biblScope unit="issue">285</biblScope>
+					<biblScope unit="volume">17</biblScope>
+					<series>cz</series>
+					<biblScope unit="page">1152 [2]–1153 [3]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#coburg"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="cz_1877-12-05_1152.jpg"
+			url="http://digipress.digitale-sammlungen.de/de/fs1/calendar/1877-12-05.1396849-x/bsb00001115_01154.html"
+			xml:id="f1"/>
+		<graphic n="cz_1877-12-05_1153.jpg"
+			url="http://digipress.digitale-sammlungen.de/de/fs1/calendar/1877-12-05.1396849-x/bsb00001115_01155.html"
+			xml:id="f2"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Kunstnotiz.</head>
+			<p><rs ref="#coburg.1877.1" type="event">Ueber das am <date>nächsten Freitag, den 7.
+						December</date>, Abends, <placeName ref="#coburg.hoftheater">im Herzoglichen
+							<pb break="yes" n="1153" type="regular"/>Hoftheater</placeName> zur
+					Aufführung gelangende „<hi rend="widespace"><title ref="#verdi.requiem"
+							>Requiem</title></hi>“ von <hi rend="widespace"><persName
+							ref="#verdi.giuseppe">Verdi</persName></hi> bemerken wir Folgendes</rs>:
+				Die höchst interessante und eigenartige Todtenmesse wurde von <persName
+					ref="#verdi.giuseppe">Verdi</persName> zum Todestage <persName
+					ref="#manzoni.alessandro">Alessandro Manzoni’s</persName> componirt und überall,
+				wo sie zur Aufführung gelangte, enthusiastisch aufgenommen. <rs
+					ref="#koeln.1877.musikfest.2" type="event">In <placeName ref="#koeln"
+						>Köln</placeName> wurde sie zu <date>Pfingsten d. J.</date> unter Leitung
+					des Componisten mit immensem Erfolg executirt</rs> (Vgl. Nr. <choice>
+					<orig>110</orig>
+					<corr resp="tr">119</corr>
+				</choice> unserer Zeitung vom <date when-iso="1877-05-25">25. Mai</date>.)</p>
+			<p>Gleich die erste Nr. Soloquartett und Chor <hi rend="antiqua"><title
+						ref="#verdi.requiem.1">„Requiem aeternam“</title></hi> (Ewige Ruhe gib
+				ihnen) ist von tief ergreifender Wirkung. <hi rend="antiqua"><title
+						ref="#verdi.requiem.2.dies-irae">„Dies irae“</title></hi> ist ein durch
+				überraschende Modulationen gehobener, kräftiger, feuriger, ganz den Worten „Tag des
+				Schreckens“ entsprechender Chorgesang. Im <hi rend="antiqua"><title
+						ref="#verdi.requiem.2.tuba-mirum">„Tuba mirum“</title></hi> behaupten die
+				Blechinstrumente selbstverständlich das Feld und das Musikstück schließt sich an das
+				höchst originelle Baß-Solo <hi rend="antiqua"><title n="mors-stupebit"
+						ref="#verdi.requiem.2.tuba-mirum">„Mors stupebit“</title></hi> mit
+				Solobegleitung der großen Trommel an. — Als Gegensatz zu den lärmenden Musikstücken
+				bietet das <title ref="#verdi.requiem">Requiem</title> aber auch viel Zartes und
+				Duftiges, wie z. B. das Terzett <hi rend="antiqua"><title
+						ref="#verdi.requiem.2.quid-sum-miser">„Quid sum miser tunc
+					dicturus“</title></hi> für Sopran, Alt und Tenorstimmen, das berühmte Duett <hi
+					rend="antiqua"><title ref="#verdi.requiem.2.recordare">„Recordare, Jesu
+						pie“</title></hi> für Sopran und Alt und die Arien <hi rend="antiqua"><title
+						n="qui-mariam" ref="#verdi.requiem.2.ingemisco">„Qui Mariam
+						absolvisti“</title></hi> für Tenor und <hi rend="antiqua"><title
+						ref="#verdi.requiem.2.confutatis">„Confutatis“</title></hi> für Baß. <hi
+					rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">„Lacrymosa“,</title></hi>
+				ein zartes, Andacht erregendes Quartett für Sologesang, in welches stellenweise der
+				Chorgesang eintritt, ist eine der wirksamsten Nummern der ganzen Tondichtung. <hi
+					rend="antiqua"><title n="domine-jesu" ref="#verdi.requiem.3">„Domine
+						Jesu“,</title></hi>
+				<hi rend="antiqua"><title ref="#verdi.requiem.6">„Lux aeterna“</title></hi> und <hi
+					rend="antiqua"><title ref="#verdi.requiem.5">„Agnus Dei“</title></hi> sind sehr
+				melodiöse, ausdrucksvolle Tonstücke, deren Wirkung erhebend und rührend ist. <hi
+					rend="antiqua"><title ref="#verdi.requiem.4">„Sanctus“</title></hi> Fuge und
+				Doppelchor ist ein compacter Tonsatz, in welchem <persName ref="#verdi.giuseppe"
+					>Verdi</persName>, wie in der Schlußfuge <hi rend="antiqua"><title
+						ref="#verdi.requiem.7">„Libera me Domine“,</title></hi> bewiesen hat, daß er
+				auch in contrapunctischen Wendungen zu Hause ist. Schließlich muß noch des
+				herrlichen Chorgesangs mit Sopransolis a capella, welcher von weihevoller Erfindung
+				ist, gedacht werden.</p>
+			<p>Die Chöre werden, außer vom Hoftheater-Chor, von den Mitgliedern des hiesigen
+				Sängerkranzes ausgeführt. Die Soloparthien sind in den Händen der Fräulein <hi
+					rend="widespace"><persName ref="#gerl.helene" role="soloist.soprano"
+						>Gerl</persName></hi> und <hi rend="widespace"><persName ref="#stirl.helene"
+						role="soloist.mezzo">Stirl</persName></hi>, sowie der Herren <hi
+					rend="widespace"><persName ref="#eilers.ludwig-albert" role="soloist.tenor"
+						>Eilers</persName></hi> und <hi rend="widespace"><persName
+						ref="#buerger.max" role="soloist.basso">Bürger</persName></hi> — Namen,
+				welche für die Vortrefflichkeit ihrer Leistungen einstehen.</p>
+		</body>
+	</text>
 </TEI>

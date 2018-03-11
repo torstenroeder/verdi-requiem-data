@@ -1,23 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Wiener Zeitung, 22. September 1875</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/wz_1875-09-22_kleine-chronik.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#wiener-zeitung" role="publisher"/>
-				<placeName ref="#wien"/>
-				<date when-iso="1875-09-22" when-custom="wed"/>
-				<biblScope unit="issue">217</biblScope><biblScope unit="subIssue">217</biblScope><series>wz</series>
-				<biblScope unit="page">2</biblScope>
-				<link facs="wz_1875-09-22_12.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750922&amp;seite=12"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#florenz"/></creation><textClass><keywords><term type="textType">Bericht</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger">Kleine Chronik.</head>
-		<p>(<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ in <placeName ref="#florenz">Florenz</placeName></hi>.) Die zwei musikalischesten Städte <placeName ref="#italien">Italiens</placeName> sind im jetzigen Moment ohne Frage <placeName ref="#mailand">Mailand</placeName> und <placeName ref="#florenz">Florenz</placeName>. Letztere Stadt hat
-			nunmehr <rs type="event" ref="#florenz.1875">(am <date when-iso="1875-09-19">19. d. M.</date>) <persName ref="#verdi.giuseppe">Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“
-				in würdiger Weise zur Aufführung gebracht</rs> und der Erfolg war, wie er bisher
-			überall gewesen — enthusiastischer Beifall. Das „<title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title>“, „<title ref="#verdi.requiem.4">Sanctus</title>“ und „<title ref="#verdi.requiem.5">Agnus</title>“ wurden zur Wiederholung begehrt, auch das „<title ref="#verdi.requiem.3">Offertorium</title>“ hätte das Publicum gerne noch einmal
-			gehört. Die Solisten waren (wie in <placeName ref="#wien">Wien</placeName>) die Sängerinnen
-				<persName ref="#stolz.teresa">Stol<surplus resp="tr">t</surplus>z</persName> und <persName ref="#waldmann.maria">Waldmann</persName> und die Sänger <persName ref="#medini.paolo">Medini</persName> und <persName ref="#masini.angelo">Masini</persName>. Maestro <persName ref="#faccio.franco">Faccio</persName>, der auch die <rs type="event" ref="#venedig.1875">Aufführungen in <placeName ref="#venedig">Venedig</placeName></rs> geleitet, dirigirte.
-			Die Aufführung fand im <placeName ref="#florenz.teatro-principe-umberto">Teatro Principe
-				Umberto</placeName> statt. Das Publicum bestand aus etwa 2000 Zuhörern. Den <date when-iso="1875-09-20">20. d. M.</date> fand die zweite Aufführung statt; eine dritte und
-			vierte für den <date when-iso="1875-09-22">22.</date> und <date when-iso="1875-09-24">24.</date>
-			in Aussicht gestellt.</p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Wiener Zeitung, 22. September 1875</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/wz_1875-09-22_kleine-chronik.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#wiener-zeitung" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="wed" when-iso="1875-09-22"/>
+					<biblScope unit="issue">217</biblScope>
+					<biblScope unit="subIssue">217</biblScope>
+					<series>wz</series>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#florenz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="wz_1875-09-22_12.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750922&amp;seite=12"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger">Kleine Chronik.</head>
+			<p>(<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName> „<title
+						ref="#verdi.requiem">Requiem</title>“ in <placeName ref="#florenz"
+						>Florenz</placeName></hi>.) Die zwei musikalischesten Städte <placeName
+					ref="#italien">Italiens</placeName> sind im jetzigen Moment ohne Frage
+					<placeName ref="#mailand">Mailand</placeName> und <placeName ref="#florenz"
+					>Florenz</placeName>. Letztere Stadt hat nunmehr <rs ref="#florenz.1875"
+					type="event">(am <date when-iso="1875-09-19">19. d. M.</date>) <persName
+						ref="#verdi.giuseppe">Verdi’s</persName> „<title ref="#verdi.requiem"
+						>Requiem</title>“ in würdiger Weise zur Aufführung gebracht</rs> und der
+				Erfolg war, wie er bisher überall gewesen — enthusiastischer Beifall. Das „<title
+					ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title>“, „<title
+					ref="#verdi.requiem.4">Sanctus</title>“ und „<title ref="#verdi.requiem.5"
+					>Agnus</title>“ wurden zur Wiederholung begehrt, auch das „<title
+					ref="#verdi.requiem.3">Offertorium</title>“ hätte das Publicum gerne noch einmal
+				gehört. Die Solisten waren (wie in <placeName ref="#wien">Wien</placeName>) die
+				Sängerinnen <persName ref="#stolz.teresa">Stol<surplus resp="tr"
+					>t</surplus>z</persName> und <persName ref="#waldmann.maria">Waldmann</persName>
+				und die Sänger <persName ref="#medini.paolo">Medini</persName> und <persName
+					ref="#masini.angelo">Masini</persName>. Maestro <persName ref="#faccio.franco"
+					>Faccio</persName>, der auch die <rs ref="#venedig.1875" type="event"
+					>Aufführungen in <placeName ref="#venedig">Venedig</placeName></rs> geleitet,
+				dirigirte. Die Aufführung fand im <placeName ref="#florenz.teatro-principe-umberto"
+					>Teatro Principe Umberto</placeName> statt. Das Publicum bestand aus etwa 2000
+				Zuhörern. Den <date when-iso="1875-09-20">20. d. M.</date> fand die zweite
+				Aufführung statt; eine dritte und vierte für den <date when-iso="1875-09-22"
+					>22.</date> und <date when-iso="1875-09-24">24.</date> in Aussicht gestellt.</p>
+		</body>
+	</text>
 </TEI>

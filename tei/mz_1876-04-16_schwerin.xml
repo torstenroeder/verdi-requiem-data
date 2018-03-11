@@ -1,13 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>Mecklenburgische Zeitung, Schwerin, 16. April 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mz_1876-04-16_schwerin.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#mecklenburgische-zeitung" role="publisher"/>
-				<placeName ref="#schwerin"/>
-				<date when-iso="1876-04-16" when-custom="sun"/>
-				<biblScope unit="issue">104</biblScope><series>mn</series>
-				<biblScope unit="page">4</biblScope>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#schwerin"/></creation><textClass><keywords><term type="textType">Anzeige</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<head rend="larger"><placeName ref="#schwerin.hoftheater">Großherzogliches Hoftheater</placeName>.</head>
-		<p rend="center"><rs type="event" ref="#schwerin.1876.1"><date when-iso="1876-04-15">Sonntag, den 16. April</date>:<lb break="yes"/><hi rend="bold">auf der Bühne des <placeName ref="#schwerin.hoftheater">Großherzoglichen Schauspielhauses</placeName>:</hi><lb break="yes"/><hi rend="larger bold antiqua"><title ref="#verdi.requiem">Requiem</title></hi><lb break="yes"/>von <hi rend="bold antiqua"><persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>.</hi></rs><lb break="yes"/>(Zum Todestage <hi rend="bold antiqua"><persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName></hi> componirt.)<lb break="yes"/>Soli:<lb break="yes"/>Frl. <hi rend="bold"><persName ref="#gungl.virginia">Gung’l</persName></hi> (Sopran),<lb break="yes"/>Frl. <hi rend="bold"><persName ref="#schwencke.anna">Schwencke</persName></hi> (Alt),<lb break="yes"/>Herr <hi rend="bold"><persName ref="#candidus.william">Candidus</persName></hi> vom <placeName ref="#hamburg.stadt-theater">Stadttheater</placeName> zu <placeName ref="#hamburg">Hamburg</placeName> (Tenor),<lb break="yes"/>Herr <hi rend="bold"><persName ref="#hill.karl">Hill</persName></hi> (Baß).<lb break="yes"/>Chor: Hoftheaterchor, unter gefälliger Mitwirkung hiesiger Dilettanten.<lb break="yes"/><hi rend="bold">Mittelpreise.</hi><lb break="yes"/><hi rend="bold">Anfang 7 Uhr.</hi></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mecklenburgische Zeitung, Schwerin, 16. April 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mz_1876-04-16_schwerin.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#mecklenburgische-zeitung" role="publisher"/>
+					<placeName ref="#schwerin"/>
+					<date when-custom="sun" when-iso="1876-04-16"/>
+					<biblScope unit="issue">104</biblScope>
+					<series>mn</series>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#schwerin"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Anzeige</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<head rend="larger"><placeName ref="#schwerin.hoftheater">Großherzogliches
+					Hoftheater</placeName>.</head>
+			<p rend="center"><rs ref="#schwerin.1876.1" type="event"><date when-iso="1876-04-15"
+						>Sonntag, den 16. April</date>:<lb break="yes"/><hi rend="bold">auf der
+						Bühne des <placeName ref="#schwerin.hoftheater">Großherzoglichen
+							Schauspielhauses</placeName>:</hi><lb break="yes"/><hi
+						rend="larger bold antiqua"><title ref="#verdi.requiem"
+						>Requiem</title></hi><lb break="yes"/>von <hi rend="bold antiqua"><persName
+							ref="#verdi.giuseppe">Giuseppe Verdi</persName>.</hi></rs><lb
+					break="yes"/>(Zum Todestage <hi rend="bold antiqua"><persName
+						ref="#manzoni.alessandro">Alessandro Manzoni’s</persName></hi>
+					componirt.)<lb break="yes"/>Soli:<lb break="yes"/>Frl. <hi rend="bold"><persName
+						ref="#gungl.virginia">Gung’l</persName></hi> (Sopran),<lb break="yes"/>Frl.
+					<hi rend="bold"><persName ref="#schwencke.anna">Schwencke</persName></hi>
+					(Alt),<lb break="yes"/>Herr <hi rend="bold"><persName ref="#candidus.william"
+						>Candidus</persName></hi> vom <placeName ref="#hamburg.stadt-theater"
+					>Stadttheater</placeName> zu <placeName ref="#hamburg">Hamburg</placeName>
+					(Tenor),<lb break="yes"/>Herr <hi rend="bold"><persName ref="#hill.karl"
+						>Hill</persName></hi> (Baß).<lb break="yes"/>Chor: Hoftheaterchor, unter
+				gefälliger Mitwirkung hiesiger Dilettanten.<lb break="yes"/><hi rend="bold"
+					>Mittelpreise.</hi><lb break="yes"/><hi rend="bold">Anfang 7 Uhr.</hi></p>
+		</body>
+	</text>
 </TEI>

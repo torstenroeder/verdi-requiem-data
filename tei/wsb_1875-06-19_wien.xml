@@ -14,14 +14,10 @@
 					<orgName ref="#wiener-salonblatt" role="publisher"/>
 					<placeName ref="#wien"/>
 					<date when-iso="1875-06-19"/>
-					<biblScope unit="issue">25</biblScope><biblScope unit="volume"
-						>6</biblScope><series>wsb</series>
+					<biblScope unit="issue">25</biblScope>
+					<biblScope unit="volume">6</biblScope>
+					<series>wsb</series>
 					<biblScope unit="page">8–9</biblScope>
-					<link facs="wsb_1875-06-19_8.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750619&amp;seite=8"/>
-					<link facs="wsb_1875-06-19_9.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750619&amp;seite=9"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,6 +34,12 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="wsb_1875-06-19_8.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750619&amp;seite=8"/>
+		<graphic n="wsb_1875-06-19_9.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=wsb&amp;datum=18750619&amp;seite=9"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="8" type="initial"/>
@@ -49,7 +51,7 @@
 			<cb break="yes" n="2" type="skipped"/>
 			<p><gap resp="tr"/> trotz alledem war das neue Opernhaus in der abgelaufenen Woche der
 				Schauplatz eines der bedeutendsten Triumphe seit dem Abende seiner Eröffnung. <rs
-					type="event" ref="#wien.1875">Das jüngste Werk <hi rend="widespace"><persName
+					ref="#wien.1875" type="event">Das jüngste Werk <hi rend="widespace"><persName
 							ref="#verdi.giuseppe">Giuseppe Verdi’s</persName></hi>, das <title
 						ref="#verdi.requiem">„Requiem“</title>, ist zur Aufführung gelangt und wenn
 					wir demselben letzthin einen sensationellen Erfolg prophezeihten, haben wir

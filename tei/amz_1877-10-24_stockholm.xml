@@ -14,14 +14,9 @@
 					<orgName ref="#amz" role="publisher"/>
 					<placeName ref="#leipzig"/>
 					<date when-iso="1877-10-24"/>
-					<biblScope unit="issue">43</biblScope><biblScope unit="volume">12</biblScope>
+					<biblScope unit="issue">43</biblScope>
+					<biblScope unit="volume">12</biblScope>
 					<biblScope unit="column">677–681</biblScope>
-					<link facs="amz_1877-10-24_677-678.jpg"
-						target="https://archive.org/stream/bub_gb_DGMPAAAAYAAJ#page/n351/mode/2up"/>
-					<link facs="amz_1877-10-24_679-680.jpg"
-						target="https://archive.org/stream/bub_gb_DGMPAAAAYAAJ#page/n351/mode/2up"/>
-					<link facs="amz_1877-10-24_681-682.jpg"
-						target="https://archive.org/stream/bub_gb_DGMPAAAAYAAJ#page/n353/mode/2up"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,76 +33,85 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="amz_1877-10-24_677-678.jpg"
+			url="https://archive.org/stream/bub_gb_DGMPAAAAYAAJ#page/n351/mode/2up" xml:id="f1"/>
+		<graphic n="amz_1877-10-24_679-680.jpg"
+			url="https://archive.org/stream/bub_gb_DGMPAAAAYAAJ#page/n351/mode/2up" xml:id="f2"/>
+		<graphic n="amz_1877-10-24_681-682.jpg"
+			url="https://archive.org/stream/bub_gb_DGMPAAAAYAAJ#page/n353/mode/2up" xml:id="f3"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<cb break="null" n="677" type="initial"/>
-			<head rend="bold larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<cb break="null" facs="#f1" n="677" type="initial"/>
+			<head rend="bold larger egypt"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title>.</head>
-			<head>Von <persName ref="#lindgren.adolf"><hi rend="bold">Dr. A.
+			<head rend="smaller">Von <persName ref="#lindgren.adolf"><hi rend="bold">Dr. A.
 					Lindgren</hi></persName> in <placeName ref="#stockholm">Stockholm</placeName>.
 				*)</head>
-			<p rend="smaller">*) Nachdem anlässlich der <rs type="event"
-					ref="#muenchen.1875 koeln.1875"><placeName ref="#muenchen">Münchener</placeName>
-					und <placeName ref="#koeln">Cölner</placeName> Aufführungen</rs> hier früher
-				eingehende Besprechungen dieses <title ref="#verdi.requiem">Requiem</title>
-				mitgetheilt wurden, wird man auch eine Stimme vom Auslande, nämlich die des
-				musikalischen Referenten des »Aftonbladet« in <placeName ref="#stockholm"
-					>Stockholm</placeName>, sicherlich mit Interesse anhören. Wir bemerken noch,
-				dass der Herr Verfasser den Aufsatz direct für unser Blatt geschrieben hat. D.
-				Red.</p>
-			<p>Diese berühmte <title ref="#verdi.requiem">Seelenmesse</title>, <rs type="event"
-					ref="#mailand.1874.1">welche das erste Mal am <date when-iso="1876-05-22">22.
-						Mai des Jahres 1874</date>, dem ersten Jahrestage des Todes <persName
-						ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>, in der Kirche
-						<placeName ref="#mailand.san-marco">San Marco in Mailand</placeName>
-					aufgeführt wurde</rs>, hat in der kurzen Zeit von nicht ganz drei Jahren eine
-				ausserordentliche Verbreitung gewonnen, von deren Ausdehnung und Geschwindigkeit man
-				erst dann einen Begriff erhält, wenn man bedenkt, dass sie noch in demselben Jahre
-					(<date when-iso="1874">1874</date>) den Weg nach <rs type="event"
-					ref="#paris.1874"><placeName ref="#paris">Paris</placeName></rs>, <date
-					when-iso="1875">1875</date> nach <rs type="event" ref="#florenz.1875"><placeName
-						ref="#florenz">Florenz</placeName></rs>, <rs type="event" ref="#london.1875"
-						><placeName ref="#london">London</placeName></rs>, <rs type="event"
-					ref="#wien.1875"><placeName ref="#wien">Wien</placeName></rs>, <rs type="event"
-					ref="#venedig.1875"><placeName ref="#venedig">Venedig</placeName></rs>, <rs
-					type="event" ref="#muenchen.1875"><placeName ref="#muenchen"
-					>München</placeName></rs>, <rs type="event" ref="#triest.1875"><placeName
-						ref="#triest">Triest</placeName></rs>, <rs type="event" ref="#graz.1875"
-						><placeName ref="#graz">Graz</placeName></rs>, <rs type="event"
-					ref="#buenos-aires.1875"><placeName ref="#buenos-aires"
-					>Buenos-Ayres</placeName></rs>, <rs type="event" ref="#bruessel.1875"><placeName
-						ref="#bruessel">Brüssel</placeName></rs>, <rs type="event"
-					ref="#antwerpen.1875"><placeName ref="#antwerpen">Antwerpen</placeName></rs>,
-					<rs type="event" ref="#gent.1875"><placeName ref="#gent">Gent</placeName></rs>
-				und <rs type="event" ref="#luettich.1875"><placeName ref="#luettich"
-						>Lüttich</placeName></rs>, <date when-iso="1876">1876</date> nach <rs
-					type="event" ref="#leipzig.1876"><placeName ref="#leipzig"
-					>Leipzig</placeName></rs>, <rs type="event" ref="#hamburg.1876"><placeName
-						ref="#hamburg">Hamburg</placeName></rs>, <rs type="event"
-					ref="#dresden.1876"><placeName ref="#dresden">Dresden</placeName></rs>, <rs
-					type="event" ref="#bruenn.1876"><placeName ref="#bruenn">Brünn</placeName></rs>,
-					<rs type="event" ref="#st-petersburg.1876"><placeName ref="#st-petersburg"
-						>Petersburg</placeName></rs>, <rs type="event" ref="#moskau.1876"><placeName
-						ref="#moskau">Moskau</placeName></rs>, <rs type="event"
-					ref="#rio-de-janeiro.1876"><placeName ref="#rio-de-janeiro">Rio de
-						Janeiro</placeName></rs>, <rs type="event" ref="#warschau.1876"><placeName
-						ref="#warschau">Warschau</placeName></rs>, <rs type="event"
-					ref="#elberfeld.1876"><placeName ref="#elberfeld">Elberfeld</placeName></rs>,
-					<rs type="event" ref="#schwerin.1876"><placeName ref="#schwerin"
-						>Schwerin</placeName></rs>, <rs type="event" ref="#parma.1876"><placeName
-						ref="#parma">Parma</placeName></rs>, <rs type="event" ref="#pest.1875"
+			<p rend="smaller">*) Nachdem anlässlich der <rs ref="#muenchen.1875 koeln.1875" type="event"
+						><placeName ref="#muenchen">Münchener</placeName> und <placeName
+						ref="#koeln">Cölner</placeName> Aufführungen</rs> hier früher eingehende
+				Besprechungen dieses <title ref="#verdi.requiem">Requiem</title> mitgetheilt wurden,
+				wird man auch eine Stimme vom Auslande, nämlich die des musikalischen Referenten des
+				»Aftonbladet« in <placeName ref="#stockholm">Stockholm</placeName>, sicherlich mit
+				Interesse anhören. Wir bemerken noch, dass der Herr Verfasser den Aufsatz direct für
+				unser Blatt geschrieben hat. <space type="flexible"/>
+				<hi rend="italic">D. Red.</hi></p>
+			<p>Diese berühmte <title ref="#verdi.requiem">Seelenmesse</title>, <rs
+					ref="#mailand.1874.1" type="event">welche das erste Mal am <date
+						when-iso="1876-05-22">22. Mai des Jahres 1874</date>, dem ersten Jahrestage
+					des Todes <persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>,
+					in der Kirche <placeName ref="#mailand.san-marco">San Marco in
+						Mailand</placeName> aufgeführt wurde</rs>, hat in der kurzen Zeit von nicht
+				ganz drei Jahren eine ausserordentliche Verbreitung gewonnen, von deren Ausdehnung
+				und Geschwindigkeit man erst dann einen Begriff erhält, wenn man bedenkt, dass sie
+				noch in demselben Jahre (<date when-iso="1874">1874</date>) den Weg nach <rs
+					ref="#paris.1874" type="event"><placeName ref="#paris">Paris</placeName></rs>,
+					<date when-iso="1875">1875</date> nach <rs ref="#florenz.1875" type="event"
+						><placeName ref="#florenz">Florenz</placeName></rs>, <rs ref="#london.1875"
+					type="event"><placeName ref="#london">London</placeName></rs>, <rs
+					ref="#wien.1875" type="event"><placeName ref="#wien">Wien</placeName></rs>, <rs
+					ref="#venedig.1875" type="event"><placeName ref="#venedig"
+					>Venedig</placeName></rs>, <rs ref="#muenchen.1875" type="event"><placeName
+						ref="#muenchen">München</placeName></rs>, <rs ref="#triest.1875"
+					type="event"><placeName ref="#triest">Triest</placeName></rs>, <rs
+					ref="#graz.1875" type="event"><placeName ref="#graz">Graz</placeName></rs>, <rs
+					ref="#buenos-aires.1875" type="event"><placeName ref="#buenos-aires"
+						>Buenos-Ayres</placeName></rs>, <rs ref="#bruessel.1875" type="event"
+						><placeName ref="#bruessel">Brüssel</placeName></rs>, <rs
+					ref="#antwerpen.1875" type="event"><placeName ref="#antwerpen"
+						>Antwerpen</placeName></rs>, <rs ref="#gent.1875" type="event"><placeName
+						ref="#gent">Gent</placeName></rs> und <rs ref="#luettich.1875" type="event"
+						><placeName ref="#luettich">Lüttich</placeName></rs>, <date when-iso="1876"
+					>1876</date> nach <rs ref="#leipzig.1876" type="event"><placeName ref="#leipzig"
+						>Leipzig</placeName></rs>, <rs ref="#hamburg.1876" type="event"><placeName
+						ref="#hamburg">Hamburg</placeName></rs>, <rs ref="#dresden.1876"
+					type="event"><placeName ref="#dresden">Dresden</placeName></rs>, <rs
+					ref="#bruenn.1876" type="event"><placeName ref="#bruenn">Brünn</placeName></rs>,
+					<rs ref="#st-petersburg.1876" type="event"><placeName ref="#st-petersburg"
+						>Petersburg</placeName></rs>, <rs ref="#moskau.1876" type="event"><placeName
+						ref="#moskau">Moskau</placeName></rs>, <rs ref="#rio-de-janeiro.1876"
+					type="event"><placeName ref="#rio-de-janeiro">Rio de Janeiro</placeName></rs>,
+					<rs ref="#warschau.1876" type="event"><placeName ref="#warschau"
+						>Warschau</placeName></rs>, <rs ref="#elberfeld.1876" type="event"
+						><placeName ref="#elberfeld">Elberfeld</placeName></rs>, <rs
+					ref="#schwerin.1876" type="event"><placeName ref="#schwerin"
+						>Schwerin</placeName></rs>, <rs ref="#parma.1876" type="event"><placeName
+						ref="#parma">Parma</placeName></rs>, <rs ref="#pest.1875" type="event"
 						><placeName ref="#pest">Pest</placeName></rs><note resp="tr"
 					type="eventCommentary">Die Aufführung in Pest hatte bereits 1875
-					stattgefunden.</note>, <rs type="event" ref="#breslau.1876"><placeName
-						ref="#breslau">Breslau</placeName></rs>, <rs type="event" ref="#bremen.1876"
-						><placeName ref="#bremen">Bremen</placeName></rs>, <rs type="event"
-					ref="#prag.1876"><placeName ref="#prag">Prag</placeName></rs>, <rs type="event"
-					ref="#salzburg.1876"><placeName ref="#salzburg">Salzburg</placeName></rs>, <rs
-					type="event" ref="#manchester.1876"><placeName ref="#manchester"
-						>Manchester</placeName></rs>, <rs type="event" ref="#heilbronn.1876"
-						><placeName ref="#heilbronn">Heilbronn</placeName></rs> und <rs type="event"
-					ref="#weimar.1876"><placeName ref="#weimar">Weimar</placeName></rs>, und nun im
-				Jahre <date when-iso="1877">1877</date> nach <rs type="event" ref="#stockholm.1877"
+					stattgefunden.</note>, <rs ref="#breslau.1876" type="event"><placeName
+						ref="#breslau">Breslau</placeName></rs>, <rs ref="#bremen.1876" type="event"
+						><placeName ref="#bremen">Bremen</placeName></rs>, <rs ref="#prag.1876"
+					type="event"><placeName ref="#prag">Prag</placeName></rs>, <rs
+					ref="#salzburg.1876" type="event"><placeName ref="#salzburg"
+						>Salzburg</placeName></rs>, <rs ref="#manchester.1876" type="event"
+						><placeName ref="#manchester">Manchester</placeName></rs>, <rs
+					ref="#heilbronn.1876" type="event"><placeName ref="#heilbronn"
+						>Heilbronn</placeName></rs> und <rs ref="#weimar.1876" type="event"
+						><placeName ref="#weimar">Weimar</placeName></rs>, und nun im Jahre <date
+					when-iso="1877">1877</date> nach <rs ref="#stockholm.1877" type="event"
 						><placeName ref="#stockholm">Stockholm</placeName></rs> gefunden hat. Von
 					<placeName ref="#manchester">Manchester</placeName> bis <placeName
 					ref="#florenz">Florenz</placeName>, von <placeName ref="#moskau"
@@ -147,7 +151,7 @@
 				nicht weniger als viermal vor, gleichsam den rothen Faden bildend, an welchem, wie
 				an einem unbeweglichen Fatum, einem weckenden und mahnenden Grundgedanken, das Ganze
 				hängt. Wie Andere schon vor ihm gethan, hat auch er sich im Schlussstücke der
-				Wiederholung des Anfanges (<title ref="#verdi.requiem.7" n="requiem-aeternam"><hi
+				Wiederholung des Anfanges (<title n="requiem-aeternam" ref="#verdi.requiem.7"><hi
 						rend="italic">Requiem aeternam</hi></title>) bedient. <emph rend="widespace"
 					>Theils</emph> suchte er die gewünschte Einheit auch durch eine gewisse
 				Gleichförmigkeit in Stil und Instrumentation, durch eine gewisse Verwandtschaft der
@@ -167,16 +171,16 @@
 				keine Originalität in des Wortes höchster Meinung besitzt. — Nach diesen
 				einleitenden Betrachtungen gehen wir nun zu einer flüchtigen Analyse dieses
 				grossartigen Werkes über.</p>
-			<p>1. <hi rend="italic"><title ref="#verdi.requiem.1" n="requiem-aeternam">Requiem
+			<p>1. <hi rend="italic"><title n="requiem-aeternam" ref="#verdi.requiem.1">Requiem
 						aeternam</title></hi> ist ein warmes, mildes Gebet für den Frieden der
 				Abgeschiedenen. Begleitet vom Streichquartett wird es vom Chore mit abgebrochenen,
 				schwermüthigen Ausrufen angestimmt, die sich dann beim Gedanken an das ewige Licht
 					(<hi rend="italic">lux perpetua</hi>) zu einem klaren Dur-Accord vereinigen.
-				Nach einem kurzen Hymnensatz (<hi rend="italic"><title ref="#verdi.requiem.1"
-						n="te-decet-hymnus">Te decet hymnus</title></hi>), welcher <hi
+				Nach einem kurzen Hymnensatz (<hi rend="italic"><title n="te-decet-hymnus"
+						ref="#verdi.requiem.1">Te decet hymnus</title></hi>), welcher <hi
 					rend="widespace">a capella</hi>, d. h. ohne Begleitung der Instrumente, gesungen
 				wird, wird dieses Gebet wiederholt, wonach das Soloquartett, später im Vereine mit
-				dem Chore das gebräuchliche <title ref="#verdi.requiem.1" n="kyrie"><hi
+				dem Chore das gebräuchliche <title n="kyrie" ref="#verdi.requiem.1"><hi
 						rend="italic">Kyrie eleison</hi></title> (Herr, erbarme dich) singt, das
 				hier jedoch nicht, wie sonst sehr oft der Fall sein dürfte, als regelmässige Fuge
 				behandelt ist. Darin muss dem Componisten gewiss volle Freiheit zugestanden werden,
@@ -231,10 +235,10 @@
 				Anordnung, die, ob gleich sie ausdrücklich vorgeschrieben ist (»trombe in
 				orchestra«, »trombe lontane«) bei der Aufführung nicht immer befolgt wird.
 				Illustrirt von diesem rein scenischen Effect, ertönt bis zum Satze <hi rend="italic"
-						><title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors
+						><title n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">Mors
 						stupebit</title></hi> (der, von malenden Orchesterbässen mit Paukensolo und
 				Pausen begleitet, von einer Bassstimme einsam gesungen wird) des Chores <hi
-					rend="italic"><title ref="#verdi.requiem.2.tuba-mirum" n="tuba-mirum">Tuba
+					rend="italic"><title n="tuba-mirum" ref="#verdi.requiem.2.tuba-mirum">Tuba
 						mirum</title></hi>. Hier übernimmt jetzt die Altstimme die Rolle des
 				Heroldes: <hi rend="italic"><title ref="#verdi.requiem.2.liber-scriptus">Liber
 						scriptus proferetur</title></hi>, »das Buch, in dem der Menschen Handlungen
@@ -290,23 +294,23 @@
 				mit richtigem Takte wiederum den Schlagschatten <hi rend="italic"><title
 						ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi> eingeflochten. Zum
 				Schluss machen wir noch auf das wunderschöne Soloquartett a capella (<hi
-					rend="italic"><title ref="#verdi.requiem.2.lacrymosa" key="666-701">Pie
+					rend="italic"><title key="666-701" ref="#verdi.requiem.2.lacrymosa">Pie
 						Jesu</title></hi>) aufmerksam.</p>
 			<p>3. Zur Seite dieses gewaltigen Gemäldes vom jüngsten Gerichte hat es das folgende
-				Stück, <hi rend="italic"><title ref="#verdi.requiem.3" n="domine-jesu">Domine
+				Stück, <hi rend="italic"><title n="domine-jesu" ref="#verdi.requiem.3">Domine
 						Jesu</title></hi>, schwer, sich halten zu können. Ebenso dürfte es auch
 				nicht im Stande sein, ein tieferes Interesse hervorrufen zu können, ungeachtet es
 				das eine oder andere Bemerkenswerthe aufzuweisen hat wie z. B. das Gemälde vom <hi
-					rend="italic"><title ref="#verdi.requiem.3" key="1-89">signifer sanctus
+					rend="italic"><title key="1-89" ref="#verdi.requiem.3">signifer sanctus
 						Michael</title></hi> und der Gläubigen Einführung zum ewigen Lichte, — ein
 				Gemälde, welches, verglichen mit <persName ref="#cherubini.luigi"
 					>Cherubini’s</persName> Behandlung derselben Stelle, oder <persName
 					ref="#beethoven.ludwig-van">Beethoven’s</persName> »Et ascendit in coelum«,
-				sowie mit der einfachen Melodie <hi rend="italic"><title ref="#verdi.requiem.3"
-						n="hostias">Hostias</title></hi> unbestreitbar doch nur eine wohlfeile
-				Effectzeichnung ist. Der gegen die Gewohnheit nicht fugirte Satz <title
-					ref="#verdi.requiem.3" n="quam-olim-abrahae">Quam olim</title> wird wie
-				gewöhnlich nach <hi rend="italic"><title ref="#verdi.requiem.3" n="hostias"
+				sowie mit der einfachen Melodie <hi rend="italic"><title n="hostias"
+						ref="#verdi.requiem.3">Hostias</title></hi> unbestreitbar doch nur eine
+				wohlfeile Effectzeichnung ist. Der gegen die Gewohnheit nicht fugirte Satz <title
+					n="quam-olim-abrahae" ref="#verdi.requiem.3">Quam olim</title> wird wie
+				gewöhnlich nach <hi rend="italic"><title n="hostias" ref="#verdi.requiem.3"
 						>Hostias</title></hi> wiederholt.</p>
 			<p>4. Höher steht <hi rend="italic"><title ref="#verdi.requiem.4">Sanctus</title></hi>
 				für Doppelchor und (nach <persName ref="#cherubini.luigi">Cherubini’s</persName>
@@ -334,16 +338,15 @@
 				und Schluss, die herrlichen Violinfiguren im <hi rend="italic">Tremens</hi> (beim
 				Schlusse dieses Satzes begehrt der Componist im leisen Pianissimo nahezu das
 				Unmögliche, indem er daselbst nicht weniger als sechs <hi rend="italic">P</hi>
-				gezeichnet hat), das noch einmal einfallende <hi rend="italic"><title
-						ref="#verdi.requiem.7" n="dies-irae">Dies irae</title></hi>, das eben auch
-				schon wiederholte <hi rend="italic"><title ref="#verdi.requiem.7"
-						n="requiem-aeternam">Requiem</title></hi> (in der Ausführung meisterhaft
-				modificirt, indem hier der ganze Satz vom Chor und Sopransolo ohne Begleitung der
-				Instrumente vorgetragen wird), die Fuge <hi rend="italic"><title
-						ref="#verdi.requiem.7">Libera me</title></hi>, interessant sowohl
-				hinsichtlich der Harmonie als der Contrapunction, auch der schwereren Finessen, wie
-				z. B. der Umkehrung des Themas und seiner rhythmischen Augmentation, wie auch auf
-				den poetischen Schluss.</p>
+				gezeichnet hat), das noch einmal einfallende <hi rend="italic"><title n="dies-irae"
+						ref="#verdi.requiem.7">Dies irae</title></hi>, das eben auch schon
+				wiederholte <hi rend="italic"><title n="requiem-aeternam" ref="#verdi.requiem.7"
+						>Requiem</title></hi> (in der Ausführung meisterhaft modificirt, indem hier
+				der ganze Satz vom Chor und Sopransolo ohne Begleitung der Instrumente vorgetragen
+				wird), die Fuge <hi rend="italic"><title ref="#verdi.requiem.7">Libera
+					me</title></hi>, interessant sowohl hinsichtlich der Harmonie als der
+				Contrapunction, auch der schwereren Finessen, wie z. B. der Umkehrung des Themas und
+				seiner rhythmischen Augmentation, wie auch auf den poetischen Schluss.</p>
 			<p>Der Messe stark dramatische, ja, wie wir sahen, sogar scenische Anlage, ist durchaus
 				kein Fehler, sondern vollkommen im Stile mit dem katholischen Gottesdienste, der
 				doch nicht anderes als ein ausgedehntes Drama oder Mirakelspiel ist. Das Maassvolle

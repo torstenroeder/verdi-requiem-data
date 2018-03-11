@@ -1,19 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>NZfM, Leipzig, 18. Februar 1876</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/nzfm_1876-02-18_dresden.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#nzfm" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-02-18"/>
-				<biblScope unit="issue">8</biblScope><biblScope unit="volume">72</biblScope><series>nzfm</series>
-				<biblScope unit="page">81 [9]</biblScope>
-				<link facs="nzfm_1876-02-18_81.png" target="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760218&amp;seite=9"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#dresden"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="fraktur">
-		<pb break="null" n="79" type="initial"/>
-		<head rend="larger">Tagesgeschichte.</head>
-		<pb break="null" n="81" type="skipped"/>
-		<head>Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
-		<gap resp="tr"/>
-		<p><rs type="event" ref="#dresden.1876"><persName ref="#verdi.giuseppe">Verdi</persName>. <title ref="#verdi.requiem"><hi rend="antiqua">Requiem</hi></title> auf <persName ref="#manzoni.alessandro">Manzoni</persName>. <placeName ref="#dresden">Dresden</placeName>,
-				im <placeName ref="#dresden.hoftheater">Hoftheater.</placeName></rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>NZfM, Leipzig, 18. Februar 1876</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nzfm_1876-02-18_dresden.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#nzfm" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-02-18"/>
+					<biblScope unit="issue">8</biblScope>
+					<biblScope unit="volume">72</biblScope>
+					<series>nzfm</series>
+					<biblScope unit="page">81 [9]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#dresden"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nzfm_1876-02-18_81.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760218&amp;seite=9"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="79" type="initial"/>
+			<head rend="larger">Tagesgeschichte.</head>
+			<pb break="null" n="81" type="skipped"/>
+			<head rend="bold">Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
+			<gap resp="tr"/>
+			<p rend="noIndent"><rs ref="#dresden.1876" type="event"><persName ref="#verdi.giuseppe"
+						>Verdi</persName>. <title ref="#verdi.requiem"><hi rend="antiqua"
+							>Requiem</hi></title> auf <persName ref="#manzoni.alessandro"
+						>Manzoni</persName>. <placeName ref="#dresden">Dresden</placeName>, im
+						<placeName ref="#dresden.hoftheater">Hoftheater.</placeName></rs></p>
+		</body>
+	</text>
 </TEI>

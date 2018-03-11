@@ -12,14 +12,11 @@
 				<bibl>
 					<orgName ref="#koelnische-zeitung" role="publisher"/>
 					<placeName ref="#koeln"/>
-					<date when-iso="1877-05-22" when-custom="tue"/>
-					<biblScope unit="issue">141</biblScope><biblScope unit="subIssue"
-						>141</biblScope><series>kz</series>
+					<date when-custom="tue" when-iso="1877-05-22"/>
+					<biblScope unit="issue">141</biblScope>
+					<biblScope unit="subIssue">141</biblScope>
+					<series>kz</series>
 					<biblScope unit="page">2</biblScope>
-					<link facs="kz_1877-05-22_2a.png"/>
-					<link facs="kz_1877-05-22_2b.png"/>
-					<link facs="kz_1877-05-22_2c.png"/>
-					<link facs="kz_1877-05-22_2d.png"/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,13 +33,17 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--<graphic n="kz_1877-05-22_2a.png"/>-->
+	<!--<graphic n="kz_1877-05-22_2b.png"/>-->
+	<!--<graphic n="kz_1877-05-22_2c.png"/>-->
+	<!--<graphic n="kz_1877-05-22_2d.png"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger"><g type="DOUBLE_DAGGER" n="2021">‡</g> Das 54. Niederrheinische
+			<head rend="larger"><g n="2021" type="DOUBLE_DAGGER">‡</g> Das 54. Niederrheinische
 				Musikfest zu <placeName ref="#koeln">Köln</placeName>.</head>
 			<head>Pfingsten, den <date when-iso="1877-05-20">20.</date>, <date when-iso="1877-05-21"
 					>21.</date> und <date when-iso="1877-05-22">22. Mai 1877</date>.</head>
-			<head rend="widespace"><rs type="event" ref="#koeln.1877.musikfest.2">Zweiter
+			<head rend="widespace"><rs ref="#koeln.1877.musikfest.2" type="event">Zweiter
 				Tag.</rs></head>
 			<p>Unsere Prophezeihung, daß das diesjährige Musikfest sich zu einem der glänzendsten
 				gestalten werde, hat sich vollständig erfüllt. Bereits zu der am Morgen des zweiten
@@ -78,16 +79,16 @@
 				sich daher heute nur darum handeln, die Wirkung zu constatiren, welche das Werk
 				unter persönlicher Leitung des Componisten und mit solch imposanten Mitteln
 				hervorbrachte.</p>
-			<p>Unsere Notenschrift ist so wenig im Stande, die innersten und letzten Gedanken des Componisten
-				auszudrücken, daß etwas von der Kunst der alten Zeichendeuter erforderlich ist, um
-				aus den ein-, zwei- und dreigeschwänzten schwarzen und weißen Dick- und Dünnköpfen
-				herauszulesen, was der Autor gewollt. Es gehört daher zu den interessantesten
-				musikalischen Vorkommnissen, einen Componisten, und dazu noch einen Autor von solch
-				glühendem Temperament, sein Werk selbst studiren und interpretiren zu hören und zu
-				sehen. Daher boten denn auch die Proben, in welchen der Maëstro das <title
-					ref="#verdi.requiem">Requiem</title> einstudirte, für den Fachmann und für
-				Jedermann außerordentlich viel Belehrendes. So vortrefflich das Werk einstudirt war,
-				so erhielt es doch unter den Händen <persName ref="#verdi.giuseppe"
+			<p>Unsere Notenschrift ist so wenig im Stande, die innersten und letzten Gedanken des
+				Componisten auszudrücken, daß etwas von der Kunst der alten Zeichendeuter
+				erforderlich ist, um aus den ein-, zwei- und dreigeschwänzten schwarzen und weißen
+				Dick- und Dünnköpfen herauszulesen, was der Autor gewollt. Es gehört daher zu den
+				interessantesten musikalischen Vorkommnissen, einen Componisten, und dazu noch einen
+				Autor von solch glühendem Temperament, sein Werk selbst studiren und interpretiren
+				zu hören und zu sehen. Daher boten denn auch die Proben, in welchen der Maëstro das
+					<title ref="#verdi.requiem">Requiem</title> einstudirte, für den Fachmann und
+				für Jedermann außerordentlich viel Belehrendes. So vortrefflich das Werk einstudirt
+				war, so erhielt es doch unter den Händen <persName ref="#verdi.giuseppe"
 					>Verdi’s</persName> allmälig erst die richtige Beleuchtung, erstand es in seiner
 				ganzen Ton- und Farbenpracht. Was wir bisher gehört, stand dazu etwa in demselben
 				Verhältnisse wie ein meisterhafter Kupferstich zu dem Gemälde selbst. Wir erinnern
@@ -95,13 +96,13 @@
 				ist. Alle Empfindungen des menschlichen Herzens finden daher in demselben ihren
 				prägnantesten Ausdruck. Und jedem Gefühle wußte der Meister die bestimmteste
 				Vortragsweise zu verleihen. Wie schön kam beispielsweise die kaum gehauchte Bitte:
-					„<title ref="#verdi.requiem.1" n="requiem-aeternam">Requiem aeternam dona
-					eis</title>!“, dann die Hoffnung athmenden Worte: „<title ref="#verdi.requiem.1"
-					n="et-lux">et lux perpetua luceat eis</title>“ zum Ausdruck. Wie gestaltete sich
-				dann das „<title ref="#verdi.requiem.1" n="kyrie-eleison">Kyrie eleison</title>“ in
-				seiner breiten Cantilene zu innigstem Flehen, welches stets dringender sich zu
-				seinem großartigen Ensemble aufbaut, um endlich mit dem: „<title
-					ref="#verdi.requiem.1" n="christe-eleison">Christe eleison</title>“ sanft zu
+					„<title n="requiem-aeternam" ref="#verdi.requiem.1">Requiem aeternam dona
+					eis</title>!“, dann die Hoffnung athmenden Worte: „<title n="et-lux"
+					ref="#verdi.requiem.1">et lux perpetua luceat eis</title>“ zum Ausdruck. Wie
+				gestaltete sich dann das „<title n="kyrie-eleison" ref="#verdi.requiem.1">Kyrie
+					eleison</title>“ in seiner breiten Cantilene zu innigstem Flehen, welches stets
+				dringender sich zu seinem großartigen Ensemble aufbaut, um endlich mit dem: „<title
+					n="christe-eleison" ref="#verdi.requiem.1">Christe eleison</title>“ sanft zu
 				verhallen. Da wir die Unmöglichkeit einsehen, die einzelnen Schönheiten aufzuzählen,
 				so wollen wir nur noch des donnerähnlichen „<title ref="#verdi.requiem.2.dies-irae"
 					>Dies irae</title>“ gedenken.</p>

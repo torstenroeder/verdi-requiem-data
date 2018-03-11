@@ -12,13 +12,11 @@
 				<bibl>
 					<orgName ref="#prager-abendblatt" role="publisher"/>
 					<placeName ref="#prag"/>
-					<date when-iso="1876-01-25" when-custom="tue"/>
-					<biblScope unit="issue">19-beilage</biblScope><biblScope unit="volume"
-						>?</biblScope><series>pab</series>
+					<date when-custom="tue" when-iso="1876-01-25"/>
+					<biblScope unit="issue">19-beilage</biblScope>
+					<biblScope unit="volume">?</biblScope>
+					<series>pab</series>
 					<biblScope unit="page">[2]</biblScope>
-					<link facs="pab_1876-01-25_2.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760125&amp;seite=2"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,10 +33,14 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="pab_1876-01-25_2.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=pab&amp;datum=18760125&amp;seite=2"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><hi rend="bold"><g type="ASTERISM" n="2042">⁂</g></hi>
-				<rs type="event" ref="#prag.1876.1"><hi rend="bold">Vom <placeName
+			<p><hi rend="bold"><g n="2042" type="ASTERISM">⁂</g></hi>
+				<rs ref="#prag.1876.1" type="event"><hi rend="bold">Vom <placeName
 							ref="#prag.staendetheater">deutschen Landestheater</placeName>.</hi>
 					<gap resp="tr"/>
 					<date when-iso="1876-01-26">Mittwoch</date> findet die Generalprobe und <date

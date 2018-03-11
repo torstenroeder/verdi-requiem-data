@@ -12,9 +12,10 @@
 				<bibl>
 					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
 					<placeName ref="#bruenn"/>
-					<date when-iso="1875-11-30" when-custom="tue"/>
-					<biblScope unit="issue">274</biblScope><biblScope unit="volume"
-						>25</biblScope><series>tms</series>
+					<date when-custom="tue" when-iso="1875-11-30"/>
+					<biblScope unit="issue">274</biblScope>
+					<biblScope unit="volume">25</biblScope>
+					<series>tms</series>
 					<biblScope unit="page">[3]</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -38,7 +39,7 @@
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>
 			<p>(<persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title>.) <rs type="event" ref="#bruenn.1876">Es
+				<title ref="#verdi.requiem">Requiem</title>.) <rs ref="#bruenn.1876" type="event">Es
 					ist zweifelhaft, ob <persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title> nicht doch anstatt im <placeName
 						ref="#bruenn.redouta-theater">Redoutensaale</placeName> im <placeName

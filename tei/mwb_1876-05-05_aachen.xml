@@ -1,16 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<teiHeader><fileDesc><titleStmt><title>MWbl, Leipzig, 5. Mai 1876 [1]</title></titleStmt><publicationStmt><p>http://verdi-requiem.de/text/mwb_1876-05-05_aachen.xml</p></publicationStmt><sourceDesc><bibl>
-				<orgName ref="#mwb" role="publisher"/>
-				<placeName ref="#leipzig"/>
-				<date when-iso="1876-05-05"/>
-				<biblScope unit="issue">19</biblScope><biblScope unit="volume">7</biblScope><series>mwb</series>
-				<biblScope unit="page">250</biblScope>
-				<link facs="mwb_1876-05-05_250.jpg" target="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760505&amp;seite=10"/>
-			</bibl></sourceDesc></fileDesc><profileDesc><creation><placeName ref="#aachen"/></creation><textClass><keywords><term type="textType">Nachmeldung</term><term type="corpusGroup">Aufführungsgeschichte</term></keywords></textClass></profileDesc><encodingDesc><p>see http://verdi-requiem.de for a detailed description</p></encodingDesc></teiHeader>
-	<text xml:lang="de"><body rend="antiqua">
-		<head rend="larger">Aufgeführte Novitäten.</head>
-		<p><gap resp="tr"/>
-			<rs type="event" ref="#aachen.1876.1"><persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>
-					(G.)</persName>, <title ref="#verdi.requiem">Requiem</title>. (<placeName ref="#aachen">Aachen</placeName>, 6. Abonn.-Conc.)</rs></p>
-	</body></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MWbl, Leipzig, 5. Mai 1876 [1]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mwb_1876-05-05_aachen.xml</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#mwb" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-05-05"/>
+					<biblScope unit="issue">19</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<series>mwb</series>
+					<biblScope unit="page">250</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#aachen"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-05-05_250.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760505&amp;seite=10"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<head rend="lineale bold">Aufgeführte Novitäten.</head>
+			<cb n="250b" type="skipped"/>
+			<p rend="hanging"><rs ref="#aachen.1876.1" type="event"><persName ref="#verdi.giuseppe"
+							><hi rend="widespace">Verdi</hi> (G.)</persName>, <title
+						ref="#verdi.requiem">Requiem</title>. (<placeName ref="#aachen"
+						>Aachen</placeName>, 6. Abonn.-Conc.)</rs></p>
+		</body>
+	</text>
 </TEI>

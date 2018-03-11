@@ -13,17 +13,11 @@
 				<bibl>
 					<orgName ref="#die-presse"/>
 					<placeName ref="#wien"/>
-					<date when-iso="1875-06-13" when-custom="sun"/>
-					<biblScope unit="issue">162</biblScope><biblScope unit="volume"
-						>28</biblScope><series>dp</series>
+					<date when-custom="sun" when-iso="1875-06-13"/>
+					<biblScope unit="issue">162</biblScope>
+					<biblScope unit="volume">28</biblScope>
+					<series>dp</series>
 					<biblScope unit="page">1–3</biblScope>
-					<link facs="dp_1875-06-13_1.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18750613&amp;seite=1"/>
-					<link facs="dp_1875-06-13_2.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18750613&amp;seite=2"/>
-					<link facs="dp_1875-06-13_3.jpg"
-						target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18750613&amp;seite=3"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -40,6 +34,17 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic n="dp_1875-06-13_1.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18750613&amp;seite=1"
+			xml:id="f1"/>
+		<graphic n="dp_1875-06-13_2.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18750613&amp;seite=2"
+			xml:id="f2"/>
+		<graphic n="dp_1875-06-13_3.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18750613&amp;seite=3"
+			xml:id="f3"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
@@ -47,7 +52,7 @@
 					ref="#verdi.giuseppe">Verdi</persName>.</head>
 			<p>Es gibt Kunstschöpfungen, welche beim ersten Eindrucke, den man von ihnen empfängt,
 				eine bewältigende Wirkung ausüben, welche man bei näherer Prägung der Einzelheiten
-				sich kaum zu erklären im Stande ist. <rs type="event" ref="#dresden.1876.2">Das
+				sich kaum zu erklären im Stande ist. <rs ref="#dresden.1876.2" type="event">Das
 					berühmte „<title ref="#verdi.requiem">Requiem</title>“ von <persName
 						ref="#verdi.giuseppe">Verdi</persName>, welches wir gestern Abends in der
 						<placeName ref="#wien.hof-operntheater">Oper</placeName> unter der
@@ -60,16 +65,16 @@
 				Hervorrufung wir in dieser Sphäre erwarten; der musikalische Effect als solcher mit
 				Einem Wort ist es nicht, der allein für den mächtig ergreifenden Charakter des
 				Tonwerkes den Ausschlag gibt. <persName ref="#reyer.ernest">Reyer</persName> hebt in
-				seinem trefflichen Aufsatz<note resp="tr" type="textLink">Vgl. <ref type="text"
-						target="jdd_1874-06-1_feuilleton.xml">Journal des Débats, 14. Juni
-						1874</ref>.</note> über dieses „<title ref="#verdi.requiem">Requiem</title>“
-				hervor, daß es weit mehr ein dramatisches als ein kirchliches Werk sei und darin
-				liegt in der That der Zauber desselben; er liegt in der markigen, den Sinnen sich
-				gewaltsam aufdringenden Plastik, mit welchem der große, in den Worten: Sein und
-				Nichtsein sich bergende Gegensatz in der Tonsprache hervortritt. Den öden Quinten,
-				in welchen gleich anfangs Tenore und Bässe das Wort: <title
-					ref="#verdi.requiem.1" n="requiem-aeternam">Requiem</title> ganz leise, aber hastig
-				ausstoßen, entsteigt eine Fülle üppiger musikalischer Bilder, in denen die
+				seinem trefflichen Aufsatz<note resp="tr" type="textLink">Vgl. <ref
+						target="jdd_1874-06-1_feuilleton.xml" type="text">Journal des Débats, 14.
+						Juni 1874</ref>.</note> über dieses „<title ref="#verdi.requiem"
+					>Requiem</title>“ hervor, daß es weit mehr ein dramatisches als ein kirchliches
+				Werk sei und darin liegt in der That der Zauber desselben; er liegt in der markigen,
+				den Sinnen sich gewaltsam aufdringenden Plastik, mit welchem der große, in den
+				Worten: Sein und Nichtsein sich bergende Gegensatz in der Tonsprache hervortritt.
+				Den öden Quinten, in welchen gleich anfangs Tenore und Bässe das Wort: <title
+					n="requiem-aeternam" ref="#verdi.requiem.1">Requiem</title> ganz leise, aber
+				hastig ausstoßen, entsteigt eine Fülle üppiger musikalischer Bilder, in denen die
 				verschiedenen Affecte bald im weltlichen, bald im geistlichen Gewande, nicht selten
 				im Theatercostume, durcheinander wogen und wühlen, und es sind nicht etwa uniforme,
 				transparente Bilder über sinnliche Beziehungen, wie sie die Todtenmesse im echten
@@ -92,37 +97,37 @@
 				zum Sterben hinlegend, in ihm sei die Stadt <placeName ref="#rom">Rom</placeName>
 				ins Kloster gegangen<note resp="tr" type="literatureLink">Vgl. <persName
 						ref="#gregorivius.ferdinand">Ferdinand Gregorovius</persName>, <ref
-						type="text"
 						target="https://archive.org/stream/bub_gb_CD6iCEcfMYYC#page/n29/mode/1up"
-						>Geschichte der Stadt Rom im Mittelalter, Bd. 2 (1859), S. 13</ref>.</note>;
-				eine ähnliche Empfindung, nur daß sie sich nicht auf ein Phänomen von so
-				welthistorischer Bedeutung stützt, beschlich uns beim Anblick der Bühne an dem Abend
-				der Aufführung. Die Sängerinnen sämmtlich in weißen Kleidern mit lang herabwallenden
-				schwarzen Schleiern, die Sänger und Orchester-Mitglieder in schwarzen Feierkleidern,
-				und im Vordergrunde der Mann mit dem schneidigen, charakteristischen
-				Gesichtsausdruck, dem grauen Bart und Haar, der Schöpfer der Tondichtung, in dessen
-				Namen sich der Fortschritt <placeName ref="#italien">Italiens</placeName>
-				personoficirt — das <title ref="#verdi.requiem">Requiem</title> ist gewidmet den
-				Manen des großen <persName ref="#manzoni.alessandro">Manzoni</persName>; aber wer
-				dachte hier im Theater des verewigten Dichters? Ließ es sich nicht unwillkürlich auf
-				die aus dem <hi rend="antiqua">bel canto</hi> entsprossene und in ihr aufgegangene
-				italienische Oper deuten, deren letzter berufener Vertreter <persName
-					ref="#verdi.giuseppe">Verdi</persName> ist, ja war es vielleicht nicht der <hi
-					rend="antiqua">bel canto</hi> selbst, den die Kirche, ihren eigensten Sohn,
-				unter den Trauerklängen der düsteren Psalmodie in inren Schoß zurücknahm? Diese
-				Symbolik liegt nicht so fern. Denn <persName ref="#verdi.giuseppe">Verdi</persName>
-				hat in die Traditionen der italienischen Oper mit seiner „<title ref="#verdi.aida"
-						>A<hi rend="antiqua">ï</hi>da</title>“ eine unausfüllbare Bresche
-				geschossen; sollte man nicht in einzelnen deutlichen Anklängen dieser Musik an die
-					„<title ref="#verdi.aida">Aïda</title>“ und nur an die „<title ref="#verdi.aida"
-					>Aïda</title>“ einen Fingerzeig wahrnehmen, daß er im <title
-					ref="#verdi.requiem">Requiem</title> die Exequien jenes Styls feiert, der mit
-				seinen schmeichlerischen Weisen sein Vaterland während des politischen Verfalls in
-				süßen Schlummer einlulte? Der mildstrahlende <hi rend="antiqua">Dur</hi>-Accord am
-					<title ref="#verdi.requiem.7">Schlusse des Requiems</title> flößt uns aber die
-				Hoffnung ein, der Meister werde es bei diesen Exequien nicht bewenden lassen,
-				sondern die Auferstehung der italienischen Oper in einem höheren Style durch eine
-				oder mehrere neue dramatische Schöpfungen vollends zur That machen.</p>
+						type="text">Geschichte der Stadt Rom im Mittelalter, Bd. 2 (1859), S.
+						13</ref>.</note>; eine ähnliche Empfindung, nur daß sie sich nicht auf ein
+				Phänomen von so welthistorischer Bedeutung stützt, beschlich uns beim Anblick der
+				Bühne an dem Abend der Aufführung. Die Sängerinnen sämmtlich in weißen Kleidern mit
+				lang herabwallenden schwarzen Schleiern, die Sänger und Orchester-Mitglieder in
+				schwarzen Feierkleidern, und im Vordergrunde der Mann mit dem schneidigen,
+				charakteristischen Gesichtsausdruck, dem grauen Bart und Haar, der Schöpfer der
+				Tondichtung, in dessen Namen sich der Fortschritt <placeName ref="#italien"
+					>Italiens</placeName> personoficirt — das <title ref="#verdi.requiem"
+					>Requiem</title> ist gewidmet den Manen des großen <persName
+					ref="#manzoni.alessandro">Manzoni</persName>; aber wer dachte hier im Theater
+				des verewigten Dichters? Ließ es sich nicht unwillkürlich auf die aus dem <hi
+					rend="antiqua">bel canto</hi> entsprossene und in ihr aufgegangene italienische
+				Oper deuten, deren letzter berufener Vertreter <persName ref="#verdi.giuseppe"
+					>Verdi</persName> ist, ja war es vielleicht nicht der <hi rend="antiqua">bel
+					canto</hi> selbst, den die Kirche, ihren eigensten Sohn, unter den Trauerklängen
+				der düsteren Psalmodie in inren Schoß zurücknahm? Diese Symbolik liegt nicht so
+				fern. Denn <persName ref="#verdi.giuseppe">Verdi</persName> hat in die Traditionen
+				der italienischen Oper mit seiner „<title ref="#verdi.aida">A<hi rend="antiqua"
+						>ï</hi>da</title>“ eine unausfüllbare Bresche geschossen; sollte man nicht
+				in einzelnen deutlichen Anklängen dieser Musik an die „<title ref="#verdi.aida"
+					>Aïda</title>“ und nur an die „<title ref="#verdi.aida">Aïda</title>“ einen
+				Fingerzeig wahrnehmen, daß er im <title ref="#verdi.requiem">Requiem</title> die
+				Exequien jenes Styls feiert, der mit seinen schmeichlerischen Weisen sein Vaterland
+				während des politischen Verfalls in süßen Schlummer einlulte? Der mildstrahlende <hi
+					rend="antiqua">Dur</hi>-Accord am <title ref="#verdi.requiem.7">Schlusse des
+					Requiems</title> flößt uns aber die Hoffnung ein, der Meister werde es bei
+				diesen Exequien nicht bewenden lassen, sondern die Auferstehung der italienischen
+				Oper in einem höheren Style durch eine oder mehrere neue dramatische Schöpfungen
+				vollends zur That machen.</p>
 			<p>Um nun den Werth und die Bedeutung dieser Composition gehörig zu würdigen, muß man,
 				wie schon <persName ref="#reyer.ernest">Reyer</persName> in dem gedachten Aufsatze
 				treffen bemerkt, sich auf den Standpunkt versetzen, auf welchen der Componist sich
@@ -155,22 +160,22 @@
 				bedingen und wirkt sich nie mit erheuchelten Schein-Effecten in die Brust. Er
 				gefällt sich wol mitunter in bizarren Absonderlichkeiten, denn als solche kann man
 				nur die barocken harten Quintenfolgen auf den Worten <hi rend="antiqua"><title
-						ref="#verdi.requiem.2.confutatis" n="oro-supplex">Oro supplex</title></hi> des
-					<hi rend="antiqua"><title ref="#verdi.requiem.2.confutatis"
+						n="oro-supplex" ref="#verdi.requiem.2.confutatis">Oro supplex</title></hi>
+				des <hi rend="antiqua"><title ref="#verdi.requiem.2.confutatis"
 					>Confutatis</title></hi> wie den jähen, durch eine lange Pause nicht gemilderten
 				Uebergang von <hi rend="antiqua">C-dur</hi> in <hi rend="antiqua">G-moll</hi> bei
-				der Wiederaufnahme des <hi rend="antiqua"><title ref="#verdi.requiem.7" n="dies-irae"
-						>Dies irae</title></hi> in dem „<hi rend="antiqua"><title
-						ref="#verdi.requiem.7">Libera</title></hi>“ hinnehmen — aber er verwendet
-				sorgfältig den Klingklang opernhafter Gemeinplätze. Er versenkt sich nicht gerade
-				sehr in die Tiefe der Empfindung, aber geht auch nie zu sehr in die Breite; man kann
-				ihm vielleicht den Vorwurf machen, daß er sich häufig mehr als billig in malerischen
-				Effecten verliert, aber nie daß er auf das Niveau des Gewöhnlichen, geschweige unter
-				das Gewöhnliche <pb break="yes" n="2a" type="regular"/> herabsinkt. Man nehme dieses
-					<title ref="#verdi.requiem">Requiem</title> nur als das, was es sein will, als
-				ein großartig angelegtes und <hi rend="antiqua">al fresco</hi> ausgemaltes
-					Stimmungsbild<note resp="tr" type="commentary">Begriff aus der
-					Landschaftsmalerei.</note>, laß’ es als solches ohne orthodoxe
+				der Wiederaufnahme des <hi rend="antiqua"><title n="dies-irae"
+						ref="#verdi.requiem.7">Dies irae</title></hi> in dem „<hi rend="antiqua"
+						><title ref="#verdi.requiem.7">Libera</title></hi>“ hinnehmen — aber er
+				verwendet sorgfältig den Klingklang opernhafter Gemeinplätze. Er versenkt sich nicht
+				gerade sehr in die Tiefe der Empfindung, aber geht auch nie zu sehr in die Breite;
+				man kann ihm vielleicht den Vorwurf machen, daß er sich häufig mehr als billig in
+				malerischen Effecten verliert, aber nie daß er auf das Niveau des Gewöhnlichen,
+				geschweige unter das Gewöhnliche <pb break="yes" facs="#f2" n="2a" type="regular"/>
+				herabsinkt. Man nehme dieses <title ref="#verdi.requiem">Requiem</title> nur als
+				das, was es sein will, als ein großartig angelegtes und <hi rend="antiqua">al
+					fresco</hi> ausgemaltes Stimmungsbild<note resp="tr" type="commentary">Begriff
+					aus der Landschaftsmalerei.</note>, laß’ es als solches ohne orthodoxe
 				Voreingenommenheit auf die Phantasie wirken und man wird sich der Macht dieser Musik
 				nicht entziehen können. In einem Punkt aber hat uns <persName ref="#verdi.giuseppe"
 					>Verdi</persName> in diesem Werke ganz besonders überrascht; er entwickelt
@@ -193,31 +198,32 @@
 				Bässe, dann Soprane und Alte in Quinten und zuletzt die vier Stimmen im
 				vollständigen Accord die Worte: <hi rend="antiqua">requiem aeternam</hi> in kurzen
 				Worten intoniren. Die Moll-Tonart fließt dann bei der Stelle: <hi rend="antiqua"
-						><title ref="#verdi.requiem.1" n="et-lux">Et lux aeterna</title></hi> in lichte
-					<hi rend="antiqua">A-dur</hi> über, worauf die Worte: „<hi rend="antiqua"><title
-						ref="#verdi.requiem.1" n="te-decet-hymnus">te decet hymnus</title></hi>“ in <hi
-					rend="antiqua">F-Dur</hi> ertönen. Dieser ganze Satz entfaltet eine kirchliche
-				Färbung, die indeß bei dem <title ref="#verdi.requiem.1" n="kyrie">Kyrie</title> in
-				einen weltlichen Ton überspielt, aber in einem würdigen, gemessenen Charakter
-				gehalten ist. In dem „<hi rend="antiqua"><title ref="#verdi.requiem.2.dies-irae"
-						>Dies irae</title></hi>“ da erwacht der Dramatiker. Da werden uns die
-				Schrecken der Hölle in fast gewaltsamer Weise vor das Auge geführt. Da ertönt Heulen
-				und Wehklagen der Verdammten unter den wuchtigen Accordschlägen des Orchesters in
-				den niedersteigenden chromatischen Gängen der Stimmen, und in den züngelnden
-				Geigenfiguren flackern die Flammen des Fegefeuers hell empor. Nun, wo man die <hi
-					rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>,
-				d. h. den dröhnenden Ton der Weltposaune erwartet, da <cb break="yes" n="2b"
-					type="regular"/> erschallen Trompeten-Fanfaren von allen Seiten und Richtungen
-				her, als ob sich sämmtliche himmlische Heerschaaren aufgemacht hätten, die
-					Reveille<note resp="tr" type="glossaryLink">Frz. Weckruf beim Militär.</note> zu
-				blasen. Dieser Effect ist übrigens nicht neu, man findet ihn schon in dem <title
+						><title n="et-lux" ref="#verdi.requiem.1">Et lux aeterna</title></hi> in
+				lichte <hi rend="antiqua">A-dur</hi> über, worauf die Worte: „<hi rend="antiqua"
+						><title n="te-decet-hymnus" ref="#verdi.requiem.1">te decet
+					hymnus</title></hi>“ in <hi rend="antiqua">F-Dur</hi> ertönen. Dieser ganze Satz
+				entfaltet eine kirchliche Färbung, die indeß bei dem <title n="kyrie"
+					ref="#verdi.requiem.1">Kyrie</title> in einen weltlichen Ton überspielt, aber in
+				einem würdigen, gemessenen Charakter gehalten ist. In dem „<hi rend="antiqua"><title
+						ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi>“ da erwacht der
+				Dramatiker. Da werden uns die Schrecken der Hölle in fast gewaltsamer Weise vor das
+				Auge geführt. Da ertönt Heulen und Wehklagen der Verdammten unter den wuchtigen
+				Accordschlägen des Orchesters in den niedersteigenden chromatischen Gängen der
+				Stimmen, und in den züngelnden Geigenfiguren flackern die Flammen des Fegefeuers
+				hell empor. Nun, wo man die <hi rend="antiqua"><title
+						ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>, d. h. den
+				dröhnenden Ton der Weltposaune erwartet, da <cb break="yes" n="2b" type="regular"/>
+				erschallen Trompeten-Fanfaren von allen Seiten und Richtungen her, als ob sich
+				sämmtliche himmlische Heerschaaren aufgemacht hätten, die Reveille<note resp="tr"
+					type="glossaryLink">Frz. Weckruf beim Militär.</note> zu blasen. Dieser Effect
+				ist übrigens nicht neu, man findet ihn schon in dem <title
 					ref="#berlioz.grande-messe-des-morts">Requiem</title> von <persName
 					ref="#berlioz.hector">Berlioz</persName>, nur daß <persName
 					ref="#berlioz.hector">Berlioz</persName> die schwere Artillerie von vier
 				Blech-Orchestern ins Feuer führt, während sich <persName ref="#verdi.giuseppe"
 					>Verdi</persName> mit einigen Gruppen von Trompeten begnügt. Aber immerhin ist
 				die Wirkung auch hier eine solche, daß der Tod, den Worten des Textes „<hi
-					rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">mors
+					rend="antiqua"><title n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">mors
 						stupebit</title></hi>“ gemäß, stutzig werden kann. Die nun folgenden Stücke
 				des <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi> sind
 				ähnliche stimmungsvolle und mit packenden, wenn auch nicht eigentlich geistlichen
@@ -227,8 +233,8 @@
 				Componisten erinnert werden; <persName ref="#verdi.giuseppe">Verdi</persName> ist
 				hier einmal aus seinem neuen Text in den alten zurückgefallen. Auch die gedachten
 				Quinten zwischen der Baßstimme und Begleitung auf dem <hi rend="antiqua"><title
-						ref="#verdi.requiem.2.confutatis" n="oro-supplex">Oro supplex</title></hi> im
-					„<hi rend="antiqua"><title ref="#verdi.requiem.2.confutatis" n="oro-supplex"
+						n="oro-supplex" ref="#verdi.requiem.2.confutatis">Oro supplex</title></hi>
+				im „<hi rend="antiqua"><title n="oro-supplex" ref="#verdi.requiem.2.confutatis"
 						>Confutatis</title></hi>“ erwecken gerade keine geistliche Stimmung.
 					<persName ref="#mozart.wolfgang-amadeus">Mozart</persName> hatte auf diesen
 				Worten Harmonien erklingen lassen, sie vor ihm noch kein Ohr vernommen; und auch
@@ -239,7 +245,7 @@
 				Contrapunktes mögen sich übrigens beruhigen; diese Quinten sind dem Tondichter nicht
 				etwa durch die Hände geschlüpft, sondern intentionirt und mit Absicht gebracht, wie
 				es die Wiederholung der Stelle beweist. Entsetzen allerdings könnte sie packen, wenn
-				sie in dem <title ref="#verdi.requiem.4" key="bar:40">32. Tact</title><note
+				sie in dem <title key="bar:40" ref="#verdi.requiem.4">32. Tact</title><note
 					resp="tr" type="musicLink">Taktzählung ab Allegro (sonst Takt 40).</note> der
 				eben schon erwähnten Doppelfuge im „<hi rend="antiqua"><title ref="#verdi.requiem.4"
 						>Sanctus</title></hi>“ die starren Quinten zwischen dem ersten Sopran des
@@ -249,22 +255,22 @@
 					>Lapsus calami</hi><note resp="tr" type="glossaryLink">Lat. Ausdruck für einen
 					Schreibfehler.</note> die Fuge, wenn auch etwas kurzathmig und zu hastig im
 				Charakter gehalten, ein meisterlicher Satz; doch möchten wir der Schlußfuge im „<hi
-					rend="antiqua"><title ref="#verdi.requiem.7" n="libera-me.fuga">Libera</title></hi>“
-				schon wegen des ausgiebigeren Themas und der Energie des Ausdrucks den Vorzug geben.
-				Als die kostbarste Perle der Todtenmesse, ja überhaupt als eine kost<cb break="no"
-					n="2c" type="regular"/>bare musikalische Perle ist das <hi rend="antiqua"><title
-						ref="#verdi.requiem.5">Agnus Dei</title></hi> zu bezeichnen. In der
-				Gestaltung dieses Satzes spiegelt sich eine ganz eigenthümliche Auffassung der
-				Situation ab. Sopran und Mezzosopran intoniren ohne alle Begleitung eine elegische,
-				aber ungemein liebliche Weise in Octaven, die in der Folge vom Chor im Unisono
-				aufgenommen wird und nachher mit einer Verbrämung interessanter Begleitungsformen
-				wiederkehrt. Ja wunderbar namentlich ist die Wirkung dieser Melodie, wenn bei einer
-				Wiederholung derselben sich die weichen Figurationen der Hornbläser wie eine
-				schimmernde Aureole um die Phrase legen. An solchen und ähnlichen, die
-				Stimmungsmomente poesievoll und charakterischtisch ausmalenden Orchester-Effecten
-				ist diese Partitur reich, ja reicher als die Partitur der <title ref="#verdi.aida"
-					>Aïda</title>; sie bietet überhaupt des Interessanten jeglicher Art in Hülle und
-				Fülle. Aber auch hier auf diesem Gebiete bewährt sich <persName
+					rend="antiqua"><title n="libera-me.fuga" ref="#verdi.requiem.7"
+					>Libera</title></hi>“ schon wegen des ausgiebigeren Themas und der Energie des
+				Ausdrucks den Vorzug geben. Als die kostbarste Perle der Todtenmesse, ja überhaupt
+				als eine kost<cb break="no" n="2c" type="regular"/>bare musikalische Perle ist das
+					<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> zu
+				bezeichnen. In der Gestaltung dieses Satzes spiegelt sich eine ganz eigenthümliche
+				Auffassung der Situation ab. Sopran und Mezzosopran intoniren ohne alle Begleitung
+				eine elegische, aber ungemein liebliche Weise in Octaven, die in der Folge vom Chor
+				im Unisono aufgenommen wird und nachher mit einer Verbrämung interessanter
+				Begleitungsformen wiederkehrt. Ja wunderbar namentlich ist die Wirkung dieser
+				Melodie, wenn bei einer Wiederholung derselben sich die weichen Figurationen der
+				Hornbläser wie eine schimmernde Aureole um die Phrase legen. An solchen und
+				ähnlichen, die Stimmungsmomente poesievoll und charakterischtisch ausmalenden
+				Orchester-Effecten ist diese Partitur reich, ja reicher als die Partitur der <title
+					ref="#verdi.aida">Aïda</title>; sie bietet überhaupt des Interessanten jeglicher
+				Art in Hülle und Fülle. Aber auch hier auf diesem Gebiete bewährt sich <persName
 					ref="#verdi.giuseppe">Verdi</persName> als der echte Dramatiker, indem er im
 				Zuschnitte der Sätze wie in der Verwendung der Effecte das richtige Maß einhält und
 				zugleich das Interesse vom Anfang bis zum Ende stets zu spannen weiß; mit Einem
@@ -288,11 +294,11 @@
 					>Masini</persName> und <persName ref="#medini.paolo">Medini</persName> bei uns
 				eingeführt? Die genannten Künstler und Künstlerinnen sind in der That wahre und
 				seltene Repräsentanten der echten italienischen Gesangskunst. Sie haben uns in jene
-					<pb break="yes" n="3a" type="regular"/> goldenen Zeiten versetzt, wo man noch
-				nicht den Gesang nach der Kraft der Lunge bemaß; wir haben nun wieder einmal nicht
-				nur schöne Stimmen — denn an solchen fehlt es ja nicht — sondern auch gut und fein
-				geschulte Stimmen gehört, und es freut uns, unter diesen Repräsentanten der guten
-				echten Schule zwei Oesterreicherinnen anzutreffen, denn Fräulein <persName
+					<pb break="yes" facs="#f3" n="3a" type="regular"/> goldenen Zeiten versetzt, wo
+				man noch nicht den Gesang nach der Kraft der Lunge bemaß; wir haben nun wieder
+				einmal nicht nur schöne Stimmen — denn an solchen fehlt es ja nicht — sondern auch
+				gut und fein geschulte Stimmen gehört, und es freut uns, unter diesen Repräsentanten
+				der guten echten Schule zwei Oesterreicherinnen anzutreffen, denn Fräulein <persName
 					ref="#stolz.teresa">Therese Stolz</persName> (Sopran) ist aus <placeName
 					ref="#prag">Prag</placeName> und Fräulein <persName ref="#waldmann.maria">Marie
 					Waldmann</persName> (Alt) ist eine geborne Wienerin, die hier bei Frau <persName

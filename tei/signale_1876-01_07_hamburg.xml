@@ -12,18 +12,14 @@
 				<bibl>
 					<orgName ref="#signale" role="publisher"/>
 					<placeName ref="#leipzig"/>
-					<date cert="low" when-iso="1876-01-31" notAfter-iso="1876-01-31"
-						notBefore-iso="1876-01-12"/>
+					<date cert="low" notAfter-iso="1876-01-31" notBefore-iso="1876-01-12"
+						when-iso="1876-01-31"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach der Aufführung-->
 					<!--BIBLIO Datierung: frühestens ein Tag nach dem Erscheinen im Berliner Tageblatt-->
 					<!--BIBLIO Datierung: spätestens Ende des Monats-->
-					<biblScope unit="issue">7</biblScope><biblScope unit="volume">34</biblScope>
+					<biblScope unit="issue">7</biblScope>
+					<biblScope unit="volume">34</biblScope>
 					<biblScope unit="page">104</biblScope>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=109"/>
-					<link
-						target="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=112"
-					/>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -40,13 +36,19 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=109"/>
+		<graphic
+			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=112"/>
+	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="101" type="initial"/>
-			<head rend="antiqua widespace larger">Dur und Moll.</head>
+			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
 			<pb break="null" n="104" type="skipped"/>
-			<p><g type="TEARDROP-SPOKED_ASTERISK" n="273B">✻</g>
-				<rs type="event" ref="#hamburg.1876.1"><hi rend="widespace">Am <placeName
+			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
+				<rs ref="#hamburg.1876.1" type="event"><hi rend="widespace">Am <placeName
 							ref="#hamburg.stadt-theater">Hamburger Stadttheater</placeName></hi> ist
 						<persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title> mit großer Begeisterung aufgenommen
