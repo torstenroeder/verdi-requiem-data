@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 24. Juni 1875 [2]</title>
 				<author><persName ref="#hanslick.eduard"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nfp_1875-06-24_verdi-in-wien.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -113,10 +115,10 @@
 					>Jomelli</persName>, <persName ref="#salieri.antonio">Salieri</persName> und so
 				viele andere Celebritäten <placeName ref="#italien">Italiens</placeName>, deren
 				großes Talent und deren Kunstfertigkeit wir hochschätzen — was für zopfigen Zierrath
-				und weichliche Opernmelodien haben sie nicht <hi rend="antiqua">bona fide</hi><note
-					resp="tr" type="quoteLink">Lat. »in gutem Glauben«, »gutgläubig«.</note> in ihre
-				Kirchen-Compositionen aufgenommen! Wir müßten, um auf die ungetrübte,
-				unverweltlichte Reinheit katholischer Kirchenmusik zu gelangen, bis auf <persName
+				und weichliche Opernmelodien haben sie nicht <hi rend="antiqua"><term
+						ref="#bona-fide">bona fide</term></hi> in ihre Kirchen-Compositionen
+				aufgenommen! Wir müßten, um auf die ungetrübte, unverweltlichte Reinheit
+				katholischer Kirchenmusik zu gelangen, bis auf <persName
 					ref="#palestrina.giovanni-pierluigi">Palestrina</persName> zurückgehen oder
 				vielmehr — da ja auch <persName ref="#palestrina.giovanni-pierluigi"
 					>Palestrina</persName> vom streng kirchlichen Standpunkt manchen Vorwurf

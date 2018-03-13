@@ -1,55 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Le Monde Illustré, Paris, 13. Juni 1874</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>http://verdi-requiem.de/text/mi_1874-06-13.xml</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <orgName ref="#le-monde-illustre" role="publisher"/>
-                    <placeName ref="#paris"/>
-                    <date when-iso="1874-06-13"/>
-                    <biblScope unit="issue">896</biblScope>
-                    <biblScope unit="volume">18</biblScope>
-                    <series>mi</series>
-                    <biblScope unit="page">365</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation><placeName ref="#mailand"/></creation>
-            <textClass>
-                <keywords>
-                    <term type="textType">Illustration</term>
-                    <term type="corpusGroup">Aufführungsgeschichte</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <encodingDesc>
-            <p>see http://verdi-requiem.de for a detailed description</p>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k63794624/f5.item" xml:id="f1"/>
-    </facsimile>
-    <text xml:lang="de">
-        <body rend="fraktur">
-            <figure>
-                <graphic url="mi_1874-06-13_7b.png"/>
-                <desc>Ecécution de la messe du Requiem de Verdi</desc>
-            </figure>
-            <p><rs ref="#mailand.1874.1" type="event"><placeName ref="#mailand">MILAN</placeName>.
-                    Ecécution de la <title ref="#verdi.requiem">messe du <hi rend="italic"
-                            >Requiem</hi></title> de <persName ref="#verdi.giuseppe"
-                        >Verdi</persName> dans <placeName ref="#mailand.san-marco">l’église San
-                        Marco</placeName> à l’occasion de l’anniversaire de la mort de <persName
-                        ref="#manzoni.alessandro">Manzoni</persName>.</rs> — D’apres le croquis de
-                M. <persName ref="#snevel.oswald">Snevel</persName>. (Voir la Chronique musicale,
-                page 371.)</p>
-        </body>
-    </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Le Monde Illustré, Paris, 13. Juni 1874</title>
+				<principal>Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mi_1874-06-13.xml</p>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#le-monde-illustre" role="publisher"/>
+					<placeName ref="#paris"/>
+					<date when-iso="1874-06-13"/>
+					<biblScope unit="issue">896</biblScope>
+					<biblScope unit="volume">18</biblScope>
+					<series>mi</series>
+					<biblScope unit="page">365</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#mailand"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Illustration</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k63794624/f5.item" xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<figure>
+				<graphic url="mi_1874-06-13_7b.png"/>
+				<desc>Ecécution de la messe du Requiem de Verdi</desc>
+			</figure>
+			<p><rs ref="#mailand.1874.1" type="event"><placeName ref="#mailand">MILAN</placeName>.
+					Ecécution de la <title ref="#verdi.requiem">messe du <hi rend="italic"
+							>Requiem</hi></title> de <persName ref="#verdi.giuseppe"
+						>Verdi</persName> dans <placeName ref="#mailand.san-marco">l’église San
+						Marco</placeName> à l’occasion de l’anniversaire de la mort de <persName
+						ref="#manzoni.alessandro">Manzoni</persName>.</rs> — D’apres le croquis de
+				M. <persName ref="#snevel.oswald">Snevel</persName>. (Voir la Chronique musicale,
+				page 371.)</p>
+		</body>
+	</text>
 </TEI>

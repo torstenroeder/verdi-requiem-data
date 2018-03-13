@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 7. April 1876</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1876-04-07_elberfeld.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -43,8 +45,8 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
 			<cb break="null" n="156b" type="skipped"/>
-			<p><rs ref="#elberfeld.1876.1" type="event"><hi rend="widespace"><placeName ref="#elberfeld"
-							>Elberfeld</placeName></hi>. <gap resp="tr"/> Am <date
+			<p><rs ref="#elberfeld.1876.1" type="event"><hi rend="widespace"><placeName
+							ref="#elberfeld">Elberfeld</placeName></hi>. <gap resp="tr"/> Am <date
 						when-iso="1876-04-05">5.</date> unter Leitung von <persName
 						ref="#schornstein.hermann" role="conductor">Schornstein</persName>
 					<persName ref="#verdi.giuseppe" role="composer">Verdi’s</persName>

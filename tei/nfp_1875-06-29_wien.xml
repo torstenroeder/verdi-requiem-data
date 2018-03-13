@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 29. Juni 1875</title>
 				<author><persName ref="#anonyma.eine-schauspielerin"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nfp_1875-06-29_ein-ausflug-ins-musikalische.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -18,8 +20,6 @@
 					<biblScope unit="subIssue">3894</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">5–6</biblScope>
-					<!--<graphic n="nfp_1875-06-29_5.jpg"/>-->
-					<!--<graphic n="nfp_1875-06-29_6.jpg"/>-->
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,6 +36,8 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--<graphic n="nfp_1875-06-29_5.jpg"/>-->
+	<!--<graphic n="nfp_1875-06-29_6.jpg"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="5c" type="initial"/>

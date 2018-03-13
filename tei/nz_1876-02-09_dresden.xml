@@ -5,20 +5,21 @@
 			<titleStmt>
 				<title>National-Zeitung, Berlin, 9. Februar 1876</title>
 				<author><persName ref="#naumann.emil"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nz_1876-02-09_dresden.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
 					<orgName ref="#national-zeitung" role="publisher"/>
 					<placeName ref="#berlin"/>
-					<date when-iso="1876-02-09" when-custom="wed"/>
+					<date when-custom="wed" when-iso="1876-02-09"/>
 					<biblScope unit="issue">65</biblScope>
-<biblScope unit="subIssue"
-						>65</biblScope>
-<biblScope unit="volume">29</biblScope>
-<series>nz</series>
+					<biblScope unit="subIssue">65</biblScope>
+					<biblScope unit="volume">29</biblScope>
+					<series>nz</series>
 					<biblScope unit="page">1–3</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -80,16 +81,12 @@
 				Landsleute, sind wir nur tolerant gegen die Fremden.</p>
 			<p><persName ref="#verdi.giuseppe">Verdi</persName> verpflanzt das Theater von der Scene
 				in die Kirche, es gelüstete ihn, die dramatischen Schauer seiner Opern auch einmal
-				an einem andern Stoffe zu versuchen und, an Stelle der Nemesis der Tragödie<note
-					resp="tr" type="glossaryLink">Nemesis: Bei den alten Griechen die vergöttlichte
-					Personifikation sittlichen Rechtsgefühls und gerechter Vergeltung; vgl. <ref
-						type="text"
-						target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11003684_01073.html"
-						>Meyer, Bd. 11 (1872), S. 1031</ref>.</note>, das Weltgericht des jüngsten
-				Tages zu seinem Vorwurf zu machen. Von diesem Standpunkte aus muß man das Talent
-					<persName ref="#verdi.giuseppe">Verdi’s</persName> rückhaltlos anerkennen. Sogar
-				ein Streben nach höheren Zielen, als er sie sich bisher gestellt hat, macht sich
-				dann in diesem geltend. Was ich zuvörderst am entschiedensten betonen muß, ist die
+				an einem andern Stoffe zu versuchen und, an Stelle der <term ref="#nemesis"
+					>Nemesis</term> der Tragödie, das Weltgericht des jüngsten Tages zu seinem
+				Vorwurf zu machen. Von diesem Standpunkte aus muß man das Talent <persName
+					ref="#verdi.giuseppe">Verdi’s</persName> rückhaltlos anerkennen. Sogar ein
+				Streben nach höheren Zielen, als er sie sich bisher gestellt hat, macht sich dann in
+				diesem geltend. Was ich zuvörderst am entschiedensten betonen muß, ist die
 				Thatsache, daß <persName ref="#verdi.giuseppe">Verdi</persName> das Publikum nicht
 				blos hat blenden wollen, sondern daß es ihm, soweit dies sein Standpunkt zuläßt,
 				ernst mit dem von ihm gewählten Stoffe und dessen Darstellung gewesen ist, daher
@@ -113,12 +110,12 @@
 					ref="#halevy.jacques">Halevy’s</persName> so geläufig geworden sind. Aber damit
 				nicht genug, begegnen wir auch den in höchster Lage vierfach getheilten <title
 					ref="#wagner.lohengrin">Lohengrin</title>-Geigen <persName ref="#wagner.richard"
-					>Wagner’s</persName><note resp="tr" type="musicLink">Vgl. <title
-						ref="#verdi.requiem.6" key="bar:1">Lux aeterna</title>, T. 1 ff. (WGV S.
-					191) u. <title ref="#wagner.lohengrin">Lohengrin</title>, 3. Akt, T. 1228 ff.
-					(RWSW S. 139).</note>, zu denen, um die Reminiscenz noch zu verstärken, ein
-				englisches Horn oder eine Klarinette den Baß bildet; wir begegnen nicht weniger,
-				besonders in den Solopiecen, Anklängen an die Sentimentalität eines <persName
+					>Wagner’s</persName><note resp="tr" type="musicLink">Vgl. <title key="bar:1"
+						ref="#verdi.requiem.6">Lux aeterna</title>, T. 1 ff. (WGV S. 191) u. <title
+						ref="#wagner.lohengrin">Lohengrin</title>, 3. Akt, T. 1228 ff. (RWSW S.
+					139).</note>, zu denen, um die Reminiscenz noch zu verstärken, ein englisches
+				Horn oder eine Klarinette den Baß bildet; wir begegnen nicht weniger, besonders in
+				den Solopiecen, Anklängen an die Sentimentalität eines <persName
 					ref="#kuecken.friedrich-wilhelm">Kücken</persName> und <persName
 					ref="#proch.heinrich">Proch</persName>, die dem beweglichen Italiener schon als
 				getragener Stil erscheint. Und selbst seine Studien klassischer Partituren des
@@ -282,8 +279,8 @@
 				und geheimnisvoll wirkenden Weise, mit einem von Sordinen im Streichorchester
 				begleiteten Chore. Nur mit der zerstückten Textesdeklamation dieses Chores können
 				wir uns nicht einverstanden erklären. Sehr fein ist der a Capella gesungene Chor:
-					„<title ref="#verdi.requiem.1" n="te-decet-hymnus">Te decet hymnus</title>.“ Bei dem
-					„<title ref="#verdi.requiem.1" n="kyrie">Kyrie eleison, Christe eleison</title>“
+					„<title n="te-decet-hymnus" ref="#verdi.requiem.1">Te decet hymnus</title>.“ Bei
+				dem „<title n="kyrie" ref="#verdi.requiem.1">Kyrie eleison, Christe eleison</title>“
 				treten Solostimmen in auf einander folgenden Einsätzen schön und wirkungsvoll ein;
 				mit dem Hinzutritt des Chores jedoch verwandelt sich der kirchliche Hymnus wieder in
 				ein wenn auch schönes und gediegenes Ensemble der großen Oper. Die wie eine
@@ -293,31 +290,31 @@
 					>Cherubini</persName> und <persName ref="#mozart.wolfgang-amadeus"
 					>Mozart</persName>, mahnen dem ungeachtet an ähnliche Effekte aus „<title
 					ref="#meyerbeer.robert-le-diable">Robert dem Teufel</title>“. Schön dagegen ist
-				das Herabsinken dieser tönenden Masse zum Pianissimo des „<title
-					ref="#verdi.requiem.2.recordare" n="juste-judex">Quando judex</title>“ und bringen
-				hier auch tiefliegende Triller der Holzbläser, namentlich in der bleichen Farbe des
-				unteren Flötenregisters, ergreifende koloristische Effekte hervor. Entschieden aber
-				müssen wir uns gegen so realistische Effekte, wie die des „<title
-					ref="#verdi.requiem.2.tuba-mirum" n="mors-stupebit">Mors stupebit</title>“
-				verwahren. Man stelle sich vor, daß der Solo-Baßsänger das eine Wort Mors in der
-				tiefe erschallen läßt, worauf ihm die große Trommel mit einem ihrer dumpfen tonlosen
-				Schläge ebenfalls Solo antwortet, und daß sich dieser Wechsel ein paar Mal
-				wiederholt, ehe jenem isolirten Worte Mors der damit verbundene übrige Text folgt.
-				Bei uns im Norden wird man bei diesem drastischen Realismus sicherlich keinen eine
-				Gänsehaut hervorrufenden kalten Schauer empfinden, sondern vielmehr ausrufen: „Bange
-				machen gilt nicht!“ Ich kann mir aber sehr wohl denken, daß dieser stark
-				aufgetragene Effekt auf die leicht erregbar entzündliche Phantasie des Südländers
-				ungefähr die Wirkung hervorbringe, als wenn sich das offene Grab aufthue und die
-				Erdschollen, welche die Hinterbliebenen dem Gestorbenen als letzte ihm zu erweisende
-				Ehre nachsenden, dumpf auf den Sarg aufschlügen. Wahrhaft schön und innerlich
-				ergriffen dagegen ist das Terzett: „<title ref="#verdi.requiem.2.quid-sum-miser"
-					>Quid sum miser tunc dicturus</title>,“ das von dem wirklichen Bewußtsein des
-				„Miser sum,“ das den Menschen zu überkommen vermag, tief erfüllt ist und uns auch
-				abgerundet in der Form entgegentrat. Die mit Posaunen begleitete Chordeklamation des
-					„<title ref="#verdi.requiem.2.rex-tremendae">Rex tremendae majestatis</title>“
-				ist im katholischen Sinne groß gedacht, obwohl es hier nicht an gewissen <persName
+				das Herabsinken dieser tönenden Masse zum Pianissimo des „<title n="juste-judex"
+					ref="#verdi.requiem.2.recordare">Quando judex</title>“ und bringen hier auch
+				tiefliegende Triller der Holzbläser, namentlich in der bleichen Farbe des unteren
+				Flötenregisters, ergreifende koloristische Effekte hervor. Entschieden aber müssen
+				wir uns gegen so realistische Effekte, wie die des „<title n="mors-stupebit"
+					ref="#verdi.requiem.2.tuba-mirum">Mors stupebit</title>“ verwahren. Man stelle
+				sich vor, daß der Solo-Baßsänger das eine Wort Mors in der tiefe erschallen läßt,
+				worauf ihm die große Trommel mit einem ihrer dumpfen tonlosen Schläge ebenfalls Solo
+				antwortet, und daß sich dieser Wechsel ein paar Mal wiederholt, ehe jenem isolirten
+				Worte Mors der damit verbundene übrige Text folgt. Bei uns im Norden wird man bei
+				diesem drastischen Realismus sicherlich keinen eine Gänsehaut hervorrufenden kalten
+				Schauer empfinden, sondern vielmehr ausrufen: „Bange machen gilt nicht!“ Ich kann
+				mir aber sehr wohl denken, daß dieser stark aufgetragene Effekt auf die leicht
+				erregbar entzündliche Phantasie des Südländers ungefähr die Wirkung hervorbringe,
+				als wenn sich das offene Grab aufthue und die Erdschollen, welche die
+				Hinterbliebenen dem Gestorbenen als letzte ihm zu erweisende Ehre nachsenden, dumpf
+				auf den Sarg aufschlügen. Wahrhaft schön und innerlich ergriffen dagegen ist das
+				Terzett: „<title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser tunc
+					dicturus</title>,“ das von dem wirklichen Bewußtsein des „Miser sum,“ das den
+				Menschen zu überkommen vermag, tief erfüllt ist und uns auch abgerundet in der Form
+				entgegentrat. Die mit Posaunen begleitete Chordeklamation des „<title
+					ref="#verdi.requiem.2.rex-tremendae">Rex tremendae majestatis</title>“ ist im
+				katholischen Sinne groß gedacht, obwohl es hier nicht an gewissen <persName
 					ref="#meyerbeer.giacomo">Meyerbeer’schen</persName> Modulationen fehlt; das sich
-				daran schließende „<title ref="#verdi.requiem.2.rex-tremendae" n="salva-me">Salva
+				daran schließende „<title n="salva-me" ref="#verdi.requiem.2.rex-tremendae">Salva
 					me</title>“ ist neu durch seine von <persName ref="#mozart.wolfgang-amadeus"
 					>Mozart</persName> und andern Meistern abweichende Behandlung; es gestaltet sich
 				nämlich nicht als sanfte Bitte, sondern zu einem aus Todesnoth erschallenden
@@ -331,24 +328,24 @@
 					„<title ref="#verdi.requiem.2.lacrymosa">Lacrimosa</title>“ erscheint das erste
 				Mal als ein von Posaunen, Pauken, großen Trommeln, Becken und dem übrigen Orchester
 				begleitetes Presto, das zweite Mal als ein melodisches Soloquartett. In dem „<title
-					ref="#verdi.requiem.3" n="domine-jesu">Domine Jesu Christe</title>,“ welches den
+					n="domine-jesu" ref="#verdi.requiem.3">Domine Jesu Christe</title>,“ welches den
 				zweiten Theil des ganzen Werkes eröffnet, zeigen die 4 Solostimmen eine gediegene
 				polyphone Führung und würdige Haltung; noch hoch darüber erhebt sich das „<title
-					ref="#verdi.requiem.3" n="hostias">Hostias et preces tibi</title>,“ der nach meiner
-				Meinung genialste Satz des ganzen Requiem. Hier endlich gelingt es dem Meister, uns
-				zu beweisen, daß er auch ohne Aufwand großer und komplizirter Mittel uns auf das
-				Tiefste zu ergreifen vermag. Der Tenor beginnt mit dem einfachen, wundervollen
-				Thema, welchem sich die andern 3 Solostimmen nach und nach in einem rührenden Dolce
-				anschmiegen, während das in würdevoller Weise begleitende Orchester die Wirkung
-				einer mit sanften Registern spielenden Orgel erzeugt. Die darauf folgende Fuge a due
-				Cori zum <title ref="#verdi.requiem.4">Sanctus</title> ist dagegen ein vollständig
-				verfehltes Experiment und nichts weniger als ein fugirter Satz. Ganz abgesehen
-				davon, daß das Thema mit seinen sich auf- und abwiegenden Terzenintervallen dem
-				Charakter der Motive, die dieser Stil fordert, gradezu widerspricht, bringt es der
-				Komponist damit auch nicht über die vier ersten Wiederschläge, und mehr als kindlich
-				vollends ist, was er uns hier als Gegenthema bietet. Wollen und Können stehen an
-				dieser Stelle in einem unlösbaren Widerstreit. Auch das „<title
-					ref="#verdi.requiem.5">Agnus Dei</title>“ ist schwach und die nicht
+					n="hostias" ref="#verdi.requiem.3">Hostias et preces tibi</title>,“ der nach
+				meiner Meinung genialste Satz des ganzen Requiem. Hier endlich gelingt es dem
+				Meister, uns zu beweisen, daß er auch ohne Aufwand großer und komplizirter Mittel
+				uns auf das Tiefste zu ergreifen vermag. Der Tenor beginnt mit dem einfachen,
+				wundervollen Thema, welchem sich die andern 3 Solostimmen nach und nach in einem
+				rührenden Dolce anschmiegen, während das in würdevoller Weise begleitende Orchester
+				die Wirkung einer mit sanften Registern spielenden Orgel erzeugt. Die darauf
+				folgende Fuge a due Cori zum <title ref="#verdi.requiem.4">Sanctus</title> ist
+				dagegen ein vollständig verfehltes Experiment und nichts weniger als ein fugirter
+				Satz. Ganz abgesehen davon, daß das Thema mit seinen sich auf- und abwiegenden
+				Terzenintervallen dem Charakter der Motive, die dieser Stil fordert, gradezu
+				widerspricht, bringt es der Komponist damit auch nicht über die vier ersten
+				Wiederschläge, und mehr als kindlich vollends ist, was er uns hier als Gegenthema
+				bietet. Wollen und Können stehen an dieser Stelle in einem unlösbaren Widerstreit.
+				Auch das „<title ref="#verdi.requiem.5">Agnus Dei</title>“ ist schwach und die nicht
 				endenwollende Behandlung der Solistimmen in Oktavengängen hat etwas Dilettantisches,
 				ohne daß doch die beabsichtigte Wirkung, damit etwas Neues zu bieten, erreicht wird;
 				dazu werden wir hier noch auf das Lebhafteste an das Gebet aus der „<title
@@ -363,9 +360,9 @@
 					<title ref="#meyerbeer.le-prophete">Propheten</title>, namentlich nach den dort
 				vorkommenden akkordischen Deklamationen des betend niedergesunkenen Volkes.
 				Ergreifend und wahr dagegen ist das darauffolgende schöne Altsolo: „<title
-					ref="#verdi.requiem.7" n="tremens-factus">Tremens factus</title>“ und nicht weniger
-				das Sopransolo mit a Capella-Chor zu dem letzten Auftreten der Worte „<title
-					ref="#verdi.requiem.7" n="requiem-aeternam">Requiem aeternam</title>.“ Ueber die
+					n="tremens-factus" ref="#verdi.requiem.7">Tremens factus</title>“ und nicht
+				weniger das Sopransolo mit a Capella-Chor zu dem letzten Auftreten der Worte „<title
+					n="requiem-aeternam" ref="#verdi.requiem.7">Requiem aeternam</title>.“ Ueber die
 				hohe Bedeutung des Schlußchors habe <supplied resp="tr">ich</supplied> mich schon
 				vorhin geäußert.</p>
 			<p>Jedenfalls ist das geschilderte Werk, mit <persName ref="#rossini.gioachino"
@@ -390,7 +387,7 @@
 				darstellt, von welchen sich eine Wandlung seiner Richtung und eine neue Epoche jenes
 				Schaffens datiren.</p>
 
-			<p><rs type="event" ref="#dresden.1876">Die drei im Monat <date when-iso="1876-01"
+			<p><rs ref="#dresden.1876" type="event">Die drei im Monat <date when-iso="1876-01"
 						>Januar</date> bei überfülltem Hause in <placeName ref="#dresden"
 						>Dresden</placeName> stattgefundenen Aufführungen des Werkes unter Direktion
 					unseres jungen trefflichen Kapellmeisters <persName ref="#schuch.ernst"
@@ -401,7 +398,7 @@
 						>Köhler</persName>, Herrn <persName ref="#erl.anton" role="soloist.tenor"
 						>Erl</persName>, der königlichen Kapelle und des königlichen Theaterchors
 					genügten den strengsten Anforderungen.</rs> Möchte ihnen bald in <rs
-					type="event" ref="#berlin.1876"><placeName ref="#berlin">Berlin</placeName></rs>
+					ref="#berlin.1876" type="event"><placeName ref="#berlin">Berlin</placeName></rs>
 				eine ebenso würdige Darstellung dieser, eine gewisse kulturhistorische Bedeutung
 				behauptenden Arbeit folgen. Möchte vor allem meine herzliche und unbefangene
 				Anerkennung, die ich in so mancher Beziehung dem neuen Werke entgegenbringe, ebenso

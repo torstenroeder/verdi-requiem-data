@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>AdMz, Leipzig, 14./21. April 1876 (= National-Ztg., 9.2.)</title>
 				<author><persName ref="#naumann.emil"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/admz_1876-04-14_verdis-requiem.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -126,36 +128,31 @@
 					<p><persName ref="#verdi.giuseppe">Verdi</persName> verpflanzt das Theater von
 						der Scene in die Kirche, es gelüstete ihn, die dramatischen Schauer seiner
 						Opern auch einmal an einem andern Stoffe zu versuchen und, an Stelle der
-						Nemesis der Tragödie<note resp="tr" type="glossaryLink">Nemesis: Bei den
-							alten Griechen die vergöttlichte Personifikation sittlichen
-							Rechtsgefühls und gerechter Vergeltung; vgl. <ref
-								target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11003684_01073.html"
-								type="text">Meyer, Bd. 11 (1872), S. 1031</ref>.</note>, das
-						Weltgericht des jüngsten Tages zu seinem Vorwurf zu machen. Von diesem
-						Standpunkte aus muß man das Talent <persName ref="#verdi.giuseppe"
-							>Verdi’s</persName> rückhaltlos anerkennen. Sogar ein Streben nach
-						höheren Zielen, als er sie sich bisher gestellt hat, macht sich dann in
-						diesem geltend. Was ich zuvörderst am entschiedensten betonen muß, ist die
-						Thatsache, daß <persName ref="#verdi.giuseppe">Verdi</persName> das Publikum
-						nicht blos hat blenden wollen, sondern daß es ihm, soweit dies sein
-						Standpunkt zuläßt, ernst mit dem von ihm gewählten Stoffe und dessen
-						Darstellung gewesen ist, daher auch mit seinem Empfinden und Fühlen, ernst
-						mit seiner Trauer um <persName ref="#manzoni.alessandro">Alessandro
-							Manzoni</persName>, zu dessen Todestag das <title ref="#verdi.requiem"
-							>Requiem</title> komponirt ist, ernst endlich mit dem Versenken seiner
-						Gedanken in die Sphäre von Vergänglichkeit, Tod, Auferstehung und das große
-						Gottesurtheil, das aller Kreatur prophezeit worden. <persName
-							ref="#verdi.giuseppe">Verdi</persName> war wirklich ergriffen von der
-						Komposition seines Werkes und schuf also nicht, wie <persName
-							ref="#goethe.johann-wolfgang-von">Goethe</persName> einmal von
-						schlechten Dichtern sagt, ohne einen inneren Anlaß, sondern mit einem
-						solchen. Dennoch vermag der italienische Meister den Eklektiker, der ihm,
-						wie den meisten Tageskomponisten unserer Zeit, tief im Blut sitzt, nicht so
-						weit in sich selber zu überwinden, um nicht nach alles Effekten alter und
-						neuerer Zeit zu greifen, um die Bedeutung seiner Partitur zu erhöhen. So
-						werden wir häufig gerade in Momenten, da wir uns an ein schönes Motiv und an
-						die aus ihm hervorfließende Stimmung hingeben wollen, auf das Grausamste
-						oder Gewaltsamste durch eins jener vorausberechneten Effektmittel
+							<term ref="#nemesis">Nemesis</term> der Tragödie, das Weltgericht des
+						jüngsten Tages zu seinem Vorwurf zu machen. Von diesem Standpunkte aus muß
+						man das Talent <persName ref="#verdi.giuseppe">Verdi’s</persName>
+						rückhaltlos anerkennen. Sogar ein Streben nach höheren Zielen, als er sie
+						sich bisher gestellt hat, macht sich dann in diesem geltend. Was ich
+						zuvörderst am entschiedensten betonen muß, ist die Thatsache, daß <persName
+							ref="#verdi.giuseppe">Verdi</persName> das Publikum nicht blos hat
+						blenden wollen, sondern daß es ihm, soweit dies sein Standpunkt zuläßt,
+						ernst mit dem von ihm gewählten Stoffe und dessen Darstellung gewesen ist,
+						daher auch mit seinem Empfinden und Fühlen, ernst mit seiner Trauer um
+							<persName ref="#manzoni.alessandro">Alessandro Manzoni</persName>, zu
+						dessen Todestag das <title ref="#verdi.requiem">Requiem</title> komponirt
+						ist, ernst endlich mit dem Versenken seiner Gedanken in die Sphäre von
+						Vergänglichkeit, Tod, Auferstehung und das große Gottesurtheil, das aller
+						Kreatur prophezeit worden. <persName ref="#verdi.giuseppe">Verdi</persName>
+						war wirklich ergriffen von der Komposition seines Werkes und schuf also
+						nicht, wie <persName ref="#goethe.johann-wolfgang-von">Goethe</persName>
+						einmal von schlechten Dichtern sagt, ohne einen inneren Anlaß, sondern mit
+						einem solchen. Dennoch vermag der italienische Meister den Eklektiker, der
+						ihm, wie den meisten Tageskomponisten unserer Zeit, tief im Blut sitzt,
+						nicht so weit in sich selber zu überwinden, um nicht nach alles Effekten
+						alter und neuerer Zeit zu greifen, um die Bedeutung seiner Partitur zu
+						erhöhen. So werden wir häufig gerade in Momenten, da wir uns an ein schönes
+						Motiv und an die aus ihm hervorfließende Stimmung hingeben wollen, auf das
+						Grausamste oder Gewaltsamste durch eins jener vorausberechneten Effektmittel
 						aufgeschreckt, die dem Stile der französischen großen Oper seit dem
 						auftreten <persName ref="#meyerbeer.giacomo">Meyerbeer’s</persName> und
 							<persName ref="#halevy.jacques">Halevy’s</persName> so geläufig geworden

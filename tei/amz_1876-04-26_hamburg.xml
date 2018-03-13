@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>AmZ, Leipzig, 26. April 1876</title>
 				<author><persName ref="#krause.emil"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/amz_1876-04-26_hamburg.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -15,7 +17,7 @@
 					<placeName ref="#leipzig"/>
 					<date when-iso="1876-04-26"/>
 					<biblScope unit="issue">17</biblScope>
-<biblScope unit="volume">11</biblScope>
+					<biblScope unit="volume">11</biblScope>
 					<biblScope unit="column">269–270</biblScope>
 				</bibl>
 			</sourceDesc>

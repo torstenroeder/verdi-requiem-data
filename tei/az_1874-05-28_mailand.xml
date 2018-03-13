@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Allgemeine Zeitung, Augsburg, 28. Mai/1. Juni 1874</title>
 				<author><persName ref="#buelow.hans-von"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/az_1874-05-28_mailand.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -48,9 +50,10 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="1" type="initial"/>
-			<head rend="bold larger">Musikalisches aus <placeName ref="#italien">Italien</placeName>.</head>
+			<head rend="bold larger">Musikalisches aus <placeName ref="#italien"
+				>Italien</placeName>.</head>
 			<head>Von <hi rend="widespace"><persName ref="#buelow.hans-von">Hans v.
-				Bülow</persName></hi>.</head>
+					Bülow</persName></hi>.</head>
 			<head><hi rend="antiqua">I.</hi></head>
 			<p><hi rend="bold"><g n="002A" type="ASTERISK">*</g>
 					<placeName ref="#mailand">Mailand</placeName>,</hi>

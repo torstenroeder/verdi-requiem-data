@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Körperschaften</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/personen</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="de">
+		<body>
+			<list>
+				<head>Glossar</head>
+				<item xml:id="agiotage"><label>Agiotage</label>, Spekulationsgeschäft an der Börse,
+					auch bezogen auf Eintrittskarten, vgl. <ref
+						target="https://www.duden.de/node/687618/revisions/1077804/view" type="text"
+						>Duden online</ref>.</item>
+				<item xml:id="ambra"><label>Ambra</label>, eine Substanz aus dem Verdauungstrakt von
+					Pottwalen, die zur Parfümherstellung verwendet wurde; vgl. <ref
+						target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10401903_00639.html"
+						type="text">Meyer 1869, S. 605</ref>.</item>
+				<item xml:id="apercu"><label>Aperçu</label>, frz. für eine treffende Bemerkung oder
+					einen geistreichen Einfall.</item>
+				<item xml:id="bona-fide"><label>bona fide</label>, lat. »in gutem Glauben«,
+					»gutgläubig«.</item>
+				<item xml:id="capocchio"><label>Capocchio</label>, italienischer Häretiker, der als
+					Alchimist zum Tode verurteilt wurde und zudem in <persName
+						ref="#alighieri.dante">Dantes</persName> Divina Commedia genannt wurde; vgl.
+					Dante Alighieri, La Divina Commedia, Inferno XXIX.</item>
+				<item xml:id="castrum-doloris"><label>Castrum doloris</label>, lat. »Trauerlager«,
+					ein geschmücktes Gerüst oder Baldachin, welches in der Renaissance- und
+					Barockzeit anlässlich des Todes von hochgestellten Personen errichtet
+					wurde.</item>
+				<item xml:id="catafalk"><label>Catafalk</label> (auch: Katafalk), ein Gerüst zur
+					Aufbahrung eines Sarges.</item>
+				<item xml:id="chignon"><label>Chignon</label>, frz. Haarmode des 18. Jh., zuletzt in
+					den 1860ern aktuell.</item>
+				<item xml:id="clerisei"><label>Clerisei</label>, altertümliche Bezeichnung für
+					»Klerus«.</item>
+				<item xml:id="epitheton-ornans"><label>Epitheton ornans</label>, lat. »schmückendes
+					Beiwort«.</item>
+				<item xml:id="ex-officio"><label>ex officio</label>, lat. »von Amts wegen«.</item>
+				<item xml:id="ex-professo"><label>ex professo</label>, lat. »berufsmäßig«.</item>
+				<item xml:id="gascognade"><label>Gascognade</label>, frz. »Angeberei«</item>
+				<item xml:id="gulyas"><label>Gulyás</label>, eine ungarische Gulaschsuppe.</item>
+				<item xml:id="lamentationen"><label>Lamentationen</label>, Bezeichnung für die
+					Klagelieder Jeremias’ in der Vulgata.</item>
+				<item xml:id="lapsus-calami"><label>Lapsus calami</label>, lat. Ausdruck für einen
+					Schreibfehler.</item>
+				<item xml:id="nemesis"><label>Nemesis</label>, bei den alten Griechen die
+					vergöttlichte Personifikation sittlichen Rechtsgefühls und gerechter Vergeltung;
+					vgl. <ref
+						target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11003684_01073.html"
+						type="text">Meyer, Bd. 11 (1872), S. 1031</ref>.</item>
+				<item xml:id="normatag"><label>Normatag</label>, in Österreich-Ungarn ein großer
+					Festtag, an dem öffentliche Musik- und Theateraufführungen untersagt
+					waren.</item>
+				<item xml:id="paroxysmus"><label>Paroxysmus</label>, eine Folge von sich steigernden
+					Ausbrüchen; vgl. <ref
+						target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11003685_00668.html"
+						type="text">Meyer 1871, Bd. 12, S. 640</ref>.</item>
+				<item xml:id="patschouli"><label>Patschouli</label> (auch: Patchuli), tropische
+					Pflanzenart, die zur Parfümherstellung und als Heilkraut verwendet wurde; vgl.
+						<ref
+						target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11003685_00702.html"
+						type="text">Meyer 1871, S. 674</ref>.</item>
+				<item xml:id="pentimento"><label>Pentimento</label>, ital. »Reue« oder auch
+					»Meinungsänderung«.</item>
+				<item xml:id="regenschori"><label>Regenschori</label>, lat. »Chordirektor«.</item>
+				<item xml:id="relache"><label>Relâche</label>, frz. »Auszeit«.</item>
+				<item xml:id="reveille"><label>Reveille</label> (von frz. reveillez »Aufwachen«),
+					ein militärisches Hornsignal, welches als Weckruf gespielt wird. </item>
+				<item xml:id="rosalie"><label>Rosalie</label>, abwertender Begriff für eine
+					aufsteigende Sequenzierung eines Melodieabschnittes. Die Bezeichnung geht auf
+					das italienische Volkslied »Rosalia mia cara« zurück; vgl. <ref
+						target="https://de.wikipedia.org/wiki/Rosalie_(Musik)" type="text"
+						>Wikipedia: Rosalie (Musik)</ref>.</item>
+				<item xml:id="sbalordito"><label>sbalordito</label>, ital. »bestürzt«, auch:
+					»verblüfft«.</item>
+				<item xml:id="stentor"><label>Stentor</label> (griech. Στέντωρ), in der griechischen
+					Mythologie ein Kämpfer im Trojanischen Krieg, dessen Stimme so laut gewesen sein
+					soll wie die von fünfzig anderen Männern zusammen.</item>
+				<item xml:id="tonvolubilitaet"><label>Tonvolubilität</label>, Begriff aus der
+					Gesangsphysiologie; vgl. z.B. <ref
+						target="https://archive.org/stream/bub_gb_ykp5MS0uynEC#page/n196/mode/1up"
+						type="text">Homöopathische Vierteljahrschrift, Bd. 9, Leipzig 1858, S.
+						183</ref>.</item>
+				<item xml:id="tridentinum"><label>Tridentinum</label> (auch: Konzil von Trient), 19.
+					ökumenisches Konzil (1545–1563); Serie von gegenreformatorischen Sitzungen, die
+					u. a. eine Reform der Kirchenmusik nach dem Vorbild der »Missa Papae Marcelli«
+					von Palestrina zur Folge hatte.</item>
+				<item xml:id="vatikanum"><label>Vatikanum</label> (auch: Erstes Vatikanisches
+					Konzil), 20. ökumenisches Konzil (1869–1870); Sitzungsreihe, auf der u. a. das
+					Unfehlbarkeitsdogma verkündet wurde.</item>
+			</list>
+		</body>
+	</text>
+</TEI>

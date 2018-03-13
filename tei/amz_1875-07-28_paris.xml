@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>AmZ, Leipzig, 28. Juli/4. August 1875 (= Revue des deux mondes, 1.5.)</title>
 				<author><persName ref="#blaze.henri"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/amz_1875-07-28_paris.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl facs="#f11">
@@ -15,9 +17,8 @@
 					<placeName ref="#leipzig"/>
 					<date when-iso="1875-07-28"/>
 					<biblScope unit="issue">30</biblScope>
-<biblScope unit="volume"
-						>10</biblScope>
-<series>amz</series>
+					<biblScope unit="volume">10</biblScope>
+					<series>amz</series>
 					<biblScope unit="column">477–478</biblScope>
 				</bibl>
 				<bibl facs="#f21">
@@ -25,9 +26,8 @@
 					<placeName ref="#leipzig"/>
 					<date when-iso="1875-08-04"/>
 					<biblScope unit="issue">31</biblScope>
-<biblScope unit="volume"
-						>10</biblScope>
-<series>amz</series>
+					<biblScope unit="volume">10</biblScope>
+					<series>amz</series>
 					<biblScope unit="column">485–486</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -56,9 +56,9 @@
 			<text n="1">
 				<body rend="antiqua">
 					<cb break="null" facs="#f11" n="477" type="initial"/>
-					<head rend="larger bold egypt">Neuer Pariser Musikbericht.<note resp="tr" type="textLink">Vgl.
-								<ref target="rddm_1875-06-01.xml" type="text">Revue des deux mondes,
-								Paris, 1. Mai 1875</ref>.</note></head>
+					<head rend="larger bold egypt">Neuer Pariser Musikbericht.<note resp="tr"
+							type="textLink">Vgl. <ref target="rddm_1875-06-01.xml" type="text">Revue
+								des deux mondes, Paris, 1. Mai 1875</ref>.</note></head>
 					<head rend="smaller">(Nach <hi rend="widespace"><persName ref="#blaze.henri">de
 								Lagenevais</persName></hi>.)</head>
 					<head rend="italic"><persName ref="#verdi.giuseppe">Verdi’s</persName>
@@ -71,18 +71,10 @@
 							ref="#spontini.gaspare">Spontini</persName> verkündete einst der Welt
 						die Siege Frankreichs; was erzählen jetzt ganz Europa die Ritornelle, die
 						uns seit fünfzehn Jahren in den Ohren klirren? Was sollen alle die
-						Partituren, die, ein widerwärtiges Parfüm von Ambra<note resp="tr"
-							type="glossaryLink">Ambra: Eine Substanz aus dem Verdauungstrakt von
-							Pottwalen, die zur Parfümherstellung verwendet wurde; vgl. <ref
-								target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10401903_00639.html"
-								type="text">Meyer 1869, S. 605</ref>.</note> und Patschouli<note
-							resp="tr" type="glossaryLink">Patschouli, auch: Patchuli, eine tropische
-							Pflanzenart, die zur Parfümherstellung und als Heilkraut verwendet
-							wurde; vgl. <ref
-								target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11003685_00702.html"
-								type="text">Meyer 1871, S. 674</ref>.</note> ausströmen, das eine
-						Schmuggler-Gesellschaft an sich lockt, welche man mit so ordinärer Waare
-						abfindet? Europa amüsirt sich dabei, und das Vaterland eines <persName
+						Partituren, die, ein widerwärtiges Parfüm von <term ref="#ambra"
+							>Ambra</term> und <term ref="#patschouli">Patschouli</term> ausströmen,
+						das eine Schmuggler-Gesellschaft an sich lockt, welche man mit so ordinärer
+						Waare abfindet? Europa amüsirt sich dabei, und das Vaterland eines <persName
 							ref="#beethoven.ludwig-van">Beethoven</persName>, <persName
 							ref="#mendelssohn-bartholdy.felix">Mendelssohn</persName> und <persName
 							ref="#schumann.robert">Schumann</persName> wird nicht müde, zuzuhören
@@ -182,13 +174,16 @@
 								type="text">La Divina Commedia, Purgatorio XXIX, 8 (22)</ref>: »Ed
 							una melodia dolce correva / Per l’aer luminoso«; z. B. nach <ref
 								target="https://archive.org/stream/commedia00aliggoog#page/n428/mode/1up"
-								type="text">Tommaséo, Mailand 1869, S.
-							406</ref>.<!--ZITAT nicht gefunden (gesichtet: Bartsch, Eitner, Enk, Francke, Kannegießer, Streckfuss, Witte, Zoozmann)--></note>.
-						Wir haben hier nicht die Frage des Cultus und der Orthodoxie zu untersuchen;
-						allein wir behaupten, dass jene Angst- und Schreckenslaute, jene Klagen und
-						Bitten, jenes Schmachten des Gemüthes, das sich entschieden der Verzweiflung
-						wider setzt, aus dem tiefsten menschlichen Innern kommen, und dass deshalb
-						das Werk von Dauer sein wird.</p>
+								type="text">Tommaséo, Mailand 1869, S. 406</ref>. Unter
+							zeitgenössischen Übersetzungen des 19. Jh. konnte bislang keine
+							zugrundeliegende Übersetzung ausfindig gemacht werden (gesichtet:
+							Bartsch, Eitner, Enk, Francke, Kannegießer, Streckfuss, Witte,
+							Zoozmann).<!--ZITAT Übersetzungen verlinken--></note>. Wir haben hier
+						nicht die Frage des Cultus und der Orthodoxie zu untersuchen; allein wir
+						behaupten, dass jene Angst- und Schreckenslaute, jene Klagen und Bitten,
+						jenes Schmachten des Gemüthes, das sich entschieden der Verzweiflung wider
+						setzt, aus dem tiefsten menschlichen Innern kommen, und dass deshalb das
+						Werk von Dauer sein wird.</p>
 					<p rend="center smaller">(Schluss folgt.)</p>
 				</body>
 			</text>
@@ -268,7 +263,7 @@
 						von ehedem und die Mode im Stiche lassen werden.</p>
 					<cb break="null" n="489" type="skipped"/>
 					<p rend="right"><hi rend="italic"><persName ref="#unidentified">L. v.
-								St.</persName></hi><!--Übersetzer, evtl. Luise von Stetter?--></p>
+								St.</persName></hi><!--ÜbersetzerIn, evtl. Luise von Stetter?--></p>
 				</body>
 			</text>
 		</group>

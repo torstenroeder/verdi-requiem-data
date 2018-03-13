@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Gernsheims Musikführer, 1896</title>
 				<author><persName ref="#gernsheim.friedrich"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/gernsheim_1896_musikfuehrer.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -46,7 +48,7 @@
 				Gebiet betreten zu sehen, das nach der Meinung Vieler dem populären Opernkomponisten
 				mehr oder weniger ein fremdes sein musste, — ein Gebiet, für welches die Klänge, die
 				man bisher von ihm zu hören gewohnt war, wenig geeignet erscheinen wollten. Als aber
-				kurze Zeit nach den <rs type="event" ref="#paris.1874"><hi rend="widespace"
+				kurze Zeit nach den <rs ref="#paris.1874" type="event"><hi rend="widespace"
 							><placeName ref="#paris">Pariser</placeName></hi> Aufführungen</rs> das
 				Werk die Runde durch die Welt machte, brach sich sehr bald die Überzeugung Bahn,
 				dass man es nicht nur mit einer ernsten, sondern auch mit einer hochbedeutenden

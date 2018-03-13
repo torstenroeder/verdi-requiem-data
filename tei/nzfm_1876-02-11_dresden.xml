@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>NZfM, Leipzig, 11. Februar 1876</title>
 				<author><persName ref="#gleich.ferdinand"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1876-02-11_dresden.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -46,8 +48,9 @@
 			<head rend="larger">Correspondenzen</head>
 			<cb break="null" n="67b" type="skipped"/>
 			<p rend="bold right"><placeName ref="#dresden">Dresden</placeName>.</p>
-			<p><rs ref="#dresden.1876.1" type="event">Ein hochinteressantes Ereignis war die Aufführung von
-						<persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>’s</persName>
+			<p><rs ref="#dresden.1876.1" type="event">Ein hochinteressantes Ereignis war die
+					Aufführung von <persName ref="#verdi.giuseppe"><hi rend="widespace"
+						>Verdi</hi>’s</persName>
 					<title ref="#verdi.requiem"><hi rend="antiqua">Requiem</hi> für Manzoni</title>
 					im <placeName ref="#dresden.hoftheater">Hoftheater</placeName>.</rs> Mit
 					<persName ref="#verdi.giuseppe">Verdi</persName> ist es mir und wohl auch vielen
@@ -168,18 +171,18 @@
 				besonders genau angesehen hat, ohne jedoch directe Anleihen bei ihnen zu machen,
 				denn <persName ref="#verdi.giuseppe">Verdi</persName>, wie er leibt und lebt, tritt
 				uns in jedem Tacte entgegen, freilich weit geläuterter als in seinen Opern.</p>
-			<p>Die <placeName ref="#dresden">Dresdner</placeName> Ausführung des Werkes betreffend, so sei
-				zunächst der eigenthümlichen aber — wie es sich erwies — sehr zweckentsprechenden
-				Aufstellung der Mitwirkenden gedacht. Das Orchester nahm auf mäßig aufsteigendem
-				Podium die ganze linke Seite der Bühne ein. Rechts waren die Damen des Chors, hinter
-				ihnen auf ziemlich steilem Podium die männlichen Chorsänger und hinter ihnen wieder
-				in beträchtlicher Höhe die Schlaginstrumente und die Trompeten des <hi
-					rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi>. Die vier
-				Solisten hatten ihre Plätze ganz vorn in der Mitte, der Dirigent seitwärts rechts
-				unmittelbar vor dem weiblichen Chor. Wie ich hörte, ist diese Aufstellung bei der
-					<placeName ref="#wien">Wiener</placeName> Aufführung von <persName
-					ref="#verdi.giuseppe">Verdi</persName> selbst angewendet worden. Dem Auge
-				erscheint diese Ordnung sehr unsymmetrisch, aber da im Concert das Ohr dem Auge
+			<p>Die <placeName ref="#dresden">Dresdner</placeName> Ausführung des Werkes betreffend,
+				so sei zunächst der eigenthümlichen aber — wie es sich erwies — sehr
+				zweckentsprechenden Aufstellung der Mitwirkenden gedacht. Das Orchester nahm auf
+				mäßig aufsteigendem Podium die ganze linke Seite der Bühne ein. Rechts waren die
+				Damen des Chors, hinter ihnen auf ziemlich steilem Podium die männlichen Chorsänger
+				und hinter ihnen wieder in beträchtlicher Höhe die Schlaginstrumente und die
+				Trompeten des <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies
+					irae</title></hi>. Die vier Solisten hatten ihre Plätze ganz vorn in der Mitte,
+				der Dirigent seitwärts rechts unmittelbar vor dem weiblichen Chor. Wie ich hörte,
+				ist diese Aufstellung bei der <placeName ref="#wien">Wiener</placeName> Aufführung
+				von <persName ref="#verdi.giuseppe">Verdi</persName> selbst angewendet worden. Dem
+				Auge erscheint diese Ordnung sehr unsymmetrisch, aber da im Concert das Ohr dem Auge
 				voran steht (wenigstens voran stehen sollte), so ist diese Aufstellung der sonst
 				gebräuchlichen weit vorzuziehen, denn die Klangwirkung ist dadurch höchst wesentlich
 				gefördert. — Das Werk ist von Hrn. Capellm. <hi rend="widespace"><persName

@@ -1,58 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MWbl, Leipzig, 26. Mai 1876 [2]</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>http://verdi-requiem.de/text/mwb_1876-05-26_lemberg-schwerin.xml</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <orgName ref="#mwb" role="publisher"/>
-                    <placeName ref="#leipzig"/>
-                    <date when-iso="1876-05-26"/>
-                    <biblScope unit="issue">22</biblScope>
-                    <biblScope unit="volume">7</biblScope>
-                    <biblScope unit="page">288</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation><placeName ref="#lemberg"/><placeName ref="#schwerin"/></creation>
-            <textClass>
-                <keywords>
-                    <term type="textType">Nachmeldung</term>
-                    <term type="corpusGroup">Aufführungsgeschichte</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <encodingDesc>
-            <p>see http://verdi-requiem.de for a detailed description</p>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic n="mwb_1876-05-26_287.jpg"
-            url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=7"
-            xml:id="f0"/>
-        <graphic n="mwb_1876-05-26_288.jpg"
-            url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=8"
-            xml:id="f1"/>
-    </facsimile>
-    <text xml:lang="de">
-        <body rend="antiqua">
-            <head rend="lineale bold">Aufgeführte Novitäten.</head>
-            <pb break="null" facs="#f1" n="288" type="skipped"/>
-            <p rend="hanging"><persName ref="#verdi.giuseppe">Verdi (G.)</persName>, <title
-                    ref="#verdi.requiem">Requiem</title>. (<rs ref="#lemberg.1876" type="event"
-                        ><placeName ref="#lemberg">Lemberg</placeName>, Aufführungen am <date
-                        when-iso="1876-04-09">9.</date> u. <date when-iso="1876-04-10">10.
-                        April</date>.</rs>
-                <rs ref="#schwerin.1876" type="event"><placeName ref="#schwerin"
-                        >Schwerin</placeName>, Conc. im <placeName ref="#schwerin.hoftheater"
-                        >Hoftheater</placeName> am <date when-iso="1876-04-16">16.
-                    April</date>.</rs>)</p>
-        </body>
-    </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MWbl, Leipzig, 26. Mai 1876 [2]</title>
+				<principal>Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mwb_1876-05-26_lemberg-schwerin.xml</p>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#mwb" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-05-26"/>
+					<biblScope unit="issue">22</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<biblScope unit="page">288</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#lemberg"/><placeName ref="#schwerin"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-05-26_287.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=7"
+			xml:id="f0"/>
+		<graphic n="mwb_1876-05-26_288.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18760526&amp;seite=8"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<head rend="lineale bold">Aufgeführte Novitäten.</head>
+			<pb break="null" facs="#f1" n="288" type="skipped"/>
+			<p rend="hanging"><persName ref="#verdi.giuseppe">Verdi (G.)</persName>, <title
+					ref="#verdi.requiem">Requiem</title>. (<rs ref="#lemberg.1876" type="event"
+						><placeName ref="#lemberg">Lemberg</placeName>, Aufführungen am <date
+						when-iso="1876-04-09">9.</date> u. <date when-iso="1876-04-10">10.
+						April</date>.</rs>
+				<rs ref="#schwerin.1876" type="event"><placeName ref="#schwerin"
+						>Schwerin</placeName>, Conc. im <placeName ref="#schwerin.hoftheater"
+						>Hoftheater</placeName> am <date when-iso="1876-04-16">16.
+					April</date>.</rs>)</p>
+		</body>
+	</text>
 </TEI>

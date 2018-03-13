@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Die Presse, Wien, 13. Juni 1875</title>
 				<author><persName ref="#schelle.eduard"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/dp_1875-06-13_feuilleton.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -214,11 +216,10 @@
 						ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>, d. h. den
 				dröhnenden Ton der Weltposaune erwartet, da <cb break="yes" n="2b" type="regular"/>
 				erschallen Trompeten-Fanfaren von allen Seiten und Richtungen her, als ob sich
-				sämmtliche himmlische Heerschaaren aufgemacht hätten, die Reveille<note resp="tr"
-					type="glossaryLink">Frz. Weckruf beim Militär.</note> zu blasen. Dieser Effect
-				ist übrigens nicht neu, man findet ihn schon in dem <title
-					ref="#berlioz.grande-messe-des-morts">Requiem</title> von <persName
-					ref="#berlioz.hector">Berlioz</persName>, nur daß <persName
+				sämmtliche himmlische Heerschaaren aufgemacht hätten, die <term ref="#reveille"
+					>Reveille</term> zu blasen. Dieser Effect ist übrigens nicht neu, man findet ihn
+				schon in dem <title ref="#berlioz.grande-messe-des-morts">Requiem</title> von
+					<persName ref="#berlioz.hector">Berlioz</persName>, nur daß <persName
 					ref="#berlioz.hector">Berlioz</persName> die schwere Artillerie von vier
 				Blech-Orchestern ins Feuer führt, während sich <persName ref="#verdi.giuseppe"
 					>Verdi</persName> mit einigen Gruppen von Trompeten begnügt. Aber immerhin ist
@@ -239,9 +240,8 @@
 					<persName ref="#mozart.wolfgang-amadeus">Mozart</persName> hatte auf diesen
 				Worten Harmonien erklingen lassen, sie vor ihm noch kein Ohr vernommen; und auch
 					<persName ref="#verdi.giuseppe">Verdi</persName> hatte wol die Absicht, diese
-				Stelle durch ein unerwartetes Aper<hi rend="antiqua">ç</hi>u<note resp="tr"
-					type="glossaryLink">Frz. für eine treffende Bemerkung oder einen geistreichen
-					Einfall.</note> recht hervorzuheben. Die schulmeisterlichen Pedanten des
+				Stelle durch ein unerwartetes <term ref="#apercu">Aper<hi rend="antiqua"
+					>ç</hi>u</term> recht hervorzuheben. Die schulmeisterlichen Pedanten des
 				Contrapunktes mögen sich übrigens beruhigen; diese Quinten sind dem Tondichter nicht
 				etwa durch die Hände geschlüpft, sondern intentionirt und mit Absicht gebracht, wie
 				es die Wiederholung der Stelle beweist. Entsetzen allerdings könnte sie packen, wenn
@@ -252,30 +252,29 @@
 				ersten und dem zweiten Sopran des zweiten Chors entdecken. Aber auch diese Quinten
 				sind sehr harmloser Natur, nur Papier-Quinten; sie verschwinden bei dem Vortrage der
 				Fuge gänzlich in dem Harmonienstrome. Immerhin ist trotz dieses <hi rend="antiqua"
-					>Lapsus calami</hi><note resp="tr" type="glossaryLink">Lat. Ausdruck für einen
-					Schreibfehler.</note> die Fuge, wenn auch etwas kurzathmig und zu hastig im
-				Charakter gehalten, ein meisterlicher Satz; doch möchten wir der Schlußfuge im „<hi
-					rend="antiqua"><title n="libera-me.fuga" ref="#verdi.requiem.7"
-					>Libera</title></hi>“ schon wegen des ausgiebigeren Themas und der Energie des
-				Ausdrucks den Vorzug geben. Als die kostbarste Perle der Todtenmesse, ja überhaupt
-				als eine kost<cb break="no" n="2c" type="regular"/>bare musikalische Perle ist das
-					<hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> zu
-				bezeichnen. In der Gestaltung dieses Satzes spiegelt sich eine ganz eigenthümliche
-				Auffassung der Situation ab. Sopran und Mezzosopran intoniren ohne alle Begleitung
-				eine elegische, aber ungemein liebliche Weise in Octaven, die in der Folge vom Chor
-				im Unisono aufgenommen wird und nachher mit einer Verbrämung interessanter
-				Begleitungsformen wiederkehrt. Ja wunderbar namentlich ist die Wirkung dieser
-				Melodie, wenn bei einer Wiederholung derselben sich die weichen Figurationen der
-				Hornbläser wie eine schimmernde Aureole um die Phrase legen. An solchen und
-				ähnlichen, die Stimmungsmomente poesievoll und charakterischtisch ausmalenden
-				Orchester-Effecten ist diese Partitur reich, ja reicher als die Partitur der <title
-					ref="#verdi.aida">Aïda</title>; sie bietet überhaupt des Interessanten jeglicher
-				Art in Hülle und Fülle. Aber auch hier auf diesem Gebiete bewährt sich <persName
-					ref="#verdi.giuseppe">Verdi</persName> als der echte Dramatiker, indem er im
-				Zuschnitte der Sätze wie in der Verwendung der Effecte das richtige Maß einhält und
-				zugleich das Interesse vom Anfang bis zum Ende stets zu spannen weiß; mit Einem
-				Wort, ohne gegen viele in der Richtung begründete Mängel blind zu sein, kann man
-				nicht umhin, diese <title ref="#verdi.requiem">Todtenmesse</title>
+						><term ref="#lapsus-calami">Lapsus calami</term></hi> die Fuge, wenn auch
+				etwas kurzathmig und zu hastig im Charakter gehalten, ein meisterlicher Satz; doch
+				möchten wir der Schlußfuge im „<hi rend="antiqua"><title n="libera-me.fuga"
+						ref="#verdi.requiem.7">Libera</title></hi>“ schon wegen des ausgiebigeren
+				Themas und der Energie des Ausdrucks den Vorzug geben. Als die kostbarste Perle der
+				Todtenmesse, ja überhaupt als eine kost<cb break="no" n="2c" type="regular"/>bare
+				musikalische Perle ist das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus
+						Dei</title></hi> zu bezeichnen. In der Gestaltung dieses Satzes spiegelt
+				sich eine ganz eigenthümliche Auffassung der Situation ab. Sopran und Mezzosopran
+				intoniren ohne alle Begleitung eine elegische, aber ungemein liebliche Weise in
+				Octaven, die in der Folge vom Chor im Unisono aufgenommen wird und nachher mit einer
+				Verbrämung interessanter Begleitungsformen wiederkehrt. Ja wunderbar namentlich ist
+				die Wirkung dieser Melodie, wenn bei einer Wiederholung derselben sich die weichen
+				Figurationen der Hornbläser wie eine schimmernde Aureole um die Phrase legen. An
+				solchen und ähnlichen, die Stimmungsmomente poesievoll und charakterischtisch
+				ausmalenden Orchester-Effecten ist diese Partitur reich, ja reicher als die Partitur
+				der <title ref="#verdi.aida">Aïda</title>; sie bietet überhaupt des Interessanten
+				jeglicher Art in Hülle und Fülle. Aber auch hier auf diesem Gebiete bewährt sich
+					<persName ref="#verdi.giuseppe">Verdi</persName> als der echte Dramatiker, indem
+				er im Zuschnitte der Sätze wie in der Verwendung der Effecte das richtige Maß
+				einhält und zugleich das Interesse vom Anfang bis zum Ende stets zu spannen weiß;
+				mit Einem Wort, ohne gegen viele in der Richtung begründete Mängel blind zu sein,
+				kann man nicht umhin, diese <title ref="#verdi.requiem">Todtenmesse</title>
 				<persName ref="#verdi.giuseppe">Verdi’s</persName> als eine großartige Schöpfung
 				anzuerkennen.</p>
 			<p>Wenn wir vorhin diese <title ref="#verdi.requiem">Todtenmesse</title> auf den alten

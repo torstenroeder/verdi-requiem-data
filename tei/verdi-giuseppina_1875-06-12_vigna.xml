@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Giuseppina Verdi, Brief an Cesare Vigna, Wien, 12. Juni 1875</title>
 				<author><persName ref="#verdi.giuseppina"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/verdi-giuseppina_1875-06-12_brief-an-vigna.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -43,9 +45,9 @@
 						Requiem</title> ebbe <date when-iso="1875-06-11">jeri sera</date> la sua
 					prima esecuzione nel <placeName ref="#wien.hof-operntheater">Teatro
 						Imperiale</placeName> di <placeName ref="#wien">Vienna</placeName>.</rs> Il
-				successo è salito ad un grao<!--TEXT Schreibung?--> di zona torrida, ed è molto per
-				questa razza teutonica. <rs ref="#venedig.1875" type="event">Voi riavrete questa
-						<title ref="#verdi.requiem">Messa</title> a <placeName ref="#venedig"
+				successo è salito ad un grao<!--TEXT fehlendes Zeichen?--> di zona torrida, ed è
+				molto per questa razza teutonica. <rs ref="#venedig.1875" type="event">Voi riavrete
+					questa <title ref="#verdi.requiem">Messa</title> a <placeName ref="#venedig"
 						>Venezia</placeName> nel venturo mese</rs>, e colla stessa compagnia che
 				l'eseguisce in questo momento. Sarei desiderosissima che, con comodo, me ne
 				scriveste la vostra opinione.</p>

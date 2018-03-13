@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 21. April 1876</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1876-04-21_salzburg.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -43,8 +45,9 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
 			<pb break="null" n="175" type="skipped"/>
-			<p><rs ref="#salzburg.1876.1" type="event"><hi rend="widespace"><placeName ref="#salzburg"
-							>Salzburg</placeName></hi>. <date when-iso="1876-04-23">Am 23.</date>
+			<p><rs ref="#salzburg.1876.1" type="event"><hi rend="widespace"><placeName
+							ref="#salzburg">Salzburg</placeName></hi>. <date when-iso="1876-04-23"
+						>Am 23.</date>
 					<persName ref="#verdi.giuseppe">Verdi’s</persName>
 					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> mit der
 					Gräfin <persName ref="#gatterburg.hedwig">Gatterburg</persName>, Frl. <persName

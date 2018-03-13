@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Giuseppe Verdi, Brief an Giuseppe Piroli, Venedig, 27. Juni 1875</title>
 				<author><persName ref="#verdi.giuseppe"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/verdi_1875-06-27_brief-an-piroli.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>

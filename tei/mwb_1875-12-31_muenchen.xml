@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>MWbl, Leipzig, 31. Dezember 1875</title>
 				<author><persName ref="#symbol.b"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/mwb_1875-12-31_musikbrief-muenchen.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -184,7 +186,8 @@
 				all seinen Theilen. Es beginnt mit unruhiger stürmischer Bewegung im Orchester,
 				schrillen Geigenläufen, während die Soprane das <supplied resp="tr"
 					>g’’</supplied><note resp="tr" type="commentary">Im Original als Note über der
-					5. Linie wiedergegeben.</note><!--*BILD eigentlich besser als inline-Grafik-->
+					5. Linie
+				wiedergegeben.</note><!--*BILD eigentlich besser als inline-Grafik mit figure/graphic/desc-->
 				festhalten, — dann stellt sich eine erscheckte, athemlose Stile ein, Tod und Natur
 				bleiben erstarrt, bis die <title ref="#verdi.requiem.2.tuba-mirum">Posaunen des
 					jüngsten Gerichtes</title>, zuerst leise, in der Ferne kaum hörbar wiederholt,

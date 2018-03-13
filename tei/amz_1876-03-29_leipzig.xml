@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AmZ, Leipzig, 29. März 1876 [2]</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/amz_1876-03-29_leipzig.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -45,9 +47,9 @@
 			<head><hi rend="bold"><placeName ref="#leipzig">Leipzig</placeName>,</hi>
 				<date when-iso="1876-03-20">20. März</date>.</head>
 			<gap resp="tr"/>
-			<p><rs ref="#leipzig.1876.2" type="event"><date when-iso="1876-03-13">Montag den 13. März</date>
-					wohnten wir der Wiederholung des <persName ref="#verdi.giuseppe"><hi
-							rend="widespace">Verdi</hi>’-schen</persName>
+			<p><rs ref="#leipzig.1876.2" type="event"><date when-iso="1876-03-13">Montag den 13.
+						März</date> wohnten wir der Wiederholung des <persName ref="#verdi.giuseppe"
+							><hi rend="widespace">Verdi</hi>’-schen</persName>
 					<title ref="#verdi.requiem">Requiems</title> im <placeName
 						ref="#leipzig.gewandhaus">Gewandhause</placeName> bei</rs>. Die zweite
 				Aufführung, der keine nochmalige Probe vorhergegangen war, verlief nicht ganz so gut

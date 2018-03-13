@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 15. Dezember 1876</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1876-12-15_bristol.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -44,8 +46,8 @@
 			<cb break="null" n="511b" type="skipped"/>
 			<head rend="bold">Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
 			<gap resp="tr"/>
-			<p rend="hanging"><rs ref="#bristol.1876.1" type="event"><persName ref="#verdi.giuseppe">Verdi,
-						G.</persName>, <hi rend="antiqua"><title ref="#verdi.requiem"
+			<p rend="hanging"><rs ref="#bristol.1876.1" type="event"><persName ref="#verdi.giuseppe"
+						>Verdi, G.</persName>, <hi rend="antiqua"><title ref="#verdi.requiem"
 							>Requiem</title></hi>. <placeName ref="#bristol">Bristol</placeName>,
 					Musikfest.</rs></p>
 		</body>

@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 31. März 1876 [2]</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/mwb_1876-03-31_leipzig.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -42,11 +44,11 @@
 			<pb n="177" type="initial"/>
 			<head rend="lineale bold">Aufgeführte Novitäten.</head>
 			<pb break="null" facs="#f1" n="178" type="skipped"/>
-			<p rend="hanging"><rs ref="#leipzig.1876.2" type="event"><persName ref="#verdi.giuseppe"><hi
-							rend="widespace">Verdi</hi> (G.)</persName>, <title ref="#verdi.requiem"
-						>Requiem</title>. (<placeName ref="#leipzig">Leipzig</placeName>,
-					Gewandhausconc. zum Besten des Orch.-Pensionsfons etc. am <date
-						when-iso="1876-03-13">13. März</date>.)</rs></p>
+			<p rend="hanging"><rs ref="#leipzig.1876.2" type="event"><persName ref="#verdi.giuseppe"
+							><hi rend="widespace">Verdi</hi> (G.)</persName>, <title
+						ref="#verdi.requiem">Requiem</title>. (<placeName ref="#leipzig"
+						>Leipzig</placeName>, Gewandhausconc. zum Besten des Orch.-Pensionsfons etc.
+					am <date when-iso="1876-03-13">13. März</date>.)</rs></p>
 		</body>
 	</text>
 </TEI>

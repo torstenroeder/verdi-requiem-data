@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Illustrirtes Wiener Extrablatt, 10. Juni 1875</title>
 				<author><persName ref="#manussi-von-montesole.ferdinand"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/iwe_1875-06-10_die-manzoni-messe-verdis.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -49,9 +51,9 @@
 				höchster Blüthe; die Wagnerfexe gerathen in Verzückung, geberden sich wie Irrsinnige
 				und werden sich vor dem Vergötterten in den Staub, um nur ja einen herablassenden
 				Fußtritt von dem prätentiös auftretenden Meister zu erhalten. Wenn er in einem
-				Gasthause ein „Gulyas“<note resp="tr" type="glossaryLink">Gulyás, eine ungarische
-					Gulaschsuppe.</note> ißt, so wird dies zu einer begeisternden That aufgebläht
-				und auf dem Wege der Reklame der staunenden Mitwelt in die Ohren posaunt.</p>
+				Gasthause ein <term ref="#gulyas">„Gulyas“</term> ißt, so wird dies zu einer
+				begeisternden That aufgebläht und auf dem Wege der Reklame der staunenden Mitwelt in
+				die Ohren posaunt.</p>
 			<p>Von dem Schöpfer von fast einem Hundert Opern, von dem Manne mit dem unversiegbaren
 				Melodienquell in der Brust, der die Herzen von Millionen Menschen entzückte und noch
 				künftig entzücken wird, spräche das sogenannte musikalische <placeName ref="#wien"

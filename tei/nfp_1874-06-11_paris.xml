@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 11. Juni 1874</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nfp_1874-06-11_ein-requiem-von-verdi.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -16,7 +18,6 @@
 					<biblScope unit="issue">3517</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">1–2</biblScope>
-					<!--*FACS kein Digitalisat: Neue Freie Presse, 11.06.1874; richtige Ausgabe?-->
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -33,6 +34,7 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--*FACS kein Digitalisat: Neue Freie Presse, 11.06.1874; richtige Ausgabe?-->
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<p>[Ein <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"

@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>AmZ, Leipzig, 24. Oktober 1877</title>
 				<author><persName ref="#lindgren.adolf"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/amz_1877-10-24_stockholm.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -47,10 +49,10 @@
 			<head rend="bold larger egypt"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title>.</head>
 			<head rend="smaller">Von <persName ref="#lindgren.adolf"><hi rend="bold">Dr. A.
-					Lindgren</hi></persName> in <placeName ref="#stockholm">Stockholm</placeName>.
-				*)</head>
-			<p rend="smaller">*) Nachdem anlässlich der <rs ref="#muenchen.1875 koeln.1875" type="event"
-						><placeName ref="#muenchen">Münchener</placeName> und <placeName
+						Lindgren</hi></persName> in <placeName ref="#stockholm"
+					>Stockholm</placeName>. *)</head>
+			<p rend="smaller">*) Nachdem anlässlich der <rs ref="#muenchen.1875 koeln.1875"
+					type="event"><placeName ref="#muenchen">Münchener</placeName> und <placeName
 						ref="#koeln">Cölner</placeName> Aufführungen</rs> hier früher eingehende
 				Besprechungen dieses <title ref="#verdi.requiem">Requiem</title> mitgetheilt wurden,
 				wird man auch eine Stimme vom Auslande, nämlich die des musikalischen Referenten des

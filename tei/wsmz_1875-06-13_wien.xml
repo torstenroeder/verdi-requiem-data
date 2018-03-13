@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Wiener Sonn- und Montags-Zeitung, 13. Juni 1875</title>
 				<author><persName ref="#woerz.johann-georg"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/wsmz_1875-06-13_verdis-requiem.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -87,47 +89,43 @@
 				Ausdruckes angewendet werden, um die Schrecken „jenes Tages des Zornes“ zu malen.
 				Aber die Mittel, deren sich der Componist bedient, sind durchaus künstlerischer
 				Natur und von der Herrschaft des Blechs ist ebensowenig die Rede, wie von der
-				Aufdringlichkeit der <pb break="yes" n="3a" type="regular"/>Lungenkraft, vom
-					Stentorgeschrei<note resp="tr" type="glossaryLink">Stentor, griech. Στέντωρ, in
-					der griechischen Mythologie ein Kämpfer im Trojanischen Krieg, dessen Stimme so
-					laut gewesen sein soll wie die von fünfzig anderen Männern zusammen.</note> der
-				Menschenstimme. Diese ganze Musik trägt den Stempel des Adels, der Würde, der tiefen
-				Empfindung, und versichert sich hiedurch der lebendigen Theilnahme auch solcher
-				Hörer, auf welche das Requiem als kirchlicher Act und der Sinn des liturgischen
-				Textes keinen Eindruck zu machen vermag. Wo aber der Tondichter die sanften Register
-				des Seelenorganums spielen läßt, da überfluthet uns echt italienischer Wohllaut, ein
-				süßer Schmelz der Melodie, weise gemildert und vor jeder Trivialität sichergestellt
-				durch treues Festhalten an den Grenzen der artistischen Schönheit. Wie ergreifend
-				flüstern die Sänger das <hi rend="antiqua"><title n="requiem-aeternam"
-						ref="#verdi.requiem.1">„requiem aeternam“</title></hi> (<hi rend="antiqua"
-					>A-moll</hi>); wie wohlthuend kräftig hebt sich dagegen der kurze Vocalsatz <hi
-					rend="antiqua"><title n="te-decet-hymnus" ref="#verdi.requiem.1">„te decet
-						hymnus“</title></hi> ab, bis sich im darauf folgenden <hi rend="antiqua"
-						><title n="kyrie" ref="#verdi.requiem.1">„Kyrie“</title></hi> das
-				Soloquartett mit dem Chore vereinigt und aus den feinen Verschlingungen edler
-				Tonlinien ein Ganzes entsteht, dessen erhebender Wirkung sich selbst die strengste
-				Kritik nicht zu entziehen im Stande ist. Wir möchten den ersten Satz der <title
-					ref="#verdi.requiem">Manzonimesse</title>, der sich im Schlußsatze (<hi
-					rend="antiqua"><title ref="#verdi.requiem.7">„Libera“</title></hi>) theilweise
-				wiederholt, für die vollendetste Parthie des Werkes halten. Das <hi rend="antiqua"
-						><title ref="#verdi.requiem.2">„Dies irae“</title></hi> ist eine sehr
-				umfangreiche Composition, deren einzelne Theile durch das mehrmalige Eingreifen des
-				energischen Hauptthemas (in <hi rend="antiqua">G-moll</hi>) innerlich und äußerlich
-				miteinander in Verbindung gebracht sind. Als die bedeutsamsten Stellen des <hi
-					rend="antiqua"><title ref="#verdi.requiem.2">„Dies irae“</title></hi> wären
-				hervorzuheben: das ergreifende <hi rend="antiqua"><title
-						ref="#verdi.requiem.2.liber-scriptus">„liber scriptus“</title></hi> (Solo
-				für Mezzosopran) und das rührend schöne Frauenduett <hi rend="antiqua"><title
-						ref="#verdi.requiem.2.recordare">„Recordare“</title></hi> (<hi
-					rend="antiqua">F-dur</hi>), endlich noch das <hi rend="antiqua"><title
-						ref="#verdi.requiem.2.lacrymosa">„lacrymosa“</title></hi>, mit welchem der
-				lange, an Contrasten reiche zweite Satz der Messe einen stimmungsvollen elegischen
-				Abschluß findet. Wenn jedoch <persName ref="#verdi.giuseppe">Verdi</persName> aus
-				dem <hi rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">„tuba
-					mirum“</title></hi> ein förmliches Trompetenstück als Reveille<note resp="tr"
-					type="glossaryLink">Frz. reveillez: »Aufwachen«, ein militärisches Hornsignal,
-					welches als Weckruf gespielt wird.</note> für den jüngsten Tag macht, und wenn
-				er bei der Stelle <hi rend="antiqua"><title n="mors-stupebit"
+				Aufdringlichkeit der <pb break="yes" n="3a" type="regular"/>Lungenkraft, vom <term
+					ref="#stentor">Stentorgeschrei</term> der Menschenstimme. Diese ganze Musik
+				trägt den Stempel des Adels, der Würde, der tiefen Empfindung, und versichert sich
+				hiedurch der lebendigen Theilnahme auch solcher Hörer, auf welche das Requiem als
+				kirchlicher Act und der Sinn des liturgischen Textes keinen Eindruck zu machen
+				vermag. Wo aber der Tondichter die sanften Register des Seelenorganums spielen läßt,
+				da überfluthet uns echt italienischer Wohllaut, ein süßer Schmelz der Melodie, weise
+				gemildert und vor jeder Trivialität sichergestellt durch treues Festhalten an den
+				Grenzen der artistischen Schönheit. Wie ergreifend flüstern die Sänger das <hi
+					rend="antiqua"><title n="requiem-aeternam" ref="#verdi.requiem.1">„requiem
+						aeternam“</title></hi> (<hi rend="antiqua">A-moll</hi>); wie wohlthuend
+				kräftig hebt sich dagegen der kurze Vocalsatz <hi rend="antiqua"><title
+						n="te-decet-hymnus" ref="#verdi.requiem.1">„te decet hymnus“</title></hi>
+				ab, bis sich im darauf folgenden <hi rend="antiqua"><title n="kyrie"
+						ref="#verdi.requiem.1">„Kyrie“</title></hi> das Soloquartett mit dem Chore
+				vereinigt und aus den feinen Verschlingungen edler Tonlinien ein Ganzes entsteht,
+				dessen erhebender Wirkung sich selbst die strengste Kritik nicht zu entziehen im
+				Stande ist. Wir möchten den ersten Satz der <title ref="#verdi.requiem"
+					>Manzonimesse</title>, der sich im Schlußsatze (<hi rend="antiqua"><title
+						ref="#verdi.requiem.7">„Libera“</title></hi>) theilweise wiederholt, für die
+				vollendetste Parthie des Werkes halten. Das <hi rend="antiqua"><title
+						ref="#verdi.requiem.2">„Dies irae“</title></hi> ist eine sehr umfangreiche
+				Composition, deren einzelne Theile durch das mehrmalige Eingreifen des energischen
+				Hauptthemas (in <hi rend="antiqua">G-moll</hi>) innerlich und äußerlich miteinander
+				in Verbindung gebracht sind. Als die bedeutsamsten Stellen des <hi rend="antiqua"
+						><title ref="#verdi.requiem.2">„Dies irae“</title></hi> wären hervorzuheben:
+				das ergreifende <hi rend="antiqua"><title ref="#verdi.requiem.2.liber-scriptus"
+						>„liber scriptus“</title></hi> (Solo für Mezzosopran) und das rührend schöne
+				Frauenduett <hi rend="antiqua"><title ref="#verdi.requiem.2.recordare"
+						>„Recordare“</title></hi> (<hi rend="antiqua">F-dur</hi>), endlich noch das
+					<hi rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa"
+					>„lacrymosa“</title></hi>, mit welchem der lange, an Contrasten reiche zweite
+				Satz der Messe einen stimmungsvollen elegischen Abschluß findet. Wenn jedoch
+					<persName ref="#verdi.giuseppe">Verdi</persName> aus dem <hi rend="antiqua"
+						><title ref="#verdi.requiem.2.tuba-mirum">„tuba mirum“</title></hi> ein
+				förmliches Trompetenstück als <term ref="#reveille">Reveille</term> für den jüngsten
+				Tag macht, und wenn er bei der Stelle <hi rend="antiqua"><title n="mors-stupebit"
 						ref="#verdi.requiem.2.tuba-mirum">„mors stupebit“</title></hi> den
 				leibhaftigen Tod vor lauter Schrecken fast sprachlos dastehen läßt, so steht eine
 				derartig übertriebene Tonmalerei jedenfalls nicht im richtigen Verhältnisse zu
@@ -196,36 +194,31 @@
 					>Faust</title>“ u. dgl. eingebürgert hat, nun einmal eine complete Todtenmesse
 				mit allen dazu gehörigen „Decorationen“ zur Aufführung käme. Die Bühne stellt dann
 				natürlich einen gothischen Dom dar, in dessen Mitte sich ein <hi rend="antiqua"
-					>Castrum doloris</hi><note resp="tr" type="glossaryLink">Castrum doloris, dt.
-					»Trauerlager«, ein geschmücktes Gerüst oder Baldachin, welches in der
-					Renaissance- und Barockzeit anlässlich des Todes von hochgestellten Personen
-					errichtet wurde.</note>, von brennenden Fackeln umgeben, erhebt; zur rechten und
-				zur linken Seite ist der Sängerchor postirt, die Damen tragen die schon von
-					<placeName ref="#paris">Paris</placeName> her signalisirten weißen Kleider mit
-				schwarzen Schleiern, die Orchestermitglieder jedoch und der Dirigent nehmen die
-				ihnen bei jeder Opernvorstellung zugewiesenen Plätze ein. Es fehlt dann nur noch die
-					Clerisei<note resp="tr" type="glossaryLink">Clerisei: Altertümliche Bezeichnung
-					für »Klerus«.</note> in ihrem Ornate, um die Allianz der Kirchenmusik mit dem
-				Theater „auf’s Würdigste“ in Scene zu setzen. Leider sind die auf solches
-				Komödienspiel gerichteten Hoffnungen schwärmerischer Schöngeister bei uns nicht in
-				Erfüllung gegangen, denn <persName ref="#verdi.giuseppe">Verdi</persName> begnügte
-				sich damit, die <title ref="#verdi.requiem">Messe</title> in Concertform vor’s
-				Publikum zu bringen. Die Bühne bildet einen mit Gas beleuchteten Saal, in dessen
-				Vordergrunde sich statt des Catafalkes<note resp="tr" type="glossaryLink">Catafalk
-					(auch: Katafalk), ein Gerüst zur Aufbahrung eines Sarges.</note> das
-				Dirigentenpult befindet: links davon das Orchester, rechts der Chor. Nur mit den
-				weißen Gewändern und Trauerschleiern hat es seine Richtigkeit; der Platz der
-				Solisten ist — wie gewöhnlich bei Concerten — unmittelbar an der Seite <pb
-					break="yes" n="4a" type="regular"/> des Dirigenten. Sicherlich hat sich
-					<persName ref="#verdi.giuseppe">Verdi</persName> nicht durch künstlerische, im
-				Wesen der Sache liegende Gründe, sondern durch irgend welche äußere Rücksichten
-				bestimmen lassen, zum Zwecke dieser Production das Opernhaus dem Concertsaale
-				vorzuziehen, und da, wie wir gezeigt haben, das Theater in einem ganz indifferenten
-				Verhältnisse zur <title ref="#verdi.requiem">Manzonimesse</title> steht, so sollten
-				die Verfechter der Rechte der Kirchenmusik in diesem Falle billigerweise
-				Reciprocität gelten lassen und sich der Theaterbühne gegenüber ebenso neutral
-				verhalten. Wir wollen getreulich zu einander stehen und kein Princip preisgeben, uns
-				aber einstweilen aufrichtig freuen, <persName ref="#verdi.giuseppe"
+						><term ref="#castrum-doloris">Castrum doloris</term></hi>, von brennenden
+				Fackeln umgeben, erhebt; zur rechten und zur linken Seite ist der Sängerchor
+				postirt, die Damen tragen die schon von <placeName ref="#paris">Paris</placeName>
+				her signalisirten weißen Kleider mit schwarzen Schleiern, die Orchestermitglieder
+				jedoch und der Dirigent nehmen die ihnen bei jeder Opernvorstellung zugewiesenen
+				Plätze ein. Es fehlt dann nur noch die <term ref="#clerisei">Clerisei</term> in
+				ihrem Ornate, um die Allianz der Kirchenmusik mit dem Theater „auf’s Würdigste“ in
+				Scene zu setzen. Leider sind die auf solches Komödienspiel gerichteten Hoffnungen
+				schwärmerischer Schöngeister bei uns nicht in Erfüllung gegangen, denn <persName
+					ref="#verdi.giuseppe">Verdi</persName> begnügte sich damit, die <title
+					ref="#verdi.requiem">Messe</title> in Concertform vor’s Publikum zu bringen. Die
+				Bühne bildet einen mit Gas beleuchteten Saal, in dessen Vordergrunde sich statt des
+					<term ref="#catafalk">Catafalkes</term> das Dirigentenpult befindet: links davon
+				das Orchester, rechts der Chor. Nur mit den weißen Gewändern und Trauerschleiern hat
+				es seine Richtigkeit; der Platz der Solisten ist — wie gewöhnlich bei Concerten —
+				unmittelbar an der Seite <pb break="yes" n="4a" type="regular"/> des Dirigenten.
+				Sicherlich hat sich <persName ref="#verdi.giuseppe">Verdi</persName> nicht durch
+				künstlerische, im Wesen der Sache liegende Gründe, sondern durch irgend welche
+				äußere Rücksichten bestimmen lassen, zum Zwecke dieser Production das Opernhaus dem
+				Concertsaale vorzuziehen, und da, wie wir gezeigt haben, das Theater in einem ganz
+				indifferenten Verhältnisse zur <title ref="#verdi.requiem">Manzonimesse</title>
+				steht, so sollten die Verfechter der Rechte der Kirchenmusik in diesem Falle
+				billigerweise Reciprocität gelten lassen und sich der Theaterbühne gegenüber ebenso
+				neutral verhalten. Wir wollen getreulich zu einander stehen und kein Princip
+				preisgeben, uns aber einstweilen aufrichtig freuen, <persName ref="#verdi.giuseppe"
 					>Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> gehört zu haben, gleichviel an welchem
 				Orte.</p>

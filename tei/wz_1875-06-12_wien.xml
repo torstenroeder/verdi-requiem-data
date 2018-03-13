@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Wiener Abendpost, 12. Juni 1875</title>
 				<author><persName ref="#ambros.august-wilhelm"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/wz_1875-06-12_verdis-requiem.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -63,43 +65,42 @@
 				und Bedenken zu reichen bereit war, mit voller, freudiger Anerkennung spenden; —
 				aber der Weg aus dem Theater in die Kirche ist ein weiter. <persName
 					ref="#gluck.christoph-willibald">Gluck</persName> z.B. hat ihn gar nicht
-				gefunden, seinen Ruhm nicht, als er <hi rend="antiqua" xml:lang="la">ex
-					officio</hi><note resp="tr" type="quoteLink">Lat. »von Amts wegen«.</note> die
-				Chortreppe der katholischen Hofkirche in <placeName ref="#dresden"
-					>Dresden</placeName> hinanstieg; und die Doppelkrone des Operncomponisten und
-				Kirchencomponisten, welche mehr als Einer der alten großen Meister getragen, ist
-				heutzutage selten. Anlage, frische strömende Erfindung und eine gewisse Summe an Ort
-				und Stelle, d. i. im Theater gesammelter Erfahrungen kann dem Operncomponisten über
-				vieles Andere, was ihm vielleicht fehlt, hinüberhelfen, — ein glücklicher
-				Naturalist, wie z. B. <persName ref="#gretry.andre-ernest-modeste"
-				>Gretry</persName>, kann in der Oper sehr Erfreuliches leisten, und auch die beiden
-				genialen großen Meister dramatischer Musik, welche wir eben genannt, <persName
-					ref="#gluck.christoph-willibald">Gluck</persName> und <persName
-					ref="#weber.carl-maria-von">C. M. v. Weber</persName>, haben durch alles
-				Mögliche mehr geglänzt als durch Meisterschaft in jenen Kunstformen, welche der
-				musikalische Kirchenstyl nun einmal ganz speciell erheischt. Die Kirchencomposition
-				aber saßen unter der Zucht und Lehre strenger und nicht immer gerade liebenswürdiger
-				Meister und Lehrer jahrelang auf der harten Schulbank und verklecksten ganze Fässer
-				voll Tinte in Exercitien einfachen und doppelten Contrapunktes, ehe sie mit einem
-					<hi rend="antiqua" xml:lang="la">Liber Motettorum quatour vocum</hi><note
-					resp="tr" type="quoteLink">Lat. »Motettenbuch zu vier Stimmen».</note> oder
-				einer <hi rend="antiqua" xml:lang="la">Missa solemnis</hi> hervortraten. Der
-				Operncomponist kann ferner, wenn er will, die Schiffe hinter sich verbrennen, dem
-				dramatischen Musikstyl, wie er ihn antrifft, offen den Krieg erklären und der Welt
-				zurufen: „Ich bin Reformator!“ Der Kirchencomponist aber darf mit seinen Vorgängern
-				nicht brüsk brechen, er bedarf eines gewissen historischen Sinnes, er kann weiter
-				bauen, aber die alten Fundamente muß er respectiren. Wenn <persName
-					ref="#palestrina.giovanni-pierluigi">Palestrina</persName> in landläufigen
-				Musikgeschichten und Dutzend-Artikeln musikalischer Zeitschriften mit dem <hi
-					rend="antiqua" xml:lang="la">Epitheton ornans</hi><note resp="tr"
-					type="quoteLink">Lat. »schmückendes Beiwort«.</note> des „großen Reformators der
-				Kirchenmusik“ prangt, so kann der wirkliche Musikhistoriker, der mit den Werken des
-				Meisters und jenen seiner Vorgänger vertraut ist, dazu nur lachen oder, je nachdem,
-				sich darüber ärgern. Die gründlichsten Musikreformatoren an der Grenzscheide alter
-				und neuer Musik um 1600 bis 1650, <persName ref="#monteverdi.claudio"
-					>Monteverde</persName> und <persName ref="#cavalli.francesco"
-				>Cavalli</persName>, haben Kirchenstücke im Stile <hi rend="antiqua">da
-					cappella</hi> geschieben.</p>
+				gefunden, seinen Ruhm nicht, als er <hi rend="antiqua" xml:lang="la"><term
+						ref="#ex-officio">ex officio</term></hi> die Chortreppe der katholischen
+				Hofkirche in <placeName ref="#dresden">Dresden</placeName> hinanstieg; und die
+				Doppelkrone des Operncomponisten und Kirchencomponisten, welche mehr als Einer der
+				alten großen Meister getragen, ist heutzutage selten. Anlage, frische strömende
+				Erfindung und eine gewisse Summe an Ort und Stelle, d. i. im Theater gesammelter
+				Erfahrungen kann dem Operncomponisten über vieles Andere, was ihm vielleicht fehlt,
+				hinüberhelfen, — ein glücklicher Naturalist, wie z. B. <persName
+					ref="#gretry.andre-ernest-modeste">Gretry</persName>, kann in der Oper sehr
+				Erfreuliches leisten, und auch die beiden genialen großen Meister dramatischer
+				Musik, welche wir eben genannt, <persName ref="#gluck.christoph-willibald"
+					>Gluck</persName> und <persName ref="#weber.carl-maria-von">C. M. v.
+					Weber</persName>, haben durch alles Mögliche mehr geglänzt als durch
+				Meisterschaft in jenen Kunstformen, welche der musikalische Kirchenstyl nun einmal
+				ganz speciell erheischt. Die Kirchencomposition aber saßen unter der Zucht und Lehre
+				strenger und nicht immer gerade liebenswürdiger Meister und Lehrer jahrelang auf der
+				harten Schulbank und verklecksten ganze Fässer voll Tinte in Exercitien einfachen
+				und doppelten Contrapunktes, ehe sie mit einem <hi rend="antiqua" xml:lang="la"
+					>Liber Motettorum quatour vocum</hi><note resp="tr" type="quoteLink">Lat.
+					»Motettenbuch zu vier Stimmen».</note> oder einer <hi rend="antiqua"
+					xml:lang="la">Missa solemnis</hi> hervortraten. Der Operncomponist kann ferner,
+				wenn er will, die Schiffe hinter sich verbrennen, dem dramatischen Musikstyl, wie er
+				ihn antrifft, offen den Krieg erklären und der Welt zurufen: „Ich bin Reformator!“
+				Der Kirchencomponist aber darf mit seinen Vorgängern nicht brüsk brechen, er bedarf
+				eines gewissen historischen Sinnes, er kann weiter bauen, aber die alten Fundamente
+				muß er respectiren. Wenn <persName ref="#palestrina.giovanni-pierluigi"
+					>Palestrina</persName> in landläufigen Musikgeschichten und Dutzend-Artikeln
+				musikalischer Zeitschriften mit dem <hi rend="antiqua" xml:lang="la"><term
+						ref="#epitheton-ornans">Epitheton ornans</term></hi> des „großen Reformators
+				der Kirchenmusik“ prangt, so kann der wirkliche Musikhistoriker, der mit den Werken
+				des Meisters und jenen seiner Vorgänger vertraut ist, dazu nur lachen oder, je
+				nachdem, sich darüber ärgern. Die gründlichsten Musikreformatoren an der
+				Grenzscheide alter und neuer Musik um 1600 bis 1650, <persName
+					ref="#monteverdi.claudio">Monteverde</persName> und <persName
+					ref="#cavalli.francesco">Cavalli</persName>, haben Kirchenstücke im Stile <hi
+					rend="antiqua">da cappella</hi> geschieben.</p>
 			<p>So sehr nun <persName ref="#verdi.giuseppe">Verdi</persName> seit der „<title
 					ref="#verdi.aida">Aïda</title>“ bei uns im Curse gestiegen und so freudig wir
 				ihm, soweit es an uns lag, eine Ehrenstelle im Pantheon der Meister seiner Kunst
@@ -142,10 +143,10 @@
 					h, a</hi><!--*LAYOUT zweizeililg--> u. s. w.“ Wir sind musikalisch so ziemlich
 				liberal, aber beim Anblick dieser Stelle wurden wir doch, was man in Italien <hi
 					rend="antiqua" xml:lang="it">stordito</hi> oder <hi rend="antiqua" xml:lang="it"
-					>sbalordito</hi><note resp="tr" type="quoteLink">Ital. »bestürzt«,
-					»verblüfft«.</note> nennt. Endlich haben wir die Composition auch gehört. Sollen
-				wir es sagen? Diese zwei Stunden brachten uns musikalische Eindrücke, welche zu den
-				größten gehören, deren wir uns zu erinnern wissen.</p>
+						><term ref="#sbalordito">sbalordito</term></hi> nennt. Endlich haben wir die
+				Composition auch gehört. Sollen wir es sagen? Diese zwei Stunden brachten uns
+				musikalische Eindrücke, welche zu den größten gehören, deren wir uns zu erinnern
+				wissen.</p>
 			<p>Der alte <persName ref="#zelter.carl-friedrich">Zelter</persName> schreibt in einem
 				seiner Briefe an <persName ref="#goethe.johann-wolfgang-von">Goethe</persName> über
 				das <persName ref="#mozart.wolfgang-amadeus">Mozart’sche</persName>
@@ -385,15 +386,15 @@
 				der sehr peinlich klingt, — es hilft nicht, daß die erste Violine nur als
 				„Verdopplung“ des Solo-Basses auftritt — es klingt schlecht und verdirbt die sonst
 				so schöne Nummer. Möge <persName ref="#verdi.giuseppe">Verdi</persName> sich hier
-				ein „Pentimento“<note resp="tr" type="quoteLink">Ital. »Reue« oder auch
-					»Meinungsänderung«.</note> nicht verdrießen lassen! Hat er doch an Stelle der
-				(übrigens respectablen) Fuge: „<title ref="#verdi.requiem.2.liber-scriptus.1874"
-					>liber scriptus</title>“ dermal mit vortrefflicher Wirkung eine breit angelegte
-					<title ref="#verdi.requiem.2.liber-scriptus">Alt-Arie</title> gesetzt — bei
-				welcher das stellenweise dazwischen geflüsterte, ängstliche „dies iræ, dies illa“
-				des Chores wieder von größter, echt dramatischer, wohlmotivirender Wirkung ist. Das
-					„<title n="quam-olim-abrahae" ref="#verdi.requiem.3">quam olim Abrahæ</title>“
-				hat <persName ref="#verdi.giuseppe">Verdi</persName> ziemlich so abgefertigt, als
+				ein <term ref="#pentimento">„Pentimento“</term> nicht verdrießen lassen! Hat er doch
+				an Stelle der (übrigens respectablen) Fuge: „<title
+					ref="#verdi.requiem.2.liber-scriptus.1874">liber scriptus</title>“ dermal mit
+				vortrefflicher Wirkung eine breit angelegte <title
+					ref="#verdi.requiem.2.liber-scriptus">Alt-Arie</title> gesetzt — bei welcher das
+				stellenweise dazwischen geflüsterte, ängstliche „dies iræ, dies illa“ des Chores
+				wieder von größter, echt dramatischer, wohlmotivirender Wirkung ist. Das „<title
+					n="quam-olim-abrahae" ref="#verdi.requiem.3">quam olim Abrahæ</title>“ hat
+					<persName ref="#verdi.giuseppe">Verdi</persName> ziemlich so abgefertigt, als
 				habe er damit nur fertig werden wollen; das chromatisch absteigende Motiv nimmt sich
 				nicht eben gut aus und die Sequenz-Harmonien auf einem in regelmäßigen Schritten
 				fortschreitenden Grundbaß, wie Lehrer dergleichen Scholaren der Harmonielehre als

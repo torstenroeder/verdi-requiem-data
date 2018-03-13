@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Kölnische Zeitung, 12. Dezember 1875</title>
 				<author><persName ref="#guckeisen.august"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/kz_1875-12-12_viertes-guerzenich-konzert.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -107,20 +109,18 @@
 				Irdischen schwebe. Doch gemach, gestrenge Herren Richter!</p>
 			<p>Wenn man uns erzählt, wie am Charsamstag in der <placeName ref="#rom.peterskirche"
 					>Peterskirche</placeName> zu <placeName ref="#rom">Rom</placeName> die
-				sogenannten Lamentationen<note resp="tr" type="glossaryLink">Lamentationen:
-					Bezeichnung für die Klagelieder Jeremias’ in der Vulgata.</note> von einem
-				unsichtbaren Chor eintönig psalmodirend gesungen werden, wie während des Gesanges
-				eine Kerze nach der andern verlischt, bis tiefste Dunkelheit herrscht, wie dann
-				unter plötzlichem Aufflammen eines glänzenden Lichtmeeres ein jubelnder
-				Auferstehungschor in die Hallen hineinbricht — ist das vielleicht etwas Anderes als
-				dramatischer Effect? Oder sagen uns doch die Verfechter der leidenschaftslosen
-				kirchlichen Contrapunctik, resp. des von schauerlichen Küsterstimmen abgeleierten
-				römischen Chorals, zu welchem Zwecke der feierliche katholische Gottesdienst mit
-				allem Prunk farbenreicher Ceremonien umgeben wird? Wir wissen die Antwort freilich
-				auch: Der Mensch muß erst durch das Sinnliche zum Uebersinnlichen hinangezogen
-				werden. <hi rend="antiqua">Fiat applicatio!</hi><note resp="tr" type="quoteLink"
-					>Lat. »man mache die Anwendung«.</note> Was dem Gottesdienst recht, ist der
-				Musik billig.</p>
+				sogenannten <term ref="#lamentationen">Lamentationen</term> von einem unsichtbaren
+				Chor eintönig psalmodirend gesungen werden, wie während des Gesanges eine Kerze nach
+				der andern verlischt, bis tiefste Dunkelheit herrscht, wie dann unter plötzlichem
+				Aufflammen eines glänzenden Lichtmeeres ein jubelnder Auferstehungschor in die
+				Hallen hineinbricht — ist das vielleicht etwas Anderes als dramatischer Effect? Oder
+				sagen uns doch die Verfechter der leidenschaftslosen kirchlichen Contrapunctik,
+				resp. des von schauerlichen Küsterstimmen abgeleierten römischen Chorals, zu welchem
+				Zwecke der feierliche katholische Gottesdienst mit allem Prunk farbenreicher
+				Ceremonien umgeben wird? Wir wissen die Antwort freilich auch: Der Mensch muß erst
+				durch das Sinnliche zum Uebersinnlichen hinangezogen werden. <hi rend="antiqua">Fiat
+					applicatio!</hi><note resp="tr" type="quoteLink">Lat. »man mache die
+					Anwendung«.</note> Was dem Gottesdienst recht, ist der Musik billig.</p>
 			<p>Uebrigens schrieb <persName ref="#verdi.giuseppe">Verdi</persName> in einem Lande und
 				für ein Land, wo man den komischen Widerspruch zwischen gottesdienstlicher Musik und
 				gottesdienstlichen Ceremonien noch nicht in die Lehrbücher der Aesthetik aufgenommen
@@ -154,11 +154,8 @@
 				sich, von ähnlichem Entsetzen erfaßt, wie durch den <title
 					ref="#wagner.der-fliegende-hollaender.gespensterchor">Gespensterchor</title> des
 					„<title ref="#wagner.der-fliegende-hollaender">Fliegenden Holländers</title>“.
-				Dann dieses leise Austönen des ersten Paroxysmus<note resp="tr" type="glossaryLink"
-					>Paroxysmus, eine Folge von sich steigernden Ausbrüchen; vgl. <ref
-						target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11003685_00668.html"
-						type="text">Meyer 1871, Bd. 12, S. 640</ref>.</note> mit den wunderbaren
-				Orchester-Effecten des <hi rend="antiqua">„<title n="quantus-tremor"
+				Dann dieses leise Austönen des ersten <term ref="#paroxysmus">Paroxysmus</term> mit
+				den wunderbaren Orchester-Effecten des <hi rend="antiqua">„<title n="quantus-tremor"
 						ref="#verdi.requiem.2.dies-irae">Quantus tremor</title>“</hi>. Nun die
 				Trompetensignale von nah und fern (schade, daß bei unserer Aufführung die Trompeter
 				sämmtlich auf der Tribühne standen), ankündigend das gewaltig dahinbrausende <hi

@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Fremden-Blatt, Wien, 13. Juni 1875</title>
 				<author><persName ref="#speidel.ludwig"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/fb_1875-06-13_theater-und-kunst.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -93,21 +95,15 @@
 					ref="#mozart.die-zauberfloete">Zauberflöte</title>.“ Und wie fröhlich und
 				weltlich, gleich einer aufwirbelnden Lerche, konnte <persName ref="#haydn.joseph"
 					>Josef Haydn</persName> in seinen <title ref="#haydn.messen">Messen</title>
-				sein! Sollte nun <persName ref="#verdi.giuseppe">Verdi</persName> nach dem
-					Vatikanum<note resp="tr" type="glossaryLink">Erstes Vatikanisches Konzil (20.
-					ökumenisches Konzil), 1869–1870, Sitzungsreihe, auf der u. a. das
-					Unfehlbarkeitsdogma verkündet wurde.</note> so asketisch singen, wie <persName
-					ref="#palestrina.giovanni-pierluigi">Palestrina</persName> nach dem
-					Tridentinum<note resp="tr" type="glossaryLink">Konzil von Trient (19.
-					ökumenisches Konzil), 1545–1563, Serie von gegenreformatorischen Sitzungen, die
-					u. a. eine Reform der Kirchenmusik nach dem Vorbild der Missa Papae Marcelli von
-						<persName ref="#palestrina.giovanni-pierluigi">Palestrina</persName> zur
-					Folge hatte.</note>? Laßt doch den Künstler in seiner Zeit stehen und ihn
-				schaffen, wie es ihm um das Herz ist! Wenn <persName ref="#verdi.giuseppe"
-					>Verdi</persName> keine akademische Seelenmesse geschrieben, so hat er doch eine
-				lebendige produzirt, eine für ihn wahre und keine konventionelle. Ja, er hat in
-				seiner Weise sogar das Aeußerste gethan, um auch die Pedanten, die ewig
-				Herkömmlichen, zu befriedigen. Er hat <title
+				sein! Sollte nun <persName ref="#verdi.giuseppe">Verdi</persName> nach dem <term
+					ref="#vatikanum">Vatikanum</term> so asketisch singen, wie <persName
+					ref="#palestrina.giovanni-pierluigi">Palestrina</persName> nach dem <term
+					ref="#tridentinum">Tridentinum</term>? Laßt doch den Künstler in seiner Zeit
+				stehen und ihn schaffen, wie es ihm um das Herz ist! Wenn <persName
+					ref="#verdi.giuseppe">Verdi</persName> keine akademische Seelenmesse
+				geschrieben, so hat er doch eine lebendige produzirt, eine für ihn wahre und keine
+				konventionelle. Ja, er hat in seiner Weise sogar das Aeußerste gethan, um auch die
+				Pedanten, die ewig Herkömmlichen, zu befriedigen. Er hat <title
 					ref="#verdi.requiem.4 verdi.requiem.7.libera-me.fuga">Fugen</title> in seinem
 					<title ref="#verdi.requiem">Requiem</title>, selbst eine <title
 					ref="#verdi.requiem.4">Doppelfuge</title>. Das will nun freilich nicht recht

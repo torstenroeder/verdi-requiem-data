@@ -6,19 +6,19 @@
 				<title>Ferdinand Breunung, Brief an Ferdinand Hiller, Aachen, 28. Februar
 					1876</title>
 				<author><persName ref="#breunung.ferdinand"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/breunung_1876-02-28_brief-an-hiller.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
 					<placeName ref="#aachen"/>
 					<date when-iso="1876-02-28"/>
 				</bibl>
-				<bibl>
-					<title>Aus Ferdinand Hillers Briefwechsel (Band IV), Köln: Arno Volk, 1964, S.
-						4.</title>
-				</bibl>
+				<bibl>Aus Ferdinand Hillers Briefwechsel (Band IV), Köln: Arno Volk, 1964, S.
+					4.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>

@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AmZ, Leipzig, 15. März 1876</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/amz_1876-03-15_leipzig.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -43,8 +45,8 @@
 			<cb break="null" n="172" type="initial"/>
 			<head rend="larger bold egypt">Berichte.</head>
 			<cb break="null" facs="#f1" n="174" type="skipped"/>
-			<head><hi rend="bold"><placeName ref="#leipzig">Leipzig</placeName>,</hi> <date
-					when-iso="1876-03-10">10. März</date>.</head>
+			<head><hi rend="bold"><placeName ref="#leipzig">Leipzig</placeName>,</hi>
+				<date when-iso="1876-03-10">10. März</date>.</head>
 			<p>Endlich hielt das vielbesprochene <rs ref="#leipzig.1876.1" type="event"><hi
 						rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi> von <hi
 						rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> (19.

@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 22. Oktober 1875</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1875-10-22_bruessel.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -43,9 +45,9 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head rend="bold">Aufführungen.</head>
 			<gap resp="tr"/>
-			<p><rs ref="#bruessel.1875.1" type="event"><hi rend="widespace"><placeName ref="#bruessel"
-							>Brüssel</placeName></hi>. <persName ref="#verdi.giuseppe"
-						>Verdi’s</persName>
+			<p><rs ref="#bruessel.1875.1" type="event"><hi rend="widespace"><placeName
+							ref="#bruessel">Brüssel</placeName></hi>. <persName
+						ref="#verdi.giuseppe">Verdi’s</persName>
 					<title ref="#verdi.requiem">Requiem</title> soll daselbst <date
 						notAfter-iso="1875-12-15" when-iso="1875-12">Anfang December</date>
 					<hi rend="antiqua"><placeName ref="#bruessel.la-monnaie">im Théatre de la

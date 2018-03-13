@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>AmZ, Leipzig, 29. März 1876 [1]</title>
 				<author><persName ref="#anonymus.ein-koelner-referent"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/amz_1876-03-29_koeln.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -142,8 +144,8 @@
 				hiesigen Stadttheater; bei der zweiten Aufführung trat für den erkrankten Herrn
 					<persName ref="#diener.franz">Diener</persName> Herr Prof. <hi rend="widespace"
 						><persName ref="#schneider.carl">Schneider</persName></hi> ein.</p>
-			<p>In dem <rs ref="#koeln.1875.1" type="event">Concert vom <date when-iso="1875-12-07">7. Decbr.
-						v. J.</date></rs> wurde ausser dem <title ref="#verdi.requiem"
+			<p>In dem <rs ref="#koeln.1875.1" type="event">Concert vom <date when-iso="1875-12-07"
+						>7. Decbr. v. J.</date></rs> wurde ausser dem <title ref="#verdi.requiem"
 					>Requiem</title> noch <title ref="#svendsen.sigurd-slembe">Sigurd
 				Slembe</title>, symphonische Einleitung zu <persName ref="#bjoernson.bjoernstjerne"
 					>Bjornstjerne Björnson’s</persName> gleichnamigem Drama von <persName

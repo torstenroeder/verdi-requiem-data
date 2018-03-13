@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Lilli Lehmann, Mein Weg, 1913</title>
 				<author><persName ref="#lehmann.lilli"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/lehmann_1920_mein-weg.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>

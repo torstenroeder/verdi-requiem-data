@@ -1,51 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Il mondo artistico, Mailand, 11. Juni 1874</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>http://verdi-requiem.de/text/ma_1874-06-11_dies-irae.xml</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <orgName ref="#il-mondo-artistico" role="publisher"/>
-                    <placeName ref="#mailand"/>
-                    <date when-iso="1874-06-11"/>
-                    <biblScope unit="issue">23/24</biblScope>
-                    <biblScope unit="volume">8</biblScope>
-                    <series>ma</series>
-                    <biblScope unit="page">9</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation><placeName ref="#mailand"/></creation>
-            <textClass>
-                <keywords>
-                    <term type="textType">Illustration</term>
-                    <term type="corpusGroup">Randtexte</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <encodingDesc>
-            <p>see http://verdi-requiem.de for a detailed description</p>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic
-            url="http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.lacasadellamusica.it%3A6%3APR0164%3A1874MA&amp;mode=all&amp;teca=Casa+della+musica+di+Parma&amp;viewType=onepage&amp;mediaType=image&amp;objectIndex=153"
-        />
-    </facsimile>
-    <text xml:lang="de">
-        <body rend="fraktur">
-            <figure>
-                <graphic url="ma_1874-06-11_9.png"/>
-                <desc>Verdi mit dem Taktstock, im Hintergrund eine Masse von
-                    Schattengestalten</desc>
-            </figure>
-            <p>Dies irae !!!</p>
-        </body>
-    </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Il mondo artistico, Mailand, 11. Juni 1874</title>
+				<principal>Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/ma_1874-06-11_dies-irae.xml</p>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#il-mondo-artistico" role="publisher"/>
+					<placeName ref="#mailand"/>
+					<date when-iso="1874-06-11"/>
+					<biblScope unit="issue">23/24</biblScope>
+					<biblScope unit="volume">8</biblScope>
+					<series>ma</series>
+					<biblScope unit="page">9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#mailand"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Illustration</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic
+			url="http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.lacasadellamusica.it%3A6%3APR0164%3A1874MA&amp;mode=all&amp;teca=Casa+della+musica+di+Parma&amp;viewType=onepage&amp;mediaType=image&amp;objectIndex=153"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<figure>
+				<graphic url="ma_1874-06-11_9.png"/>
+				<desc>Verdi mit dem Taktstock, im Hintergrund eine Masse von
+					Schattengestalten</desc>
+			</figure>
+			<p>Dies irae !!!</p>
+		</body>
+	</text>
 </TEI>

@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Werke der Musik</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/orte</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<p/>
@@ -50,34 +52,34 @@
 					<list>
 						<item xml:id="beethoven.missa-solemnis.kyrie">
 							<name>Kyrie</name>
-							<span to="85" from="1" type="tempo">Assai sostenuto. Mit Andacht</span>
-							<span to="117" from="86" type="tempo">Andante assai ben marcato</span>
-							<span to="223" from="118" type="tempo">Tempo I</span>
+							<span from="1" to="85" type="tempo">Assai sostenuto. Mit Andacht</span>
+							<span from="86" to="117" type="tempo">Andante assai ben marcato</span>
+							<span from="118" to="223" type="tempo">Tempo I</span>
 						</item>
 						<item xml:id="beethoven.missa-solemnis.gloria">
 							<name>Gloria</name>
-							<span to="130" from="1" type="tempo">Allegro vivace</span>
-							<span to="173" from="131" type="tempo">Meno Allegro</span>
-							<span to="279" from="174" type="tempo">Tempo I</span>
-							<span to="309" from="280" type="tempo">Larghetto</span>
-							<span to="359" from="310" type="tempo">Allegro maestoso</span>
-							<span to="458" from="360" type="tempo">Allegro, ma non troppo e ben
+							<span from="1" to="130" type="tempo">Allegro vivace</span>
+							<span from="131" to="173" type="tempo">Meno Allegro</span>
+							<span from="174" to="279" type="tempo">Tempo I</span>
+							<span from="280" to="309" type="tempo">Larghetto</span>
+							<span from="310" to="359" type="tempo">Allegro maestoso</span>
+							<span from="360" to="458" type="tempo">Allegro, ma non troppo e ben
 								marcato</span>
-							<span to="524" from="459" type="tempo">Poco più / Allegro</span>
-							<span to="569" from="525" type="tempo">Presto</span>
+							<span from="459" to="524" type="tempo">Poco più / Allegro</span>
+							<span from="525" to="569" type="tempo">Presto</span>
 						</item>
 						<item xml:id="beethoven.missa-solemnis.credo">
 							<name>Credo</name>
-							<span to="123" from="1" type="tempo">Allegro ma non troppo</span>
-							<span to="143" from="124" type="tempo">Adagio</span>
-							<span to="155" from="144" type="tempo">Andante</span>
-							<span to="187" from="156" type="tempo">Adagio espressivo</span>
-							<span to="193" from="188" type="tempo">Allegro</span>
-							<span to="263" from="194" type="tempo">Allegro molto</span>
-							<span to="305" from="264" type="tempo">Allegro ma non troppo</span>
-							<span to="371" from="306" type="tempo">Allegretto ma non troppo</span>
-							<span to="432" from="372" type="tempo">Allegro con moto</span>
-							<span to="472" from="433" type="tempo">Grave</span>
+							<span from="1" to="123" type="tempo">Allegro ma non troppo</span>
+							<span from="124" to="143" type="tempo">Adagio</span>
+							<span from="144" to="155" type="tempo">Andante</span>
+							<span from="156" to="187" type="tempo">Adagio espressivo</span>
+							<span from="188" to="193" type="tempo">Allegro</span>
+							<span from="194" to="263" type="tempo">Allegro molto</span>
+							<span from="264" to="305" type="tempo">Allegro ma non troppo</span>
+							<span from="306" to="371" type="tempo">Allegretto ma non troppo</span>
+							<span from="372" to="432" type="tempo">Allegro con moto</span>
+							<span from="433" to="472" type="tempo">Grave</span>
 						</item>
 						<item xml:id="beethoven.missa-solemnis.sanctus">
 							<name>Sanctus</name>
@@ -442,24 +444,24 @@
 							<name type="ordinal">No. 1</name>
 							<name type="secondary">a quattro parti: Soprano, Mezzo-Soprano, Tenore e
 								Basso. – Coro</name>
-							<span from="1" to="78" n="introitus">
-								<span to="16" n="requiem-aeternam" from="1" type="text">Requiem
+							<span from="1" n="introitus" to="78">
+								<span from="1" n="requiem-aeternam" to="16" type="text">Requiem
 									aeternam dona eis, Domine,</span>
-								<span to="27" n="et-lux" from="17" type="text">et lux perpetua
+								<span from="17" n="et-lux" to="27" type="text">et lux perpetua
 									luceat eis.</span>
-								<span to="44" n="te-decet-hymnus" from="28" type="text">Te decet
+								<span from="28" n="te-decet-hymnus" to="44" type="text">Te decet
 									Hymnus, Deus, in Sion, et ubi reddetur votum in
 									Jerusalem.</span>
-								<span to="55" n="exaudi" from="45" type="text">Exaudi orationem
+								<span from="45" n="exaudi" to="55" type="text">Exaudi orationem
 									meam, ad te omnis caro veniet.</span>
-								<span to="66" n="requiem-aeternam.re" from="56" type="text">Requiem
+								<span from="56" n="requiem-aeternam.re" to="66" type="text">Requiem
 									aeternam dona eis, Domine,</span>
-								<span to="78" n="et-lux.re" from="67" type="text">et lux perpetua
+								<span from="67" n="et-lux.re" to="78" type="text">et lux perpetua
 									luceat eis.</span>
 							</span>
-							<span to="140" n="kyrie" from="78">
+							<span from="78" n="kyrie" to="140">
 								<span from="78" n="kyrie-eleison" type="text">Kyrie eleison.</span>
-								<span to="140" n="christe-eleison" type="text">Christe
+								<span n="christe-eleison" to="140" type="text">Christe
 									eleison.</span>
 							</span>
 						</item>
@@ -471,12 +473,12 @@
 								<item xml:id="verdi.requiem.2.dies-irae">
 									<name>Dies irae</name>
 									<name type="secondary">Coro</name>
-									<span to="73" from="1" n="dies-irae">
+									<span from="1" n="dies-irae" to="73">
 										<span type="text">Dies irae, dies illa</span>
 										<span type="text">solvet saeclum in favilla,</span>
 										<span type="text">teste David cum Sibylla.</span>
 									</span>
-									<span to="91" from="74" n="quantus-tremor">
+									<span from="74" n="quantus-tremor" to="91">
 										<span type="text">Quantus tremor est futurus,</span>
 										<span type="text">quando judex est venturus,</span>
 										<span type="text">cuncta stricte discussurus.</span>
@@ -485,13 +487,13 @@
 								<item xml:id="verdi.requiem.2.tuba-mirum">
 									<name>Tuba mirum</name>
 									<name type="secondary">Coro</name>
-									<span to="139" from="91">
+									<span from="91" to="139">
 										<span n="tuba-mirum" type="text">Tuba mirum spargens
 											sonum</span>
 										<span type="text">per sepulchra regionum,</span>
 										<span type="text">coget omnes ante thronum.</span>
 									</span>
-									<span to="161" from="140">
+									<span from="140" to="161">
 										<span n="mors-stupebit" type="text">Mors stupebit et
 											natura,</span>
 										<span type="text">cum resurget creatura,</span>
@@ -505,19 +507,19 @@
 								<item xml:id="verdi.requiem.2.liber-scriptus">
 									<name>Liber Scriptus (1875)</name>
 									<name type="secondary">Mezzo-Soprano e Coro</name>
-									<span to="177" from="162">
+									<span from="162" to="177">
 										<span n="liber-scriptus" type="text">Liber scriptus
 											proferetur,</span>
 										<span type="text">in quo totum continetur,</span>
 										<span type="text">unde mundus judicetur.</span>
 									</span>
-									<span to="229" from="178">
+									<span from="178" to="229">
 										<span n="judex-ergo" type="text">Judex ergo cum
 											sedebit,</span>
 										<span type="text">quidquid latet, apparebit,</span>
 										<span type="text">nil inultum remanebit.</span>
 									</span>
-									<span to="269" from="229">
+									<span from="229" to="269">
 										<span n="dies-irae" type="text">Dies irae, dies illa</span>
 										<span type="text">solvet saeclum in favilla,</span>
 										<span type="text">teste David cum Sibylla.</span>
@@ -526,7 +528,7 @@
 								<item xml:id="verdi.requiem.2.quid-sum-miser">
 									<name>Quid sum miser</name>
 									<name type="secondary">Soprano, Mezzo-Sprano e Tenore</name>
-									<span to="321" from="270">
+									<span from="270" to="321">
 										<span n="quid-sum-miser" type="text">Quid sum miser tunc
 											dicturus?</span>
 										<span type="text">Quem patronum rogaturus,</span>
@@ -536,7 +538,7 @@
 								<item xml:id="verdi.requiem.2.rex-tremendae">
 									<name>Rex tremendae</name>
 									<name type="secondary">Quartetto e Coro</name>
-									<span to="382" from="322">
+									<span from="322" to="382">
 										<span n="rex-tremendae" type="text">Rex tremendae
 											majestatis,</span>
 										<span n="qui-salvandos" type="text">qui salvandos salvas
@@ -548,12 +550,12 @@
 								<item xml:id="verdi.requiem.2.recordare">
 									<name>Recordare</name>
 									<name type="secondary">Soprano e Mezzo-Soprano</name>
-									<span to="408" from="383">
+									<span from="383" to="408">
 										<span n="recordare" type="text">Recordare, Jesu pie,</span>
 										<span type="text">quod sum causa tuae viae,</span>
 										<span type="text">ne me perdas illa die.</span>
 									</span>
-									<span to="446" from="408">
+									<span from="408" to="446">
 										<span n="quaerens-me" type="text">Quaerens me, sedisti
 											lassus,</span>
 										<span type="text">redemisti crucem passus;</span>
@@ -567,13 +569,13 @@
 								<item xml:id="verdi.requiem.2.ingemisco">
 									<name>Ingemisco</name>
 									<name type="secondary">Solo per Tenore</name>
-									<span to="456" from="447">
+									<span from="447" to="456">
 										<span n="ingemisco" type="text">Ingemisco, tamquam
 											reus,</span>
 										<span type="text">culpa rubet vultus meus,</span>
 										<span type="text">supplicanti parce, Deus.</span>
 									</span>
-									<span to="502" from="457">
+									<span from="457" to="502">
 										<span n="qui-mariam" type="text">Qui Mariam
 											absolvisti,</span>
 										<span type="text">et latronem exaudisti,</span>
@@ -591,7 +593,7 @@
 								<item xml:id="verdi.requiem.2.confutatis">
 									<name>Confutatis</name>
 									<name type="secondary">Solo per Basso</name>
-									<span to="573" from="503">
+									<span from="503" to="573">
 										<span n="confutatis" type="text">Confutatis
 											maledictis,</span>
 										<span type="text">flammis acribus addictis,</span>
@@ -601,7 +603,7 @@
 										<span type="text">cor contritum quasi cinis,</span>
 										<span type="text">gere curam mei finis.</span>
 									</span>
-									<span to="623" from="573">
+									<span from="573" to="623">
 										<span n="dies-irae" type="text">Dies irae, dies illa</span>
 										<span type="text">solvet saeclum in favilla,</span>
 										<span type="text">teste David cum Sibylla.</span>
@@ -610,13 +612,13 @@
 								<item xml:id="verdi.requiem.2.lacrymosa">
 									<name>Lacrymosa</name>
 									<name type="secondary">Quartetto e Coro</name>
-									<span to="665" from="624">
+									<span from="624" to="665">
 										<span n="lacrymosa" type="text">Lacrymosa dies illa,</span>
 										<span type="text">qua resurget ex favilla,</span>
 										<span type="text">judicandus homo reus.</span>
 										<span type="text">Huic ergo parce, Deus,</span>
 									</span>
-									<span to="701" from="666">
+									<span from="666" to="701">
 										<span n="pie-jesu" type="text">pie Jesu Domine,</span>
 										<span n="dona-eis" type="text">dona eis requiem.
 											Amen.</span>
@@ -629,7 +631,7 @@
 							<name type="ordinal">No. 3</name>
 							<name type="secondary">Offertorio a 4 voci: Soprano, Mezzo-Soprano,
 								Tenore e Basso</name>
-							<span to="89" from="1">
+							<span from="1" to="89">
 								<span n="domine-jesu" type="text">Domine Jesu Christe, Rex
 									gloriae,</span>
 								<span type="text">libera animas omnium fidelium</span>
@@ -641,12 +643,12 @@
 								<span type="text">sed signifer sanctus Michael</span>
 								<span type="text">repraesentet eas in lucem sanctam:</span>
 							</span>
-							<span to="118" from="89">
+							<span from="89" to="118">
 								<span n="quam-olim-abrahae" type="text">quam olim Abrahae
 									promisisti</span>
 								<span type="text">et semini ejus.</span>
 							</span>
-							<span to="163" from="118">
+							<span from="118" to="163">
 								<span n="hostias" type="text">Hostias et preces tibi, Domine,
 									laudis</span>
 								<span type="text">offerimus: tu suscipe pro animabus illis</span>
@@ -654,12 +656,12 @@
 								<span type="text">Fac eas, Domine, de morte</span>
 								<span type="text">transire ad vitam.</span>
 							</span>
-							<span to="198" from="163">
+							<span from="163" to="198">
 								<span n="quam-olim-abrahae.r" type="text">Quam olim Abrahae
 									promisisti</span>
 								<span type="text">et semini ejus.</span>
 							</span>
-							<span to="222" from="198">
+							<span from="198" to="222">
 								<span n="libera-animas" type="text">Libera animas omnium
 									fidelium</span>
 								<span type="text">defunctorum de poenis inferni,</span>
@@ -670,13 +672,13 @@
 							<name>Sanctus</name>
 							<name type="ordinal">No. 4</name>
 							<name type="secondary">Fuga a due Cori</name>
-							<span to="139" from="1">
+							<span from="1" to="139">
 								<span n="sanctus" type="text">Sanctus, Sanctus, Sanctus</span>
 								<span type="text">Dominus, Deus Sabaoth.</span>
 								<span n="pleni" type="text">Pleni sunt coeli et terra gloria
 									tua.</span>
 								<span n="hosanna" type="text">Hosanna in excelsis.</span>
-								<span n="benedictus" from="41" type="text">Benedictus, qui venit in
+								<span from="41" n="benedictus" type="text">Benedictus, qui venit in
 									nomine Domini.</span>
 								<span n="hosanna.r" type="text">Hosanna in excelsis.</span>
 							</span>
@@ -685,7 +687,7 @@
 							<name>Agnus Dei</name>
 							<name type="ordinal">No. 5</name>
 							<name type="secondary">Soprano, Mezzo-Soprano e Coro</name>
-							<span to="74" from="1">
+							<span from="1" to="74">
 								<span type="text">Agnus Dei, qui tollis peccata mundi, dona eis
 									requiem.</span>
 								<span type="text">Agnus Dei, qui tollis peccata mundi, dona eis
@@ -696,7 +698,7 @@
 							<name>Lux aeterna</name>
 							<name type="ordinal">No. 6</name>
 							<name type="secondary">Mezzo-Soprano, Tenore e Basso</name>
-							<span to="105" from="1">
+							<span from="1" to="105">
 								<span n="lux-aeterna" type="text">Lux aeterna luceat eis,
 									Domine:</span>
 								<span type="text">Cum sanctis tuis in aeternum:</span>
@@ -710,7 +712,7 @@
 							<name>Libera me</name>
 							<name type="ordinal">No. 7</name>
 							<name type="secondary">Solo per Soprano. – Coro. – Fuga finale</name>
-							<span to="44" from="1">
+							<span from="1" to="44">
 								<span n="libera-me" type="text">Libera me, Domine, de morte
 									aeterna,</span>
 								<span type="text">in die illa tremenda,</span>
@@ -721,24 +723,24 @@
 								<span type="text">dum discussio venent atque Ventura ira;</span>
 								<span type="text">quando coeli movendi sunt et terra.</span>
 							</span>
-							<span to="131" from="45">
+							<span from="45" to="131">
 								<span n="dies-irae" type="text">Dies irae, dies illa,</span>
 								<span type="text">calamitatis et miseriae,</span>
 								<span type="text">dies magna et amara valde.</span>
 							</span>
-							<span to="170" from="132">
+							<span from="132" to="170">
 								<span n="requiem-aeternam" type="text">Requiem aeternam dona eis,
 									Domine,</span>
 								<span n="et-lux" type="text">et lux perpetua luceat eis.</span>
 							</span>
-							<span to="381" from="171">
+							<span from="171" to="381">
 								<span n="libera-me.fuga" type="text">Libera me, Domine, de morte
 									aeterna,</span>
 								<span type="text">in die illa tremenda,</span>
 								<span type="text">quando coeli movendi sunt et terra.</span>
 								<span type="text">Dum veneris judicare saeculum per ignem.</span>
 							</span>
-							<span to="421" n="domine" from="381">
+							<span from="381" n="domine" to="421">
 								<span type="text">Domine, Domine, Domine, libera, libera, libera
 									me</span>
 								<span type="text">de morte aeterna, in die illa tremenda,</span>
@@ -754,13 +756,13 @@
 				<head>Oratorien und Festspiele</head>
 				<item xml:id="beethoven.christus-am-oelberge">
 					<idno type="gnd">300015003</idno>
-					<name xml:lang="de" type="index">Christus am Ölberge</name>
+					<name type="index" xml:lang="de">Christus am Ölberge</name>
 					<desc>Geistlich / Oratorium</desc>
 					<persName ref="#beethoven.ludwig-van" role="composer"/>
 				</item>
 				<item xml:id="graun.der-tod-jesu">
 					<idno type="gnd">300061838</idno>
-					<name xml:lang="de" type="index">Der Tod Jesu</name>
+					<name type="index" xml:lang="de">Der Tod Jesu</name>
 					<desc>Geistlich / Oratorium</desc>
 					<persName ref="#graun.carl-heinrich" role="composer"/>
 				</item>
@@ -838,7 +840,7 @@
 				<item xml:id="auber.la-muette-de-portici">
 					<idno type="gnd">300003250</idno>
 					<name type="index">La Muette de Portici</name>
-					<name xml:lang="de" type="other">Die Stumme von Portici</name>
+					<name type="other" xml:lang="de">Die Stumme von Portici</name>
 					<desc>Oper / Französisch</desc>
 					<lang>Französisch</lang>
 					<persName ref="#auber.daniel-francois-esprit" role="composer"/>
@@ -887,8 +889,8 @@
 					<bibl type="de.wikipedia.org">Maria_di_Rohan</bibl>
 				</item>
 				<item xml:id="glinka.ein-leben-fuer-den-zaren">
-					<name xml:lang="de" type="index">Ein Leben für den Zaren</name>
-					<name xml:lang="ru" type="other">Жизнь за царя</name>
+					<name type="index" xml:lang="de">Ein Leben für den Zaren</name>
+					<name type="other" xml:lang="ru">Жизнь за царя</name>
 					<desc>Oper / Russisch</desc>
 					<lang>Russisch</lang>
 					<persName ref="#glinka.michael" role="composer"/>
@@ -932,7 +934,7 @@
 				<item xml:id="gounod.faust">
 					<idno type="gnd">300061099</idno>
 					<name type="index">Faust</name>
-					<name xml:lang="de" type="other">Margarete</name>
+					<name type="other" xml:lang="de">Margarete</name>
 					<desc>Oper / Französisch</desc>
 					<lang>Französisch</lang>
 					<persName ref="#gounod.charles" role="composer"/>
@@ -953,7 +955,7 @@
 				<item xml:id="meyerbeer.l-africaine">
 					<idno type="gnd">30010412X</idno>
 					<name type="index">L’Africaine</name>
-					<name xml:lang="de" type="other">Die Afrikanerin</name>
+					<name type="other" xml:lang="de">Die Afrikanerin</name>
 					<desc>Oper / Französisch</desc>
 					<lang>Französisch</lang>
 					<persName ref="#meyerbeer.giacomo" role="composer"/>
@@ -977,7 +979,7 @@
 				<item xml:id="meyerbeer.robert-le-diable">
 					<idno type="gnd">300205562</idno>
 					<name type="index">Robert le diable</name>
-					<name xml:lang="de" type="other">Robert der Teufel</name>
+					<name type="other" xml:lang="de">Robert der Teufel</name>
 					<desc>Oper / Französisch</desc>
 					<lang>Französisch</lang>
 					<persName ref="#meyerbeer.giacomo" role="composer"/>
@@ -1039,46 +1041,46 @@
 					<persName ref="#ponchielli.amilcare" role="composer"/>
 				</item>
 				<item xml:id="rossini.guillaume-tell">
-					<name xml:lang="fr" type="index">Guillaume Tell</name>
+					<name type="index" xml:lang="fr">Guillaume Tell</name>
 					<desc>Oper / Französisch</desc>
 					<lang>Französisch</lang>
 					<persName ref="#rossini.gioachino" role="composer"/>
 					<bibl type="de.wikipedia.org">Guillaume_Tell</bibl>
 				</item>
 				<item xml:id="rossini.il-barbiere-di-siviglia">
-					<name xml:lang="it" type="index">Il barbiere di Siviglia</name>
-					<name xml:lang="de" type="index">Der Barbier von Sevilla</name>
+					<name type="index" xml:lang="it">Il barbiere di Siviglia</name>
+					<name type="index" xml:lang="de">Der Barbier von Sevilla</name>
 					<desc>Oper / Italienisch</desc>
 					<lang>Italienisch</lang>
 					<persName ref="#rossini.gioachino" role="composer"/>
 					<bibl type="de.wikipedia.org">Der_Barbier_von_Sevilla</bibl>
 				</item>
 				<item xml:id="rossini.mose-in-egitto">
-					<name xml:lang="it" type="index">Mosè in Egitto</name>
-					<name xml:lang="de" type="index">Moses in Ägypten</name>
+					<name type="index" xml:lang="it">Mosè in Egitto</name>
+					<name type="index" xml:lang="de">Moses in Ägypten</name>
 					<desc>Oper / Italienisch</desc>
 					<lang>Italienisch</lang>
 					<persName ref="#rossini.gioachino" role="composer"/>
 					<bibl type="de.wikipedia.org">Moses_in_Ägypten</bibl>
 				</item>
 				<item xml:id="rossini.semiramide">
-					<name xml:lang="it" type="index">Semiramide</name>
-					<name xml:lang="de" type="other">Semiramis</name>
+					<name type="index" xml:lang="it">Semiramide</name>
+					<name type="other" xml:lang="de">Semiramis</name>
 					<desc>Oper / Italienisch</desc>
 					<lang>Italienisch</lang>
 					<persName ref="#rossini.gioachino" role="composer"/>
 					<bibl type="de.wikipedia.org">Semiramide</bibl>
 				</item>
 				<item xml:id="rossini.zelmira">
-					<name xml:lang="it" type="index">Zelmira</name>
-					<name xml:lang="de" type="other">Zelmira</name>
+					<name type="index" xml:lang="it">Zelmira</name>
+					<name type="other" xml:lang="de">Zelmira</name>
 					<desc>Oper / Italienisch</desc>
 					<lang>Italienisch</lang>
 					<persName ref="#rossini.gioachino" role="composer"/>
 					<bibl type="it.wikipedia.org">Zelmira</bibl>
 				</item>
 				<item xml:id="spohr.faust">
-					<name xml:lang="de" type="index">Faust</name>
+					<name type="index" xml:lang="de">Faust</name>
 					<desc>Oper / Deutsch</desc>
 					<lang>Deutsch</lang>
 					<persName ref="#spohr.louis" role="composer"/>
@@ -1154,9 +1156,9 @@
 					<bibl type="it.wikipedia.org">I_masnadieri</bibl>
 				</item>
 				<item xml:id="verdi.i-vespri-siciliani">
-					<name xml:lang="it" type="index">I vespri siciliani</name>
-					<name xml:lang="fr" type="other">Les vêpres siciliennes</name>
-					<name xml:lang="de" type="other">Die sizilianische Vesper</name>
+					<name type="index" xml:lang="it">I vespri siciliani</name>
+					<name type="other" xml:lang="fr">Les vêpres siciliennes</name>
+					<name type="other" xml:lang="de">Die sizilianische Vesper</name>
 					<desc>Oper / Italienisch</desc>
 					<lang>Italienisch</lang>
 					<persName ref="#verdi.giuseppe" role="composer"/>
@@ -1416,7 +1418,7 @@
 					<bibl type="de.wikipedia.org">4._Sinfonie_(Schumann)</bibl>
 				</item>
 				<item xml:id="schumann.manfred">
-					<name xml:lang="de" type="index">Ouvertüre zu „Manfred“</name>
+					<name type="index" xml:lang="de">Ouvertüre zu „Manfred“</name>
 					<name type="ordinal">op. 115</name>
 					<desc>Sinfonik / Ouvertüre</desc>
 					<persName ref="#schumann.robert" role="composer"/>
@@ -1632,7 +1634,7 @@
 				</item>
 				<item xml:id="beethoven.die-ruinen-von-athen">
 					<idno type="gnd">300218931</idno>
-					<name xml:lang="de" type="index">Die Ruinen von Athen</name>
+					<name type="index" xml:lang="de">Die Ruinen von Athen</name>
 					<desc>sonstige</desc>
 					<persName ref="#beethoven.ludwig-van" role="composer"/>
 				</item>

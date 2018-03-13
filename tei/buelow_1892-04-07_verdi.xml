@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Hans von Bülow, Brief an Giuseppe Verdi, Hamburg, 7. April 1892</title>
 				<author><persName ref="#buelow.hans-von"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/buelow_1892-04-07_brief-an-verdi.xml</p>
+				<p>http://verdi-requiem.de/text/buelow_1892-04-07_verdi.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>

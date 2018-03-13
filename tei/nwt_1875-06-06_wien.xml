@@ -1,117 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Neues Wiener Tagblatt, 6. Juni 1875</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>http://verdi-requiem.de/text/nwt_1875-06-06_von-gestern-und-morgen.xml</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <orgName ref="#neues-wiener-tagblatt" role="publisher"/>
-                    <placeName ref="#wien"/>
-                    <date when-custom="sun" when-iso="1875-06-06"/>
-                    <biblScope unit="issue">155</biblScope>
-                    <series>nwt</series>
-                    <biblScope unit="page">1–2</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation><placeName ref="#wien"/></creation>
-            <textClass>
-                <keywords>
-                    <term type="textType">Bericht</term>
-                    <term type="corpusGroup">Randtexte</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <encodingDesc>
-            <p>see http://verdi-requiem.de for a detailed description</p>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750606&amp;seite=1"/>
-        <graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750606&amp;seite=2"
-        />
-    </facsimile>
-    <text xml:lang="de">
-        <body rend="fraktur">
-            <pb break="null" n="1a" type="initial"/>
-            <head rend="larger">Von gestern und morgen.</head>
-            <p>In einer Zeit, in welcher die Schauspielhäuser immer mehr und mehr den Charakter
-                stiller Beschaulichkeit für den der lauten Belustigung eintauschen und sich
-                insoferne fast kirchenhaft anschauen, als sie ziemlich so leer sind, wie Kirchen
-                während der Theaterstunden zu sein pflegen; in einer Zeit, die so sehr zur
-                Zerknirschung des theatersündigen Bewußtseins neigt, daß Fräulein <hi
-                    rend="widespace"><persName ref="#ulke.anna">Ulke</persName></hi> selbst, um ihre
-                Volkssängersünden abzubüßen, den reuethätigen Entschluß gefaßt hat, zur Bühne zu
-                gehen, erscheint es als ein dem Momente wohl angepaßtes Unternehmen, statt des
-                weltlichen Gesanges die Klänge andächtiger Erbauung in den lustgemiedenen Räumen
-                emporbrausen zu lassen und dort, wo man seit Jahr und Tag so viel Abende des
-                Schreckens durchmacht, nunmehr den „Tag des Schreckens“ dem Gemüthe des Hörers
-                volltönend zur Ahnung zu bringen. Die Aufführung des <title ref="#verdi.requiem"
-                    >Requiems</title> von <hi rend="widespace"><persName ref="#verdi.giuseppe"
-                        >Verdi</persName></hi> in der <placeName ref="#wien.hof-operntheater"
-                    >Hofoper</placeName> kann daher nur als ein außerordentlich zeitgemäßer Gedanke
-                bezeichnet werden, wenngleich nicht in Abrede zu stellen ist, daß die praktische
-                Verlebendigung dieses Gedankens an dem Uebersehen eines, vielleicht nebensächlich
-                scheinenden, doch aber sehr entscheidenden Umstandes leidet.</p>
-            <p>Man kann’s als eine statistisch nachweisbare Thatsache annehmen und muß sich alles
-                Widerspruchs entschlagen, wenn die geistlichen Direktoren und Regisseure
-                triumphirend behaupten, daß sie ein unverhältnismäßig zahlreicheres Publikum haben,
-                als die weltlichen — nur einen Punkt pflegen sie dabei nicht in Anschlag zu bringen
-                und der gerade dünkt mir der entscheidende. In Kirchen und Bethäusern zahlen die
-                Leute, die etlichen grundbürgerlich angeschriebenen Kirchenstühle ausgenommen, kein
-                    Entr<hi rend="antiqua">é</hi>e, kein Logen- und Sperrsitzabonnement — wär’s
-                anders, nun, dann wäre es eben vielleicht anders. Würde einmal durch eine längere
-                Zeit das Experiment gemacht, entweder auch den Eintritt in die Kirche bezahlen zu
-                lassen oder auch das Theater-Entr<hi rend="antiqua">é</hi>e <cb break="yes" n="1b"
-                    type="regular"/> frei zu machen, wer weiß, wie dann die Ergebnisse der
-                beiderseitigen Besuchsstatistik ausfielen. Herr <persName ref="#jauner.franz-von"
-                    >Jauner</persName> nun scheint es mir darin versehen zu haben, daß er durch eine
-                kirchliche Aufführung dem Theater den Zuspruch verschaffen will, welchen die
-                Gratisbesucher der Kirche zuführen, daß er aber dabei die gewöhnlichen
-                Theatereintrittspreise noch erhöht. Wer aber den Zweck will, der muß auch die Mittel
-                wollen, wer das Theater zu einem musikalischen Andachtsübungsort umgestaltet, der
-                muß auch die Leute, wie sie’s von der Kirche her gewöhnt sind, umsonst hineingehen
-                lassen — das Experiment des bezahlten Kirchen-Entr<hi rend="antiqua">é</hi>es ist
-                bei den gottseligsten Bevölkerungen immer ein riskirtes. Zwar hat der
-                    Regenschori<note resp="tr" type="glossaryLink">lat. Chordirektor</note> der
-                Hofopernkirche diese Erhöhung der Eintrittspreise dadurch einigermaßen zu motiviren
-                gesucht, daß er den Zeitungen die offenbar dahin zielende Notiz zusenden ließ, es
-                seien, um die erbauliche Wirkung des weihevollen Gesanges nicht durch den Anblick
-                eines weltlich frivolen Chignons<note resp="tr" type="glossaryLink">Frz. Haarmode
-                    des 18. Jh., zuletzt in den 1860ern aktuell.</note> zu stören, auf Regiekosten
-                an die Choristinnen gleichfarbige Kopftüchel, schwarze nämlich, schleierartig zu
-                tragen, ausgetheilt worden, was natürlicher Weise nicht ohne Mehrauslagen abgeht,
-                die eben wieder hereingebracht werden müssen. Doch ist dabei nur zu wünschen, daß
-                das aus der Preiserhöhung zu gewärtigende Plus hinreichend genug ausfalle, die
-                Mehrkosten der Kopftüchelregie zu decken. Dafür aber hat in einer anderen
-                einschlägigen Notiz der offiziöse Stylist wieder ein überaus feinfühliges
-                Verständniß der Zeit und ihrer Richtung bekundet, indem er, von der leider nur allzu
-                begründeten Voraussetzung ausgehend, daß die Theaterdinge dem von ganz anderen
-                Sorgen in Anspruch genommenen Publikum vollständig aus dem Gedächtnisse entwichen
-                seien, es für nicht überflüssig erachtete, den Leuten zu erzählen, daß derselbe
-                Verdi, der das Requiem komponirt, auch einmal schon eine Oper Namens „<title
-                    ref="#verdi.ernani">Hernani</title>“ und eine anders unter dem Titel „<title
-                    ref="#verdi.il-trovatore">Der Troubadour</title>“ geschrieben habe, die beide
-                auch sogar schon in Wien aufgeführt worden seien. Wenn diese ebenso opportune <cb
-                    break="yes" n="1c" type="regular"/> wie leichtfaßliche Methode des populären
-                Unterrichts in der Musikgeschichte planmäßig fortgesetzt wird, muß es der
-                ungebildete Musiklaie in Wien bald erfahren und der zerstreuteste
-                Gedächtnisschwächling es bald wieder in Erinnerung gebracht haben, daß einmal ein
-                Tonsetzer, Namens <persName ref="#mozart.wolfgang-amadeus">Mozart</persName>, eine
-                Oper Namens „<title ref="#mozart.don-giovanni">Don Juan</title>“ geschrieben
-                hat.</p>
-            <pb break="null" n="2b" type="skipped"/>
-            <p rend="right"><persName ref="#schlesinger.sigmund">Si<choice>
-                        <orig>a</orig>
-                        <corr resp="tr">g</corr>
-                    </choice>m. <hi rend="widespace">Schlesinger</hi></persName>.</p>
-            <p/>
-        </body>
-    </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neues Wiener Tagblatt, 6. Juni 1875</title>
+				<principal>Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nwt_1875-06-06_von-gestern-und-morgen.xml</p>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neues-wiener-tagblatt" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="sun" when-iso="1875-06-06"/>
+					<biblScope unit="issue">155</biblScope>
+					<series>nwt</series>
+					<biblScope unit="page">1–2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Bericht</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750606&amp;seite=1"/>
+		<graphic url="http://anno.onb.ac.at/cgi-content/anno?aid=nwg&amp;datum=18750606&amp;seite=2"
+		/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<pb break="null" n="1a" type="initial"/>
+			<head rend="larger">Von gestern und morgen.</head>
+			<p>In einer Zeit, in welcher die Schauspielhäuser immer mehr und mehr den Charakter
+				stiller Beschaulichkeit für den der lauten Belustigung eintauschen und sich
+				insoferne fast kirchenhaft anschauen, als sie ziemlich so leer sind, wie Kirchen
+				während der Theaterstunden zu sein pflegen; in einer Zeit, die so sehr zur
+				Zerknirschung des theatersündigen Bewußtseins neigt, daß Fräulein <hi
+					rend="widespace"><persName ref="#ulke.anna">Ulke</persName></hi> selbst, um ihre
+				Volkssängersünden abzubüßen, den reuethätigen Entschluß gefaßt hat, zur Bühne zu
+				gehen, erscheint es als ein dem Momente wohl angepaßtes Unternehmen, statt des
+				weltlichen Gesanges die Klänge andächtiger Erbauung in den lustgemiedenen Räumen
+				emporbrausen zu lassen und dort, wo man seit Jahr und Tag so viel Abende des
+				Schreckens durchmacht, nunmehr den „Tag des Schreckens“ dem Gemüthe des Hörers
+				volltönend zur Ahnung zu bringen. Die Aufführung des <title ref="#verdi.requiem"
+					>Requiems</title> von <hi rend="widespace"><persName ref="#verdi.giuseppe"
+						>Verdi</persName></hi> in der <placeName ref="#wien.hof-operntheater"
+					>Hofoper</placeName> kann daher nur als ein außerordentlich zeitgemäßer Gedanke
+				bezeichnet werden, wenngleich nicht in Abrede zu stellen ist, daß die praktische
+				Verlebendigung dieses Gedankens an dem Uebersehen eines, vielleicht nebensächlich
+				scheinenden, doch aber sehr entscheidenden Umstandes leidet.</p>
+			<p>Man kann’s als eine statistisch nachweisbare Thatsache annehmen und muß sich alles
+				Widerspruchs entschlagen, wenn die geistlichen Direktoren und Regisseure
+				triumphirend behaupten, daß sie ein unverhältnismäßig zahlreicheres Publikum haben,
+				als die weltlichen — nur einen Punkt pflegen sie dabei nicht in Anschlag zu bringen
+				und der gerade dünkt mir der entscheidende. In Kirchen und Bethäusern zahlen die
+				Leute, die etlichen grundbürgerlich angeschriebenen Kirchenstühle ausgenommen, kein
+					Entr<hi rend="antiqua">é</hi>e, kein Logen- und Sperrsitzabonnement — wär’s
+				anders, nun, dann wäre es eben vielleicht anders. Würde einmal durch eine längere
+				Zeit das Experiment gemacht, entweder auch den Eintritt in die Kirche bezahlen zu
+				lassen oder auch das Theater-Entr<hi rend="antiqua">é</hi>e <cb break="yes" n="1b"
+					type="regular"/> frei zu machen, wer weiß, wie dann die Ergebnisse der
+				beiderseitigen Besuchsstatistik ausfielen. Herr <persName ref="#jauner.franz-von"
+					>Jauner</persName> nun scheint es mir darin versehen zu haben, daß er durch eine
+				kirchliche Aufführung dem Theater den Zuspruch verschaffen will, welchen die
+				Gratisbesucher der Kirche zuführen, daß er aber dabei die gewöhnlichen
+				Theatereintrittspreise noch erhöht. Wer aber den Zweck will, der muß auch die Mittel
+				wollen, wer das Theater zu einem musikalischen Andachtsübungsort umgestaltet, der
+				muß auch die Leute, wie sie’s von der Kirche her gewöhnt sind, umsonst hineingehen
+				lassen — das Experiment des bezahlten Kirchen-Entr<hi rend="antiqua">é</hi>es ist
+				bei den gottseligsten Bevölkerungen immer ein riskirtes. Zwar hat der <term
+					ref="#regenschori">Regenschori</term> der Hofopernkirche diese Erhöhung der
+				Eintrittspreise dadurch einigermaßen zu motiviren gesucht, daß er den Zeitungen die
+				offenbar dahin zielende Notiz zusenden ließ, es seien, um die erbauliche Wirkung des
+				weihevollen Gesanges nicht durch den Anblick eines weltlich frivolen <term
+					ref="#chignon">Chignons</term> zu stören, auf Regiekosten an die Choristinnen
+				gleichfarbige Kopftüchel, schwarze nämlich, schleierartig zu tragen, ausgetheilt
+				worden, was natürlicher Weise nicht ohne Mehrauslagen abgeht, die eben wieder
+				hereingebracht werden müssen. Doch ist dabei nur zu wünschen, daß das aus der
+				Preiserhöhung zu gewärtigende Plus hinreichend genug ausfalle, die Mehrkosten der
+				Kopftüchelregie zu decken. Dafür aber hat in einer anderen einschlägigen Notiz der
+				offiziöse Stylist wieder ein überaus feinfühliges Verständniß der Zeit und ihrer
+				Richtung bekundet, indem er, von der leider nur allzu begründeten Voraussetzung
+				ausgehend, daß die Theaterdinge dem von ganz anderen Sorgen in Anspruch genommenen
+				Publikum vollständig aus dem Gedächtnisse entwichen seien, es für nicht überflüssig
+				erachtete, den Leuten zu erzählen, daß derselbe Verdi, der das Requiem komponirt,
+				auch einmal schon eine Oper Namens „<title ref="#verdi.ernani">Hernani</title>“ und
+				eine anders unter dem Titel „<title ref="#verdi.il-trovatore">Der
+				Troubadour</title>“ geschrieben habe, die beide auch sogar schon in Wien aufgeführt
+				worden seien. Wenn diese ebenso opportune <cb break="yes" n="1c" type="regular"/>
+				wie leichtfaßliche Methode des populären Unterrichts in der Musikgeschichte
+				planmäßig fortgesetzt wird, muß es der ungebildete Musiklaie in Wien bald erfahren
+				und der zerstreuteste Gedächtnisschwächling es bald wieder in Erinnerung gebracht
+				haben, daß einmal ein Tonsetzer, Namens <persName ref="#mozart.wolfgang-amadeus"
+					>Mozart</persName>, eine Oper Namens „<title ref="#mozart.don-giovanni">Don
+					Juan</title>“ geschrieben hat.</p>
+			<pb break="null" n="2b" type="skipped"/>
+			<p rend="right"><persName ref="#schlesinger.sigmund">Si<choice>
+						<orig>a</orig>
+						<corr resp="tr">g</corr>
+					</choice>m. <hi rend="widespace">Schlesinger</hi></persName>.</p>
+			<p/>
+		</body>
+	</text>
 </TEI>

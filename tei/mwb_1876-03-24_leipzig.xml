@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>MWbl, Leipzig, 24. März 1876</title>
 				<author><persName ref="#kipke.carl"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/mwb_1876-03-24_leipzig.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -46,10 +48,10 @@
 			<pb facs="#f1" n="159"/>
 			<head rend="antiqua widespace larger">Tagesgeschichte.</head>
 			<head rend="lineale bold">Berichte.</head>
-			<p><hi rend="bold"><placeName ref="#leipzig">Leipzig</placeName>.</hi> Die Zahl der während der
-				letzten beiden Wochen stattgehabten Concerte, denen ich zum Zwecke nachheriger
-				Berichterstattung über dieselben anwohnte, beträgt nicht weniger als <emph
-					rend="widespace">sieben</emph> (die Zahl der <emph rend="widespace"
+			<p><hi rend="bold"><placeName ref="#leipzig">Leipzig</placeName>.</hi> Die Zahl der
+				während der letzten beiden Wochen stattgehabten Concerte, denen ich zum Zwecke
+				nachheriger Berichterstattung über dieselben anwohnte, beträgt nicht weniger als
+					<emph rend="widespace">sieben</emph> (die Zahl der <emph rend="widespace"
 					>überhaupt</emph> in jener Frist hier stattgefundenen beträgt dagegen ein volles
 				Dutzend. <rs ref="#leipzig.1876.1" type="event">Die weitaus bedeutsamste unter den
 					hier in Frage kommenden musikalischen Aufführungen war jedenfalls das 19.

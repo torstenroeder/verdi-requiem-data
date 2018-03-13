@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>NZfM, Leipzig, 1877</title>
 				<author><persName ref="#schrattenholz.josef"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1877_niederrheinisches-musikfest.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -48,7 +50,8 @@
 			<head>am <date when-iso="1877-05-20">20.</date>
 				<date when-iso="1877-05-21">21.</date> und <date when-iso="1877-05-22">22. Mai
 					1877</date></head>
-			<head rend="smaller">von <persName ref="#schrattenholz.josef">J. Schrattenholz</persName>.</head>
+			<head rend="smaller">von <persName ref="#schrattenholz.josef">J.
+					Schrattenholz</persName>.</head>
 			<p><persName ref="#haydn.joseph">Haydn’s</persName> „<title
 					ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“ und <persName
 					ref="#verdi.giuseppe">Verdi’s</persName>
@@ -59,7 +62,8 @@
 					ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“ wie über <persName
 					ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Requiem</title> äußerte <gap resp="tr"/></p>
-			<p>Für das <persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>’sche</persName>
+			<p>Für das <persName ref="#verdi.giuseppe"><hi rend="widespace"
+					>Verdi</hi>’sche</persName>
 				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> hat, irre ich
 				nicht, in <placeName ref="#deutschland">Deutschland</placeName> zuerst <persName
 					ref="#hiller.ferdinand">Hiller</persName> Propaganda gemacht und zwar mit einem
@@ -223,8 +227,8 @@
 				Felsen, so doch was vielleicht noch mehr) dem dürren Holze die belebendste
 				Geistesquelle zu entlocken, eine Eigenschaft, worin er von nicht vielen Zeitgenossen
 				übertroffen wird.</p>
-			<p>Ueberblicken wir nun den Totaleindruck alles Gebotenen und abstrahiren von der geschmacklosen
-				Zusammensetzung des Programmes, welches durch die dem <persName
+			<p>Ueberblicken wir nun den Totaleindruck alles Gebotenen und abstrahiren von der
+				geschmacklosen Zusammensetzung des Programmes, welches durch die dem <persName
 					ref="#verdi.giuseppe">Verdi’schen</persName>
 				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> vorausgehende
 					<title ref="#mozart.die-zauberfloete.ouvertuere">Ouverture zur

@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 19. Juni 1875</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nfp_1875-06-19_wien-jauner.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -51,10 +53,9 @@
 				Eigenthum und Aufführungsrecht dieser Composition für <placeName
 					ref="#oesterreich-ungarn">Oesterreich-Ungarn</placeName> zu erwerben. Es heißt,
 				daß die Direction der Oper gesonnen sei, das <title ref="#verdi.requiem"
-					>Requiem</title> nach Ablauf einiger Zeit, wahrscheinlich an den Normatagen<note
-					resp="tr" type="glossaryLink">Normatag, in Österreich-Ungarn ein großer Festtag,
-					an dem öffentliche Musik- und Theateraufführungen untersagt waren.</note>, mit
-				heimischen Solokräften zur Aufführung zu bringen.</p>
+					>Requiem</title> nach Ablauf einiger Zeit, wahrscheinlich an den <term
+					ref="#normatag">Normatagen</term>, mit heimischen Solokräften zur Aufführung zu
+				bringen.</p>
 		</body>
 	</text>
 </TEI>

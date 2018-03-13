@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 19. November 1875</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1875-11-19_graz.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -44,8 +46,8 @@
 			<head rend="bold">Aufführungen.</head>
 			<cb break="null" n="467b" type="skipped"/>
 			<p><rs ref="#graz.1875" type="event"><hi rend="widespace"><placeName ref="#graz"
-						>Graz</placeName></hi>. Am <date when-iso="1875-11-01">1.</date> und <date
-						when-iso="1875-11-02">2.</date>
+							>Graz</placeName></hi>. Am <date when-iso="1875-11-01">1.</date> und
+						<date when-iso="1875-11-02">2.</date>
 					<title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
 						>Verdi</persName> mit Frl. <persName ref="#groedinger.xxx"
 						>Grödinger</persName>, Frl. <persName ref="#haeckl.xxx">Häckl</persName>,

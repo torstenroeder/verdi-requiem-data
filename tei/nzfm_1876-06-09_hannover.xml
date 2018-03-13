@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 9. Juni 1876 [2]</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1876-06-09_hannover.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -44,10 +46,10 @@
 			<cb break="null" n="245b" type="skipped"/>
 			<head rend="bold">Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
 			<gap resp="tr"/>
-			<p rend="hanging"><rs ref="#hannover.1876.1" type="event"><persName ref="#verdi.giuseppe">Verdi,
-						G.</persName>, <hi rend="antiqua"><title ref="#verdi.requiem"
-							>Requiem</title></hi>. <placeName ref="#hannover">Hannover</placeName>,
-					wohlth. Concert.</rs></p>
+			<p rend="hanging"><rs ref="#hannover.1876.1" type="event"><persName
+						ref="#verdi.giuseppe">Verdi, G.</persName>, <hi rend="antiqua"><title
+							ref="#verdi.requiem">Requiem</title></hi>. <placeName ref="#hannover"
+						>Hannover</placeName>, wohlth. Concert.</rs></p>
 		</body>
 	</text>
 </TEI>

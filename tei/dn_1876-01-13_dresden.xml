@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Dresdner Nachrichten, 13. Januar 1876</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/dn_1876-01-13_feuilleton.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -82,13 +84,9 @@
 				eine Feinheit der Ausführung, welche auch unbedeutendere Begleitungsstellen zu einem
 				wahren Kunstgenuß erhebt. Die Solisten waren am zweiten Abend sämmtlich besser
 				disponirt, auch Herr <hi rend="widespace"><persName ref="#erl.anton"
-					>Erl</persName></hi> sang diesmal die Tenorsoli mit gewinnender zarter
-					Tonvolubilität<note resp="tr" type="glossaryLink">Seltener Ausdruck aus der
-					Gesangsphysiologie, vgl. z.B. <ref
-						target="https://archive.org/stream/bub_gb_ykp5MS0uynEC#page/n196/mode/1up"
-						type="text">Homöopathische Vierteljahrschrift, Bd. 9, Leipzig 1858, S.
-						183.</ref></note>, in den figurirten Sätzen derart, daß ihm Wenige
-				nachzukommen vermögen. Was Frau <hi rend="widespace"><persName
+					>Erl</persName></hi> sang diesmal die Tenorsoli mit gewinnender zarter <term
+					ref="#tonvolubilitaet">Tonvolubilität</term>, in den figurirten Sätzen derart,
+				daß ihm Wenige nachzukommen vermögen. Was Frau <hi rend="widespace"><persName
 						ref="#schuch-proska.clementine">Schuch</persName></hi> an Quantität der
 				Stimme etwa weniger besitzt als Andere, ersetzt sie durch wunderschöne
 				Tonbehandlung, durch absolute Reinheit und Sicherheit. Frl. <hi rend="widespace"

@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 3. März 1876 [2]</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1876-03-03_salzburg-und-koeln.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -44,12 +46,12 @@
 			<pb break="null" n="105" type="skipped"/>
 			<head rend="bold">Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
 			<gap resp="tr"/>
-			<p rend="noIndent"><rs ref="#salzburg.1876.1" type="event"><persName ref="#verdi.giuseppe">Verdi,
-						G.</persName>, <title ref="#verdi.requiem">Requiem</title>. <placeName
-						ref="#salzburg">Salzburg</placeName>, durch den <orgName
-						ref="#salzburg.dommusikverein">Dommusikverein</orgName>.</rs></p>
-			<p rend="noIndent">—— desgl. <rs ref="#koeln.1875.2" type="event"><placeName ref="#koeln"
-						>Cöln</placeName>, 8. Gürzenichconcert.</rs></p>
+			<p rend="noIndent"><rs ref="#salzburg.1876.1" type="event"><persName
+						ref="#verdi.giuseppe">Verdi, G.</persName>, <title ref="#verdi.requiem"
+						>Requiem</title>. <placeName ref="#salzburg">Salzburg</placeName>, durch den
+						<orgName ref="#salzburg.dommusikverein">Dommusikverein</orgName>.</rs></p>
+			<p rend="noIndent">—— desgl. <rs ref="#koeln.1875.2" type="event"><placeName
+						ref="#koeln">Cöln</placeName>, 8. Gürzenichconcert.</rs></p>
 		</body>
 	</text>
 </TEI>

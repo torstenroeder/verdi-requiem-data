@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 27. November 1875</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/tms_1875-11-27_komite.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -35,7 +37,6 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<!--*TODO markup -->
 			<cb n="3c"/>
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>

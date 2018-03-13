@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Signale, Leipzig, Juni 1875/32</title>
 				<author><persName ref="#akronym.p"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/signale_1875-06_32_verdis-manzoni-requiem.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -46,8 +48,8 @@
 		<body rend="fraktur">
 			<head rend="larger bold"><persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<title ref="#verdi.requiem">Manzoni-Requiem</title>.</head>
-			<head rend="smaller"><rs ref="#wien.1875.1" type="event">Erste Wiener Aufführung im <placeName
-						ref="#wien.hof-operntheater">Hofopernhause</placeName> am <date
+			<head rend="smaller"><rs ref="#wien.1875.1" type="event">Erste Wiener Aufführung im
+						<placeName ref="#wien.hof-operntheater">Hofopernhause</placeName> am <date
 						when-iso="1875-06-11">11. Juni 1875</date>.</rs></head>
 			<p><rs ref="#mailand.1874.1" type="event">Am <date when-iso="1874-05-24">24. Mai
 						verflossenen Jahres</date> war es, daß <persName ref="#verdi.giuseppe"
@@ -152,9 +154,9 @@
 					>Verdi</persName> selbst war von seiner Aufnahme entzückt und versprach bald
 				wiederzukommen und dann ein neues Werk mitzubringen. Im Voraus sei ihm ein
 				Hochwillkommen zugerufen!</p>
-			<p><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date when-iso="1875-06-13"
-					>13. Juni 1875</date>. <space type="flexible"/><persName ref="#akronym.p">
-					P.</persName></p>
+			<p><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date
+					when-iso="1875-06-13">13. Juni 1875</date>. <space type="flexible"/><persName
+					ref="#akronym.p"> P.</persName></p>
 		</body>
 	</text>
 </TEI>

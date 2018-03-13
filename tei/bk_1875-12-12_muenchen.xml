@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Bayerischer Kurier, München, 12. Dezember 1875</title>
 				<author><persName ref="#akronym.r"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/bk_1875-12-12_muenchen.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -130,13 +132,9 @@
 				</choice> Arbeit eines tüchtigen und gewandten Contrapunktisten zu schätzen. Zudem
 				bietet das etwas lange Thema reichen Stoff, den <persName ref="#verdi.giuseppe"
 					>Verdi</persName> mit großer Klarheit zur Durchführung bringt; wenn wir etwas
-				gegen die Fuge erinnern wollten, so gäbe eine angewendete Rosalie<note resp="tr"
-					type="glossaryLink">Rosalie: Abwertender Begriff für eine aufsteigende
-					Sequenzierung eines Melodieabschnittes; die Bezeichnung geht auf das
-					italienische Volkslied »Rosalia mia cara« zurück (vgl. <ref
-						target="https://de.wikipedia.org/wiki/Rosalie_(Musik)" type="text"
-						>de.wikipedia.org)</ref>.</note> Gelegenheit, die aber so gut klingt, daß
-				sie immerhin passiren mag.</p>
+				gegen die Fuge erinnern wollten, so gäbe eine angewendete <term ref="#rosalie"
+					>Rosalie</term> Gelegenheit, die aber so gut klingt, daß sie immerhin passiren
+				mag.</p>
 			<p>Zur Ausführung dieser großartigen Composition in der wir vornehmlich den Zweck, die
 				Ausmalung des noch poetischen Textes der Todtenmesse erkennen, gehören immerhin
 				bedeutende Mittel und sie stellt an die Solisten hohe Ansprüche, welche einen

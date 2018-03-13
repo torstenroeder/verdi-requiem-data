@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 29. Oktober 1875</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1875-10-29_frankreich.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -42,8 +44,8 @@
 			<pb break="null" n="436" type="initial"/>
 			<head rend="larger">Vermischtes.</head>
 			<gap resp="tr"/>
-			<p>In <placeName ref="#frankreich">Frankreich</placeName> ist eine artistische Rundreise im
-				Werke, welche den Zweck hat, <persName ref="#verdi.giuseppe">Verdi’s</persName>
+			<p>In <placeName ref="#frankreich">Frankreich</placeName> ist eine artistische Rundreise
+				im Werke, welche den Zweck hat, <persName ref="#verdi.giuseppe">Verdi’s</persName>
 				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> in den
 				französischen Provinzen und in <rs
 					ref="#antwerpen.1875 bruessel.1875 luettich.1875 gent.1875" type="event"

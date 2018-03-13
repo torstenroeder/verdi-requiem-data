@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neues Wiener Tagblatt, 5. Juni 1875</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nwt_1875-06-05_verdi.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -75,12 +77,8 @@
 				das Wiener Publikum auf den Messetarif unserer Opernverwaltung eingehe, ja nach den
 				bisherigen Resultaten der Vormerkungen — und große Theaterereignisse pflegen in der
 				Regel ihr Vormerkungen vorauszuwerfen — scheint die Fluth der Billetbewerber nicht
-				gewaltig genug hereinbrechen zu wollen, um auch noch für die Agiotage<note resp="tr"
-					type="glossaryLink">Agiotage: Spekulationsgeschäft an der Börse, auch bezogen
-					auf Eintrittskarten, vgl. <ref
-						target="https://www.duden.de/node/687618/revisions/1077804/view" type="text"
-						>Duden online</ref></note> genug Wasser zum Schwimmen und Fischen zu haben.
-				. . . .</p>
+				gewaltig genug hereinbrechen zu wollen, um auch noch für die <term ref="#agiotage"
+					>Agiotage</term> genug Wasser zum Schwimmen und Fischen zu haben. . . . .</p>
 		</body>
 	</text>
 </TEI>

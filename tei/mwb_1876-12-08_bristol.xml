@@ -1,55 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MWbl, Leipzig, 8. Dezember 1876</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>http://verdi-requiem.de/text/mwb_1876-12-08_bristol.xml</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <orgName ref="#mwb" role="publisher"/>
-                    <placeName ref="#leipzig"/>
-                    <date when-iso="1876-12-08"/>
-                    <biblScope unit="issue">52</biblScope>
-                    <biblScope unit="volume">7</biblScope>
-                    <series>mwb</series>
-                    <biblScope unit="page">713</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation><placeName ref="#bristol"/><date when-iso="1876-07"/></creation>
-            <textClass>
-                <keywords>
-                    <term type="textType">Nachmeldung</term>
-                    <term type="corpusGroup">Aufführungsgeschichte</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <encodingDesc>
-            <p>see http://verdi-requiem.de for a detailed description</p>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic n="mwb_1876-12-08_712.jpg"
-            url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18761208&amp;seite=8"
-            xml:id="f0"/>
-        <graphic n="mwb_1876-12-08_713.jpg"
-            url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18761208&amp;seite=9"
-            xml:id="f1"/>
-    </facsimile>
-    <text xml:lang="de">
-        <body rend="antiqua">
-            <pb n="712" type="initial"/>
-            <head rend="lineale bold">Aufgeführte Novitäten.</head>
-            <pb break="null" facs="#f1" n="713" type="skipped"/>
-            <p rend="hanging"><persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>
-                    (G.)</persName>, <title ref="#verdi.requiem">Requiem</title>. (<rs
-                    ref="#bristol.1876" type="event"><placeName ref="#bristol">Bristol</placeName>,
-                    Musikfest.</rs>)</p>
-        </body>
-    </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>MWbl, Leipzig, 8. Dezember 1876</title>
+				<principal>Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/mwb_1876-12-08_bristol.xml</p>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#mwb" role="publisher"/>
+					<placeName ref="#leipzig"/>
+					<date when-iso="1876-12-08"/>
+					<biblScope unit="issue">52</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<series>mwb</series>
+					<biblScope unit="page">713</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#bristol"/><date when-iso="1876-07"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Nachmeldung</term>
+					<term type="corpusGroup">Aufführungsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="mwb_1876-12-08_712.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18761208&amp;seite=8"
+			xml:id="f0"/>
+		<graphic n="mwb_1876-12-08_713.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=muw&amp;datum=18761208&amp;seite=9"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<pb n="712" type="initial"/>
+			<head rend="lineale bold">Aufgeführte Novitäten.</head>
+			<pb break="null" facs="#f1" n="713" type="skipped"/>
+			<p rend="hanging"><persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>
+					(G.)</persName>, <title ref="#verdi.requiem">Requiem</title>. (<rs
+					ref="#bristol.1876" type="event"><placeName ref="#bristol">Bristol</placeName>,
+					Musikfest.</rs>)</p>
+		</body>
+	</text>
 </TEI>

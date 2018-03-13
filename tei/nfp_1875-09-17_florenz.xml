@@ -1,89 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Neue Freie Presse, Wien, 17. September 1875</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>http://verdi-requiem.de/text/nfp_1875-09-17_florenz.xml</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <orgName ref="#neue-freie-presse" role="publisher"/>
-                    <placeName ref="#wien"/>
-                    <date when-custom="fri" when-iso="1875-09-17"/>
-                    <biblScope unit="issue">3974</biblScope>
-                    <biblScope unit="subIssue">3974</biblScope>
-                    <series>nfp</series>
-                    <biblScope unit="page">2</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation><placeName ref="#florenz"/></creation>
-            <textClass>
-                <keywords>
-                    <term type="textType">Kurzbericht</term>
-                    <term type="corpusGroup">Rezeptionsgeschichte</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <encodingDesc>
-            <p>see http://verdi-requiem.de for a detailed description</p>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic n="nfp_1875-09-17_2.jpg"
-            url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750917&amp;seite=12"
-            xml:id="f1"/>
-    </facsimile>
-    <text xml:lang="de">
-        <body rend="fraktur">
-            <p>[Ein Schreiben <persName ref="#verdi.giuseppe">Verdi’s</persName>.] Der Compositeur
-                der <title ref="#verdi.requiem">Manzoni-Messe</title> hat mit seiner ablehnenden
-                Antwort, zur Michel-Angelo-Feier in <placeName ref="#florenz">Florenz</placeName>
-                persönlich mitzuwirken, in einem Wespenneste gestöbert. Sein Freund und Verleger
-                    <persName cert="high" ref="#ricordi.tito">Ricordi</persName> glaubt auf die
-                schmerzhaften Stichwunden, die Maestro <persName ref="#verdi.giuseppe"
-                    >Verdi</persName> seither zu erleiden hat, Balsam zu träufeln, indem er von
-                diesem einen Brief älteren Datums, und zwar aus dem Jahre <date when-iso="1868"
-                    >1868</date> reproducirt, der also stylisirt ist:</p>
-            <p rend="right"><hi rend="widespace"><placeName ref="#sant-agata"
-                    >Sant’Agata</placeName></hi>, <date when-iso="1868-11-17">17. November
-                    1868</date></p>
-            <p>Theuerster <persName cert="high" ref="#ricordi.tito">Ricordi</persName>! Ich möchte,
-                daß zur Ehrenfeier <persName ref="#rossini.gioachino">Rossini’s</persName> die
-                ausgezeichnetsten italienischen Meister, <persName ref="#mercadante.saverio"
-                    >Mercadante</persName> obenan, ein Requiem componiren würden, das am Jahrestage
-                seines Ablebens aufzuführen wäre. Ich wünschte, daß nicht allein die Componisten,
-                sondern auch alle ausführenden Künstler außer ihrer Mitwirkung noch den Obulus, alle
-                Kosten aus Eigenem zu bestreiten, bieten würden. Ich möchte und wünschte ferners,
-                daß keine fremde Hand, die — und sei sie auch sonst noch so mächtig — mit der Kunst
-                nichts zu schaffen hat, ihre Mithilfe reichen dürfte; im andern Falle würde ich mich
-                sofort zurückziehen. Die Messe mußte in <placeName ref="#bologna.san-petronio">San
-                    Petronio</placeName> der Stadt <placeName ref="#bologna">Bologna</placeName>,
-                welche die eigentliche musikalische Heimat <persName ref="#rossini.gioachino"
-                    >Rossini’s</persName> war, aufgeführt werden. Diese Messe dürfte nicht
-                Gegenstand des Neugierigen- oder Populations-Interesses sein; kaum aufgeführt, müßte
-                sie versiegelt und in den Archiven des musikalischen Lyceums dieser Stadt hinterlegt
-                und daraus nicht hervorgeholt werden. Eine Ausnahme könnte allenfalls für die
-                Jahresfeste, sofern solche für <persName ref="#rossini.gioachino">Rossini</persName>
-                von Seite der Nachkommen stattfänden, gemacht werden. Wenn ich mich der Huld des
-                Heiligen Vaters erfreuen würde, so möchte ich ihn bitten, wenigstens für dieses
-                einzigemal zu gestatten, daß die Frauen bei der Aufführung dieses Musikwerkes
-                mitwirken dürften: wäre ich nicht so begnadet, so müßte eine andere beliebtere
-                Persönlichkeit, um dieses zu erreichen, gefunden werde<supplied resp="tr"
-                    >n</supplied>. Es wäre gut, eine Commission von verständigen Männern
-                einzusetzen, welche den Gang der Durchführung zu regeln und vor Allem die
-                Compsiteure auszuwählen, die Vertheilung der einzelnen Musikstücke zu leiten und
-                über der Generalform der Arbeit zu wachen hätten. Dieser Composition wird, wie
-                vortrefflich auch einzelne Partien sein mögen, nothwendigerweise die musikalische
-                Einheit fehlen; abgesehen von diesem Fehler wird sie aber den Beweis liefern, wie
-                groß und stark in uns Allen die Verehrung für den Mann ist, dessen Verlust die ganze
-                Welt beweint.</p>
-            <p rend="right"><persName ref="#verdi.giuseppe">G. <hi rend="widespace"
-                    >Verdi</hi></persName>.</p>
-        </body>
-    </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Neue Freie Presse, Wien, 17. September 1875</title>
+				<principal>Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/nfp_1875-09-17_florenz.xml</p>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#neue-freie-presse" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-custom="fri" when-iso="1875-09-17"/>
+					<biblScope unit="issue">3974</biblScope>
+					<biblScope unit="subIssue">3974</biblScope>
+					<series>nfp</series>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#florenz"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Kurzbericht</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="nfp_1875-09-17_2.jpg"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750917&amp;seite=12"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<p>[Ein Schreiben <persName ref="#verdi.giuseppe">Verdi’s</persName>.] Der Compositeur
+				der <title ref="#verdi.requiem">Manzoni-Messe</title> hat mit seiner ablehnenden
+				Antwort, zur Michel-Angelo-Feier in <placeName ref="#florenz">Florenz</placeName>
+				persönlich mitzuwirken, in einem Wespenneste gestöbert. Sein Freund und Verleger
+					<persName cert="high" ref="#ricordi.tito">Ricordi</persName> glaubt auf die
+				schmerzhaften Stichwunden, die Maestro <persName ref="#verdi.giuseppe"
+					>Verdi</persName> seither zu erleiden hat, Balsam zu träufeln, indem er von
+				diesem einen Brief älteren Datums, und zwar aus dem Jahre <date when-iso="1868"
+					>1868</date> reproducirt, der also stylisirt ist:</p>
+			<p rend="right"><hi rend="widespace"><placeName ref="#sant-agata"
+					>Sant’Agata</placeName></hi>, <date when-iso="1868-11-17">17. November
+					1868</date></p>
+			<p>Theuerster <persName cert="high" ref="#ricordi.tito">Ricordi</persName>! Ich möchte,
+				daß zur Ehrenfeier <persName ref="#rossini.gioachino">Rossini’s</persName> die
+				ausgezeichnetsten italienischen Meister, <persName ref="#mercadante.saverio"
+					>Mercadante</persName> obenan, ein Requiem componiren würden, das am Jahrestage
+				seines Ablebens aufzuführen wäre. Ich wünschte, daß nicht allein die Componisten,
+				sondern auch alle ausführenden Künstler außer ihrer Mitwirkung noch den Obulus, alle
+				Kosten aus Eigenem zu bestreiten, bieten würden. Ich möchte und wünschte ferners,
+				daß keine fremde Hand, die — und sei sie auch sonst noch so mächtig — mit der Kunst
+				nichts zu schaffen hat, ihre Mithilfe reichen dürfte; im andern Falle würde ich mich
+				sofort zurückziehen. Die Messe mußte in <placeName ref="#bologna.san-petronio">San
+					Petronio</placeName> der Stadt <placeName ref="#bologna">Bologna</placeName>,
+				welche die eigentliche musikalische Heimat <persName ref="#rossini.gioachino"
+					>Rossini’s</persName> war, aufgeführt werden. Diese Messe dürfte nicht
+				Gegenstand des Neugierigen- oder Populations-Interesses sein; kaum aufgeführt, müßte
+				sie versiegelt und in den Archiven des musikalischen Lyceums dieser Stadt hinterlegt
+				und daraus nicht hervorgeholt werden. Eine Ausnahme könnte allenfalls für die
+				Jahresfeste, sofern solche für <persName ref="#rossini.gioachino">Rossini</persName>
+				von Seite der Nachkommen stattfänden, gemacht werden. Wenn ich mich der Huld des
+				Heiligen Vaters erfreuen würde, so möchte ich ihn bitten, wenigstens für dieses
+				einzigemal zu gestatten, daß die Frauen bei der Aufführung dieses Musikwerkes
+				mitwirken dürften: wäre ich nicht so begnadet, so müßte eine andere beliebtere
+				Persönlichkeit, um dieses zu erreichen, gefunden werde<supplied resp="tr"
+					>n</supplied>. Es wäre gut, eine Commission von verständigen Männern
+				einzusetzen, welche den Gang der Durchführung zu regeln und vor Allem die
+				Compsiteure auszuwählen, die Vertheilung der einzelnen Musikstücke zu leiten und
+				über der Generalform der Arbeit zu wachen hätten. Dieser Composition wird, wie
+				vortrefflich auch einzelne Partien sein mögen, nothwendigerweise die musikalische
+				Einheit fehlen; abgesehen von diesem Fehler wird sie aber den Beweis liefern, wie
+				groß und stark in uns Allen die Verehrung für den Mann ist, dessen Verlust die ganze
+				Welt beweint.</p>
+			<p rend="right"><persName ref="#verdi.giuseppe">G. <hi rend="widespace"
+					>Verdi</hi></persName>.</p>
+		</body>
+	</text>
 </TEI>

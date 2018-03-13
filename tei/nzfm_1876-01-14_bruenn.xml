@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 14. Januar 1876 [2]</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nzfm_1876-01-14_bruenn.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -55,8 +57,8 @@
 								<orig>Auriel</orig>
 								<corr resp="tr">Curiel</corr>
 							</choice></persName></hi> und <hi rend="widespace"><persName
-							ref="#krejci.friedrich">Krejczy</persName></hi>. Die vorl. Bl. sind
-				voll Lobes über die in jeder Beziehung glänzende Aufführung.</rs> — <rs
+							ref="#krejci.friedrich">Krejczy</persName></hi>. Die vorl. Bl. sind voll
+					Lobes über die in jeder Beziehung glänzende Aufführung.</rs> — <rs
 					ref="#bruenn.1876.2" type="event">Am <date when-iso="1876-01-06">6.</date>
 					Wiederholung des <hi rend="antiqua"><title ref="#verdi.requiem"
 						>Requiems</title></hi> von <hi rend="widespace"><persName

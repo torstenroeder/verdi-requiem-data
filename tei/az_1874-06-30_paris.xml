@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Allgemeine Zeitung, Augsburg, 30. Juni 1874</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/az_1874-06-30_pariser-chronik.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -41,11 +43,11 @@
 				<title ref="#verdi.requiem">Requiem-Messe</title> für Manzoni in der komischen Oper.
 				Das Werk und der Enthusiasmus. Die italienischen Künstler. — Ein Project für
 					<persName ref="#verdi.giuseppe">Verdi’s</persName> Muse.</p>
-			<p><hi rend="bold"><g type="SAGITTARIUS" n="2650">♐</g>
+			<p><hi rend="bold"><g n="2650" type="SAGITTARIUS">♐</g>
 					<hi rend="widespace"><placeName ref="#paris">Paris</placeName></hi>,</hi>
 				<date when-iso="1874-06-23">23 Juni</date>. <cb break="null" n="2818b"
 					type="skipped"/></p>
-			<p><rs type="event" ref="#paris.1874">Des Meisters <persName ref="#verdi.giuseppe"
+			<p><rs ref="#paris.1874" type="event">Des Meisters <persName ref="#verdi.giuseppe"
 						>Giuseppe Verdi</persName> „<title ref="#verdi.requiem">Todtenmesse</title>
 					zum Andenken an <persName ref="#manzoni.alessandro">Manzoni</persName>“ ist im
 					Hause der <placeName ref="#paris.opera-comique">Komischen Oper</placeName> — der
@@ -134,7 +136,7 @@
 				Pause, ohne Einhalt springt ein hochgehaltener Satz ins Triviale über, endet eine
 				ergreifende Phrase mit einer Tanzmelodie, die mit dem Todtenamte doch gewiß nichts
 				zu schaffen hat. Der Beginn <hi rend="antiqua">piano</hi> in schönem Rhythmus hat
-				nichts markantes bis zum <title ref="#verdi.requiem.1" n="kyrie">Quartett mit
+				nichts markantes bis zum <title n="kyrie" ref="#verdi.requiem.1">Quartett mit
 					Chor</title>, das durch die herrlichen Solistinnen einen großen Eindruck
 				machte.</p>
 			<p><hi rend="antiqua">„<title ref="#verdi.requiem.2">Dies irae</title>“</hi> wird von

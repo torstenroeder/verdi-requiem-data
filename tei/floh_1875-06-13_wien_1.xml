@@ -1,50 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Der Floh, Wien, 13. Juni 1875 [1]</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>http://verdi-requiem.de/text/floh_1875-06-13_giuseppe-verdi-1.xml</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <orgName ref="#der-floh" role="publisher"/>
-                    <placeName ref="#wien"/>
-                    <date when-iso="1875-06-13"/>
-                    <biblScope unit="issue">24</biblScope>
-                    <biblScope unit="volume">7</biblScope>
-                    <series>der-floh</series>
-                    <biblScope unit="page">1</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation><placeName ref="#wien"/></creation>
-            <textClass>
-                <keywords>
-                    <term type="textType">Satire</term>
-                    <term type="corpusGroup">Randtexte</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <encodingDesc>
-            <p>see http://verdi-requiem.de for a detailed description</p>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic n="floh_1875-06-13_1.png"
-            url="http://anno.onb.ac.at/cgi-content/anno?aid=flo&amp;datum=18750613&amp;seite=1"
-            xml:id="f1"/>
-    </facsimile>
-    <text xml:lang="de">
-        <body rend="antiqua">
-            <pb facs="#f1" n="1"/>
-            <head rend="larger"><persName ref="#verdi.giuseppe">Giuseppe Verdi</persName></head>
-            <p rend="center"><graphic url="floh_1875-06-13_1.png">
-                    <desc>Giuseppe Verdi</desc>
-                </graphic></p>
-        </body>
-    </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Der Floh, Wien, 13. Juni 1875 [1]</title>
+				<principal>Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/floh_1875-06-13_giuseppe-verdi-1.xml</p>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#der-floh" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-13"/>
+					<biblScope unit="issue">24</biblScope>
+					<biblScope unit="volume">7</biblScope>
+					<series>der-floh</series>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Satire</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="floh_1875-06-13_1.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=flo&amp;datum=18750613&amp;seite=1"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="antiqua">
+			<pb facs="#f1" n="1"/>
+			<head rend="larger"><persName ref="#verdi.giuseppe">Giuseppe Verdi</persName></head>
+			<p rend="center"><graphic url="floh_1875-06-13_1.png">
+					<desc>Giuseppe Verdi</desc>
+				</graphic></p>
+		</body>
+	</text>
 </TEI>

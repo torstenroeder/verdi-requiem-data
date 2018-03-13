@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neueste Nachrichten, München, 26. März 1876</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/nn_1876-03-26_verdis-requiem.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -16,8 +18,6 @@
 					<biblScope unit="issue">86/87</biblScope>
 					<series>nn</series>
 					<biblScope unit="page">2–3</biblScope>
-					<!--<graphic n="nn_1876-03-26_2.jpg"/>-->
-					<!--<graphic n="nn_1876-03-26_3.jpg"/>-->
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -34,6 +34,8 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--<graphic n="nn_1876-03-26_2.jpg"/>-->
+	<!--<graphic n="nn_1876-03-26_3.jpg"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<p><hi rend="bold">(<persName ref="#verdi.giuseppe">Verdi’s</persName>

@@ -1,98 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Die Bombe, Wien, 27. Juni 1875</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>http://verdi-requiem.de/text/bombe_1875-06-27_verdi-im-conservatorium.xml</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <orgName ref="#die-bombe" role="publisher"/>
-                    <placeName ref="#wien"/>
-                    <date when-iso="1875-06-27"/>
-                    <biblScope unit="issue">25</biblScope>
-                    <biblScope unit="volume">5</biblScope>
-                    <series>bombe</series>
-                    <biblScope unit="page">102</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation><placeName ref="#wien"/></creation>
-            <textClass>
-                <keywords>
-                    <term type="textType">Satire</term>
-                    <term type="corpusGroup">Randtexte</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <encodingDesc>
-            <p>see http://verdi-requiem.de for a detailed description</p>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic n="bombe_1875-06-27_102.png"
-            url="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750627&amp;seite=2"
-            xml:id="f1"/>
-    </facsimile>
-    <text xml:lang="de">
-        <body rend="fraktur">
-            <cb facs="#f1" n="102c"/>
-            <head rend="antiqua larger"><persName ref="#verdi.giuseppe">Verdi</persName> im
-                    <placeName ref="#wien.konservatorium">Conservatorium</placeName>.</head>
-            <p><hi rend="bold"><persName ref="#hellmesberger.josef">Hellmesberger</persName>.</hi>
-                Wie gefällt Ihnen unsere Orgel?</p>
-            <p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Ein
-                vorzügliches Instrument, das auf mich einen merkwürdigen Eindruck machte. Denn
-                gerade der Umstand, daß es eben so schülerhaft behandelt wurde, erinnerte mich
-                lebhaft an meine Kinderjahre, damals habe ich wahrscheinlich eben so falsch gespielt
-                wie der junge Mann da oben; wie heißt denn der Knabe?</p>
-            <p><hi rend="bold"><persName ref="#hellmesberger.josef">Hellmesberger</persName>.</hi>
-                Pardon, Ma<hi rend="antiqua">ë</hi>stro, der da oben die Orgel spielte, ist kein
-                Knabe, sondern unser erster Organist Professor <persName
-                    ref="#zellner.leopold-alexander">Zellner</persName>.</p>
-            <p rend="center">***</p>
-            <p><hi rend="bold"><persName ref="#door.anton">Door</persName>.</hi> Wie hat mich Ihr
-                    <title ref="#verdi.requiem">Requiem</title> entzückt! Freilich that die
-                Aufführung im Theater der echten religiösen Wirkung doch einigen Eintrag.</p>
-            <p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Ich achte Ihr
-                katholisches Gefühl, mein Herr; aber ich bin mit dem, was mir das Requiem in der
-                Oper eingetragen, ganz zufrieden.</p>
-            <p><hi rend="bold"><persName ref="#door.anton">Door</persName>.</hi> Nur noch eine
-                Frage, großer Meister. Ist es wahr, daß Sie das <hi rend="widespace"><title
-                        ref="#verdi.requiem.2.recordare">Riccordare</title></hi> im <title
-                    ref="#verdi.requiem">Requiem</title> Ihrem Verleger <persName cert="high"
-                    ref="#ricordi.tito">Ricordi</persName> so getauft haben?</p>
-            <p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Vielleicht;
-                aber ganz ohne Zweifel würde ich, wenn ich Sie früher gekannt hätte, beim „<title
-                    ref="#verdi.requiem.5">Agnus</title>“ an Sie, bester <persName ref="#door.anton"
-                    >Door</persName>, gedacht haben.</p>
-            <p rend="center">***</p>
-            <p><hi rend="bold"><persName ref="#epstein.julius">Epstein</persName>.</hi> Professor
-                    <persName ref="#hanslick.eduard">Hanslick</persName> erzählte uns, er hätte das
-                    <persName ref="#brahms.johannes">Brahms’sche</persName>
-                <title ref="#brahms.requiem">Requiem</title> auf Ihrem Pulte gefunden. Ich kann’s
-                nicht glauben.</p>
-            <p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Das Werk hat
-                große Vorzüge, nur an dem Künstler finde ich Eines auszusetzen.</p>
-            <p><hi rend="bold"><persName ref="#epstein.julius">Epstein</persName>.</hi> Und dieses
-                Eine?</p>
-            <p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Es ist zu
-                bedauern, daß er nicht Bramsini heißt, was Ihre leitenden Musikkreise gewiß
-                verhindert hätte, den Mann bei den Klängen seines eingenen Requiems zu den Todten zu
-                werfen.</p>
-            <p rend="center">***</p>
-            <p>Nachdem <persName ref="#verdi.giuseppe">Verdi</persName> fortgegangen:</p>
-            <p><hi rend="bold"><persName ref="#zellner.leopold-alexander">Zellner</persName>.</hi>
-                Doch ein liebenswürdiger Mensch dieser <persName ref="#verdi.giuseppe"
-                    >Verdi</persName>.</p>
-            <p><hi rend="bold"><persName ref="#door.anton">Door</persName>.</hi> Ein wahrer
-                Galantuomo.</p>
-            <p><hi rend="bold"><persName ref="#epstein.julius">Epstein</persName>.</hi> Ein
-                Gottmensch.</p>
-        </body>
-    </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Bombe, Wien, 27. Juni 1875</title>
+				<principal>Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/bombe_1875-06-27_verdi-im-conservatorium.xml</p>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#die-bombe" role="publisher"/>
+					<placeName ref="#wien"/>
+					<date when-iso="1875-06-27"/>
+					<biblScope unit="issue">25</biblScope>
+					<biblScope unit="volume">5</biblScope>
+					<series>bombe</series>
+					<biblScope unit="page">102</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#wien"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Satire</term>
+					<term type="corpusGroup">Randtexte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="bombe_1875-06-27_102.png"
+			url="http://anno.onb.ac.at/cgi-content/anno?aid=bom&amp;datum=18750627&amp;seite=2"
+			xml:id="f1"/>
+	</facsimile>
+	<text xml:lang="de">
+		<body rend="fraktur">
+			<cb facs="#f1" n="102c"/>
+			<head rend="antiqua larger"><persName ref="#verdi.giuseppe">Verdi</persName> im
+					<placeName ref="#wien.konservatorium">Conservatorium</placeName>.</head>
+			<p><hi rend="bold"><persName ref="#hellmesberger.josef">Hellmesberger</persName>.</hi>
+				Wie gefällt Ihnen unsere Orgel?</p>
+			<p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Ein
+				vorzügliches Instrument, das auf mich einen merkwürdigen Eindruck machte. Denn
+				gerade der Umstand, daß es eben so schülerhaft behandelt wurde, erinnerte mich
+				lebhaft an meine Kinderjahre, damals habe ich wahrscheinlich eben so falsch gespielt
+				wie der junge Mann da oben; wie heißt denn der Knabe?</p>
+			<p><hi rend="bold"><persName ref="#hellmesberger.josef">Hellmesberger</persName>.</hi>
+				Pardon, Ma<hi rend="antiqua">ë</hi>stro, der da oben die Orgel spielte, ist kein
+				Knabe, sondern unser erster Organist Professor <persName
+					ref="#zellner.leopold-alexander">Zellner</persName>.</p>
+			<p rend="center">***</p>
+			<p><hi rend="bold"><persName ref="#door.anton">Door</persName>.</hi> Wie hat mich Ihr
+					<title ref="#verdi.requiem">Requiem</title> entzückt! Freilich that die
+				Aufführung im Theater der echten religiösen Wirkung doch einigen Eintrag.</p>
+			<p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Ich achte Ihr
+				katholisches Gefühl, mein Herr; aber ich bin mit dem, was mir das Requiem in der
+				Oper eingetragen, ganz zufrieden.</p>
+			<p><hi rend="bold"><persName ref="#door.anton">Door</persName>.</hi> Nur noch eine
+				Frage, großer Meister. Ist es wahr, daß Sie das <hi rend="widespace"><title
+						ref="#verdi.requiem.2.recordare">Riccordare</title></hi> im <title
+					ref="#verdi.requiem">Requiem</title> Ihrem Verleger <persName cert="high"
+					ref="#ricordi.tito">Ricordi</persName> so getauft haben?</p>
+			<p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Vielleicht;
+				aber ganz ohne Zweifel würde ich, wenn ich Sie früher gekannt hätte, beim „<title
+					ref="#verdi.requiem.5">Agnus</title>“ an Sie, bester <persName ref="#door.anton"
+					>Door</persName>, gedacht haben.</p>
+			<p rend="center">***</p>
+			<p><hi rend="bold"><persName ref="#epstein.julius">Epstein</persName>.</hi> Professor
+					<persName ref="#hanslick.eduard">Hanslick</persName> erzählte uns, er hätte das
+					<persName ref="#brahms.johannes">Brahms’sche</persName>
+				<title ref="#brahms.requiem">Requiem</title> auf Ihrem Pulte gefunden. Ich kann’s
+				nicht glauben.</p>
+			<p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Das Werk hat
+				große Vorzüge, nur an dem Künstler finde ich Eines auszusetzen.</p>
+			<p><hi rend="bold"><persName ref="#epstein.julius">Epstein</persName>.</hi> Und dieses
+				Eine?</p>
+			<p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi</persName>.</hi> Es ist zu
+				bedauern, daß er nicht Bramsini heißt, was Ihre leitenden Musikkreise gewiß
+				verhindert hätte, den Mann bei den Klängen seines eingenen Requiems zu den Todten zu
+				werfen.</p>
+			<p rend="center">***</p>
+			<p>Nachdem <persName ref="#verdi.giuseppe">Verdi</persName> fortgegangen:</p>
+			<p><hi rend="bold"><persName ref="#zellner.leopold-alexander">Zellner</persName>.</hi>
+				Doch ein liebenswürdiger Mensch dieser <persName ref="#verdi.giuseppe"
+					>Verdi</persName>.</p>
+			<p><hi rend="bold"><persName ref="#door.anton">Door</persName>.</hi> Ein wahrer
+				Galantuomo.</p>
+			<p><hi rend="bold"><persName ref="#epstein.julius">Epstein</persName>.</hi> Ein
+				Gottmensch.</p>
+		</body>
+	</text>
 </TEI>

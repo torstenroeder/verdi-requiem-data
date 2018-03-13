@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Illustrierte Musikgeschichte, 1885</title>
 				<author><persName ref="#naumann.emil"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/naumann_1885_musikgeschichte.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>

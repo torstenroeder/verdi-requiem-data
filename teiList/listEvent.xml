@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Aufführungen</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/personen</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<p/>
@@ -35,31 +37,31 @@
 			-->
 			<listEvent>
 				<head>Christliche Feiertage</head>
-				<event xml:id="feiertage.1876" type="religious">
+				<event type="religious" xml:id="feiertage.1876">
 					<label>Feiertage 1876</label>
-					<event xml:id="feiertage.1876.karfreitag" type="religious">
+					<event type="religious" xml:id="feiertage.1876.karfreitag">
 						<label>Karfreitag</label>
 					</event>
-					<event xml:id="feiertage.1876.karsamstag" type="religious">
+					<event type="religious" xml:id="feiertage.1876.karsamstag">
 						<label>Karsamstag</label>
 					</event>
-					<event xml:id="feiertage.1876.ostersonntag" type="religious">
+					<event type="religious" xml:id="feiertage.1876.ostersonntag">
 						<label>Ostersonntag</label>
 					</event>
-					<event xml:id="feiertage.1876.ostermontag" type="religious">
+					<event type="religious" xml:id="feiertage.1876.ostermontag">
 						<label>Ostermontag</label>
 					</event>
-					<event xml:id="feiertage.1876.allerheiligen" type="religious.catholic">
+					<event type="religious.catholic" xml:id="feiertage.1876.allerheiligen">
 						<label>Allerheiligen</label>
 					</event>
-					<event xml:id="feiertage.1876.allerseelen" type="religious.catholic">
+					<event type="religious.catholic" xml:id="feiertage.1876.allerseelen">
 						<label>Allerseelen</label>
 					</event>
 				</event>
 			</listEvent>
 			<listEvent>
 				<head>1874</head>
-				<event xml:id="mailand.1874" type="musical.production">
+				<event type="musical.production" xml:id="mailand.1874">
 					<label>Mailand 1874</label>
 					<desc><placeName ref="#mailand"/>
 						<date when="1874-05"/>
@@ -69,25 +71,25 @@
 						<persName ref="#capponi.giuseppe" role="soloist.tenor"/>
 						<persName ref="#maini.armando" role="soloist.basso"/>
 					</desc>
-					<event xml:id="mailand.1874.gp" type="musical.production.rehearsal">
+					<event type="musical.production.rehearsal" xml:id="mailand.1874.gp">
 						<label>Generalprobe zur Uraufführung</label>
 						<desc>
 							<placeName ref="#mailand.san-marco"/>
-							<date when-custom="thu" when="1874-05-21"/>
+							<date when="1874-05-21" when-custom="thu"/>
 							<persName ref="#verdi.giuseppe" role="conductor"/>
 						</desc>
 					</event>
-					<event xml:id="mailand.1874.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="mailand.1874.1">
 						<label>Uraufführung</label>
 						<desc>
 							<placeName ref="#mailand.san-marco"/>
-							<date when-custom="fri" when="1874-05-22"/>
+							<date when="1874-05-22" when-custom="fri"/>
 							<title ref="#verdi.requiem"/>
 							<persName ref="#verdi.giuseppe" role="conductor"/>
 						</desc>
 						<note>Aufführung in liturgischem Rahmen</note>
 					</event>
-					<event xml:id="mailand.1874.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="mailand.1874.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#mailand.teatro-alla-scala"/>
@@ -96,24 +98,24 @@
 							<bibl type="book">Theaterzettel vom 25.04.1874</bibl>
 						</desc>
 					</event>
-					<event xml:id="mailand.1874.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="mailand.1874.3">
 						<label>3. Aufführung</label>
 						<desc>
 							<placeName ref="#mailand.teatro-alla-scala"/>
-							<date when-custom="tue" when="1874-05-26"/>
+							<date when="1874-05-26" when-custom="tue"/>
 							<persName ref="#faccio.franco" role="conductor"/>
 						</desc>
 					</event>
-					<event xml:id="mailand.1874.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="mailand.1874.4">
 						<label>4. Aufführung</label>
 						<desc>
 							<placeName ref="#mailand.teatro-alla-scala"/>
-							<date when-custom="wed" when="1874-05-27"/>
+							<date when="1874-05-27" when-custom="wed"/>
 							<persName ref="#faccio.franco" role="conductor"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="new-york.1874" type="musical.production">
+				<event type="musical.production" xml:id="new-york.1874">
 					<label>New York 1874</label>
 					<desc>
 						<placeName ref="#new-york"/>
@@ -122,24 +124,24 @@
 					</desc>
 					<bibl>New York Times, 14. November 1874, S. 4</bibl>
 					<bibl>New York Times, 18. November 1874, ***</bibl>
-					<event xml:id="new-york.1874.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="new-york.1874.1">
 						<label>Erstaufführung in den USA</label>
 						<desc><placeName ref="#new-york.academy-of-music"/>
-							<date when-custom="tue" when="1874-11-17"/>
+							<date when="1874-11-17" when-custom="tue"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="new-york.1874a" type="musical.production">
+				<event type="musical.production" xml:id="new-york.1874a">
 					<label>New York 1874 (Orgeltranskription)</label>
 					<desc><placeName ref="#new-york"/>
 						<date when="1874-10"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="new-york.1874a.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="new-york.1874a.1">
 						<label>Erstaufführung der Orgeltranskription in den USA</label>
 						<desc>
 							<placeName ref="#new-york.st-anns"/>
-							<date when-custom="sun" when="1874-10-25"/>
+							<date when="1874-10-25" when-custom="sun"/>
 							<persName ref="#corradi.h" role="soloist">H. Corradi</persName>
 							<persName ref="#gomien.o" role="soloist">O. Gomien</persName>
 							<persName ref="#fritsch.c" role="soloist">C. Fritsch</persName>
@@ -148,7 +150,7 @@
 						<bibl type="book">New York Times, 23. Oktober 1874, S. 3</bibl>
 					</event>
 				</event>
-				<event xml:id="paris.1874" type="musical.production">
+				<event type="musical.production" xml:id="paris.1874">
 					<label>Messa da Requiem</label>
 					<desc>
 						<placeName ref="#paris"/>
@@ -161,74 +163,74 @@
 						<persName ref="#maini.armando" role="soloist.basso"/>
 					</desc>
 					<note>Besprechung Augsburger Allgemeine Zeitung, 30. Juni</note>
-					<event xml:id="paris.1874.gp" type="musical.production.rehearsal">
+					<event type="musical.production.rehearsal" xml:id="paris.1874.gp">
 						<label>Generalprobe zur Erstaufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="mon" when="1874-06-08"/>
+							<date when="1874-06-08" when-custom="mon"/>
 						</desc>
 					</event>
-					<event xml:id="paris.1874.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="paris.1874.1">
 						<label>Erstaufführung in Frankreich</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="tue" when="1874-06-09">14:00</date>
+							<date when="1874-06-09" when-custom="tue">14:00</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1874.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1874.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="thu" when="1874-06-11">14:00</date>
+							<date when="1874-06-11" when-custom="thu">14:00</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) „2e audition“ -->
 					</event>
-					<event xml:id="paris.1874.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1874.3">
 						<label>3. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="sat" when="1874-06-13">14:00</date>
+							<date when="1874-06-13" when-custom="sat">14:00</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1874.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1874.4">
 						<label>4. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="mon" when="1874-06-15">14:00</date>
+							<date when="1874-06-15" when-custom="mon">14:00</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1874.5" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1874.5">
 						<label>5. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="tue" when="1874-06-16">14:00</date>
+							<date when="1874-06-16" when-custom="tue">14:00</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1874.6" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1874.6">
 						<label>6. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="thu" when="1874-06-18">14:00</date>
+							<date when="1874-06-18" when-custom="thu">14:00</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) „5e audition“ (!) -->
 					</event>
-					<event xml:id="paris.1874.7" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1874.7">
 						<label>7. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="sat" when="1874-06-20">14:00</date>
+							<date when="1874-06-20" when-custom="sat">14:00</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1874.8" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1874.8">
 						<label>8. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="mon" when="1874-06-22">14:00</date>
+							<date when="1874-06-22" when-custom="mon">14:00</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
@@ -236,7 +238,7 @@
 			</listEvent>
 			<listEvent>
 				<head>1875</head>
-				<event xml:id="antwerpen.1875" type="musical.production">
+				<event type="musical.production" xml:id="antwerpen.1875">
 					<label>Antwerpen 1875</label>
 					<desc>
 						<placeName ref="#antwerpen"/>
@@ -247,7 +249,7 @@
 						<persName ref="#bellotti.fausto" role="soloist.tenor"/>
 						<persName ref="#povoleri.paride" role="soloist.basso"/>
 					</desc>
-					<event xml:id="antwerpen.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="antwerpen.1875.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<!-- Ort: Stadsscouwburg -->
@@ -258,7 +260,7 @@
 								target="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000112919094?page=2&amp;query=requiem"
 								>Digitalisat</ref></bibl>
 					</event>
-					<event xml:id="antwerpen.1875.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="antwerpen.1875.2">
 						<label>2. Aufführung</label>
 						<!-- Ort: Paleis voor Volksvlijt -->
 						<desc>
@@ -272,7 +274,7 @@
 						</bibl>
 					</event>
 				</event>
-				<event xml:id="bruessel.1875" type="musical.production">
+				<event type="musical.production" xml:id="bruessel.1875">
 					<label>Brüssel 1875</label>
 					<desc>
 						<placeName ref="#bruessel"/>
@@ -284,7 +286,7 @@
 						<persName ref="#bellotti.fausto" role="soloist.tenor"/>
 						<persName ref="#povoleri.paride" role="soloist.basso"/>
 					</desc>
-					<event xml:id="bruessel.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="bruessel.1875.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#bruessel.la-monnaie"/>
@@ -293,7 +295,7 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="buenos-aires.1875" type="musical.production">
+				<event type="musical.production" xml:id="buenos-aires.1875">
 					<label>Buenos Aires 1875</label>
 					<desc>
 						<placeName ref="#buenos-aires"/>
@@ -311,14 +313,14 @@
 							República Argentina</ref></bibl>
 					<bibl type="book">Petriella, Dionisio y Miatello, Sara: Diccionario Biográfico
 						Italoargentino. Buenos Aires, Asociación Dante Alighieri, 1976.</bibl>
-					<event xml:id="buenos-aires.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="buenos-aires.1875.1">
 						<label>Erstaufführung in Südamerika</label>
 						<desc><placeName ref="#buenos-aires.teatro-opera">Teatro de la Opera (nicht
 								Colon!)</placeName>
 							<date when="1875-10-15"/></desc>
 					</event>
 				</event>
-				<event xml:id="florenz.1875" type="musical.production">
+				<event type="musical.production" xml:id="florenz.1875">
 					<label>Florenz 1875</label>
 					<desc>
 						<placeName ref="#florenz"/>
@@ -332,7 +334,7 @@
 					<bibl type="book">Boccherini, Florenz, 30. September 1875, S. 34 (2).</bibl>
 					<bibl type="book">Gazzetta Musicale di Milano, 26. September 1875, S. 315–317
 						(5–7).</bibl>
-					<event xml:id="florenz.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="florenz.1875.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#florenz">Teatro Principe Umberto</placeName>
@@ -342,7 +344,7 @@
 						<note>Wiederholungen: Tuba mirum, Sanctus, Agnus Dei (vgl. <ref
 								target="wz_1875-09-22_kleine-chronik.xml">Wiener Ztg.</ref>)</note>
 					</event>
-					<event xml:id="florenz.1875.2" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="florenz.1875.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#florenz">Teatro Pagliano</placeName>
@@ -350,7 +352,7 @@
 							<persName ref="#sbolci.jefte" role="conductor"/>
 						</desc>
 					</event>
-					<event xml:id="florenz.1875.3" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="florenz.1875.3">
 						<label>3. Aufführung</label>
 						<desc>
 							<placeName ref="#florenz">Teatro Pagliano</placeName>
@@ -358,7 +360,7 @@
 							<persName ref="#sbolci.jefte" role="conductor"/>
 						</desc>
 					</event>
-					<event xml:id="florenz.1875.4" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="florenz.1875.4">
 						<label>4. Aufführung</label>
 						<desc>
 							<placeName ref="#florenz">Teatro Pagliano</placeName>
@@ -367,49 +369,49 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="gent.1875" type="musical.production">
+				<event type="musical.production" xml:id="gent.1875">
 					<label>Gent 1875</label>
 					<desc>
 						<placeName ref="#gent"/>
 						<date when="1875"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="gent.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="gent.1875.1">
 						<label>Erstaufführung</label>
 					</event>
 				</event>
-				<event xml:id="graz.1875" type="musical.production">
+				<event type="musical.production" xml:id="graz.1875">
 					<label>Graz 1875</label>
 					<desc><placeName ref="#graz"/>
 						<date when="1875-11"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="graz.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="graz.1875.1">
 						<label>Erstaufführung</label>
 						<desc><date when="1875-11-01">Allerheiligen</date></desc>
 					</event>
-					<event xml:id="graz.1875.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="graz.1875.2">
 						<label>2. Aufführung</label>
 						<desc><date when="1875-11-02">Allerseelen</date></desc>
 					</event>
-					<event xml:id="graz.1875.3a" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="graz.1875.3a">
 						<label>geplante 3. Aufführung (verschoben)</label>
 						<desc><date when="1875-12-07"/></desc>
 					</event>
-					<event xml:id="graz.1875.4a" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="graz.1875.4a">
 						<label>geplante 4. Aufführung (verschoben)</label>
 						<desc><date when="1875-12-08"/></desc>
 					</event>
-					<event xml:id="graz.1875.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="graz.1875.3">
 						<label>3. Aufführung</label>
-						<desc><date when-custom="tue" when="1875-12-14"/></desc>
+						<desc><date when="1875-12-14" when-custom="tue"/></desc>
 					</event>
-					<event xml:id="graz.1875.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="graz.1875.4">
 						<label>4. Aufführung</label>
-						<desc><date when-custom="wed" when="1875-12-15"/></desc>
+						<desc><date when="1875-12-15" when-custom="wed"/></desc>
 					</event>
 				</event>
-				<event xml:id="london.1875" type="musical.production">
+				<event type="musical.production" xml:id="london.1875">
 					<label>London 1875</label>
 					<desc><placeName ref="#london">Royal Albert Hall</placeName>
 						<date when="1875-05"/>
@@ -417,38 +419,38 @@
 						<persName ref="#verdi.giuseppe" role="conductor"/>
 					</desc>
 					<bibl type="book">The Times (London), 24. Mai 1875, S. 10</bibl>
-					<event xml:id="london.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="london.1875.1">
 						<label>Erstaufführung im Vereinigten Königreich</label>
-						<desc><date when-custom="sat" when="1875-05-15"/></desc>
+						<desc><date when="1875-05-15" when-custom="sat"/></desc>
 					</event>
-					<event xml:id="london.1875.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="london.1875.2">
 						<label>2. Aufführung</label>
 						<desc><date notBefore="1875-05-16"/></desc>
 					</event>
-					<event xml:id="london.1875.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="london.1875.3">
 						<label>3. Aufführung</label>
 						<desc><date notBefore="1875-05-17"/></desc>
 					</event>
-					<event xml:id="london.1875.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="london.1875.4">
 						<label>4. Aufführung</label>
 						<desc><date notBefore="1875-05-18"/></desc>
 					</event>
-					<event xml:id="london.1875.5" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="london.1875.5">
 						<label>5. Aufführung</label>
 						<desc><date notBefore="1875-05-19"/></desc>
 					</event>
 				</event>
-				<event xml:id="luettich.1875" type="musical.production">
+				<event type="musical.production" xml:id="luettich.1875">
 					<label>Lüttich 1875</label>
 					<desc><placeName ref="#luettich"/>
 						<date when="1875"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="luettich.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="luettich.1875.1">
 						<label>Erstaufführung</label>
 					</event>
 				</event>
-				<event xml:id="paris.1875" type="musical.production">
+				<event type="musical.production" xml:id="paris.1875">
 					<label>Paris 1875</label>
 					<desc><placeName ref="#paris"/>
 						<date when="1875-04"/>
@@ -458,63 +460,63 @@
 						<persName ref="#waldmann.maria" role="soloist.mezzo"/>
 						<persName ref="#masini.angelo" role="soloist.maleVoice"/>
 					</desc>
-					<event xml:id="paris.1875.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1875.1">
 						<label>1. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="mon" when="1875-04-19"/>
+							<date when="1875-04-19" when-custom="mon"/>
 						</desc>
 					</event>
-					<event xml:id="paris.1875.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1875.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="wed" when="1875-04-21">19:00</date>
+							<date when="1875-04-21" when-custom="wed">19:00</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1875.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1875.3">
 						<label>3. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="fri" when="1875-04-23">20:30</date>
+							<date when="1875-04-23" when-custom="fri">20:30</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1875.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1875.4">
 						<label>4. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="tue" when="1875-04-27">20:45</date>
+							<date when="1875-04-27" when-custom="tue">20:45</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1875.5" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1875.5">
 						<label>5. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="thu" when="1875-04-29">20:45</date>
+							<date when="1875-04-29" when-custom="thu">20:45</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1875.6" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1875.6">
 						<label>6. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="sat" when="1875-05-01">20:45</date>
+							<date when="1875-05-01" when-custom="sat">20:45</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
-					<event xml:id="paris.1875.7" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1875.7">
 						<label>7. Aufführung</label>
 						<desc>
 							<placeName ref="#paris.opera-comique"/>
-							<date when-custom="thu" when="1875-05-04">20:45</date>
+							<date when="1875-05-04" when-custom="thu">20:45</date>
 						</desc>
 						<!-- Q: Le Temps (Paris) -->
 					</event>
 				</event>
-				<event xml:id="triest.1875" type="musical.production">
+				<event type="musical.production" xml:id="triest.1875">
 					<label>Triest 1875</label>
 					<desc>
 						<placeName ref="#triest">Opernhaus</placeName>
@@ -526,12 +528,12 @@
 						<persName ref="#patierno.filippo" role="soloist.tenor"/>
 						<persName ref="#maini.armando" role="soloist.basso"/>
 					</desc>
-					<event xml:id="triest.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="triest.1875.1">
 						<label>Erstaufführung</label>
-						<desc><date when-custom="sat" when="1875-10-16"/></desc>
+						<desc><date when="1875-10-16" when-custom="sat"/></desc>
 					</event>
 				</event>
-				<event xml:id="venedig.1875" type="musical.production">
+				<event type="musical.production" xml:id="venedig.1875">
 					<label>Venedig 1875</label>
 					<desc>
 						<placeName ref="#venedig"/>
@@ -539,7 +541,7 @@
 						<title ref="#verdi.requiem"/>
 						<persName ref="#faccio.franco" role="conductor"/>
 					</desc>
-					<event xml:id="venedig.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="venedig.1875.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#venedig.teatro-malibran"/>
@@ -548,21 +550,21 @@
 						<note>Wiederholungen: Sanctus, Hostias (vgl. <ref
 								target="wz_1875-07-14_venedig.xml">Wiener Ztg.</ref>).</note>
 					</event>
-					<event xml:id="venedig.1875.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="venedig.1875.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#venedig.teatro-malibran"/>
 							<date notBefore="1875-07-12"/>
 						</desc>
 					</event>
-					<event xml:id="venedig.1875.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="venedig.1875.3">
 						<label>3. Aufführung</label>
 						<desc>
 							<placeName ref="#venedig.teatro-malibran"/>
 							<date notBefore="1875-07-13"/>
 						</desc>
 					</event>
-					<event xml:id="venedig.1875.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="venedig.1875.4">
 						<label>4. Aufführung</label>
 						<desc>
 							<placeName ref="#venedig.teatro-malibran"/>
@@ -570,7 +572,7 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="wien.1875" type="musical.production">
+				<event type="musical.production" xml:id="wien.1875">
 					<label>Wien 1875</label>
 					<desc>
 						<placeName ref="#wien"/>
@@ -582,51 +584,51 @@
 						<persName ref="#masini.angelo" role="soloist"/>
 						<persName ref="#medini.paolo" role="soloist"/>
 					</desc>
-					<event xml:id="wien.1875.gp" type="musical.production.rehearsal">
+					<event type="musical.production.rehearsal" xml:id="wien.1875.gp">
 						<label>Generalprobe zur Erstaufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
-							<date when-custom="wed" when="1875-06-09"/>
+							<date when="1875-06-09" when-custom="wed"/>
 						</desc>
 					</event>
-					<event xml:id="wien.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="wien.1875.1">
 						<label>Erstaufführung in Österreich</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
-							<date when-custom="fri" when="1875-06-11"/>
+							<date when="1875-06-11" when-custom="fri"/>
 						</desc>
 						<note>Wiederholungen: Recordare, Hostias, Ingemisco, Agnus Dei (vgl. <ref
 								target="fb_1875-06-13_theater-und-kunst.xml"
 							>Fremden-Blatt</ref>)</note>
 						<bibl type="anno.onb.ac.at">wtz&amp;datum=18750611</bibl>
 					</event>
-					<event xml:id="wien.1875.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1875.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
-							<date when-custom="sun" when="1875-06-12"/>
+							<date when="1875-06-12" when-custom="sun"/>
 							<persName ref="#franz-joseph-i.habsburg" role="spectator"/>
 						</desc>
 						<bibl type="anno.onb.ac.at">wtz&amp;datum=18750612</bibl>
 					</event>
-					<event xml:id="wien.1875.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1875.3">
 						<label>3. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
-							<date when-custom="wed" when="1875-06-16"/>
+							<date when="1875-06-16" when-custom="wed"/>
 						</desc>
 						<bibl type="anno.onb.ac.at">wtz&amp;datum=18750616</bibl>
 					</event>
-					<event xml:id="wien.1875.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1875.4">
 						<label>4. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
-							<date when-custom="wed" when="1875-06-23"/>
+							<date when="1875-06-23" when-custom="wed"/>
 						</desc>
 						<bibl type="anno.onb.ac.at">wtz&amp;datum=18750623</bibl>
 					</event>
 				</event>
-				<event xml:id="wien.1875a" type="musical.production">
+				<event type="musical.production" xml:id="wien.1875a">
 					<label>Wien 1875a</label>
 					<desc>
 						<placeName ref="#wien"/>
@@ -640,7 +642,7 @@
 					</desc>
 					<note>Notiz Wiener Allgemeine Zeitung, 2. Nov.</note>
 					<note>Aufführung in deutscher Sprache</note>
-					<event xml:id="wien.1875a.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1875a.1">
 						<label>1. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
@@ -648,7 +650,7 @@
 						</desc>
 						<bibl type="anno.onb.ac.at">wtz&amp;datum=18751101</bibl>
 					</event>
-					<event xml:id="wien.1875a.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1875a.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
@@ -658,24 +660,24 @@
 						</desc>
 						<bibl type="anno.onb.ac.at">wtz&amp;datum=18751102</bibl>
 					</event>
-					<event xml:id="wien.1875a.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1875a.3">
 						<label>3. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
-							<date when-custom="sun" when="1875-11-07"/>
+							<date when="1875-11-07" when-custom="sun"/>
 						</desc>
 						<bibl type="anno.onb.ac.at">wtz&amp;datum=18751107</bibl>
 					</event>
-					<event xml:id="wien.1875a.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1875a.4">
 						<label>4. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
-							<date when-custom="thu" when="1875-12-23"/>
+							<date when="1875-12-23" when-custom="thu"/>
 						</desc>
 						<bibl type="anno.onb.ac.at">wtz&amp;datum=18751221</bibl>
 					</event>
 				</event>
-				<event xml:id="koeln.1875" type="musical.production">
+				<event type="musical.production" xml:id="koeln.1875">
 					<label>Köln 1875/76</label>
 					<desc>
 						<placeName ref="#koeln"/>
@@ -686,11 +688,11 @@
 						<persName ref="#diener.franz" role="soloist.tenor"/>
 						<persName ref="#schelper.otto" role="soloist.basso"/>
 					</desc>
-					<event xml:id="koeln.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="koeln.1875.1">
 						<label>4. Gürzenichkonzert</label>
 						<desc>
 							<placeName ref="#koeln.guerzenich"/>
-							<date when-custom="tue" when="1875-12-07">18:30 Uhr</date>
+							<date when="1875-12-07" when-custom="tue">18:30 Uhr</date>
 							<title ref="#svendsen.sigurd-slembe"/>
 							<title ref="#verdi.requiem"/>
 						</desc>
@@ -698,11 +700,11 @@
 						<!--<resource date="2012-12-06" title="Programm" type="file"
 					>koeln-guerzenich-1875-12-07.png</resource>-->
 					</event>
-					<event xml:id="koeln.1875.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="koeln.1875.2">
 						<label>8. Gürzenichkonzert</label>
 						<desc>
 							<placeName ref="#koeln.guerzenich"/>
-							<date when-custom="tue" when="1876-02-15"/>
+							<date when="1876-02-15" when-custom="tue"/>
 							<title ref="#brahms.variationen-ueber-ein-thema-von-haydn"/>
 							<title ref="#verdi.requiem"/>
 						</desc>
@@ -710,7 +712,7 @@
 						<note>mit Programm</note>
 					</event>
 				</event>
-				<event xml:id="muenchen.1875" type="musical.production">
+				<event type="musical.production" xml:id="muenchen.1875">
 					<label>München 1875/76</label>
 					<desc>
 						<placeName ref="#muenchen"/>
@@ -726,63 +728,63 @@
 						120)</note>
 					<!--<resource date="2013-03-03" title="Bericht im Bayerischen Kurier, 12. Dezember 1875, S. 1" type="file"
 			>bayerischer-kurier-v19-n343-d18751212-p1.jpg</resource>-->
-					<event xml:id="muenchen.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="muenchen.1875.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#muenchen.odeon"/>
-							<date when-custom="tue" when="1875-12-07"/>
+							<date when="1875-12-07" when-custom="tue"/>
 						</desc>
 						<note>Erstaufführung im Deutschen Reich (gleichzeitig in Köln)</note>
 						<note>„Agnus Dei“ wiederholt</note>
 					</event>
-					<event xml:id="muenchen.1875.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="muenchen.1875.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#muenchen.hoftheater"/>
-							<date when-custom="tue" when="1876-03-21"/>
+							<date when="1876-03-21" when-custom="tue"/>
 							<persName ref="#ludwig-ii.bayern" role="spectator"/>
 						</desc>
 						<bibl type="book">Grandauer 1878, S. 202</bibl>
 					</event>
-					<event xml:id="muenchen.1875.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="muenchen.1875.3">
 						<label>3. Aufführung (privat?)</label>
 						<desc>
 							<placeName ref="#muenchen.hoftheater"/>
-							<date when-custom="tue" when="1876-03-22"/>
+							<date when="1876-03-22" when-custom="tue"/>
 							<persName ref="#ludwig-ii.bayern" role="spectator"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="pest.1875" type="musical.production">
+				<event type="musical.production" xml:id="pest.1875">
 					<label>Pest 1875</label>
 					<desc>
 						<placeName ref="#pest"/>
 						<date when="1875-12"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="pest.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="pest.1875.1">
 						<label>Erstaufführung in Ungarn</label>
 						<desc>
-							<date when-custom="sat" when="1875-12-18"/>
+							<date when="1875-12-18" when-custom="sat"/>
 						</desc>
 						<bibl type="book">Theaterzettel vom 18.12.1875, in: Bollettino Verdi, Anno
 							III, Vol. II, No. 5 (1962), S. 1428/29.</bibl>
 					</event>
-					<event xml:id="pest.1875.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="pest.1875.2">
 						<label>2. Aufführung</label>
 						<desc>
-							<date when-custom="sun" when="1875-12-19"/>
+							<date when="1875-12-19" when-custom="sun"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="rom.1875" type="musical.production">
+				<event type="musical.production" xml:id="rom.1875">
 					<label>Rom 1875</label>
 					<desc>
 						<placeName ref="#rom"/>
 						<date when="1875-06"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="rom.1875.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="rom.1875.1">
 						<label>Erstaufführung in Rom</label>
 						<desc>
 							<date when="1875-06-04"/>
@@ -795,7 +797,7 @@
 			</listEvent>
 			<listEvent>
 				<head>1876</head>
-				<event xml:id="aachen.1876" type="musical.production">
+				<event type="musical.production" xml:id="aachen.1876">
 					<label>Aachen 1876</label>
 					<desc>
 						<placeName ref="#aachen"/>
@@ -809,15 +811,15 @@
 						<persName ref="#pfeiffer.xxx" role="soloist.basso"/>
 					</desc>
 					<note>mit Programm</note>
-					<event xml:id="aachen.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="aachen.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#aachen.kurhaus"/>
-							<date when-custom="thu" when="1876-03-16">18:30 Uhr</date>
+							<date when="1876-03-16" when-custom="thu">18:30 Uhr</date>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="berlin.1876" type="musical.production">
+				<event type="musical.production" xml:id="berlin.1876">
 					<label>Berlin 1876</label>
 					<desc>
 						<placeName ref="#berlin"/>
@@ -831,39 +833,39 @@
 					</desc>
 					<note>Theaterzettel der Königlichen Schauspiele</note>
 					<note>GMM 23.4.1876: Bericht (Corrispondenze, S. 147)</note>
-					<event xml:id="berlin.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="berlin.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date when="1876-04-15">Karsamstag, 19:00 Uhr</date>
 							<persName ref="#wilhelm-i.preussen" role="spectator"/>
 						</desc>
 					</event>
-					<event xml:id="berlin.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="berlin.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
-							<date when-custom="mon" when="1876-04-17">Ostermontag, 12:00 Uhr</date>
+							<date when="1876-04-17" when-custom="mon">Ostermontag, 12:00 Uhr</date>
 						</desc>
 					</event>
-					<event xml:id="berlin.1876.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="berlin.1876.3">
 						<label>3. Aufführung</label>
 						<desc>
-							<date when-custom="tue" when="1876-04-25"/>
+							<date when="1876-04-25" when-custom="tue"/>
 						</desc>
 					</event>
-					<event xml:id="berlin.1876.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="berlin.1876.4">
 						<label>4. Aufführung</label>
 						<desc>
-							<date when-custom="wed" when="1876-05-10"/>
+							<date when="1876-05-10" when-custom="wed"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="berlin.1876-hofconcerte" type="musical.production">
+				<event type="musical.production" xml:id="berlin.1876-hofconcerte">
 					<label>Berlin 1876 (Hofconcert)</label>
 					<desc>
 						<placeName ref="#berlin"/>
 						<date when="1876-03"/>
 					</desc>
-					<event xml:id="berlin.1876-hofconcerte.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="berlin.1876-hofconcerte.1">
 						<label>Abendunterhaltung</label>
 						<desc>
 							<date when="1876-03-09"/>
@@ -894,7 +896,7 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="bremen.1876" type="musical.production">
+				<event type="musical.production" xml:id="bremen.1876">
 					<label>Bremen 1876</label>
 					<desc>
 						<placeName ref="#bremen"/>
@@ -902,14 +904,14 @@
 						<title ref="#verdi.requiem"/>
 						<persName ref="#reinthaler.karl" role="conductor"/>
 					</desc>
-					<event xml:id="bremen.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="bremen.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date notAfter="1876-02-29" notBefore="1876-02-01"/>
 						</desc>
 						<note>1. Abonnementsconcert</note>
 					</event>
-					<event xml:id="bremen.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="bremen.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<date notAfter="1876-02-29" notBefore="1876-02-01"/>
@@ -917,7 +919,7 @@
 						<note>Privatconcert</note>
 					</event>
 				</event>
-				<event xml:id="breslau.1876" type="musical.production">
+				<event type="musical.production" xml:id="breslau.1876">
 					<label>Breslau 1876</label>
 					<desc>
 						<placeName ref="#breslau"/>
@@ -929,7 +931,7 @@
 						<persName ref="#torrige.xxx" role="soloist.tenor"/>
 						<persName ref="#franck.xxx" role="soloist.basso"/>
 					</desc>
-					<event xml:id="breslau.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="breslau.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date when="1876-11-07"/>
@@ -938,7 +940,7 @@
 							182f).</note>
 					</event>
 				</event>
-				<event xml:id="bristol.1876" type="musical.production">
+				<event type="musical.production" xml:id="bristol.1876">
 					<label>Bristol 1876</label>
 					<desc>
 						<placeName ref="#bristol"/>
@@ -948,11 +950,11 @@
 					<note>2nd Triennal Music Festival</note>
 					<note>GMM 26.3.1876: Erwähnung, dass Aufführung in Bristol geplant sei (Notizie
 						esterne, S. 113)</note>
-					<event xml:id="bristol.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="bristol.1876.1">
 						<label>Erstaufführung</label>
 					</event>
 				</event>
-				<event xml:id="bruenn.1876" type="musical.production">
+				<event type="musical.production" xml:id="bruenn.1876">
 					<label>Brünn 1876</label>
 					<desc>
 						<placeName ref="#bruenn"/>
@@ -964,24 +966,24 @@
 						<persName ref="#curiel.xxx" role="soloist.tenor"/>
 						<persName ref="#krejci.friedrich" role="soloist.basso"/>
 					</desc>
-					<event xml:id="bruenn.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="bruenn.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#bruenn.redouta-theater"/>
-							<date when-custom="sun" when="1876-01-02"/>
+							<date when="1876-01-02" when-custom="sun"/>
 						</desc>
 						<note>Agnus Dei wiederholt</note>
 					</event>
-					<event xml:id="bruenn.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="bruenn.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#bruenn.redouta-theater"/>
-							<date when-custom="thu" when="1876-01-06"/>
+							<date when="1876-01-06" when-custom="thu"/>
 						</desc>
 						<note>Agnus Dei wiederholt</note>
 					</event>
 				</event>
-				<event xml:id="dresden.1876" type="musical.production">
+				<event type="musical.production" xml:id="dresden.1876">
 					<label>Dresden 1876</label>
 					<desc>
 						<placeName ref="#dresden"/>
@@ -994,43 +996,43 @@
 						<persName ref="#koehler.hans" role="soloist.basso"/>
 					</desc>
 					<note>GMM 23.1.1876: Kurzmeldung (Notizie esterne, S. 37)</note>
-					<event xml:id="dresden.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="dresden.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#dresden.hoftheater"/>
-							<date when-custom="sat" when="1876-01-08"/>
+							<date when="1876-01-08" when-custom="sat"/>
 						</desc>
 					</event>
-					<event xml:id="dresden.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="dresden.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#dresden.hoftheater"/>
-							<date when-custom="tue" when="1876-01-11"/>
+							<date when="1876-01-11" when-custom="tue"/>
 						</desc>
 					</event>
-					<event xml:id="dresden.1876.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="dresden.1876.3">
 						<label>3. Aufführung</label>
 						<desc>
 							<placeName ref="#dresden.hoftheater"/>
-							<date when-custom="sat" when="1876-02-05"/>
+							<date when="1876-02-05" when-custom="sat"/>
 						</desc>
 					</event>
-					<event xml:id="dresden.1876.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="dresden.1876.4">
 						<label>4. Aufführung</label>
 						<desc>
 							<placeName ref="#dresden.hoftheater"/>
-							<date when-custom="thu" when="1876-02-10"/>
+							<date when="1876-02-10" when-custom="thu"/>
 						</desc>
 					</event>
-					<event xml:id="dresden.1876.5" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="dresden.1876.5">
 						<label>5. Aufführung</label>
 						<desc>
 							<placeName ref="#dresden.hoftheater"/>
-							<date when-custom="thu" when="1876-02-24"/>
+							<date when="1876-02-24" when-custom="thu"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="elberfeld.1876" type="musical.production">
+				<event type="musical.production" xml:id="elberfeld.1876">
 					<label>Elberfeld 1876</label>
 					<desc>
 						<placeName ref="#elberfeld"/>
@@ -1038,14 +1040,14 @@
 						<title ref="#verdi.requiem"/>
 						<persName ref="#schornstein.hermann" role="conductor"/>
 					</desc>
-					<event xml:id="elberfeld.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="elberfeld.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
-							<date when-custom="wed" when="1876-04-05"/>
+							<date when="1876-04-05" when-custom="wed"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="hamburg.1876" type="musical.production">
+				<event type="musical.production" xml:id="hamburg.1876">
 					<label>Hamburg 1876</label>
 					<desc>
 						<placeName ref="#hamburg"/>
@@ -1057,22 +1059,22 @@
 					<note>GMM 23.1.1876: Kurzmeldung (Notizie esterne, S. 37)</note>
 					<bibl type="book">Heinrich Chevalley: Hundert Jahre Hamburger Stadt-Theater,
 						Hamburg: Broschek, 1927, S. 73</bibl>
-					<event xml:id="hamburg.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="hamburg.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#hamburg.stadt-theater"/>
-							<date when-custom="sat" when="1876-01-08">19:00 Uhr</date>
+							<date when="1876-01-08" when-custom="sat">19:00 Uhr</date>
 							<title ref="#schubert.trauermarsch"/>
 							<title ref="#verdi.requiem"/>
 							<persName ref="#froehlich.xxx" role="soloist.soprano"/>
 							<persName ref="#boree.minna" role="soloist.mezzo"/>
 						</desc>
 					</event>
-					<event xml:id="hamburg.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="hamburg.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#hamburg.stadt-theater"/>
-							<date when-custom="wed" when="1876-01-12">19:00 Uhr</date>
+							<date when="1876-01-12" when-custom="wed">19:00 Uhr</date>
 							<title ref="#weber.euryanthe.ouvertuere"/>
 							<title ref="#hiller.die-zerstoerung-jerusalems.ach-waer-mein-haupt"/>
 							<title ref="#schumann.ritornelle-in-canonischen-weisen">Robert Schumann,
@@ -1083,41 +1085,41 @@
 							<persName ref="#boree.minna" role="soloist.mezzo"/>
 						</desc>
 					</event>
-					<event xml:id="hamburg.1876.3a" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="hamburg.1876.3a">
 						<label>geplante 3. Aufführung (ausgefallen)</label>
 						<desc>
 							<placeName ref="#hamburg.stadt-theater"/>
-							<date when-custom="sun" when="1876-01-16">13:00 Uhr</date>
+							<date when="1876-01-16" when-custom="sun">13:00 Uhr</date>
 							<title ref="#verdi.requiem"/>
 							<persName ref="#froehlich.xxx" role="soloist.soprano"/>
 							<persName ref="#boree.minna" role="soloist.mezzo"/>
 						</desc>
 					</event>
-					<event xml:id="hamburg.1876.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="hamburg.1876.3">
 						<label>3. Aufführung</label>
 						<desc>
 							<placeName ref="#hamburg.stadt-theater"/>
-							<date when-custom="sun" when="1876-01-23">13:00 Uhr</date>
+							<date when="1876-01-23" when-custom="sun">13:00 Uhr</date>
 							<title ref="#verdi.requiem"/>
 							<persName ref="#otto-alvsleben.melitta" role="soloist.soprano"/>
 							<persName ref="#boree.minna" role="soloist.mezzo"/>
 						</desc>
 					</event>
-					<event xml:id="hamburg.1876.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="hamburg.1876.4">
 						<label>4. Aufführung</label>
 						<desc>
 							<placeName ref="#hamburg.stadt-theater"/>
-							<date when-custom="sun" when="1876-01-30">13:00 Uhr</date>
+							<date when="1876-01-30" when-custom="sun">13:00 Uhr</date>
 							<title ref="#verdi.requiem"/>
 							<persName ref="#froehlich.xxx" role="soloist.soprano"/>
 							<persName ref="#boree.minna" role="soloist.mezzo"/>
 						</desc>
 					</event>
-					<event xml:id="hamburg.1876.5" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="hamburg.1876.5">
 						<label>5. Aufführung</label>
 						<desc>
 							<placeName ref="#hamburg.stadt-theater"/>
-							<date when-custom="wed" when="1876-02-02">18:30 Uhr</date>
+							<date when="1876-02-02" when-custom="wed">18:30 Uhr</date>
 							<title ref="#verdi.requiem"/>
 							<title ref="#mehul.joseph"/>
 							<persName ref="#otto-alvsleben.melitta" role="soloist.soprano"/>
@@ -1125,35 +1127,35 @@
 						</desc>
 						<note>mit anschließender Opernvorstellung</note>
 					</event>
-					<event xml:id="hamburg.1876.6" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="hamburg.1876.6">
 						<label>6. Aufführung</label>
 						<desc>
 							<placeName ref="#hamburg.stadt-theater"/>
-							<date when-custom="sun" when="1876-03-05">13:00 Uhr</date>
+							<date when="1876-03-05" when-custom="sun">13:00 Uhr</date>
 							<title ref="#verdi.requiem"/>
 							<persName ref="#froehlich.xxx" role="soloist.soprano"/>
 							<persName ref="#boree.minna" role="soloist.mezzo"/>
 						</desc>
 					</event>
-					<event xml:id="hamburg.1876.7" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="hamburg.1876.7">
 						<label>7. Aufführung</label>
 						<desc>
 							<placeName ref="#hamburg.stadt-theater"/>
-							<date when-custom="fri" when="1876-04-14">Karfreitag, 19:30 Uhr</date>
+							<date when="1876-04-14" when-custom="fri">Karfreitag, 19:30 Uhr</date>
 							<title ref="#verdi.requiem"/>
 							<persName ref="#froehlich.xxx" role="soloist.soprano"/>
 							<persName ref="#keller.elsa" role="soloist.mezzo"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="hannover.1876" type="musical.production">
+				<event type="musical.production" xml:id="hannover.1876">
 					<label>Hannover 1876</label>
 					<desc>
 						<placeName ref="#hannover"/>
 						<date when="1876-06"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="hannover.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="hannover.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date when="1876-06-14"/>
@@ -1161,7 +1163,7 @@
 						<note>Wohltätigkeitskonzert</note>
 					</event>
 				</event>
-				<event xml:id="heilbronn.1876" type="musical.production">
+				<event type="musical.production" xml:id="heilbronn.1876">
 					<label>Heilbronn 1876</label>
 					<desc>
 						<placeName ref="#heilbronn"/>
@@ -1174,7 +1176,7 @@
 						<persName ref="#martens.johannes" role="soloist.basso"/>
 					</desc>
 					<note>Franz Wunder, Der Singkranz Heilbronn, S. 106 f.</note>
-					<event xml:id="heilbronn.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="heilbronn.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#heilbronn.st-kilian"/>
@@ -1182,7 +1184,7 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="leipzig.1876" type="musical.production">
+				<event type="musical.production" xml:id="leipzig.1876">
 					<label>Leipzig 1876</label>
 					<desc>
 						<placeName ref="#leipzig"/>
@@ -1191,12 +1193,12 @@
 					</desc>
 					<bibl type="book">GMM 19.3.1876, Corrispondenze, S. 104</bibl>
 					<bibl type="book">GMM 26.3.1876, Notizie esterne, S. 112</bibl>
-					<event xml:id="leipzig.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="leipzig.1876.1">
 						<label>Erstaufführung</label>
 						<label>19. Gewandhauskonzert</label>
 						<desc>
 							<placeName ref="#leipzig.gewandhaus"/>
-							<date when-custom="thu" when="1876-03-09">19:00 Uhr</date>
+							<date when="1876-03-09" when-custom="thu">19:00 Uhr</date>
 							<persName ref="#reinecke.carl" role="conductor"/>
 							<persName ref="#peschka-leutner.minna" role="soloist.soprano"/>
 							<persName ref="#nanitz.minna" role="soloist.mezzo"/>
@@ -1204,12 +1206,12 @@
 							<persName ref="#koehler.hans" role="soloist.basso"/>
 						</desc>
 					</event>
-					<event xml:id="leipzig.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="leipzig.1876.2">
 						<label>2. Aufführung</label>
 						<label>Benefizkonzert</label>
 						<desc>
 							<placeName ref="#leipzig.gewandhaus"/>
-							<date when-custom="mon" when="1876-03-13">19:00 Uhr</date>
+							<date when="1876-03-13" when-custom="mon">19:00 Uhr</date>
 							<persName ref="#reinecke.carl" role="conductor"/>
 							<persName ref="#schuch-proska.clementine" role="soloist.soprano"/>
 							<persName ref="#peschka-leutner.minna" role="soloist.mezzo"/>
@@ -1218,7 +1220,7 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="lemberg.1876" type="musical.production">
+				<event type="musical.production" xml:id="lemberg.1876">
 					<label>Lemberg 1876</label>
 					<desc>
 						<placeName ref="#lemberg"/>
@@ -1226,20 +1228,20 @@
 						<title ref="#verdi.requiem"/>
 						<persName ref="#mikuli.karol" role="conductor"/>
 					</desc>
-					<event xml:id="lemberg.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="lemberg.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date when="1876-04-09"/>
 						</desc>
 					</event>
-					<event xml:id="lemberg.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="lemberg.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<date when="1876-04-10"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="manchester.1876" type="musical.production">
+				<event type="musical.production" xml:id="manchester.1876">
 					<label>Manchester 1876</label>
 					<desc>
 						<placeName ref="#manchester"/>
@@ -1247,21 +1249,21 @@
 						<persName ref="#halle.carlo"/>
 					</desc>
 					<note>GMM 26.3.1876: Leitung "Carlo Hallé" (Notizie esterne, S. 113)</note>
-					<event xml:id="manchester.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="manchester.1876.1">
 						<label>Erstaufführung</label>
 					</event>
 				</event>
-				<event xml:id="moskau.1876" type="musical.production">
+				<event type="musical.production" xml:id="moskau.1876">
 					<label>Moskau 1876</label>
 					<desc>
 						<placeName ref="#moskau"/>
 						<date when="1876"/>
 					</desc>
-					<event xml:id="moskau.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="moskau.1876.1">
 						<label>Erstaufführung</label>
 					</event>
 				</event>
-				<event xml:id="olmuetz.1876" type="musical.production">
+				<event type="musical.production" xml:id="olmuetz.1876">
 					<label>Olmütz 1876</label>
 					<desc>
 						<placeName ref="#olmuetz"/>
@@ -1272,13 +1274,13 @@
 						<persName ref="#schultner.adolf" role="soloist.tenor"/>
 						<persName ref="#chlumetzky.karl" role="soloist.basso"/>
 					</desc>
-					<event xml:id="olmuetz.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="olmuetz.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date when="1876-05-22"/>
 						</desc>
 					</event>
-					<event xml:id="olmuetz.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="olmuetz.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<date when="1876-05-23"/>
@@ -1294,7 +1296,7 @@
 				<date notAfter="1876-05-25"/>
 			</eventListItem>-->
 				</event>
-				<event xml:id="paris.1876" type="musical.production">
+				<event type="musical.production" xml:id="paris.1876">
 					<label>Paris 1876</label>
 					<desc>
 						<placeName ref="#paris"/>
@@ -1302,21 +1304,21 @@
 						<title ref="#verdi.requiem"/>
 						<persName ref="#verdi.giuseppe" role="conductor"/>
 					</desc>
-					<event xml:id="paris.1876.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1876.1">
 						<label>1. Wiederaufführung</label>
 						<desc>
 							<placeName ref="#paris.theatre-italien"/>
 							<date when="1876-04-29">Sonnabend, 29. (30.?) April 1876</date>
 						</desc>
 					</event>
-					<event xml:id="paris.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1876.2">
 						<label>2. Wiederaufführung</label>
 						<desc>
 							<placeName ref="#paris.theatre-italien"/>
 							<date notAfter="1876-06-03" notBefore="1876-04-30"/>
 						</desc>
 					</event>
-					<event xml:id="paris.1876.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="paris.1876.3">
 						<label>3. Wiederaufführung</label>
 						<desc>
 							<placeName ref="#paris.theatre-italien"/>
@@ -1324,17 +1326,17 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="parma.1876" type="musical.production">
+				<event type="musical.production" xml:id="parma.1876">
 					<label>Parma 1876</label>
 					<desc>
 						<placeName ref="#parma"/>
 						<date when="1876"/>
 					</desc>
-					<event xml:id="parma.1876.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="parma.1876.1">
 						<label>Erstaufführung</label>
 					</event>
 				</event>
-				<event xml:id="st-petersburg.1876" type="musical.production">
+				<event type="musical.production" xml:id="st-petersburg.1876">
 					<label>Petersburg 1876</label>
 					<desc>
 						<placeName ref="#st-petersburg"/>
@@ -1344,7 +1346,7 @@
 						Cari, Capoul, Bagagiolo; Kaiserin anwesend (Ultime Notizie, S. 55).</note>
 					<bibl type="book">Giuseppe Albinati, Piccolo dizionario di opere teatrali,
 						oratori, cantate, ecc. (1912)</bibl>
-					<event xml:id="st-petersburg.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="st-petersburg.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#st-petersburg.mariinski-theater"/>
@@ -1352,7 +1354,7 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="prag.1876" type="musical.production">
+				<event type="musical.production" xml:id="prag.1876">
 					<label>Prag 1876</label>
 					<desc>
 						<placeName ref="#prag"/>
@@ -1365,38 +1367,38 @@
 						<persName ref="#schebesta.adalbert" role="soloist.basso"/>
 					</desc>
 					<note>GMM 20.2.1876: Agnus Dei wiederholt (Notizie esterne, S. 70)</note>
-					<event xml:id="prag.1876.gp" type="musical.production.rehearsal">
+					<event type="musical.production.rehearsal" xml:id="prag.1876.gp">
 						<label>Generalprobe</label>
 						<desc>
-							<date when-custom="wed" when="1876-01-26"/>
+							<date when="1876-01-26" when-custom="wed"/>
 						</desc>
 					</event>
-					<event xml:id="prag.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="prag.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
-							<date when-custom="thu" when="1876-01-27"/>
+							<date when="1876-01-27" when-custom="thu"/>
 						</desc>
 					</event>
-					<event xml:id="prag.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="prag.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
-							<date when-custom="mon" when="1876-01-31"/>
+							<date when="1876-01-31" when-custom="mon"/>
 						</desc>
 					</event>
-					<event xml:id="prag.1876.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="prag.1876.3">
 						<label>3. Aufführung</label>
 						<desc>
-							<date when-custom="thu" when="1876-02-15"/>
+							<date when="1876-02-15" when-custom="thu"/>
 						</desc>
 					</event>
-					<event xml:id="prag.1876.4" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="prag.1876.4">
 						<label>4. Aufführung</label>
 						<desc>
-							<date when-custom="thu" when="1876-03-07"/>
+							<date when="1876-03-07" when-custom="thu"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="rio-de-janeiro.1876" type="musical.production">
+				<event type="musical.production" xml:id="rio-de-janeiro.1876">
 					<label>Rio de Janeiro 1876</label>
 					<desc>
 						<placeName ref="#rio-de-janeiro"/>
@@ -1406,15 +1408,15 @@
 					</desc>
 					<bibl type="book">Cristina Magaldi: Music in Imperial Rio de Janeiro. European
 						Culture in a Tropical Milieu, S. 79.</bibl>
-					<event xml:id="rio-de-janeiro.1876.1"
-						type="musical.production.performance.first">
+					<event type="musical.production.performance.first"
+						xml:id="rio-de-janeiro.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date notAfter="1876-02-08" when="1876"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="salzburg.1876" type="musical.production">
+				<event type="musical.production" xml:id="salzburg.1876">
 					<label>Salzburg 1876</label>
 					<desc>
 						<placeName ref="#salzburg"/>
@@ -1429,36 +1431,36 @@
 					<note>mit dem Orchester des Dommusikvereins</note>
 					<bibl type="book">Die Konzerte der Salzburger Liedertafel 1846-2006 (unter
 						www.salzburger-liedertafel.at)</bibl>
-					<event xml:id="salzburg.1876.hp" type="musical.production.rehearsal">
+					<event type="musical.production.rehearsal" xml:id="salzburg.1876.hp">
 						<label>Hauptprobe</label>
 						<desc>
 							<placeName ref="#salzburg.aula-academica"/>
 							<date when="1876-04-20">6 Uhr abends</date>
 						</desc>
 					</event>
-					<event xml:id="salzburg.1876.gp" type="musical.production.rehearsal">
+					<event type="musical.production.rehearsal" xml:id="salzburg.1876.gp">
 						<label>Generalprobe</label>
 						<desc>
 							<placeName ref="#salzburg.aula-academica"/>
 							<date when="1876-04-22">6 Uhr abends</date>
 						</desc>
 					</event>
-					<event xml:id="salzburg.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="salzburg.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#salzburg.aula-academica"/>
-							<date when-custom="sun" when="1876-04-23">7 Uhr abends</date>
+							<date when="1876-04-23" when-custom="sun">7 Uhr abends</date>
 						</desc>
 					</event>
-					<event xml:id="salzburg.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="salzburg.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#salzburg.aula-academica"/>
-							<date when-custom="sun" when="1876-04-30">4 Uhr nachmittags</date>
+							<date when="1876-04-30" when-custom="sun">4 Uhr nachmittags</date>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="schwerin.1876" type="musical.production">
+				<event type="musical.production" xml:id="schwerin.1876">
 					<label>Schwerin 1876</label>
 					<desc>
 						<placeName ref="#schwerin"/>
@@ -1469,14 +1471,14 @@
 						<persName ref="#candidus.william" role="soloist.tenor"/>
 						<persName ref="#hill.karl" role="soloist.basso"/>
 					</desc>
-					<event xml:id="schwerin.1876.gp" type="musical.production.rehearsal">
+					<event type="musical.production.rehearsal" xml:id="schwerin.1876.gp">
 						<label>Generalprobe</label>
 						<desc>
 							<date when="1876-04-15"/>
 							<title ref="#verdi.requiem"/>
 						</desc>
 					</event>
-					<event xml:id="schwerin.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="schwerin.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date when="1876-04-16"/>
@@ -1485,14 +1487,14 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="stuttgart.1876" type="musical.production">
+				<event type="musical.production" xml:id="stuttgart.1876">
 					<label>Stuttgart 1876</label>
 					<desc>
 						<placeName ref="#stuttgart"/>
 						<date when="1876-12"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="stuttgart.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="stuttgart.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date notAfter="1876-12-31" notBefore="1876-12-20" when="1876-12"/>
@@ -1500,7 +1502,7 @@
 					</event>
 					<!--genannt bei Kreutzer-->
 				</event>
-				<event xml:id="utrecht.1876" type="musical.production">
+				<event type="musical.production" xml:id="utrecht.1876">
 					<label>Utrecht 1876</label>
 					<desc>
 						<placeName ref="#utrecht"/>
@@ -1508,14 +1510,14 @@
 						<title ref="#verdi.requiem"/>
 						<persName ref="#hol.richard" role="conductor"/>
 					</desc>
-					<event xml:id="utrecht.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="utrecht.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date notAfter="1876-03-11" when="1876"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="warschau.1876" type="musical.production">
+				<event type="musical.production" xml:id="warschau.1876">
 					<label>Warschau 1876</label>
 					<desc>
 						<placeName ref="#warschau"/>
@@ -1525,27 +1527,27 @@
 						128)</note>
 					<note>GMM 9.4.1876 nennt als Solisten Cepeda, Pasqualis, Franchini und Gasperini
 						(Telegrammi, S. 128)</note>
-					<event xml:id="warschau.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="warschau.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date notAfter="1876-04-03" when="1876"/>
 						</desc>
 					</event>
-					<event xml:id="warschau.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="warschau.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<date notAfter="1876-04-05" when="1876"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="wien.1876" type="musical.production">
+				<event type="musical.production" xml:id="wien.1876">
 					<label>Wien 1876</label>
 					<desc>
 						<placeName ref="#wien"/>
 						<date when="1876-11"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="wien.1876.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1876.1">
 						<label>1. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
@@ -1559,7 +1561,7 @@
 						<bibl type="anno.onb.ac.at">wtz&amp;datum=18761102</bibl>
 					</event>
 				</event>
-				<event xml:id="weimar.1876" type="musical.production">
+				<event type="musical.production" xml:id="weimar.1876">
 					<label>Weimar 1876</label>
 					<desc>
 						<placeName ref="#weimar"/>
@@ -1568,11 +1570,11 @@
 					</desc>
 					<bibl type="book">Adolf Bartels: Chronik des Weimarischen Hoftheaters 1817–1907,
 						Weimar: Hermann Böhlaus Nachfolger, 1908, S. 187</bibl>
-					<event xml:id="weimar.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="weimar.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#weimar.hoftheater"/>
-							<date when-custom="wed" when="1876-04-26">17:30</date>
+							<date when="1876-04-26" when-custom="wed">17:30</date>
 							<persName ref="#mueller-hartung.carl" role="conductor"/>
 							<persName ref="#fichtner-spohr.auguste" role="soloist.soprano"/>
 							<persName ref="#dotter.berta" role="soloist.mezzo"/>
@@ -1584,11 +1586,11 @@
 								target="http://archive.thulb.uni-jena.de/staatsarchive/rsc/viewer/ThHStAW_derivate_00051652/013078.tif"
 								>Theaterzettel</ref></bibl>
 					</event>
-					<event xml:id="weimar.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="weimar.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#weimar.hoftheater"/>
-							<date when-custom="wed" when="1876-05-24">19:00</date>
+							<date when="1876-05-24" when-custom="wed">19:00</date>
 							<persName ref="#mueller-hartung.carl" role="conductor"/>
 							<persName ref="#fichtner-spohr.auguste" role="soloist.soprano"/>
 							<persName ref="#dotter.berta" role="soloist.mezzo"/>
@@ -1601,7 +1603,7 @@
 								>Theaterzettel</ref></bibl>
 					</event>
 				</event>
-				<event xml:id="wiesbaden.1876" type="musical.production">
+				<event type="musical.production" xml:id="wiesbaden.1876">
 					<label>Wiesbaden 1876</label>
 					<desc>
 						<placeName ref="#wiesbaden"/>
@@ -1613,21 +1615,21 @@
 						<persName ref="#peschier.adolf" role="soloist.tenor"/>
 						<persName ref="#siehr.gustav" role="soloist.basso"/>
 					</desc>
-					<event xml:id="wiesbaden.1876.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="wiesbaden.1876.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#wiesbaden.koenigliches-theater"/>
-							<date when-custom="tue" when="1876-02-22">19:00 Uhr</date>
+							<date when="1876-02-22" when-custom="tue">19:00 Uhr</date>
 						</desc>
 						<note>42. Theatervorstellung</note>
 						<bibl type="book">Theaterzettel der Königlichen Schauspiele vom 22.
 							Februar</bibl>
 					</event>
-					<event xml:id="wiesbaden.1876.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wiesbaden.1876.2">
 						<label>2. Aufführung</label>
 						<desc>
 							<placeName ref="#wiesbaden.koenigliches-theater"/>
-							<date when-custom="fri" when="1876-02-25">19:00 Uhr</date>
+							<date when="1876-02-25" when-custom="fri">19:00 Uhr</date>
 						</desc>
 						<note>VI. Symphonie-Concert</note>
 						<bibl type="book">Theaterzettel der Königlichen Schauspiele vom 25.
@@ -1637,7 +1639,7 @@
 			</listEvent>
 			<listEvent>
 				<head>1877</head>
-				<event xml:id="coburg.1877" type="musical.production">
+				<event type="musical.production" xml:id="coburg.1877">
 					<label>Coburg 1877</label>
 					<desc>
 						<placeName ref="#coburg"/>
@@ -1652,7 +1654,7 @@
 					<bibl type="book">Herbert Hirschberg: Geschichte der Herzoglichen Hoftheater zu
 						Coburg und Gotha, Berlin: Vita, 1911, S. 202.</bibl>
 					<bibl type="book">Theaterzettel des Herzoglich Sächsischen Hoftheaters</bibl>
-					<event xml:id="coburg.1877.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="coburg.1877.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#coburg.hoftheater"/>
@@ -1666,7 +1668,7 @@
 						<note>12. Vorstellung des Herzoglich Sächsischen Hoftheaters</note>
 					</event>
 				</event>
-				<event xml:id="frankfurt-am-main.1877" type="musical.production">
+				<event type="musical.production" xml:id="frankfurt-am-main.1877">
 					<label>Frankfurt/Main 1877</label>
 					<desc>
 						<placeName ref="#frankfurt-am-main"/>
@@ -1678,16 +1680,16 @@
 						<persName ref="#wolff.josef" role="soloist.tenor"/>
 						<persName ref="#krauss.emil" role="soloist.basso"/>
 					</desc>
-					<event xml:id="frankfurt-am-main.1877.1"
-						type="musical.production.performance.first">
+					<event type="musical.production.performance.first"
+						xml:id="frankfurt-am-main.1877.1">
 						<label>Erstaufführung</label>
 						<desc>
-							<date when-custom="fri" when="1877-10-26"/>
+							<date when="1877-10-26" when-custom="fri"/>
 						</desc>
 						<note>2. Museumsconcert</note>
 					</event>
 				</event>
-				<event xml:id="koeln.1877" type="musical.production">
+				<event type="musical.production" xml:id="koeln.1877">
 					<label>Köln 1877</label>
 					<desc>
 						<placeName ref="#koeln"/>
@@ -1701,37 +1703,37 @@
 					</desc>
 					<note>Niederrheinisches Musikfest</note>
 					<bibl type="de.wikipedia.org">Niederrheinisches_Musikfest</bibl>
-					<event xml:id="koeln.1877.musikfest.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="koeln.1877.musikfest.1">
 						<label>Erster Tag</label>
 						<desc>
 							<date when="1877-05-20"/>
 						</desc>
 					</event>
-					<event xml:id="koeln.1877.musikfest.2" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="koeln.1877.musikfest.2">
 						<label>Zweiter Tag</label>
 						<desc>
-							<date when-custom="mon" when="1877-05-21">Pfingstmontag</date>
+							<date when="1877-05-21" when-custom="mon">Pfingstmontag</date>
 							<title ref="#mozart.die-zauberfloete.ouvertuere"/>
 							<title ref="#verdi.requiem"/>
 							<title ref="#beethoven.symphonie-9"/>
 						</desc>
 					</event>
-					<event xml:id="koeln.1877.musikfest.3" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="koeln.1877.musikfest.3">
 						<label>Dritter Tag</label>
 						<desc>
-							<date when-custom="tue" when="1877-05-22"/>
+							<date when="1877-05-22" when-custom="tue"/>
 							<title ref="#verdi.requiem.5"/>
 							<title ref="#unidentified">u.a.</title>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="stockholm.1877" type="musical.production">
+				<event type="musical.production" xml:id="stockholm.1877">
 					<label>Stockholm 1877</label>
 					<desc><placeName ref="#stockholm"/>
 						<date when="1877"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="stockholm.1877.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="stockholm.1877.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date notAfter="1877-10-15" notBefore="1877-10-01">Anfang Oktober
@@ -1739,7 +1741,7 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="koenigsberg.1877" type="musical.production">
+				<event type="musical.production" xml:id="koenigsberg.1877">
 					<label>Königsberg 1877</label>
 					<desc>
 						<placeName ref="#koenigsberg"/>
@@ -1748,21 +1750,21 @@
 						<title ref="#rubinstein.das-verlorene-paradies"/>
 						<persName ref="#laudien.heinrich"/>
 					</desc>
-					<event xml:id="koenigsberg.1877.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="koenigsberg.1877.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date notAfter="1877-04-30" notBefore="1877-01-01"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="wien.1877" type="musical.production">
+				<event type="musical.production" xml:id="wien.1877">
 					<label>Wien 1877</label>
 					<desc>
 						<placeName ref="#wien"/>
 						<date when="1877-11"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="wien.1877.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1877.1">
 						<label>1. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
@@ -1779,28 +1781,28 @@
 			</listEvent>
 			<listEvent>
 				<head>1878</head>
-				<event xml:id="st-gallen.1878" type="musical.production">
+				<event type="musical.production" xml:id="st-gallen.1878">
 					<label>Sankt Gallen 1878</label>
 					<desc><placeName ref="#st-gallen"/>
 						<date when="1878-04"/>
 						<title ref="#verdi.requiem"/>
 						<persName ref="#bogler.xxx" role="conductor"/>
 					</desc>
-					<event xml:id="st-gallen.1878.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="st-gallen.1878.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date when="1878-04-14"/>
 						</desc>
 					</event>
 				</event>
-				<event xml:id="danzig.1878" type="musical.production">
+				<event type="musical.production" xml:id="danzig.1878">
 					<label>Danzig 1878</label>
 					<desc>
 						<placeName ref="#danzig"/>
 						<date when="1878-04"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="danzig.1878.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="danzig.1878.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#danzig.schuetzenhaus"/>
@@ -1814,26 +1816,26 @@
 						<bibl type="book">Siebenfreund 1917, S. 86</bibl>
 					</event>
 				</event>
-				<event xml:id="leipzig.1878" type="musical.production">
+				<event type="musical.production" xml:id="leipzig.1878">
 					<label>Leipzig 1878</label>
 					<desc>
 						<placeName ref="#leipzig"/>
 						<date when="1878"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="leipzig.1878.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="leipzig.1878.1">
 						<label>1. Aufführung</label>
 						<bibl type="book">Müller 1887, S. 181</bibl>
 					</event>
 				</event>
-				<event xml:id="karlsruhe.1878" type="musical.production">
+				<event type="musical.production" xml:id="karlsruhe.1878">
 					<label>Karlsruhe 1878</label>
 					<desc>
 						<placeName ref="#karlsruhe"/>
 						<date when="1878-04"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="karlsruhe.1878.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="karlsruhe.1878.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<placeName ref="#karlsruhe.festhalle"/>
@@ -1851,13 +1853,13 @@
 							37</ref></bibl>
 					</event>
 				</event>
-				<event xml:id="mannheim.1878" type="musical.production">
+				<event type="musical.production" xml:id="mannheim.1878">
 					<label>Mannheim 1878</label>
 					<desc><placeName ref="#mannheim"/>
 						<date when="1878-04"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="mannheim.1878.1" type="musical.production.performance.first">
+					<event type="musical.production.performance.first" xml:id="mannheim.1878.1">
 						<label>Erstaufführung</label>
 						<desc>
 							<date when="1878-04-19"/>
@@ -1868,14 +1870,14 @@
 						</desc>
 					</event>
 				</event>
-				<event xml:id="wien.1878" type="musical.production">
+				<event type="musical.production" xml:id="wien.1878">
 					<label>Wien 1878</label>
 					<desc>
 						<placeName ref="#wien"/>
 						<date when="1878-11"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
-					<event xml:id="wien.1878.1" type="musical.production.performance">
+					<event type="musical.production.performance" xml:id="wien.1878.1">
 						<label>1. Aufführung</label>
 						<desc>
 							<placeName ref="#wien.hof-operntheater"/>
@@ -1890,7 +1892,7 @@
 					</event>
 				</event>
 				<!-- nicht identifiziert -->
-				<event xml:id="unidentified" type="undefinable">
+				<event type="undefinable" xml:id="unidentified">
 					<label>? (nicht identifiziertes Ereignis)</label>
 				</event>
 			</listEvent>

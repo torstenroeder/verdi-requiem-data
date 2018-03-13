@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>AdMz, Leipzig, 3. März 1876</title>
 				<author><persName ref="#akronym.ok"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/admz_1876-03-03_koeln.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -18,7 +20,6 @@
 					<biblScope unit="volume">3</biblScope>
 					<series>admz</series>
 					<biblScope unit="page">75–76</biblScope>
-					<!--FACS AdmZ: kein Digitalisat; Kopie vorhanden-->
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,6 +36,7 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
+	<!--FACS AdmZ: kein Digitalisat; Kopie vorhanden-->
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<pb break="null" n="74" type="initial"/>

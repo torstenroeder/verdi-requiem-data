@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Kölnische Zeitung, 24. August 1875</title>
 				<author><persName ref="#hiller.ferdinand"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/kz_1875-08-24_requiem.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -115,8 +117,7 @@
 					ref="#verdi.requiem.4">Sanctus-Fuge</title> für Doppelchor und das vierstimmige
 				Fugato im <hi rend="antiqua">„<title n="libera-me.fuga" ref="#verdi.requiem.7"
 						>Libera me</title>“</hi> können manchem Contrepunktisten <hi rend="antiqua"
-					>ex professo</hi><note resp="tr" type="quoteLink">Lat. »von Amts wegen«,
-					»berufsmäßig«.</note> zu denken geben.</p>
+						><term ref="#ex-professo">ex professo</term></hi> zu denken geben.</p>
 			<p>Man wird auch nach dem Clavierauszug keinen Augenblick im Zweifel darüber bleiben,
 				daß <persName ref="#verdi.giuseppe">Verdi</persName> sein Orchester zur vollsten
 				Wirkung bringt: es auch an modernen, picanten, aparten, glänzenden

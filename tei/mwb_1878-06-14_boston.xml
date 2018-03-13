@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 14. Juni 1878</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/mwb_1878-06-14_boston.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -42,10 +44,11 @@
 			<pb break="null" facs="#f1" n="305" type="initial"/>
 			<head rend="bold lineale">Aufgeführte Novitäten.</head>
 			<cb break="null" n="305b" type="skipped"/>
-			<p rend="hanging"><rs ref="#unidentified" type="event"><persName ref="#verdi.giuseppe"><hi
-							rend="widespace">Verdi</hi> (G.)</persName>, <title ref="#verdi.requiem"
-						>Requiem</title>. (<placeName ref="#boston">Boston</placeName>, Aufführ.
-					durch die <orgName ref="#boston.haendel-and-haydn-society">Händel- u.
+			<p rend="hanging"><rs ref="#unidentified" type="event"><persName ref="#verdi.giuseppe"
+							><hi rend="widespace">Verdi</hi> (G.)</persName>, <title
+						ref="#verdi.requiem">Requiem</title>. (<placeName ref="#boston"
+						>Boston</placeName>, Aufführ. durch die <orgName
+						ref="#boston.haendel-and-haydn-society">Händel- u.
 						Haydn-Gesellschaft</orgName>.)</rs></p>
 		</body>
 	</text>

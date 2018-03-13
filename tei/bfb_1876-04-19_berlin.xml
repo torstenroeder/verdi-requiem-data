@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Berliner Fremdenblatt, 19. April 1876</title>
 				<author><persName ref="#breslaur.emil"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/bfb_1876-04-19_berlin.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -181,8 +183,7 @@
 				Styles, ohne erwärmende Wahrheit und beseelte Ueberzeugung geschrieben. Man fühlt
 				sich von dem opernhaften Flitterstaat, mit dem der fromme ergreifende Text behängt
 				ist, abgestoßen, wir erhalten den Eindruck einer <hi rend="antiqua">mater
-					dolorosa</hi> im Schleppkleid mit Chignon<note resp="tr" type="glossaryLink"
-					>Frz. Haarmode des 18. Jh., zuletzt in den 1860ern aktuell.</note> und
+					dolorosa</hi> im Schleppkleid mit <term ref="#chignon">Chignon</term> und
 				Panzertaille. — Die Ausführung des Werkes durch das Chor- und Orchesterpersonal der
 				Oper, durch die Damen Frl. <hi rend="widespace"><persName ref="#lehmann.lilli"
 						>Lehmann</persName></hi> und <hi rend="widespace"><persName

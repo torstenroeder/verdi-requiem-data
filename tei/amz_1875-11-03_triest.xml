@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>AmZ, Leipzig, 3. November 1875</title>
 				<author><persName ref="#bix.eduard"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/amz_1875-11-03_triest.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -15,9 +17,8 @@
 					<placeName ref="#leipzig"/>
 					<date when-iso="1875-11-03"/>
 					<biblScope unit="issue">44</biblScope>
-<biblScope unit="volume"
-						>10</biblScope>
-<series>amz</series>
+					<biblScope unit="volume">10</biblScope>
+					<series>amz</series>
 					<biblScope unit="column">702</biblScope>
 				</bibl>
 			</sourceDesc>

@@ -5,9 +5,11 @@
 			<titleStmt>
 				<title>Berliner Tageblatt, 16./19./27. April 1876</title>
 				<author><persName ref="#truhn.hieronymus"/></author>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/btb_1876-04-16_berlin.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -134,22 +136,21 @@
 							ref="#verdi.ernani">Ernani</title>“ folgt und bis zu der fesselnden Oper
 							„<title ref="#verdi.rigoletto">Rigoletto</title>“ reicht, ist so wenig
 						bedeutend, daß man dabei an die sieben magern Kühe in König Pharaos Traum
-						denken möchte. Diese Relâche<note resp="tr" type="glossaryLink">Frz.
-							»Auszeit«.</note> seiner Muse umfaßt den Zeitraum vom Jahre <date
-							from-iso="1845" to-iso="1850">1845 bis 50</date>, in welchem <persName
-							ref="#verdi.giuseppe">Verdi</persName> neun bis zehn Opern in die Welt
-						gesetzt hat, die in Deutschland kaum den Namen nach bekannt geworden sind,
-						und auch in Italien gänzlich verschollen zu sein scheinen. Die
-						verhältnismäßig werthvollste unter diesen magern Kühen heißt „<title
-							ref="#verdi.luisa-miller">Luisa Miller</title>“ und der miserable
-						Libretto ist <persName ref="#schiller.friedrich">Schillers</persName>
-						„Kabale und Liebe“ entlehnt. Am Schluß des Akt I soll ein prächtiges
-						Quintett vorkommen, das uns leider unbekannt geblieben ist. Nachdem
-							<persName ref="#verdi.giuseppe">Verdi</persName> sich in <placeName
-							ref="#paris">Paris</placeName> eingehend mit dem Wesen und den Formen
-						der französischen Oper beschäftigt hatte, erweiterte sich seine Anschauung
-						vom musikalischen Drama und veränderte sich sein Styl. Eine ähnliche
-						reformirende Uebergangsperiode erlebten in der Kapitole Frankreichs
+						denken möchte. Diese <term ref="#relache">Relâche</term> seiner Muse umfaßt
+						den Zeitraum vom Jahre <date from-iso="1845" to-iso="1850">1845 bis
+							50</date>, in welchem <persName ref="#verdi.giuseppe">Verdi</persName>
+						neun bis zehn Opern in die Welt gesetzt hat, die in Deutschland kaum den
+						Namen nach bekannt geworden sind, und auch in Italien gänzlich verschollen
+						zu sein scheinen. Die verhältnismäßig werthvollste unter diesen magern Kühen
+						heißt „<title ref="#verdi.luisa-miller">Luisa Miller</title>“ und der
+						miserable Libretto ist <persName ref="#schiller.friedrich"
+							>Schillers</persName> „Kabale und Liebe“ entlehnt. Am Schluß des Akt I
+						soll ein prächtiges Quintett vorkommen, das uns leider unbekannt geblieben
+						ist. Nachdem <persName ref="#verdi.giuseppe">Verdi</persName> sich in
+							<placeName ref="#paris">Paris</placeName> eingehend mit dem Wesen und
+						den Formen der französischen Oper beschäftigt hatte, erweiterte sich seine
+						Anschauung vom musikalischen Drama und veränderte sich sein Styl. Eine
+						ähnliche reformirende Uebergangsperiode erlebten in der Kapitole Frankreichs
 							<persName ref="#gluck.christoph-willibald">Gluck</persName>, <persName
 							ref="#spontini.gaspare"><choice>
 								<orig>Spondini</orig>
@@ -477,27 +478,23 @@
 							ref="#verdi.antonio">Antonio Verdi</persName> und sein Diener <persName
 							ref="#luigi.xxx">Luigi</persName>. Letzterer, ein früherer Lohnkutscher
 						aus <placeName ref="#reggio">Reggio</placeName>, erklärt jeden für einen
-							capocchio<note resp="tr" type="glossaryLink">Capocchio war ein
-							italienischer Häretiker, der als Alchimist zum Tode verurteilt wurde und
-							zudem in <persName ref="#alighieri.dante">Dantes</persName> Divina
-							Commedia genannt wurde; vgl. Dante Alighieri, La Divina Commedia,
-							Inferno XXIX.</note>, der nur von anderer Musik als von der seines
-						illustrissimo maëstro zu sprechen wagt. <persName ref="#verdi.giuseppe"
-							>Verdi</persName> soll ein braver italienischer Patriot sein, daß ihn
-						aber alle großen politischen, sozialen und wissenschaftlichen Fragen
-						interessiren, daß er die Literatur aller civilisirten Nationen der Erde
-						gründlich studire und darin zu Hause sei, wie sein großmäuliger Pariser
-						Verleger <persName ref="#escudier.leon">Léon Escudier</persName>, einer der
-						frechsten Reklameschmiede, die je auf Rindleder traten, der Welt aufbinden
-						möchte, ist natürlich Gascognade<note resp="tr" type="glossaryLink">Frz.
-							»Angeberei«</note>. Allerdings wurde der Künstler einmal als Deputirter
-						ins italienische Parlament gewählt, glänzte aber nur in der Kammer theils
-						durch Abwesenheit, theils als ein größerer Schweiger, als selbst unser
-						berühmter Feldmarschall, Graf <persName ref="#moltke.helmuth-von"
-							>Moltke</persName>. Jedoch ganz ohne politische Bedeutung ist der Name
-						„Verdi“ trotzdem nicht geblieben. Als einst in <placeName
-							ref="#lombardo-venetien">Lombardo-Venezien</placeName>, in <placeName
-							ref="#rom">Rom</placeName>, <placeName ref="#toskana"
+							<term ref="#capocchio">capocchio</term>, der nur von anderer Musik als
+						von der seines illustrissimo maëstro zu sprechen wagt. <persName
+							ref="#verdi.giuseppe">Verdi</persName> soll ein braver italienischer
+						Patriot sein, daß ihn aber alle großen politischen, sozialen und
+						wissenschaftlichen Fragen interessiren, daß er die Literatur aller
+						civilisirten Nationen der Erde gründlich studire und darin zu Hause sei, wie
+						sein großmäuliger Pariser Verleger <persName ref="#escudier.leon">Léon
+							Escudier</persName>, einer der frechsten Reklameschmiede, die je auf
+						Rindleder traten, der Welt aufbinden möchte, ist natürlich <term
+							ref="gascognade">Gascognade</term>. Allerdings wurde der Künstler einmal
+						als Deputirter ins italienische Parlament gewählt, glänzte aber nur in der
+						Kammer theils durch Abwesenheit, theils als ein größerer Schweiger, als
+						selbst unser berühmter Feldmarschall, Graf <persName
+							ref="#moltke.helmuth-von">Moltke</persName>. Jedoch ganz ohne politische
+						Bedeutung ist der Name „Verdi“ trotzdem nicht geblieben. Als einst in
+							<placeName ref="#lombardo-venetien">Lombardo-Venezien</placeName>, in
+							<placeName ref="#rom">Rom</placeName>, <placeName ref="#toskana"
 							>Toskana</placeName> und <placeName ref="#neapel">Neapel</placeName> der
 						Ruf „Viva Italia!“ bei drohender Ahndung verboten war, riefen die Patrioten
 						„Viva Verdi!“ und die einzelnen Buchstaben dieses Namens bedeuten V(ittore)

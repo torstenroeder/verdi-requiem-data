@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 3. Mai 1878</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/text/mwb_1878-05-03_mannheim.xml</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -44,15 +46,15 @@
 			<head rend="lineale bold">Concertumschau.</head>
 			<cb break="null" facs="#f1" n="235b" type="skipped"/>
 			<p><hi rend="bold"><placeName ref="#mannheim">Mannheim</placeName>.</hi>
-				<gap resp="tr"/> <rs ref="#mannheim.1878.1" type="event">Am <date
-						when-iso="1878-04-19">19. April</date> Aufführ. v. <persName
-						ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> durch den Musikverein unt.
-				solist. Mitwirk. v. Frau <persName ref="#possart.anna">Possart</persName> a.
-					<placeName ref="#muenchen">München</placeName>, Frl. <persName
-					ref="#steinbach.emma">Steinbach</persName> a. <placeName ref="#karlsruhe"
-					>Carlsruhe</placeName> u. HH. <persName ref="#wolff.josef">Wolff</persName> a.
-					<placeName ref="#speyer">Speyer</placeName> u. <persName ref="#lindeck.wilhelm"
+				<gap resp="tr"/>
+				<rs ref="#mannheim.1878.1" type="event">Am <date when-iso="1878-04-19">19.
+						April</date> Aufführ. v. <persName ref="#verdi.giuseppe">Verdi’s</persName>
+					<title ref="#verdi.requiem">Requiem</title> durch den Musikverein unt. solist.
+					Mitwirk. v. Frau <persName ref="#possart.anna">Possart</persName> a. <placeName
+						ref="#muenchen">München</placeName>, Frl. <persName ref="#steinbach.emma"
+						>Steinbach</persName> a. <placeName ref="#karlsruhe">Carlsruhe</placeName>
+					u. HH. <persName ref="#wolff.josef">Wolff</persName> a. <placeName ref="#speyer"
+						>Speyer</placeName> u. <persName ref="#lindeck.wilhelm"
 					>Lindeck</persName>.</rs></p>
 		</body>
 	</text>

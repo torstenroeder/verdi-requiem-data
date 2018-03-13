@@ -1,413 +1,415 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Journal des Débats, Paris, 14. Juni 1874</title>
-                <author><persName ref="#reyer.ernest"/></author>
-            </titleStmt>
-            <publicationStmt>
-                <p>http://verdi-requiem.de/text/jdd_1874-06-1_feuilleton.xml</p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <orgName ref="#journal-des-debats"/>
-                    <placeName ref="#paris"/>
-                    <date when-custom="sun" when-iso="1874-06-14"/>
-                    <series>jdd</series>
-                    <biblScope unit="page">1–2</biblScope>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <creation><placeName ref="#paris"/></creation>
-            <textClass>
-                <keywords>
-                    <term type="textType">Werkbesprechung</term>
-                    <term type="corpusGroup">Rezeptionsgeschichte</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <encodingDesc>
-            <p>see http://verdi-requiem.de for a detailed description</p>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic n="jdd_1874-06-14_1.png"
-            url="http://gallica.bnf.fr/ark:/12148/bpt6k459024p/f1.item" xml:id="f1"/>
-        <graphic n="jdd_1874-06-14_2.png"
-            url="http://gallica.bnf.fr/ark:/12148/bpt6k459024p/f2.item" xml:id="f2"/>
-    </facsimile>
-    <text xml:lang="fr">
-        <body rend="antiqua">
-            <head rend="larger">FEUILLETON DU JOURNAL DES DÉBATS</head>
-            <head>DU 14 JUIN 1874</head>
-            <head>―</head>
-            <head><hi rend="widespace">REVUE MUSICALE</hi>.</head>
-            <p>La <hi rend="italic"><title ref="#verdi.requiem">Messe de Requiem</title></hi>, de M.
-                    <persName ref="#verdi.giuseppe">G. Verdi</persName>.</p>
-            <p>Cette <hi rend="italic"><title ref="#verdi.requiem">Messe de Requiem</title></hi> a
-                été composée par M. <persName ref="#verdi.giuseppe">Verdi</persName> et exécutée le
-                    <date when-iso="1874-05-22">22 mai</date> dans l’église <placeName
-                    ref="#mailand.san-marco">Saint-Marc</placeName>, à <placeName ref="#mailand"
-                    >Milan</placeName>, pour l’anniversaire de la mort d’<persName
-                    ref="#manzoni.alessandro">Alexandre Manzoni</persName>, l’auteur du <hi
-                    rend="italic">Comte de Carmagnole</hi> et des Fiancés (<hi rend="italic">i
-                    promessi Sposi</hi>), l’un des plus grands poëtes italiens de ce siècle, l’ami
-                de M. <persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>. M. <persName
-                    ref="#locle.camille-du">Camille du Locle</persName>, directeur de l’<placeName
-                    ref="#paris.opera-comique">Opéra-Comique</placeName>, étant parti pour
-                    <placeName ref="#mailand">Milan</placeName>, a assisté à l’exécution de cette
-                œuvre; il a été témoin du succès d’enthousiasme qu’elle a excité, et comme il est
-                lui-même un des plus intimes amis de M. <persName ref="#verdi.giuseppe"
-                    >Verdi</persName>, il a obtenu de l’illustre maître l’autorisation de la faire
-                entendre à <placeName ref="#paris">Paris</placeName>, non pas à <placeName
-                    ref="#paris.st-eustache">Saint-Eustache</placeName> ou à <placeName
-                    ref="#paris.notre-dame">Notre-Dame</placeName>, mais à l’<placeName
-                    ref="#paris.opera-comique">Opéra-Comique</placeName>, non pas dans une église,
-                mais dans un théâtre, où elle n’est point déplacée assurément.</p>
-            <p>Le <hi rend="italic"><title ref="#verdi.requiem">Requiem</title></hi> de M. <persName
-                    ref="#verdi.giuseppe">Verdi</persName> est bien plus une œuvre dramatique qu’une
-                œuvre religieuse; mais il ne serait pas juste de se placer, pour la juger, à un
-                autre point de vue que celui où s’est placé le compositeur pour l’écrire. Les
-                musiciens qui, depuis la révolution accomplie par <persName
-                    ref="#palestrina.giovanni-pierluigi">Palestrina</persName>, se sont inspirés des
-                textes liturgiques, ont cru devoir s’astreindre, dans des limites différentes, à ce
-                que l’on appelle les exigences du style religieux. Ces exigences ne comportent pas
-                seulement l’emploi du contre-point, de la fugue, des imitations, <cb break="yes"
-                    n="1b" type="regular"/> en un mot, de tous les artifices de la science
-                scolastique, mais elles imposent à la mélodie une forme et un caractère
-                particuliers. Or, c’est principalement par le caractère et par la forme de la
-                mélodie que M. <persName ref="#verdi.giuseppe">Verdi</persName>, dans son <hi
-                    rend="italic"><title ref="#verdi.requiem">Requiem</title></hi>, s’est affranchi,
-                je ne dirai pas d’une règle, mais d’une coutume à laquelle reviendront toujours les
-                compositeurs que les splendeurs imposantes du culte catholique inspirent
-                véritablement.</p>
-            <p>Une fois cette réserve faite, je serai plus à Paise pour louer comme elle le mérite
-                la belle et savante composition de l’auteur d’<hi rend="italic"><title
-                        ref="#verdi.aida">Aïda</title></hi>. J’ai constaté, on s’en souvient
-                peut-être, en rendant compte de cet ouvrage que je suis allé entendre au <placeName
-                    ref="#cairo">Caire</placeName>, combien il était supérieur, suivant moi, aux
-                précédents ouvrages de M. <persName ref="#verdi.giuseppe">Verdi</persName>, et
-                quelle transformation il indiquait dans le talent du maître. Dans la <hi
-                    rend="italic"><title ref="#verdi.requiem">Messe de Requiem</title></hi>, ce sont
-                les mêmes préoccupations, les mêmes recherches, lès mêmes procédés, le même soin,
-                avec les mêmes délicatesses de détail, apportés au travail de l’instrumentation. Je
-                ne veux pas aller plus loin, et, m’autorisant de quelques réminiscences qui ne
-                pouvaient m’échapper, aller jusqu’à dire que c’est le même style. D’ailleurs, les
-                ressemblances de ce genre se rencontrent peut-être plus fréquemment chez les
-                compositeurs dont l’individualité est marquée d’une forte empreinte, et j’ai répondu
-                d’avance à ceux qui pourraient s’étonner de ces souvenirs fugitifs d’une œuvre
-                essentiellement dramatique dans une œuvre écrite sur un texte religieux.</p>
-            <p>Le <hi rend="italic"><title ref="#verdi.requiem">Requiem</title></hi> de M. <persName
-                    ref="#verdi.giuseppe">Verdi</persName> est écrit à quatre parties, avec soli à
-                quatre parties également. Il n’y a pas d’introduction : les té<cb break="no" n="1c"
-                    type="regular"/>nors et les basses entrent sur la septième mesure de l’orchestre
-                par une quinte psalmodiée, que reprennent à leur tour les soprani et les contralti,
-                pour aboutir à l’accord parfait de <hi rend="italic">mi majeur</hi> en <hi
-                    rend="italic">tutti</hi>. Alors, sur une phrase plaintive qu’accompagne une
-                marche harmonique simple, mais d’une contexture élégante, quatre soprani soli
-                achèvent le verset et chantent en notes syncopées le <hi rend="italic"><title
-                        key="bar:12" n="requiem-aeternam" ref="#verdi.requiem.1">Dona eis,
-                        Domine</title></hi>. Par une de ces oppositions que le maître affectionne,
-                l’orchestre continue dans le mode majeur la phrase commencée; les voix du chœur se
-                répondent en notes syllabiques, murmurées à <hi rend="italic">mezza voce</hi>; puis
-                les quatre voix <hi rend="italic">soli</hi> chantent sans accompagnement quelques
-                mesures en style fugué qui ramènent le <hi rend="italic"><title ref="#verdi.requiem"
-                        >Requiem</title></hi> jusqu’au <hi rend="italic"><title
-                        n="requiem-aeternam.re" ref="#verdi.requiem.1">Luceat eis</title></hi>. Les
-                mêmes voix traitées dans le même style et entrant successivement l’une après l’autre
-                répètent la même phrase: <hi rend="italic"><title n="kyrie" ref="#verdi.requiem.1"
-                        >Kyrie eleison, Christe eleison</title></hi>, avec un dessin persistant des
-                basses <hi rend="italic">staccati</hi>; l’entrée du chœur, les développements, les
-                progressions, les changements de rhythme et les ingénieuses combinaisons
-                instrumentales donnent à ce morceau un caractère superbe et produisent un très grand
-                effet. Mais je me demande ce que cette analyse technique peut bien apprendre au
-                lecteur. Il n’y a cependant pas de raison pour que je m’arrête en si beau chemin, et
-                j’aurais fort à dire sur les cadences rompues, les contre-sujets, les imitations et
-                les divertissements, les fugues obligées et les fugues libres, les contre-points
-                simples, les contre-points doubles et les contre-points fleuris dont le compositeur
-                a usé avec une science, avec une habileté qui doivent le placer très-haut, <cb
-                    break="yes" n="1d" type="regular"/> beaucoup plus haut peut-être qu’il n’a
-                jamais été, dans l’estime de ses savants confrères. Mais c’est justement à cause de
-                cette habileté dans l’art d’écrire qu’on peut s’étonner des quelques négligences qui
-                ont échappé à la plume de M. <persName ref="#verdi.giuseppe">Verdi</persName>, des
-                trois quintes successives, par exemple, qui sont dans l’accompagnement du solo de
-                basse: <hi rend="italic"><title n="oro-supplex" ref="#verdi.requiem.2.confutatis"
-                        >Oro supplex et acclinis</title></hi>, au commencement du <hi rend="italic"
-                        ><title ref="#verdi.requiem.2.confutatis">Confutatis</title></hi>. Pourquoi
-                ces quintes, qui doivent être voulues évidemment, car il était bien facile de les
-                éviter, mais dont l’excuse n’est certainement pas, comme pour celles du chœur des
-                cloches de <hi rend="italic"><title ref="#rossini.guillaume-tell">Guillaume
-                        Tell</title></hi>, dans l’originalité de l’effet? Je n’aime pas davantage la
-                brusque transition de l’accord de <hi rend="italic">si</hi> majeur à celui de <hi
-                    rend="italic">sol</hi> mineur à la reprise du <hi rend="italic"><title
-                        n="dies-irae" ref="#verdi.requiem.2.confutatis">Dies irae</title></hi>,
-                cette transition étant à peine adoucie par un point d’arrêt à l’orchestre et par un
-                point d’orgue sur la dominante à l’avant-dernière mesure du chant.</p>
-            <p>Le <hi rend="italic"><title ref="#verdi.requiem.2">Dies irae</title></hi> se compose
-                de neuf morceaux dont chacun forme un épisode distinct, bien qu’ils soient liés l’un
-                à l’autre de façon à présenter un tableau complet de cette partie lugubre et
-                terrible du drame: le jugement dernier. Le souffle de <persName
-                    ref="#mozart.wolfgang-amadeus">Mozart</persName> semble passer sur les premières
-                mesures du chœur, malgré le brusque changement de rhythme par lequel elles se
-                terminent. Mais voici qui est plus grave: les trompettes qui sonnent et se répondent
-                à l’entrée du <hi rend="italic"><title ref="#verdi.requiem.2.tuba-mirum">Tuba
-                        mirum</title></hi> sonnent d’une façon à peu près identique et se répondent
-                pareillement dans le <hi rend="italic"><title ref="#berlioz.grande-messe-des-morts"
-                        >Requiem</title></hi> de <persName ref="#berlioz.hector"
-                >Berlioz</persName>(1). <cb break="yes" n="1e" type="regular"/> C’est la même
-                tonalité, avec la différence du majeur au mineur dans les premiers accords; c’est le
-                même rhythme; ce sont les mêmes triolets, le même accord de septième de dominante,
-                le même <hi rend="italic">crescendo</hi>. Seulement, M. <persName
-                    ref="#verdi.giuseppe">Verdi</persName> n’a employé que quatre groupes de
-                trompettes placés aux quatre angles de l’orchestre, tandis que <persName
-                    ref="#berlioz.hector">Berlioz</persName> a disposé aux quatre points cardinaux
-                quatre orchestres d’instruments de cuivre: trompettes et cornets, trombones,
-                ophicléides et tubas, obtenant ainsi, à l’aide de moyens beaucoup plus compliqués,
-                un effet autrement saisissant, autrement grandiose. <persName ref="#berlioz.hector"
-                    >Berlioz</persName> vivant, M. <persName ref="#verdi.giuseppe">Verdi</persName>
-                aurait peut-être hésité à s’approprier une combinaison aussi caractéristique, et je
-                considère comme un devoir d’en revendiquer la priorité pour le maître que j’admire
-                et que j’aimais.</p>
-            <p>«Écoutez bien ceci... », nous dit <persName ref="#berlioz.hector">Berlioz</persName>
-                dans ses Mémoires. Écoutons.</p>
-            <p>«Mes exécutants étaient divisés en plusieurs groupes assez distants les uns des
-                autres, et il faut qu’il en soit ainsi pour les quatre orchestres d’instruments de
-                cuivre que j’ai employés dans le <hi rend="italic"><title
-                        ref="#berlioz.grande-messe-des-morts.dies-irae">Tuba mirum</title></hi>, et
-                qui doivent occuper chacun un angle de la grande masse vocale et instrumentale. Au
-                moment de leur entrée, au début du <hi rend="italic"><title
-                        ref="#berlioz.grande-messe-des-morts.dies-irae">Tuba mirum</title></hi>, qui
-                s’enchaîne sans interruption avec le <hi rend="italic"><title
-                        ref="#berlioz.grande-messe-des-morts.dies-irae">Dies irae</title></hi>, le
-                mouvement s’élargit du double: tous les instruments de cuivre éclatent d’abord à la
-                fois dans le nouveau mouvement, <hi rend="italic">puis s’interpellent et se
-                    répondent à distance par des entrées successives, échafaudées à la tierce
-                    supérieure les uns des autres</hi>. Il est donc de la plus haute importance de
-                clairement indiquer les quatre temps de la grande mesure à l’instant où elle
-                intervient. Sans quoi, ce terrible cata<cb break="no" n="1f" type="regular"/>clysme
-                musical, préparé de si longue main, où des moyens exceptionnels et formidables sont
-                employés dans des proportions et des combinaisons que nul n’avait tentées alors <hi
-                    rend="italic">et n’a essayées depuis</hi>, ce tableau musical du jugement
-                dernier qui restera, je l’espère, <hi rend="italic">comme quelque chose de grand
-                    dans notre art</hi>, peut ne produire qu’une immense et effroyable
-                cacophonie.»</p>
-            <p>Bien que <persName ref="#berlioz.hector">Berlioz</persName> eût l’habitude de diriger
-                lui-même l’exécution de ses ouvrages, le directeur des Beaux-Arts avait obtenu de
-                lui qu’il voulût bien, pour l’exécution de son <hi rend="italic"><title
-                        ref="#berlioz.grande-messe-des-morts">Requiem</title></hi>, qui eut lieu
-                dans l’<placeName ref="#paris.invalidendom">église des Invalides</placeName>, à
-                l’occasion de la mort du général <persName ref="#damremont.charles-marie-denys"
-                    >Damrémont</persName> et des officiers et soldats tués au siège de <placeName
-                    ref="#constantine">Constantine</placeName>, céder le bâton à <persName
-                    ref="#habeneck.francois-antoine">Habeneck</persName>. Or, <persName
-                    ref="#habeneck.francois-antoine">Habeneck</persName> et <persName
-                    ref="#berlioz.hector">Berlioz</persName> étaient brouillés depuis longtemps: ils
-                se réconcilièrent.</p>
-            <p>«Mes répétitions, partielles et générales, ajoute <persName ref="#berlioz.hector"
-                    >Berlioz</persName>, se firent en effet avec beaucoup de soin. <persName
-                    ref="#habeneck.francois-antoine">Habeneck</persName> me parla comme si nos
-                relations n’eus sent jamais été interrompues, et l’ouvrage me parut devoir bien
-                marcher........ »</p>
-            <p>«Le jour de l’exécution, par suite de ma défiance habituelle, j’étais resté derrière
-                    <persName ref="#habeneck.francois-antoine">Habeneck</persName>, et, lui tournant
-                le dos, je surveillais le groupe des timbaliers, — il y avait huit paires de
-                timbales — qu’il ne pouvait pas voir, le moment approchant où ils allaient prendre
-                part à la mêlée générale. Il y a peut-être mille mesures dans mon <hi rend="italic"
-                        ><title ref="#berlioz.grande-messe-des-morts">Requiem</title></hi>.
-                Précisément sur celle dont je viens de parler, celle où le mouvement s’élargit,
-                celle où les instruments de cuivre lancent leur terrible fanfare, sur la mesure
-                unique enfin dans laquelle l’action du chef d’orchestre est absolument <pb
-                    break="yes" n="2a" type="regular"/> indispensable, <persName
-                    ref="#habeneck.francois-antoine">Habeneck</persName>
-                <hi rend="italic">baisse son bâton, tire tranquillement sa tabatière et se met à
-                    prendre une prise de tabac</hi>. J’avais toujours l’œil de son côté; à l’instant
-                je pivote rapidement sur un talon, et, m’élançant devant lui, j’étends mon bras et
-                je marque les quatre grands temps du nouveau mouvement. Les orchestres me suivent,
-                tout part en ordre; je conduis le morceau jusqu’à la fin, et l’effet que j’avais
-                rêvé est produit.... »</p>
-            <p>M. <persName ref="#verdi.giuseppe">Verdi</persName> n’avait point à craindre un
-                pareil accident, d’abord parce que, ainsi que je l’ai dit plus haut, sa petite
-                fanfare de huit trompettes ne sonnant pas d’une façon aussi terrible que celle de
-                    <persName ref="#berlioz.hector">Berlioz</persName> était beaucoup plus facile à
-                diriger et, en second lieu, parce que M. <persName ref="#verdi.giuseppe"
-                    >Verdi</persName> conduisait l’orchestre lui-même, ce dont il s’est acquitté
-                avec une habilité, un tact, une maestria, une dignité d’attitude et de gestes dont
-                je ne saurais trop le complimenter. J’ajouterai que, dans le cas où l’orchestre de
-                    l’<placeName ref="#paris.opera-comique">Opéra-Comique</placeName> eût été placé
-                sous la direction de son habile chef, M. <persName ref="#deloffre.adolphe"
-                    >Deloffre</persName>, qui à la première répétition a cédé très courtoisement, et
-                dans des termes excellents, le bâton de commandement au célèbre compositeur, un
-                accident tel que celui qui faillit compromettre l’exécution du <hi rend="italic"
-                        ><title ref="#berlioz.grande-messe-des-morts.dies-irae">Tuba
-                    mirum</title></hi> de <persName ref="#berlioz.hector">Berlioz</persName> n’était
-                pas davantage à redouter: M. <persName ref="#deloffre.adolphe">Deloffre</persName>
-                ne prise pas.</p>
-            <p>Les appels de trompettes continuent pendant le <hi rend="italic">Tuba mirum</hi>
-                entonné par les basses (je reviens au <hi rend="italic"><title ref="#verdi.requiem"
-                        >Requiem</title></hi> de <persName ref="#verdi.giuseppe">Verdi</persName>
-                sans pour cela abandonner tout à fait le <hi rend="italic"><title
-                        ref="#berlioz.grande-messe-des-morts">Requiem</title></hi> de <persName
-                    ref="#berlioz.hector">Berlioz</persName>), et la basse solo laisse tomber comme
-                un glas funèbre entrecoupé de notes de timbales les accents froids et désolés du <hi
-                    rend="italic"><title n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">Mors
-                        stupebit</title></hi>.</p>
-            <cb break="yes" n="2b" type="regular"/>
-            <p>J’aime moins la fugue un peu trop sautillante du <hi rend="italic"><title
-                        ref="#verdi.requiem.2.liber-scriptus">Liber scriptus</title></hi>, qui
-                ramène par une progression ascendante la seconde partie du <hi rend="italic"><title
-                        ref="#verdi.requiem.2">Dies irae</title></hi> dont les dernières mesures se
-                perdent dans la demi-teinte et le pianissimo.</p>
-            <p>Le <hi rend="italic"><title ref="#verdi.requiem.2.quid-sum-miser">Quid sum
-                        miser</title></hi>, trio pour soprano, mezzo soprano et ténor, débute par
-                une phrase dolente, très courte, mais très expressive, exécutée par deux clarinettes
-                en tierces, et sur laquelle entrent des arpéges de basson. J’ai entendu reprocher à
-                la phrase principale de ce morceau un défaut de carrure (la phrase chantée n’est en
-                effet que de trois mesures), mais ce reproche n’est pas fondé, le chant ne faisant
-                que continuer la mélodie confiée d’abord aux clarinettes. Le caractère du morceau, à
-                part certain passage à l’unisson que je trouve un peu trop italien, est d’une
-                élégante simplicité et d’un bon sentiment; les voix y sont parfaitement disposées,
-                et je louerai à ce sujet l’art profond avec lequel est traitée la partie vocale dans
-                l’œuvre de M. <persName ref="#verdi.giuseppe">Verdi</persName>. Il s’est gardé cette
-                fois de ces exagérations qui lui sont si familières dans ses œuvres dramatiques,
-                même les meilleures.</p>
-            <p>Il y aurait eu peut-être quelque rapprochement à faire entre le <hi rend="italic"
-                        ><title ref="#verdi.requiem.2.rex-tremendae">Rex tremende</title></hi> et
-                celui de <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> si M. <persName
-                    ref="#verdi.giuseppe">Verdi</persName> n’eût pris soin d’éviter la comparaison
-                dès le début par des oppositions de piano et de forte entre le chant des basses et
-                les réponses du chœur. Cette page est d’ailleurs très belle, et la phrase mélodique
-                    <hi rend="italic"><title n="salva-me" ref="#verdi.requiem.2.rex-tremendae">Salva
-                        me, fons pietatis</title></hi> est conduite très habilement et par
-                d’ingénieuses modulations à travers les différentes parties des soli qu’accompagne
-                le chœur.</p>
-            <cb break="yes" n="2c" type="regular"/>
-            <p>Le <hi rend="italic"><title ref="#verdi.requiem.2.recordare">Recordare</title></hi> à
-                deux voix (soprano et mezzo-soprano), à part sa valeur musicale, a produit une très
-                grande sensation par la façon dont il a été chanté. L’union de ces deux belles voix
-                avait un charme inexprimable, et je reviendrai tout à l’heure sur le talent
-                remarquable des interprètes (j’emploie le mot au féminin) de l’œuvre de M. <persName
-                    ref="#verdi.giuseppe">Verdi</persName>. L’entrée du mezzo-soprano, les notes de
-                flûte et de clarinette qui se détachent sur les tenues du quatuor, les trémolos <hi
-                    rend="italic">pianissimo</hi>, les oppositions de nuances, tout cela est
-                intéressant, parfaitement écrit et d’un excellent style. Cet éloge rendra moins
-                amère la critique du morceau suivant: <hi rend="italic"><title n="qui-mariam"
-                        ref="#verdi.requiem.2.ingemisco">Qui Mariam absolvisti</title></hi>, que le
-                ténor a chanté au-dessous du ton et que l’on dirait détaché de la partition d’<hi
-                    rend="italic"><title ref="#verdi.aida">Aïda</title></hi>; ces trémolos de
-                violons divisés, ces traits de bassons et de clarinettes, et la forme mélodique
-                elle-même, m’ont fait songer à la grande scène entre <title
-                    ref="#verdi.aida.amneris">Amnéris</title> et les prêtres qui viennent de
-                condamner <title ref="#verdi.aida.radames">Radamès</title>.</p>
-            <p>Dans le <hi rend="italic"><title ref="#verdi.requiem.2.confutatis"
-                    >Confutatis</title></hi>, il n’y a pas seulement le <hi rend="italic">lapsus
-                    calami</hi> ou peut-être bien les quintes volontaires que j’ai signalées plus
-                haut; il y a aussi un souffle puissant et des gammes chromatiques en mouvement
-                contraire, accompagnées par les éclats des trombones, qui expriment de la façon la
-                plus dramatique la terreur des maudits que les flammes de l’enfer attendent.</p>
-            <p>Au drame du <hi rend="italic"><title ref="#verdi.requiem.2">Dies irae</title></hi>
-                succède dans un ton plus doux le <hi rend="italic"><title
-                        ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title></hi>, dont j’aime mieux
-                les développements que le sujet; les premiers et seconds violons à l’octave dominent
-                l’accompagnement de leurs notes plaintives et syncopées; la lamentation <cb
-                    break="yes" n="2d" type="regular"/> augmente, grandit, puis s’éteint
-                graduellement à l’entrée du <hi rend="italic"><title n="pie-jesu"
-                        ref="#verdi.requiem.2.lacrymosa">Pie Jesu</title></hi>, que chantent d’abord
-                les quatre voix soli et qui se termine avec l’intervention du chœur.</p>
-            <p>L’<hi rend="italic"><title ref="#verdi.requiem.3">Offertoire</title></hi> est écrit
-                tout entier pour quatre voix seules; le chant principal, confié d’abord aux altos et
-                aux violoncelles, est répété ensuite par les violons en sourdine; le rhythme change,
-                le mouvement aussi, et le <hi rend="italic"><title n="quam-olim-abrahae"
-                        ref="#verdi.requiem.3">Quam olim Abrahæ</title></hi>, traité en style fugué,
-                sert de trait d’union entre le <hi rend="italic"><title n="domine-jesu"
-                        ref="#verdi.requiem.3">Domine Jesù</title></hi> et l’<hi rend="italic"
-                        ><title n="hostias" ref="#verdi.requiem.3">Hostias et preces</title></hi>,
-                dont la mélodie, chantée par le ténor solo, puis par la basse, est pleine d’onction
-                et de suavité. Le retour du premier motif à six-huit forme la péroraison de l’<hi
-                    rend="italic"><title ref="#verdi.requiem.3">Offertoire</title></hi> qui peut
-                être cité comme une des pages les plus complètes et les plus remarquables de la
-                partition.</p>
-            <p>La fugue à deux chœurs du <hi rend="italic"><title ref="#verdi.requiem.4"
-                        >Sanctus</title></hi> doit lever, il me semble, toute incertitude au sujet
-                des aptitudes scolastiques de M. <persName ref="#verdi.giuseppe">Verdi</persName>.
-                    <persName ref="#cherubini.luigi">Cherubini</persName> lui-même se fût incliné
-                devant cette page de haute science, écrite à huit parties réelles et aussi
-                habilement traitée dans l’orchestre que dans les voix.</p>
-            <p>L’<hi rend="italic"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> débute par
-                un chant de soprano et de contralto à l’octave, un chant d’une tendresse un peu
-                mélancolique qui m’aurait ému davantage sans le rinforzando placé sur le verset
-                final: <hi rend="italic"><title ref="#verdi.requiem.5">Dona eis
-                requiem</title></hi>; aussi l’ai-je bien mieux goûté lorsqu’il est repris par le
-                chœur, les soprani cette fois chantant à l’unisson des contralti et des ténors:
-                présenté avec cette nouvelle disposition des voix, il est plus calme, plus
-                religieux; le contre-sujet exécuté par les flûtes à la dernière reprise est du
-                meilleur effet et admirablement écrit.</p>
-            <cb break="yes" n="2e" type="regular"/>
-            <p>Nous rentrons dans le style théâtral avec le <hi rend="italic">Lux eterna</hi>, du
-                moins quant aux premières mesures du morceau: trémolos des violons divisés et
-                marches d’harmonie rappelant la scène de l’invocation du <hi rend="italic"><title
-                        ref="#meyerbeer.le-prophete">Prophète</title></hi>. La basse attaque ensuite
-                le <hi rend="italic"><title n="requiem-aeternam" ref="#verdi.requiem.6">Requiem
-                        eternam</title></hi>, et sous les trémolos exécutés par les altos et les
-                violoncelles se détachent quelques accords d’instruments de cuivre dans le grave;
-                les voix chantent sans accompagnement jusqu’à la reprise du <hi rend="italic"><title
-                        n="requiem-aeternam" ref="#verdi.requiem.6">Requiem eternam</title></hi>, et
-                il nous faut signaler encore une nouvelle réminiscence d’<hi rend="italic"><title
-                        ref="#verdi.aida">Aïda</title></hi> dans la phrase du soprano: <hi
-                    rend="italic"><title ref="#unidentified">Quià pius es</title></hi>. Le morceau
-                finit <hi rend="italic">smorzando</hi> avec la reprise des trémolos de violons et
-                des accords d’instruments de cuivre.</p>
-            <p>Le <hi rend="italic"><title ref="#verdi.requiem.7">Libera me</title></hi> commence
-                par une psalmodie du soprano-solo continuée par le chœur; puis le chant du soprano
-                se développe, large et très expressif, sur d’intéressans dessins du quatuor. La voix
-                s’éteint graduellement, tout se tait, et, après un silence prolongé, l’orchestre
-                attaque de nouveau les vigoureux accords du <hi rend="italic"><title n="dies-irae"
-                        ref="#verdi.requiem.7">Dies irae</title></hi>, auquel succède la reprise du
-                    <hi rend="italic"><title n="requiem-aeternam" ref="#verdi.requiem.7"
-                        >Requiem</title></hi> sans accompagnement, les voix se substituant aux
-                instruments.</p>
-            <p>Les accents suppliants du soprano-solo viennent se superposer sur les derniers
-                épisodes de la fugue du <hi rend="italic"><title n="libera-me.fuga"
-                        ref="#verdi.requiem.7">Libera me</title></hi> et le chœur chantant à <hi
-                    rend="italic">mezza voce</hi> n’accompagne plus que d’un léger murmure cette
-                émouvante prière.</p>
-            <p>Quelques notes non mesurées dites pianissimo par le soprano et répétées à l’unisson
-                par le chœur, la dernière lueur de la lampe qui s’éteint sous les arceaux d’une
-                cathédrale, voilà comment finit cette belle œuvre qui, malgré quelques réminiscences
-                    <cb break="yes" n="2f" type="regular"/> et de légers défauts, a produit une
-                impression profonde et marquera une glorieuse étape de plus dans la carrière du
-                compositeur.</p>
-            <p>Nous félicitons M. <persName ref="#locle.camille-du">du Locle</persName> et nous le
-                remercions bien sincèrement de l’initiative qu’il a prise. Le directeur courait des
-                risques auquel le poëte, le collaborateur et l’ami de <persName
-                    ref="#verdi.giuseppe">Verdi</persName>, n’a pas songé. Aujourd’hui le succès l’a
-                récompensé, et si ce succès est dû principalement au mérite réel de l’œuvre, il faut
-                en attribuer une bonne partie aussi aux artistes qui l’ont si merveilleusement
-                interprétée. M<hi rend="superscript">me</hi>
-                <persName ref="#stolz.teresa">Teresa Stolz</persName> et M<hi rend="superscript"
-                    >me</hi>
-                <persName ref="#waldmann.maria">Waldmann</persName> ont des voix superbes; elles
-                chantent comme chantaient les grandes cantatrices dramatiques que nous avons connues
-                jadis et qui depuis longtemps ne chantent plus. L’une est Slave ou Hongroise,
-                l’autre est Autrichienne: toutes deux sont des artistes d’un talent magistral, d’un
-                talent hors ligne. Pourquoi donc nous répéter sans cesse qu’il n’y a plus de
-                chanteurs, qu’il n’y a plus de cantatrices ni en France ni ailleurs ? Quand on en
-                voudra, on en trouvera, et des œuvres pareillement. Ne nous faisons pas plus pauvres
-                que nous ne sommes; ne faisons pas notre époque plus stérile qu’elle n’est. Si
-                vraiment chez nous et de par le monde il n’y avait plus d’artistes, plus de
-                compositeurs, plus d’ œuvres, plus rien que le découragement d’une part et la
-                stérilité de l’autre, nous n’aurions plus qu’à transformer notre nouvel Opéra en un
-                établissement de bienfaisance, dernier asile des musiciens nécessiteux, et à en
-                confier la direction au baron <persName ref="#taylor.isidore">Taylor</persName>.</p>
-            <p rend="right"><persName ref="#reyer.ernest">E. REYER</persName>.</p>
-            <p rend="smaller">(1) Le <hi rend="italic"><title ref="#berlioz.grande-messe-des-morts"
-                        >Requiem</title></hi> de <persName ref="#berlioz.hector">Berlioz</persName>,
-                comme celui de M. <persName ref="#verdi.giuseppe">Verdi</persName>, est publié par
-                l’editeur Ricordi, à <placeName ref="#mailand">Milan</placeName>; à <placeName
-                    ref="#paris">Paris</placeName>, le <hi rend="italic"><title ref="#verdi.requiem"
-                        >Requiem</title></hi> de M. <persName ref="#verdi.giuseppe">Verdi</persName>
-                est la propriété de M. <persName ref="#escudier.leon">Léon Escudier</persName>.</p>
-        </body>
-    </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Journal des Débats, Paris, 14. Juni 1874</title>
+				<author><persName ref="#reyer.ernest"/></author>
+				<principal>Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>http://verdi-requiem.de/text/jdd_1874-06-1_feuilleton.xml</p>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<orgName ref="#journal-des-debats"/>
+					<placeName ref="#paris"/>
+					<date when-custom="sun" when-iso="1874-06-14"/>
+					<series>jdd</series>
+					<biblScope unit="page">1–2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation><placeName ref="#paris"/></creation>
+			<textClass>
+				<keywords>
+					<term type="textType">Werkbesprechung</term>
+					<term type="corpusGroup">Rezeptionsgeschichte</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<p>see http://verdi-requiem.de for a detailed description</p>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic n="jdd_1874-06-14_1.png"
+			url="http://gallica.bnf.fr/ark:/12148/bpt6k459024p/f1.item" xml:id="f1"/>
+		<graphic n="jdd_1874-06-14_2.png"
+			url="http://gallica.bnf.fr/ark:/12148/bpt6k459024p/f2.item" xml:id="f2"/>
+	</facsimile>
+	<text xml:lang="fr">
+		<body rend="antiqua">
+			<head rend="larger">FEUILLETON DU JOURNAL DES DÉBATS</head>
+			<head>DU 14 JUIN 1874</head>
+			<head>―</head>
+			<head><hi rend="widespace">REVUE MUSICALE</hi>.</head>
+			<p>La <hi rend="italic"><title ref="#verdi.requiem">Messe de Requiem</title></hi>, de M.
+					<persName ref="#verdi.giuseppe">G. Verdi</persName>.</p>
+			<p>Cette <hi rend="italic"><title ref="#verdi.requiem">Messe de Requiem</title></hi> a
+				été composée par M. <persName ref="#verdi.giuseppe">Verdi</persName> et exécutée le
+					<date when-iso="1874-05-22">22 mai</date> dans l’église <placeName
+					ref="#mailand.san-marco">Saint-Marc</placeName>, à <placeName ref="#mailand"
+					>Milan</placeName>, pour l’anniversaire de la mort d’<persName
+					ref="#manzoni.alessandro">Alexandre Manzoni</persName>, l’auteur du <hi
+					rend="italic">Comte de Carmagnole</hi> et des Fiancés (<hi rend="italic">i
+					promessi Sposi</hi>), l’un des plus grands poëtes italiens de ce siècle, l’ami
+				de M. <persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>. M. <persName
+					ref="#locle.camille-du">Camille du Locle</persName>, directeur de l’<placeName
+					ref="#paris.opera-comique">Opéra-Comique</placeName>, étant parti pour
+					<placeName ref="#mailand">Milan</placeName>, a assisté à l’exécution de cette
+				œuvre; il a été témoin du succès d’enthousiasme qu’elle a excité, et comme il est
+				lui-même un des plus intimes amis de M. <persName ref="#verdi.giuseppe"
+					>Verdi</persName>, il a obtenu de l’illustre maître l’autorisation de la faire
+				entendre à <placeName ref="#paris">Paris</placeName>, non pas à <placeName
+					ref="#paris.st-eustache">Saint-Eustache</placeName> ou à <placeName
+					ref="#paris.notre-dame">Notre-Dame</placeName>, mais à l’<placeName
+					ref="#paris.opera-comique">Opéra-Comique</placeName>, non pas dans une église,
+				mais dans un théâtre, où elle n’est point déplacée assurément.</p>
+			<p>Le <hi rend="italic"><title ref="#verdi.requiem">Requiem</title></hi> de M. <persName
+					ref="#verdi.giuseppe">Verdi</persName> est bien plus une œuvre dramatique qu’une
+				œuvre religieuse; mais il ne serait pas juste de se placer, pour la juger, à un
+				autre point de vue que celui où s’est placé le compositeur pour l’écrire. Les
+				musiciens qui, depuis la révolution accomplie par <persName
+					ref="#palestrina.giovanni-pierluigi">Palestrina</persName>, se sont inspirés des
+				textes liturgiques, ont cru devoir s’astreindre, dans des limites différentes, à ce
+				que l’on appelle les exigences du style religieux. Ces exigences ne comportent pas
+				seulement l’emploi du contre-point, de la fugue, des imitations, <cb break="yes"
+					n="1b" type="regular"/> en un mot, de tous les artifices de la science
+				scolastique, mais elles imposent à la mélodie une forme et un caractère
+				particuliers. Or, c’est principalement par le caractère et par la forme de la
+				mélodie que M. <persName ref="#verdi.giuseppe">Verdi</persName>, dans son <hi
+					rend="italic"><title ref="#verdi.requiem">Requiem</title></hi>, s’est affranchi,
+				je ne dirai pas d’une règle, mais d’une coutume à laquelle reviendront toujours les
+				compositeurs que les splendeurs imposantes du culte catholique inspirent
+				véritablement.</p>
+			<p>Une fois cette réserve faite, je serai plus à Paise pour louer comme elle le mérite
+				la belle et savante composition de l’auteur d’<hi rend="italic"><title
+						ref="#verdi.aida">Aïda</title></hi>. J’ai constaté, on s’en souvient
+				peut-être, en rendant compte de cet ouvrage que je suis allé entendre au <placeName
+					ref="#cairo">Caire</placeName>, combien il était supérieur, suivant moi, aux
+				précédents ouvrages de M. <persName ref="#verdi.giuseppe">Verdi</persName>, et
+				quelle transformation il indiquait dans le talent du maître. Dans la <hi
+					rend="italic"><title ref="#verdi.requiem">Messe de Requiem</title></hi>, ce sont
+				les mêmes préoccupations, les mêmes recherches, lès mêmes procédés, le même soin,
+				avec les mêmes délicatesses de détail, apportés au travail de l’instrumentation. Je
+				ne veux pas aller plus loin, et, m’autorisant de quelques réminiscences qui ne
+				pouvaient m’échapper, aller jusqu’à dire que c’est le même style. D’ailleurs, les
+				ressemblances de ce genre se rencontrent peut-être plus fréquemment chez les
+				compositeurs dont l’individualité est marquée d’une forte empreinte, et j’ai répondu
+				d’avance à ceux qui pourraient s’étonner de ces souvenirs fugitifs d’une œuvre
+				essentiellement dramatique dans une œuvre écrite sur un texte religieux.</p>
+			<p>Le <hi rend="italic"><title ref="#verdi.requiem">Requiem</title></hi> de M. <persName
+					ref="#verdi.giuseppe">Verdi</persName> est écrit à quatre parties, avec soli à
+				quatre parties également. Il n’y a pas d’introduction : les té<cb break="no" n="1c"
+					type="regular"/>nors et les basses entrent sur la septième mesure de l’orchestre
+				par une quinte psalmodiée, que reprennent à leur tour les soprani et les contralti,
+				pour aboutir à l’accord parfait de <hi rend="italic">mi majeur</hi> en <hi
+					rend="italic">tutti</hi>. Alors, sur une phrase plaintive qu’accompagne une
+				marche harmonique simple, mais d’une contexture élégante, quatre soprani soli
+				achèvent le verset et chantent en notes syncopées le <hi rend="italic"><title
+						key="bar:12" n="requiem-aeternam" ref="#verdi.requiem.1">Dona eis,
+						Domine</title></hi>. Par une de ces oppositions que le maître affectionne,
+				l’orchestre continue dans le mode majeur la phrase commencée; les voix du chœur se
+				répondent en notes syllabiques, murmurées à <hi rend="italic">mezza voce</hi>; puis
+				les quatre voix <hi rend="italic">soli</hi> chantent sans accompagnement quelques
+				mesures en style fugué qui ramènent le <hi rend="italic"><title ref="#verdi.requiem"
+						>Requiem</title></hi> jusqu’au <hi rend="italic"><title
+						n="requiem-aeternam.re" ref="#verdi.requiem.1">Luceat eis</title></hi>. Les
+				mêmes voix traitées dans le même style et entrant successivement l’une après l’autre
+				répètent la même phrase: <hi rend="italic"><title n="kyrie" ref="#verdi.requiem.1"
+						>Kyrie eleison, Christe eleison</title></hi>, avec un dessin persistant des
+				basses <hi rend="italic">staccati</hi>; l’entrée du chœur, les développements, les
+				progressions, les changements de rhythme et les ingénieuses combinaisons
+				instrumentales donnent à ce morceau un caractère superbe et produisent un très grand
+				effet. Mais je me demande ce que cette analyse technique peut bien apprendre au
+				lecteur. Il n’y a cependant pas de raison pour que je m’arrête en si beau chemin, et
+				j’aurais fort à dire sur les cadences rompues, les contre-sujets, les imitations et
+				les divertissements, les fugues obligées et les fugues libres, les contre-points
+				simples, les contre-points doubles et les contre-points fleuris dont le compositeur
+				a usé avec une science, avec une habileté qui doivent le placer très-haut, <cb
+					break="yes" n="1d" type="regular"/> beaucoup plus haut peut-être qu’il n’a
+				jamais été, dans l’estime de ses savants confrères. Mais c’est justement à cause de
+				cette habileté dans l’art d’écrire qu’on peut s’étonner des quelques négligences qui
+				ont échappé à la plume de M. <persName ref="#verdi.giuseppe">Verdi</persName>, des
+				trois quintes successives, par exemple, qui sont dans l’accompagnement du solo de
+				basse: <hi rend="italic"><title n="oro-supplex" ref="#verdi.requiem.2.confutatis"
+						>Oro supplex et acclinis</title></hi>, au commencement du <hi rend="italic"
+						><title ref="#verdi.requiem.2.confutatis">Confutatis</title></hi>. Pourquoi
+				ces quintes, qui doivent être voulues évidemment, car il était bien facile de les
+				éviter, mais dont l’excuse n’est certainement pas, comme pour celles du chœur des
+				cloches de <hi rend="italic"><title ref="#rossini.guillaume-tell">Guillaume
+						Tell</title></hi>, dans l’originalité de l’effet? Je n’aime pas davantage la
+				brusque transition de l’accord de <hi rend="italic">si</hi> majeur à celui de <hi
+					rend="italic">sol</hi> mineur à la reprise du <hi rend="italic"><title
+						n="dies-irae" ref="#verdi.requiem.2.confutatis">Dies irae</title></hi>,
+				cette transition étant à peine adoucie par un point d’arrêt à l’orchestre et par un
+				point d’orgue sur la dominante à l’avant-dernière mesure du chant.</p>
+			<p>Le <hi rend="italic"><title ref="#verdi.requiem.2">Dies irae</title></hi> se compose
+				de neuf morceaux dont chacun forme un épisode distinct, bien qu’ils soient liés l’un
+				à l’autre de façon à présenter un tableau complet de cette partie lugubre et
+				terrible du drame: le jugement dernier. Le souffle de <persName
+					ref="#mozart.wolfgang-amadeus">Mozart</persName> semble passer sur les premières
+				mesures du chœur, malgré le brusque changement de rhythme par lequel elles se
+				terminent. Mais voici qui est plus grave: les trompettes qui sonnent et se répondent
+				à l’entrée du <hi rend="italic"><title ref="#verdi.requiem.2.tuba-mirum">Tuba
+						mirum</title></hi> sonnent d’une façon à peu près identique et se répondent
+				pareillement dans le <hi rend="italic"><title ref="#berlioz.grande-messe-des-morts"
+						>Requiem</title></hi> de <persName ref="#berlioz.hector"
+				>Berlioz</persName>(1). <cb break="yes" n="1e" type="regular"/> C’est la même
+				tonalité, avec la différence du majeur au mineur dans les premiers accords; c’est le
+				même rhythme; ce sont les mêmes triolets, le même accord de septième de dominante,
+				le même <hi rend="italic">crescendo</hi>. Seulement, M. <persName
+					ref="#verdi.giuseppe">Verdi</persName> n’a employé que quatre groupes de
+				trompettes placés aux quatre angles de l’orchestre, tandis que <persName
+					ref="#berlioz.hector">Berlioz</persName> a disposé aux quatre points cardinaux
+				quatre orchestres d’instruments de cuivre: trompettes et cornets, trombones,
+				ophicléides et tubas, obtenant ainsi, à l’aide de moyens beaucoup plus compliqués,
+				un effet autrement saisissant, autrement grandiose. <persName ref="#berlioz.hector"
+					>Berlioz</persName> vivant, M. <persName ref="#verdi.giuseppe">Verdi</persName>
+				aurait peut-être hésité à s’approprier une combinaison aussi caractéristique, et je
+				considère comme un devoir d’en revendiquer la priorité pour le maître que j’admire
+				et que j’aimais.</p>
+			<p>«Écoutez bien ceci... », nous dit <persName ref="#berlioz.hector">Berlioz</persName>
+				dans ses Mémoires. Écoutons.</p>
+			<p>«Mes exécutants étaient divisés en plusieurs groupes assez distants les uns des
+				autres, et il faut qu’il en soit ainsi pour les quatre orchestres d’instruments de
+				cuivre que j’ai employés dans le <hi rend="italic"><title
+						ref="#berlioz.grande-messe-des-morts.dies-irae">Tuba mirum</title></hi>, et
+				qui doivent occuper chacun un angle de la grande masse vocale et instrumentale. Au
+				moment de leur entrée, au début du <hi rend="italic"><title
+						ref="#berlioz.grande-messe-des-morts.dies-irae">Tuba mirum</title></hi>, qui
+				s’enchaîne sans interruption avec le <hi rend="italic"><title
+						ref="#berlioz.grande-messe-des-morts.dies-irae">Dies irae</title></hi>, le
+				mouvement s’élargit du double: tous les instruments de cuivre éclatent d’abord à la
+				fois dans le nouveau mouvement, <hi rend="italic">puis s’interpellent et se
+					répondent à distance par des entrées successives, échafaudées à la tierce
+					supérieure les uns des autres</hi>. Il est donc de la plus haute importance de
+				clairement indiquer les quatre temps de la grande mesure à l’instant où elle
+				intervient. Sans quoi, ce terrible cata<cb break="no" n="1f" type="regular"/>clysme
+				musical, préparé de si longue main, où des moyens exceptionnels et formidables sont
+				employés dans des proportions et des combinaisons que nul n’avait tentées alors <hi
+					rend="italic">et n’a essayées depuis</hi>, ce tableau musical du jugement
+				dernier qui restera, je l’espère, <hi rend="italic">comme quelque chose de grand
+					dans notre art</hi>, peut ne produire qu’une immense et effroyable
+				cacophonie.»</p>
+			<p>Bien que <persName ref="#berlioz.hector">Berlioz</persName> eût l’habitude de diriger
+				lui-même l’exécution de ses ouvrages, le directeur des Beaux-Arts avait obtenu de
+				lui qu’il voulût bien, pour l’exécution de son <hi rend="italic"><title
+						ref="#berlioz.grande-messe-des-morts">Requiem</title></hi>, qui eut lieu
+				dans l’<placeName ref="#paris.invalidendom">église des Invalides</placeName>, à
+				l’occasion de la mort du général <persName ref="#damremont.charles-marie-denys"
+					>Damrémont</persName> et des officiers et soldats tués au siège de <placeName
+					ref="#constantine">Constantine</placeName>, céder le bâton à <persName
+					ref="#habeneck.francois-antoine">Habeneck</persName>. Or, <persName
+					ref="#habeneck.francois-antoine">Habeneck</persName> et <persName
+					ref="#berlioz.hector">Berlioz</persName> étaient brouillés depuis longtemps: ils
+				se réconcilièrent.</p>
+			<p>«Mes répétitions, partielles et générales, ajoute <persName ref="#berlioz.hector"
+					>Berlioz</persName>, se firent en effet avec beaucoup de soin. <persName
+					ref="#habeneck.francois-antoine">Habeneck</persName> me parla comme si nos
+				relations n’eus sent jamais été interrompues, et l’ouvrage me parut devoir bien
+				marcher........ »</p>
+			<p>«Le jour de l’exécution, par suite de ma défiance habituelle, j’étais resté derrière
+					<persName ref="#habeneck.francois-antoine">Habeneck</persName>, et, lui tournant
+				le dos, je surveillais le groupe des timbaliers, — il y avait huit paires de
+				timbales — qu’il ne pouvait pas voir, le moment approchant où ils allaient prendre
+				part à la mêlée générale. Il y a peut-être mille mesures dans mon <hi rend="italic"
+						><title ref="#berlioz.grande-messe-des-morts">Requiem</title></hi>.
+				Précisément sur celle dont je viens de parler, celle où le mouvement s’élargit,
+				celle où les instruments de cuivre lancent leur terrible fanfare, sur la mesure
+				unique enfin dans laquelle l’action du chef d’orchestre est absolument <pb
+					break="yes" n="2a" type="regular"/> indispensable, <persName
+					ref="#habeneck.francois-antoine">Habeneck</persName>
+				<hi rend="italic">baisse son bâton, tire tranquillement sa tabatière et se met à
+					prendre une prise de tabac</hi>. J’avais toujours l’œil de son côté; à l’instant
+				je pivote rapidement sur un talon, et, m’élançant devant lui, j’étends mon bras et
+				je marque les quatre grands temps du nouveau mouvement. Les orchestres me suivent,
+				tout part en ordre; je conduis le morceau jusqu’à la fin, et l’effet que j’avais
+				rêvé est produit.... »</p>
+			<p>M. <persName ref="#verdi.giuseppe">Verdi</persName> n’avait point à craindre un
+				pareil accident, d’abord parce que, ainsi que je l’ai dit plus haut, sa petite
+				fanfare de huit trompettes ne sonnant pas d’une façon aussi terrible que celle de
+					<persName ref="#berlioz.hector">Berlioz</persName> était beaucoup plus facile à
+				diriger et, en second lieu, parce que M. <persName ref="#verdi.giuseppe"
+					>Verdi</persName> conduisait l’orchestre lui-même, ce dont il s’est acquitté
+				avec une habilité, un tact, une maestria, une dignité d’attitude et de gestes dont
+				je ne saurais trop le complimenter. J’ajouterai que, dans le cas où l’orchestre de
+					l’<placeName ref="#paris.opera-comique">Opéra-Comique</placeName> eût été placé
+				sous la direction de son habile chef, M. <persName ref="#deloffre.adolphe"
+					>Deloffre</persName>, qui à la première répétition a cédé très courtoisement, et
+				dans des termes excellents, le bâton de commandement au célèbre compositeur, un
+				accident tel que celui qui faillit compromettre l’exécution du <hi rend="italic"
+						><title ref="#berlioz.grande-messe-des-morts.dies-irae">Tuba
+					mirum</title></hi> de <persName ref="#berlioz.hector">Berlioz</persName> n’était
+				pas davantage à redouter: M. <persName ref="#deloffre.adolphe">Deloffre</persName>
+				ne prise pas.</p>
+			<p>Les appels de trompettes continuent pendant le <hi rend="italic">Tuba mirum</hi>
+				entonné par les basses (je reviens au <hi rend="italic"><title ref="#verdi.requiem"
+						>Requiem</title></hi> de <persName ref="#verdi.giuseppe">Verdi</persName>
+				sans pour cela abandonner tout à fait le <hi rend="italic"><title
+						ref="#berlioz.grande-messe-des-morts">Requiem</title></hi> de <persName
+					ref="#berlioz.hector">Berlioz</persName>), et la basse solo laisse tomber comme
+				un glas funèbre entrecoupé de notes de timbales les accents froids et désolés du <hi
+					rend="italic"><title n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">Mors
+						stupebit</title></hi>.</p>
+			<cb break="yes" n="2b" type="regular"/>
+			<p>J’aime moins la fugue un peu trop sautillante du <hi rend="italic"><title
+						ref="#verdi.requiem.2.liber-scriptus">Liber scriptus</title></hi>, qui
+				ramène par une progression ascendante la seconde partie du <hi rend="italic"><title
+						ref="#verdi.requiem.2">Dies irae</title></hi> dont les dernières mesures se
+				perdent dans la demi-teinte et le pianissimo.</p>
+			<p>Le <hi rend="italic"><title ref="#verdi.requiem.2.quid-sum-miser">Quid sum
+						miser</title></hi>, trio pour soprano, mezzo soprano et ténor, débute par
+				une phrase dolente, très courte, mais très expressive, exécutée par deux clarinettes
+				en tierces, et sur laquelle entrent des arpéges de basson. J’ai entendu reprocher à
+				la phrase principale de ce morceau un défaut de carrure (la phrase chantée n’est en
+				effet que de trois mesures), mais ce reproche n’est pas fondé, le chant ne faisant
+				que continuer la mélodie confiée d’abord aux clarinettes. Le caractère du morceau, à
+				part certain passage à l’unisson que je trouve un peu trop italien, est d’une
+				élégante simplicité et d’un bon sentiment; les voix y sont parfaitement disposées,
+				et je louerai à ce sujet l’art profond avec lequel est traitée la partie vocale dans
+				l’œuvre de M. <persName ref="#verdi.giuseppe">Verdi</persName>. Il s’est gardé cette
+				fois de ces exagérations qui lui sont si familières dans ses œuvres dramatiques,
+				même les meilleures.</p>
+			<p>Il y aurait eu peut-être quelque rapprochement à faire entre le <hi rend="italic"
+						><title ref="#verdi.requiem.2.rex-tremendae">Rex tremende</title></hi> et
+				celui de <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> si M. <persName
+					ref="#verdi.giuseppe">Verdi</persName> n’eût pris soin d’éviter la comparaison
+				dès le début par des oppositions de piano et de forte entre le chant des basses et
+				les réponses du chœur. Cette page est d’ailleurs très belle, et la phrase mélodique
+					<hi rend="italic"><title n="salva-me" ref="#verdi.requiem.2.rex-tremendae">Salva
+						me, fons pietatis</title></hi> est conduite très habilement et par
+				d’ingénieuses modulations à travers les différentes parties des soli qu’accompagne
+				le chœur.</p>
+			<cb break="yes" n="2c" type="regular"/>
+			<p>Le <hi rend="italic"><title ref="#verdi.requiem.2.recordare">Recordare</title></hi> à
+				deux voix (soprano et mezzo-soprano), à part sa valeur musicale, a produit une très
+				grande sensation par la façon dont il a été chanté. L’union de ces deux belles voix
+				avait un charme inexprimable, et je reviendrai tout à l’heure sur le talent
+				remarquable des interprètes (j’emploie le mot au féminin) de l’œuvre de M. <persName
+					ref="#verdi.giuseppe">Verdi</persName>. L’entrée du mezzo-soprano, les notes de
+				flûte et de clarinette qui se détachent sur les tenues du quatuor, les trémolos <hi
+					rend="italic">pianissimo</hi>, les oppositions de nuances, tout cela est
+				intéressant, parfaitement écrit et d’un excellent style. Cet éloge rendra moins
+				amère la critique du morceau suivant: <hi rend="italic"><title n="qui-mariam"
+						ref="#verdi.requiem.2.ingemisco">Qui Mariam absolvisti</title></hi>, que le
+				ténor a chanté au-dessous du ton et que l’on dirait détaché de la partition d’<hi
+					rend="italic"><title ref="#verdi.aida">Aïda</title></hi>; ces trémolos de
+				violons divisés, ces traits de bassons et de clarinettes, et la forme mélodique
+				elle-même, m’ont fait songer à la grande scène entre <title
+					ref="#verdi.aida.amneris">Amnéris</title> et les prêtres qui viennent de
+				condamner <title ref="#verdi.aida.radames">Radamès</title>.</p>
+			<p>Dans le <hi rend="italic"><title ref="#verdi.requiem.2.confutatis"
+					>Confutatis</title></hi>, il n’y a pas seulement le <hi rend="italic">lapsus
+					calami</hi> ou peut-être bien les quintes volontaires que j’ai signalées plus
+				haut; il y a aussi un souffle puissant et des gammes chromatiques en mouvement
+				contraire, accompagnées par les éclats des trombones, qui expriment de la façon la
+				plus dramatique la terreur des maudits que les flammes de l’enfer attendent.</p>
+			<p>Au drame du <hi rend="italic"><title ref="#verdi.requiem.2">Dies irae</title></hi>
+				succède dans un ton plus doux le <hi rend="italic"><title
+						ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title></hi>, dont j’aime mieux
+				les développements que le sujet; les premiers et seconds violons à l’octave dominent
+				l’accompagnement de leurs notes plaintives et syncopées; la lamentation <cb
+					break="yes" n="2d" type="regular"/> augmente, grandit, puis s’éteint
+				graduellement à l’entrée du <hi rend="italic"><title n="pie-jesu"
+						ref="#verdi.requiem.2.lacrymosa">Pie Jesu</title></hi>, que chantent d’abord
+				les quatre voix soli et qui se termine avec l’intervention du chœur.</p>
+			<p>L’<hi rend="italic"><title ref="#verdi.requiem.3">Offertoire</title></hi> est écrit
+				tout entier pour quatre voix seules; le chant principal, confié d’abord aux altos et
+				aux violoncelles, est répété ensuite par les violons en sourdine; le rhythme change,
+				le mouvement aussi, et le <hi rend="italic"><title n="quam-olim-abrahae"
+						ref="#verdi.requiem.3">Quam olim Abrahæ</title></hi>, traité en style fugué,
+				sert de trait d’union entre le <hi rend="italic"><title n="domine-jesu"
+						ref="#verdi.requiem.3">Domine Jesù</title></hi> et l’<hi rend="italic"
+						><title n="hostias" ref="#verdi.requiem.3">Hostias et preces</title></hi>,
+				dont la mélodie, chantée par le ténor solo, puis par la basse, est pleine d’onction
+				et de suavité. Le retour du premier motif à six-huit forme la péroraison de l’<hi
+					rend="italic"><title ref="#verdi.requiem.3">Offertoire</title></hi> qui peut
+				être cité comme une des pages les plus complètes et les plus remarquables de la
+				partition.</p>
+			<p>La fugue à deux chœurs du <hi rend="italic"><title ref="#verdi.requiem.4"
+						>Sanctus</title></hi> doit lever, il me semble, toute incertitude au sujet
+				des aptitudes scolastiques de M. <persName ref="#verdi.giuseppe">Verdi</persName>.
+					<persName ref="#cherubini.luigi">Cherubini</persName> lui-même se fût incliné
+				devant cette page de haute science, écrite à huit parties réelles et aussi
+				habilement traitée dans l’orchestre que dans les voix.</p>
+			<p>L’<hi rend="italic"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> débute par
+				un chant de soprano et de contralto à l’octave, un chant d’une tendresse un peu
+				mélancolique qui m’aurait ému davantage sans le rinforzando placé sur le verset
+				final: <hi rend="italic"><title ref="#verdi.requiem.5">Dona eis
+				requiem</title></hi>; aussi l’ai-je bien mieux goûté lorsqu’il est repris par le
+				chœur, les soprani cette fois chantant à l’unisson des contralti et des ténors:
+				présenté avec cette nouvelle disposition des voix, il est plus calme, plus
+				religieux; le contre-sujet exécuté par les flûtes à la dernière reprise est du
+				meilleur effet et admirablement écrit.</p>
+			<cb break="yes" n="2e" type="regular"/>
+			<p>Nous rentrons dans le style théâtral avec le <hi rend="italic">Lux eterna</hi>, du
+				moins quant aux premières mesures du morceau: trémolos des violons divisés et
+				marches d’harmonie rappelant la scène de l’invocation du <hi rend="italic"><title
+						ref="#meyerbeer.le-prophete">Prophète</title></hi>. La basse attaque ensuite
+				le <hi rend="italic"><title n="requiem-aeternam" ref="#verdi.requiem.6">Requiem
+						eternam</title></hi>, et sous les trémolos exécutés par les altos et les
+				violoncelles se détachent quelques accords d’instruments de cuivre dans le grave;
+				les voix chantent sans accompagnement jusqu’à la reprise du <hi rend="italic"><title
+						n="requiem-aeternam" ref="#verdi.requiem.6">Requiem eternam</title></hi>, et
+				il nous faut signaler encore une nouvelle réminiscence d’<hi rend="italic"><title
+						ref="#verdi.aida">Aïda</title></hi> dans la phrase du soprano: <hi
+					rend="italic"><title ref="#unidentified">Quià pius es</title></hi>. Le morceau
+				finit <hi rend="italic">smorzando</hi> avec la reprise des trémolos de violons et
+				des accords d’instruments de cuivre.</p>
+			<p>Le <hi rend="italic"><title ref="#verdi.requiem.7">Libera me</title></hi> commence
+				par une psalmodie du soprano-solo continuée par le chœur; puis le chant du soprano
+				se développe, large et très expressif, sur d’intéressans dessins du quatuor. La voix
+				s’éteint graduellement, tout se tait, et, après un silence prolongé, l’orchestre
+				attaque de nouveau les vigoureux accords du <hi rend="italic"><title n="dies-irae"
+						ref="#verdi.requiem.7">Dies irae</title></hi>, auquel succède la reprise du
+					<hi rend="italic"><title n="requiem-aeternam" ref="#verdi.requiem.7"
+						>Requiem</title></hi> sans accompagnement, les voix se substituant aux
+				instruments.</p>
+			<p>Les accents suppliants du soprano-solo viennent se superposer sur les derniers
+				épisodes de la fugue du <hi rend="italic"><title n="libera-me.fuga"
+						ref="#verdi.requiem.7">Libera me</title></hi> et le chœur chantant à <hi
+					rend="italic">mezza voce</hi> n’accompagne plus que d’un léger murmure cette
+				émouvante prière.</p>
+			<p>Quelques notes non mesurées dites pianissimo par le soprano et répétées à l’unisson
+				par le chœur, la dernière lueur de la lampe qui s’éteint sous les arceaux d’une
+				cathédrale, voilà comment finit cette belle œuvre qui, malgré quelques réminiscences
+					<cb break="yes" n="2f" type="regular"/> et de légers défauts, a produit une
+				impression profonde et marquera une glorieuse étape de plus dans la carrière du
+				compositeur.</p>
+			<p>Nous félicitons M. <persName ref="#locle.camille-du">du Locle</persName> et nous le
+				remercions bien sincèrement de l’initiative qu’il a prise. Le directeur courait des
+				risques auquel le poëte, le collaborateur et l’ami de <persName
+					ref="#verdi.giuseppe">Verdi</persName>, n’a pas songé. Aujourd’hui le succès l’a
+				récompensé, et si ce succès est dû principalement au mérite réel de l’œuvre, il faut
+				en attribuer une bonne partie aussi aux artistes qui l’ont si merveilleusement
+				interprétée. M<hi rend="superscript">me</hi>
+				<persName ref="#stolz.teresa">Teresa Stolz</persName> et M<hi rend="superscript"
+					>me</hi>
+				<persName ref="#waldmann.maria">Waldmann</persName> ont des voix superbes; elles
+				chantent comme chantaient les grandes cantatrices dramatiques que nous avons connues
+				jadis et qui depuis longtemps ne chantent plus. L’une est Slave ou Hongroise,
+				l’autre est Autrichienne: toutes deux sont des artistes d’un talent magistral, d’un
+				talent hors ligne. Pourquoi donc nous répéter sans cesse qu’il n’y a plus de
+				chanteurs, qu’il n’y a plus de cantatrices ni en France ni ailleurs ? Quand on en
+				voudra, on en trouvera, et des œuvres pareillement. Ne nous faisons pas plus pauvres
+				que nous ne sommes; ne faisons pas notre époque plus stérile qu’elle n’est. Si
+				vraiment chez nous et de par le monde il n’y avait plus d’artistes, plus de
+				compositeurs, plus d’ œuvres, plus rien que le découragement d’une part et la
+				stérilité de l’autre, nous n’aurions plus qu’à transformer notre nouvel Opéra en un
+				établissement de bienfaisance, dernier asile des musiciens nécessiteux, et à en
+				confier la direction au baron <persName ref="#taylor.isidore">Taylor</persName>.</p>
+			<p rend="right"><persName ref="#reyer.ernest">E. REYER</persName>.</p>
+			<p rend="smaller">(1) Le <hi rend="italic"><title ref="#berlioz.grande-messe-des-morts"
+						>Requiem</title></hi> de <persName ref="#berlioz.hector">Berlioz</persName>,
+				comme celui de M. <persName ref="#verdi.giuseppe">Verdi</persName>, est publié par
+				l’editeur Ricordi, à <placeName ref="#mailand">Milan</placeName>; à <placeName
+					ref="#paris">Paris</placeName>, le <hi rend="italic"><title ref="#verdi.requiem"
+						>Requiem</title></hi> de M. <persName ref="#verdi.giuseppe">Verdi</persName>
+				est la propriété de M. <persName ref="#escudier.leon">Léon Escudier</persName>.</p>
+		</body>
+	</text>
 </TEI>

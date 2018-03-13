@@ -4,9 +4,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Orte</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
 				<p>http://verdi-requiem.de/orte</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<p/>
@@ -20,8 +22,8 @@
 		<body>
 			<listPlace>
 				<head>Continents</head>
-				<place xml:id="afrika" type="continent">
-					<placeName xml:lang="de" type="index">Afrika</placeName>
+				<place type="continent" xml:id="afrika">
+					<placeName type="index" xml:lang="de">Afrika</placeName>
 					<placeName xml:lang="en">Africa</placeName>
 					<placeName xml:lang="fr">Afrique</placeName>
 					<placeName xml:lang="it">Africa</placeName>
@@ -29,8 +31,8 @@
 					<placeName xml:lang="ru">Африка</placeName>
 					<bibl type="de.wikipedia.org">Afrika</bibl>
 				</place>
-				<place xml:id="europa" type="continent">
-					<placeName xml:lang="de" type="index">Europa</placeName>
+				<place type="continent" xml:id="europa">
+					<placeName type="index" xml:lang="de">Europa</placeName>
 					<placeName xml:lang="en">Europe</placeName>
 					<placeName xml:lang="fr">Europe</placeName>
 					<placeName xml:lang="it">Europa</placeName>
@@ -38,8 +40,8 @@
 					<placeName xml:lang="ru">Европа</placeName>
 					<bibl type="de.wikipedia.org">Europa</bibl>
 				</place>
-				<place xml:id="nordamerika" type="continent">
-					<placeName xml:lang="de" type="index">Nordamerika</placeName>
+				<place type="continent" xml:id="nordamerika">
+					<placeName type="index" xml:lang="de">Nordamerika</placeName>
 					<placeName xml:lang="en">North America</placeName>
 					<placeName xml:lang="fr">Amérique du Nord</placeName>
 					<placeName xml:lang="it">America settentrionale</placeName>
@@ -47,8 +49,8 @@
 					<placeName xml:lang="ru">Северная Америка</placeName>
 					<bibl type="de.wikipedia.org">Nordamerika</bibl>
 				</place>
-				<place xml:id="suedamerika" type="continent">
-					<placeName xml:lang="de" type="index">Südamerika</placeName>
+				<place type="continent" xml:id="suedamerika">
+					<placeName type="index" xml:lang="de">Südamerika</placeName>
 					<placeName xml:lang="en">South America</placeName>
 					<placeName xml:lang="fr">Amérique du Sud</placeName>
 					<placeName xml:lang="it">America meridionale</placeName>
@@ -59,8 +61,8 @@
 			</listPlace>
 			<listPlace>
 				<head>Countries, Blocks and Regions</head>
-				<place xml:id="aegypten" type="country">
-					<placeName xml:lang="de" type="index">Ägypten</placeName>
+				<place type="country" xml:id="aegypten">
+					<placeName type="index" xml:lang="de">Ägypten</placeName>
 					<placeName xml:lang="en">Egypt</placeName>
 					<placeName xml:lang="fr">Égypte</placeName>
 					<placeName xml:lang="it">Egitto</placeName>
@@ -71,21 +73,21 @@
 					</location>
 					<bibl type="de.wikipedia.org">Ägypten</bibl>
 				</place>
-				<place xml:id="bayern" type="country">
-					<placeName xml:lang="de" type="index">Bayern</placeName>
+				<place type="country" xml:id="bayern">
+					<placeName type="index" xml:lang="de">Bayern</placeName>
 					<placeName xml:lang="en">Bavaria</placeName>
 					<placeName xml:lang="fr">Bavière</placeName>
 					<placeName xml:lang="it">Baviera</placeName>
 					<placeName xml:lang="pl">Bawaria</placeName>
 					<placeName xml:lang="ru">Бавария</placeName>
-					<country ref="#deutschland" from="1871" role="administration"/>
+					<country from="1871" ref="#deutschland" role="administration"/>
 					<location>
 						<geogName ref="#europa" role="continent"/>
 					</location>
 					<bibl type="de.wikipedia.org">Bayern</bibl>
 				</place>
-				<place xml:id="belgien" type="country">
-					<placeName xml:lang="de" type="index">Belgien</placeName>
+				<place type="country" xml:id="belgien">
+					<placeName type="index" xml:lang="de">Belgien</placeName>
 					<placeName xml:lang="en">Belgium</placeName>
 					<placeName xml:lang="fr">Belgique</placeName>
 					<placeName xml:lang="it">Belgio</placeName>
@@ -96,8 +98,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Belgien</bibl>
 				</place>
-				<place xml:id="boehmen" type="country">
-					<placeName xml:lang="de" type="index">Böhmen</placeName>
+				<place type="country" xml:id="boehmen">
+					<placeName type="index" xml:lang="de">Böhmen</placeName>
 					<placeName from="1993" xml:lang="de">Tschechien</placeName>
 					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location>
@@ -105,8 +107,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Böhmen</bibl>
 				</place>
-				<place xml:id="brasilien" type="country">
-					<placeName xml:lang="de" type="index">Brasilien</placeName>
+				<place type="country" xml:id="brasilien">
+					<placeName type="index" xml:lang="de">Brasilien</placeName>
 					<placeName xml:lang="en">Brazil</placeName>
 					<placeName xml:lang="fr">Brésil</placeName>
 					<placeName xml:lang="it">Brasile</placeName>
@@ -117,9 +119,9 @@
 					</location>
 					<bibl type="de.wikipedia.org">Brasilien</bibl>
 				</place>
-				<place xml:id="deutschland" type="country">
-					<placeName xml:lang="de" type="index">Deutschland</placeName>
-					<placeName from="1871" xml:lang="de" to="1945">Deutsches Reich</placeName>
+				<place type="country" xml:id="deutschland">
+					<placeName type="index" xml:lang="de">Deutschland</placeName>
+					<placeName from="1871" to="1945" xml:lang="de">Deutsches Reich</placeName>
 					<placeName xml:lang="en">Germany</placeName>
 					<placeName xml:lang="fr">Allemagne</placeName>
 					<placeName xml:lang="it">Germania</placeName>
@@ -130,8 +132,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Deutschland</bibl>
 				</place>
-				<place xml:id="frankreich" type="country">
-					<placeName xml:lang="de" type="index">Frankreich</placeName>
+				<place type="country" xml:id="frankreich">
+					<placeName type="index" xml:lang="de">Frankreich</placeName>
 					<placeName xml:lang="en">France</placeName>
 					<placeName xml:lang="fr">France</placeName>
 					<placeName xml:lang="it">Francia</placeName>
@@ -142,8 +144,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Frankreich</bibl>
 				</place>
-				<place xml:id="griechenland" type="country">
-					<placeName xml:lang="de" type="index">Griechenland</placeName>
+				<place type="country" xml:id="griechenland">
+					<placeName type="index" xml:lang="de">Griechenland</placeName>
 					<placeName xml:lang="en">Greece</placeName>
 					<placeName xml:lang="fr">Grèce</placeName>
 					<placeName xml:lang="it">Grecia</placeName>
@@ -154,42 +156,42 @@
 					</location>
 					<bibl type="de.wikipedia.org">Griechenland</bibl>
 				</place>
-				<place xml:id="grossbritannien" type="country">
-					<placeName xml:lang="de" type="index">Großbritannien</placeName>
-					<placeName xml:lang="de" type="index">Vereinigtes Königreich</placeName>
-					<placeName from="1707" xml:lang="de" to="1801">Königreich
+				<place type="country" xml:id="grossbritannien">
+					<placeName type="index" xml:lang="de">Großbritannien</placeName>
+					<placeName type="index" xml:lang="de">Vereinigtes Königreich</placeName>
+					<placeName from="1707" to="1801" xml:lang="de">Königreich
 						Großbritannien</placeName>
-					<placeName from="1801" xml:lang="de" to="1927">Vereinigtes Königreich von
+					<placeName from="1801" to="1927" xml:lang="de">Vereinigtes Königreich von
 						Großbritannien und Irland</placeName>
 					<placeName from="1927" xml:lang="de">Vereinigtes Königreich Großbritannien und
 						Nordirland</placeName>
 					<placeName xml:lang="en">Great Britain</placeName>
 					<placeName xml:lang="en">United Kingdom</placeName>
-					<placeName from="1801" xml:lang="en" to="1927">United Kingdom of Great Britain
+					<placeName from="1801" to="1927" xml:lang="en">United Kingdom of Great Britain
 						and Ireland</placeName>
 					<placeName xml:lang="fr">Grande-Bretagne</placeName>
 					<placeName xml:lang="fr">Royaume-Uni</placeName>
-					<placeName from="1801" xml:lang="fr" to="1927">Royaume-Uni de Grande-Bretagne et
+					<placeName from="1801" to="1927" xml:lang="fr">Royaume-Uni de Grande-Bretagne et
 						d'Irlande</placeName>
 					<placeName xml:lang="it">Gran Bretagna</placeName>
 					<placeName xml:lang="it">Regno Unito</placeName>
-					<placeName from="1801" xml:lang="it" to="1927">Regno Unito di Gran Bretagna e
+					<placeName from="1801" to="1927" xml:lang="it">Regno Unito di Gran Bretagna e
 						Irlanda</placeName>
 					<placeName xml:lang="pl">Wielkiej Brytanii</placeName>
 					<placeName xml:lang="pl">Zjednoczone Królestwo</placeName>
-					<placeName from="1801" xml:lang="pl" to="1927">Zjednoczone Królestwo Wielkiej
+					<placeName from="1801" to="1927" xml:lang="pl">Zjednoczone Królestwo Wielkiej
 						Brytanii i Irlandii</placeName>
 					<placeName xml:lang="ru">Соединённое королевство</placeName>
 					<placeName xml:lang="ru">Великобритании</placeName>
-					<placeName from="1801" xml:lang="ru" to="1927">Соединённое королевство
+					<placeName from="1801" to="1927" xml:lang="ru">Соединённое королевство
 						Великобритании и Ирландии</placeName>
 					<location>
 						<geogName ref="#europa" role="continent"/>
 					</location>
 					<bibl type="de.wikipedia.org">Großbritannien</bibl>
 				</place>
-				<place xml:id="italien" type="country">
-					<placeName xml:lang="de" type="index">Italien</placeName>
+				<place type="country" xml:id="italien">
+					<placeName type="index" xml:lang="de">Italien</placeName>
 					<placeName xml:lang="en">Italy</placeName>
 					<placeName xml:lang="fr">Italié</placeName>
 					<placeName xml:lang="it">Italia</placeName>
@@ -200,25 +202,25 @@
 					</location>
 					<bibl type="de.wikipedia.org">Italien</bibl>
 				</place>
-				<place xml:id="lombardei" type="country">
-					<placeName xml:lang="de" type="index">Lombardei</placeName>
+				<place type="country" xml:id="lombardei">
+					<placeName type="index" xml:lang="de">Lombardei</placeName>
 					<country ref="#italien" role="administration"/>
 					<location>
 						<geogName ref="#europa" role="continent"/>
 					</location>
 					<bibl type="de.wikipedia.org">Königreich_Lombardo-Venetien</bibl>
 				</place>
-				<place xml:id="lombardo-venetien" type="country">
-					<placeName xml:lang="de" type="index">Lombardo-Venetien</placeName>
-					<placeName xml:lang="de" type="full">Königreich Lombardo-Venetien</placeName>
+				<place type="country" xml:id="lombardo-venetien">
+					<placeName type="index" xml:lang="de">Lombardo-Venetien</placeName>
+					<placeName type="full" xml:lang="de">Königreich Lombardo-Venetien</placeName>
 					<country ref="#italien" role="administration"/>
 					<location>
 						<geogName ref="#europa" role="continent"/>
 					</location>
 					<bibl type="de.wikipedia.org">Königreich_Lombardo-Venetien</bibl>
 				</place>
-				<place xml:id="maehren" type="country">
-					<placeName xml:lang="de" type="index">Mähren</placeName>
+				<place type="country" xml:id="maehren">
+					<placeName type="index" xml:lang="de">Mähren</placeName>
 					<placeName from="1993" xml:lang="de">Tschechien</placeName>
 					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location>
@@ -226,8 +228,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Mähren</bibl>
 				</place>
-				<place xml:id="makedonien" type="country">
-					<placeName xml:lang="de" type="index">Makedonien</placeName>
+				<place type="country" xml:id="makedonien">
+					<placeName type="index" xml:lang="de">Makedonien</placeName>
 					<placeName xml:lang="en">Macedonia</placeName>
 					<placeName xml:lang="fr">Macédoine</placeName>
 					<placeName xml:lang="it">Macedonia</placeName>
@@ -238,8 +240,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Makedonien_(antikes_Königreich)</bibl>
 				</place>
-				<place xml:id="niederlande" type="country">
-					<placeName xml:lang="de" type="index">Niederlande</placeName>
+				<place type="country" xml:id="niederlande">
+					<placeName type="index" xml:lang="de">Niederlande</placeName>
 					<placeName xml:lang="en">Netherlands</placeName>
 					<placeName xml:lang="fr">Pays-Bas</placeName>
 					<placeName xml:lang="it">Paesi Bassi</placeName>
@@ -250,8 +252,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Niederlande</bibl>
 				</place>
-				<place xml:id="norddeutschland" type="region">
-					<placeName xml:lang="de" type="index">Norddeutschland</placeName>
+				<place type="region" xml:id="norddeutschland">
+					<placeName type="index" xml:lang="de">Norddeutschland</placeName>
 					<placeName xml:lang="en">North Germany</placeName>
 					<location>
 						<country ref="#deutschland"/>
@@ -259,8 +261,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Norddeutschland</bibl>
 				</place>
-				<place xml:id="norditalien" type="region">
-					<placeName xml:lang="de" type="index">Norditalien</placeName>
+				<place type="region" xml:id="norditalien">
+					<placeName type="index" xml:lang="de">Norditalien</placeName>
 					<placeName xml:lang="en">North Italy</placeName>
 					<location>
 						<country ref="#italien"/>
@@ -268,8 +270,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Oberitalien</bibl>
 				</place>
-				<place xml:id="norwegen" type="country">
-					<placeName xml:lang="de" type="index">Norwegen</placeName>
+				<place type="country" xml:id="norwegen">
+					<placeName type="index" xml:lang="de">Norwegen</placeName>
 					<placeName xml:lang="en">Norway</placeName>
 					<placeName xml:lang="fr">Norvège</placeName>
 					<placeName xml:lang="it">Norvegia</placeName>
@@ -280,8 +282,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Norwegen</bibl>
 				</place>
-				<place xml:id="oesterreich" type="country">
-					<placeName xml:lang="de" type="index">Österreich</placeName>
+				<place type="country" xml:id="oesterreich">
+					<placeName type="index" xml:lang="de">Österreich</placeName>
 					<placeName xml:lang="en">Austria</placeName>
 					<placeName xml:lang="fr">Österreich</placeName>
 					<placeName xml:lang="it">Austria</placeName>
@@ -293,18 +295,18 @@
 					</location>
 					<bibl type="de.wikipedia.org">Österreich</bibl>
 				</place>
-				<place xml:id="oesterreich-ungarn" type="bloc">
-					<placeName xml:lang="de" type="index">Österreich-Ungarn</placeName>
-					<placeName from="1804" xml:lang="de" to="1867">Kaisertum Österreich</placeName>
+				<place type="bloc" xml:id="oesterreich-ungarn">
+					<placeName type="index" xml:lang="de">Österreich-Ungarn</placeName>
+					<placeName from="1804" to="1867" xml:lang="de">Kaisertum Österreich</placeName>
 					<location>
 						<geogName ref="#europa" role="continent"/>
 					</location>
 					<bibl type="de.wikipedia.org">Österreich-Ungarn</bibl>
 				</place>
-				<place xml:id="polen" type="country">
-					<placeName xml:lang="de" type="index">Polen</placeName>
-					<placeName xml:lang="de" to="1795">Königreich Polen</placeName>
-					<placeName from="1944" xml:lang="de" to="1989">Volksrepublik Polen</placeName>
+				<place type="country" xml:id="polen">
+					<placeName type="index" xml:lang="de">Polen</placeName>
+					<placeName to="1795" xml:lang="de">Königreich Polen</placeName>
+					<placeName from="1944" to="1989" xml:lang="de">Volksrepublik Polen</placeName>
 					<placeName xml:lang="en">Poland</placeName>
 					<placeName xml:lang="fr">Pologne</placeName>
 					<placeName xml:lang="it">Polonia</placeName>
@@ -315,16 +317,16 @@
 					</location>
 					<bibl type="de.wikipedia.org">Polen</bibl>
 				</place>
-				<place xml:id="rheinland" type="region">
-					<placeName xml:lang="de" type="index">Rheinland</placeName>
+				<place type="region" xml:id="rheinland">
+					<placeName type="index" xml:lang="de">Rheinland</placeName>
 					<country ref="#deutschland" role="administration"/>
 					<location>
 						<geogName ref="#europa" role="continent"/>
 					</location>
 					<bibl type="de.wikipedia.org">Rheinland</bibl>
 				</place>
-				<place xml:id="russland" type="country">
-					<placeName xml:lang="de" type="index">Russland</placeName>
+				<place type="country" xml:id="russland">
+					<placeName type="index" xml:lang="de">Russland</placeName>
 					<placeName xml:lang="en">Russia</placeName>
 					<placeName xml:lang="fr">Russie</placeName>
 					<placeName xml:lang="it">Russia</placeName>
@@ -335,8 +337,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Russland</bibl>
 				</place>
-				<place xml:id="schweden" type="country">
-					<placeName xml:lang="de" type="index">Schweden</placeName>
+				<place type="country" xml:id="schweden">
+					<placeName type="index" xml:lang="de">Schweden</placeName>
 					<placeName xml:lang="en">Sweden</placeName>
 					<placeName xml:lang="fr">Suède</placeName>
 					<placeName xml:lang="it">Svezia</placeName>
@@ -347,8 +349,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Schweden</bibl>
 				</place>
-				<place xml:id="schweiz" type="country">
-					<placeName xml:lang="de" type="index">Schweiz</placeName>
+				<place type="country" xml:id="schweiz">
+					<placeName type="index" xml:lang="de">Schweiz</placeName>
 					<placeName xml:lang="en">Switzerland</placeName>
 					<placeName xml:lang="fr">Suisse</placeName>
 					<placeName xml:lang="it">Svizzera</placeName>
@@ -359,15 +361,15 @@
 					</location>
 					<bibl type="de.wikipedia.org">Schweiz</bibl>
 				</place>
-				<place xml:id="skandinavien" type="block">
-					<placeName xml:lang="de" type="index">Skandinavien</placeName>
+				<place type="block" xml:id="skandinavien">
+					<placeName type="index" xml:lang="de">Skandinavien</placeName>
 					<location>
 						<geogName ref="#europa" role="continent"/>
 					</location>
 					<bibl type="de.wikipedia.org">Skandinavien</bibl>
 				</place>
-				<place xml:id="sueddeutschland" type="region">
-					<placeName xml:lang="de" type="index">Süddeutschland</placeName>
+				<place type="region" xml:id="sueddeutschland">
+					<placeName type="index" xml:lang="de">Süddeutschland</placeName>
 					<placeName xml:lang="en">South Germany</placeName>
 					<country ref="#deutschland" role="administration"/>
 					<location>
@@ -375,8 +377,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Süddeutschland</bibl>
 				</place>
-				<place xml:id="toskana" type="region">
-					<placeName xml:lang="de" type="index">Toskana</placeName>
+				<place type="region" xml:id="toskana">
+					<placeName type="index" xml:lang="de">Toskana</placeName>
 					<placeName xml:lang="en">Tuscany</placeName>
 					<placeName xml:lang="fr">Toscane</placeName>
 					<placeName xml:lang="it">Toscana</placeName>
@@ -387,8 +389,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Toskana</bibl>
 				</place>
-				<place xml:id="ukraine" type="country">
-					<placeName xml:lang="de" type="index">Ukraine</placeName>
+				<place type="country" xml:id="ukraine">
+					<placeName type="index" xml:lang="de">Ukraine</placeName>
 					<placeName xml:lang="en">Ukraine</placeName>
 					<placeName xml:lang="fr">Ukraine</placeName>
 					<placeName xml:lang="it">Ucraina</placeName>
@@ -399,8 +401,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Ukraine</bibl>
 				</place>
-				<place xml:id="ungarn" type="country">
-					<placeName xml:lang="de" type="index">Ungarn</placeName>
+				<place type="country" xml:id="ungarn">
+					<placeName type="index" xml:lang="de">Ungarn</placeName>
 					<placeName xml:lang="en">Hungary</placeName>
 					<placeName xml:lang="fr">Hongrie</placeName>
 					<placeName xml:lang="it">Ungheria</placeName>
@@ -412,9 +414,9 @@
 					</location>
 					<bibl type="de.wikipedia.org">Ungarn</bibl>
 				</place>
-				<place xml:id="usa" type="country">
-					<placeName xml:lang="de" type="index">USA</placeName>
-					<placeName xml:lang="de" type="index">Vereinigte Staaten</placeName>
+				<place type="country" xml:id="usa">
+					<placeName type="index" xml:lang="de">USA</placeName>
+					<placeName type="index" xml:lang="de">Vereinigte Staaten</placeName>
 					<placeName xml:lang="en">United States</placeName>
 					<placeName xml:lang="fr">États-Unis</placeName>
 					<placeName xml:lang="it">Stati Uniti</placeName>
@@ -428,8 +430,8 @@
 			</listPlace>
 			<listPlace>
 				<head>Settlements and Locations</head>
-				<place xml:id="aachen" type="settlement">
-					<placeName xml:lang="de" type="index">Aachen</placeName>
+				<place type="settlement" xml:id="aachen">
+					<placeName type="index" xml:lang="de">Aachen</placeName>
 					<placeName xml:lang="en">Aachen</placeName>
 					<placeName xml:lang="fr">Aix-la-Chapelle</placeName>
 					<placeName xml:lang="it">Aquisgrana</placeName>
@@ -452,14 +454,14 @@
 					<idno type="geohash.org">u1h2f7q5u</idno>
 					<bibl type="de.wikipedia.org">Aachen</bibl>
 				</place>
-				<place xml:id="aachen.kurhaus" type="location">
-					<placeName xml:lang="de" type="index">Kurhaus</placeName>
+				<place type="location" xml:id="aachen.kurhaus">
+					<placeName type="index" xml:lang="de">Kurhaus</placeName>
 					<placeName from="1916" type="other">Altes Kurhaus</placeName>
 					<settlement ref="#aachen" role="parentSettlement"/>
 					<bibl type="de.wikipedia.org">Altes_Kurhaus_Aachen</bibl>
 				</place>
-				<place xml:id="altona" type="settlement">
-					<placeName xml:lang="de" type="index">Altona</placeName>
+				<place type="settlement" xml:id="altona">
+					<placeName type="index" xml:lang="de">Altona</placeName>
 					<placeName xml:lang="en">Altona</placeName>
 					<placeName xml:lang="fr">Altona</placeName>
 					<placeName xml:lang="it">Altona</placeName>
@@ -477,8 +479,8 @@
 					<idno type="geohash.org">u1x0dh3pr</idno>
 					<bibl type="de.wikipedia.org">Bezirk_Altona</bibl>
 				</place>
-				<place xml:id="antwerpen" type="settlement">
-					<placeName xml:lang="de" type="index">Antwerpen</placeName>
+				<place type="settlement" xml:id="antwerpen">
+					<placeName type="index" xml:lang="de">Antwerpen</placeName>
 					<placeName xml:lang="en">Antwerp</placeName>
 					<placeName xml:lang="fr">Anvers</placeName>
 					<placeName xml:lang="it">Anversa</placeName>
@@ -492,8 +494,8 @@
 					<idno type="geonames.org">2803138</idno>
 					<bibl type="de.wikipedia.org">Antwerpen</bibl>
 				</place>
-				<place xml:id="athen" type="settlement">
-					<placeName xml:lang="de" type="index">Athen</placeName>
+				<place type="settlement" xml:id="athen">
+					<placeName type="index" xml:lang="de">Athen</placeName>
 					<placeName xml:lang="en">Athens</placeName>
 					<placeName xml:lang="fr">Athènes</placeName>
 					<placeName xml:lang="it">Atene</placeName>
@@ -507,8 +509,8 @@
 					<idno type="geonames.org">264371</idno>
 					<bibl type="de.wikipedia.org">Athen</bibl>
 				</place>
-				<place xml:id="augsburg" type="settlement">
-					<placeName xml:lang="de" type="index">Augsburg</placeName>
+				<place type="settlement" xml:id="augsburg">
+					<placeName type="index" xml:lang="de">Augsburg</placeName>
 					<placeName xml:lang="en">Augsburg</placeName>
 					<placeName xml:lang="fr">Augsbourg</placeName>
 					<placeName xml:lang="it">Augusta</placeName>
@@ -522,8 +524,8 @@
 					<idno type="geonames.org">2954172</idno>
 					<bibl type="de.wikipedia.org">Augsburg</bibl>
 				</place>
-				<place xml:id="basel" type="settlement">
-					<placeName xml:lang="de" type="index">Basel</placeName>
+				<place type="settlement" xml:id="basel">
+					<placeName type="index" xml:lang="de">Basel</placeName>
 					<placeName xml:lang="en">Basel</placeName>
 					<placeName xml:lang="fr">Bâle</placeName>
 					<placeName xml:lang="it">Basilea</placeName>
@@ -543,8 +545,8 @@
 					<idno type="geohash.org">u0mqsc8dp</idno>
 					<bibl type="de.wikipedia.org">Basel</bibl>
 				</place>
-				<place xml:id="bayreuth" type="settlement">
-					<placeName xml:lang="de" type="index">Bayreuth</placeName>
+				<place type="settlement" xml:id="bayreuth">
+					<placeName type="index" xml:lang="de">Bayreuth</placeName>
 					<placeName xml:lang="en">Bayreuth</placeName>
 					<placeName xml:lang="fr">Bayreuth</placeName>
 					<placeName xml:lang="it">Bayreuth</placeName>
@@ -561,8 +563,8 @@
 					<idno type="geonames.org">2951825</idno>
 					<bibl type="de.wikipedia.org">Bayreuth</bibl>
 				</place>
-				<place xml:id="bergamo" type="settlement">
-					<placeName xml:lang="de" type="index">Bergamo</placeName>
+				<place type="settlement" xml:id="bergamo">
+					<placeName type="index" xml:lang="de">Bergamo</placeName>
 					<placeName xml:lang="en">Bergamo</placeName>
 					<placeName xml:lang="fr">Bergame</placeName>
 					<placeName xml:lang="it">Bergamo</placeName>
@@ -577,8 +579,8 @@
 					<idno type="geohash.org">u0ngupng8</idno>
 					<bibl type="de.wikipedia.org">Bergamo</bibl>
 				</place>
-				<place xml:id="berlin" type="settlement">
-					<placeName xml:lang="de" type="index">Berlin</placeName>
+				<place type="settlement" xml:id="berlin">
+					<placeName type="index" xml:lang="de">Berlin</placeName>
 					<placeName xml:lang="en">Berlin</placeName>
 					<placeName xml:lang="fr">Berlin</placeName>
 					<placeName xml:lang="it">Berlino</placeName>
@@ -600,8 +602,8 @@
 					<idno type="geohash.org">u33dc0f42</idno>
 					<bibl type="de.wikipedia.org">Berlin</bibl>
 				</place>
-				<place xml:id="berlin.hofoper" type="location">
-					<placeName xml:lang="de" type="index">Königliche Hofoper Unter den
+				<place type="location" xml:id="berlin.hofoper">
+					<placeName type="index" xml:lang="de">Königliche Hofoper Unter den
 						Linden</placeName>
 					<location>
 						<settlement ref="#berlin" role="parentSettlement"/>
@@ -609,16 +611,16 @@
 					</location>
 					<bibl type="de.wikipedia.org">Staatsoper_Unter_den_Linden</bibl>
 				</place>
-				<place xml:id="berlin.kronprinzenpalais" type="location">
-					<placeName xml:lang="de" type="index">Kronprinzenpalais</placeName>
+				<place type="location" xml:id="berlin.kronprinzenpalais">
+					<placeName type="index" xml:lang="de">Kronprinzenpalais</placeName>
 					<location>
 						<settlement ref="#berlin" role="parentSettlement"/>
 						<geogName ref="#europa" role="continent"/>
 					</location>
 					<bibl type="de.wikipedia.org">Kronprinzenpalais_(Berlin)</bibl>
 				</place>
-				<place xml:id="bologna" type="settlement">
-					<placeName xml:lang="de" type="index">Bologna</placeName>
+				<place type="settlement" xml:id="bologna">
+					<placeName type="index" xml:lang="de">Bologna</placeName>
 					<placeName xml:lang="en">Bologna</placeName>
 					<placeName xml:lang="fr">Bologne</placeName>
 					<placeName xml:lang="it">Bologna</placeName>
@@ -637,15 +639,15 @@
 					<idno type="geohash.org">srbj4h53w</idno>
 					<bibl type="de.wikipedia.org">Bologna</bibl>
 				</place>
-				<place xml:id="bologna.san-petronio" type="location">
-					<placeName xml:lang="de" type="index">San Petronio</placeName>
+				<place type="location" xml:id="bologna.san-petronio">
+					<placeName type="index" xml:lang="de">San Petronio</placeName>
 					<location>
 						<settlement ref="#bologna" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">San_Petronio_Basilica</bibl>
 				</place>
-				<place xml:id="boston" type="settlement">
-					<placeName xml:lang="de" type="index">Boston</placeName>
+				<place type="settlement" xml:id="boston">
+					<placeName type="index" xml:lang="de">Boston</placeName>
 					<placeName xml:lang="en">Boston</placeName>
 					<placeName xml:lang="fr">Boston</placeName>
 					<placeName xml:lang="it">Boston</placeName>
@@ -660,8 +662,8 @@
 					<idno type="geohash.org">drt2yzpgere</idno>
 					<bibl type="de.wikipedia.org">Boston</bibl>
 				</place>
-				<place xml:id="bremen" type="settlement">
-					<placeName xml:lang="de" type="index">Bremen</placeName>
+				<place type="settlement" xml:id="bremen">
+					<placeName type="index" xml:lang="de">Bremen</placeName>
 					<placeName xml:lang="en">Bremen</placeName>
 					<placeName xml:lang="fr">Brême</placeName>
 					<placeName xml:lang="it">Brema</placeName>
@@ -683,12 +685,12 @@
 					<idno type="geohash.org">u1qmbqc1q</idno>
 					<bibl type="de.wikipedia.org">Bremen</bibl>
 				</place>
-				<place xml:id="breslau" type="settlement">
-					<placeName xml:lang="de" type="index" to="1945">Breslau</placeName>
+				<place type="settlement" xml:id="breslau">
+					<placeName to="1945" type="index" xml:lang="de">Breslau</placeName>
 					<placeName xml:lang="en">Breslau</placeName>
 					<placeName xml:lang="fr">Breslau</placeName>
 					<placeName xml:lang="it">Breslavia</placeName>
-					<placeName xml:lang="pl" type="index" from="1945">Wrocław</placeName>
+					<placeName from="1945" type="index" xml:lang="pl">Wrocław</placeName>
 					<placeName xml:lang="ru">Вроцлав</placeName>
 					<country ref="#deutschland" role="administration" to="1945"/>
 					<country from="1945" ref="#polen" role="administration"/>
@@ -707,8 +709,8 @@
 					<idno type="geohash.org">u3h4exzj4</idno>
 					<bibl type="de.wikipedia.org">Breslau</bibl>
 				</place>
-				<place xml:id="bristol" type="settlement">
-					<placeName xml:lang="de" type="index">Bristol</placeName>
+				<place type="settlement" xml:id="bristol">
+					<placeName type="index" xml:lang="de">Bristol</placeName>
 					<placeName xml:lang="en">Bristol</placeName>
 					<placeName xml:lang="fr">Bristol</placeName>
 					<placeName xml:lang="it">Bristol</placeName>
@@ -723,8 +725,8 @@
 					<idno type="geohash.org">gcnhtp583</idno>
 					<bibl type="de.wikipedia.org">Bristol</bibl>
 				</place>
-				<place xml:id="bruck-an-der-mur" type="settlement">
-					<placeName xml:lang="de" type="index">Bruck an der Mur</placeName>
+				<place type="settlement" xml:id="bruck-an-der-mur">
+					<placeName type="index" xml:lang="de">Bruck an der Mur</placeName>
 					<placeName xml:lang="en">Bruck an der Mur</placeName>
 					<placeName xml:lang="fr">Bruck an der Mur</placeName>
 					<placeName xml:lang="it">Bruck an der Mur</placeName>
@@ -739,13 +741,13 @@
 					<idno type="geonames.org">2781371</idno>
 					<bibl type="de.wikipedia.org">Bruck_an_der_Mur</bibl>
 				</place>
-				<place xml:id="bruenn" type="settlement">
-					<placeName xml:lang="de" type="index">Brünn</placeName>
+				<place type="settlement" xml:id="bruenn">
+					<placeName type="index" xml:lang="de">Brünn</placeName>
 					<placeName xml:lang="en">Brno</placeName>
 					<placeName xml:lang="fr">Brno</placeName>
 					<placeName xml:lang="it">Brno</placeName>
 					<placeName xml:lang="pl">Brno</placeName>
-					<placeName xml:lang="cz" type="index">Brno</placeName>
+					<placeName type="index" xml:lang="cz">Brno</placeName>
 					<placeName xml:lang="ru">Брно</placeName>
 					<country ref="#maehren" role="administration"/>
 					<bloc ref="#oesterreich-ungarn" role="administration"/>
@@ -762,22 +764,22 @@
 					<idno type="geohash.org">u2ezcgstz</idno>
 					<bibl type="de.wikipedia.org">Brünn</bibl>
 				</place>
-				<place xml:id="bruenn.redouta-theater" type="location">
-					<placeName xml:lang="de" type="index">Reduta-Theater</placeName>
+				<place type="location" xml:id="bruenn.redouta-theater">
+					<placeName type="index" xml:lang="de">Reduta-Theater</placeName>
 					<location>
 						<settlement ref="#bruenn" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Reduta-Theater</bibl>
 				</place>
-				<place xml:id="bruenn.stadttheater" type="location">
-					<placeName xml:lang="de" type="index">Deutsches Stadttheater</placeName>
+				<place type="location" xml:id="bruenn.stadttheater">
+					<placeName type="index" xml:lang="de">Deutsches Stadttheater</placeName>
 					<location>
 						<settlement ref="#bruenn" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Brünner_Stadttheater</bibl>
 				</place>
-				<place xml:id="bruessel" type="settlement">
-					<placeName xml:lang="de" type="index">Brüssel</placeName>
+				<place type="settlement" xml:id="bruessel">
+					<placeName type="index" xml:lang="de">Brüssel</placeName>
 					<placeName xml:lang="en">Brussels</placeName>
 					<placeName xml:lang="fr">Bruxelles</placeName>
 					<placeName xml:lang="it">Bruxelles</placeName>
@@ -791,17 +793,17 @@
 					<idno type="geonames.org">2800866</idno>
 					<bibl type="de.wikipedia.org">Brüssel</bibl>
 				</place>
-				<place xml:id="bruessel.la-monnaie" type="location">
-					<placeName xml:lang="de" type="index">Théâtre Royal de la Monnaie</placeName>
-					<placeName xml:lang="fr" type="index">Théâtre Royal de la Monnaie</placeName>
+				<place type="location" xml:id="bruessel.la-monnaie">
+					<placeName type="index" xml:lang="de">Théâtre Royal de la Monnaie</placeName>
+					<placeName type="index" xml:lang="fr">Théâtre Royal de la Monnaie</placeName>
 					<placeName>Koninklijke Muntschouwburg</placeName>
 					<location>
 						<settlement ref="#bruessel" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Brüsseler_Opernhaus_La_Monnaie/De_Munt</bibl>
 				</place>
-				<place xml:id="budapest.nationaltheater" type="location">
-					<placeName xml:lang="de" type="index">Ungarisches Nationaltheater</placeName>
+				<place type="location" xml:id="budapest.nationaltheater">
+					<placeName type="index" xml:lang="de">Ungarisches Nationaltheater</placeName>
 					<placeName>Magyar Nemzeti Színház</placeName>
 					<location>
 						<settlement ref="#pest" role="parentSettlement"/>
@@ -811,8 +813,8 @@
 					</population>
 					<bibl type="de.wikipedia.org">Nationaltheater_(Budapest)</bibl>
 				</place>
-				<place xml:id="buenos-aires" type="settlement">
-					<placeName xml:lang="de" type="index">Buenos Aires</placeName>
+				<place type="settlement" xml:id="buenos-aires">
+					<placeName type="index" xml:lang="de">Buenos Aires</placeName>
 					<placeName xml:lang="en">Buenos Aires</placeName>
 					<placeName xml:lang="fr">Buenos Aires</placeName>
 					<placeName xml:lang="it">Buenos Aires</placeName>
@@ -825,15 +827,15 @@
 					<idno type="geonames.org">3435910</idno>
 					<bibl type="de.wikipedia.org">Buenos_Aires</bibl>
 				</place>
-				<place xml:id="buenos-aires.teatro-opera" type="location">
-					<placeName xml:lang="de" type="index">Teatro Ópera</placeName>
+				<place type="location" xml:id="buenos-aires.teatro-opera">
+					<placeName type="index" xml:lang="de">Teatro Ópera</placeName>
 					<location>
 						<settlement ref="#buenos-aires" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">http://de.wikipedia.org/wiki/Teatro_Ópera</bibl>
 				</place>
-				<place xml:id="busseto" type="settlement">
-					<placeName xml:lang="de" type="index">Busseto</placeName>
+				<place type="settlement" xml:id="busseto">
+					<placeName type="index" xml:lang="de">Busseto</placeName>
 					<placeName xml:lang="en">Busseto</placeName>
 					<placeName xml:lang="fr">Busseto</placeName>
 					<placeName xml:lang="it">Busseto</placeName>
@@ -848,9 +850,9 @@
 					<idno type="geohash.org">spzpuknjw</idno>
 					<bibl type="de.wikipedia.org">Busseto</bibl>
 				</place>
-				<place xml:id="cairo" type="settlement">
-					<placeName xml:lang="de" type="index">Cairo</placeName>
-					<placeName xml:lang="de" type="index">Kairo</placeName>
+				<place type="settlement" xml:id="cairo">
+					<placeName type="index" xml:lang="de">Cairo</placeName>
+					<placeName type="index" xml:lang="de">Kairo</placeName>
 					<placeName xml:lang="en">Cairo</placeName>
 					<placeName xml:lang="fr">Le Caire</placeName>
 					<placeName xml:lang="it">Il Cairo</placeName>
@@ -865,8 +867,8 @@
 					<idno type="geohash.org">stq4yv3jk</idno>
 					<bibl type="de.wikipedia.org">Kairo</bibl>
 				</place>
-				<place xml:id="charlottenburg" type="settlement">
-					<placeName xml:lang="de" type="index">Charlottenburg</placeName>
+				<place type="settlement" xml:id="charlottenburg">
+					<placeName type="index" xml:lang="de">Charlottenburg</placeName>
 					<placeName xml:lang="en">Charlottenburg</placeName>
 					<placeName xml:lang="fr">Charlottenburg</placeName>
 					<placeName xml:lang="it">Charlottenburg</placeName>
@@ -884,9 +886,9 @@
 					<idno type="geohash.org">u336y8z21</idno>
 					<bibl type="de.wikipedia.org">Berlin-Charlottenburg</bibl>
 				</place>
-				<place xml:id="coburg" type="settlement">
-					<placeName xml:lang="de" type="index">Coburg</placeName>
-					<placeName xml:lang="de" type="index">Koburg</placeName>
+				<place type="settlement" xml:id="coburg">
+					<placeName type="index" xml:lang="de">Coburg</placeName>
+					<placeName type="index" xml:lang="de">Koburg</placeName>
 					<placeName xml:lang="en">Coburg</placeName>
 					<placeName xml:lang="fr">Coburg</placeName>
 					<placeName xml:lang="it">Coburg</placeName>
@@ -907,19 +909,19 @@
 					<idno type="geohash.org">u0zv6x2h2</idno>
 					<bibl type="de.wikipedia.org">Coburg</bibl>
 				</place>
-				<place xml:id="coburg.hoftheater" type="location">
+				<place type="location" xml:id="coburg.hoftheater">
 					<placeName type="index">Herzoglich sächsisches Hoftheater</placeName>
-					<placeName from="1827" xml:lang="de" to="1918">Herzoglich sächsisches
+					<placeName from="1827" to="1918" xml:lang="de">Herzoglich sächsisches
 						Hoftheater</placeName>
-					<placeName from="1918" xml:lang="de" to="1919">Theater in Coburg</placeName>
+					<placeName from="1918" to="1919" xml:lang="de">Theater in Coburg</placeName>
 					<placeName from="1919" xml:lang="de">Coburgisches Landestheater</placeName>
 					<location>
 						<settlement ref="#coburg" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Landestheater_Coburg</bibl>
 				</place>
-				<place xml:id="constantine" type="settlement">
-					<placeName xml:lang="de" type="index">Constantine</placeName>
+				<place type="settlement" xml:id="constantine">
+					<placeName type="index" xml:lang="de">Constantine</placeName>
 					<placeName xml:lang="en">Constantine</placeName>
 					<placeName xml:lang="fr">Constantine</placeName>
 					<placeName xml:lang="it">Costantina</placeName>
@@ -932,12 +934,12 @@
 					<idno type="geonames.org">2501152</idno>
 					<bibl type="de.wikipedia.org">Constantine_(Algerien)</bibl>
 				</place>
-				<place xml:id="danzig" type="settlement">
-					<placeName xml:lang="de" type="index">Danzig</placeName>
+				<place type="settlement" xml:id="danzig">
+					<placeName type="index" xml:lang="de">Danzig</placeName>
 					<placeName xml:lang="en">Gdansk</placeName>
 					<placeName xml:lang="fr">Gdansk</placeName>
 					<placeName xml:lang="it">Danzica</placeName>
-					<placeName xml:lang="pl" type="index">Gdańsk</placeName>
+					<placeName type="index" xml:lang="pl">Gdańsk</placeName>
 					<placeName xml:lang="ru">Гданьск</placeName>
 					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
@@ -953,14 +955,14 @@
 					<idno type="geonames.org">3099434</idno>
 					<bibl type="de.wikipedia.org">Danzig</bibl>
 				</place>
-				<place xml:id="danzig.schuetzenhaus" type="location">
-					<placeName xml:lang="de" type="index">Friedrich-Wilhelm-Schützenhaus</placeName>
+				<place type="location" xml:id="danzig.schuetzenhaus">
+					<placeName type="index" xml:lang="de">Friedrich-Wilhelm-Schützenhaus</placeName>
 					<bibl>
 						<settlement ref="#danzig" role="parentSettlement"/>
 					</bibl>
 				</place>
-				<place xml:id="darmstadt" type="settlement">
-					<placeName xml:lang="de" type="index">Darmstadt</placeName>
+				<place type="settlement" xml:id="darmstadt">
+					<placeName type="index" xml:lang="de">Darmstadt</placeName>
 					<placeName xml:lang="en">Darmstadt</placeName>
 					<placeName xml:lang="fr">Darmstadt</placeName>
 					<placeName xml:lang="it">Darmstadt</placeName>
@@ -981,8 +983,8 @@
 					<idno type="geohash.org">u0vgwzvp2</idno>
 					<bibl type="de.wikipedia.org">Darmstadt</bibl>
 				</place>
-				<place xml:id="dessau" type="settlement">
-					<placeName xml:lang="de" type="index">Dessau</placeName>
+				<place type="settlement" xml:id="dessau">
+					<placeName type="index" xml:lang="de">Dessau</placeName>
 					<placeName xml:lang="en">Dessau</placeName>
 					<placeName xml:lang="fr">Dessau</placeName>
 					<placeName xml:lang="it">Dessau</placeName>
@@ -1003,8 +1005,8 @@
 					<idno type="geohash.org">u30wvspsp</idno>
 					<bibl type="de.wikipedia.org">Dessau</bibl>
 				</place>
-				<place xml:id="dresden" type="settlement">
-					<placeName xml:lang="de" type="index">Dresden</placeName>
+				<place type="settlement" xml:id="dresden">
+					<placeName type="index" xml:lang="de">Dresden</placeName>
 					<placeName xml:lang="en">Dresden</placeName>
 					<placeName xml:lang="fr">Dresde</placeName>
 					<placeName xml:lang="it">Dresda</placeName>
@@ -1026,22 +1028,22 @@
 					<idno type="geohash.org">u31f2t7nj</idno>
 					<bibl type="de.wikipedia.org">Dresden</bibl>
 				</place>
-				<place xml:id="dresden.hoftheater" type="location">
-					<placeName xml:lang="de" type="index">Königliches Hoftheater</placeName>
-					<placeName from="1841" xml:lang="de" to="1869">Neues Königliches
+				<place type="location" xml:id="dresden.hoftheater">
+					<placeName type="index" xml:lang="de">Königliches Hoftheater</placeName>
+					<placeName from="1841" to="1869" xml:lang="de">Neues Königliches
 						Hoftheater</placeName>
-					<placeName from="1869" xml:lang="de" to="1878">Altstädter Interimstheater am
+					<placeName from="1869" to="1878" xml:lang="de">Altstädter Interimstheater am
 						Zwingerwall („Bretterbude“)</placeName>
-					<placeName from="1878" xml:lang="de" to="1945">Semperoper</placeName>
+					<placeName from="1878" to="1945" xml:lang="de">Semperoper</placeName>
 					<placeName from="1985" xml:lang="de">Semperoper</placeName>
 					<bibl>
 						<settlement ref="#dresden" role="parentSettlement"/>
 					</bibl>
 					<bibl type="de.wikipedia.org">Hoftheater_Dresden</bibl>
 				</place>
-				<place xml:id="dresden.neustaedter-hoftheater" type="location">
-					<placeName xml:lang="de" type="index">Neustädter Hoftheater Dresden</placeName>
-					<placeName from="1873 " xml:lang="de" to="1913">Neustädter Hoftheater
+				<place type="location" xml:id="dresden.neustaedter-hoftheater">
+					<placeName type="index" xml:lang="de">Neustädter Hoftheater Dresden</placeName>
+					<placeName from="1873 " to="1913" xml:lang="de">Neustädter Hoftheater
 						Dresden</placeName>
 					<bibl>
 						<settlement ref="#dresden" role="parentSettlement"/>
@@ -1049,8 +1051,8 @@
 					<bibl type="www"
 						>http://www.andreas-praefcke.de/carthalia/germany/dresden_neustaedter.htm</bibl>
 				</place>
-				<place xml:id="duesseldorf" type="settlement">
-					<placeName xml:lang="de" type="index">Düsseldorf</placeName>
+				<place type="settlement" xml:id="duesseldorf">
+					<placeName type="index" xml:lang="de">Düsseldorf</placeName>
 					<placeName xml:lang="en">Düsseldorf</placeName>
 					<placeName xml:lang="fr">Düsseldorf</placeName>
 					<placeName xml:lang="it">Düsseldorf</placeName>
@@ -1072,8 +1074,8 @@
 					<idno type="geohash.org">u1hg6jsr0</idno>
 					<bibl type="de.wikipedia.org">Düsseldorf</bibl>
 				</place>
-				<place xml:id="elberfeld" type="settlement">
-					<placeName xml:lang="de" type="index">Elberfeld</placeName>
+				<place type="settlement" xml:id="elberfeld">
+					<placeName type="index" xml:lang="de">Elberfeld</placeName>
 					<placeName xml:lang="en">Elberfeld</placeName>
 					<placeName xml:lang="fr">Elberfeld</placeName>
 					<placeName xml:lang="it">Elberfeld</placeName>
@@ -1096,8 +1098,8 @@
 					<idno type="geohash.org">u1j5dc95d</idno>
 					<bibl type="de.wikipedia.org">Elberfeld</bibl>
 				</place>
-				<place xml:id="erfurt" type="settlement">
-					<placeName xml:lang="de" type="index">Erfurt</placeName>
+				<place type="settlement" xml:id="erfurt">
+					<placeName type="index" xml:lang="de">Erfurt</placeName>
 					<placeName xml:lang="en">Erfurt</placeName>
 					<placeName xml:lang="fr">Erfurt</placeName>
 					<placeName xml:lang="it">Erfurt</placeName>
@@ -1111,8 +1113,8 @@
 					<idno type="geonames.org">2929670</idno>
 					<bibl type="de.wikipedia.org">Erfurt</bibl>
 				</place>
-				<place xml:id="ferrara" type="settlement">
-					<placeName xml:lang="de" type="index">Ferrara</placeName>
+				<place type="settlement" xml:id="ferrara">
+					<placeName type="index" xml:lang="de">Ferrara</placeName>
 					<placeName xml:lang="en">Ferrara</placeName>
 					<placeName xml:lang="fr">Ferrare</placeName>
 					<placeName xml:lang="it">Ferrara</placeName>
@@ -1126,8 +1128,8 @@
 					<idno type="geonames.org">3177090</idno>
 					<bibl type="de.wikipedia.org">Ferrara</bibl>
 				</place>
-				<place xml:id="florenz" type="settlement">
-					<placeName xml:lang="de" type="index">Florenz</placeName>
+				<place type="settlement" xml:id="florenz">
+					<placeName type="index" xml:lang="de">Florenz</placeName>
 					<placeName xml:lang="en">Florence</placeName>
 					<placeName xml:lang="fr">Florence</placeName>
 					<placeName xml:lang="it">Firenze</placeName>
@@ -1141,29 +1143,29 @@
 					<idno type="geonames.org">3176959</idno>
 					<bibl type="de.wikipedia.org">Florenz</bibl>
 				</place>
-				<place xml:id="florenz.teatro-pagliano" type="location">
-					<placeName xml:lang="de" to="1901" type="index">Teatro Pagliano</placeName>
+				<place type="location" xml:id="florenz.teatro-pagliano">
+					<placeName to="1901" type="index" xml:lang="de">Teatro Pagliano</placeName>
 					<placeName from="1901" xml:lang="de">Teatro Verdi</placeName>
 					<bibl>
 						<settlement ref="#florenz" role="parentSettlement"/>
 					</bibl>
 					<bibl type="it.wikipedia.org">Teatro_Verdi_(Firenze)</bibl>
 				</place>
-				<place xml:id="florenz.teatro-principe-umberto" type="location">
-					<placeName xml:lang="de" type="index">Teatro Principe Umberto</placeName>
-					<placeName xml:lang="de" type="index">Teatro Umberto I</placeName>
+				<place type="location" xml:id="florenz.teatro-principe-umberto">
+					<placeName type="index" xml:lang="de">Teatro Principe Umberto</placeName>
+					<placeName type="index" xml:lang="de">Teatro Umberto I</placeName>
 					<bibl>
 						<settlement ref="#florenz" role="parentSettlement"/>
 					</bibl>
 					<bibl type="it.wikipedia.org">Teatro_Umberto_I</bibl>
 				</place>
-				<place xml:id="frankfurt-am-main" type="settlement">
+				<place type="settlement" xml:id="frankfurt-am-main">
 					<placeName xml:lang="de">Frankfurt</placeName>
-					<placeName xml:lang="de" type="index">Frankfurt am Main</placeName>
-					<placeName xml:lang="de" to="1806">Freie Reichsstadt Frankfurt</placeName>
-					<placeName from="1810" xml:lang="de" to="1813">Großherzogtum
+					<placeName type="index" xml:lang="de">Frankfurt am Main</placeName>
+					<placeName to="1806" xml:lang="de">Freie Reichsstadt Frankfurt</placeName>
+					<placeName from="1810" to="1813" xml:lang="de">Großherzogtum
 						Frankfurt</placeName>
-					<placeName from="1815" xml:lang="de" to="1866">Freie Stadt Frankfurt</placeName>
+					<placeName from="1815" to="1866" xml:lang="de">Freie Stadt Frankfurt</placeName>
 					<placeName xml:lang="en">Frankfurt</placeName>
 					<placeName xml:lang="en">Frankfurt am Main</placeName>
 					<placeName xml:lang="fr">Francfort</placeName>
@@ -1189,8 +1191,8 @@
 					<idno type="geohash.org">u0yjjd6jk</idno>
 					<bibl type="de.wikipedia.org">Frankfurt</bibl>
 				</place>
-				<place xml:id="gent" type="settlement">
-					<placeName xml:lang="de" type="index">Gent</placeName>
+				<place type="settlement" xml:id="gent">
+					<placeName type="index" xml:lang="de">Gent</placeName>
 					<country ref="#belgien" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.05 3.71667</geo>
@@ -1199,8 +1201,8 @@
 					<idno type="geonames.org">2797656</idno>
 					<bibl type="de.wikipedia.org">Gent</bibl>
 				</place>
-				<place xml:id="genua" type="settlement">
-					<placeName xml:lang="de" type="index">Genua</placeName>
+				<place type="settlement" xml:id="genua">
+					<placeName type="index" xml:lang="de">Genua</placeName>
 					<placeName xml:lang="en">Genoa</placeName>
 					<placeName xml:lang="fr">Gênes</placeName>
 					<placeName xml:lang="it">Genova</placeName>
@@ -1215,24 +1217,24 @@
 					<idno type="geohash.org">spykeef3w</idno>
 					<bibl type="de.wikipedia.org">Genua</bibl>
 				</place>
-				<place xml:id="genua.palazzo-doria" type="location">
-					<placeName xml:lang="de" type="index">Palazzo Doria</placeName>
-					<placeName xml:lang="it" type="index">Palazzo Doria</placeName>
+				<place type="location" xml:id="genua.palazzo-doria">
+					<placeName type="index" xml:lang="de">Palazzo Doria</placeName>
+					<placeName type="index" xml:lang="it">Palazzo Doria</placeName>
 					<bibl>
 						<settlement ref="#genua" role="parentSettlement"/>
 					</bibl>
 					<bibl type="it.wikipedia.org">Villa_del_Principe</bibl>
 				</place>
-				<place xml:id="genua.teatro-carlo-felice" type="location">
-					<placeName xml:lang="de" type="index">Teatro Carlo Felice</placeName>
-					<placeName xml:lang="it" type="index">Teatro Carlo Felice</placeName>
+				<place type="location" xml:id="genua.teatro-carlo-felice">
+					<placeName type="index" xml:lang="de">Teatro Carlo Felice</placeName>
+					<placeName type="index" xml:lang="it">Teatro Carlo Felice</placeName>
 					<bibl>
 						<settlement ref="#genua" role="parentSettlement"/>
 					</bibl>
 					<bibl type="de.wikipedia.org">Teatro_Carlo_Felice</bibl>
 				</place>
-				<place xml:id="goettingen" type="settlement">
-					<placeName xml:lang="de" type="index">Göttingen</placeName>
+				<place type="settlement" xml:id="goettingen">
+					<placeName type="index" xml:lang="de">Göttingen</placeName>
 					<placeName xml:lang="en">Göttingen</placeName>
 					<placeName xml:lang="fr">Göttingen</placeName>
 					<placeName xml:lang="it">Gottinga</placeName>
@@ -1250,8 +1252,8 @@
 					<idno type="geohash.org">u1pj1yq8d</idno>
 					<bibl type="de.wikipedia.org">Göttingen</bibl>
 				</place>
-				<place xml:id="gotha" type="settlement">
-					<placeName xml:lang="de" type="index">Gotha</placeName>
+				<place type="settlement" xml:id="gotha">
+					<placeName type="index" xml:lang="de">Gotha</placeName>
 					<placeName xml:lang="en">Gotha</placeName>
 					<placeName xml:lang="fr">Gotha</placeName>
 					<placeName xml:lang="it">Gotha</placeName>
@@ -1272,8 +1274,8 @@
 					<idno type="geohash.org">u1p9gdw72</idno>
 					<bibl type="de.wikipedia.org">Gotha</bibl>
 				</place>
-				<place xml:id="graz" type="settlement">
-					<placeName xml:lang="de" type="index">Graz</placeName>
+				<place type="settlement" xml:id="graz">
+					<placeName type="index" xml:lang="de">Graz</placeName>
 					<country ref="#oesterreich" role="administration"/>
 					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
@@ -1283,11 +1285,11 @@
 					<idno type="geonames.org">2778067</idno>
 					<bibl type="de.wikipedia.org">Graz</bibl>
 				</place>
-				<place xml:id="graz.landes-theater" type="location">
-					<placeName from="1825" xml:lang="de" to="1887" type="index"
+				<place type="location" xml:id="graz.landes-theater">
+					<placeName from="1825" to="1887" type="index" xml:lang="de"
 						>Landestheater</placeName>
-					<placeName from="1887" xml:lang="de" to="1899">Stadttheater</placeName>
-					<placeName from="1889" xml:lang="de" to="1918">Theater am
+					<placeName from="1887" to="1899" xml:lang="de">Stadttheater</placeName>
+					<placeName from="1889" to="1918" xml:lang="de">Theater am
 						Franzensplatz</placeName>
 					<placeName from="1918" xml:lang="de">Schauspielhaus Graz</placeName>
 					<location>
@@ -1295,17 +1297,17 @@
 					</location>
 					<bibl type="de.wikipedia.org">Schauspielhaus_Graz</bibl>
 				</place>
-				<place xml:id="graz.stadt-theater" type="location">
+				<place type="location" xml:id="graz.stadt-theater">
 					<!-- entspricht nicht dem heutigen „Schauspielhaus Graz (1823)“ -->
 					<!-- evtl. „Thalia am Stadtpark“ (1864)? -->
 					<!-- nicht: Opernhaus Graz (1899) -->
-					<placeName from="1864" xml:lang="de" type="index">Stadttheater</placeName>
+					<placeName from="1864" type="index" xml:lang="de">Stadttheater</placeName>
 					<location>
 						<settlement ref="#graz" role="parentSettlement"/>
 					</location>
 				</place>
-				<place xml:id="guetersloh" type="settlement">
-					<placeName xml:lang="de" type="index">Gütersloh</placeName>
+				<place type="settlement" xml:id="guetersloh">
+					<placeName type="index" xml:lang="de">Gütersloh</placeName>
 					<placeName xml:lang="en">Gütersloh</placeName>
 					<placeName xml:lang="fr">Gütersloh</placeName>
 					<placeName xml:lang="it">Gütersloh</placeName>
@@ -1323,8 +1325,8 @@
 					<idno type="geohash.org">u1jzqbdq6</idno>
 					<bibl type="de.wikipedia.org">Gütersloh</bibl>
 				</place>
-				<place xml:id="hamburg" type="settlement">
-					<placeName xml:lang="de" type="index">Hamburg</placeName>
+				<place type="settlement" xml:id="hamburg">
+					<placeName type="index" xml:lang="de">Hamburg</placeName>
 					<placeName xml:lang="de">Freie und Hansestadt Hamburg</placeName>
 					<placeName xml:lang="en">Hamburg</placeName>
 					<placeName xml:lang="fr">Hambourg</placeName>
@@ -1347,15 +1349,15 @@
 					<idno type="geohash.org">u1x0ektjt</idno>
 					<bibl type="de.wikipedia.org">Hamburg</bibl>
 				</place>
-				<place xml:id="hamburg.stadt-theater" type="location">
-					<placeName xml:lang="de" type="index">Stadt-Theater</placeName>
+				<place type="location" xml:id="hamburg.stadt-theater">
+					<placeName type="index" xml:lang="de">Stadt-Theater</placeName>
 					<location>
 						<settlement ref="#hamburg" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Hamburgische_Staatsoper</bibl>
 				</place>
-				<place xml:id="hannover" type="settlement">
-					<placeName xml:lang="de" type="index">Hannover</placeName>
+				<place type="settlement" xml:id="hannover">
+					<placeName type="index" xml:lang="de">Hannover</placeName>
 					<placeName xml:lang="en">Hanover</placeName>
 					<placeName xml:lang="fr">Hanovre</placeName>
 					<placeName xml:lang="it">Hannover</placeName>
@@ -1377,8 +1379,8 @@
 					<idno type="geohash.org">u1qcvqwxs</idno>
 					<bibl type="de.wikipedia.org">Hannover</bibl>
 				</place>
-				<place xml:id="heilbronn" type="settlement">
-					<placeName xml:lang="de" type="index">Heilbronn</placeName>
+				<place type="settlement" xml:id="heilbronn">
+					<placeName type="index" xml:lang="de">Heilbronn</placeName>
 					<placeName xml:lang="en">Heilbronn</placeName>
 					<placeName xml:lang="fr">Heilbronn</placeName>
 					<placeName xml:lang="it">Heilbronn</placeName>
@@ -1399,15 +1401,15 @@
 					<idno type="geohash.org">u0wr7uu42</idno>
 					<bibl type="de.wikipedia.org">Heilbronn</bibl>
 				</place>
-				<place xml:id="heilbronn.st-kilian" type="location">
-					<placeName xml:lang="de" type="index">St. Kilian</placeName>
+				<place type="location" xml:id="heilbronn.st-kilian">
+					<placeName type="index" xml:lang="de">St. Kilian</placeName>
 					<location>
 						<settlement ref="#heilbronn" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Kilianskirche_(Heilbronn)</bibl>
 				</place>
-				<place xml:id="karlsruhe" type="settlement">
-					<placeName xml:lang="de" type="index">Karlsruhe</placeName>
+				<place type="settlement" xml:id="karlsruhe">
+					<placeName type="index" xml:lang="de">Karlsruhe</placeName>
 					<placeName xml:lang="en">Karlsruhe</placeName>
 					<placeName xml:lang="fr">Karlsruhe</placeName>
 					<placeName xml:lang="it">Karlsruhe</placeName>
@@ -1429,15 +1431,15 @@
 					<idno type="geohash.org">u0tyy9y4f</idno>
 					<bibl type="de.wikipedia.org">Karlsruhe</bibl>
 				</place>
-				<place xml:id="karlsruhe.festhalle" type="location">
-					<placeName xml:lang="de" type="index">Festhalle</placeName>
+				<place type="location" xml:id="karlsruhe.festhalle">
+					<placeName type="index" xml:lang="de">Festhalle</placeName>
 					<location>
 						<settlement ref="#karlsruhe" role="parentSettlement"/>
 					</location>
 					<bibl type="www">http://ka.stadtwiki.net/Festhalle_%28historisch%29</bibl>
 				</place>
-				<place xml:id="kassel" type="settlement">
-					<placeName xml:lang="de" type="index">Kassel</placeName>
+				<place type="settlement" xml:id="kassel">
+					<placeName type="index" xml:lang="de">Kassel</placeName>
 					<placeName xml:lang="en">Kassel</placeName>
 					<placeName xml:lang="fr">Cassel</placeName>
 					<placeName xml:lang="it">Kassel</placeName>
@@ -1455,8 +1457,8 @@
 					<idno type="geohash.org">u1neztnyn</idno>
 					<bibl type="de.wikipedia.org">Kassel</bibl>
 				</place>
-				<place xml:id="koblenz" type="settlement">
-					<placeName xml:lang="de" type="index">Koblenz</placeName>
+				<place type="settlement" xml:id="koblenz">
+					<placeName type="index" xml:lang="de">Koblenz</placeName>
 					<placeName xml:lang="en">Koblenz</placeName>
 					<placeName xml:lang="fr">Coblence</placeName>
 					<placeName xml:lang="it">Coblenza</placeName>
@@ -1477,9 +1479,9 @@
 					<idno type="geohash.org">u0vqkxyb3</idno>
 					<bibl type="de.wikipedia.org">Koblenz</bibl>
 				</place>
-				<place xml:id="koeln" type="settlement">
-					<placeName xml:lang="de" type="index">Köln</placeName>
-					<placeName xml:lang="de" type="index">Cöln</placeName>
+				<place type="settlement" xml:id="koeln">
+					<placeName type="index" xml:lang="de">Köln</placeName>
+					<placeName type="index" xml:lang="de">Cöln</placeName>
 					<placeName xml:lang="en">Cologne</placeName>
 					<placeName xml:lang="fr">Cologne</placeName>
 					<placeName xml:lang="it">Colonia</placeName>
@@ -1502,16 +1504,16 @@
 					<idno type="geohash.org">u1hcy2ukd</idno>
 					<bibl type="de.wikipedia.org">Köln</bibl>
 				</place>
-				<place xml:id="koeln.guerzenich" type="location">
-					<placeName xml:lang="de" type="index">Gürzenich</placeName>
+				<place type="location" xml:id="koeln.guerzenich">
+					<placeName type="index" xml:lang="de">Gürzenich</placeName>
 					<location>
 						<settlement ref="#koeln" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Gürzenich</bibl>
 				</place>
-				<place xml:id="koenigsberg" type="settlement">
-					<placeName xml:lang="de" type="index">Königsberg</placeName>
-					<placeName xml:lang="de" type="index">Kaliningrad</placeName>
+				<place type="settlement" xml:id="koenigsberg">
+					<placeName type="index" xml:lang="de">Königsberg</placeName>
+					<placeName type="index" xml:lang="de">Kaliningrad</placeName>
 					<placeName xml:lang="en">Königsberg</placeName>
 					<placeName xml:lang="en">Kaliningrad</placeName>
 					<placeName xml:lang="fr">Kaliningrad</placeName>
@@ -1535,13 +1537,13 @@
 					<idno type="geohash.org">u3wx4xwnw</idno>
 					<bibl type="de.wikipedia.org">Königsberg</bibl>
 				</place>
-				<place xml:id="krakau" type="settlement">
-					<placeName xml:lang="de" type="index">Krakau</placeName>
+				<place type="settlement" xml:id="krakau">
+					<placeName type="index" xml:lang="de">Krakau</placeName>
 					<placeName xml:lang="en">Cracow</placeName>
 					<placeName xml:lang="en">Kraków</placeName>
 					<placeName xml:lang="fr">Cracovie</placeName>
 					<placeName xml:lang="it">Cracovia</placeName>
-					<placeName xml:lang="pl" type="index">Kraków</placeName>
+					<placeName type="index" xml:lang="pl">Kraków</placeName>
 					<placeName xml:lang="ru">Краков</placeName>
 					<country ref="#oesterreich" role="administration"/>
 					<bloc ref="#oesterreich-ungarn" role="administration"/>
@@ -1560,8 +1562,8 @@
 					<idno type="geohash.org">u2yhvcgrx</idno>
 					<bibl type="de.wikipedia.org">Krakau</bibl>
 				</place>
-				<place xml:id="leipzig" type="settlement">
-					<placeName xml:lang="de" type="index">Leipzig</placeName>
+				<place type="settlement" xml:id="leipzig">
+					<placeName type="index" xml:lang="de">Leipzig</placeName>
 					<placeName xml:lang="en">Leipzig</placeName>
 					<placeName xml:lang="en">Leipsic</placeName>
 					<placeName xml:lang="fr">Leipzig</placeName>
@@ -1584,19 +1586,19 @@
 					<idno type="geohash.org">u30u1d1g3</idno>
 					<bibl type="de.wikipedia.org">Leipzig</bibl>
 				</place>
-				<place xml:id="leipzig.gewandhaus" type="location">
-					<placeName xml:lang="de" type="index">Gewandhaus</placeName>
+				<place type="location" xml:id="leipzig.gewandhaus">
+					<placeName type="index" xml:lang="de">Gewandhaus</placeName>
 					<location>
 						<settlement ref="#leipzig" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Gewandhaus_(Leipzig)</bibl>
 				</place>
-				<place xml:id="lemberg" type="settlement">
-					<placeName xml:lang="de" type="index">Lemberg</placeName>
+				<place type="settlement" xml:id="lemberg">
+					<placeName type="index" xml:lang="de">Lemberg</placeName>
 					<placeName xml:lang="en">Lviv</placeName>
 					<placeName xml:lang="fr">Lviv</placeName>
 					<placeName xml:lang="it">Leopoli</placeName>
-					<placeName xml:lang="pl" type="index">Lwów</placeName>
+					<placeName type="index" xml:lang="pl">Lwów</placeName>
 					<placeName xml:lang="ru">Львов</placeName>
 					<country ref="#polen" role="administration" to="1772"/>
 					<country from="1772" ref="#oesterreich" role="administration" to="1918"/>
@@ -1617,8 +1619,8 @@
 					<idno type="geohash.org">u88hej250</idno>
 					<bibl type="de.wikipedia.org">Lemberg</bibl>
 				</place>
-				<place xml:id="london" type="settlement">
-					<placeName xml:lang="de" type="index">London</placeName>
+				<place type="settlement" xml:id="london">
+					<placeName type="index" xml:lang="de">London</placeName>
 					<country ref="#grossbritannien" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.50853 -0.12574</geo>
@@ -1627,23 +1629,23 @@
 					<idno type="geonames.org">2643743</idno>
 					<bibl type="de.wikipedia.org">London</bibl>
 				</place>
-				<place xml:id="london.covent-garden-theatre" type="location">
-					<placeName xml:lang="de" type="index">Royal Opera House in Covent
+				<place type="location" xml:id="london.covent-garden-theatre">
+					<placeName type="index" xml:lang="de">Royal Opera House in Covent
 						Garden</placeName>
 					<location>
 						<settlement ref="#london" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Royal_Opera_House</bibl>
 				</place>
-				<place xml:id="london.royal-albert-hall" type="location">
-					<placeName xml:lang="de" type="index">Royal Albert Hall</placeName>
+				<place type="location" xml:id="london.royal-albert-hall">
+					<placeName type="index" xml:lang="de">Royal Albert Hall</placeName>
 					<location>
 						<settlement ref="#london" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Royal_Albert_Hall</bibl>
 				</place>
-				<place xml:id="luebeck" type="settlement">
-					<placeName xml:lang="de" type="index">Lübeck</placeName>
+				<place type="settlement" xml:id="luebeck">
+					<placeName type="index" xml:lang="de">Lübeck</placeName>
 					<placeName xml:lang="en">Lübeck</placeName>
 					<placeName xml:lang="fr">Lübeck</placeName>
 					<placeName xml:lang="it">Lubecca</placeName>
@@ -1661,10 +1663,10 @@
 					<idno type="geohash.org">u1xd7jype</idno>
 					<bibl type="de.wikipedia.org">Lübeck</bibl>
 				</place>
-				<place xml:id="luettich" type="settlement">
-					<placeName xml:lang="de" type="index">Lüttich</placeName>
+				<place type="settlement" xml:id="luettich">
+					<placeName type="index" xml:lang="de">Lüttich</placeName>
 					<placeName xml:lang="en">Liège</placeName>
-					<placeName xml:lang="fr" type="index">Liège</placeName>
+					<placeName type="index" xml:lang="fr">Liège</placeName>
 					<placeName xml:lang="it">Liegi</placeName>
 					<placeName xml:lang="pl">Liège</placeName>
 					<placeName xml:lang="ru">Льеж</placeName>
@@ -1681,8 +1683,8 @@
 					<idno type="geohash.org">u15bncqup</idno>
 					<bibl type="de.wikipedia.org">Lüttich</bibl>
 				</place>
-				<place xml:id="magdeburg" type="settlement">
-					<placeName xml:lang="de" type="index">Magdeburg</placeName>
+				<place type="settlement" xml:id="magdeburg">
+					<placeName type="index" xml:lang="de">Magdeburg</placeName>
 					<placeName xml:lang="en">Magdeburg</placeName>
 					<placeName xml:lang="fr">Magdebourg</placeName>
 					<placeName xml:lang="it">Magdeburgo</placeName>
@@ -1704,8 +1706,8 @@
 					<idno type="geohash.org">u3228d5gu</idno>
 					<bibl type="de.wikipedia.org">Magdeburg</bibl>
 				</place>
-				<place xml:id="mailand" type="settlement">
-					<placeName xml:lang="de" type="index">Mailand</placeName>
+				<place type="settlement" xml:id="mailand">
+					<placeName type="index" xml:lang="de">Mailand</placeName>
 					<placeName xml:lang="en">Milan</placeName>
 					<placeName xml:lang="fr">Milan</placeName>
 					<placeName xml:lang="it">Milano</placeName>
@@ -1724,45 +1726,45 @@
 					<idno type="geohash.org">u0nd9h9rm</idno>
 					<bibl type="de.wikipedia.org">Mailand</bibl>
 				</place>
-				<place xml:id="mailand.dom" type="location">
-					<placeName xml:lang="de" type="index">Dom</placeName>
+				<place type="location" xml:id="mailand.dom">
+					<placeName type="index" xml:lang="de">Dom</placeName>
 					<placeName xml:lang="it">Duomo di Santa Maria Nascente (Milano)</placeName>
 					<location>
 						<settlement ref="#mailand" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Mailänder_Dom</bibl>
 				</place>
-				<place xml:id="mailand.konservatorium" type="location">
-					<placeName xml:lang="de" type="index">Konservatorium</placeName>
+				<place type="location" xml:id="mailand.konservatorium">
+					<placeName type="index" xml:lang="de">Konservatorium</placeName>
 					<location>
 						<settlement ref="#mailand" role="parentSettlement"/>
 					</location>
 					<bibl type="it.wikipedia.org">Conservatorio_Giuseppe_Verdi_(Milano)</bibl>
 				</place>
-				<place xml:id="mailand.san-marco" type="location">
-					<placeName xml:lang="de" type="index">San Marco</placeName>
+				<place type="location" xml:id="mailand.san-marco">
+					<placeName type="index" xml:lang="de">San Marco</placeName>
 					<placeName xml:lang="it">San Marco</placeName>
 					<location>
 						<settlement ref="#mailand" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">San Marco</bibl>
 				</place>
-				<place xml:id="mailand.teatro-alla-scala" type="location">
-					<placeName xml:lang="de" type="index">Teatro alla Scala</placeName>
+				<place type="location" xml:id="mailand.teatro-alla-scala">
+					<placeName type="index" xml:lang="de">Teatro alla Scala</placeName>
 					<location>
 						<settlement ref="#mailand" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_alla_Scala</bibl>
 				</place>
-				<place xml:id="mailand.teatro-dal-verme" type="location">
-					<placeName xml:lang="de" type="index">Teatro dal Verme</placeName>
+				<place type="location" xml:id="mailand.teatro-dal-verme">
+					<placeName type="index" xml:lang="de">Teatro dal Verme</placeName>
 					<location>
 						<settlement ref="#mailand" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_dal_Verme</bibl>
 				</place>
-				<place xml:id="mainz" type="settlement">
-					<placeName xml:lang="de" type="index">Mainz</placeName>
+				<place type="settlement" xml:id="mainz">
+					<placeName type="index" xml:lang="de">Mainz</placeName>
 					<placeName xml:lang="en">Mainz</placeName>
 					<placeName xml:lang="fr">Mayence</placeName>
 					<placeName xml:lang="it">Magonza</placeName>
@@ -1780,8 +1782,8 @@
 					<idno type="geohash.org">u0vu7svmw</idno>
 					<bibl type="de.wikipedia.org">Mainz</bibl>
 				</place>
-				<place xml:id="mannheim" type="settlement">
-					<placeName xml:lang="de" type="index">Mannheim</placeName>
+				<place type="settlement" xml:id="mannheim">
+					<placeName type="index" xml:lang="de">Mannheim</placeName>
 					<placeName xml:lang="en">Mannheim</placeName>
 					<placeName xml:lang="fr">Mannheim</placeName>
 					<placeName xml:lang="it">Mannheim</placeName>
@@ -1799,8 +1801,8 @@
 					<idno type="geohash.org">u0y18fwe5z6</idno>
 					<bibl type="de.wikipedia.org">Mannheim</bibl>
 				</place>
-				<place xml:id="manchester" type="settlement">
-					<placeName xml:lang="de" type="index">Manchester</placeName>
+				<place type="settlement" xml:id="manchester">
+					<placeName type="index" xml:lang="de">Manchester</placeName>
 					<country ref="#grossbritannien" role="administration"/>
 					<location type="geonames.org">
 						<geo>53.48095 -2.23743</geo>
@@ -1809,8 +1811,8 @@
 					<idno type="geonames.org">2643123</idno>
 					<bibl type="de.wikipedia.org">Manchester</bibl>
 				</place>
-				<place xml:id="moskau" type="settlement">
-					<placeName xml:lang="de" type="index">Moskau</placeName>
+				<place type="settlement" xml:id="moskau">
+					<placeName type="index" xml:lang="de">Moskau</placeName>
 					<country ref="#russland" role="administration"/>
 					<location type="geonames.org">
 						<geo>55.75222 37.61556</geo>
@@ -1819,8 +1821,8 @@
 					<idno type="geonames.org">524901</idno>
 					<bibl type="de.wikipedia.org">Moskau</bibl>
 				</place>
-				<place xml:id="muenchen" type="settlement">
-					<placeName xml:lang="de" type="index">München</placeName>
+				<place type="settlement" xml:id="muenchen">
+					<placeName type="index" xml:lang="de">München</placeName>
 					<placeName xml:lang="en">Munich</placeName>
 					<placeName xml:lang="fr">Munich</placeName>
 					<placeName xml:lang="it">Monaco</placeName>
@@ -1844,16 +1846,16 @@
 					<idno type="geohash.org">u281z7n0j</idno>
 					<bibl type="de.wikipedia.org">München</bibl>
 				</place>
-				<place xml:id="muenchen.hoftheater" type="location">
-					<placeName xml:lang="de" type="index">Königliches Hof- und
+				<place type="location" xml:id="muenchen.hoftheater">
+					<placeName type="index" xml:lang="de">Königliches Hof- und
 						Nationaltheater</placeName>
 					<location>
 						<settlement ref="#muenchen" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Nationaltheater_München</bibl>
 				</place>
-				<place xml:id="muenchen.odeon" type="location">
-					<placeName xml:lang="de" type="index">Odeontheater</placeName>
+				<place type="location" xml:id="muenchen.odeon">
+					<placeName type="index" xml:lang="de">Odeontheater</placeName>
 					<location>
 						<settlement ref="#muenchen" role="parentSettlement"/>
 					</location>
@@ -1861,8 +1863,8 @@
 					<bibl type="www"
 						>http://www.stmi.bayern.de/imperia/md/content/stmi/ministerium/geschichte/muenster.pdf</bibl>
 				</place>
-				<place xml:id="muenchen.residenztheater" type="location">
-					<placeName xml:lang="de" type="index">Residenztheater</placeName>
+				<place type="location" xml:id="muenchen.residenztheater">
+					<placeName type="index" xml:lang="de">Residenztheater</placeName>
 					<placeName xml:lang="de">Cuvilliés-Theater</placeName>
 					<placeName from="1951" xml:lang="de">Neues Residenztheater</placeName>
 					<placeName from="1958" xml:lang="de">Altes Residenztheater</placeName>
@@ -1871,8 +1873,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Residenztheater_(München)</bibl>
 				</place>
-				<place xml:id="muenster" type="settlement">
-					<placeName xml:lang="de" type="index">Münster</placeName>
+				<place type="settlement" xml:id="muenster">
+					<placeName type="index" xml:lang="de">Münster</placeName>
 					<placeName xml:lang="en">Münster</placeName>
 					<placeName xml:lang="fr">Münster</placeName>
 					<placeName xml:lang="it">Münster</placeName>
@@ -1895,8 +1897,8 @@
 					<idno type="geohash.org">u1jrt92xr</idno>
 					<bibl type="de.wikipedia.org">Münster</bibl>
 				</place>
-				<place xml:id="neapel" type="settlement">
-					<placeName xml:lang="de" type="index">Neapel</placeName>
+				<place type="settlement" xml:id="neapel">
+					<placeName type="index" xml:lang="de">Neapel</placeName>
 					<placeName xml:lang="en">Naples</placeName>
 					<placeName xml:lang="it">Napoli</placeName>
 					<country ref="#italien" role="administration"/>
@@ -1907,24 +1909,24 @@
 					<idno type="geonames.org">3172394</idno>
 					<bibl type="de.wikipedia.org">Neapel</bibl>
 				</place>
-				<place xml:id="neapel.konservatorium" type="location">
-					<placeName xml:lang="de" type="index">Konservatorium</placeName>
+				<place type="location" xml:id="neapel.konservatorium">
+					<placeName type="index" xml:lang="de">Konservatorium</placeName>
 					<location>
 						<settlement ref="#neapel" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org"
 						>Konservatorium_„San_Pietro_a_Majella“_Neapel</bibl>
 				</place>
-				<place xml:id="neapel.teatro-san-carlo" type="location">
-					<placeName xml:lang="de" type="index">Teatro San Carlo</placeName>
-					<placeName xml:lang="de" type="alternative">Real Teatro San Carlo</placeName>
+				<place type="location" xml:id="neapel.teatro-san-carlo">
+					<placeName type="index" xml:lang="de">Teatro San Carlo</placeName>
+					<placeName type="alternative" xml:lang="de">Real Teatro San Carlo</placeName>
 					<location>
 						<settlement ref="#neapel" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_San_Carlo</bibl>
 				</place>
-				<place xml:id="new-york" type="settlement">
-					<placeName xml:lang="de" type="index">New York</placeName>
+				<place type="settlement" xml:id="new-york">
+					<placeName type="index" xml:lang="de">New York</placeName>
 					<placeName xml:lang="de">Neuyork</placeName>
 					<placeName xml:lang="en">New York</placeName>
 					<placeName xml:lang="fr">New York</placeName>
@@ -1940,23 +1942,23 @@
 					<idno type="geohash.org">dr5regy6r</idno>
 					<bibl type="de.wikipedia.org">New_York_City</bibl>
 				</place>
-				<place xml:id="new-york.academy-of-music" type="location">
-					<placeName xml:lang="de" type="index">Academy of Music</placeName>
+				<place type="location" xml:id="new-york.academy-of-music">
+					<placeName type="index" xml:lang="de">Academy of Music</placeName>
 					<location>
 						<settlement ref="#new-york" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Academy_of_Music_(New_York_City)</bibl>
 				</place>
-				<place xml:id="new-york.st-anns" type="location">
-					<placeName xml:lang="de" type="index">St. Ann’s Roman Catholic
+				<place type="location" xml:id="new-york.st-anns">
+					<placeName type="index" xml:lang="de">St. Ann’s Roman Catholic
 						Church</placeName>
 					<location>
 						<settlement ref="#new-york" role="parentSettlement"/>
 					</location>
 					<bibl type="en.wikipedia.org">St._Ann's_Church_(Manhattan)</bibl>
 				</place>
-				<place xml:id="olmuetz" type="settlement">
-					<placeName xml:lang="de" type="index">Olmütz</placeName>
+				<place type="settlement" xml:id="olmuetz">
+					<placeName type="index" xml:lang="de">Olmütz</placeName>
 					<placeName xml:lang="en">Olomouc</placeName>
 					<placeName xml:lang="fr">Olomouc</placeName>
 					<placeName xml:lang="it">Olomouc</placeName>
@@ -1971,8 +1973,8 @@
 					<idno type="geonames.org">3069011</idno>
 					<bibl type="de.wikipedia.org">Olmütz</bibl>
 				</place>
-				<place xml:id="paris" type="settlement">
-					<placeName xml:lang="de" type="index">Paris</placeName>
+				<place type="settlement" xml:id="paris">
+					<placeName type="index" xml:lang="de">Paris</placeName>
 					<placeName xml:lang="en">Paris</placeName>
 					<placeName xml:lang="fr">Paris</placeName>
 					<placeName xml:lang="it">Parigi</placeName>
@@ -1991,30 +1993,30 @@
 					<idno type="geohash.org">u09tvw0f6</idno>
 					<bibl type="de.wikipedia.org">Paris</bibl>
 				</place>
-				<place xml:id="paris.grand-opera" type="location">
-					<placeName from="1875" xml:lang="de" type="index">Palais Garnier</placeName>
+				<place type="location" xml:id="paris.grand-opera">
+					<placeName from="1875" type="index" xml:lang="de">Palais Garnier</placeName>
 					<placeName xml:lang="fr">Palais Garnier</placeName>
 					<location>
 						<settlement ref="#paris" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Opéra_Garnier</bibl>
 				</place>
-				<place xml:id="paris.invalidendom" type="location">
-					<placeName xml:lang="de" type="index">Invalidendom</placeName>
+				<place type="location" xml:id="paris.invalidendom">
+					<placeName type="index" xml:lang="de">Invalidendom</placeName>
 					<location>
 						<settlement ref="#paris" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Invalidendom</bibl>
 				</place>
-				<place xml:id="paris.notre-dame" type="location">
-					<placeName xml:lang="de" type="index">Notre-Dame</placeName>
+				<place type="location" xml:id="paris.notre-dame">
+					<placeName type="index" xml:lang="de">Notre-Dame</placeName>
 					<location>
 						<settlement ref="#paris" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Kathedrale_Notre-Dame_de_Paris</bibl>
 				</place>
-				<place xml:id="paris.opera-comique" type="location">
-					<placeName xml:lang="de" type="index">Komische Oper</placeName>
+				<place type="location" xml:id="paris.opera-comique">
+					<placeName type="index" xml:lang="de">Komische Oper</placeName>
 					<placeName xml:lang="en">Opéra comique</placeName>
 					<placeName xml:lang="fr">Opéra comique</placeName>
 					<placeName xml:lang="it">Opéra comique</placeName>
@@ -2025,15 +2027,15 @@
 					</location>
 					<bibl type="de.wikipedia.org">Opéra-Comique_Paris</bibl>
 				</place>
-				<place xml:id="paris.st-eustache" type="location">
-					<placeName xml:lang="de" type="index">Saint-Eustache</placeName>
+				<place type="location" xml:id="paris.st-eustache">
+					<placeName type="index" xml:lang="de">Saint-Eustache</placeName>
 					<location>
 						<settlement ref="#paris" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">St-Eustache_(Paris)</bibl>
 				</place>
-				<place xml:id="paris.theatre-italien" type="location">
-					<placeName from="1841" xml:lang="de" to="1878" type="index"
+				<place type="location" xml:id="paris.theatre-italien">
+					<placeName from="1841" to="1878" type="index" xml:lang="de"
 						>Théâtre-Italien</placeName>
 					<placeName xml:lang="de">Opéra-Italien</placeName>
 					<placeName xml:lang="de">Odéon</placeName>
@@ -2043,8 +2045,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Théâtre-Italien</bibl>
 				</place>
-				<place xml:id="parma" type="settlement">
-					<placeName xml:lang="de" type="index">Parma</placeName>
+				<place type="settlement" xml:id="parma">
+					<placeName type="index" xml:lang="de">Parma</placeName>
 					<placeName xml:lang="en">Parma</placeName>
 					<placeName xml:lang="fr">Parme</placeName>
 					<placeName xml:lang="it">Parma</placeName>
@@ -2059,9 +2061,9 @@
 					<idno type="geohash.org">spzqg5be9</idno>
 					<bibl type="de.wikipedia.org">Parma</bibl>
 				</place>
-				<place xml:id="pest" type="settlement">
-					<placeName xml:lang="de" to="1873" type="index">Pest</placeName>
-					<placeName from="1873" xml:lang="de" type="index">Budapest</placeName>
+				<place type="settlement" xml:id="pest">
+					<placeName to="1873" type="index" xml:lang="de">Pest</placeName>
+					<placeName from="1873" type="index" xml:lang="de">Budapest</placeName>
 					<placeName xml:lang="en">Budapest</placeName>
 					<placeName xml:lang="fr">Budapest</placeName>
 					<placeName xml:lang="it">Budapest</placeName>
@@ -2083,8 +2085,8 @@
 					<idno type="geohash.org">u2mw1qc43</idno>
 					<bibl type="de.wikipedia.org">Pest_(Stadt)</bibl>
 				</place>
-				<place xml:id="piacenza" type="settlement">
-					<placeName xml:lang="de" type="index">Piacenza</placeName>
+				<place type="settlement" xml:id="piacenza">
+					<placeName type="index" xml:lang="de">Piacenza</placeName>
 					<placeName xml:lang="en">Piacenza</placeName>
 					<placeName xml:lang="fr">Plaisance</placeName>
 					<placeName xml:lang="it">Piacenza</placeName>
@@ -2099,8 +2101,8 @@
 					<idno type="geohash.org">u0nbk2tec</idno>
 					<bibl type="de.wikipedia.org">Piacenza</bibl>
 				</place>
-				<place xml:id="pilsen" type="settlement">
-					<placeName xml:lang="de" type="index">Pilsen</placeName>
+				<place type="settlement" xml:id="pilsen">
+					<placeName type="index" xml:lang="de">Pilsen</placeName>
 					<placeName xml:lang="en">Plzeň</placeName>
 					<placeName xml:lang="fr">Plzeň</placeName>
 					<placeName xml:lang="it">Plzeň</placeName>
@@ -2116,14 +2118,14 @@
 					<idno type="geohash.org">u2ce02m0n</idno>
 					<bibl type="de.wikipedia.org">Pilsen</bibl>
 				</place>
-				<place xml:id="pilsen.stadt-theater" type="location">
-					<placeName xml:lang="de" type="index">Stadt-Theater</placeName>
+				<place type="location" xml:id="pilsen.stadt-theater">
+					<placeName type="index" xml:lang="de">Stadt-Theater</placeName>
 					<location>
 						<settlement ref="#pilsen" role="parentSettlement"/>
 					</location>
 				</place>
-				<place xml:id="pisa" type="settlement">
-					<placeName xml:lang="de" type="index">Pisa</placeName>
+				<place type="settlement" xml:id="pisa">
+					<placeName type="index" xml:lang="de">Pisa</placeName>
 					<placeName xml:lang="en">Pisa</placeName>
 					<placeName xml:lang="fr">Pise</placeName>
 					<placeName xml:lang="it">Pisa</placeName>
@@ -2138,12 +2140,12 @@
 					<idno type="geohash.org">spz2sxqrb</idno>
 					<bibl type="de.wikipedia.org">Pisa</bibl>
 				</place>
-				<place xml:id="posen" type="settlement">
-					<placeName xml:lang="de" type="index">Posen</placeName>
+				<place type="settlement" xml:id="posen">
+					<placeName type="index" xml:lang="de">Posen</placeName>
 					<placeName xml:lang="en">Posen</placeName>
 					<placeName xml:lang="fr">Posen</placeName>
 					<placeName xml:lang="it">Posen</placeName>
-					<placeName xml:lang="pl" type="index">Poznań</placeName>
+					<placeName type="index" xml:lang="pl">Poznań</placeName>
 					<placeName xml:lang="ru">Познань</placeName>
 					<country ref="#deutschland" role="administration"/>
 					<country ref="#polen" role="administration"/>
@@ -2162,8 +2164,8 @@
 					<idno type="geohash.org">u3k40gxfp</idno>
 					<bibl type="de.wikipedia.org">Posen</bibl>
 				</place>
-				<place xml:id="prag" type="settlement">
-					<placeName xml:lang="de" type="index">Prag</placeName>
+				<place type="settlement" xml:id="prag">
+					<placeName type="index" xml:lang="de">Prag</placeName>
 					<placeName xml:lang="en">Prague</placeName>
 					<placeName xml:lang="fr">Prague</placeName>
 					<placeName xml:lang="it">Praga</placeName>
@@ -2184,20 +2186,20 @@
 					<idno type="geohash.org">u2fkbecr1</idno>
 					<bibl type="de.wikipedia.org">Prag</bibl>
 				</place>
-				<place xml:id="prag.konservatorium" type="location">
-					<placeName xml:lang="de" type="index">Konservatorium</placeName>
+				<place type="location" xml:id="prag.konservatorium">
+					<placeName type="index" xml:lang="de">Konservatorium</placeName>
 					<location>
 						<settlement ref="#prag" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Prager_Konservatorium</bibl>
 				</place>
-				<place xml:id="prag.staendetheater" type="location">
-					<placeName from="1783" xml:lang="de" to="1798">Nationaltheater</placeName>
-					<placeName from="1798" xml:lang="de" to="1862">Königliches
+				<place type="location" xml:id="prag.staendetheater">
+					<placeName from="1783" to="1798" xml:lang="de">Nationaltheater</placeName>
+					<placeName from="1798" to="1862" xml:lang="de">Königliches
 						Ständetheater</placeName>
-					<placeName from="1862" xml:lang="de" to="1920" type="index">Königlich Deutsches
+					<placeName from="1862" to="1920" type="index" xml:lang="de">Königlich Deutsches
 						Stadttheater</placeName>
-					<placeName from="1920" xml:lang="de" to="1948">Ständetheater</placeName>
+					<placeName from="1920" to="1948" xml:lang="de">Ständetheater</placeName>
 					<placeName from="1990" xml:lang="de">Ständetheater</placeName>
 					<placeName from="1990" xml:lang="cs">Stavovské divadlo</placeName>
 					<location>
@@ -2205,8 +2207,8 @@
 					</location>
 					<bibl type="de.wikipedia.org">Ständetheater</bibl>
 				</place>
-				<place xml:id="regensburg" type="settlement">
-					<placeName xml:lang="de" type="index">Regensburg</placeName>
+				<place type="settlement" xml:id="regensburg">
+					<placeName type="index" xml:lang="de">Regensburg</placeName>
 					<placeName xml:lang="en">Regensburg</placeName>
 					<placeName xml:lang="fr">Ratisbonne</placeName>
 					<placeName xml:lang="it">Ratisbona</placeName>
@@ -2224,8 +2226,8 @@
 					<idno type="geohash.org">u28wg6gd6</idno>
 					<bibl type="de.wikipedia.org">Regensburg</bibl>
 				</place>
-				<place xml:id="reggio" type="settlement">
-					<placeName xml:lang="de" type="index">Reggio</placeName>
+				<place type="settlement" xml:id="reggio">
+					<placeName type="index" xml:lang="de">Reggio</placeName>
 					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>44.69825 10.63125</geo>
@@ -2234,8 +2236,8 @@
 					<idno type="geonames.org">3169522</idno>
 					<bibl type="de.wikipedia.org">Reggio_nell’Emilia</bibl>
 				</place>
-				<place xml:id="rio-de-janeiro" type="settlement">
-					<placeName xml:lang="de" type="index">Rio de Janeiro</placeName>
+				<place type="settlement" xml:id="rio-de-janeiro">
+					<placeName type="index" xml:lang="de">Rio de Janeiro</placeName>
 					<country ref="#brasilien" role="administration"/>
 					<location type="geonames.org">
 						<geo>-22.90278 -43.2075</geo>
@@ -2244,8 +2246,8 @@
 					<idno type="geonames.org">3451190</idno>
 					<bibl type="de.wikipedia.org">Rio_de_Janeiro</bibl>
 				</place>
-				<place xml:id="rom" type="settlement">
-					<placeName xml:lang="de" type="index">Rom</placeName>
+				<place type="settlement" xml:id="rom">
+					<placeName type="index" xml:lang="de">Rom</placeName>
 					<placeName xml:lang="en">Rome</placeName>
 					<placeName xml:lang="fr">Rome</placeName>
 					<placeName xml:lang="it">Roma</placeName>
@@ -2260,33 +2262,33 @@
 					<idno type="geohash.org">sr2y7ecwj</idno>
 					<bibl type="de.wikipedia.org">Rom</bibl>
 				</place>
-				<place xml:id="rom.peterskirche" type="location">
-					<placeName xml:lang="de" type="index">Peterskirche</placeName>
+				<place type="location" xml:id="rom.peterskirche">
+					<placeName type="index" xml:lang="de">Peterskirche</placeName>
 					<placeName xml:lang="it">San Pietro</placeName>
 					<location>
 						<settlement ref="#rom" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Petersdom</bibl>
 				</place>
-				<place xml:id="rom.sixtinische-kapelle" type="location">
-					<placeName xml:lang="de" type="index">Sixtinische Kapelle</placeName>
+				<place type="location" xml:id="rom.sixtinische-kapelle">
+					<placeName type="index" xml:lang="de">Sixtinische Kapelle</placeName>
 					<placeName xml:lang="it">Cappella Sistina</placeName>
 					<location>
 						<settlement ref="#rom" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Sixtinische_Kapelle</bibl>
 				</place>
-				<place xml:id="rom.teatro-apollo" type="location">
-					<placeName from="1795" xml:lang="de" to="1888" type="index">Teatro
+				<place type="location" xml:id="rom.teatro-apollo">
+					<placeName from="1795" to="1888" type="index" xml:lang="de">Teatro
 						Apollo</placeName>
 					<location>
 						<settlement ref="#rom" role="parentSettlement"/>
 					</location>
 					<bibl type="it.wikipedia.org">Teatro_Tordinona</bibl>
 				</place>
-				<place xml:id="roncole" type="settlement">
-					<placeName xml:lang="de" type="index">Roncole</placeName>
-					<placeName xml:lang="de" type="index">Le Roncole</placeName>
+				<place type="settlement" xml:id="roncole">
+					<placeName type="index" xml:lang="de">Roncole</placeName>
+					<placeName type="index" xml:lang="de">Le Roncole</placeName>
 					<placeName xml:lang="en">Le Roncole</placeName>
 					<placeName xml:lang="fr">Le Roncole</placeName>
 					<placeName xml:lang="it">Le Roncole</placeName>
@@ -2301,8 +2303,8 @@
 					<idno type="geohash.org">spzptr0jr</idno>
 					<bibl type="de.wikipedia.org">Le_Roncole</bibl>
 				</place>
-				<place xml:id="salzburg" type="settlement">
-					<placeName xml:lang="de" type="index">Salzburg</placeName>
+				<place type="settlement" xml:id="salzburg">
+					<placeName type="index" xml:lang="de">Salzburg</placeName>
 					<placeName xml:lang="en">Salzburg</placeName>
 					<placeName xml:lang="fr">Salzbourg</placeName>
 					<placeName xml:lang="it">Salisburgo</placeName>
@@ -2324,29 +2326,29 @@
 					<idno type="geohash.org">u23rcp6q7</idno>
 					<bibl type="de.wikipedia.org">Salzburg</bibl>
 				</place>
-				<place xml:id="salzburg.aula-academica" type="location">
-					<placeName xml:lang="de" type="index">Aula Academica</placeName>
+				<place type="location" xml:id="salzburg.aula-academica">
+					<placeName type="index" xml:lang="de">Aula Academica</placeName>
 					<location>
 						<settlement ref="#salzburg" role="parentSettlement"/>
 					</location>
 					<bibl type="www">http://www.salzburg.com/wiki/index.php/Aula_Academica</bibl>
 				</place>
-				<place xml:id="salzburg.kuk-theater" type="location">
-					<placeName xml:lang="de" type="index">K. u. K. Theater</placeName>
+				<place type="location" xml:id="salzburg.kuk-theater">
+					<placeName type="index" xml:lang="de">K. u. K. Theater</placeName>
 					<location>
 						<settlement ref="#salzburg" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Salzburger_Landestheater</bibl>
 				</place>
-				<place xml:id="sant-agata" type="location">
-					<placeName xml:lang="de" type="index">Sant’Agata</placeName>
+				<place type="location" xml:id="sant-agata">
+					<placeName type="index" xml:lang="de">Sant’Agata</placeName>
 					<location>
 						<settlement ref="#busseto" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Villanova_sull’Arda</bibl>
 				</place>
-				<place xml:id="schwerin" type="settlement">
-					<placeName xml:lang="de" type="index">Schwerin</placeName>
+				<place type="settlement" xml:id="schwerin">
+					<placeName type="index" xml:lang="de">Schwerin</placeName>
 					<placeName xml:lang="en">Schwerin</placeName>
 					<placeName xml:lang="fr">Schwerin</placeName>
 					<placeName xml:lang="it">Schwerin</placeName>
@@ -2368,19 +2370,19 @@
 					<idno type="geohash.org">u3815eqxe</idno>
 					<bibl type="de.wikipedia.org">Schwerin</bibl>
 				</place>
-				<place xml:id="schwerin.hoftheater" type="location">
-					<placeName xml:lang="de" to="1886" type="index">Hoftheater</placeName>
-					<placeName from="1886" xml:lang="de" to="1918">Großherzogliches
+				<place type="location" xml:id="schwerin.hoftheater">
+					<placeName to="1886" type="index" xml:lang="de">Hoftheater</placeName>
+					<placeName from="1886" to="1918" xml:lang="de">Großherzogliches
 						Hoftheater</placeName>
-					<placeName from="1918" xml:lang="de" to="1926">Landestheater</placeName>
+					<placeName from="1918" to="1926" xml:lang="de">Landestheater</placeName>
 					<placeName from="1926" xml:lang="de">Mecklenburgisches Staatstheater</placeName>
 					<location>
 						<settlement ref="#schwerin" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Mecklenburgisches_Staatstheater_Schwerin</bibl>
 				</place>
-				<place xml:id="speyer" type="settlement">
-					<placeName xml:lang="de" type="index">Speyer</placeName>
+				<place type="settlement" xml:id="speyer">
+					<placeName type="index" xml:lang="de">Speyer</placeName>
 					<placeName xml:lang="en">Speyer</placeName>
 					<placeName xml:lang="fr">Spire</placeName>
 					<placeName xml:lang="it">Spira</placeName>
@@ -2395,8 +2397,8 @@
 					<idno type="geohash.org">u0vbxfe6ej5</idno>
 					<bibl type="de.wikipedia.org">Speyer</bibl>
 				</place>
-				<place xml:id="st-gallen" type="settlement">
-					<placeName xml:lang="de" type="index">St. Gallen</placeName>
+				<place type="settlement" xml:id="st-gallen">
+					<placeName type="index" xml:lang="de">St. Gallen</placeName>
 					<placeName xml:lang="en">St. Gallen</placeName>
 					<placeName xml:lang="fr">Saint-Gall</placeName>
 					<placeName xml:lang="it">San Gallo</placeName>
@@ -2410,16 +2412,16 @@
 					<idno type="geonames.org">2658822</idno>
 					<bibl type="de.wikipedia.org">St._Gallen</bibl>
 				</place>
-				<place xml:id="st-gallen.kirche-st-laurenzen" type="location">
-					<placeName xml:lang="de" type="index">St. Laurenzen</placeName>
+				<place type="location" xml:id="st-gallen.kirche-st-laurenzen">
+					<placeName type="index" xml:lang="de">St. Laurenzen</placeName>
 					<location>
 						<settlement ref="#st-gallen" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Kirche_St._Laurenzen</bibl>
 				</place>
-				<place xml:id="st-petersburg" type="settlement">
-					<placeName xml:lang="de" type="index">St. Petersburg</placeName>
-					<placeName xml:lang="de" type="index">Petersburg</placeName>
+				<place type="settlement" xml:id="st-petersburg">
+					<placeName type="index" xml:lang="de">St. Petersburg</placeName>
+					<placeName type="index" xml:lang="de">Petersburg</placeName>
 					<country ref="#russland" role="administration"/>
 					<location type="geonames.org">
 						<geo>59.93863 30.31413</geo>
@@ -2428,15 +2430,15 @@
 					<idno type="geonames.org">498817</idno>
 					<bibl type="de.wikipedia.org">Sankt_Petersburg</bibl>
 				</place>
-				<place xml:id="st-petersburg.mariinski-theater" type="location">
-					<placeName xml:lang="de" type="index">Mariinski-Theater</placeName>
+				<place type="location" xml:id="st-petersburg.mariinski-theater">
+					<placeName type="index" xml:lang="de">Mariinski-Theater</placeName>
 					<location>
 						<settlement ref="#st-petersburg" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Mariinski-Theater</bibl>
 				</place>
-				<place xml:id="stockerau" type="settlement">
-					<placeName xml:lang="de" type="index">Stockerau</placeName>
+				<place type="settlement" xml:id="stockerau">
+					<placeName type="index" xml:lang="de">Stockerau</placeName>
 					<placeName xml:lang="en">Stockerau</placeName>
 					<placeName xml:lang="fr">Stockerau</placeName>
 					<placeName xml:lang="it">Stockerau</placeName>
@@ -2451,8 +2453,8 @@
 					<idno type="geonames.org">2764279</idno>
 					<bibl type="de.wikipedia.org">Stockerau</bibl>
 				</place>
-				<place xml:id="stockholm" type="settlement">
-					<placeName xml:lang="de" type="index">Stockholm</placeName>
+				<place type="settlement" xml:id="stockholm">
+					<placeName type="index" xml:lang="de">Stockholm</placeName>
 					<placeName xml:lang="en">Stockholm</placeName>
 					<placeName xml:lang="fr">Stockholm</placeName>
 					<placeName xml:lang="it">Stoccolma</placeName>
@@ -2471,8 +2473,8 @@
 					<idno type="geohash.org">u6sce0d2n</idno>
 					<bibl type="de.wikipedia.org">Stockholm</bibl>
 				</place>
-				<place xml:id="stralsund" type="settlement">
-					<placeName xml:lang="de" type="index">Stralsund</placeName>
+				<place type="settlement" xml:id="stralsund">
+					<placeName type="index" xml:lang="de">Stralsund</placeName>
 					<placeName xml:lang="en">Stralsund</placeName>
 					<placeName xml:lang="fr">Stralsund</placeName>
 					<placeName xml:lang="it">Stralsund</placeName>
@@ -2496,8 +2498,8 @@
 					<idno type="geohash.org">u39kcufhv</idno>
 					<bibl type="de.wikipedia.org">Stralsund</bibl>
 				</place>
-				<place xml:id="stuttgart" type="settlement">
-					<placeName xml:lang="de" type="index">Stuttgart</placeName>
+				<place type="settlement" xml:id="stuttgart">
+					<placeName type="index" xml:lang="de">Stuttgart</placeName>
 					<placeName xml:lang="en">Stuttgart</placeName>
 					<placeName xml:lang="fr">Stuttgart</placeName>
 					<placeName xml:lang="it">Stoccarda</placeName>
@@ -2519,8 +2521,8 @@
 					<idno type="geohash.org">u0wt2zmcq</idno>
 					<bibl type="de.wikipedia.org">Stuttgart</bibl>
 				</place>
-				<place xml:id="triest" type="settlement">
-					<placeName xml:lang="de" type="index">Triest</placeName>
+				<place type="settlement" xml:id="triest">
+					<placeName type="index" xml:lang="de">Triest</placeName>
 					<placeName xml:lang="en">Trieste</placeName>
 					<placeName xml:lang="fr">Trieste</placeName>
 					<placeName xml:lang="it">Trieste</placeName>
@@ -2542,19 +2544,19 @@
 					<idno type="geohash.org">u21gccxv3</idno>
 					<bibl type="de.wikipedia.org">Triest</bibl>
 				</place>
-				<place xml:id="triest.teatro-comunale" type="location">
-					<placeName from="1801" xml:lang="de" to="1820">Teatro Nuovo</placeName>
-					<placeName from="1820" xml:lang="de" to="1861" type="index">Teatro
+				<place type="location" xml:id="triest.teatro-comunale">
+					<placeName from="1801" to="1820" xml:lang="de">Teatro Nuovo</placeName>
+					<placeName from="1820" to="1861" type="index" xml:lang="de">Teatro
 						Grande</placeName>
-					<placeName from="1861" xml:lang="de" to="1901">Teatro Comunale</placeName>
+					<placeName from="1861" to="1901" xml:lang="de">Teatro Comunale</placeName>
 					<placeName from="1901" xml:lang="de">Teatro Giuseppe Verdi</placeName>
 					<location>
 						<settlement ref="#triest" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_Giuseppe_Verdi_(Triest)</bibl>
 				</place>
-				<place xml:id="utrecht" type="settlement">
-					<placeName xml:lang="de" type="index">Utrecht</placeName>
+				<place type="settlement" xml:id="utrecht">
+					<placeName type="index" xml:lang="de">Utrecht</placeName>
 					<placeName xml:lang="en">Utrecht</placeName>
 					<placeName xml:lang="fr">Utrecht</placeName>
 					<placeName xml:lang="it">Utrecht</placeName>
@@ -2569,8 +2571,8 @@
 					<idno type="geohash.org">u178k7h2d</idno>
 					<bibl type="de.wikipedia.org">Utrecht</bibl>
 				</place>
-				<place xml:id="venedig" type="settlement">
-					<placeName xml:lang="de" type="index">Venedig</placeName>
+				<place type="settlement" xml:id="venedig">
+					<placeName type="index" xml:lang="de">Venedig</placeName>
 					<placeName xml:lang="en">Venice</placeName>
 					<placeName xml:lang="fr">Venise</placeName>
 					<placeName xml:lang="it">Venezia</placeName>
@@ -2589,31 +2591,31 @@
 					<idno type="geohash.org">u20f80rbh</idno>
 					<bibl type="de.wikipedia.org">Venedig</bibl>
 				</place>
-				<place xml:id="venedig.san-marco" type="location">
-					<placeName xml:lang="de" type="index">Markusdom</placeName>
+				<place type="location" xml:id="venedig.san-marco">
+					<placeName type="index" xml:lang="de">Markusdom</placeName>
 					<placeName xml:lang="it">Basilica di San Marco (Venezia)</placeName>
 					<location>
 						<settlement ref="#venedig" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Markusdom</bibl>
 				</place>
-				<place xml:id="venedig.teatro-la-fenice" type="location">
-					<placeName xml:lang="de" type="index">Teatro La Fenice</placeName>
+				<place type="location" xml:id="venedig.teatro-la-fenice">
+					<placeName type="index" xml:lang="de">Teatro La Fenice</placeName>
 					<placeName xml:lang="it">Teatro La Fenice</placeName>
 					<location>
 						<settlement ref="#venedig" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_la_Fenice</bibl>
 				</place>
-				<place xml:id="venedig.teatro-malibran" type="location">
-					<placeName xml:lang="de" type="index">Teatro Malibran</placeName>
+				<place type="location" xml:id="venedig.teatro-malibran">
+					<placeName type="index" xml:lang="de">Teatro Malibran</placeName>
 					<location>
 						<settlement ref="#venedig" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_Malibran</bibl>
 				</place>
-				<place xml:id="voeslau" type="settlement">
-					<placeName xml:lang="de" type="index">Vöslau</placeName>
+				<place type="settlement" xml:id="voeslau">
+					<placeName type="index" xml:lang="de">Vöslau</placeName>
 					<country ref="#oesterreich" role="administration"/>
 					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
@@ -2623,8 +2625,8 @@
 					<idno type="geonames.org">2782043</idno>
 					<bibl type="de.wikipedia.org">Bad_Vöslau</bibl>
 				</place>
-				<place xml:id="warschau" type="settlement">
-					<placeName xml:lang="de" type="index">Warschau</placeName>
+				<place type="settlement" xml:id="warschau">
+					<placeName type="index" xml:lang="de">Warschau</placeName>
 					<placeName xml:lang="en">Warsaw</placeName>
 					<placeName xml:lang="fr">Varsovie</placeName>
 					<placeName xml:lang="it">Varsavia</placeName>
@@ -2644,8 +2646,8 @@
 					<idno type="geohash.org">u3qcnhheu</idno>
 					<bibl type="de.wikipedia.org">Warschau</bibl>
 				</place>
-				<place xml:id="weimar" type="settlement">
-					<placeName xml:lang="de" type="index">Weimar</placeName>
+				<place type="settlement" xml:id="weimar">
+					<placeName type="index" xml:lang="de">Weimar</placeName>
 					<placeName xml:lang="en">Weimar</placeName>
 					<placeName xml:lang="fr">Weimar</placeName>
 					<placeName xml:lang="it">Weimar</placeName>
@@ -2667,18 +2669,18 @@
 					<idno type="geohash.org">u30419kz6</idno>
 					<bibl type="de.wikipedia.org">Weimar</bibl>
 				</place>
-				<place xml:id="weimar.hoftheater" type="location">
-					<placeName from="1791" xml:lang="de" to="1918" type="index"
+				<place type="location" xml:id="weimar.hoftheater">
+					<placeName from="1791" to="1918" type="index" xml:lang="de"
 						>Hoftheater</placeName>
-					<placeName from="1918" xml:lang="de" to="1919">Landestheater</placeName>
+					<placeName from="1918" to="1919" xml:lang="de">Landestheater</placeName>
 					<placeName from="1919" xml:lang="de">Deutsches Nationaltheater</placeName>
 					<location>
 						<settlement ref="#weimar" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Deutsches_Nationaltheater_Weimar</bibl>
 				</place>
-				<place xml:id="wien" type="settlement">
-					<placeName xml:lang="de" type="index">Wien</placeName>
+				<place type="settlement" xml:id="wien">
+					<placeName type="index" xml:lang="de">Wien</placeName>
 					<placeName xml:lang="en">Vienna</placeName>
 					<placeName xml:lang="fr">Vienne</placeName>
 					<placeName xml:lang="it">Vienna</placeName>
@@ -2699,36 +2701,36 @@
 					<idno type="geohash.org">u2edk850c</idno>
 					<bibl type="de.wikipedia.org">Wien</bibl>
 				</place>
-				<place xml:id="wien.burgtheater" type="location">
-					<placeName xml:lang="de" type="index">Burgtheater</placeName>
-					<placeName from="1748" xml:lang="de" to="1888">k.k. Theater nächst der
+				<place type="location" xml:id="wien.burgtheater">
+					<placeName type="index" xml:lang="de">Burgtheater</placeName>
+					<placeName from="1748" to="1888" xml:lang="de">k.k. Theater nächst der
 						Burg</placeName>
-					<placeName from="1888" xml:lang="de" to="1918">k.k. Hof-Burgtheater</placeName>
+					<placeName from="1888" to="1918" xml:lang="de">k.k. Hof-Burgtheater</placeName>
 					<placeName from="1918" xml:lang="de">Burgtheater</placeName>
 					<location>
 						<settlement ref="#wien" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Burgtheater</bibl>
 				</place>
-				<place xml:id="wien.hof-operntheater" type="location">
-					<placeName xml:lang="de" type="index">Hof-Operntheater</placeName>
-					<placeName from="1869" xml:lang="de" to="1918">k.k. Hof-Operntheater</placeName>
-					<placeName from="1918" xml:lang="de" to="1938">Operntheater</placeName>
+				<place type="location" xml:id="wien.hof-operntheater">
+					<placeName type="index" xml:lang="de">Hof-Operntheater</placeName>
+					<placeName from="1869" to="1918" xml:lang="de">k.k. Hof-Operntheater</placeName>
+					<placeName from="1918" to="1938" xml:lang="de">Operntheater</placeName>
 					<placeName from="1938" xml:lang="de">Staatsoper</placeName>
 					<location>
 						<settlement ref="#wien" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Wiener_Staatsoper</bibl>
 				</place>
-				<place xml:id="wien.hofburg" type="location">
-					<placeName xml:lang="de" type="index">Hofburg</placeName>
+				<place type="location" xml:id="wien.hofburg">
+					<placeName type="index" xml:lang="de">Hofburg</placeName>
 					<location>
 						<settlement ref="#wien" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Hofburg</bibl>
 				</place>
-				<place xml:id="wien.kaerntnertor-theater" type="location">
-					<placeName from="1709" xml:lang="de" to="1870" type="index"
+				<place type="location" xml:id="wien.kaerntnertor-theater">
+					<placeName from="1709" to="1870" type="index" xml:lang="de"
 						>Kärntnertor-Theater</placeName>
 					<placeName xml:lang="de">Theater am Kärntnertor</placeName>
 					<location>
@@ -2736,23 +2738,23 @@
 					</location>
 					<bibl type="de.wikipedia.org">Theater_am_Kärntnertor</bibl>
 				</place>
-				<place xml:id="wien.konservatorium" type="location">
-					<placeName xml:lang="de" type="index">Konservatorium</placeName>
+				<place type="location" xml:id="wien.konservatorium">
+					<placeName type="index" xml:lang="de">Konservatorium</placeName>
 					<location>
 						<settlement ref="#wien" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org"
 						>Universität_für_Musik_und_darstellende_Kunst_Wien</bibl>
 				</place>
-				<place xml:id="wien.salvatorkirche" type="location">
-					<placeName xml:lang="de" type="index">St. Salvator</placeName>
+				<place type="location" xml:id="wien.salvatorkirche">
+					<placeName type="index" xml:lang="de">St. Salvator</placeName>
 					<location>
 						<settlement ref="#wien" role="parentSettlement"/>
 					</location>
 					<bibl type="de.wikipedia.org">Sankt_Salvator_(Wien)</bibl>
 				</place>
-				<place xml:id="wiesbaden" type="settlement">
-					<placeName xml:lang="de" type="index">Wiesbaden</placeName>
+				<place type="settlement" xml:id="wiesbaden">
+					<placeName type="index" xml:lang="de">Wiesbaden</placeName>
 					<placeName xml:lang="en">Wiesbaden</placeName>
 					<placeName xml:lang="fr">Wiesbaden</placeName>
 					<placeName xml:lang="it">Wiesbaden</placeName>
@@ -2773,14 +2775,14 @@
 					<idno type="geohash.org">u0vug9dwe</idno>
 					<bibl type="de.wikipedia.org">Wiesbaden</bibl>
 				</place>
-				<place xml:id="wiesbaden.koenigliches-theater" type="location">
-					<placeName xml:lang="de" type="index">Königliches Theater</placeName>
+				<place type="location" xml:id="wiesbaden.koenigliches-theater">
+					<placeName type="index" xml:lang="de">Königliches Theater</placeName>
 					<location>
 						<settlement ref="#wiesbaden" role="parentSettlement"/>
 					</location>
 				</place>
-				<place xml:id="winterthur" type="settlement">
-					<placeName xml:lang="de" type="index">Winterthur</placeName>
+				<place type="settlement" xml:id="winterthur">
+					<placeName type="index" xml:lang="de">Winterthur</placeName>
 					<placeName xml:lang="en">Winterthur</placeName>
 					<placeName xml:lang="fr">Winterthour</placeName>
 					<placeName xml:lang="it">Winterthur</placeName>
@@ -2795,8 +2797,8 @@
 					<idno type="geohash.org">u0qnnz4e2</idno>
 					<bibl type="de.wikipedia.org">Winterthur</bibl>
 				</place>
-				<place xml:id="zuerich" type="settlement">
-					<placeName xml:lang="de" type="index">Zürich</placeName>
+				<place type="settlement" xml:id="zuerich">
+					<placeName type="index" xml:lang="de">Zürich</placeName>
 					<placeName xml:lang="en">Zurich</placeName>
 					<placeName xml:lang="fr">Zurich</placeName>
 					<placeName xml:lang="it">Zurigo</placeName>
@@ -2818,7 +2820,7 @@
 				</place>
 
 				<!-- NICHT BEKANNT -->
-				<place xml:id="unidentified" type="undefinable">
+				<place type="undefinable" xml:id="unidentified">
 					<placeName type="index">? (nicht identifizierter Ort)</placeName>
 				</place>
 
