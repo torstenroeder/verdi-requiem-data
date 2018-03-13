@@ -3,7 +3,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Körperschaften</title>
+				<title>Periodika</title>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -17,18 +17,17 @@
 		<encodingDesc>
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
+		<!--
+		* vermerken, ob digitalisiert?
+		* orte vermerken
+		* umformen: in Texten: orgName => title? oder name? (braucht @ref, deshalb geht series nicht)
+		* jeweilige Digitalisate vermerken (resource!) => REF
+		* sonstige Hinweise mit BIBL
+		-->
 	</teiHeader>
 	<text xml:lang="de">
 		<body>
-			<!--
-			* vermerken, ob digitalisiert?
-			* orte vermerken
-			* entstehung / auflösung vermerken
-			* schema anpassen! beschreibung ggf. kürzen
-			* umformen: orgName => bibl, in Texten: orgName => title? oder name? (braucht @ref, deshalb geht series nicht)
-			* jeweilige Digitalisate vermerken (resource!) => REF
-			* sonstige Hinweise mit BIBL
-			-->
+			<head>Periodika</head>
 			<listBibl>
 				<head>Deutschsprachige Musikzeitschriften</head>
 				<bibl type="periodical.music" xml:id="admz">
@@ -38,7 +37,6 @@
 					<name type="secondary">Wochenschrift für die Reform des Musiklebens der
 						Gegenwart</name>
 					<name type="index">Allgemeine deutsche Musikzeitung [Berlin]</name>
-					<name type="full">Allgemeine deutsche Musikzeitung (1874)</name>
 					<abbr>AdMz</abbr>
 					<lang>Deutsch</lang>
 					<publisher>
@@ -46,7 +44,7 @@
 						<placeName ref="#charlottenburg"><note>zuerst: Leipzig und
 							Kassel</note></placeName>
 					</publisher>
-					<note type="frequency">wöchentlich, jeden Freitags</note>
+					<note type="frequency">wöchentlich (jeden Freitag)</note>
 					<note type="pagination">durchlaufend</note>
 					<bibl type="de.wikipedia.org">Allgemeine_deutsche_Musikzeitung</bibl>
 					<bibl type="de.wikisource.org"
@@ -58,7 +56,6 @@
 					<name>Allgemeine musikalische Zeitung</name>
 					<name type="index">Allgemeine musikalische Zeitung [Leipzig]</name>
 					<name type="index">Leipziger allgemeine musikalische Zeitung</name>
-					<name type="full">Allgemeine musikalische Zeitung (1798)</name>
 					<abbr>AmZ</abbr>
 					<lang>Deutsch</lang>
 					<publisher>
@@ -69,6 +66,7 @@
 						<placeName ref="#leipzig"/>
 						<placeName ref="#winterthur"/>
 					</publisher>
+					<note type="frequency">wöchentlich (jeden Mittwoch)</note>
 					<note type="pagination">durchlaufend nach Spalten</note>
 					<bibl type="de.wikipedia.org">Allgemeine_musikalische_Zeitung</bibl>
 					<bibl type="de.wikisource.org">Allgemeine_musikalische_Zeitung</bibl>
@@ -78,7 +76,6 @@
 				<bibl type="periodical.music" xml:id="bmze">
 					<idno type="zdb">895483-5</idno>
 					<name type="index">Berliner Musik-Zeitung Echo</name>
-					<name type="full">Berliner Musik-Zeitung Echo (1851)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<name>Schlesinger</name>
@@ -95,7 +92,6 @@
 					<name>Cäcilia</name>
 					<name type="secondary">Eine Zeitschrift für die musikalische Welt</name>
 					<name type="index">Cäcilia [Mainz]</name>
-					<name type="full">Cäcilia (1824)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1824" to="1848"/>
@@ -107,7 +103,6 @@
 					<name>Deutsche Musik-Zeitung</name>
 					<name type="secondary">Organ für Theater und Kunst</name>
 					<name type="index">Deutsche Musik-Zeitung [Wien]</name>
-					<name type="full">Deutsche Musik-Zeitung (1874)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<name>Steyrermühl</name>
@@ -125,12 +120,12 @@
 						sowie für Cantoren, Organisten, Musiklehrer und Freunde der Tonkunst
 						überhaupt</name>
 					<name type="index">Euterpe [Leipzig]</name>
-					<name type="full">Euterpe (1841)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1841" to="1884"/>
 						<placeName ref="#leipzig"/>
 					</publisher>
+					<note type="frequency">monatlich</note>
 					<note type="pagination">durchlaufend</note>
 					<bibl type="de.wikipedia.org">Euterpe_(Musikzeitschrift)</bibl>
 					<bibl type="de.wikisource.org"
@@ -141,7 +136,6 @@
 					<name>Fliegende Blätter für katholische Kirchenmusik</name>
 					<name type="index">Fliegende Blätter für katholische Kirchenmusik
 						[Regensburg]</name>
-					<name type="full">Fliegende Blätter für katholische Kirchenmusik (1866)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<name>Pustet</name>
@@ -153,7 +147,6 @@
 					<idno type="zdb">206475-3</idno>
 					<name>Monatshefte für Musik-Geschichte</name>
 					<name type="index">Monatshefte für Musik-Geschichte [Berlin]</name>
-					<name type="full">Monatshefte für Musik-Geschichte (1869)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<name>Trautwein / Bahn / Liepmannssohn</name>
@@ -170,10 +163,9 @@
 				<bibl type="periodical.music" xml:id="mlmb">
 					<idno type="zdb">960931-3</idno>
 					<name>Musikalisch literarischer Monatsbericht</name>
-					<name type="full">Musikalisch literarischer Monatsbericht über neue Musikalien,
-						musikalische Schriften und Abbildungen</name>
+					<name type="secondary">über neue Musikalien, musikalische Schriften und
+						Abbildungen</name>
 					<name type="index">Musikalisch literarischer Monatsbericht [Leipzig]</name>
-					<name type="full">Musikalisch literarischer Monatsbericht (1829)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1829" to="1947"/>
@@ -187,10 +179,9 @@
 					<idno type="zdb">202950-9</idno>
 					<idno type="gnd">011157852</idno>
 					<name>Musica sacra</name>
-					<name type="index">Musica sacra [Regensburg]</name>
 					<name type="secondary">Beiträge zur Reform und Förderung der katholischen
 						Kirchenmusik</name>
-					<name type="full">Musica sacra (1868)</name>
+					<name type="index">Musica sacra [Regensburg]</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1868" to="1928"/>
@@ -205,7 +196,6 @@
 					<name>Musikalisches Wochenblatt</name>
 					<name type="index">Musikalisches Wochenblatt [Leipzig]</name>
 					<name type="secondary">für Tonkünstler und Musikfreunde</name>
-					<name type="full">Musikalisches Wochenblatt (1870)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<name>Ernst Wilhelm Fritzsch</name>
@@ -223,7 +213,6 @@
 				<bibl type="periodical.music" xml:id="nbmz">
 					<idno type="zdb">530399-0</idno>
 					<name type="index">Neue Berliner Musikzeitung</name>
-					<name type="full">Neue Berliner Musikzeitung (1846)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1846" to="1896"/>
@@ -240,7 +229,6 @@
 					<name type="index">Neue Zeitschrift für Musik [Leipzig]</name>
 					<name type="index">Neue Leipziger Zeitschrift für Musik</name>
 					<name type="secondary">Das Magazin für neue Töne</name>
-					<name type="full">Neue Zeitschrift für Musik (1834)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<name>C. F. Kahnt</name>
@@ -258,7 +246,6 @@
 					<idno type="gnd">012704601</idno>
 					<name>Signale für die musikalische Welt</name>
 					<name type="index">Signale für die musikalische Welt [Berlin]</name>
-					<name type="full">Signale für die musikalische Welt (1842)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1842" to="1941"/>
@@ -279,7 +266,6 @@
 					<name type="index">Siona [Gütersloh]</name>
 					<name type="secondary">Monatsschrift für Liturgie und Kirchenmusik zur Hebung
 						des gottesdienstlichen Lebens</name>
-					<name type="full">Siona (1876)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1876" to="1920"/>
@@ -293,7 +279,6 @@
 					<name>Die Tonkunst</name>
 					<name type="secondary">Wochenschrift für den Fortschritt in der Musik</name>
 					<name type="index">Die Tonkunst [Berlin]</name>
-					<name type="full">Die Tonkunst (1876)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1876" to="1886"/>
@@ -304,654 +289,604 @@
 				</bibl>
 			</listBibl>
 			<listBibl>
-				<head>Deutschsprachige Tageszeitungen im Deutschen Reich</head>
-				<bibl type="journal" xml:id="aachener-zeitung">
-					<idno type="zdb">89121-6</idno>
-					<name type="index">Aachener Zeitung</name>
-					<name type="full">Aachener Zeitung (1849)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1849" to="1888"/>
-						<placeName ref="#aachen"/>
-					</publisher>
-				</bibl>
-				<bibl type="journal" xml:id="allgemeine-zeitung">
-					<idno type="zdb">243901-3</idno>
-					<name>Allgemeine Zeitung</name>
-					<name type="index">Augsburger allgemeine Zeitung</name>
-					<name type="index">Cotta’sche Zeitung [Augsburg]</name>
-					<name type="index">Allgemeine Zeitung [Augsburg]</name>
-					<name type="full">Allgemeine Zeitung (1798)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1798" to="1803"/>
-						<placeName ref="#unidentified">Tübingen</placeName>
-					</publisher>
-					<publisher>
-						<date from="1807" to="1882"/>
-						<placeName ref="#augsburg"/>
-					</publisher>
-					<publisher>
-						<date from="1882" to="1925"/>
-						<placeName ref="#muenchen"/>
-					</publisher>
-					<note type="pagination">durchlaufend</note>
-					<bibl type="opacplus.bsb-muenchen.de">869859785</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="altonaer-nachrichten">
-					<idno type="zdb">291785-3</idno>
-					<name type="index">Altonaer Nachrichten</name>
-					<name type="full">Altonaer Nachrichten (1850–1855/1864–1938)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1850" to="1855"/>
-						<date from="1864" to="1938"/>
-						<placeName ref="#altona"/>
-					</publisher>
-					<bibl type="theeuropeanlibrary.org">3000096105067</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="bayerischer-kurier">
-					<idno type="zdb">1367472-9</idno>
-					<name>Bayerischer Kurier</name>
-					<name type="index">Bayerischer Kurier [München]</name>
-					<name type="full">Bayerischer Kurier (1857–1893/1922–1934)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1857" to="1893"/>
-						<date from="1922" to="1934"/>
-						<placeName ref="#muenchen"/>
-					</publisher>
-				</bibl>
-				<bibl type="journal" xml:id="berliner-boersen-zeitung">
-					<name type="index">Berliner Börsen-Zeitung</name>
-					<name type="full">Berliner Börsen-Zeitung (?)</name>
-					<lang>Deutsch</lang>
-					<bibl type="theeuropeanlibrary.org">3000117702505</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="berliner-fremdenblatt">
-					<idno type="zdb">1127075-5</idno>
-					<name type="index">Berliner Fremdenblatt</name>
-					<name type="full">Berliner Fremdenblatt (1837–1901)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1837" to="1901"/>
-						<placeName ref="#berlin"/>
-					</publisher>
-					<note>gesichtet: April 1876</note>
-				</bibl>
-				<bibl type="journal" xml:id="berliner-tageblatt">
-					<idno type="zdb">341834-0</idno>
-					<name type="index">Berliner Tageblatt</name>
-					<name type="full">Berliner Tageblatt und Handels-Zeitung (1872)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1872" to="1939"/>
-						<placeName ref="#berlin"/>
-					</publisher>
-					<note>gesichtet: April 1876</note>
-					<bibl type="theeuropeanlibrary.org">3000096302605</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="coburger-zeitung">
-					<idno type="zdb">1396849-x</idno>
-					<name type="index">Coburger Zeitung</name>
-					<name type="full">Coburger Zeitung (1861)</name>
-					<name type="secondary">älteste nationale Tageszeitung Coburgs</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1861" to="1935"/>
-						<placeName ref="#coburg"/>
-					</publisher>
-					<note type="pagination">durchlaufend</note>
-					<ref target="http://www.bayerische-landesbibliothek-online.de/coburger-zeitung1"
-						>BLO</ref>
-				</bibl>
-				<bibl type="journal" xml:id="deutsche-rundschau">
-					<idno type="zdb">205873-x</idno>
-					<idno type="gnd">011183136</idno>
-					<name>Deutsche Rundschau</name>
-					<name type="index">Deutsche Rundschau [Berlin]</name>
-					<name type="full">Deutsche Rundschau (1874)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1874" to="1964"/>
-						<placeName ref="#berlin"/>
-					</publisher>
-					<bibl type="de.wikipedia.org">Deutsche_Rundschau</bibl>
-					<bibl type="de.wikisource.org">Deutsche_Rundschau</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="dresdner-nachrichten">
-					<idno type="zdb">231494-0</idno>
-					<name type="index">Dresdner Nachrichten</name>
-					<name type="full">Dresdner Nachrichten (1856)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1856" to="1943"/>
-						<placeName ref="#dresden"/>
-					</publisher>
-					<note>gesichtet: Februar 1876</note>
-					<note type="pagination">einzeln</note>
-				</bibl>
-				<bibl type="journal" xml:id="echo-der-gegenwart">
-					<idno type="zdb">607163-6</idno>
-					<name>Echo der Gegenwart</name>
-					<name type="index">Echo der Gegenwart [Aachen]</name>
-					<name type="full">Echo der Gegenwart (1850)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1850" to="1935"/>
-						<placeName ref="#aachen"/>
-					</publisher>
-					<note type="pagination">unpaginiert</note>
-					<ref
-						target="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/titleinfo/2834587"
-						>UB Bonn</ref>
-				</bibl>
-				<bibl type="journal" xml:id="hamburger-nachrichten">
-					<idno type="zdb">622736-3</idno>
-					<name type="index">Hamburger Nachrichten</name>
-					<name type="full">Hamburger Nachrichten (1849)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1849" to="1939"/>
-						<placeName ref="#hamburg"/>
-					</publisher>
-					<bibl type="theeuropeanlibrary.org">3000117588286</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="karlsruher-nachrichten">
-					<idno type="zdb">384878-4</idno>
-					<name type="index">Karlsruher Nachrichten</name>
-					<name type="full">Karlsruher Nachrichten (1870)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1870" to="1894"/>
-						<placeName ref="#karlsruhe"/>
-					</publisher>
-					<note>gesichtet: April 1878</note>
-					<note type="pagination">durchlaufend</note>
-				</bibl>
-				<bibl type="journal" xml:id="koelnische-volkszeitung">
-					<idno type="zdb">1207761-6</idno>
-					<name type="index">Kölnische Volkszeitung</name>
-					<name type="full">Kölnische Volkszeitung (1869)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1869" to="1887"/>
-						<placeName ref="#koeln"/>
-					</publisher>
-					<note>gesichtet: Dezember 1875</note>
-				</bibl>
-				<bibl type="journal" xml:id="koelnische-zeitung">
-					<idno type="zdb">200760-5</idno>
-					<name type="index">Kölnische Zeitung</name>
-					<name type="full">Kölnische Zeitung (1802)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1802" to="1945"/>
-						<placeName ref="#koeln"/>
-					</publisher>
-				</bibl>
-				<bibl type="journal" xml:id="koeniglich-privilegirte-berlinische-zeitung">
-					<idno type="zdb">748892-0</idno>
-					<name>Königlich privilegirte Berlinische Zeitung</name>
-					<name type="index">Vossische Zeitung [Berlin]</name>
-					<name type="index">Königlich privilegirte Berlinische Zeitung</name>
-					<name type="full">Königlich privilegirte Berlinische Zeitung von Staats- und
-						gelehrten Sachen (1785)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1785" to="1911"/>
-						<placeName ref="#berlin"/>
-					</publisher>
-					<note>gesichtet: April 1876</note>
-					<bibl type="opacplus.bsb-muenchen.de">225102298</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="leipziger-nachrichten">
-					<idno type="zdb">1385582-7</idno>
-					<name type="index">Leipziger Nachrichten</name>
-					<name type="full">Leipziger Nachrichten (1870)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1870" to="1892"><note>ZDB: ab 1878 „nachgewiesen“</note></date>
-						<placeName ref="#leipzig"/>
-					</publisher>
-				</bibl>
-				<bibl type="journal" xml:id="leipziger-tageblatt">
-					<idno type="zdb">1286236-8</idno>
-					<name type="index">Leipziger Tageblatt und Anzeiger</name>
-					<name type="full">Leipziger Tageblatt und Anzeiger (1833)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1833" to="1905"/>
-						<placeName ref="#leipzig"/>
-					</publisher>
-				</bibl>
-				<bibl type="journal" xml:id="mecklenburgische-zeitung">
-					<idno type="zdb">1000532-8</idno>
-					<name>Mecklenburgische Zeitung</name>
-					<name type="index">Mecklenburgische Zeitung [Schwerin]</name>
-					<name type="full">Mecklenburgische Zeitung (1848)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1848" to="1943"/>
-						<placeName ref="#schwerin"/>
-					</publisher>
-				</bibl>
-				<bibl type="journal" xml:id="muenchener-nachrichten">
-					<idno type="zdb">1267810-7</idno>
-					<name type="index">Münchener Nachrichten</name>
-					<name type="full">Münchener Nachrichten (1874)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1874" to="1876"/>
-						<placeName ref="#muenchen"/>
-					</publisher>
-				</bibl>
-				<bibl type="journal" xml:id="national-zeitung">
-					<idno type="zdb">984287-1</idno>
-					<name>National-Zeitung</name>
-					<name type="index">National-Zeitung [Berlin]</name>
-					<name type="full">National-Zeitung (1848)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1848" to="1938"><note>ZDB: 1849</note></date>
-						<placeName ref="#berlin"/>
-					</publisher>
-					<note>gesichtet: April 1876</note>
-					<bibl type="de.wikipedia.org">National-Zeitung_(19._Jahrhundert)</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="neue-preussische-zeitung">
-					<idno type="zdb">304140-2</idno>
-					<name>Neue Preußische Zeitung</name>
-					<name type="index">Neue Preußische Zeitung [Berlin]</name>
-					<name type="index">Kreuzzeitung [Berlin]</name>
-					<name type="full">Neue Preußische Zeitung (1848)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1848" to="1929"/>
-						<placeName ref="#berlin"/>
-					</publisher>
-					<note>gesichtet: April 1876</note>
-				</bibl>
-				<bibl type="journal" xml:id="neues-berliner-tageblatt">
-					<idno type="zdb">1139122-4</idno>
-					<name>Neues Berliner Tageblatt</name>
-					<name type="index">Neues Berliner Tageblatt</name>
-					<name type="full">Neues Berliner Tageblatt (1875)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1875" to="1877"/>
-						<placeName ref="#berlin"/>
-					</publisher>
-					<note>gesichtet: April 1876</note>
-					<note type="pagination">einzeln</note>
-				</bibl>
-				<bibl type="journal" xml:id="neueste-nachrichten">
-					<idno type="zdb">1406403-0</idno>
-					<name>Neueste Nachrichten</name>
-					<name type="index">Neueste Nachrichten [München]</name>
-					<name type="full">Neueste Nachrichten (1875)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1875" to="1881"/>
-						<placeName ref="#muenchen"/>
-					</publisher>
-				</bibl>
-				<bibl type="journal" xml:id="norddeutsche-allgemeine-zeitung">
-					<idno type="zdb">125912-x</idno>
-					<name>Norddeutsche Allgemeine Zeitung</name>
-					<name type="index">Norddeutsche Allgemeine Zeitung [Berlin]</name>
-					<name type="full">Norddeutsche Allgemeine Zeitung (1861)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1861" to="1918"/>
-						<placeName ref="#berlin"/>
-					</publisher>
-					<note>gesichtet: April 1876</note>
-				</bibl>
-				<bibl type="journal" xml:id="rheinischer-kurier">
-					<idno type="zdb">1474980-4</idno>
-					<name>Rheinischer Kurier</name>
-					<name type="index">Rheinischer Kurier [Wiesbaden]</name>
-					<name type="full">Rheinischer Kurier (1870)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1870" to="1871">
+				<head>Deutschsprachige Tageszeitungen</head>
+				<listBibl>
+					<head>Deutsches Reich</head>
+					<bibl type="journal" xml:id="aachener-zeitung">
+						<idno type="zdb">89121-6</idno>
+						<name type="index">Aachener Zeitung</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1849" to="1888"/>
+							<placeName ref="#aachen"/>
+						</publisher>
+					</bibl>
+					<bibl type="journal" xml:id="allgemeine-zeitung">
+						<idno type="zdb">243901-3</idno>
+						<name>Allgemeine Zeitung</name>
+						<name type="index">Allgemeine Zeitung [Augsburg]</name>
+						<name type="index">Augsburger allgemeine Zeitung</name>
+						<name type="index">Cotta’sche Zeitung [Augsburg]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1798" to="1803"/>
+							<placeName ref="#unidentified">Tübingen</placeName>
+						</publisher>
+						<publisher>
+							<date from="1807" to="1882"/>
+							<placeName ref="#augsburg"/>
+						</publisher>
+						<publisher>
+							<date from="1882" to="1925"/>
+							<placeName ref="#muenchen"/>
+						</publisher>
+						<note type="pagination">durchlaufend</note>
+						<bibl type="opacplus.bsb-muenchen.de">869859785</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="altonaer-nachrichten">
+						<idno type="zdb">291785-3</idno>
+						<name type="index">Altonaer Nachrichten</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1850" to="1855"/>
+							<date from="1864" to="1938"/>
+							<placeName ref="#altona"/>
+						</publisher>
+						<bibl type="theeuropeanlibrary.org">3000096105067</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="bayerischer-kurier">
+						<idno type="zdb">1367472-9</idno>
+						<name>Bayerischer Kurier</name>
+						<name type="index">Bayerischer Kurier [München]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1857" to="1893"/>
+							<date from="1922" to="1934"/>
+							<placeName ref="#muenchen"/>
+						</publisher>
+					</bibl>
+					<bibl type="journal" xml:id="berliner-boersen-zeitung">
+						<name type="index">Berliner Börsen-Zeitung</name>
+						<lang>Deutsch</lang>
+						<bibl type="theeuropeanlibrary.org">3000117702505</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="berliner-fremdenblatt">
+						<idno type="zdb">1127075-5</idno>
+						<name type="index">Berliner Fremdenblatt</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1837" to="1901"/>
+							<placeName ref="#berlin"/>
+						</publisher>
+						<note>gesichtet: April 1876</note>
+					</bibl>
+					<bibl type="journal" xml:id="berliner-tageblatt">
+						<idno type="zdb">341834-0</idno>
+						<name type="index">Berliner Tageblatt und Handels-Zeitung</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1872" to="1939"/>
+							<placeName ref="#berlin"/>
+						</publisher>
+						<note>gesichtet: April 1876</note>
+						<bibl type="theeuropeanlibrary.org">3000096302605</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="coburger-zeitung">
+						<idno type="zdb">1396849-x</idno>
+						<name type="index">Coburger Zeitung</name>
+						<name type="secondary">älteste nationale Tageszeitung Coburgs</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1861" to="1935"/>
+							<placeName ref="#coburg"/>
+						</publisher>
+						<note type="pagination">durchlaufend</note>
+						<ref
+							target="http://www.bayerische-landesbibliothek-online.de/coburger-zeitung1"
+							>BLO</ref>
+					</bibl>
+					<bibl type="journal" xml:id="deutsche-rundschau">
+						<idno type="zdb">205873-x</idno>
+						<idno type="gnd">011183136</idno>
+						<name>Deutsche Rundschau</name>
+						<name type="index">Deutsche Rundschau [Berlin]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1874" to="1964"/>
+							<placeName ref="#berlin"/>
+						</publisher>
+						<bibl type="de.wikipedia.org">Deutsche_Rundschau</bibl>
+						<bibl type="de.wikisource.org">Deutsche_Rundschau</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="dresdner-nachrichten">
+						<idno type="zdb">231494-0</idno>
+						<name type="index">Dresdner Nachrichten</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1856" to="1943"/>
+							<placeName ref="#dresden"/>
+						</publisher>
+						<note>gesichtet: Februar 1876</note>
+						<note type="pagination">einzeln</note>
+					</bibl>
+					<bibl type="journal" xml:id="echo-der-gegenwart">
+						<idno type="zdb">607163-6</idno>
+						<name>Echo der Gegenwart</name>
+						<name type="index">Echo der Gegenwart [Aachen]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1850" to="1935"/>
+							<placeName ref="#aachen"/>
+						</publisher>
+						<note type="pagination">unpaginiert</note>
+						<ref
+							target="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/titleinfo/2834587"
+							>UB Bonn</ref>
+					</bibl>
+					<bibl type="journal" xml:id="hamburger-nachrichten">
+						<idno type="zdb">622736-3</idno>
+						<name type="index">Hamburger Nachrichten</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1849" to="1939"/>
+							<placeName ref="#hamburg"/>
+						</publisher>
+						<bibl type="theeuropeanlibrary.org">3000117588286</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="karlsruher-nachrichten">
+						<idno type="zdb">384878-4</idno>
+						<name type="index">Karlsruher Nachrichten</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1870" to="1894"/>
+							<placeName ref="#karlsruhe"/>
+						</publisher>
+						<note>gesichtet: April 1878</note>
+						<note type="pagination">durchlaufend</note>
+					</bibl>
+					<bibl type="journal" xml:id="koelnische-volkszeitung">
+						<idno type="zdb">1207761-6</idno>
+						<name type="index">Kölnische Volkszeitung</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1869" to="1887"/>
+							<placeName ref="#koeln"/>
+						</publisher>
+						<note>gesichtet: Dezember 1875</note>
+					</bibl>
+					<bibl type="journal" xml:id="koelnische-zeitung">
+						<idno type="zdb">200760-5</idno>
+						<name type="index">Kölnische Zeitung</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1802" to="1945"/>
+							<placeName ref="#koeln"/>
+						</publisher>
+					</bibl>
+					<bibl type="journal" xml:id="koeniglich-privilegirte-berlinische-zeitung">
+						<idno type="zdb">748892-0</idno>
+						<name>Königlich privilegirte Berlinische Zeitung</name>
+						<name type="secondary">von Staats- und gelehrten Sachen</name>
+						<name type="index">Königlich privilegirte Berlinische Zeitung</name>
+						<name type="index">Vossische Zeitung [Berlin]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1785" to="1911"/>
+							<placeName ref="#berlin"/>
+						</publisher>
+						<note>gesichtet: April 1876</note>
+						<bibl type="opacplus.bsb-muenchen.de">225102298</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="leipziger-nachrichten">
+						<idno type="zdb">1385582-7</idno>
+						<name type="index">Leipziger Nachrichten</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1870" to="1892"><note>ZDB: ab 1878
+								„nachgewiesen“</note></date>
+							<placeName ref="#leipzig"/>
+						</publisher>
+					</bibl>
+					<bibl type="journal" xml:id="leipziger-tageblatt">
+						<idno type="zdb">1286236-8</idno>
+						<name type="index">Leipziger Tageblatt und Anzeiger</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1833" to="1905"/>
+							<placeName ref="#leipzig"/>
+						</publisher>
+					</bibl>
+					<bibl type="journal" xml:id="mecklenburgische-zeitung">
+						<idno type="zdb">1000532-8</idno>
+						<name>Mecklenburgische Zeitung</name>
+						<name type="index">Mecklenburgische Zeitung [Schwerin]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1848" to="1943"/>
+							<placeName ref="#schwerin"/>
+						</publisher>
+					</bibl>
+					<bibl type="journal" xml:id="muenchener-nachrichten">
+						<idno type="zdb">1267810-7</idno>
+						<name type="index">Münchener Nachrichten</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1874" to="1876"/>
+							<placeName ref="#muenchen"/>
+						</publisher>
+					</bibl>
+					<bibl type="journal" xml:id="national-zeitung">
+						<idno type="zdb">984287-1</idno>
+						<name>National-Zeitung</name>
+						<name type="index">National-Zeitung [Berlin]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1848" to="1938"><note>ZDB: 1849</note></date>
+							<placeName ref="#berlin"/>
+						</publisher>
+						<note>gesichtet: April 1876</note>
+						<bibl type="de.wikipedia.org">National-Zeitung_(19._Jahrhundert)</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="neue-preussische-zeitung">
+						<idno type="zdb">304140-2</idno>
+						<name>Neue Preußische Zeitung</name>
+						<name type="index">Neue Preußische Zeitung [Berlin]</name>
+						<name type="index">Kreuzzeitung [Berlin]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1848" to="1929"/>
+							<placeName ref="#berlin"/>
+						</publisher>
+						<note>gesichtet: April 1876</note>
+					</bibl>
+					<bibl type="journal" xml:id="neues-berliner-tageblatt">
+						<idno type="zdb">1139122-4</idno>
+						<name>Neues Berliner Tageblatt</name>
+						<name type="index">Neues Berliner Tageblatt</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1875" to="1877"/>
+							<placeName ref="#berlin"/>
+						</publisher>
+						<note>gesichtet: April 1876</note>
+						<note type="pagination">einzeln</note>
+					</bibl>
+					<bibl type="journal" xml:id="neueste-nachrichten">
+						<idno type="zdb">1406403-0</idno>
+						<name>Neueste Nachrichten</name>
+						<name type="index">Neueste Nachrichten [München]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1875" to="1881"/>
+							<placeName ref="#muenchen"/>
+						</publisher>
+					</bibl>
+					<bibl type="journal" xml:id="norddeutsche-allgemeine-zeitung">
+						<idno type="zdb">125912-x</idno>
+						<name>Norddeutsche Allgemeine Zeitung</name>
+						<name type="index">Norddeutsche Allgemeine Zeitung [Berlin]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1861" to="1918"/>
+							<placeName ref="#berlin"/>
+						</publisher>
+						<note>gesichtet: April 1876</note>
+					</bibl>
+					<bibl type="journal" xml:id="preussischer-volksfreund">
+						<idno type="zdb">1000212-1</idno>
+						<name>Preußischer Volksfreund</name>
+						<name type="index">Preußischer Volksfreund [Königsberg]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1799" to="1924"/>
+							<placeName ref="#koenigsberg"/>
+						</publisher>
+						<note>gesichtet: Mai 1876</note>
+					</bibl>
+					<bibl type="journal" xml:id="rheinischer-kurier">
+						<idno type="zdb">1474980-4</idno>
+						<name>Rheinischer Kurier</name>
+						<name type="index">Rheinischer Kurier [Wiesbaden]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1870" to="1871">
+								<note>nachweisbare Jahrgänge</note>
+							</date>
+							<placeName ref="#wiesbaden"/>
+						</publisher>
+					</bibl>
+					<bibl type="journal" xml:id="schlesische-volkszeitung">
+						<idno type="zdb">606447-4</idno>
+						<name>Schlesische Volkszeitung</name>
+						<name type="index">Schlesische Volkszeitung [Breslau]</name>
+						<name type="index">Breslauer Hausblätter</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1871" to="1944"/>
+							<placeName ref="#breslau"/>
+						</publisher>
+						<note>gesichtet: Mai 1876</note>
+					</bibl>
+					<bibl type="journal" xml:id="westpreussisches-volksblatt">
+						<idno type="zdb">1156529-9</idno>
+						<name>Westpreußisches Volksblatt</name>
+						<name type="index">Westpreußisches Volksblatt [Danzig]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1873" to="1920"/>
+							<placeName ref="#danzig"/>
+						</publisher>
+						<note>gesichtet: April 1876</note>
+					</bibl>
+					<bibl type="journal" xml:id="zwischenact-zeitung">
+						<idno type="zdb">2106593-7</idno>
+						<name>Zwischenact-Zeitung</name>
+						<name type="index">Zwischenact-Zeitung [Hamburg]</name>
+						<name type="secondary">officielles Theater- und Concert-Programm</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1863" to="1903"><note>1903(?)</note></date>
+							<placeName ref="#hamburg"/>
+						</publisher>
+					</bibl>
+				</listBibl>
+				<listBibl>
+					<head>Österreich-Ungarn</head>
+					<bibl type="journal" xml:id="bruenner-zeitung">
+						<!-- *** Tagesbote Brünn? -->
+						<name type="index">Brünner Zeitung</name>
+						<lang>Deutsch</lang>
+					</bibl>
+					<bibl type="journal" xml:id="das-vaterland">
+						<name>Das Vaterland</name>
+						<name type="index">Das Vaterland [Wien]</name>
+						<lang>Deutsch</lang>
+						<note>Einordnung nach Paupié: föderalistisch-konservativ</note>
+						<bibl type="anno.onb.ac.at">vtl</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="deutsche-zeitung">
+						<idno type="zdb">1074846-5</idno>
+						<name>Deutsche Zeitung</name>
+						<name type="index">Deutsche Zeitung [Wien]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1871" to="1907"/>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note type="pagination">einzeln</note>
+						<note>Einordnung nach Paupié: nationalliberal (S. 157f)</note>
+						<bibl type="anno.onb.ac.at">dzg</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="die-presse">
+						<idno type="zdb">126422-9</idno>
+						<idno type="gnd">010717242</idno>
+						<name>Die Presse</name>
+						<name type="index">Die Presse [Wien]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1848" to="1896"/>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note type="pagination">einzeln</note>
+						<note>Einordnung nach Paupié: rechtsliberal (S. 135–138)</note>
+						<bibl type="de.wikipedia.org">Die_Presse</bibl>
+						<bibl type="anno.onb.ac.at">apr</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="fremden-blatt">
+						<idno type="zdb">1060742-0</idno>
+						<name>Fremden-Blatt</name>
+						<name type="index">Fremden-Blatt [Wien]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<name>Elbemühl</name>
+							<date from="1847" to="1919"><note>falsch in ZDB: 1846</note></date>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note>teils einzeln paginiert, teils unpaginiert</note>
+						<note>Einordnung nach Paupié: liberal</note>
+						<bibl type="anno.onb.ac.at">fdb</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="grazer-volksblatt">
+						<idno type="gnd">7600145-3</idno>
+						<name type="index">Grazer Volksblatt</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1868" to="1939"/>
+							<placeName ref="#graz"/>
+							<note>wechselnde Verleger</note>
+						</publisher>
+						<note>unpaginiert</note>
+						<bibl type="anno.onb.ac.at">gre</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="morgen-post">
+						<idno type="zdb">2752530-2</idno>
+						<name>Morgen-Post</name>
+						<name type="index">Morgen-Post [Wien]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1854" to="1886"/>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note type="pagination">unpaginiert</note>
+						<note>Einordnung nach Paupié: deutschdemokratisch (S. 140–142)</note>
+						<bibl type="anno.onb.ac.at">mop</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="neue-freie-presse">
+						<idno type="zdb">972630-5</idno>
+						<idno type="zdb">821385-9</idno>
+						<name>Neue Freie Presse</name>
+						<name type="index">Neue Freie Presse [Wien]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1864" to="1939"/>
+							<note>falsch in ZDB: 1938</note>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note type="frequency">zweimal täglich</note>
+						<note type="pagination">einzeln paginiert</note>
+						<note>Einordnung nach Paupié: liberal</note>
+						<bibl type="anno.onb.ac.at">nfp</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="neues-fremden-blatt">
+						<idno type="zdb">2699432-X</idno>
+						<name>Neues Fremden-Blatt</name>
+						<name type="index">Neues Fremden-Blatt [Wien]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1865" to="1876"/>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note type="pagination">einzeln paginiert</note>
+						<bibl type="anno.onb.ac.at">nfb</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="neues-wiener-tagblatt">
+						<idno type="zdb">821335-5</idno>
+						<name type="index">Neues Wiener Tagblatt</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1867" to="1945"/>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note>Einordnung nach Paupié: demokratisch</note>
+						<bibl type="anno.onb.ac.at">nwg</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="neue-zeit">
+						<!-- *** nicht: Stuttgart; Brünn? Troppau? -->
+						<name type="index">Neue Zeit [?]</name>
+						<lang>Deutsch</lang>
+						<note>unspezifischer Titel</note>
+					</bibl>
+					<bibl type="journal" xml:id="pilsner-fremdenblatt">
+						<name type="index">Pilsner Fremdenblatt</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1874" to="1876"/>
+							<placeName ref="#pilsen"/>
+						</publisher>
+						<bibl type="anno.onb.ac.at">pfb</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="prager-abendblatt">
+						<idno type="zdb">2799609-8</idno>
+						<name type="index">Prager Abendblatt</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1867" to="1918"/>
+							<placeName ref="#prag"/>
+						</publisher>
+						<note type="pagination">unpaginiert</note>
+						<bibl type="anno.onb.ac.at">pab</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="salzburger-chronik">
+						<idno type="zdb">1055668-0</idno>
+						<name type="index">Salzburger Chronik</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1873" to="1938"/>
+							<placeName ref="#salzburg"/>
+						</publisher>
+						<note>unpaginiert</note>
+						<bibl type="anno.onb.ac.at">sch</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="salzburger-volksblatt">
+						<idno type="zdb">1054475-6</idno>
+						<name type="index">Salzburger Volksblatt</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1871" to="1880"/>
 							<note>nachweisbare Jahrgänge</note>
-						</date>
-						<placeName ref="#wiesbaden"/>
-					</publisher>
-				</bibl>
-				<bibl type="journal" xml:id="zwischenact-zeitung">
-					<idno type="zdb">2106593-7</idno>
-					<name>Zwischenact-Zeitung</name>
-					<name type="index">Zwischenact-Zeitung [Hamburg]</name>
-					<name type="secondary">officielles Theater- und Concert-Programm</name>
-					<name type="full">Zwischenact-Zeitung (1863)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1863" to="1903"><note>1903(?)</note></date>
-						<placeName ref="#hamburg"/>
-					</publisher>
-				</bibl>
+							<placeName ref="#salzburg"/>
+						</publisher>
+						<note type="pagination">unpaginiert</note>
+						<bibl type="anno.onb.ac.at">svb</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="tagesbote-aus-maehren-und-schlesien">
+						<idno type="zdb">821185-1</idno>
+						<name>Tagesbote aus Mähren und Schlesien</name>
+						<name type="index">Tagesbote aus Mähren und Schlesien [Brünn]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1873" to="1921"/>
+							<placeName ref="#bruenn"/>
+						</publisher>
+						<note type="pagination">unpaginiert</note>
+					</bibl>
+					<bibl type="journal" xml:id="volksfreund">
+						<!-- *** Brünn? -->
+						<name type="index">Volksfreund [?]</name>
+						<lang>Deutsch</lang>
+						<note>unspezifischer Titel</note>
+					</bibl>
+					<bibl type="journal" xml:id="wiener-abendpost">
+						<idno type="zdb">1041863-5</idno>
+						<name type="index">Wiener Abendpost</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1863" to="1921"/>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note>Beilage zur <orgName ref="#wiener-zeitung">Wiener
+							Zeitung</orgName></note>
+						<note type="pagination">durchlaufend mit der Wiener Zeitung, ab 1875
+							separat</note>
+						<bibl type="de.wikipedia.org">Wiener_Zeitung</bibl>
+						<bibl type="anno.onb.ac.at">wrz</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="wiener-sonn-und-montags-zeitung">
+						<idno type="zdb">2799656-6</idno>
+						<name type="index">Wiener Sonn- und Montags-Zeitung</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1863" to="1936"/>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note type="frequency">wöchentlich</note>
+						<note type="pagination">unpaginiert</note>
+						<note>Einordnung nach Paupié: linksliberal</note>
+						<bibl type="de.wikipedia.org">Wiener_Sonn-_und_Montags-Zeitung</bibl>
+						<bibl type="anno.onb.ac.at">wsz</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="wiener-zeitung">
+						<idno type="zdb">43058-4</idno>
+						<name type="index">Wiener Zeitung</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<date from="1703"/>
+							<placeName ref="#wien"/>
+						</publisher>
+						<note>enthält die <orgName ref="#wiener-abendpost">Wiener
+								Abendpost</orgName></note>
+						<note type="pagination">unpaginiert</note>
+						<bibl type="de.wikipedia.org">Wiener_Zeitung</bibl>
+						<bibl type="anno.onb.ac.at">wrz</bibl>
+					</bibl>
+				</listBibl>
+				<listBibl>
+					<head>Schweiz</head>
+					<bibl type="journal" xml:id="die-ostschweiz">
+						<name type="index">Die Ostschweiz [St. Gallen]</name>
+						<lang>Deutsch</lang>
+						<publisher>
+							<name>Moosberger</name>
+							<date from="1874" to="1997"/>
+							<placeName ref="#st-gallen"/>
+						</publisher>
+						<ref target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/">Schweizer
+							Presse Online</ref>
+						<bibl type="de.wikipedia.org">Die_Ostschweiz</bibl>
+					</bibl>
+					<bibl type="journal" xml:id="st-galler-zeitung">
+						<name>St. Galler-Zeitung</name>
+						<name type="index">St. Galler-Zeitung</name>
+						<lang>Deutsch</lang>
+					</bibl>
+				</listBibl>
 			</listBibl>
 			<listBibl>
-				<head>Deutschsprachige Tageszeitungen in den „Ostgebieten“</head>
-				<bibl type="journal" xml:id="bruenner-zeitung">
-					<!-- *** Tagesbote Brünn? -->
-					<name type="index">Brünner Zeitung</name>
-					<name type="full">Brünner Zeitung (?)</name>
-					<lang>Deutsch</lang>
-				</bibl>
-				<bibl type="journal" xml:id="neue-zeit">
-					<!-- *** nicht: Stuttgart; Brünn? Troppau? -->
-					<name type="index">Neue Zeit [?]</name>
-					<name type="full">Neue Zeit (?)</name>
-					<lang>Deutsch</lang>
-					<note>unspezifischer Titel</note>
-				</bibl>
-				<bibl type="journal" xml:id="pilsner-fremdenblatt">
-					<name type="index">Pilsner Fremdenblatt</name>
-					<name type="full">Pilsner Fremdenblatt (1874–1876)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1874" to="1876"/>
-						<placeName ref="#pilsen"/>
-					</publisher>
-					<bibl type="anno.onb.ac.at">pfb</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="prager-abendblatt">
-					<idno type="zdb">2799609-8</idno>
-					<name type="index">Prager Abendblatt</name>
-					<name type="full">Prager Abendblatt (1867–1918)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1867" to="1918"/>
-						<placeName ref="#prag"/>
-					</publisher>
-					<note type="pagination">unpaginiert</note>
-					<bibl type="anno.onb.ac.at">pab</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="preussischer-volksfreund">
-					<idno type="zdb">1000212-1</idno>
-					<name>Preußischer Volksfreund</name>
-					<name type="index">Preußischer Volksfreund [Königsberg]</name>
-					<name type="full">Preußischer Volksfreund (1799–1924)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1799" to="1924"/>
-						<placeName ref="#koenigsberg"/>
-					</publisher>
-					<note>gesichtet: Mai 1876</note>
-				</bibl>
-				<bibl type="journal" xml:id="schlesische-volkszeitung">
-					<idno type="zdb">606447-4</idno>
-					<name>Schlesische Volkszeitung</name>
-					<name type="index">Schlesische Volkszeitung [Breslau]</name>
-					<name type="index">Breslauer Hausblätter</name>
-					<name type="full">Schlesische Volkszeitung (1871)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1871" to="1944"/>
-						<placeName ref="#breslau"/>
-					</publisher>
-					<note>gesichtet: Mai 1876</note>
-				</bibl>
-				<bibl type="journal" xml:id="tagesbote-aus-maehren-und-schlesien">
-					<idno type="zdb">821185-1</idno>
-					<name>Tagesbote aus Mähren und Schlesien</name>
-					<name type="index">Tagesbote aus Mähren und Schlesien [Brünn]</name>
-					<name type="full">Tagesbote aus Mähren und Schlesien (1873–1921)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1873" to="1921"/>
-						<placeName ref="#bruenn"/>
-					</publisher>
-					<note type="pagination">unpaginiert</note>
-				</bibl>
-				<bibl type="journal" xml:id="volksfreund">
-					<!-- *** Brünn? -->
-					<name type="index">Volksfreund [?]</name>
-					<name type="full">Volksfreund (?)</name>
-					<lang>Deutsch</lang>
-					<note>unspezifischer Titel</note>
-				</bibl>
-				<bibl type="journal" xml:id="westpreussisches-volksblatt">
-					<idno type="zdb">1156529-9</idno>
-					<name>Westpreußisches Volksblatt</name>
-					<name type="index">Westpreußisches Volksblatt [Danzig]</name>
-					<name type="full">Westpreußisches Volksblatt (1873–1920)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1873" to="1920"/>
-						<placeName ref="#danzig"/>
-					</publisher>
-					<note>gesichtet: April 1876</note>
-				</bibl>
-			</listBibl>
-			<listBibl>
-				<head>Deutschsprachige Tageszeitungen in Österreich-Ungarn</head>
-				<bibl type="journal" xml:id="das-vaterland">
-					<name>Das Vaterland</name>
-					<name type="index">Das Vaterland [Wien]</name>
-					<name type="full">Das Vaterland (?)</name>
-					<lang>Deutsch</lang>
-					<note>Einordnung nach Paupié: föderalistisch-konservativ</note>
-					<bibl type="anno.onb.ac.at">vtl</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="deutsche-zeitung">
-					<idno type="zdb">1074846-5</idno>
-					<name>Deutsche Zeitung</name>
-					<name type="index">Deutsche Zeitung [Wien]</name>
-					<name type="full">Deutsche Zeitung (1871–1907)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1871" to="1907"/>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note type="pagination">einzeln</note>
-					<note>Einordnung nach Paupié: nationalliberal (S. 157f)</note>
-					<bibl type="anno.onb.ac.at">dzg</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="die-presse">
-					<idno type="zdb">126422-9</idno>
-					<idno type="gnd">010717242</idno>
-					<name>Die Presse</name>
-					<name type="index">Die Presse [Wien]</name>
-					<name type="full">Die Presse (1848–1896)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1848" to="1896"/>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note type="pagination">einzeln</note>
-					<note>Einordnung nach Paupié: rechtsliberal (S. 135–138)</note>
-					<bibl type="de.wikipedia.org">Die_Presse</bibl>
-					<bibl type="anno.onb.ac.at">apr</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="fremden-blatt">
-					<idno type="zdb">1060742-0</idno>
-					<name>Fremden-Blatt</name>
-					<name type="index">Fremden-Blatt [Wien]</name>
-					<name type="full">Fremden-Blatt (1847–1919)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<name>Elbemühl</name>
-						<date from="1847" to="1919"><note>falsch in ZDB: 1846</note></date>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note>teils einzeln paginiert, teils unpaginiert</note>
-					<note>Einordnung nach Paupié: liberal</note>
-					<bibl type="anno.onb.ac.at">fdb</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="grazer-volksblatt">
-					<idno type="gnd">7600145-3</idno>
-					<name type="index">Grazer Volksblatt</name>
-					<name type="full">Grazer Volksblatt (1868–1939)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1868" to="1939"/>
-						<placeName ref="#graz"/>
-						<note>wechselnde Verleger</note>
-					</publisher>
-					<note>unpaginiert</note>
-					<bibl type="anno.onb.ac.at">gre</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="morgen-post">
-					<idno type="zdb">2752530-2</idno>
-					<name>Morgen-Post</name>
-					<name type="index">Morgen-Post [Wien]</name>
-					<name type="full">Morgen-Post (1856–1886)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1854" to="1886"/>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note type="pagination">unpaginiert</note>
-					<note>Einordnung nach Paupié: deutschdemokratisch (S. 140–142)</note>
-					<bibl type="anno.onb.ac.at">mop</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="neue-freie-presse">
-					<idno type="zdb">972630-5</idno>
-					<idno type="zdb">821385-9</idno>
-					<name>Neue Freie Presse</name>
-					<name type="index">Neue Freie Presse [Wien]</name>
-					<name type="full">Neue Freie Presse (1864–1939)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1864" to="1939"/>
-						<note>falsch in ZDB: 1938</note>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note type="frequency">zweimal täglich</note>
-					<note type="pagination">einzeln paginiert</note>
-					<note>Einordnung nach Paupié: liberal</note>
-					<bibl type="anno.onb.ac.at">nfp</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="neues-fremden-blatt">
-					<idno type="zdb">2699432-X</idno>
-					<name>Neues Fremden-Blatt</name>
-					<name type="index">Neues Fremden-Blatt [Wien]</name>
-					<name type="full">Neues Fremden-Blatt (?)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1865" to="1876"/>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note type="pagination">einzeln paginiert</note>
-					<bibl type="anno.onb.ac.at">nfb</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="neues-wiener-tagblatt">
-					<idno type="zdb">821335-5</idno>
-					<name type="index">Neues Wiener Tagblatt</name>
-					<name type="full">Neues Wiener Tagblatt (1867–1945)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1867" to="1945"/>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note>Einordnung nach Paupié: demokratisch</note>
-					<bibl type="anno.onb.ac.at">nwg</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="salzburger-chronik">
-					<idno type="zdb">1055668-0</idno>
-					<name type="index">Salzburger Chronik</name>
-					<name type="full">Salzburger Chronik (1873–1938)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1873" to="1938"/>
-						<placeName ref="#salzburg"/>
-					</publisher>
-					<note>unpaginiert</note>
-					<bibl type="anno.onb.ac.at">sch</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="salzburger-volksblatt">
-					<idno type="zdb">1054475-6</idno>
-					<name type="index">Salzburger Volksblatt</name>
-					<name type="full">Salzburger Volksblatt (1871–1880)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1871" to="1880"/>
-						<note>nachweisbare Jahrgänge</note>
-						<placeName ref="#salzburg"/>
-					</publisher>
-					<note type="pagination">unpaginiert</note>
-					<bibl type="anno.onb.ac.at">svb</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="wiener-abendpost">
-					<idno type="zdb">1041863-5</idno>
-					<name type="index">Wiener Abendpost</name>
-					<name type="full">Wiener Abendpost (1863–1921)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1863" to="1921"/>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note>Beilage zur <orgName ref="#wiener-zeitung">Wiener Zeitung</orgName></note>
-					<note type="pagination">durchlaufend mit der Wiener Zeitung, ab 1875
-						separat</note>
-					<bibl type="de.wikipedia.org">Wiener_Zeitung</bibl>
-					<bibl type="anno.onb.ac.at">wrz</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="wiener-sonn-und-montags-zeitung">
-					<idno type="zdb">2799656-6</idno>
-					<name type="index">Wiener Sonn- und Montags-Zeitung</name>
-					<name type="full">Wiener Sonn- und Montags-Zeitung (1863–1936)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1863" to="1936"/>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note type="frequency">wöchentlich</note>
-					<note type="pagination">unpaginiert</note>
-					<note>Einordnung nach Paupié: linksliberal</note>
-					<bibl type="de.wikipedia.org">Wiener_Sonn-_und_Montags-Zeitung</bibl>
-					<bibl type="anno.onb.ac.at">wsz</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="wiener-zeitung">
-					<idno type="zdb">43058-4</idno>
-					<name type="index">Wiener Zeitung</name>
-					<name type="full">Wiener Zeitung (1703–)</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1703"/>
-						<placeName ref="#wien"/>
-					</publisher>
-					<note>enthält die <orgName ref="#wiener-abendpost">Wiener
-						Abendpost</orgName></note>
-					<note type="pagination">unpaginiert</note>
-					<bibl type="de.wikipedia.org">Wiener_Zeitung</bibl>
-					<bibl type="anno.onb.ac.at">wrz</bibl>
-				</bibl>
-			</listBibl>
-			<listBibl>
-				<head>Deutschsprachige Tageszeitungen in der Schweiz</head>
-				<bibl type="journal" xml:id="die-ostschweiz">
-					<name type="full">Die Ostschweiz (1874–1997)</name>
-					<name type="index">Die Ostschweiz [St. Gallen]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<name>Moosberger</name>
-						<date from="1874" to="1997"/>
-						<placeName ref="#st-gallen"/>
-					</publisher>
-					<ref target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/">Schweizer
-						Presse Online</ref>
-					<bibl type="de.wikipedia.org">Die_Ostschweiz</bibl>
-				</bibl>
-				<bibl type="journal" xml:id="st-galler-zeitung">
-					<name>St. Galler-Zeitung</name>
-					<name type="index">St. Galler-Zeitung</name>
-					<name type="full">St. Galler-Zeitung (?)</name>
-					<lang>Deutsch</lang>
-				</bibl>
-			</listBibl>
-			<listBibl>
-				<head>Satireblätter und Illustrierte</head>
+				<head>Deutschsprachige Satireblätter und Illustrierte</head>
 				<bibl type="periodical.satire" xml:id="der-floh">
 					<idno type="zdb">1066867-6</idno>
 					<name>Der Floh</name>
 					<name type="index">Der Floh [Wien]</name>
-					<name type="full">Der Floh (1869–1919)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1869" to="1919"/>
@@ -964,12 +899,11 @@
 					<idno type="gnd">4756012-5</idno>
 					<name>Der Ulk</name>
 					<name type="index">Der Ulk [Berlin]</name>
-					<name type="full">Der Ulk (1873–1933)</name>
 					<lang>Deutsch</lang>
 					<note>Beilage zum <orgName ref="#berliner-tageblatt">Berliner
 							Tageblatt</orgName> und zur Berliner Volkszeitung</note>
 					<publisher>
-						<date from="1873" to="1933">1933</date>
+						<date from="1873" to="1933"/>
 						<placeName ref="#berlin"/>
 					</publisher>
 					<note>gesichtet: 1. JH 1876</note>
@@ -981,7 +915,6 @@
 					<idno type="zdb">330484-x</idno>
 					<name>Die Bombe</name>
 					<name type="index">Die Bombe [Wien]</name>
-					<name type="full">Die Bombe (1871–1925)</name>
 					<lang>Deutsch</lang>
 					<note>
 						<date from="1871" to="1925"/>
@@ -994,7 +927,6 @@
 					<idno type="zdb">820944-3</idno>
 					<name>Figaro</name>
 					<name type="index">Figaro [Wien]</name>
-					<name type="full">Figaro (1857–1919)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1857" to="1919"/>
@@ -1007,7 +939,6 @@
 					<idno type="zdb">516021-2</idno>
 					<name>Fliegende Blätter</name>
 					<name type="index">Fliegende Blätter [München]</name>
-					<name type="full">Fliegende Blätter (1845–1944)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1845" to="1944"/>
@@ -1020,7 +951,6 @@
 					<idno type="zdb">715543-8</idno>
 					<name>Illustrirte Zeitung</name>
 					<name type="index">Illustrirte Zeitung [Leipzig u. a.]</name>
-					<name type="full">Illustrirte Zeitung (1843–1944)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1843" to="1944"/>
@@ -1034,7 +964,6 @@
 				<bibl type="periodical.illustrated" xml:id="illustrirtes-wiener-extrablatt">
 					<idno type="zdb">1069466-3</idno>
 					<name type="index">Illustrirtes Wiener Extrablatt</name>
-					<name type="full">Illustrirtes Wiener Extrablatt (1872–1928)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1872" to="1928"/>
@@ -1046,7 +975,6 @@
 					<idno type="zdb">883061-7</idno>
 					<name>Kikeriki</name>
 					<name type="index">Kikeriki [Wien]</name>
-					<name type="full">Kikeriki (1861-1933)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1861" to="1933"/>
@@ -1060,7 +988,6 @@
 					<idno type="gnd">012701041</idno>
 					<name>Über Land und Meer</name>
 					<name type="index">Über Land und Meer [Stuttgart]</name>
-					<name type="full">Über Land und Meer (1858–1922)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1858" to="1922"/>
@@ -1072,7 +999,6 @@
 				<bibl type="periodical.illustrated" xml:id="wiener-salonblatt">
 					<idno type="zdb">1271939-0</idno>
 					<name type="index">Wiener Salonblatt</name>
-					<name type="full">Wiener Salonblatt (1870-1938)</name>
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1870" to="1938"/>
@@ -1083,9 +1009,8 @@
 				</bibl>
 			</listBibl>
 			<listBibl>
-				<head>Zeitungen und Zeitschriften außerhalb des deutschsprachigen Raumes</head>
+				<head>Zeitungen und Zeitschriften in anderen Sprachen</head>
 				<bibl type="journal" xml:id="corriere-di-milano">
-					<name type="full">Corriere di Milano (1869–1874)</name>
 					<name type="index">Corriere di Milano</name>
 					<lang>Italienisch</lang>
 					<publisher>
@@ -1096,7 +1021,6 @@
 				</bibl>
 				<bibl type="journal" xml:id="gazzetta-di-venezia">
 					<name type="index">Gazzetta di Venezia</name>
-					<name type="full">Gazzetta di Venezia (1799–1945)</name>
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1799" to="1945"/>
@@ -1106,7 +1030,6 @@
 				</bibl>
 				<bibl type="periodical.music" xml:id="gazzetta-musicale-di-milano">
 					<name type="index">Gazzetta musicale di Milano</name>
-					<name type="full">Gazzetta musicale di Milano (1842–1902)</name>
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1842" to="1902"/>
@@ -1116,7 +1039,6 @@
 				<bibl type="periodical.music" xml:id="il-mondo-artistico">
 					<name>Il mondo artistico</name>
 					<name type="index">Il mondo artistico [Mailand]</name>
-					<name type="full">Il mondo artistico (1867–1914)</name>
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1867" to="1914"/>
@@ -1126,7 +1048,6 @@
 				<bibl type="journal" xml:id="il-secolo">
 					<name>Il mondo artistico</name>
 					<name type="index">Il Secolo [Mailand]</name>
-					<name type="full">Il Secolo (1866–1927)</name>
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1866" to="1927"/>
@@ -1136,7 +1057,6 @@
 				</bibl>
 				<bibl type="journal" xml:id="l-opinione">
 					<name type="index">L’Opinione [Torino]</name>
-					<name type="full">L’Opinione (1846–1900)</name>
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1846" to="1900"/>
@@ -1146,7 +1066,6 @@
 				</bibl>
 				<bibl type="journal" xml:id="la-lombardia">
 					<name type="index">La Lombardia [Mailand]</name>
-					<name type="full">La Lombardia (?)</name>
 					<lang>Italienisch</lang>
 					<publisher>
 						<placeName ref="#mailand"/>
@@ -1154,7 +1073,6 @@
 				</bibl>
 				<bibl type="periodical.music" xml:id="la-palestra-musicale">
 					<name type="index">La palestra musicale [Rom]</name>
-					<name type="full">La palestra musicale (?)</name>
 					<lang>Italienisch</lang>
 					<publisher>
 						<placeName ref="#rom"/>
@@ -1163,7 +1081,6 @@
 				<bibl type="periodical" xml:id="la-perseveranza">
 					<name>La Perseveranza</name>
 					<name type="index">Perseveranza [Mailand]</name>
-					<name type="full">La Perseveranza (1859–1922)</name>
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1859" to="1922"/>
@@ -1173,7 +1090,6 @@
 				<bibl type="periodical" xml:id="l-osservatore-cattolico">
 					<name>L’Osservatore Cattolico</name>
 					<name type="index">L’Osservatore Cattolico [Mailand]</name>
-					<name type="full">L’Osservatore Cattolico (1864–1907)</name>
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1864" to="1907"/>
@@ -1184,10 +1100,9 @@
 					<idno type="zdb">126276-2</idno>
 					<name>The New York Times</name>
 					<name type="index">New York Times, The</name>
-					<name type="full">The New York Times (1857)</name>
 					<lang>Englisch</lang>
 					<publisher>
-						<date from="1851"/>
+						<date from="1857"/>
 						<placeName ref="#new-york"/>
 					</publisher>
 					<ref target="http://query.nytimes.com/search/advanced">TimesMachine</ref>
@@ -1196,7 +1111,6 @@
 					<idno type="zdb">125688-9</idno>
 					<name>Journal des Débats</name>
 					<name type="index">Journal des Débats [Paris]</name>
-					<name type="full">Journal des Débats (1814–1944)</name>
 					<lang>Französisch</lang>
 					<publisher>
 						<date from="1814" to="1944"/>
@@ -1208,7 +1122,6 @@
 				<bibl type="periodical" xml:id="le-monde-illustre">
 					<name>Le Monde Illustré</name>
 					<name type="index">Le Monde Illustré [Paris]</name>
-					<name type="full">Le Monde Illustré (1857–1940)</name>
 					<lang>Französisch</lang>
 					<publisher>
 						<date from="1857" to="1940"/>
@@ -1220,7 +1133,6 @@
 				<bibl type="journal" xml:id="revue-des-deux-mondes">
 					<name>Revue des Deux Mondes</name>
 					<name type="index">Revue des Deux Mondes [Paris]</name>
-					<name type="full">Revue des Deux Mondes (?)</name>
 					<lang>Französisch</lang>
 					<publisher>
 						<placeName ref="#paris"/>
@@ -1230,7 +1142,6 @@
 					<idno type="zdb">126280-4</idno>
 					<name>The Times London</name>
 					<name type="index">Times London, The</name>
-					<name type="full">The Times London (1788–)</name>
 					<lang>Englisch</lang>
 					<publisher>
 						<date from="1788"/>

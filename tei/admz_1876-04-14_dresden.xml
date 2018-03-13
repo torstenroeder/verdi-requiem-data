@@ -205,16 +205,12 @@
 							>Berlioz</persName> und <persName ref="#liszt.franz">Franz
 							Liszt</persName>, dem deutschen Meister durch ihren hochgesteigerten
 						Subjektivismus nahe verwandt. Das Motto Aller ist: <hi rend="antiqua"
-							xml:lang="fr">„Car tel est mon plaisir“</hi>!<note resp="tr"
-							type="quoteLink">Frz., sinngemäß: »Denn solches ist unser gnädigster
-							Wille.« Mit diesen Worten unterzeichneten französische Könige einst ihre
-							Erlässe.</note> und der Tonkunst und ihren Gesetzen gegenüber glaubt
-						jeder mit absolutistischem Bewußtsein sagen zu dürfen: <hi rend="antiqua"
-							xml:lang="fr">„L’etat c’est moi.“</hi><note resp="tr" type="quoteLink"
-							>Frz. »Der Staat, das bin ich.« – Dieser Satz repräsentiert das
-							Selbstverständnis des absolutistischen französischen Staates seit Ludwig
-							XIV.</note> Doch verschließen wir die Augen nicht gegen das Bedeutungs-
-						und Verheißungsvolle, was uns in <persName ref="#verdi.giuseppe"
+							xml:lang="fr"><term ref="#car--plaisir">„Car tel est mon
+							plaisir“</term></hi>! und der Tonkunst und ihren Gesetzen gegenüber
+						glaubt jeder mit absolutistischem Bewußtsein sagen zu dürfen: <hi
+							rend="antiqua" xml:lang="fr"><term ref="#etat--moi">„L’etat c’est
+								moi.“</term></hi> Doch verschließen wir die Augen nicht gegen das
+						Bedeutungs- und Verheißungsvolle, was uns in <persName ref="#verdi.giuseppe"
 							>Verdi’s</persName> That — denn eine künstlerische That ist sein neustes
 						Werk jedenfalls zu nennen — ergreift. Wäre der italienische Meister nicht
 						ein ungewöhnlich begabtes Talent, so würde ihm seine Spekulation auf die
@@ -322,15 +318,14 @@
 						Empfindungsweise? Es wird gewiß jeden Kenner, der das Werk noch nicht gehört
 						hat, überraschen, wenn ich antworte, daß sich eine solche Annäherung an uns
 						hauptsächlich in dem Streben nach der Entwickelung polyphoner Sätze und
-						eines polyphonen Stils offenbart. Eine solche Behauptung ist freilich cum
-						grano salis<note resp="tr" type="quoteLink">Lat. »mit einem Körnchen Salz«,
-							sinngemäß: »mit sachgemäßer kritischer Einschätzung«.</note> zu
-						verstehen, da das, was der gänzlich gesunkenen Kirchenmusik des heutigen
-							<placeName ref="#italien">Italiens</placeName> gegenüber uns in dieser
-						Beziehung in <persName ref="#verdi.giuseppe">Verdi</persName> schon als
-						tief, deutsch und stilvoll erscheint, mit den eigentlichen Großmeistern
-						unseres polyphonen Stils verglichen, mit <persName ref="#schuetz.heinrich"
-							>Heinrich Schütz</persName>, <persName ref="#bach.johann-sebastian"
+						eines polyphonen Stils offenbart. Eine solche Behauptung ist freilich <term
+							ref="#cum--salis">cum grano salis</term> zu verstehen, da das, was der
+						gänzlich gesunkenen Kirchenmusik des heutigen <placeName ref="#italien"
+							>Italiens</placeName> gegenüber uns in dieser Beziehung in <persName
+							ref="#verdi.giuseppe">Verdi</persName> schon als tief, deutsch und
+						stilvoll erscheint, mit den eigentlichen Großmeistern unseres polyphonen
+						Stils verglichen, mit <persName ref="#schuetz.heinrich">Heinrich
+							Schütz</persName>, <persName ref="#bach.johann-sebastian"
 							>Bach</persName>, <persName ref="#haendel.georg-friedrich"
 							>Händel</persName>, <persName ref="#haydn.joseph">Haydn</persName> und
 							<persName ref="#mendelssohn-bartholdy.felix">Mendelssohn</persName> nur

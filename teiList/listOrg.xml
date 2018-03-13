@@ -24,6 +24,7 @@
 			* Neapel -> san carlo, orchester
 			* Opernhäuser, Konzerthäuser und Singvereinigungen modellieren
 			-->
+			<head>Körperschaften</head>
 			<listOrg type="musical">
 				<head>Musikalische Vereinigungen</head>
 				<org xml:id="breslau.singakademie">

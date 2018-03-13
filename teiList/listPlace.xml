@@ -20,8 +20,9 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body>
+			<head>Orte</head>
 			<listPlace>
-				<head>Continents</head>
+				<head>Kontinente</head>
 				<place type="continent" xml:id="afrika">
 					<placeName type="index" xml:lang="de">Afrika</placeName>
 					<placeName xml:lang="en">Africa</placeName>
@@ -60,7 +61,7 @@
 				</place>
 			</listPlace>
 			<listPlace>
-				<head>Countries, Blocks and Regions</head>
+				<head>Länder, Staatenbünde und Regionen</head>
 				<place type="country" xml:id="aegypten">
 					<placeName type="index" xml:lang="de">Ägypten</placeName>
 					<placeName xml:lang="en">Egypt</placeName>
@@ -429,7 +430,7 @@
 				</place>
 			</listPlace>
 			<listPlace>
-				<head>Settlements and Locations</head>
+				<head>Ortschaften und Schauplätze</head>
 				<place type="settlement" xml:id="aachen">
 					<placeName type="index" xml:lang="de">Aachen</placeName>
 					<placeName xml:lang="en">Aachen</placeName>

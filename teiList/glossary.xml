@@ -3,10 +3,12 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Körperschaften</title>
+				<title>Glossar</title>
+				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/personen</p>
+				<p>http://verdi-requiem.de/glossar</p>
+				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<p/>
@@ -18,10 +20,10 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body>
+			<head>Glossar</head>
 			<list>
-				<head>Glossar</head>
 				<item xml:id="agiotage"><label>Agiotage</label>, Spekulationsgeschäft an der Börse,
-					auch bezogen auf Eintrittskarten, vgl. <ref
+					auch bezogen auf den Handel mit Eintrittskarten, vgl. <ref
 						target="https://www.duden.de/node/687618/revisions/1077804/view" type="text"
 						>Duden online</ref>.</item>
 				<item xml:id="ambra"><label>Ambra</label>, eine Substanz aus dem Verdauungstrakt von
@@ -32,10 +34,13 @@
 					einen geistreichen Einfall.</item>
 				<item xml:id="bona-fide"><label>bona fide</label>, lat. »in gutem Glauben«,
 					»gutgläubig«.</item>
-				<item xml:id="capocchio"><label>Capocchio</label>, italienischer Häretiker, der als
+				<item xml:id="capocchio"><label>Capocchio</label>, ital. Häretiker, der als
 					Alchimist zum Tode verurteilt wurde und zudem in <persName
 						ref="#alighieri.dante">Dantes</persName> Divina Commedia genannt wurde; vgl.
 					Dante Alighieri, La Divina Commedia, Inferno XXIX.</item>
+				<item xml:id="car--plaisir"><label>»Car tel est mon plaisir«</label>, frz.,
+					sinngemäß: »Denn solches ist unser gnädigster Wille.« Mit diesen Worten
+					unterzeichneten französische Könige einst ihre Erlässe.</item>
 				<item xml:id="castrum-doloris"><label>Castrum doloris</label>, lat. »Trauerlager«,
 					ein geschmücktes Gerüst oder Baldachin, welches in der Renaissance- und
 					Barockzeit anlässlich des Todes von hochgestellten Personen errichtet
@@ -46,16 +51,29 @@
 					den 1860ern aktuell.</item>
 				<item xml:id="clerisei"><label>Clerisei</label>, altertümliche Bezeichnung für
 					»Klerus«.</item>
+				<item xml:id="cum--salis"><label>cum grano salis</label>, lat. »mit einem Körnchen
+					Salz«, sinngemäß: »mit sachgemäßer kritischer Einschätzung«.</item>
+				<item xml:id="diabolus--musica"><label>»Diabolus in musica«</label>, das
+					Tritonus-Intervall im System der Kirchentonarten, welches aus ästhetischen
+					Gründen vermieden wird (»mi contra fa / diabolus in musica«).</item>
 				<item xml:id="epitheton-ornans"><label>Epitheton ornans</label>, lat. »schmückendes
 					Beiwort«.</item>
 				<item xml:id="ex-officio"><label>ex officio</label>, lat. »von Amts wegen«.</item>
 				<item xml:id="ex-professo"><label>ex professo</label>, lat. »berufsmäßig«.</item>
+				<item xml:id="fiat-applicatio"><label>»Fiat applicatio!«</label>, lat. »man mache
+					die Anwendung«.</item>
 				<item xml:id="gascognade"><label>Gascognade</label>, frz. »Angeberei«</item>
 				<item xml:id="gulyas"><label>Gulyás</label>, eine ungarische Gulaschsuppe.</item>
+				<item xml:id="herostratus"><label>Herostratus</label>, ein ionischer Hirte, der aus
+					Verlangen nach Ruhm den Tempel der Artemis in Ephesos, welcher zu den »Sieben
+					Weltwundern« der Antike gerechnet wird, in Brand setzte.</item>
 				<item xml:id="lamentationen"><label>Lamentationen</label>, Bezeichnung für die
 					Klagelieder Jeremias’ in der Vulgata.</item>
 				<item xml:id="lapsus-calami"><label>Lapsus calami</label>, lat. Ausdruck für einen
 					Schreibfehler.</item>
+				<item xml:id="etat--moi"><label>»L’etat c’est moi.«</label>, frz. »Der Staat, das
+					bin ich.« – Dieser Satz repräsentiert das Selbstverständnis des absolutistischen
+					französischen Staates seit Ludwig XIV.</item>
 				<item xml:id="nemesis"><label>Nemesis</label>, bei den alten Griechen die
 					vergöttlichte Personifikation sittlichen Rechtsgefühls und gerechter Vergeltung;
 					vgl. <ref
@@ -75,6 +93,8 @@
 						type="text">Meyer 1871, S. 674</ref>.</item>
 				<item xml:id="pentimento"><label>Pentimento</label>, ital. »Reue« oder auch
 					»Meinungsänderung«.</item>
+				<item xml:id="per--astra"><label>»per aspera ad astra«</label>, lat. »Durch das
+					Rauhe zu den Sternen«.</item>
 				<item xml:id="regenschori"><label>Regenschori</label>, lat. »Chordirektor«.</item>
 				<item xml:id="relache"><label>Relâche</label>, frz. »Auszeit«.</item>
 				<item xml:id="reveille"><label>Reveille</label> (von frz. reveillez »Aufwachen«),
@@ -89,6 +109,10 @@
 				<item xml:id="stentor"><label>Stentor</label> (griech. Στέντωρ), in der griechischen
 					Mythologie ein Kämpfer im Trojanischen Krieg, dessen Stimme so laut gewesen sein
 					soll wie die von fünfzig anderen Männern zusammen.</item>
+				<item xml:id="stimmungsbild"><label>Stimmungsbild</label>, Begriff aus der
+					Landschaftsmalerei.</item>
+				<item xml:id="suum-cuique"><label>»Suum cuique!«</label>, lat. »Jedem das Seine!«,
+					preußisches Motto.</item>
 				<item xml:id="tonvolubilitaet"><label>Tonvolubilität</label>, Begriff aus der
 					Gesangsphysiologie; vgl. z.B. <ref
 						target="https://archive.org/stream/bub_gb_ykp5MS0uynEC#page/n196/mode/1up"

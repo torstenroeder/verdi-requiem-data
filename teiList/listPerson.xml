@@ -20,8 +20,9 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body>
+			<head>Personen</head>
 			<listPerson>
-				<!-- SÄNGER -->
+				<head>Sänger</head>
 				<!-- SÄNGER / nur Nachname / Hamburg -->
 				<person xml:id="froehlich.xxx">
 					<persName>Fröhlich</persName>
@@ -1635,8 +1636,9 @@
 					<note type="book">Ehrlich 1895, S. 223–225</note>
 					<note type="www">http://openlibrary.org/books/OL23418156M (p. 205)</note>
 				</person>
-
-				<!-- MUSIKER -->
+			</listPerson>
+			<listPerson>
+				<head>Musiker</head>
 				<!-- nicht individualisiert -->
 				<person xml:id="croissille.xxx">
 					<persName>Croissille</persName>
@@ -2294,8 +2296,9 @@
 							ref="#wien">Wien</placeName>
 					</occupation>
 				</person>
-
-				<!-- KOMPONISTEN -->
+			</listPerson>
+			<listPerson>
+				<head>Komponisten</head>
 				<!-- Vorname, Nachname, ID -->
 				<person xml:id="allegri.gregorio">
 					<idno type="gnd">116286857</idno>
@@ -3498,8 +3501,9 @@
 					<occupation>deutscher <term type="composer">Komponist</term></occupation>
 					<note type="de.wikipedia.org">Carl_Friedrich_Zelter</note>
 				</person>
-
-				<!-- AUTOREN -->
+			</listPerson>
+			<listPerson>
+				<head>Autoren</head>
 				<!-- AUTOREN / Anonym -->
 				<person xml:id="anonymus.ein-koelner-referent">
 					<persName>Ein Kölner Referent</persName>
@@ -4938,7 +4942,9 @@
 							für Musik</orgName></occupation>
 					<note type="de.wikipedia.org">Hermann_Zopff</note>
 				</person>
-				<!-- BILDENDE KÜNSTLER -->
+			</listPerson>
+			<listPerson>
+				<head>Bildende Künstler</head>
 				<!-- Vorname, Nachname, ID -->
 				<person xml:id="achenbach.oswald">
 					<idno type="gnd">119540363</idno>
@@ -5141,8 +5147,9 @@
 					<occupation>italienischer <term type="artist">Maler</term></occupation>
 					<note type="de.wikipedia.org">Tizian</note>
 				</person>
-
-				<!-- VERDI-UMFELD -->
+			</listPerson>
+			<listPerson>
+				<head>Personen aus dem Umfeld Verdis</head>
 				<!-- nicht individualisiert -->
 				<person xml:id="luigi.xxx">
 					<persName>Luigi</persName>
@@ -5255,7 +5262,9 @@
 					<occupation>Freund von <persName ref="#verdi.giuseppe">Giuseppe
 						Verdi</persName></occupation>
 				</person>
-				<!-- OPERNWIRTSCHAFT -->
+			</listPerson>
+			<listPerson>
+				<head>Opernwesen</head>
 				<!-- nicht individualisiert -->
 				<person xml:id="lambertini.xxx">
 					<persName>Lambertini</persName>
@@ -5375,8 +5384,9 @@
 					<occupation>Theaterdirektor in <placeName ref="#bruenn"
 						>Brünn</placeName></occupation>
 				</person>
-
-				<!-- VERLEGER -->
+			</listPerson>
+			<listPerson>
+				<head>Verlagswesen</head>
 				<!-- Vorname, Nachname, ID -->
 				<person xml:id="bock.gustav">
 					<idno type="gnd">135551056</idno>
@@ -5455,8 +5465,9 @@
 					<occupation>deutscher <term type="publisher">Musikverleger</term></occupation>
 					<note type="bmlo.lmu.de">s3665</note>
 				</person>
-
-				<!-- ÖFFENTLICHES LEBEN (Adel, Regierung, Politik, Militär) -->
+			</listPerson>
+			<listPerson>
+				<head>Öffentliches Leben</head>
 				<!-- Vorname, Nachname -->
 				<person xml:id="possinger.emilie">
 					<persName type="index">Possinger, Emilie von</persName>
@@ -5933,8 +5944,9 @@
 					<occupation><term type="public">Erzherzog</term> von Österreich</occupation>
 					<note type="de.wikipedia.org">Wilhelm_von_Österreich</note>
 				</person>
-
-				<!-- FIKTIVE PERSONEN / FIGUREN -->
+			</listPerson>
+			<listPerson>
+				<head>Fiktive Personen</head>
 				<person xml:id="brummbasso.francesco">
 					<persName>Francesco Brummbasso</persName>
 					<persName type="index">Brummbasso, Francesco</persName>
@@ -6008,8 +6020,9 @@
 					<occupation>fiktiver wienerischer <term type="critic"
 						>Musikkritiker</term></occupation>
 				</person>
-
-				<!-- SONSTIGE -->
+			</listPerson>
+			<listPerson>
+				<head>Sonstige</head>
 				<!-- nicht individualisiert -->
 				<person xml:id="becker.xxx">
 					<!-- ?? Carl Becker http://adressbuecher.genealogy.net/entry/show/2905496 -->
@@ -6154,19 +6167,21 @@
 					<occupation>Buchdrucker in <placeName ref="#bruenn"
 						>Brünn</placeName></occupation>
 				</person>
-
+			</listPerson>
+			<listPerson>
+				<head>Unbekannte Personen</head>
 				<!-- NICHT IDENTIFIZIERTE / INDIVIDUALISIERTE PERSON -->
 				<person xml:id="unidentified">
 					<persName type="index">? (nicht identifizierte Person)</persName>
 					<sex>u</sex>
 				</person>
-
-				<!-- EDITOREN-KÜRZEL -->
+			</listPerson>
+			<listPerson>
+				<head>Bearbeiter</head>
 				<person xml:id="tr">
 					<persName>Torsten Roeder</persName>
 					<sex>m</sex>
 				</person>
-
 			</listPerson>
 		</body>
 	</text>

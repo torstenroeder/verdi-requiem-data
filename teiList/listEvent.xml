@@ -20,6 +20,7 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body>
+			<head>Aufführungen</head>
 			<!-- einarbeiten:
 				(1) wer ist Hauptträger der Produktion? Oper, Philharmonie oder Singverein?
 				(2) ist Aufführungsort ein Bühnenhaus, ein Konzerthaus, eine Kirche oder ein Vereinshaus? -->
@@ -63,7 +64,8 @@
 				<head>1874</head>
 				<event type="musical.production" xml:id="mailand.1874">
 					<label>Mailand 1874</label>
-					<desc><placeName ref="#mailand"/>
+					<desc>
+						<placeName ref="#mailand"/>
 						<date when="1874-05"/>
 						<title ref="#verdi.requiem"/>
 						<persName ref="#stolz.teresa" role="soloist.soprano"/>
@@ -126,14 +128,16 @@
 					<bibl>New York Times, 18. November 1874, ***</bibl>
 					<event type="musical.production.performance.first" xml:id="new-york.1874.1">
 						<label>Erstaufführung in den USA</label>
-						<desc><placeName ref="#new-york.academy-of-music"/>
+						<desc>
+							<placeName ref="#new-york.academy-of-music"/>
 							<date when="1874-11-17" when-custom="tue"/>
 						</desc>
 					</event>
 				</event>
 				<event type="musical.production" xml:id="new-york.1874a">
 					<label>New York 1874 (Orgeltranskription)</label>
-					<desc><placeName ref="#new-york"/>
+					<desc>
+						<placeName ref="#new-york"/>
 						<date when="1874-10"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
@@ -315,7 +319,8 @@
 						Italoargentino. Buenos Aires, Asociación Dante Alighieri, 1976.</bibl>
 					<event type="musical.production.performance.first" xml:id="buenos-aires.1875.1">
 						<label>Erstaufführung in Südamerika</label>
-						<desc><placeName ref="#buenos-aires.teatro-opera">Teatro de la Opera (nicht
+						<desc>
+							<placeName ref="#buenos-aires.teatro-opera">Teatro de la Opera (nicht
 								Colon!)</placeName>
 							<date when="1875-10-15"/></desc>
 					</event>
@@ -382,7 +387,8 @@
 				</event>
 				<event type="musical.production" xml:id="graz.1875">
 					<label>Graz 1875</label>
-					<desc><placeName ref="#graz"/>
+					<desc>
+						<placeName ref="#graz"/>
 						<date when="1875-11"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
@@ -413,7 +419,8 @@
 				</event>
 				<event type="musical.production" xml:id="london.1875">
 					<label>London 1875</label>
-					<desc><placeName ref="#london">Royal Albert Hall</placeName>
+					<desc>
+						<placeName ref="#london">Royal Albert Hall</placeName>
 						<date when="1875-05"/>
 						<title ref="#verdi.requiem">mit dem neuen „Liber scriptus“</title>
 						<persName ref="#verdi.giuseppe" role="conductor"/>
@@ -442,7 +449,8 @@
 				</event>
 				<event type="musical.production" xml:id="luettich.1875">
 					<label>Lüttich 1875</label>
-					<desc><placeName ref="#luettich"/>
+					<desc>
+						<placeName ref="#luettich"/>
 						<date when="1875"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
@@ -452,7 +460,8 @@
 				</event>
 				<event type="musical.production" xml:id="paris.1875">
 					<label>Paris 1875</label>
-					<desc><placeName ref="#paris"/>
+					<desc>
+						<placeName ref="#paris"/>
 						<date when="1875-04"/>
 						<title ref="#verdi.requiem">Verdi-Requiem mit neuem „Liber scriptus“</title>
 						<persName ref="#verdi.giuseppe" role="composer"/>
@@ -1729,7 +1738,8 @@
 				</event>
 				<event type="musical.production" xml:id="stockholm.1877">
 					<label>Stockholm 1877</label>
-					<desc><placeName ref="#stockholm"/>
+					<desc>
+						<placeName ref="#stockholm"/>
 						<date when="1877"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
@@ -1783,7 +1793,8 @@
 				<head>1878</head>
 				<event type="musical.production" xml:id="st-gallen.1878">
 					<label>Sankt Gallen 1878</label>
-					<desc><placeName ref="#st-gallen"/>
+					<desc>
+						<placeName ref="#st-gallen"/>
 						<date when="1878-04"/>
 						<title ref="#verdi.requiem"/>
 						<persName ref="#bogler.xxx" role="conductor"/>
@@ -1855,7 +1866,8 @@
 				</event>
 				<event type="musical.production" xml:id="mannheim.1878">
 					<label>Mannheim 1878</label>
-					<desc><placeName ref="#mannheim"/>
+					<desc>
+						<placeName ref="#mannheim"/>
 						<date when="1878-04"/>
 						<title ref="#verdi.requiem"/>
 					</desc>
