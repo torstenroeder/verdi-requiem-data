@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#illustrirte-zeitung" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="illustrirte-zeitung" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-04-22"/>
 					<biblScope unit="issue">1712</biblScope>
 					<series>iz</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#berlin"/></creation>
+			<creation><placeName key="berlin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -38,10 +38,10 @@
 		<body rend="fraktur">
 			<head rend="larger">Theater und Musik.</head>
 			<gap resp="tr"/>
-			<p>— <rs ref="#berlin.1876.1" type="event"><persName ref="#verdi.giuseppe"
-						>Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ ist am
+			<p>— <rs key="berlin.1876.1" type="event"><persName key="verdi.giuseppe"
+						>Verdi’s</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“ ist am
 						<date when-iso="1876-04-15">15. April</date> im <placeName
-						ref="#berlin.hofoper">k. Opernhause zu Berlin</placeName> zur ersten
+						key="berlin.hofoper">k. Opernhause zu Berlin</placeName> zur ersten
 					Aufführung gelangt.</rs></p>
 		</body>
 	</text>

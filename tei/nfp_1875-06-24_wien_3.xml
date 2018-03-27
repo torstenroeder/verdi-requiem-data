@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neue-freie-presse" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="neue-freie-presse" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1875-06-24"/>
 					<biblScope unit="issue">3889</biblScope>
 					<biblScope unit="subIssue">3889</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -43,24 +43,24 @@
 		<body rend="fraktur">
 			<pb break="null" n="6" type="initial"/>
 			<head rend="larger">Theater- und Kunstnachrichten.</head>
-			<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date
+			<p rend="right"><hi rend="widespace"><placeName key="wien">Wien</placeName></hi>, <date
 					when-iso="1875-06-23">23. Juni</date>.</p>
-			<p>— <rs ref="#wien.1875.4" type="event">Der heutigen letzten Aufführung des <title
-						ref="#verdi.requiem">Requiems</title> von <persName ref="#verdi.giuseppe"
-						>Verdi</persName> wohnten der <persName ref="#franz-joseph-i.habsburg"
+			<p>— <rs key="wien.1875.4" type="event">Der heutigen letzten Aufführung des <title
+						key="verdi.requiem" type="mus">Requiems</title> von <persName key="verdi.giuseppe"
+						>Verdi</persName> wohnten der <persName key="franz-joseph-i.habsburg"
 						>Kaiser</persName> und mehrere Prinzen bei.</rs><note resp="tr"
 					type="eventCommentary">Zugegen waren Erzherzog <persName
-						ref="#karl-ludwig.oesterreich">Karl Ludwig</persName>, Erzherzog <persName
-						ref="#wilhelm.oesterreich">Wilhelm</persName>, Erzherzogin <persName
-						ref="#marie-therese.oesterreich-este">Maria Theresia</persName>, <persName
-						ref="#wilhelm.braunschweig">Herzog von Braunschweig</persName> und Prinz
-						<persName ref="#ernst-august.hannover">Ernst August von
-					Hannover</persName>.</note> Das <placeName ref="#wien.hof-operntheater"
+						key="karl-ludwig.oesterreich">Karl Ludwig</persName>, Erzherzog <persName
+						key="wilhelm.oesterreich">Wilhelm</persName>, Erzherzogin <persName
+						key="marie-therese.oesterreich-este">Maria Theresia</persName>, <persName
+						key="wilhelm.braunschweig">Herzog von Braunschweig</persName> und Prinz
+						<persName key="ernst-august.hannover">Ernst August von
+					Hannover</persName>.</note> Das <placeName key="wien.hof-operntheater"
 					>Theater</placeName> war bis auf den letzten Platz gefüllt. — Die Direction des
-					<placeName ref="#wien.hof-operntheater">Hofoperntheaters</placeName> hat den
+					<placeName key="wien.hof-operntheater">Hofoperntheaters</placeName> hat den
 				gefeierten Componisten noch eine besondere Ovation dargebracht, indem sie dessen
-				Büste aus <placeName ref="#mailand">Mailand</placeName> kommen ließ, um dieselbe im
-				Foyer des <placeName ref="#wien.hof-operntheater">Opernhauses</placeName> in den
+				Büste aus <placeName key="mailand">Mailand</placeName> kommen ließ, um dieselbe im
+				Foyer des <placeName key="wien.hof-operntheater">Opernhauses</placeName> in den
 				Reihen der Meister der Tonkunst, wo sie bisher noch gefehlt, aufstellen zu
 				lassen.</p>
 		</body>

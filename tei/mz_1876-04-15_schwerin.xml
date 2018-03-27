@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mecklenburgische-zeitung" role="publisher"/>
-					<placeName ref="#schwerin"/>
+					<orgName key="mecklenburgische-zeitung" role="publisher"/>
+					<placeName key="schwerin"/>
 					<date when-custom="sat" when-iso="1876-04-15"/>
 					<biblScope unit="issue">103</biblScope>
 					<series>mn</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#schwerin"/></creation>
+			<creation><placeName key="schwerin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -38,13 +38,13 @@
 		<group>
 			<text n="1">
 				<body rend="fraktur">
-					<head rend="larger"><placeName ref="#schwerin.hoftheater">Großherzogliches
+					<head rend="larger"><placeName key="schwerin.hoftheater">Großherzogliches
 							Hoftheater</placeName>.</head>
 					<p rend="center">Zu der heute Abend um 6 Uhr auf der Bühne stattfindenden<lb
-							break="yes"/><rs ref="#schwerin.1876.gp" type="event"><hi
+							break="yes"/><rs key="schwerin.1876.gp" type="event"><hi
 								rend="bold larger">Generalprobe</hi><lb break="yes"/>vom<lb
 								break="yes"/><hi rend="bold antiqua larger"><title
-									ref="#verdi.requiem">Requiem</title></hi></rs><lb break="yes"
+									key="verdi.requiem" type="mus">Requiem</title></hi></rs><lb break="yes"
 						/>ist dem Publikum der Einlaß zum <hi rend="antiqua">I.</hi> Rang und
 						Parquet gegen <hi rend="bold">1 Mark</hi> Eintrittsgeld pro Billet
 							gestattet.<lb break="yes"/><hi rend="bold">Kassenöffnung 5 Uhr.</hi><lb
@@ -53,27 +53,27 @@
 			</text>
 			<text n="2">
 				<body rend="fraktur">
-					<head rend="larger"><placeName ref="#schwerin.hoftheater">Großherzogliches
+					<head rend="larger"><placeName key="schwerin.hoftheater">Großherzogliches
 							Hoftheater</placeName>.</head>
-					<p rend="center"><rs ref="#schwerin.1876.1" type="event"><date
+					<p rend="center"><rs key="schwerin.1876.1" type="event"><date
 								when-iso="1876-04-15">Sonntag, den 16. April</date>:<lb break="yes"
 								/><hi rend="bold">auf der Bühne des <placeName
-									ref="#schwerin.hoftheater">Großherzoglichen
+									key="schwerin.hoftheater">Großherzoglichen
 									Schauspielhauses</placeName>:</hi><lb break="yes"/><hi
-								rend="larger bold antiqua"><title ref="#verdi.requiem"
+								rend="larger bold antiqua"><title key="verdi.requiem" type="mus"
 									>Requiem</title></hi><lb break="yes"/>von <hi
-								rend="bold antiqua"><persName ref="#verdi.giuseppe">Giuseppe
+								rend="bold antiqua"><persName key="verdi.giuseppe">Giuseppe
 									Verdi</persName>.</hi></rs><lb break="yes"/>(Zum Todestage <hi
-							rend="bold antiqua"><persName ref="#manzoni.alessandro">Alessandro
+							rend="bold antiqua"><persName key="manzoni.alessandro">Alessandro
 								Manzoni’s</persName></hi> componirt.)<lb break="yes"/>Soli:<lb
-							break="yes"/>Frl. <hi rend="bold"><persName ref="#gungl.virginia"
+							break="yes"/>Frl. <hi rend="bold"><persName key="gungl.virginia"
 								>Gung’l</persName></hi> (Sopran),<lb break="yes"/>Frl. <hi
-							rend="bold"><persName ref="#schwencke.anna">Schwencke</persName></hi>
+							rend="bold"><persName key="schwencke.anna">Schwencke</persName></hi>
 							(Alt),<lb break="yes"/>Herr <hi rend="bold"><persName
-								ref="#candidus.william">Candidus</persName></hi> vom <placeName
-							ref="#hamburg.stadt-theater">Stadttheater</placeName> zu <placeName
-							ref="#hamburg">Hamburg</placeName> (Tenor),<lb break="yes"/>Herr <hi
-							rend="bold"><persName ref="#hill.karl">Hill</persName></hi> (Baß).<lb
+								key="candidus.william">Candidus</persName></hi> vom <placeName
+							key="hamburg.stadt-theater">Stadttheater</placeName> zu <placeName
+							key="hamburg">Hamburg</placeName> (Tenor),<lb break="yes"/>Herr <hi
+							rend="bold"><persName key="hill.karl">Hill</persName></hi> (Baß).<lb
 							break="yes"/>Chor: Hoftheaterchor, unter gefälliger Mitwirkung hiesiger
 							Dilettanten.<lb break="yes"/><hi rend="bold">Mittelpreise.</hi><lb
 							break="yes"/><hi rend="bold">Anfang 7 Uhr.</hi></p>

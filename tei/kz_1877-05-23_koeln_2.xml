@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Zeitung, 23. Mai 1877 [2]</title>
-				<author><persName ref="#verdi.giuseppe"/></author>
+				<author><persName key="verdi.giuseppe"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#koelnische-zeitung" role="publisher"/>
-					<placeName ref="#koeln"/>
+					<orgName key="koelnische-zeitung" role="publisher"/>
+					<placeName key="koeln"/>
 					<date when-custom="wed" when-iso="1877-05-23"/>
 					<biblScope unit="issue">142</biblScope>
 					<biblScope unit="subIssue">142</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koeln"/><date when-iso="1877-05-22"/></creation>
+			<creation><placeName key="koeln"/><date when-iso="1877-05-22"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -41,18 +41,18 @@
 		<body rend="fraktur">
 			<head rend="larger">Vermischte Nachrichten</head>
 			<p><g n="002A" type="ASTERISK">*</g>
-				<placeName ref="#koeln">Köln</placeName>, <date when-iso="1877-05-23">23.
-				Mai</date>. <persName ref="#verdi.giuseppe">Verdi</persName> hat am gestrigen Tage
+				<placeName key="koeln">Köln</placeName>, <date when-iso="1877-05-23">23.
+				Mai</date>. <persName key="verdi.giuseppe">Verdi</persName> hat am gestrigen Tage
 				an <hi rend="antiqua">Dr.</hi>
-				<persName ref="#hiller.ferdinand">Hiller</persName> nachstehenden Brief (in
+				<persName key="hiller.ferdinand">Hiller</persName> nachstehenden Brief (in
 				französischer Sprache) gerichtet: „Mein lieber Maestro <persName
-					ref="#hiller.ferdinand">Hiller</persName>! Könnte ich solche Reden halten, wie
+					key="hiller.ferdinand">Hiller</persName>! Könnte ich solche Reden halten, wie
 				Sie, ich würde in diesem Augenblick bei der Probe erscheinen und den schönen Damen,
 				welche im Chor singen, meine Bewunderung und Anerkennung für die Hingebung und das
-				Talent ausdrücken, womit sie mein <title ref="#verdi.requiem">Requiem</title>
+				Talent ausdrücken, womit sie mein <title key="verdi.requiem" type="mus">Requiem</title>
 				vorgetragen haben. Dasselbe würde ich allen in der That herrlichen Chor- und
 				Orchestermassen sagen. Aus diesem Grunde und Dank ihren Talenten ist eine so
-				ausgezeichnete <rs ref="#koeln.1877" type="event">Ausführung</rs> erzielt worden.
+				ausgezeichnete <rs key="koeln.1877" type="event">Ausführung</rs> erzielt worden.
 				Ich kann weder Worte noch Complimente machen; deshalb überlasse ich es Ihrem Geiste
 				und Ihrer Liebenswürdigkeit, mein Herz zu errathen, und bitte Sie, in meinem Namen
 				Allen meine aufrichtigsten Glückwünsche und meinen Dank darzubringen. Danken Sie
@@ -60,8 +60,8 @@
 				Weise gespendet hat. Ich fühle mich geehrt und solz, daß man mich zu diesen großen
 				Festen berufen hat, an denen alle Ihre großen Tondichter Theil genommen haben, und
 				ich hegen den wärmsten Wunsch, daß sie mit gleichem Glanze fortbestehen bleiben zur
-				Ehre <placeName ref="#deutschland">Deutschlands</placeName> und der universellen
-				Kunst. Der Ihrige. <persName ref="#verdi.giuseppe">G. Verdi</persName>.“</p>
+				Ehre <placeName key="deutschland">Deutschlands</placeName> und der universellen
+				Kunst. Der Ihrige. <persName key="verdi.giuseppe">G. Verdi</persName>.“</p>
 		</body>
 	</text>
 </TEI>

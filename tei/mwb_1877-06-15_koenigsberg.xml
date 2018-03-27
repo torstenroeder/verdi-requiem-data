@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 15. Juni 1877</title>
-				<author><persName ref="#weiss.albert"/></author>
+				<author><persName key="weiss.albert"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1877-06-15"/>
 					<biblScope unit="issue">25</biblScope>
 					<biblScope unit="volume">8</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koenigsberg"/><date when-iso="1877-04"/></creation>
+			<creation><placeName key="koenigsberg"/><date when-iso="1877-04"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -47,7 +47,7 @@
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<pb break="null" facs="#f1" n="351" type="initial"/>
-			<p><hi rend="bold"><placeName ref="#koenigsberg">Königsberg</placeName>,</hi>
+			<p><hi rend="bold"><placeName key="koenigsberg">Königsberg</placeName>,</hi>
 				<date notAfter-iso="1877-04-30" notBefore-iso="1877-04-20">Ende April</date>. Ich
 				habe seit meinem letzten Berichte über die Entfaltung unseres musikalischen Lebens
 				nicht unabsichtlich einige Zeit verstreichen lassen, da die Monate Februar und März
@@ -56,15 +56,15 @@
 				machen. Das Königsberger Klima und die rauhen Winde, die just in diesen Monaten hier
 				zu wehen Pflegen, haben ihr Opfer gewollt.</p>
 			<pb break="null" facs="#f2" n="352" type="skipped"/>
-			<p><rs ref="#koenigsberg.1877" type="event">Dagegen erzielte die musikalische Akademie
-					unter <persName ref="#laudien.heinrich">Laudien’s</persName> Leitung durch
-					Aufführung des <title ref="#verdi.requiem">Requiem</title> von <persName
-						ref="#verdi.giuseppe">Verdi</persName> und des „<title
-						ref="#rubinstein.das-verlorene-paradies">Verlorenen Paradieses</title>“ von
-						<persName ref="#rubinstein.anton">Rubinstein</persName> herrliche
+			<p><rs key="koenigsberg.1877" type="event">Dagegen erzielte die musikalische Akademie
+					unter <persName key="laudien.heinrich">Laudien’s</persName> Leitung durch
+					Aufführung des <title key="verdi.requiem" type="mus">Requiem</title> von <persName
+						key="verdi.giuseppe">Verdi</persName> und des „<title
+						key="rubinstein.das-verlorene-paradies" type="mus">Verlorenen Paradieses</title>“ von
+						<persName key="rubinstein.anton">Rubinstein</persName> herrliche
 					Erfolge</rs>, sodass wir im Allgemeinen mit entschiedenster Befriedigung auf die
 				vergangene Concertsaison zurückblicken können.</p>
-			<p rend="right"><persName ref="#weiss.albert">A. W.</persName></p>
+			<p rend="right"><persName key="weiss.albert">A. W.</persName></p>
 		</body>
 	</text>
 </TEI>

@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Das Vaterland, Wien, 15. Juni 1875</title>
-				<author><persName ref="#kulke.eduard"/></author>
+				<author><persName key="kulke.eduard"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#das-vaterland" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="das-vaterland" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-15"/>
 					<biblScope unit="issue">164</biblScope>
 					<biblScope unit="volume">16</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -43,153 +43,153 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName> „<title
-					ref="#verdi.requiem">Requiem</title>“.</head>
-			<p><hi rend="antiqua"><persName ref="#kulke.eduard">Ed. K.</persName></hi> Zuerst sollte
+			<head rend="larger"><persName key="verdi.giuseppe">Verdi’s</persName> „<title
+					key="verdi.requiem" type="mus">Requiem</title>“.</head>
+			<p><hi rend="antiqua"><persName key="kulke.eduard">Ed. K.</persName></hi> Zuerst sollte
 				man untersuchen und einsehen, was denn eigentlich der Dichter sich vorgesetzt;
 				sodann scharf beurtheilen, ob dieses Vornehmen auch vernünftig und zu billigen sei,
 				um endlich zu entscheiden, ob er diesem Vorsatze denn auch wirklich
 				nachgekommen?</p>
 			<p>Diese Grundsätze für die Beurtheilung von Werken der Poesie, oder sagen wir
 				allgemeiner, von Kunstwerke überhaupt, rühren her von <persName
-					ref="#manzoni.alessandro">Al<surplus resp="tr">l</surplus>essandro
+					key="manzoni.alessandro">Al<surplus resp="tr">l</surplus>essandro
 					Manzoni</persName> und finden sich in der Vorrede zu seiner Tragödie <hi
 					rend="antiqua">„Il conte di Carmagnola“</hi>.</p>
-			<p>Als <persName ref="#verdi.giuseppe">Giuseppe Verdi</persName> noch im ersten
-				Knabenalter stand, entbrannte in der <placeName ref="#lombardei"
-					>Lombardei</placeName>, ganz besonders aber in <placeName ref="#mailand"
+			<p>Als <persName key="verdi.giuseppe">Giuseppe Verdi</persName> noch im ersten
+				Knabenalter stand, entbrannte in der <placeName key="lombardei"
+					>Lombardei</placeName>, ganz besonders aber in <placeName key="mailand"
 					>Mailand</placeName> ein heftiger Kampf unter den Künstlern und Kunstfreunden
 				über Kriticismus und Romanticismus. An der Spitze der Romantiker standen <persName
-					ref="#torti.giovanni">Johann Torti</persName> und <persName
-					ref="#manzoni.alessandro">Alexander Manzoni</persName>, und Letzterer hatte das
+					key="torti.giovanni">Johann Torti</persName> und <persName
+					key="manzoni.alessandro">Alexander Manzoni</persName>, und Letzterer hatte das
 				Glück und die Genugthuung, in seinen dichterischen Bestrebungen von dem klugen
 				Kunstgreis in Weimar, der, auf eine Weltliteratur ausgehend, sich für alle
 				ausländischen literarischen Kundgebungen äußerst interessirte, anerkannt zu werden,
 				und durch diese bedeutende Anerkennung sich auf’s Lebhafteste gefördert zu
 				sehen.</p>
 			<p rend="antiqua">„— se, quando io stava lavorando la tragedia del Carmagnola alcuno mi
-				avesse predetto ch’essa sarebbe letta da <persName ref="#goethe.johann-wolfgang-von"
+				avesse predetto ch’essa sarebbe letta da <persName key="goethe.johann-wolfgang-von"
 					>Goethe</persName>, mi avrebbe dato il più grande incoraggiamento, e promesso un
 				premio non aspettato.“</p>
-			<p>Diese Worte schrieb <persName ref="#manzoni.alessandro">Manzoni</persName> im Jahre
-					<date when-iso="1821">1821</date> an <persName ref="#goethe.johann-wolfgang-von"
+			<p>Diese Worte schrieb <persName key="manzoni.alessandro">Manzoni</persName> im Jahre
+					<date when-iso="1821">1821</date> an <persName key="goethe.johann-wolfgang-von"
 					>Goethe</persName> und sie geben Zeugniß von der außerordentlichen Ermuthigung,
 				die dem jugendlichen Dichter von dem Altmeister der deutschen Literatur zu Theil
 				geworden war.</p>
-			<p><persName ref="#manzoni.alessandro">Manzoni</persName> hatte, wie <persName
-					ref="#goethe.johann-wolfgang-von">Goethe</persName>, das Glück, am Abende seines
+			<p><persName key="manzoni.alessandro">Manzoni</persName> hatte, wie <persName
+					key="goethe.johann-wolfgang-von">Goethe</persName>, das Glück, am Abende seines
 				Lebens auf eine lange andauernde dichterische Thätigkeit zurückblicken zu können.
 				Seine lyrischen Gedichte, Hymnen, seine Tragödien sind allerdings außerhalb
-					<placeName ref="#italien">Italiens</placeName> nicht populär geworden, mit
+					<placeName key="italien">Italiens</placeName> nicht populär geworden, mit
 				seiner Erzählung „<hi rend="antiqua">Promessi sposi</hi>“ aber ist er in den Kreis
 				der Weltliteratur entschieden eingetreten, und wenn man ihn allerorten zu den Besten
 				zählt, so ist es nicht zu verwundern, daß der berühmte Name in <placeName
-					ref="#italien">Italien</placeName> selbst nur mit dem Ausdrucke der Verehrung
+					key="italien">Italien</placeName> selbst nur mit dem Ausdrucke der Verehrung
 				und Begeisterung genannt wird.</p>
 			<p>Das Bedeutende solcher Männer besteht aber nicht nur <cb break="yes" n="1b"
 					type="regular"/>darin, was sie selber geleistet und der Welt als Erbe
 				zurückgelassen haben, sondern auch in der Anregung, die sie auf jüngere
 				emporstrebende Talente üben, und wer möchte es ermessen wollen, welche tiefe
-				bedeutende Anregungen <persName ref="#verdi.giuseppe"><sic>Guiseppe</sic>
-					Verdi</persName> aus den Werken <persName ref="#manzoni.alessandro"
+				bedeutende Anregungen <persName key="verdi.giuseppe"><sic>Guiseppe</sic>
+					Verdi</persName> aus den Werken <persName key="manzoni.alessandro"
 					>Manzoni’s</persName> geschöpft habe; gering wird dieser Einfluß sicher nicht
 				gewesen sein, groß aber der Schmerz über den Tod des großen Mannes und die Trauer
 				über den unersetzlichen Verlust, den der Freund, das Vaterland, die Welt erlitten
 				haben. Und wie anders sollte der Tonkünstler seine schmerzlichen Empfindungen zum
-				Ausdruck bringen als in einem Werke der Tonkunst; <persName ref="#verdi.giuseppe"
+				Ausdruck bringen als in einem Werke der Tonkunst; <persName key="verdi.giuseppe"
 					>Verdi</persName> goß seinen Schmerz und seine Wehmuth auf ein Notenblatt, er
-				schrieb ein <title ref="#verdi.requiem">Requiem</title> zum Andenken und zur Feier
+				schrieb ein <title key="verdi.requiem" type="mus">Requiem</title> zum Andenken und zur Feier
 				des großen Todten.</p>
 			<p>Ist dieses aber auch ein Requiem?</p>
 			<p>Wir haben das neueste Werk des berühmten Componisten nun gehört, und es ist billig,
-				daß wir uns hiebei der oben angeführten, von <persName ref="#manzoni.alessandro"
+				daß wir uns hiebei der oben angeführten, von <persName key="manzoni.alessandro"
 					>Manzoni</persName> aufgestellten Grundsätze der Kritik erinnern.</p>
-			<p>Was sich <persName ref="#verdi.giuseppe">Verdi</persName> vorgesetzt, ist keine
+			<p>Was sich <persName key="verdi.giuseppe">Verdi</persName> vorgesetzt, ist keine
 				Frage. Er wollte ein Requiem schreiben. Ob dieses Vornehmen zu billigen sei, darüber
 				kann keine Meinungsverschiedenheit herrschen, denn wer wollte den Vorsatz nicht
 				billigen? Es bleibt also nur die dritte Frage zu beantworten, ob er seinem Vorsatze
-				nachgekommen, d. h. also hier, ob <persName ref="#verdi.giuseppe">Verdi</persName>
+				nachgekommen, d. h. also hier, ob <persName key="verdi.giuseppe">Verdi</persName>
 				wirklich ein Requiem geschrieben.</p>
 			<p>Diese Frage ist nicht leicht zu beantworten. An den Kirchenstyl, wie er von den alten
 				Italiener ausgebildet worden, schließt sich dieses Werk nicht an. Die erhabene
-				Einfachheit eines <persName ref="#palestrina.giovanni-pierluigi"
-					>Palestrina</persName>, eines <persName ref="#allegri.gregorio"
+				Einfachheit eines <persName key="palestrina.giovanni-pierluigi"
+					>Palestrina</persName>, eines <persName key="allegri.gregorio"
 					>Allegri</persName> wird man vergebens darin suchen. An den Kirchenstyl, wie er
-				von den Deutschen weiter entwickelt wurde, an die <title ref="#bach.h-moll-messe"
+				von den Deutschen weiter entwickelt wurde, an die <title key="bach.h-moll-messe" type="mus"
 						><hi rend="antiqua">H-moll-</hi>Messe</title> eines <persName
-					ref="#bach.johann-sebastian">Sebastian Bach</persName>, an die <title
-					ref="#beethoven.missa-solemnis"><hi rend="antiqua">D-dur-</hi>Messe</title> von
-					<persName ref="#beethoven.ludwig-van">Beethoven</persName>, an das <title
-					ref="#mozart.requiem">Requiem</title> von <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName> darf man bei diesem Werke gar
+					key="bach.johann-sebastian">Sebastian Bach</persName>, an die <title
+					key="beethoven.missa-solemnis" type="mus"><hi rend="antiqua">D-dur-</hi>Messe</title> von
+					<persName key="beethoven.ludwig-van">Beethoven</persName>, an das <title
+					key="mozart.requiem" type="mus">Requiem</title> von <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName> darf man bei diesem Werke gar
 				nicht denken, auch nur der flüchtige Einfall einer Vergleichung wäre Thorheit.
-					<persName ref="#verdi.giuseppe">Verdi</persName> geht seinen eigenen Weg, und
+					<persName key="verdi.giuseppe">Verdi</persName> geht seinen eigenen Weg, und
 				will man die Spuren des Weges verfolgen, den er gegangen, so kann sie nur in den
 				anderen Werken dieses Meisters entdecken. Diese anderen Werke sind aber Opern. Mit
 				seinem eigenen durch lange künstlerische Thätigkeit gewonnenen Opernstyl ging
-					<persName ref="#verdi.giuseppe">Verdi</persName> an die Conception dieses
+					<persName key="verdi.giuseppe">Verdi</persName> an die Conception dieses
 				religiösen Werkes, und wenn man gerade auch nicht so weit gehen will, zu behaupten,
 				dieses Requiem sei eigentlich eine Oper, <cb break="yes" n="1c" type="regular"/>so
 				wird man dasselbe doch jedenfalls als opernhaft zu bezeichnen sich gezwungen
 				sehen.</p>
-			<p>Damit wäre denn freilich gesagt, daß <persName ref="#verdi.giuseppe"
+			<p>Damit wäre denn freilich gesagt, daß <persName key="verdi.giuseppe"
 					>Verdi’s</persName> neueste Composition ein eigentliches Requiem nicht sei.
 				Dieses Urtheil ist in der That auch bereits gefällt worden, allein die Bedeutung des
 				Werkes ist mit dieser negativen Kritik keineswegs erschöpft und die von <persName
-					ref="#manzoni.alessandro">Manzoni</persName> aufgestellten kritischen Grundsätze
+					key="manzoni.alessandro">Manzoni</persName> aufgestellten kritischen Grundsätze
 				erweisen sich als unzulänglich; denn wenn man bei der Annahme, er wollte ein Requiem
 				schreiben, stillschweigend voraussetzt, er wollte ein Requiem in dem herkömmlichen
 				Style schreiben, so hat man bereits einen Irrthum begangen. <persName
-					ref="#verdi.giuseppe">Verdi</persName> wollte das nicht, er wollte seinem Werke
+					key="verdi.giuseppe">Verdi</persName> wollte das nicht, er wollte seinem Werke
 				einen anderen Charakter aufprägen, unbekümmert darum, ob wir diesen Charakter als
 				weltlich oder kirchlich anerkennen würden. Wer also vom Standpuncte des
-				herkömmlichen Kirchenstyls, wie er sich in <placeName ref="#italien"
-					>Italien</placeName> und später in <placeName ref="#deutschland"
-					>Deutschland</placeName> herausgebildet, <persName ref="#manzoni.alessandro"
-					>Manzoni’s</persName> Fragen in Bezug auf <persName ref="#verdi.giuseppe"
+				herkömmlichen Kirchenstyls, wie er sich in <placeName key="italien"
+					>Italien</placeName> und später in <placeName key="deutschland"
+					>Deutschland</placeName> herausgebildet, <persName key="manzoni.alessandro"
+					>Manzoni’s</persName> Fragen in Bezug auf <persName key="verdi.giuseppe"
 					>Verdi’s</persName> Leistung sich zur Beantwortung vorlegt, wird gestehen
 				müssen, daß er nicht einsehe, was der Componist gewollt, und wenn er es endlich
 				eingesehen, so wird er den Vorsatz des Componisten keineswegs billigen.</p>
 			<p>Und doch erfordert es die Gerechtigkeit, anzuerkennen, daß <persName
-					ref="#verdi.giuseppe">Verdi</persName> ein Werk geschrieben habe, welchem, wie
+					key="verdi.giuseppe">Verdi</persName> ein Werk geschrieben habe, welchem, wie
 				es sich zu dem herkömmlichen Kirchenstyl auch immer verhalten mag, künstlerischer
 				Werth und künstlerische Bedeutung nicht abgesprochen werden dürfen; denn es gibt
 				Werke, welche ganz correct im Kirchenstyl gehalten sind und doch lange nicht an
-					<persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> hinanreichen. Will man gegen <persName
-					ref="#verdi.giuseppe">Verdi</persName> gerecht sein, so vergleiche man ihn
-				einerseits mit <persName ref="#rossini.gioachino">Rossini</persName>, andererseits
-				mit <persName ref="#cherubini.luigi">Cherubini</persName>. <persName
-					ref="#rossini.gioachino">Rossini</persName> war unstreitig ein Genie, er war es
+					<persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> hinanreichen. Will man gegen <persName
+					key="verdi.giuseppe">Verdi</persName> gerecht sein, so vergleiche man ihn
+				einerseits mit <persName key="rossini.gioachino">Rossini</persName>, andererseits
+				mit <persName key="cherubini.luigi">Cherubini</persName>. <persName
+					key="rossini.gioachino">Rossini</persName> war unstreitig ein Genie, er war es
 				aber nur in einer bestimmten Sphäre. Mit dem „<title
-					ref="#rossini.il-barbiere-di-siviglia">Barbier von Sevilla</title>“ hat er ein
+					key="rossini.il-barbiere-di-siviglia" type="mus">Barbier von Sevilla</title>“ hat er ein
 				Werk von unvergänglicher Dauer geschaffen; in Gesellschaft der tragischen Muse
 				hingegen befand er sich unbehaglich, denn ihm fehlte das Pathos. Auf dem Gebiete der
 				Kirchenmusik war er vollends unvermögend, mit seinem Naturell etwas Bedeutendes zu
-				schaffen. Sein „<hi rend="antiqua"><title ref="#rossini.stabat-mater">S<supplied
+				schaffen. Sein „<hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">S<supplied
 							resp="tr">t</supplied>abat mater</title></hi>“ ist trivial und unfähig,
 				eine wirkliche Erhebung des Gemüthes hervorzubringen. <persName
-					ref="#verdi.giuseppe">Verdi</persName> hingegen ist ein Tragiker von Haus aus.
+					key="verdi.giuseppe">Verdi</persName> hingegen ist ein Tragiker von Haus aus.
 				Seine Opern zeigen ein hohes Pathos, er ist der Gegensatz von <persName
-					ref="#rossini.gioachino">Rossini</persName> bezüglich des Naturells (ohne
-				Rücksicht auf die Größe seines Talentes). Da <persName ref="#verdi.giuseppe"
+					key="rossini.gioachino">Rossini</persName> bezüglich des Naturells (ohne
+				Rücksicht auf die Größe seines Talentes). Da <persName key="verdi.giuseppe"
 					>Verdi</persName> schon in seinen Opern eine ernste Natur verräth, so konnte er
-				in dem <title ref="#verdi.requiem">Requiem</title> den tiefen Ernst <cb break="yes"
+				in dem <title key="verdi.requiem" type="mus">Requiem</title> den tiefen Ernst <cb break="yes"
 					n="1d" type="regular"/>seines Werkes um so weniger verleugnen, ja im Gegentheil,
-				er hat sich in dem <title ref="#verdi.requiem">Requiem</title> zu einem noch
+				er hat sich in dem <title key="verdi.requiem" type="mus">Requiem</title> zu einem noch
 				tieferen und erhabeneren Ernst emporgeschwungen, und so steht er auf dem Gebiete der
-				Kirchenmusik <persName ref="#rossini.gioachino">Rossini</persName> gegenüber
+				Kirchenmusik <persName key="rossini.gioachino">Rossini</persName> gegenüber
 				bedeutend im Vortheil.</p>
-			<p>Vergleichen wir ihn andererseits mit <persName ref="#cherubini.luigi"
+			<p>Vergleichen wir ihn andererseits mit <persName key="cherubini.luigi"
 					>Cherubini</persName>, so ist gewiß nicht zu leugnen, daß <persName
-					ref="#cherubini.luigi">Cherubini’s</persName>
-				<title ref="#cherubini.requiem-c-moll">Requiem</title> diejenigen Forderungen, die
+					key="cherubini.luigi">Cherubini’s</persName>
+				<title key="cherubini.requiem-c-moll" type="mus">Requiem</title> diejenigen Forderungen, die
 				man an ein Werk kirchlichen Styles zu machen sich berechtigt hält, nach Seite der
 				Correctheit vollkommen befriedigt, und doch wird sein Werk die meisten Hörer kalt
 				lassen. Man wird die glänzende Arbeit vielleicht sogar bewundern, aber sich nicht
-				gerührt und viel weniger erschüttert fühlen. Bei <persName ref="#verdi.giuseppe"
+				gerührt und viel weniger erschüttert fühlen. Bei <persName key="verdi.giuseppe"
 					>Verdi</persName> ist es umgekehrt. Den Forderungen des strengen Kirchenstyls
-				vermag sein <title ref="#verdi.requiem">Requiem</title> ganz gewiß nicht Stand zu
+				vermag sein <title key="verdi.requiem" type="mus">Requiem</title> ganz gewiß nicht Stand zu
 				halten, aber er bringt eine ernste, ergreifende Musik, die wenigstens in einzelnen
 				Momenten auch auf ein feiner fühlendes Gemüth bedeutende Wirkungen hervorzubringen
 				im Stande ist.</p>
@@ -199,18 +199,18 @@
 				nicht eingegangen werden; es handelte sich vielmehr blos um eine Charakteristik im
 				Allgemeinen und es soll, um diese mit wenigen Worten abzuschließen, nur noch
 				Folgendes hinzugefügt werden: Wer seinen Geiste ausschließlich mit <persName
-					ref="#bach.johann-sebastian">Sebastian Bach</persName>, <persName
-					ref="#beethoven.ludwig-van">Beethoven</persName> und <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName> genährt hat, der wird das
-					<persName ref="#verdi.giuseppe">Verdi’sche</persName>
-				<title ref="#verdi.requiem">Requiem</title> vielleicht nicht hören können, wer aber
-				Universalität genug besitzt, auch von „<title ref="#verdi.rigoletto"
+					key="bach.johann-sebastian">Sebastian Bach</persName>, <persName
+					key="beethoven.ludwig-van">Beethoven</persName> und <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName> genährt hat, der wird das
+					<persName key="verdi.giuseppe">Verdi’sche</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> vielleicht nicht hören können, wer aber
+				Universalität genug besitzt, auch von „<title key="verdi.rigoletto" type="mus"
 					>Rigoletto</title>“ ergriffen zu werden, der wird gerne bekennen, daß ihm auch
-					<persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> herzlich willkommen sei.</p>
-			<p>Die <rs ref="#wien.1875" type="event">Aufführung im <placeName ref="#wien"
+					<persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> herzlich willkommen sei.</p>
+			<p>Die <rs key="wien.1875" type="event">Aufführung im <placeName key="wien"
 						>Wiener</placeName>
-					<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName></rs> war
+					<placeName key="wien.hof-operntheater">Hofoperntheater</placeName></rs> war
 				eine vorzügliche. Der Componist hat sich zwei Sängerinnen und zwei Sänger, also ein
 				vollständiges Quartett mitgebracht, welches ganz vortrefflich ist; der Chor des
 				Theaters war durch Mitglieder des akademischen Gesangvereines verstärkt. Der Jubel

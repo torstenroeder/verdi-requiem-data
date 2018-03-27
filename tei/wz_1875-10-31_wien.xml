@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#wiener-zeitung" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="wiener-zeitung" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="sun" when-iso="1875-10-31"/>
 					<biblScope unit="issue">251</biblScope>
 					<series>wz</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -42,23 +42,23 @@
 		<body rend="fraktur">
 			<head rend="larger">Theater und Sehenswürdigkeiten.</head>
 			<gap resp="tr"/>
-			<head><placeName ref="#wien.hof-operntheater">K. K. Hof-Operntheater.</placeName></head>
+			<head><placeName key="wien.hof-operntheater">K. K. Hof-Operntheater.</placeName></head>
 			<gap resp="tr"/>
 			<p rend="center">
-				<rs ref="#wien.1875a.1" type="event"><hi rend="bold">Morgen Montag:</hi><lb
+				<rs key="wien.1875a.1" type="event"><hi rend="bold">Morgen Montag:</hi><lb
 						break="no"/>
-					<hi rend="widespace bold antiqua"><title ref="#verdi.requiem"
+					<hi rend="widespace bold antiqua"><title key="verdi.requiem" type="mus"
 						>REQUIEM</title></hi><lb break="no"/> von<lb break="no"/>
-					<hi rend="antiqua bold"><persName ref="#verdi.giuseppe">Giuseppe
+					<hi rend="antiqua bold"><persName key="verdi.giuseppe">Giuseppe
 							Verdi,</persName></hi><lb break="no"/> für Soli, Chor und Orchester.<lb
-						break="no"/> Dirigent: <hi rend="widespace"><persName ref="#richter.hans"
+						break="no"/> Dirigent: <hi rend="widespace"><persName key="richter.hans"
 							>Hans Richter</persName></hi>.<lb break="no"/>
 					<hi rend="antiqua">Soli:</hi><lb break="no"/> Frau <hi rend="bold"><persName
-							ref="#wilt.marie" role="soloist.soprano">Marie Wilt</persName></hi>.
-					Fräulein <hi rend="bold"><persName ref="#tremel.wilhelmine" role="soloist.mezzo"
+							key="wilt.marie" role="soloist.soprano">Marie Wilt</persName></hi>.
+					Fräulein <hi rend="bold"><persName key="tremel.wilhelmine" role="soloist.mezzo"
 							>Wilhelmine Tremel</persName></hi>. Herr <hi rend="bold"><persName
-							ref="#walter.gustav" role="soloist.tenor">Gustav Walter</persName></hi>.
-					Herr <hi rend="bold"><persName ref="#rokitansky.hans" role="soloist.basso">Hans
+							key="walter.gustav" role="soloist.tenor">Gustav Walter</persName></hi>.
+					Herr <hi rend="bold"><persName key="rokitansky.hans" role="soloist.basso">Hans
 							Rokitansky</persName></hi>.</rs>
 			</p>
 		</body>

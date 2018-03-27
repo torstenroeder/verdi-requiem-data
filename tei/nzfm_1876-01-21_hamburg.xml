@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-01-21"/>
 					<biblScope unit="issue">4</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#hamburg"/></creation>
+			<creation><placeName key="hamburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -45,11 +45,11 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head rend="bold">Aufführungen.</head>
 			<cb break="null" n="37b" type="skipped"/>
-			<p><rs ref="#hamburg.1876.1" type="event"><hi rend="widespace"><placeName ref="#hamburg"
+			<p><rs key="hamburg.1876.1" type="event"><hi rend="widespace"><placeName key="hamburg"
 							>Hamburg</placeName></hi>. Am <date when-iso="1876-01-08">8.</date> im
-						<placeName ref="#hamburg.stadt-theater">Stadttheater</placeName>
-					<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi>.</rs></p>
+						<placeName key="hamburg.stadt-theater">Stadttheater</placeName>
+					<persName key="verdi.giuseppe">Verdi’s</persName>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>.</rs></p>
 		</body>
 	</text>
 </TEI>

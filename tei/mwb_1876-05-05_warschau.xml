@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-05-05"/>
 					<biblScope unit="issue">19</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#warschau"/></creation>
+			<creation><placeName key="warschau"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -45,10 +45,10 @@
 			<cb n="251b"/>
 			<head rend="lineale bold">Vermischte Mittheilungen und Notizen.</head>
 			<gap/>
-			<p>* <rs ref="#warschau.1876.1" type="event"><hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName></hi>
-					<title ref="#verdi.requiem">Requiem</title> kam neulich auch in <placeName
-						ref="#warschau">Warschau</placeName> zur Aufführung.</rs></p>
+			<p>* <rs key="warschau.1876.1" type="event"><hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi’s</persName></hi>
+					<title key="verdi.requiem" type="mus">Requiem</title> kam neulich auch in <placeName
+						key="warschau">Warschau</placeName> zur Aufführung.</rs></p>
 		</body>
 	</text>
 </TEI>

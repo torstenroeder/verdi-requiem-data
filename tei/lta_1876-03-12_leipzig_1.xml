@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#leipziger-tageblatt" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="leipziger-tageblatt" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-custom="sun" when-iso="1876-03-12"/>
 					<biblScope unit="issue">72</biblScope>
 					<series>lt</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#leipzig"/></creation>
+			<creation><placeName key="leipzig"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -38,23 +38,23 @@
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<head>Auf vielfaches Verlangen</head>
-			<p>findet <rs ref="#leipzig.1876.2" type="event"><hi rend="bold"><date
+			<p>findet <rs key="leipzig.1876.2" type="event"><hi rend="bold"><date
 							when-iso="1876-03-13">Montag den 13. März 1876</date></hi> im <hi
 						rend="bold">Saale des Gewandhauses</hi></rs> und zwar zum <hi rend="bold"
 					>Besten des Orchester-Pensions-Fonds</hi> und des <hi rend="bold"
 					>Orchester-Wittwen-Fonds</hi> eine Wiederholung statt</p>
 			<p rend="center">vom<lb break="yes"/>
-				<hi rend="larger"><title ref="#verdi.requiem">Requiem</title></hi><lb break="yes"/>
+				<hi rend="larger"><title key="verdi.requiem" type="mus">Requiem</title></hi><lb break="yes"/>
 				für Soli, Chor und Orchester<lb break="yes"/>
 				<hi rend="smaller">von</hi><lb break="yes"/>
-				<persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>. </p>
+				<persName key="verdi.giuseppe">Giuseppe Verdi</persName>. </p>
 			<p>Die Soli gesungen von Frau <hi rend="widespace"><persName
-						ref="#peschka-leutner.minna">Peschka-Leutner</persName></hi>, Fräulein <hi
-					rend="widespace"><persName ref="#nanitz.minna">Nanitz</persName></hi>, Königl.
-				Hofopernsängerin aus <placeName ref="#dresden">Dresden</placeName>, Herrn <hi
-					rend="widespace"><persName ref="#pielke.walter">Pielke</persName></hi> und Herrn
-					<hi rend="widespace"><persName ref="#koehler.hans">Köhler</persName></hi>,
-				Königl. Hofopernsänger in <placeName ref="#dresden">Dresden</placeName>.</p>
+						key="peschka-leutner.minna">Peschka-Leutner</persName></hi>, Fräulein <hi
+					rend="widespace"><persName key="nanitz.minna">Nanitz</persName></hi>, Königl.
+				Hofopernsängerin aus <placeName key="dresden">Dresden</placeName>, Herrn <hi
+					rend="widespace"><persName key="pielke.walter">Pielke</persName></hi> und Herrn
+					<hi rend="widespace"><persName key="koehler.hans">Köhler</persName></hi>,
+				Königl. Hofopernsänger in <placeName key="dresden">Dresden</placeName>.</p>
 			<p>Billets à 3 M, Sperrsitze à 4 M sind im Bureau der Concert-Cirection zu haben. Den
 				Abonnenten der Gewandhaus-Concerte werden ihre Plätze bis Montag den 13. März,
 				Vormittags 9 Uhr, vorbehalten.</p>

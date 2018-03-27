@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neues-wiener-tagblatt" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="neues-wiener-tagblatt" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="sun" when-iso="1875-06-07"/>
 					<biblScope unit="issue">156</biblScope>
 					<biblScope unit="subIssue">156</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -44,9 +44,9 @@
 			<pb break="null" n="3b" type="initial"/>
 			<head rend="larger">Theater und Kunst.</head>
 			<p><g n="002A" type="ASTERISK">*</g>
-				<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> hat heute
-				die <rs ref="#wien.1875.gp" type="event">erste Gesammtprobe seiner <title
-						ref="#verdi.requiem">Manzoni-Messe</title></rs> persönlich dirigirt und
+				<hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> hat heute
+				die <rs key="wien.1875.gp" type="event">erste Gesammtprobe seiner <title
+						key="verdi.requiem" type="mus">Manzoni-Messe</title></rs> persönlich dirigirt und
 				wurde bei seinem Erscheinen mit stürmischem Applaus und Hochrufen der Mitwirkenden
 				empfangen. Der Beifall wiederholte sich während der Aufführung oft und
 				enthusiastisch.</p>

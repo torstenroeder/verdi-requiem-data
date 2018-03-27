@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neueste-nachrichten" role="publisher"/>
-					<placeName ref="#muenchen"/>
+					<orgName key="neueste-nachrichten" role="publisher"/>
+					<placeName key="muenchen"/>
 					<date when-iso="1876-03-26"/>
 					<biblScope unit="issue">86/87</biblScope>
 					<series>nn</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#muenchen"/></creation>
+			<creation><placeName key="muenchen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -38,8 +38,8 @@
 	<!--<graphic n="nn_1876-03-26_3.jpg"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><hi rend="bold">(<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title>.)</hi> Es bleibt immer ein gewagter
+			<p><hi rend="bold">(<persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title>.)</hi> Es bleibt immer ein gewagter
 				Versuch eine Konzertmusik in die Räume des Theaters überzutragen und dort, wo sonst
 				in erster Reihe das Auge berufen ist, die Wahrnehmung dem inneren Sinne zu
 				vermitteln, nur das Ohr mit diesem Geschäfte zu betrauen. Der Konzertsaal setzt
@@ -48,14 +48,14 @@
 				Gefahr des Zerstreutseins und der Unaufmerksamkeit immer nahe. So ist das Publikum
 				gewöhnt und erzogen worden und jeder Versuch diese Gepflogenheiten zu durchbrechen,
 				bestraft sich an dem Werke selbst. Das fühlten wir neulich, als <rs
-					ref="#muenchen.1875.2" type="event"><hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName></hi>
-					<hi rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi> im
-						<placeName ref="#muenchen.hoftheater">Hoftheater</placeName></rs> aufgeführt
-				wurde, wieder recht deutlich. <rs ref="#muenchen.1875" type="event">So sehr wir uns
+					key="muenchen.1875.2" type="event"><hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi’s</persName></hi>
+					<hi rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi> im
+						<placeName key="muenchen.hoftheater">Hoftheater</placeName></rs> aufgeführt
+				wurde, wieder recht deutlich. <rs key="muenchen.1875" type="event">So sehr wir uns
 					freuten, daß das schöne Werk wiederholt wurde, so fanden wir doch den Eindruck,
-					den es im <placeName ref="#muenchen.odeon">Odeonsaale</placeName> machte, viel
-					großartiger und imposanter als hier im <placeName ref="#muenchen.hoftheater"
+					den es im <placeName key="muenchen.odeon">Odeonsaale</placeName> machte, viel
+					großartiger und imposanter als hier im <placeName key="muenchen.hoftheater"
 						>Theater</placeName>, trotzdem die jüngste Aufführung in vielen Beziehungen
 					hin jene erste weit überragte.</rs> Das Publikum nahm die Novität zum größten
 				Theil kalt und nüchtern hin und nur selten zeigte der Beifall, daß sie gezündet
@@ -63,13 +63,13 @@
 				harmonischen Schönheiten dieses hervorragendsten Werkes der neueren italienischen
 				Musik und das Ohr trank mit Vergnügen die volle Fluth des Wohlklangs, der sich in
 				immer neuen Gestaltungen in dem Werke entwickelte. Chor und Orchester, wie die Soli
-				(vertreten durch die Frl. <persName ref="#radecke.luise">Radecke</persName> und
-					<persName ref="#schefsky.josephine">Schefzky</persName> und die HH. <persName
-					ref="#nachbaur.franz">Nachbaur</persName> und <persName ref="#bausewein.kaspar"
+				(vertreten durch die Frl. <persName key="radecke.luise">Radecke</persName> und
+					<persName key="schefsky.josephine">Schefzky</persName> und die HH. <persName
+					key="nachbaur.franz">Nachbaur</persName> und <persName key="bausewein.kaspar"
 						>Bause<pb break="no" n="3" type="regular"/>wein</persName>) verdienten die
 				beste Anerkennung und insbesonders gilt dieß den beiden Solistinnen, welche ihre
 				zuweilen recht schwierige Aufgabe mit voller Kunstbegeisterung und bestem Erfolge
-				lösten. Herrn Hofkapellmeister <persName ref="#wuellner.franz">Wüllner</persName>
+				lösten. Herrn Hofkapellmeister <persName key="wuellner.franz">Wüllner</persName>
 				endlich ist der Dank aller Musikfreunde auszusprechen für die gewissenhafte
 				Einstudirung dieses schönen Werkes und für den riesigen Fleiß, dem es allein
 				gelingen konnte, das schwere Unternehmen mit Ehren durchzuführen.</p>

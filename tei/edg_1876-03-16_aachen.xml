@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#echo-der-gegenwart" role="publisher"/>
-					<placeName ref="#aachen"/>
+					<orgName key="echo-der-gegenwart" role="publisher"/>
+					<placeName key="aachen"/>
 					<date when-custom="thu" when-iso="1876-03-16"/>
 					<biblScope unit="issue">76</biblScope>
 					<biblScope unit="subIssue">76</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#aachen"/></creation>
+			<creation><placeName key="aachen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -44,28 +44,28 @@
 		<body rend="fraktur">
 			<head rend="larger"><date when-custom="thu" when-iso="1876-03-16">Donnerstag den 16.
 					März</date>:<lb break="yes"/>
-				<hi rend="lineale"><rs ref="#aachen.1876.1" type="event">VI.
+				<hi rend="lineale"><rs key="aachen.1876.1" type="event">VI.
 						Abbonementsconcert,</rs></hi><lb break="yes"/> im großen Kurhaussaale,
 					unter<lb break="yes"/> Leitung des städtischen Musik<lb break="no"/>direktors
-				Herrn <persName ref="#breunung.ferdinand">Breunung</persName>.</head>
+				Herrn <persName key="breunung.ferdinand">Breunung</persName>.</head>
 			<lg>
 				<head rend="widespace">Programm:</head>
-				<l rend="hanging">1. <title ref="#gluck.iphigenie-en-aulide.ouverture">Ouverture zu
-						Iphigenie in Aulis</title> von <persName ref="#gluck.christoph-willibald"
+				<l rend="hanging">1. <title key="gluck.iphigenie-en-aulide.ouverture" type="mus">Ouverture zu
+						Iphigenie in Aulis</title> von <persName key="gluck.christoph-willibald"
 						>Gluck</persName>.</l>
-				<l rend="hanging">2. <title ref="#verdi.requiem">Requiem</title> für Solostimmen,
-					Chor und Orchester von <persName ref="#verdi.giuseppe">G. Verdi</persName> (zum
+				<l rend="hanging">2. <title key="verdi.requiem" type="mus">Requiem</title> für Solostimmen,
+					Chor und Orchester von <persName key="verdi.giuseppe">G. Verdi</persName> (zum
 					1. Mal)</l>
 				<l><hi rend="widespace">Solisten:</hi></l>
-				<l rend="hanging">1. Frau <persName ref="#lederer-ubrich.asminde">Asminde
+				<l rend="hanging">1. Frau <persName key="lederer-ubrich.asminde">Asminde
 						Lederer-Ubrich</persName>, Königl. Kammersängerin, Sopran,</l>
-				<l rend="hanging">2. Frl. <persName ref="#keller.elsa">Elsa Keller</persName>,
-					Opernsängerin aus <placeName ref="#koeln">Köln</placeName>, Mezzo-Sopran,</l>
-				<l rend="hanging">3. Herr Professor <persName ref="#schneider.carl">Carl
-						Schneider</persName> aus <placeName ref="#koeln">Cöln</placeName>,
+				<l rend="hanging">2. Frl. <persName key="keller.elsa">Elsa Keller</persName>,
+					Opernsängerin aus <placeName key="koeln">Köln</placeName>, Mezzo-Sopran,</l>
+				<l rend="hanging">3. Herr Professor <persName key="schneider.carl">Carl
+						Schneider</persName> aus <placeName key="koeln">Cöln</placeName>,
 					Tenor,</l>
-				<l rend="hanging">4. Herr <persName ref="#pfeiffer.xxx">H. Pfeiffer</persName>,
-					Opernsänger aus <placeName ref="#duesseldorf">Düsseldorf</placeName>, Baß.</l>
+				<l rend="hanging">4. Herr <persName key="pfeiffer.xxx">H. Pfeiffer</persName>,
+					Opernsänger aus <placeName key="duesseldorf">Düsseldorf</placeName>, Baß.</l>
 				<l>Einzelkarten à 4 Mark sind Abends an der Kasse zu haben.</l>
 				<l rend="center">Anfang präcise halb sieben Uhr.</l>
 			</lg>

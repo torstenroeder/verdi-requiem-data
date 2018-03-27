@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#wiener-zeitung" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="wiener-zeitung" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-09-30"/>
 					<biblScope unit="issue">224</biblScope>
 					<biblScope unit="subIssue">224</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#rom"/></creation>
+			<creation><placeName key="rom"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -43,22 +43,22 @@
 		<body rend="fraktur">
 			<head rend="larger">Kleine Chronik.</head>
 			<cb break="null" n="2c" type="skipped"/>
-			<p>(<hi rend="widespace">Musikalisches aus <placeName ref="#italien"
-					>Italien</placeName></hi>.) <persName ref="#verdi.giuseppe">Verdi’s</persName>
-					„<title ref="#verdi.requiem">Requiem</title>“ sollte nun auch in <placeName
-					ref="#rom">Rom</placeName> gegeben werden; die Römer müssen aber vorläufig auf
+			<p>(<hi rend="widespace">Musikalisches aus <placeName key="italien"
+					>Italien</placeName></hi>.) <persName key="verdi.giuseppe">Verdi’s</persName>
+					„<title key="verdi.requiem" type="mus">Requiem</title>“ sollte nun auch in <placeName
+					key="rom">Rom</placeName> gegeben werden; die Römer müssen aber vorläufig auf
 				das Vergnügen, es zu hören, Verzicht leisten. Ein Impresario hatte den Plan, das
-				ganze bei den <rs ref="#florenz.1875" type="event">Aufführungen in <placeName
-						ref="#florenz">Florenz</placeName></rs> beschäftigt gewesenen Personal für
-				eine einzige Aufführung nach <placeName ref="#rom">Rom</placeName> zu berufen. Er
+				ganze bei den <rs key="florenz.1875" type="event">Aufführungen in <placeName
+						key="florenz">Florenz</placeName></rs> beschäftigt gewesenen Personal für
+				eine einzige Aufführung nach <placeName key="rom">Rom</placeName> zu berufen. Er
 				sollte dafür die Kleinigkeit von 50.000 Fr. zahlen und das war dem Manne zu viel.
-				Ueberdies weigerte sich Signora <persName ref="#stolz.teresa">Stolz</persName> aus
-				Furcht vor der Malaria, nach <placeName ref="#rom">Rom</placeName> zu kommen. <gap
-					resp="tr"/> Ein Signor <persName ref="#meini.xxx">Meini</persName> hat einen gut
-				geschriebenen Brief über <persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> veröffentlicht, worin er das Werk unter
-				Berufung auf <persName ref="#mozart.wolfgang-amadeus">Mozart</persName> und
-					<persName ref="#cherubini.luigi">Cherubini</persName> gegen den Vorwurf der
+				Ueberdies weigerte sich Signora <persName key="stolz.teresa">Stolz</persName> aus
+				Furcht vor der Malaria, nach <placeName key="rom">Rom</placeName> zu kommen. <gap
+					resp="tr"/> Ein Signor <persName key="meini.xxx">Meini</persName> hat einen gut
+				geschriebenen Brief über <persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> veröffentlicht, worin er das Werk unter
+				Berufung auf <persName key="mozart.wolfgang-amadeus">Mozart</persName> und
+					<persName key="cherubini.luigi">Cherubini</persName> gegen den Vorwurf der
 				„Unkirchlichkeit“ vertheidigt <gap resp="tr"/></p>
 		</body>
 	</text>

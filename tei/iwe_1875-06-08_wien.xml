@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#illustrirtes-wiener-extrablatt" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="illustrirtes-wiener-extrablatt" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="tue" when-iso="1875-06-08"/>
 					<biblScope unit="issue">157</biblScope>
 					<biblScope unit="volume">4</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -46,9 +46,9 @@
 			<head rend="larger">Neue freie Theaterzeitung.</head>
 			<gap resp="tr"/>
 			<p><g n="002A" type="ASTERISK">*</g> Maestro <hi rend="widespace"><persName
-						ref="#verdi.giuseppe">Verdi</persName></hi> hat <date>gestern</date> im
-					<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> zum ersten
-				Male die Ensemble-Probe seines <title ref="#verdi.requiem">Requiem</title>
+						key="verdi.giuseppe">Verdi</persName></hi> hat <date>gestern</date> im
+					<placeName key="wien.hof-operntheater">Hofoperntheater</placeName> zum ersten
+				Male die Ensemble-Probe seines <title key="verdi.requiem" type="mus">Requiem</title>
 				persönlich dirigirt. Er wurde bei seinem Erscheinen auf der Bühne mit stürmischem
 				Applaus und Hochrufen empfangen und auch während der Aufführung wiederholt
 				enthusiastisch acclamirt.</p>

@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Lilli Lehmann, Mein Weg, 1913</title>
-				<author><persName ref="#lehmann.lilli"/></author>
+				<author><persName key="lehmann.lilli"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,7 +13,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<placeName ref="#berlin"/>
+					<placeName key="berlin"/>
 					<date when-iso="1876-04-15"/>
 				</bibl>
 				<bibl>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#berlin"/><date when-iso="1876-04-15"/></creation>
+			<creation><placeName key="berlin"/><date when-iso="1876-04-15"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Biografik</term>
@@ -43,16 +43,16 @@
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<p><pb break="null" facs="#f1" n="15" type="initial"/>
-				<rs ref="#berlin.1876.1" type="event">Der <date when-iso="1876-04-15">15. April
-						1876</date> brachte ein Ereignis für mich: <persName ref="#verdi.giuseppe"
-						>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“, das wir im
-						<placeName ref="#berlin.hofoper">Königlichen Opernhause</placeName> dreimal
-					aufführten; <persName ref="#ernst.heinrich">Heinrich Ernst</persName>, <persName
-						ref="#betz.franz">Franz Betz</persName>, <persName ref="#brandt.marianne"
+				<rs key="berlin.1876.1" type="event">Der <date when-iso="1876-04-15">15. April
+						1876</date> brachte ein Ereignis für mich: <persName key="verdi.giuseppe"
+						>Verdis</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“, das wir im
+						<placeName key="berlin.hofoper">Königlichen Opernhause</placeName> dreimal
+					aufführten; <persName key="ernst.heinrich">Heinrich Ernst</persName>, <persName
+						key="betz.franz">Franz Betz</persName>, <persName key="brandt.marianne"
 						>Marianne Brandt</persName> und ich.</rs> Trotz <persName
-					ref="#wagner.richard">Wagners</persName> Flagge, unter der wir <placeName
-					ref="#bayreuth">Bayreuth</placeName> schon entgegensegelten, griff mir <persName
-					ref="#verdi.giuseppe">Verdis</persName> wundervolle Musik tief ins Herz. Ich
+					key="wagner.richard">Wagners</persName> Flagge, unter der wir <placeName
+					key="bayreuth">Bayreuth</placeName> schon entgegensegelten, griff mir <persName
+					key="verdi.giuseppe">Verdis</persName> wundervolle Musik tief ins Herz. Ich
 				war’s ja gewöhnt, katholische Musik zu singen, kannte die Zeremonien, die mystische
 				Dämmerung der katholischen Kirche, die tiefe Gläubigkeit des katholischen Volkes,
 				die Macht der Musik im geweihten, weihrauchdurchschwängerten Raume und wußte mit
@@ -62,35 +62,35 @@
 				tief religiösen Empfindung, der Heiligkeit der Handlung im Ausdruck gerecht wurde.
 				Vielleicht lag es an meiner mir wohlbewußten italienischen Stilkenntnis. Etwas mußte
 				schon an diesem Gefühle richtig sein, <pb break="yes" facs="#f2" n="16"
-					type="regular"/> denn <rs ref="#koeln.1877.musikfest.2" type="event">als wir:
-						<persName ref="#ernst.heinrich">Heinrich Ernst</persName>, <persName
-						ref="#henschel.georg">Georg Hentschel</persName>, <persName
-						ref="#brandt.marianne">Marianne Brandt</persName> und ich beim Kölner
-					Musikfest <date when-iso="1877">77</date> das <title ref="#verdi.requiem"
-						>Requiem</title> unter <persName ref="#verdi.giuseppe">Verdis</persName>
-					eigner Leitung sangen, war ich die einzige, der <persName ref="#verdi.giuseppe"
+					type="regular"/> denn <rs key="koeln.1877.musikfest.2" type="event">als wir:
+						<persName key="ernst.heinrich">Heinrich Ernst</persName>, <persName
+						key="henschel.georg">Georg Hentschel</persName>, <persName
+						key="brandt.marianne">Marianne Brandt</persName> und ich beim Kölner
+					Musikfest <date when-iso="1877">77</date> das <title key="verdi.requiem" type="mus"
+						>Requiem</title> unter <persName key="verdi.giuseppe">Verdis</persName>
+					eigner Leitung sangen, war ich die einzige, der <persName key="verdi.giuseppe"
 						>Verdi</persName> nicht das geringste ausbesserte</rs>. Am Abend klopfte er
 				mir lächelnd auf die Schulter und sprach mir entzückt seine Befriedigung aus. Später
 				hatte er sogar seinen Wirten ausgesprochen, daß er nur mit mir zufrieden gewesen und
 				stellte meine Leistung sogar derjenigen seiner Lieblingssängerin <persName
-					ref="#stolz.teresa">Stolz</persName> an die Seite. <persName
-					ref="#verdi.giuseppe">Verdi</persName> war kein Mann von vielem Reden; es
+					key="stolz.teresa">Stolz</persName> an die Seite. <persName
+					key="verdi.giuseppe">Verdi</persName> war kein Mann von vielem Reden; es
 				verstand sich bei ihm — wie bei allen „Könnern“ — von selbst, daß man die Technik
 				der künstlerischen Aufgaben, die man übernommen, meisterte. Und ohne daß er es mir
 				sagte, wußte ich, daß er es gut fand. Als außergewöhnlicher Mensch wird <persName
-					ref="#verdi.giuseppe">Verdi</persName> von allen denen geschildert, die das
+					key="verdi.giuseppe">Verdi</persName> von allen denen geschildert, die das
 				Glück hatten, ihm nähertreten zu dürfen. Ich weiß nur, daß er für mich um so größer
 				wurde, je länger ich lebte, und daß ich ihn heute zu den Größten, Höchsten rechne
-				und ihn gleich ihnen verehre und liebe. <persName ref="#verdi.giuseppe"
+				und ihn gleich ihnen verehre und liebe. <persName key="verdi.giuseppe"
 					>Verdi</persName> war mit seiner Gattin gekommen, und mit beiden so lieben,
 				ruhigen Menschen erlebten wir, unter Führung des geistreichen, witzigen <persName
-					ref="#hiller.ferdinand">Ferdinand Hiller</persName> — der sich stets nur „Fasi“
+					key="hiller.ferdinand">Ferdinand Hiller</persName> — der sich stets nur „Fasi“
 				unterschrieb und mir als Künstler sehr befreundet war — ein wundervolles Fest, das
-					<persName ref="#brahms.johannes">Johannes Brahms</persName> als Dritter im Bunde
+					<persName key="brahms.johannes">Johannes Brahms</persName> als Dritter im Bunde
 				verschönte, der damals noch glückstrahlend und heiter die ganze schöne Frauenwelt zu
 				seinen Füßen liegen sah. Als ich am dritten Abend aufs Podium stieg, um eine <title
-					ref="#spohr.faust">Faustarie</title> von <persName ref="#spohr.louis"
-					>Spohr</persName> zu singen und <persName ref="#brahms.johannes"
+					key="spohr.faust" type="mus">Faustarie</title> von <persName key="spohr.louis"
+					>Spohr</persName> zu singen und <persName key="brahms.johannes"
 					>Brahms</persName> meinen Strauß zu halten gab, sah ich, wie er ihn zerpflückte,
 				jedem jungen Mädchen des Chors eine Blume daraus verabreichte und sich dabei vor
 				Lachen schüttelte.</p>

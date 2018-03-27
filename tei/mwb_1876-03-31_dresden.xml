@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-03-31"/>
 					<biblScope unit="issue">14</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#leipzig"/></creation>
+			<creation><placeName key="leipzig"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -45,12 +45,12 @@
 			<gap resp="tr"/>
 			<head><date when-iso="1876-02">Februar</date>.</head>
 			<cb break="null" n="177b" type="skipped"/>
-			<p><rs ref="#dresden.1876.3 dresden.1876.4 dresden.1876.5" type="event"><hi rend="bold"
-							><placeName ref="#dresden">Dresden</placeName>.</hi>
+			<p><rs key="dresden.1876.3 dresden.1876.4 dresden.1876.5" type="event"><hi rend="bold"
+							><placeName key="dresden">Dresden</placeName>.</hi>
 					<gap resp="tr"/>
 					<date when-iso="1876-02-05">5.</date>, <date when-iso="1876-02-10">10.</date> u.
 						<date when-iso="1876-02-24">24.</date>
-					<title ref="#verdi.requiem">Requiem</title>.</rs></p>
+					<title key="verdi.requiem" type="mus">Requiem</title>.</rs></p>
 		</body>
 	</text>
 </TEI>

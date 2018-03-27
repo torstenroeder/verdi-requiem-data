@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#der-floh" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="der-floh" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-20"/>
 					<biblScope unit="issue">25</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -42,11 +42,11 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<head rend="larger">Zum Unfalle <persName ref="#verdi.giuseppe"
+			<head rend="larger">Zum Unfalle <persName key="verdi.giuseppe"
 				>Verdi’s</persName>.</head>
-			<p rend="bold">Wie wir hören, wurde <persName ref="#verdi.giuseppe">Verdi</persName>
+			<p rend="bold">Wie wir hören, wurde <persName key="verdi.giuseppe">Verdi</persName>
 				dadurch aus seiner Ohnmacht geweckt, dass man ihm einige Stellen aus den <persName
-					ref="#wagner.richard">Wagnerischen</persName> Opern vorgespielt hat.</p>
+					key="wagner.richard">Wagnerischen</persName> Opern vorgespielt hat.</p>
 		</body>
 	</text>
 </TEI>

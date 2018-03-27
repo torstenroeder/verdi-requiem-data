@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#deutsche-zeitung" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="deutsche-zeitung" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1874-09-24"/>
 					<biblScope unit="issue">979</biblScope>
 					<biblScope unit="volume">19</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bologna"/></creation>
+			<creation><placeName key="bologna"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -44,21 +44,21 @@
 		<body rend="fraktur">
 			<head rend="larger">Theater, Kunst und Literatur.</head>
 			<gap resp="tr"/>
-			<p>— Der Impresario <persName ref="#lambertini.xxx">Lambertini</persName> beabsichtigte,
-				in <hi rend="widespace"><placeName ref="#bologna">Bologna</placeName></hi> das neue
-					„<title ref="#verdi.requiem">Requiem</title>“ von <hi rend="widespace"><persName
-						ref="#verdi.giuseppe">Verdi</persName></hi> aufzuführen, jedoch mit
+			<p>— Der Impresario <persName key="lambertini.xxx">Lambertini</persName> beabsichtigte,
+				in <hi rend="widespace"><placeName key="bologna">Bologna</placeName></hi> das neue
+					„<title key="verdi.requiem" type="mus">Requiem</title>“ von <hi rend="widespace"><persName
+						key="verdi.giuseppe">Verdi</persName></hi> aufzuführen, jedoch mit
 				Begleitung von vier Clavieren an Stelle des Orchesters. <persName
-					ref="#verdi.giuseppe">Verdi</persName> hörte davon und reclamirte bei der
-				Polizeibehörde in <placeName ref="#bologna">Bologna</placeName>; diese
-				berücksichtigte <persName ref="#verdi.giuseppe">Verdi’s</persName> Vorstellungen und
+					key="verdi.giuseppe">Verdi</persName> hörte davon und reclamirte bei der
+				Polizeibehörde in <placeName key="bologna">Bologna</placeName>; diese
+				berücksichtigte <persName key="verdi.giuseppe">Verdi’s</persName> Vorstellungen und
 				untersagte die Aufführung. Es dürfte das wohl erstemal sein, daß eine
 				Verwaltungsbehörde in rein künstlerischen Angelegenheiten selbstständig vorgegangen
 				ist. So wenig es zweifelhaft ist, daß der Richter für <persName
-					ref="#verdi.giuseppe">Verdi</persName> entschieden haben würde, wenn dieser auf
+					key="verdi.giuseppe">Verdi</persName> entschieden haben würde, wenn dieser auf
 				Schadenersatz nach der Aufführung mit vier Clavieren geklagt <cb break="yes" n="c"
 					type="regular"/> hätte, indem nämlich das Recht der Aufführung dieses <title
-					ref="#verdi.requiem">Requiems</title> mit Orchester vom Componisten erworben
+					key="verdi.requiem" type="mus">Requiems</title> mit Orchester vom Componisten erworben
 				werden muß, umsomehr muß das Einschreiten der Behörde anerkannt werden, wodurch eine
 				solche Verballhornung verhindert wurde.</p>
 		</body>

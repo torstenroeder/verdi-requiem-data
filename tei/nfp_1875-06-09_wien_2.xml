@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neue-freie-presse" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="neue-freie-presse" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="wed" when-iso="1875-06-09"/>
 					<biblScope unit="issue">3874</biblScope>
 					<biblScope unit="subIssue">3874</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -44,16 +44,16 @@
 			<cb break="null" n="5b" type="initial"/>
 			<head rend="larger">Kleine Chronik.</head>
 			<cb break="null" n="5c" type="skipped"/>
-			<p>[<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName> und die
-					Kirche</hi>.] <rs ref="#wien.1875" type="event">Das clericale <placeName
-						ref="#graz">Grazer</placeName> „<orgName ref="#grazer-volksblatt"
+			<p>[<hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName> und die
+					Kirche</hi>.] <rs key="wien.1875" type="event">Das clericale <placeName
+						key="graz">Grazer</placeName> „<orgName key="grazer-volksblatt"
 						>Volksblatt</orgName>“ klagt über die Aufführung von <persName
-						ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> im <placeName ref="#wien"
+						key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> im <placeName key="wien"
 						>Wiener</placeName>
-					<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName></rs> und
+					<placeName key="wien.hof-operntheater">Hofoperntheater</placeName></rs> und
 				meint: „Wer wird durch diese <hi rend="widespace">Theater</hi>nachricht erbaut sein?
-				Sollte das <title ref="#verdi.requiem">Requiem</title> später je einmal in einer
+				Sollte das <title key="verdi.requiem" type="mus">Requiem</title> später je einmal in einer
 				Kirche aufgeführt werden, so erbarmt uns der Priester, der den Statisten abgibt, und
 				macht jeden Gläubigen der Gedanke traurig, daß die allerheiligste Handlung dazu
 				Gelegenheit bieten muß, um Opernmusik zu Gehör zu bringen.“<note resp="tr"

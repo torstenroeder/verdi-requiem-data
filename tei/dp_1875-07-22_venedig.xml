@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#die-presse"/>
-					<placeName ref="#wien"/>
+					<orgName key="die-presse"/>
+					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1875-07-22"/>
 					<biblScope unit="issue">201</biblScope>
 					<biblScope unit="volume">28</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#venedig"/></creation>
+			<creation><placeName key="venedig"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -45,20 +45,20 @@
 			<cb break="null" facs="#f1" n="11b" type="initial"/>
 			<head rend="larger">Theater- und Kunstnachrichten.</head>
 			<gap resp="tr"/>
-			<p>— Die <rs ref="#venedig.1875.4" type="event">vierte Aufführung des <persName
-						ref="#verdi.giuseppe">Verdi’schen</persName>
-					<title ref="#verdi.requiem">Requiem</title> in <placeName ref="#venedig"
+			<p>— Die <rs key="venedig.1875.4" type="event">vierte Aufführung des <persName
+						key="verdi.giuseppe">Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> in <placeName key="venedig"
 						>Venedig</placeName></rs> hat so großen Beifall und noch so bedeutende
 				Theilnahme gefunden, daß sich der Director des <placeName
-					ref="#venedig.teatro-malibran">Malibran-Theaters</placeName>, <persName
-					ref="#gallo.antonio">Anton Gallo</persName>, an Signora <persName
-					ref="#stolz.teresa">Stolz</persName> mit der Bitte wendete, durch ihre
+					key="venedig.teatro-malibran">Malibran-Theaters</placeName>, <persName
+					key="gallo.antonio">Anton Gallo</persName>, an Signora <persName
+					key="stolz.teresa">Stolz</persName> mit der Bitte wendete, durch ihre
 				Mitwirkung noch eine fünfte und Schlußaufführung des Werkes zu ermöglichen. Signora
-					<persName ref="#stolz.teresa">Stolz</persName> erklärte aus Freundlichste ihre
+					<persName key="stolz.teresa">Stolz</persName> erklärte aus Freundlichste ihre
 				Bereitwilligkeit, obschon ih Contract zu Ende war und widmete von dem entfallenden
 				Honorar 600 Lire für einen wohlthätigen Zweck. Da auch die übrigen Künstler sich
 				bereit erklärten, bei dieser Vorstellung mitzuwirken, so fand dieselbe gestern im
-					<placeName ref="#venedig.teatro-malibran">Malibran-Theater</placeName>
+					<placeName key="venedig.teatro-malibran">Malibran-Theater</placeName>
 				statt.</p>
 		</body>
 	</text>

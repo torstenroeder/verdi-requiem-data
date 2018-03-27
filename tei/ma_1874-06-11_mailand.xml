@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#il-mondo-artistico" role="publisher"/>
-					<placeName ref="#mailand"/>
+					<orgName key="il-mondo-artistico" role="publisher"/>
+					<placeName key="mailand"/>
 					<date when-iso="1874-06-11"/>
 					<biblScope unit="issue">23/24</biblScope>
 					<biblScope unit="volume">8</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#mailand"/></creation>
+			<creation><placeName key="mailand"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Illustration</term>

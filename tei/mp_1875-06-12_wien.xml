@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Morgen-Post, Wien, 12. Juni 1875</title>
-				<author><persName ref="#akronym.ahm"/></author>
+				<author><persName key="akronym.ahm"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#morgen-post"/>
-					<placeName ref="#wien"/>
+					<orgName key="morgen-post"/>
+					<placeName key="wien"/>
 					<date when-custom="sat" when-iso="1875-06-12"/>
 					<biblScope unit="issue">161</biblScope>
 					<biblScope unit="volume">25</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,35 +40,35 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Theater, Kunst und Literatur.</head>
-			<p>— <hi rend="bold"><placeName ref="#wien.hof-operntheater"
-					>Hofoperntheater</placeName>.</hi> Maestro <persName ref="#verdi.giuseppe"
-					>Verdi</persName> hat gestern gelegentlich der <rs ref="#wien.1875.1"
+			<p>— <hi rend="bold"><placeName key="wien.hof-operntheater"
+					>Hofoperntheater</placeName>.</hi> Maestro <persName key="verdi.giuseppe"
+					>Verdi</persName> hat gestern gelegentlich der <rs key="wien.1875.1"
 					type="event">ersten Aufführung seines, dem Andenken des italienischen Dichters
-						<persName ref="#manzoni.alessandro">Manzoni</persName> gewidmeten <title
-						ref="#verdi.requiem">Requiems</title></rs> einen ganz außergewöhnlichen und
+						<persName key="manzoni.alessandro">Manzoni</persName> gewidmeten <title
+						key="verdi.requiem" type="mus">Requiems</title></rs> einen ganz außergewöhnlichen und
 				wohlberechtigten Triumph gefeiert. Schon bei seinem ersten Erscheinen am
 				Dirigentenpulte erhob sich ein Beifallssturm, der sich nach fast jeder Nummer (von
 				welchen drei wiederholt werden mußten) erneuerte und der nach der ersten Abtheilung
 				seinen Gipfelpunkt erreicht zu haben schien. Der Begeisterungsjubel aber, der sich
 				zum Schlusse erhob und sich gar nicht zu legen wollen schien, spottet aller
 				Beschreibung.</p>
-			<p><persName ref="#verdi.giuseppe">Verdi</persName> mußte immer wieder erscheinen,
+			<p><persName key="verdi.giuseppe">Verdi</persName> mußte immer wieder erscheinen,
 				brachte aber immer wieder sein ausgezeichnetes Gesangs-Quartett, die Damen <persName
-					ref="#stolz.teresa">Stolz</persName>, <persName ref="#waldmann.maria"
-					>Waldmann</persName> und die Herren <persName ref="#medini.paolo"><choice>
+					key="stolz.teresa">Stolz</persName>, <persName key="waldmann.maria"
+					>Waldmann</persName> und die Herren <persName key="medini.paolo"><choice>
 						<orig>Mesini</orig>
 						<corr resp="tr">Medini</corr>
-					</choice></persName> und <persName ref="#masini.angelo"><choice>
+					</choice></persName> und <persName key="masini.angelo"><choice>
 						<orig>Madini</orig>
 						<corr resp="tr">Masini</corr>
 					</choice></persName> mit, zugleich durch <sic>Geberden</sic> einen Theil des
 				Beifalls auf Chor und Orchester überweisend. Direktor <persName
-					ref="#jauner.franz-von">Jauner</persName> überreichte dem Kompositeur, der durch
+					key="jauner.franz-von">Jauner</persName> überreichte dem Kompositeur, der durch
 				die vielen Zeichen der Anerkennung sichtlich erfreut war, einen mächtigen
 				Lorbeerkranz. Ueber das hochbedeutsame, effektvoll gearbeitete und höchst würdig
 				gehaltene Werk, sowie über die obgenannten vier ausgezeichneten Gesangskräfte
 				sprechen wir morgen. Das Haus war von einem eleganten Publikum bis zum letzten Platz
-				besetzt. <hi rend="antiqua"><persName ref="#akronym.ahm">ahm</persName></hi>.</p>
+				besetzt. <hi rend="antiqua"><persName key="akronym.ahm">ahm</persName></hi>.</p>
 		</body>
 	</text>
 </TEI>

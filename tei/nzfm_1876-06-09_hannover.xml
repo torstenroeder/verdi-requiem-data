@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-06-09"/>
 					<biblScope unit="issue">24</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#hannover"/></creation>
+			<creation><placeName key="hannover"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -46,9 +46,9 @@
 			<cb break="null" n="245b" type="skipped"/>
 			<head rend="bold">Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
 			<gap resp="tr"/>
-			<p rend="hanging"><rs ref="#hannover.1876.1" type="event"><persName
-						ref="#verdi.giuseppe">Verdi, G.</persName>, <hi rend="antiqua"><title
-							ref="#verdi.requiem">Requiem</title></hi>. <placeName ref="#hannover"
+			<p rend="hanging"><rs key="hannover.1876.1" type="event"><persName
+						key="verdi.giuseppe">Verdi, G.</persName>, <hi rend="antiqua"><title
+							key="verdi.requiem" type="mus">Requiem</title></hi>. <placeName key="hannover"
 						>Hannover</placeName>, wohlth. Concert.</rs></p>
 		</body>
 	</text>

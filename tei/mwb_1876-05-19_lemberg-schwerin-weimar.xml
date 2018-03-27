@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-05-19"/>
 					<biblScope unit="issue">21</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -22,8 +22,8 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#lemberg"/><placeName ref="#schwerin"/><placeName
-					ref="#weimar"/></creation>
+			<creation><placeName key="lemberg"/><placeName key="schwerin"/><placeName
+					key="weimar"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -45,32 +45,32 @@
 			<pb facs="#f1" n="275"/>
 			<head rend="lineale bold">Concertumschau.</head>
 			<gap resp="tr"/>
-			<p><rs ref="#lemberg.1876" type="event"><hi rend="bold"><placeName ref="#lemberg"
+			<p><rs key="lemberg.1876" type="event"><hi rend="bold"><placeName key="lemberg"
 							>Lemberg</placeName>.</hi> Am <date when-iso="1876-04-09">9.</date> u.
 						<date when-iso="1876-04-10">10. April</date> von Hrn. Musikdir. <persName
-						ref="#mikuli.karol">Mikuli</persName> geleitete, gelungene Aufführungen des
-						<title ref="#verdi.requiem">Requiems</title> von <hi rend="widespace"
-							><persName ref="#verdi.giuseppe">Verdi</persName></hi>.</rs></p>
+						key="mikuli.karol">Mikuli</persName> geleitete, gelungene Aufführungen des
+						<title key="verdi.requiem" type="mus">Requiems</title> von <hi rend="widespace"
+							><persName key="verdi.giuseppe">Verdi</persName></hi>.</rs></p>
 			<cb n="275b" type="skipped"/>
-			<p><rs ref="#schwerin.1876.1" type="event"><hi rend="bold"><placeName ref="#schwerin"
+			<p><rs key="schwerin.1876.1" type="event"><hi rend="bold"><placeName key="schwerin"
 							>Schwerin</placeName>.</hi>
-					<gap resp="tr"/> Conc. im <placeName ref="#schwerin.hoftheater"
+					<gap resp="tr"/> Conc. im <placeName key="schwerin.hoftheater"
 						>Hoftheater</placeName> am <date when-iso="1876-04-16">16. April</date>:
-						<title ref="#schubert.trauermarsch">Trauermarsch f. Orch.</title> v.
-						<persName ref="#schubert.franz">Schubert</persName>, <title
-						ref="#verdi.requiem">Requiem</title> von <hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi</persName></hi> (Soli: Frl. <persName
-						ref="#gungl.virginia">Gungl</persName>, Frl. <persName ref="#schwencke.anna"
-						>Schwencke</persName>, Hr. <persName ref="#candidus.william"
-						>Candidus</persName> a. <placeName ref="#hamburg">Hamburg</placeName> u. Hr.
-						<persName ref="#hill.karl">Hill</persName>).</rs></p>
+						<title key="schubert.trauermarsch" type="mus">Trauermarsch f. Orch.</title> v.
+						<persName key="schubert.franz">Schubert</persName>, <title
+						key="verdi.requiem" type="mus">Requiem</title> von <hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi</persName></hi> (Soli: Frl. <persName
+						key="gungl.virginia">Gungl</persName>, Frl. <persName key="schwencke.anna"
+						>Schwencke</persName>, Hr. <persName key="candidus.william"
+						>Candidus</persName> a. <placeName key="hamburg">Hamburg</placeName> u. Hr.
+						<persName key="hill.karl">Hill</persName>).</rs></p>
 			<gap resp="tr"/>
-			<p><rs ref="#weimar.1876.1" type="event"><hi rend="bold"><placeName ref="#weimar"
+			<p><rs key="weimar.1876.1" type="event"><hi rend="bold"><placeName key="weimar"
 							>Weimar</placeName>.</hi> Am <date when-iso="1876-04-26">26.
-						April</date>: Aufführung von <persName ref="#verdi.giuseppe"
+						April</date>: Aufführung von <persName key="verdi.giuseppe"
 						>Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> im <placeName
-						ref="#weimar.hoftheater">grossherzogl. Hoftheater</placeName>.</rs></p>
+					<title key="verdi.requiem" type="mus">Requiem</title> im <placeName
+						key="weimar.hoftheater">grossherzogl. Hoftheater</placeName>.</rs></p>
 		</body>
 	</text>
 </TEI>

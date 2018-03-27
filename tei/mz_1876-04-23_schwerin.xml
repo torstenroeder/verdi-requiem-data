@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mecklenburgische-zeitung" role="publisher"/>
-					<placeName ref="#schwerin"/>
+					<orgName key="mecklenburgische-zeitung" role="publisher"/>
+					<placeName key="schwerin"/>
 					<date when-custom="sun" when-iso="1876-04-23"/>
 					<biblScope unit="issue">110</biblScope>
 					<series>mn</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#schwerin"/></creation>
+			<creation><placeName key="schwerin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -36,49 +36,49 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger"><placeName ref="#schwerin.hoftheater">Großherzogliches
+			<head rend="larger"><placeName key="schwerin.hoftheater">Großherzogliches
 					Theater</placeName>.</head>
 			<p>Kurz vor Schluß der Saison wurde uns noch eine sehr interessante Novität, <rs
-					ref="#schwerin.1876" type="event">nämlich das mit einer gewissen Spannung
-					erwartete <title ref="#verdi.requiem">Requiem</title> von <persName
-						ref="#verdi.giuseppe">Verdi</persName> vorgeführt</rs>. Um dasselbe
+					key="schwerin.1876" type="event">nämlich das mit einer gewissen Spannung
+					erwartete <title key="verdi.requiem" type="mus">Requiem</title> von <persName
+						key="verdi.giuseppe">Verdi</persName> vorgeführt</rs>. Um dasselbe
 				möglichst glänzend zur Aufführung zu bringen, hatte sich neben dem Theaterchor noch
 				ein großer Theil der Mitglieder des früheren Gesangvereins zur Mitwirkung bereit
 				finden lassen, und war auf diese Weise ein recht respektabler Chor vereinigt. Zu den
-				Solisten Fräul. <persName ref="#gungl.virginia">Gung’l</persName>, Fräul. <persName
-					ref="#schwencke.anna">Schwencke</persName>, Herr <persName ref="#hill.karl"
-					>Hill</persName>, war noch Herr <persName ref="#candidus.william"
-					>Candidus</persName> vom <placeName ref="#hamburg">Hamburger</placeName>
-				<placeName ref="#hamburg.stadt-theater">Theater</placeName> für die Tenorpartie
-				herangezogen worden. Herr Hofkapellmeister <persName ref="#schmitt.alois"
+				Solisten Fräul. <persName key="gungl.virginia">Gung’l</persName>, Fräul. <persName
+					key="schwencke.anna">Schwencke</persName>, Herr <persName key="hill.karl"
+					>Hill</persName>, war noch Herr <persName key="candidus.william"
+					>Candidus</persName> vom <placeName key="hamburg">Hamburger</placeName>
+				<placeName key="hamburg.stadt-theater">Theater</placeName> für die Tenorpartie
+				herangezogen worden. Herr Hofkapellmeister <persName key="schmitt.alois"
 					>Schmitt</persName> hatte das Werk mit unverkennbarer Sorgfalt und seinem
 				künstlerischen Verständnis in reichlichen Generalproben vorbereitet, und war nun
 				auch die Aufführung, wo sämmtliche Mitwirkende ihr Möglichstes thaten, um dem Werke
 				gerecht zu werden, eine recht gelungene. Allem Anschein nach hat das Werk hier sehr
 				befriedigt; es hat entschieden etwas unmittelbar Ansprechendes, und die Erwartungen,
-				die man von <persName ref="#verdi.giuseppe">Verdi</persName>, dem modernen
+				die man von <persName key="verdi.giuseppe">Verdi</persName>, dem modernen
 				Opernkomponisten, hegte, sind jedenfalls übertroffen worden. Es hat wohl Niemand in
-					<persName ref="#verdi.giuseppe">Verdi</persName> einen so gewandten
+					<persName key="verdi.giuseppe">Verdi</persName> einen so gewandten
 				Kontrapunktisten erwartet, als wie er sich in diesem Werke offenbart. Daß das <title
-					ref="#verdi.requiem">Requiem</title> nicht in dem Sinne kirchlich ist, wie es
+					key="verdi.requiem" type="mus">Requiem</title> nicht in dem Sinne kirchlich ist, wie es
 				unseren Anschauungen und Empfindungen entspricht, steht fest, und ist hier wohl
-					<persName ref="#mozart.wolfgang-amadeus">Mozart</persName> als der rechte
+					<persName key="mozart.wolfgang-amadeus">Mozart</persName> als der rechte
 				Interpret unserer Empfindungen zu betrachten; immerhin ist das Werk bedeutend, und
-				vorläufig als <persName ref="#verdi.giuseppe">Verdi’s</persName> vorzüglichstes
+				vorläufig als <persName key="verdi.giuseppe">Verdi’s</persName> vorzüglichstes
 				anzuerkennen. Die Faktur desselben ist fast durchweg vortrefflich; die
 				Instrumentation meisterhaft, und die sinnliche Klangwirkung oft von großer
 				Schönheit. Von vorzüglicher Wirkung war gleich das erste <title n="requiem-aeternam"
-					ref="#verdi.requiem.1">Requiem</title> und <title n="kyrie"
-					ref="#verdi.requiem.1">Kyrie</title>. Das <hi rend="antiqua"><title
-						ref="#verdi.requiem.2">Dies irae</title></hi> hat <persName
-					ref="#verdi.giuseppe">Verdi</persName> mit sehr starken Pinselstrichen
+					key="verdi.requiem.1" type="mus">Requiem</title> und <title n="kyrie"
+					key="verdi.requiem.1" type="mus">Kyrie</title>. Das <hi rend="antiqua"><title
+						key="verdi.requiem.2" type="mus">Dies irae</title></hi> hat <persName
+					key="verdi.giuseppe">Verdi</persName> mit sehr starken Pinselstrichen
 				gezeichnet, es sind darin sehr grelle Kontraste, die uns diese Nummer zu
 				theatralisch erscheinen lassen, sie ist jedoch von bedeutender Wirkung. Alle die
 				noch folgenden Nummern hatten interessante und fesselnde Züge, welche uns bis zum
 				Schluß, der noch besonders ansprechend war, in Spannung hielten. Dem <title
-					ref="#verdi.requiem">Requiem</title> ging ein <persName ref="#schubert.franz"
-					>Schubert’scher</persName>, von <persName ref="#liszt.franz">Liszt</persName>
-				instrumentirter <title ref="#schubert.trauermarsch">Trauermarsch</title> voraus. Wir
+					key="verdi.requiem" type="mus">Requiem</title> ging ein <persName key="schubert.franz"
+					>Schubert’scher</persName>, von <persName key="liszt.franz">Liszt</persName>
+				instrumentirter <title key="schubert.trauermarsch" type="mus">Trauermarsch</title> voraus. Wir
 				unterlassen nicht, der Intendanz und dem vortrefflichen Leiter des Ganzen für den
 				genußreichen Abend unsern wärmsten Dank auszusprechen.</p>
 			<gap resp="tr"/>

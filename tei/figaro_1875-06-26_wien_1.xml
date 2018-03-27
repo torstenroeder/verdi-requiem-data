@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#figaro" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="figaro" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-26"/>
 					<biblScope unit="issue">29</biblScope>
 					<biblScope unit="volume">19</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -47,11 +47,11 @@
 			<p rend="noIndent">
 				<l>Die Herz Jesu-Woche hätten wir gefahrlos überstanden,</l>
 				<l>Hier war wenig zu bemerken, daß Begeisterte sich fanden,</l>
-				<l>Bei dem <rs ref="#wien.1875" type="event"><title ref="#verdi.requiem"
-							>Requiem</title> von <persName ref="#verdi.giuseppe"
+				<l>Bei dem <rs key="wien.1875" type="event"><title key="verdi.requiem" type="mus"
+							>Requiem</title> von <persName key="verdi.giuseppe"
 						>Verdi</persName></rs> gab es viel mehr Entzückungstolle,</l>
 				<l>Einer Kirche fast vergleichbar war das Opernhaus, das volle,</l>
-				<l>Aber soll die <title ref="#verdi.requiem">Verdi-Messe</title> auch der Kirche
+				<l>Aber soll die <title key="verdi.requiem" type="mus">Verdi-Messe</title> auch der Kirche
 					Gunst erstreben,</l>
 				<l>Muß man die einmal zum Vortheil für den Peterspfennig geben.</l>
 				<l>Uebrigens entspricht’s der Lage, wenn zu Gunsten ihrer Kassen</l>

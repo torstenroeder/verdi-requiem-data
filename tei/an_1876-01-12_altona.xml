@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#altonaer-nachrichten" role="publisher"/>
-					<placeName ref="#altona"/>
+					<orgName key="altonaer-nachrichten" role="publisher"/>
+					<placeName key="altona"/>
 					<date when-custom="wed" when-iso="1876-01-12"/>
 					<biblScope unit="issue">9</biblScope>
 					<series>an</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#hamburg"/></creation>
+			<creation><placeName key="hamburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -41,48 +41,48 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" facs="#f1" n="6d" type="initial"/>
-			<head rend="larger"><placeName ref="#hamburg.stadt-theater"
+			<head rend="larger"><placeName key="hamburg.stadt-theater"
 				>Stadt-Theater</placeName></head>
-			<head>in <placeName ref="#hamburg">Hamburg</placeName>.</head>
-			<p rend="center"><rs ref="#hamburg.1876.2" type="event">
+			<head>in <placeName key="hamburg">Hamburg</placeName>.</head>
+			<p rend="center"><rs key="hamburg.1876.2" type="event">
 					<date when-iso="1876-01-12">Mittwoch, den 12. Januar</date> (4. Vorstellung mit
 					Aufgehobenem Abonnement.)</rs></p>
 			<p rend="center"><hi rend="bold">Zum Besten des Orchesterpersonals.</hi></p>
 			<p rend="center">Zum zweiten Male:<lb break="yes"/><hi
-					rend="widespace bold antiqua larger"><title ref="#verdi.requiem"
-					>Requiem</title></hi><lb break="yes"/>von <persName ref="#verdi.giuseppe"
+					rend="widespace bold antiqua larger"><title key="verdi.requiem" type="mus"
+					>Requiem</title></hi><lb break="yes"/>von <persName key="verdi.giuseppe"
 						><sic>Guiseppe</sic> Verdi</persName>.<lb break="yes"/>(Zum Todestage
-					<persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>
+					<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>
 				componirt.)</p>
-			<p><hi rend="widespace">Soli</hi>: Frl. <hi rend="bold"><persName ref="#froehlich.xxx"
+			<p><hi rend="widespace">Soli</hi>: Frl. <hi rend="bold"><persName key="froehlich.xxx"
 						role="soloist.soprano">Fröhlich</persName></hi> (Sopran), Frl. <hi
-					rend="bold"><persName ref="#boree.minna" role="soloist.mezzo">Bor<hi
+					rend="bold"><persName key="boree.minna" role="soloist.mezzo">Bor<hi
 							rend="antiqua">é</hi>e</persName></hi> (Mezzo-Sopran), Hr. <hi
-					rend="bold"><persName ref="#candidus.william" role="soloist.tenor"
+					rend="bold"><persName key="candidus.william" role="soloist.tenor"
 						>Candidus</persName></hi> (Tenor), Hr. <hi rend="bold"><persName
-						ref="#koegel.josef" role="soloist.basso">Kögel</persName></hi> (Baß).</p>
+						key="koegel.josef" role="soloist.basso">Kögel</persName></hi> (Baß).</p>
 			<p><hi rend="widespace">Chor</hi>: 120 Mitwirkende.</p>
 			<p><hi rend="widespace">Instrumentale</hi>: Das auf 72 Musiker verstärkte Orchester des
 				Stadttheaters.</p>
 			<p><hi rend="widespace">Dirigent</hi>: Herr Capellmeister <hi rend="antiqua"><persName
-						ref="#fuchs.johann-nepomuk">Fuchs</persName></hi>.</p>
-			<p>Vorher: 1) <title ref="#weber.euryanthe.ouvertuere">Ouverture aus <hi rend="bold"
-						>Euryanthe</hi></title>, von <persName ref="#weber.carl-maria-von"
+						key="fuchs.johann-nepomuk">Fuchs</persName></hi>.</p>
+			<p>Vorher: 1) <title key="weber.euryanthe.ouvertuere" type="mus">Ouverture aus <hi rend="bold"
+						>Euryanthe</hi></title>, von <persName key="weber.carl-maria-von"
 					role="composer">C. M. von Weber </persName>. 2) <title
-					ref="#hiller.die-zerstoerung-jerusalems">Duett aus: <hi rend="bold">Die
-						Zerstörung Jerusalems</hi></title> von <persName ref="#hiller.ferdinand"
+					key="hiller.die-zerstoerung-jerusalems" type="mus">Duett aus: <hi rend="bold">Die
+						Zerstörung Jerusalems</hi></title> von <persName key="hiller.ferdinand"
 					role="composer">Hiller</persName>. (Ach wär mein Haupt eine Wasserquelle,
-				gesungen von Frl. <persName ref="#boree.minna" role="soloist">Bor<hi rend="antiqua"
-						>é</hi>e</persName> u. Herrn <persName ref="#mathias.xxx" role="soloist"
-					>Mathias</persName>.) 3) <title ref="#schumann.ritornelle-in-canonischen-weisen"
+				gesungen von Frl. <persName key="boree.minna" role="soloist">Bor<hi rend="antiqua"
+						>é</hi>e</persName> u. Herrn <persName key="mathias.xxx" role="soloist"
+					>Mathias</persName>.) 3) <title key="schumann.ritornelle-in-canonischen-weisen" type="mus"
 						><hi rend="bold">Drei Ritornelle,</hi> für mehrstimmigen
-					Männergesang</title>, v. <persName ref="#schumann.robert" role="composer"
+					Männergesang</title>, v. <persName key="schumann.robert" role="composer"
 					>Schumann</persName>
 				<gap resp="tr"/>. 4) Duett aus dem 3. Theil: <hi rend="bold"><title
-						ref="#haydn.die-schoepfung">Die Schöpfung</title></hi>, von <persName
-					ref="#haydn.joseph">Haydn</persName>, gesungen von Fr. <persName
-					ref="#otto-alvsleben.melitta" role="soloist">Otto-Alvsleben</persName> (Eva) und
-				Herrn <persName ref="#krueckl.franz" role="soloist">Krückl</persName> (Adam).</p>
+						key="haydn.die-schoepfung" type="mus">Die Schöpfung</title></hi>, von <persName
+					key="haydn.joseph">Haydn</persName>, gesungen von Fr. <persName
+					key="otto-alvsleben.melitta" role="soloist">Otto-Alvsleben</persName> (Eva) und
+				Herrn <persName key="krueckl.franz" role="soloist">Krückl</persName> (Adam).</p>
 			<p rend="center">Große Preise. Anfang 7 Uhr.</p>
 		</body>
 	</text>

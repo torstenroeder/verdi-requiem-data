@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#le-monde-illustre" role="publisher"/>
-					<placeName ref="#paris"/>
+					<orgName key="le-monde-illustre" role="publisher"/>
+					<placeName key="paris"/>
 					<date when-iso="1874-06-20"/>
 					<biblScope unit="issue">897</biblScope>
 					<biblScope unit="volume">18</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#mailand"/></creation>
+			<creation><placeName key="mailand"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Illustration</term>
@@ -44,10 +44,10 @@
 				<graphic url="mi_1874-06-20_381.png"/>
 				<desc>La messe de Verdi a l’Opéra comique</desc>
 			</figure>
-			<p><rs ref="#paris.1874" type="event">LA <title ref="#verdi.requiem">MESSE</title> DE
-						<persName ref="#verdi.giuseppe">VERDI</persName> A <placeName
-						ref="#paris.opera-comique">L’OPÉRA COMIQUE</placeName>.</rs> Le maestro
-				dirigeant l’orchestre. — (Dessin de M. <persName ref="#morin.edmont">Edmond
+			<p><rs key="paris.1874" type="event">LA <title key="verdi.requiem" type="mus">MESSE</title> DE
+						<persName key="verdi.giuseppe">VERDI</persName> A <placeName
+						key="paris.opera-comique">L’OPÉRA COMIQUE</placeName>.</rs> Le maestro
+				dirigeant l’orchestre. — (Dessin de M. <persName key="morin.edmont">Edmond
 					Morin</persName>.) — Voir la <hi rend="italic">Chronique musicale</hi>, p.
 				387.</p>
 		</body>

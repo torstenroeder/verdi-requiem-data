@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#morgen-post">Morgen-Post</orgName>
-					<placeName ref="#wien"/>
+					<orgName key="morgen-post">Morgen-Post</orgName>
+					<placeName key="wien"/>
 					<date when-custom="sat" when-iso="1875-09-25"/>
 					<biblScope unit="issue">266</biblScope>
 					<biblScope unit="volume">25</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#florenz"/></creation>
+			<creation><placeName key="florenz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -41,19 +41,19 @@
 			<head rend="larger">Theater, Kunst und Literatur.</head>
 			<cb break="null" n="4c" type="skipped"/>
 			<p><g n="002A" type="ASTERISK">*</g>
-				<rs ref="#florenz.1875.1" type="event">Wie der „<orgName ref="#gazzetta-di-venezia"
+				<rs key="florenz.1875.1" type="event">Wie der „<orgName key="gazzetta-di-venezia"
 						>Gazzetta di Venezia</orgName>“ unterm <date when-iso="1875-09-19">19. d.
-						M.</date> aus <hi rend="widespace"><placeName ref="#florenz"
+						M.</date> aus <hi rend="widespace"><placeName key="florenz"
 							>Florenz</placeName></hi> gemeldet wird, ist an diesem Tage am dortigen
-					Theater „<placeName ref="#florenz.teatro-principe-umberto">Principe
-						Umberto</placeName>“ <persName ref="#verdi.giuseppe"><hi rend="widespace"
+					Theater „<placeName key="florenz.teatro-principe-umberto">Principe
+						Umberto</placeName>“ <persName key="verdi.giuseppe"><hi rend="widespace"
 							>Verdi</hi>’s</persName> schon längst angekündigte „<title
-						ref="#verdi.requiem">Messa Requiem</title>“ in Gegenwart von mehr als
+						key="verdi.requiem" type="mus">Messa Requiem</title>“ in Gegenwart von mehr als
 					zweitausend Zuhörern zur Aufführung gelangt</rs> und war der Erfolg, wie es sich
 				leicht voraussehen ließ, ein glänzender. Das „<hi rend="widespace"><title
-						ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>“, das „<hi
-					rend="widespace"><title ref="#verdi.requiem.4">Sanctus</title></hi>“ und das
-					„<hi rend="widespace"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>“
+						key="verdi.requiem.2.tuba-mirum" type="mus">Tuba mirum</title></hi>“, das „<hi
+					rend="widespace"><title key="verdi.requiem.4" type="mus">Sanctus</title></hi>“ und das
+					„<hi rend="widespace"><title key="verdi.requiem.5" type="mus">Agnus Dei</title></hi>“
 				mußten auf allgemeines Verlangen wiederholt werden.</p>
 		</body>
 	</text>

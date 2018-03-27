@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-07-28"/>
 					<biblScope unit="issue">31</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#hamburg"/><date when-iso="1876-07"/></creation>
+			<creation><placeName key="hamburg"/><date when-iso="1876-07"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -49,21 +49,21 @@
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<pb break="null" facs="#f1" n="415" type="initial"/>
-			<p><hi rend="bold"><placeName ref="#hamburg">Hamburg</placeName>,</hi>
+			<p><hi rend="bold"><placeName key="hamburg">Hamburg</placeName>,</hi>
 				<date when-iso="1876-07">Juli 1876</date>. Nachgerade wirds wirklich einmal Zeit,
 				dass ich mein Ihnen, geehrter Herr Redacteur, gegebenes Versprechen: über die
 				hiesigen musikalischen Vorkommnisse des <pb break="yes" facs="#f2" n="416"
 					type="regular"/>verganenen Winters Etwas zu berichten, zur Wahrheit mache.
 				Ueberblickt man zuerst die Leistungen der Oper, so kann man der Direction <persName
-					ref="#pollini.bernhard">Pollini</persName> nur Dank sagen, dem Publicum die
+					key="pollini.bernhard">Pollini</persName> nur Dank sagen, dem Publicum die
 				Bekanntschaft mancher interessanten Novität verschafft zu haben <gap resp="tr"/>
-				<persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.aida">Aïda</title> gefiel derartig, dass sie eine richtige
+				<persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.aida" type="mus">Aïda</title> gefiel derartig, dass sie eine richtige
 				Repertoireoper zu werden verspricht. In der That, des Bewunders ist kein Ende über
 				den musikalischen Umschwung bei dem Italiener, der uns ausser in seiner <title
-					ref="#verdi.aida">Aïda</title> auch in dem „<title ref="#verdi.requiem"
-					>Requiem</title>“ zur erbaulichsten Betrachtung zwingt. <rs ref="#hamburg.1876"
-					type="event">Fünf Mal wurde das „<title ref="#verdi.requiem">Requiem</title>“
+					key="verdi.aida" type="mus">Aïda</title> auch in dem „<title key="verdi.requiem" type="mus"
+					>Requiem</title>“ zur erbaulichsten Betrachtung zwingt. <rs key="hamburg.1876"
+					type="event">Fünf Mal wurde das „<title key="verdi.requiem" type="mus">Requiem</title>“
 					unter stets wachsender Begeisterung der Zuhörerschaft aufgeführt.</rs>
 				<gap resp="tr"/></p>
 		</body>

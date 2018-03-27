@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#berliner-boersen-zeitung" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="berliner-boersen-zeitung" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-custom="sat" when-iso="1876-03-11"/>
 					<biblScope unit="issue">119</biblScope>
 					<biblScope unit="subIssue">119</biblScope>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#berlin"/></creation>
+			<creation><placeName key="berlin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,59 +42,59 @@
 		<body rend="fraktur">
 			<pb break="null" facs="#f1" n="1" type="initial"/>
 			<head rend="larger bold">Politische Nachrichten.</head>
-			<p rend="center"><hi rend="bold"><placeName ref="#berlin">Berlin</placeName>,</hi>
+			<p rend="center"><hi rend="bold"><placeName key="berlin">Berlin</placeName>,</hi>
 				<date when-iso="1876-03-11">11. März</date>.</p>
 			<p><cb break="yes" n="1b" type="skipped"/> Bei der am <rs
-					ref="#berlin.1876-hofconcerte.1" type="event"><date when-iso="1876-03-09"
-						>Donnerstag</date> Abend im <placeName ref="#berlin.kronprinzenpalais"
+					key="berlin.1876-hofconcerte.1" type="event"><date when-iso="1876-03-09"
+						>Donnerstag</date> Abend im <placeName key="berlin.kronprinzenpalais"
 						>Königlichen Palais</placeName> stattgehabten musikalischen
 					Abendunterhaltung</rs> gelangte unter Leitung des Ober-Capellmeisters <persName
-					ref="#taubert.wilhelm">Taubert</persName> nachfolgendes Programm zur Aufführung:
-				1. <hi rend="antiqua"><title ref="#verdi.requiem.7">Libera me</title></hi> und <hi
-					rend="antiqua"><title ref="#verdi.requiem.5">Agnus dei</title></hi> aus dem
-					<title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
-					>Verdi</persName> gesungen von Frau <persName ref="#artot-de-padilla.desiree"
-					>Artôt de Padilla</persName> und Frl. <persName ref="#lehmann.lilli"
-					>Lehmann</persName> und den Herren <persName ref="#bossi.xxx">Bossi</persName>
-				und <persName ref="#ernst.heinrich">Ernst</persName>, 2. <hi rend="antiqua">a)
-						<title ref="#scarlatti.allegro">Allegro</title>, b) <title
-						ref="#chopin.nocturne">Nocturne</title>, c) <title
-						ref="#liszt.au-bord-d-une-source">Au bord d’une source</title></hi> für
-				Piano von <persName ref="#scarlatti.alessandro">Scarlatti</persName>, <persName
-					ref="#chopin.frederic">Chopin</persName> und <persName ref="#liszt.franz"
-					>Liszt</persName>, vorgetragen von Herrn <persName ref="#pinner.max"
-					>Pinner</persName>, 3. <hi rend="antiqua">a) <title ref="#l-adieu">L’adieu (Air
+					key="taubert.wilhelm">Taubert</persName> nachfolgendes Programm zur Aufführung:
+				1. <hi rend="antiqua"><title key="verdi.requiem.7" type="mus">Libera me</title></hi> und <hi
+					rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus dei</title></hi> aus dem
+					<title key="verdi.requiem" type="mus">Requiem</title> von <persName key="verdi.giuseppe"
+					>Verdi</persName> gesungen von Frau <persName key="artot-de-padilla.desiree"
+					>Artôt de Padilla</persName> und Frl. <persName key="lehmann.lilli"
+					>Lehmann</persName> und den Herren <persName key="bossi.xxx">Bossi</persName>
+				und <persName key="ernst.heinrich">Ernst</persName>, 2. <hi rend="antiqua">a)
+						<title key="scarlatti.allegro" type="mus">Allegro</title>, b) <title
+						key="chopin.nocturne" type="mus">Nocturne</title>, c) <title
+						key="liszt.au-bord-d-une-source" type="mus">Au bord d’une source</title></hi> für
+				Piano von <persName key="scarlatti.alessandro">Scarlatti</persName>, <persName
+					key="chopin.frederic">Chopin</persName> und <persName key="liszt.franz"
+					>Liszt</persName>, vorgetragen von Herrn <persName key="pinner.max"
+					>Pinner</persName>, 3. <hi rend="antiqua">a) <title key="l-adieu" type="mus">L’adieu (Air
 						béarnois)</title></hi> und <hi rend="antiqua">b) <title
-						ref="#gounod.ho-messo-nuove-corde-al-mandolino">Il mandolino</title></hi>
-				von <persName ref="#gounod.charles">Gounod</persName>, gesungen von Frau <persName
-					ref="#artot-de-padilla.desiree">Artôt</persName>, 4. <hi rend="antiqua">a)</hi>
-				<title ref="#hauser.lieder-ohne-worte">Liebeslied — Wiegenlied</title> und <hi
+						key="gounod.ho-messo-nuove-corde-al-mandolino" type="mus">Il mandolino</title></hi>
+				von <persName key="gounod.charles">Gounod</persName>, gesungen von Frau <persName
+					key="artot-de-padilla.desiree">Artôt</persName>, 4. <hi rend="antiqua">a)</hi>
+				<title key="hauser.lieder-ohne-worte" type="mus">Liebeslied — Wiegenlied</title> und <hi
 					rend="antiqua">b)</hi>
-				<title ref="#hauser.ungarische-rhapsodie">Ungarische Rhapsodie</title> von <persName
-					ref="#hauser.miska">Hauser</persName>, vorgetragen von Herrn <persName
-					ref="#hauser.miska">Miska Hauser</persName>, 5. Arie aus „<title
-					ref="#mozart.don-giovanni">Don Juan</title>“ von <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName>, gesungen von Herrn <persName
-					ref="#bossi.xxx">Bossi</persName>, 6. Duett aus „<title ref="#rossini.zelmira"
-					>Zelmire</title>“ von <persName ref="#rossini.gioachino">Rossini</persName>,
-				gesungen von Frau <persName ref="#artot-de-padilla.desiree">Artôt</persName> und
-				Herrn <persName ref="#bossi.xxx">Bossi</persName>, 7. „<title
-					ref="#godefroid.thautropfen">Thautropfen</title>“, Harfensolo von <persName
-					ref="#godefroid.felix">Godefroid</persName>, vorgetragen von Herrn <persName
-					ref="#hummel.ferdinand">Hummel</persName>, 8. <hi rend="antiqua">a) <title
-						ref="#garat.la-fileuse">La fileuse (Air Basque)</title></hi> von <persName
-					ref="#garat.pierre-jean">Garat</persName> und <hi rend="antiqua">b) <title
-						ref="#ni-jamais-ni-toujours">Ni jamais, ni toujours</title>,</hi> gesungen
-				von Frl. <persName ref="#lehmann.lilli">Lehmann</persName> und Frau <persName
-					ref="#artot-de-padilla.desiree">Artôt</persName>, 9. <title
-					ref="#thalberg.fantaisie-sur-l-opera-lucrezia-borgia">Fantasie über „Lucrezia
-					Borgia“</title>, vorgetragen von Herrn <persName ref="#hauser.miska"
+				<title key="hauser.ungarische-rhapsodie" type="mus">Ungarische Rhapsodie</title> von <persName
+					key="hauser.miska">Hauser</persName>, vorgetragen von Herrn <persName
+					key="hauser.miska">Miska Hauser</persName>, 5. Arie aus „<title
+					key="mozart.don-giovanni" type="mus">Don Juan</title>“ von <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName>, gesungen von Herrn <persName
+					key="bossi.xxx">Bossi</persName>, 6. Duett aus „<title key="rossini.zelmira" type="mus"
+					>Zelmire</title>“ von <persName key="rossini.gioachino">Rossini</persName>,
+				gesungen von Frau <persName key="artot-de-padilla.desiree">Artôt</persName> und
+				Herrn <persName key="bossi.xxx">Bossi</persName>, 7. „<title
+					key="godefroid.thautropfen" type="mus">Thautropfen</title>“, Harfensolo von <persName
+					key="godefroid.felix">Godefroid</persName>, vorgetragen von Herrn <persName
+					key="hummel.ferdinand">Hummel</persName>, 8. <hi rend="antiqua">a) <title
+						key="garat.la-fileuse" type="mus">La fileuse (Air Basque)</title></hi> von <persName
+					key="garat.pierre-jean">Garat</persName> und <hi rend="antiqua">b) <title
+						key="ni-jamais-ni-toujours" type="mus">Ni jamais, ni toujours</title>,</hi> gesungen
+				von Frl. <persName key="lehmann.lilli">Lehmann</persName> und Frau <persName
+					key="artot-de-padilla.desiree">Artôt</persName>, 9. <title
+					key="thalberg.fantaisie-sur-l-opera-lucrezia-borgia" type="mus">Fantasie über „Lucrezia
+					Borgia“</title>, vorgetragen von Herrn <persName key="hauser.miska"
 					>Hauser</persName> und 10<supplied resp="tr">.</supplied>
-				<hi rend="antiqua">a) <title ref="#massenet.nuit-d-espagne">Nuit
-					d’Espagne</title></hi> von <persName ref="#massenet.jules">Massenet</persName>
-				und <hi rend="antiqua">b) <title ref="#yradier.la-calesera">La Calesera</title></hi>
-				von <persName ref="#yradier.sebastian-de">Yradier</persName>, gesungen von Frau
-					<persName ref="#artot-de-padilla.desiree">Artôt</persName>. Diese Festlichkeit,
+				<hi rend="antiqua">a) <title key="massenet.nuit-d-espagne" type="mus">Nuit
+					d’Espagne</title></hi> von <persName key="massenet.jules">Massenet</persName>
+				und <hi rend="antiqua">b) <title key="yradier.la-calesera" type="mus">La Calesera</title></hi>
+				von <persName key="yradier.sebastian-de">Yradier</persName>, gesungen von Frau
+					<persName key="artot-de-padilla.desiree">Artôt</persName>. Diese Festlichkeit,
 				zu der etwa 160 Einladungen ergangen waren, erreichte erst nach 12 Uhr ihr Ende. —
 					<gap resp="tr"/></p>
 		</body>

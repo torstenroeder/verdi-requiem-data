@@ -3,7 +3,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>AmZ, Leipzig, 21. Juli 1875 (= Hamburger Nachr., 27.6.)</title>
+				<title>AmZ, Leipzig, 21. Juli 1875</title>
+				<title>aus: Hamburger Nachr., 27.6.</title>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -12,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#amz" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="amz" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1875-07-21"/>
 					<biblScope unit="issue">29</biblScope>
 					<biblScope unit="volume">10</biblScope>
@@ -23,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -43,32 +44,32 @@
 		<body rend="antiqua">
 			<cb break="null" facs="#f1" n="461" type="initial"/>
 			<head rend="bold larger egypt">Berichte. Nachrichten und Bemerkungen.</head>
-			<p><hi rend="bold">* <placeName ref="#wien">Wien</placeName>.</hi> Angenehmeren Verlauf,
+			<p><hi rend="bold">* <placeName key="wien">Wien</placeName>.</hi> Angenehmeren Verlauf,
 				als die der eigentlichen Saison, nahmen die Kunstverhältnisse der Nachsaison. Des
 				Hangens und Bangens war es aber auch genug gewesen und gefestigte Verhältnisse waren
 				dringend am Platze. Vor allem triumphirte der neue Geist, der merkwürdiger Weise
-				seit dem Abtritte des alten Directors <persName ref="#herbeck.johann-von"
-					>Herbeck</persName> im <placeName ref="#wien.hof-operntheater"
+				seit dem Abtritte des alten Directors <persName key="herbeck.johann-von"
+					>Herbeck</persName> im <placeName key="wien.hof-operntheater"
 					>Operntheater</placeName> herrscht. Es gab viel Nasenrümpfen und Kopfschütteln
-				auf die blosse Kunde hin, dass <persName ref="#jauner.franz-von">Jauner</persName>
+				auf die blosse Kunde hin, dass <persName key="jauner.franz-von">Jauner</persName>
 				auf den freigegebenen Directorenstuhl gehoben werden solle, und der gewichtigsten
-				Gründe einer war der, dass <persName ref="#jauner.franz-von">Jauner</persName>
+				Gründe einer war der, dass <persName key="jauner.franz-von">Jauner</persName>
 				selbst nur mit grosser Reserve von seinem musikalischen Wissen zu sprechen wagte.
 				Man prophezeite einen Rückgang der an diesem Institute hangenden Kunstinteressen —
 				obschon dies nach dem ungeschickten Regiment des früheren Directors kaum mehr
 				möglich war; — doch siehe da, statt dessen entwickelte der neue Director eine
 				Vielseitigkeit, die, von einigem Glück begünstigt, unserem Hofoperntheater eine
 				glanzvolle Zukunft in Aussicht stellt. Der denkbar glücklichste Griff, den der neue
-				Director gethan, war die Acquirirung der <rs ref="#wien.1875" type="event"><persName
-						ref="#verdi.giuseppe">Verdi’schen</persName>
-					<title ref="#verdi.requiem">Manzoni-Messe</title>, deren viermalige
+				Director gethan, war die Acquirirung der <rs key="wien.1875" type="event"><persName
+						key="verdi.giuseppe">Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Manzoni-Messe</title>, deren viermalige
 					Aufführung</rs> im Vereine mit den unter der Leitung des Componisten
-				vorgenommenen Reprisen der Oper <title ref="#verdi.aida">Aïda</title> der Casse eine
+				vorgenommenen Reprisen der Oper <title key="verdi.aida" type="mus">Aïda</title> der Casse eine
 				Einnahme von 40,000 Gulden brachte. Ganz apparte Erscheinungen auf dem Gebiete der
 				künstlerischen Vollendung sind die beiden mit dem Componisten hier zu Gaste
-				weilenden Damen <persName ref="#stolz.teresa">Stolz</persName> und <persName
-					ref="#waldmann.maria">Waldmann</persName>. Wer da weiss, wie schwer es
-				angehenden Sängerinnen wird, in <placeName ref="#italien">Italien</placeName>
+				weilenden Damen <persName key="stolz.teresa">Stolz</persName> und <persName
+					key="waldmann.maria">Waldmann</persName>. Wer da weiss, wie schwer es
+				angehenden Sängerinnen wird, in <placeName key="italien">Italien</placeName>
 				Carrière machen, wer da die vielen heimlichen und offenen Feinde kennt, die dort
 				junge, <cb break="yes" n="462" type="regular"/>aufstrebende Talente belauern und
 				bekämpfen, wird zugeben müssen, dass die genannten Damen, welche Beide
@@ -77,10 +78,10 @@
 				mussten, um jene Habe erreichen zu können, welche sie jetzt, allen gefeierten
 				Sängerinnen voraus, zu Königinnen des Gesanges stempelt. Und solch’ ein
 				aussergewöhnlicher Glücksumstand war gewiss die Protection des Componisten <persName
-					ref="#verdi.giuseppe">Verdi</persName>, dessen Freundschaft ersichtlich von
+					key="verdi.giuseppe">Verdi</persName>, dessen Freundschaft ersichtlich von
 				weniger stimmenmörderischen Folgen begleitet ist, als dies bei den Schützlingen
-					<persName ref="#wagner.richard">Wagner’s</persName> der Fall zu sein pflegt.
-					<placeName ref="#italien">Italien</placeName> hat lange aufgehört, Sangesgrössen
+					<persName key="wagner.richard">Wagner’s</persName> der Fall zu sein pflegt.
+					<placeName key="italien">Italien</placeName> hat lange aufgehört, Sangesgrössen
 				zu zeugen und nirgends werden so wenige Sänger zu Künstlern herangebildet, wie in
 				jenem Lande. Die vornehmsten Ursachen dieser Erscheinung sind zuerst in der
 				Ungezogenheit eines Theiles des italienischen Theaterpublikums zu suchen, das neben
@@ -89,33 +90,33 @@
 				italienischen Theaterdirectoren ihre Stellung auszubeuten weiss. Eine angehende
 				Sängerin ohne eigenes, dem Director zur Verfügung gestelltes Vermögen, oder einen
 				»Protector«, der für sie die Kosten der ersten Engagementsjahre trägt — während
-				welcher sie keine Gage bezieht — ist in <placeName ref="#italien"
+				welcher sie keine Gage bezieht — ist in <placeName key="italien"
 					>Italien</placeName> ein Ding der Unmöglichkeit. Dafür kann die Sängerin, wenn
 				sie sich der gebührenden Unterstützung erfreut, sich in einem Jahre an allen ihr nur
 				beliebigen Rollen zu Tode schreien oder ihre Stimme an die halsbrecherischsten
 				Evolutionen setzen, ohne dass sie von Seite ihres Impressarios oder Kapellmeisters
-				auf irgend welchen Widerstand stösst. So ist <placeName ref="#italien"
+				auf irgend welchen Widerstand stösst. So ist <placeName key="italien"
 					>Italien</placeName>, ehemals die Wiege des Gesanges, zum Loreleyfels des
 				Sängerthums geworden, an dem alljährlich eine Anzahl Verblendeter ein trauriges Ende
 				findet. Um so höher freilich geht die Freude, wenn man ein paar Geretteter ansichtig
 				wird, zumal solcher, wie sie unsere Landsmänninnen sind, die übrigens um ihrer
 				deutschen Namen willen, die sie nicht italienisiren gewollt, von den Italienern —
-				wie ich gelegentlich der ersten <title ref="#verdi.aida">Aïda</title>-Aufführung im
-					<placeName ref="#neapel.teatro-san-carlo">San Carlo-Theater</placeName> zu
-					<placeName ref="#neapel">Neapel</placeName> selbst gesehen — noch manche
+				wie ich gelegentlich der ersten <title key="verdi.aida" type="mus">Aïda</title>-Aufführung im
+					<placeName key="neapel.teatro-san-carlo">San Carlo-Theater</placeName> zu
+					<placeName key="neapel">Neapel</placeName> selbst gesehen — noch manche
 				Kränkung zu erdulden haben. (Indem wir diese den <orgName
-					ref="#hamburger-nachrichten">Hamb. Nachr.</orgName><note resp="tr"
+					key="hamburger-nachrichten">Hamb. Nachr.</orgName><note resp="tr"
 					type="textLink">Vgl. <ref
 						target="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000126342946"
 						type="text">Hamburger Nachrichten, 27. Juni 1875, S. 1–2</ref>.</note>
 				entlehnten Mittheilungen hier reproduciren, fällt uns natürlich nicht ein, damit die
 				Urtheile dieser und ähnlicher Correspondenzen zu den unserigen zu machen: sie sollen
 				hier lediglich als Stimme »aus der Gesellschaft« gelten. Herrn <persName
-					ref="#jauner.franz-von">Jauner</persName> zu loben, weil ein baarer Unsinn, die
-				Aufführung eines trivialen <title ref="#verdi.requiem">Requiems</title> im
-					<placeName ref="#wien.hof-operntheater">kaiserl. Hofoperntheater</placeName>,
+					key="jauner.franz-von">Jauner</persName> zu loben, weil ein baarer Unsinn, die
+				Aufführung eines trivialen <title key="verdi.requiem" type="mus">Requiems</title> im
+					<placeName key="wien.hof-operntheater">kaiserl. Hofoperntheater</placeName>,
 				viel Geld eingetragen hat, liegt uns eben so fern‚ als auf den alten Director
-					<persName ref="#herbeck.johann-von">Herbeck</persName> einen Stein zu werfen,
+					<persName key="herbeck.johann-von">Herbeck</persName> einen Stein zu werfen,
 				jetzt wo er in den Augen der Gesellschaft ein todter Mann ist. Die Operntheater
 				gehören heute mehr als je zu den unberechenbaren Dingen, und man thut gut, sie nicht
 				gar zu ernst zu nehmen.)</p>

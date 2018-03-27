@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#dresdner-nachrichten" role="publisher"/>
-					<placeName ref="#dresden"/>
+					<orgName key="dresdner-nachrichten" role="publisher"/>
+					<placeName key="dresden"/>
 					<date when-custom="thu" when-iso="1876-01-06"/>
 					<biblScope unit="issue">6</biblScope>
 					<biblScope unit="volume">21</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#dresden"/></creation>
+			<creation><placeName key="dresden"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -40,8 +40,8 @@
 			<head rend="larger">Feuilleton.</head>
 			<gap resp="tr"/>
 			<p><g n="2020" type="DAGGER">†</g> Die Proben zu <hi rend="widespace"><persName
-						ref="#verdi.giuseppe">Verdi’s</persName></hi> schönem <title
-					ref="#verdi.requiem">Requiem</title> sind in vollem Gange. Von einer
+						key="verdi.giuseppe">Verdi’s</persName></hi> schönem <title
+					key="verdi.requiem" type="mus">Requiem</title> sind in vollem Gange. Von einer
 				Orchesteraufstellung auf der Bühne wird wohl Abstand genommen werden, um für die
 				Chorstimmen eine vollere Wirkung zu erzielen. Das Orchester klingt an seinem
 				gewohnten Ort gut und wenn man ein nicht zu tiefes, möglichst geschlossenes Zimmer
@@ -49,7 +49,7 @@
 				entsprechend einfach und ernst decoriren kann, so ist unserer Meinung nach die Frage
 				am praktischsten gelöst. Eine für die Stimmen ganz geeignete <hi rend="widespace"
 					>völlig geschlossene</hi> Saaldecoration besitzt das <placeName
-					ref="#dresden.hoftheater">Interimstheater</placeName> nicht.</p>
+					key="dresden.hoftheater">Interimstheater</placeName> nicht.</p>
 		</body>
 	</text>
 </TEI>

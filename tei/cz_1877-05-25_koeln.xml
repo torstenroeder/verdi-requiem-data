@@ -3,7 +3,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Coburger Zeitung, 25. Mai 1877 (= Kölnische Ztg., 22.5.)</title>
+				<title>Coburger Zeitung, 25. Mai 1877</title>
+				<title corresp="kz_1877-05-22_koeln.xml">aus: Kölnische Ztg., 22.5.</title>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -12,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#coburger-zeitung" role="publisher"/>
-					<placeName ref="#coburg"/>
+					<orgName key="coburger-zeitung" role="publisher"/>
+					<placeName key="coburg"/>
 					<date when-custom="fri" when-iso="1877-05-25"/>
 					<biblScope unit="issue">119</biblScope>
 					<biblScope unit="volume">17</biblScope>
@@ -23,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koeln"/></creation>
+			<creation><placeName key="koeln"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,68 +43,68 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p>— <rs ref="#koeln.1877.musikfest.2" type="event"><hi rend="widespace"><placeName
-							ref="#koeln">Köln</placeName></hi>, <date>22. Mai</date>. <hi
-						rend="widespace"><persName ref="#verdi.giuseppe">Giuseppe
+			<p>— <rs key="koeln.1877.musikfest.2" type="event"><hi rend="widespace"><placeName
+							key="koeln">Köln</placeName></hi>, <date>22. Mai</date>. <hi
+						rend="widespace"><persName key="verdi.giuseppe">Giuseppe
 						Verdi</persName></hi>, ein schlanker, mittelgroßer und bereits graubärtiger
 					Mann von bescheidenem, freundlichen Gesichtsausdruck, aber feurigen Augen, die
 					namentlich Orchester und Sängern gegenüber eine sehr beredte Sprache führen, war
 					in diesen Tagen von seinem Winteraufenthalt <supplied resp="tr">in</supplied>
-					<placeName ref="#genua">Genua</placeName> zu uns an den Rhein gekommen, um beim
+					<placeName key="genua">Genua</placeName> zu uns an den Rhein gekommen, um beim
 					54. niederrheinischen Musikfest sein „<hi rend="widespace"><title
-							ref="#verdi.requiem">Requiem</title></hi>“ zu dirigiren.</rs>
-				<persName ref="#verdi.giuseppe">Verdi</persName> steht im 63. Lebensjahr. Er wurde
-				am <date when-iso="1913-10-09">9. October <choice>
+							key="verdi.requiem" type="mus">Requiem</title></hi>“ zu dirigiren.</rs>
+				<persName key="verdi.giuseppe">Verdi</persName> steht im 63. Lebensjahr. Er wurde am
+					<date when-iso="1913-10-09">9. October <choice>
 						<orig>1914</orig>
 						<corr resp="tr">1913</corr>
 					</choice></date> in einem Dorfe des ehemaligen Herzogthums <placeName
-					ref="#parma">Parma</placeName>, in <placeName ref="#busseto"
-				>Busseto</placeName>, als Sohn eines Wirthes geboren. Den ersten Musikunterricht
-				erhielt er von dem Organisten seines Dorfes, bis endlich der Lehrer seinem Schüler
-				nichts mehr beizubringen wußte, im Gegentheil von diesem überflügelt wurde. Man
-				wurde auf das Talent aufmerksam, und es fand sich ein Gönner, der den jungen
-					<persName ref="#verdi.giuseppe">Verdi</persName> zur weiteren Ausbildung nach
-					<placeName ref="#mailand">Mailand</placeName> schickte. Hier studierte er eifrig
-				von <date from-iso="1833" to-iso="1836">1833-36</date> unter Anleitung des
-				Capellmeisters der <placeName ref="#mailand.teatro-alla-scala">Scala</placeName>. In
-				der <placeName ref="#mailand.teatro-alla-scala">Scala</placeName> wurde auch <date
+					key="parma">Parma</placeName>, in <placeName key="busseto">Busseto</placeName>,
+				als Sohn eines Wirthes geboren. Den ersten Musikunterricht erhielt er von dem
+				Organisten seines Dorfes, bis endlich der Lehrer seinem Schüler nichts mehr
+				beizubringen wußte, im Gegentheil von diesem überflügelt wurde. Man wurde auf das
+				Talent aufmerksam, und es fand sich ein Gönner, der den jungen <persName
+					key="verdi.giuseppe">Verdi</persName> zur weiteren Ausbildung nach <placeName
+					key="mailand">Mailand</placeName> schickte. Hier studierte er eifrig von <date
+					from-iso="1833" to-iso="1836">1833-36</date> unter Anleitung des Capellmeisters
+				der <placeName key="mailand.teatro-alla-scala">Scala</placeName>. In der <placeName
+					key="mailand.teatro-alla-scala">Scala</placeName> wurde auch <date
 					when-iso="1839">1839</date> seine erste Oper aufgeführt: <title
-					ref="#verdi.oberto">Oberto di San Bonifazio</title>. Es war ein glückliches
+					key="verdi.oberto" type="mus">Oberto di San Bonifazio</title>. Es war ein glückliches
 				Debut, das dem jungen Musiker vielleicht etwas zu viel Selbstbewußtsein einflößte,
 				denn die Partitur der folgenden Oper wurde ziemlich übereilt geschrieben; dafür fiel
 				die Oper auch glänzend durch. Wie gewöhnlich die Extreme sich berühren, so folgte
 				dem früheren Selbstvertrauen nunmehr eine Periode der gänzlichen Entmuthigung; zehn
-				Monate lang schrieb <persName ref="#verdi.giuseppe">Verdi</persName> keine Note
-				mehr. Endlich raffte er sich wieder aus der Thatenlosigkeit auf. Die verhalf ihm zu
-				einem neuen Triumphe, so daß der junge <persName ref="#verdi.giuseppe"
-					>Verdi</persName> nun mit Einem Schlage zu den Maestri in <placeName
-					ref="#italien">Italien</placeName> gezählt wurde. Von jetzt beginnt ein reges
-				musicalisches Schaffen, Oper folgte auf Oper — <persName ref="#verdi.giuseppe"
-					>Verdi</persName> hat deren nahezu dreißig geschrieben —, die seinen Ruhm immer
-				weiter trugen. In <placeName ref="#deutschland">Deutschland</placeName> ist
-					<persName ref="#verdi.giuseppe">Verdi</persName> vorzugsweise durch „<title
-					ref="#verdi.ernani">Ernani</title>“ (<date when-iso="1844">1844</date>), „<title
-					ref="#verdi.rigoletto">Rigoletto</title>“ (<date when-iso="1851">1851</date>),
-					„<title ref="#verdi.il-trovatore">Troubadour</title>“ (<date when-iso="1853"
-					>1853</date>) und seine neueste Oper „<title ref="#verdi.aida">Aïda</title>“
-				bekannt geworden. Zu bemerken wäre noch, daß unter seinen Werken auch mehrere ihre
-				Stoffe unserem <persName ref="#schiller.friedrich">Schiller</persName> entlehnt
-				haben, so z. B. „<title ref="#verdi.i-masnadieri">Masnadieri</title>“ nach den
-				„Räubern“ und „<title ref="#verdi.luisa-miller">Luisa Miller</title>“ nach „Kabale
-				und Liebe“; auch Shakespeare fand musicalische Bearbeitung: „König Lear“<note
-					resp="tr" type="commentary">Es blieb lediglich bei dem Libretto von <persName
-						ref="#somma.antonio">Antonio Somma</persName>.</note> und „<title
-					ref="#verdi.macbeth">Macbeth</title>“.</p>
-			<p>Ueber die musicalische Bedeutung <persName ref="#verdi.giuseppe">Verdis</persName>
-				ist — Dank der „<title ref="#verdi.aida">Aïda</title>“ und dem <title
-					ref="#verdi.requiem">Requiem</title> — kein Streiten mehr nöthig; auch
-				diejenigen Kreise, welche früher eine vornehme Zurückhaltung gegen den Componisten
-				des <title ref="#verdi.il-trovatore">Troubadour</title> beobachteten, huldigen jetzt
-				bereitwillig seinem Genius. Auch über den Werth seines „<title ref="#verdi.requiem"
+				Monate lang schrieb <persName key="verdi.giuseppe">Verdi</persName> keine Note mehr.
+				Endlich raffte er sich wieder aus der Thatenlosigkeit auf. Die verhalf ihm zu einem
+				neuen Triumphe, so daß der junge <persName key="verdi.giuseppe">Verdi</persName> nun
+				mit Einem Schlage zu den Maestri in <placeName key="italien">Italien</placeName>
+				gezählt wurde. Von jetzt beginnt ein reges musicalisches Schaffen, Oper folgte auf
+				Oper — <persName key="verdi.giuseppe">Verdi</persName> hat deren nahezu dreißig
+				geschrieben —, die seinen Ruhm immer weiter trugen. In <placeName key="deutschland"
+					>Deutschland</placeName> ist <persName key="verdi.giuseppe">Verdi</persName>
+				vorzugsweise durch „<title key="verdi.ernani" type="mus">Ernani</title>“ (<date when-iso="1844"
+					>1844</date>), „<title key="verdi.rigoletto" type="mus">Rigoletto</title>“ (<date
+					when-iso="1851">1851</date>), „<title key="verdi.il-trovatore" type="mus"
+					>Troubadour</title>“ (<date when-iso="1853">1853</date>) und seine neueste Oper
+					„<title key="verdi.aida" type="mus">Aïda</title>“ bekannt geworden. Zu bemerken wäre noch,
+				daß unter seinen Werken auch mehrere ihre Stoffe unserem <persName
+					key="schiller.friedrich">Schiller</persName> entlehnt haben, so z. B. „<title
+					key="verdi.i-masnadieri" type="mus">Masnadieri</title>“ nach den „Räubern“ und „<title
+					key="verdi.luisa-miller" type="mus">Luisa Miller</title>“ nach „Kabale und Liebe“; auch
+				Shakespeare fand musicalische Bearbeitung: „König Lear“<note resp="tr"
+					type="commentary">Es blieb lediglich bei dem Libretto von <persName
+						key="somma.antonio">Antonio Somma</persName>.</note> und „<title
+					key="verdi.macbeth" type="mus">Macbeth</title>“.</p>
+			<p>Ueber die musicalische Bedeutung <persName key="verdi.giuseppe">Verdis</persName> ist
+				— Dank der „<title key="verdi.aida" type="mus">Aïda</title>“ und dem <title key="verdi.requiem" type="mus"
+					>Requiem</title> — kein Streiten mehr nöthig; auch diejenigen Kreise, welche
+				früher eine vornehme Zurückhaltung gegen den Componisten des <title
+					key="verdi.il-trovatore" type="mus">Troubadour</title> beobachteten, huldigen jetzt
+				bereitwillig seinem Genius. Auch über den Werth seines „<title key="verdi.requiem" type="mus"
 					>Requiem</title>“ herrscht Einstimmigkeit. Beseitige man den deutschen Begriff
 				von Kirchenmusik, versetze man sich in das farbenreiche Italien mit seinem
 				Schaugepränge, erinnere man sich, daß die Musik das Hochamt zum ersten Jahrestage
-				des Todes <persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>
+				des Todes <persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>
 				(gestorben am <date when-iso="1874-05-22">22. Mai 1874</date>) verherrlichen soll,
 				so schwindet jede Voreingenommenheit, und man ist eines unbefangenen Urtheils fähig,
 				das jedenfalls zu Gunsten des Werkes — werde es nun ein Oratorium oder eine
@@ -111,30 +112,30 @@
 				schwierig, sich aus dem vollen Orchester herauszuarbeiten. Wenn da noch die Stimme
 				mit voller Kraft heraustönen soll, dann muß man über ganz kolossale Mittel gebieten.
 				Die Solisten standen durchweg auf der Höhe wahrhaft künstlerischer Leistungen,
-				besonders die beiden Damen Fräulein <persName ref="#lehmann.lilli"
+				besonders die beiden Damen Fräulein <persName key="lehmann.lilli"
 					role="soloist.soprano">Lilli Lehmann</persName> und Fräulein <persName
-					ref="#assmann.adele" role="soloist.mezzo">Adele Aßmann</persName> (2. Sopran)
+					key="assmann.adele" role="soloist.mezzo">Adele Aßmann</persName> (2. Sopran)
 				bedeckten sich mit Lorbeeren.</p>
-			<p>An Ehren fehlte es <persName ref="#verdi.giuseppe">Verdi</persName> nicht, wenigstens
-				ist in <placeName ref="#koeln">Köln</placeName> ein Componist selten, oder nie, in
+			<p>An Ehren fehlte es <persName key="verdi.giuseppe">Verdi</persName> nicht, wenigstens
+				ist in <placeName key="koeln">Köln</placeName> ein Componist selten, oder nie, in
 				dieser Weise gefeiert worden. Jede Nummer erhielt rauschenden Applaus. Auch schöne
-				Andenken nimmt <persName ref="#verdi.giuseppe">Verdi</persName> mit aus <placeName
-					ref="#koeln">Köln</placeName>. Als er eben das Dirigentenpult betreten hatte und
+				Andenken nimmt <persName key="verdi.giuseppe">Verdi</persName> mit aus <placeName
+					key="koeln">Köln</placeName>. Als er eben das Dirigentenpult betreten hatte und
 				den Tactstock ergriff, nahte eine Dame aus dem Chor mit einem reich in Gold und
 				Elfenbein gearbeiteten Tactstock. Der goldne Griff trägt in einem Kranz von
-				Lorbeerblättern auf blauem Email die Initiale <persName ref="#verdi.giuseppe"
+				Lorbeerblättern auf blauem Email die Initiale <persName key="verdi.giuseppe"
 					>Verdi’s</persName>, ein <hi rend="antiqua">V</hi> mit Diamanten besetzt. Der
-				Stab ist ein Geschenk des Chores und von Herrn Juwelier <persName ref="#schmitz.xxx"
+				Stab ist ein Geschenk des Chores und von Herrn Juwelier <persName key="schmitz.xxx"
 					>Schmitz</persName> gearbeitet. Eine andere Gabe in Form eines silbernen
 				Lorbeerkranzes mit goldner Schlinge, aus dem Atelier des Herrn Hofjuwelier <persName
-					ref="#becker.xxx">Becker</persName>, wurde dem Maestro am Schlusse des <title
-					ref="#verdi.requiem">Requiem</title> überreicht. Jedes Blatt trägt den Namen
+					key="becker.xxx">Becker</persName>, wurde dem Maestro am Schlusse des <title
+					key="verdi.requiem" type="mus">Requiem</title> überreicht. Jedes Blatt trägt den Namen
 				einer Dame, der betreffenden Geberin. Dieses Geschenk sollte der Verehrung vieler
 				Theaterbesucherinnen für den Componisten Ausdruck verleihen. Tags zuvor hatte das
 				Musikfest-Comité dem Maestro das Rheinalbum von Professor <persName
-					ref="#scheuren.caspar">Scheuren</persName> mit einem zu dem Widmungszweck eigens
+					key="scheuren.caspar">Scheuren</persName> mit einem zu dem Widmungszweck eigens
 				von dem Autor gezeichneten hochkünstlerischen Titelblatte überreicht.</p>
-			<p>(Nach der „<orgName ref="#koelnische-zeitung">Köln. Ztg.</orgName>“)<note resp="tr"
+			<p>(Nach der „<orgName key="koelnische-zeitung">Köln. Ztg.</orgName>“)<note resp="tr"
 					type="textLink">Vgl. <ref target="kz_1877-05-23_niederrheinisches-musikfest.xml"
 						type="text">Kölnische Zeitung, 23. Mai 1877</ref>.</note></p>
 		</body>

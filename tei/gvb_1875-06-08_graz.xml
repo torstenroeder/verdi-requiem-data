@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#grazer-volksblatt" role="publisher"/>
-					<placeName ref="#graz"/>
+					<orgName key="grazer-volksblatt" role="publisher"/>
+					<placeName key="graz"/>
 					<date when-iso="1875-06-08"/>
 					<biblScope unit="issue">127</biblScope>
 					<biblScope unit="volume">8</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#graz"/></creation>
+			<creation><placeName key="graz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -44,29 +44,29 @@
 		<body rend="fraktur">
 			<head rend="larger">Vermischtes</head>
 			<gap resp="tr"/>
-			<p><g n="002A" type="ASTERISK">*</g> (<hi rend="widespace">„<title ref="#verdi.requiem"
-						>Requiem</title>“ im <placeName ref="#wien.hof-operntheater">k. k.
+			<p><g n="002A" type="ASTERISK">*</g> (<hi rend="widespace">„<title key="verdi.requiem" type="mus"
+						>Requiem</title>“ im <placeName key="wien.hof-operntheater">k. k.
 						Hofopern-Theater</placeName>.</hi>) Unter der Rubrik: „Theater, Kunst und
-				Literatur“ bringt der „<orgName ref="#volksfreund">Volksfreund</orgName>“ vom <date
+				Literatur“ bringt der „<orgName key="volksfreund">Volksfreund</orgName>“ vom <date
 					when-iso="1875-06-05">5. Juni</date><note resp="tr" type="commentary">Der Titel
 					»Volksfreund« ist unspezifisch. Diverse Wiener Zeitungen (Illustriertes Wiener
 					Extrablatt, Morgen-Post, Die Presse, Wiener Zeitung) brachten diese Nachricht
-					bereits am 4. Juni.</note> die Notiz: <rs ref="#wien.1875.1 wien.1875.2"
-					type="event">„Die Aufführung des <title ref="#verdi.requiem">Requiems
-						(Manzoni-Messe)</title> von <persName ref="#verdi.giuseppe">Verdi</persName>
+					bereits am 4. Juni.</note> die Notiz: <rs key="wien.1875.1 wien.1875.2"
+					type="event">„Die Aufführung des <title key="verdi.requiem" type="mus">Requiems
+						(Manzoni-Messe)</title> von <persName key="verdi.giuseppe">Verdi</persName>
 					findet nach der erfolgten Ankündigung an zwei einander folgenden Tagen, den
 						<date when-iso="1875-06-11">11.</date> und <date when-iso="1875-06-12">12.
-						Juni</date>, im <placeName ref="#wien.hof-operntheater"
+						Juni</date>, im <placeName key="wien.hof-operntheater"
 						>Hofoperntheater</placeName> statt.“</rs>
 			</p>
 			<p>Wer wird durch diese <hi rend="widespace">Theater</hi>-Nachricht erbaut sein? —
-				Sollte das <title ref="#verdi.requiem">Requiem</title> später je einmal in einer
+				Sollte das <title key="verdi.requiem" type="mus">Requiem</title> später je einmal in einer
 				Kirche aufgeführt werden, so erbarmet uns der Priester, der den Statisten abgibt,
 				und macht jeden Gläubigen der Gedanke traurig, daß die allerheiligste Handlung dazu
 				Gelegenheit bieten muß, um Opernmusik zu Gehör zu bringen.</p>
 			<p>Erfreulich ist, daß dasselbe Blatt zwei Zeilen unterhalb das Telegramm wiedergibt,
-				welches über den Verlauf der Eröffnungsfeier in <placeName ref="#bruck-an-der-mur"
-					>Bruck</placeName> im „<orgName ref="#grazer-volksblatt">Volksblatt</orgName>“
+				welches über den Verlauf der Eröffnungsfeier in <placeName key="bruck-an-der-mur"
+					>Bruck</placeName> im „<orgName key="grazer-volksblatt">Volksblatt</orgName>“
 				zu lesen war.<note resp="tr" type="textLink">Vgl. <ref
 						target="http://anno.onb.ac.at/cgi-content/anno?aid=gre&amp;datum=18750604&amp;seite=1"
 						type="text">Grazer Volksblatt, 4. Juni 1875, S. 1</ref>.</note> Die

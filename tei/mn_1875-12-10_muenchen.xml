@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#muenchener-nachrichten" role="publisher"/>
-					<placeName ref="#muenchen"/>
+					<orgName key="muenchener-nachrichten" role="publisher"/>
+					<placeName key="muenchen"/>
 					<date when-iso="1875-12-10"/>
 					<biblScope unit="issue">344</biblScope>
 					<series>mn</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#muenchen"/></creation>
+			<creation><placeName key="muenchen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -38,65 +38,65 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Musik und Theater.</head>
-			<p>— <rs ref="#muenchen.1875.1" type="event"><hi rend="bold">(<persName
-							ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title> in <placeName ref="#muenchen"
+			<p>— <rs key="muenchen.1875.1" type="event"><hi rend="bold">(<persName
+							key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title> in <placeName key="muenchen"
 							>München</placeName>.)</hi> Mit der Aufführung von <hi rend="widespace"
-							><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
-					<title ref="#verdi.requiem">Requiem</title> hat man sich hier mehr beeilt, als
-					mit der des „<title ref="#mendelssohn-bartholdy.elias">Elias</title>“ von
-						<persName ref="#mendelssohn-bartholdy.felix">Mendelssohn</persName>.</rs>
+							><persName key="verdi.giuseppe">Verdi’s</persName></hi>
+					<title key="verdi.requiem" type="mus">Requiem</title> hat man sich hier mehr beeilt, als
+					mit der des „<title key="mendelssohn-bartholdy.elias" type="mus">Elias</title>“ von
+						<persName key="mendelssohn-bartholdy.felix">Mendelssohn</persName>.</rs>
 				Der berühmte Komponist der Musik zum „<title
-					ref="#mendelssohn-bartholdy.ein-sommernachtstraum">Sommernachtstraum</title>“
-				und der „<title ref="#mendelssohn-bartholdy.lieder-ohne-worte">Lieder ohne
+					key="mendelssohn-bartholdy.ein-sommernachtstraum" type="mus">Sommernachtstraum</title>“
+				und der „<title key="mendelssohn-bartholdy.lieder-ohne-worte" type="mus">Lieder ohne
 					Worte</title>“ ruhte schon seit Dezennien in kühler Erde, bis eines seiner
-				besten Werke sich in <placeName ref="#muenchen">München</placeName> Gehör zu
+				besten Werke sich in <placeName key="muenchen">München</placeName> Gehör zu
 				verschaffen vermochte. Wir sind nicht gewillt, hier ungeeignete Parallelen zu
-				ziehen; man braucht nur die Namen <persName ref="#mendelssohn-bartholdy.felix"
-					>Mendelssohn</persName> und <persName ref="#verdi.giuseppe">Verdi</persName>
+				ziehen; man braucht nur die Namen <persName key="mendelssohn-bartholdy.felix"
+					>Mendelssohn</persName> und <persName key="verdi.giuseppe">Verdi</persName>
 				nebeneinander zu nennen, um jeder für Musik zugänglichen Natur sofort die ungeheure
 				Kluft, die zwischen Beiden liegt, zum Bewußtsein zu bringen. Das <persName
-					ref="#verdi.giuseppe">Verdi’sche</persName>
-				<title ref="#verdi.requiem">Requiem</title> ist ohne Zweifel ein bedeutendes Werk,
+					key="verdi.giuseppe">Verdi’sche</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> ist ohne Zweifel ein bedeutendes Werk,
 				nur erscheint es sehr zweifelhaft, ob sich der Komponist damit nicht auf ein Gebiet
 				begeben hat, was ihm seiner ganzen Anlage nach verschlossen bleiben sollte.
-					<persName ref="#verdi.giuseppe">Verdi</persName> und Kirchenmusik wollen nicht
-				recht zusammenpassen, <title ref="#verdi.il-trovatore">Troubadour</title> und <title
-					ref="#verdi.rigoletto">Rigoletto</title> entsprechen der ganzen Richtung seines
+					<persName key="verdi.giuseppe">Verdi</persName> und Kirchenmusik wollen nicht
+				recht zusammenpassen, <title key="verdi.il-trovatore" type="mus">Troubadour</title> und <title
+					key="verdi.rigoletto" type="mus">Rigoletto</title> entsprechen der ganzen Richtung seines
 				Talentes gewiß besser. Es soll damit keineswegs gesagt sein, daß die Möglichkeit
 				überhaupt ausgeschlossen wäre für einen Operncomponisten von der Beschaffenheit
-					<persName ref="#verdi.giuseppe">Verdi’s</persName>, auch eine tüchtige
-				Kirchenkomposition zu liefern, hat er doch in <persName ref="#rossini.gioachino"
+					<persName key="verdi.giuseppe">Verdi’s</persName>, auch eine tüchtige
+				Kirchenkomposition zu liefern, hat er doch in <persName key="rossini.gioachino"
 					>Rossini</persName> einen Vorgänger, der sich durch sein <hi rend="antiqua"
-						><title ref="#rossini.stabat-mater">„Stabat mater dolorosa“</title></hi> ein
+						><title key="rossini.stabat-mater" type="mus">„Stabat mater dolorosa“</title></hi> ein
 				kaum minder glänzendes Denkmal gesetzt hat, als durch den „<title
-					ref="#rossini.il-barbiere-di-siviglia">Barbier von Sevilla</title>“, aber
-				dessenungeachtet ist der Schritt, welchen <persName ref="#rossini.gioachino"
+					key="rossini.il-barbiere-di-siviglia" type="mus">Barbier von Sevilla</title>“, aber
+				dessenungeachtet ist der Schritt, welchen <persName key="rossini.gioachino"
 					>Rossini</persName> von der komischen Oper zur Kirchenmusik machte, nicht so
-				groß, wie der von <title ref="#verdi.rigoletto">Rigoletto</title> und <title
-					ref="#verdi.la-traviata">La Travitata</title> zu einem Requiem. Und zwar
-				deshalb, weil <persName ref="#verdi.giuseppe">Verdi’s</persName> Opern von der
+				groß, wie der von <title key="verdi.rigoletto" type="mus">Rigoletto</title> und <title
+					key="verdi.la-traviata" type="mus">La Travitata</title> zu einem Requiem. Und zwar
+				deshalb, weil <persName key="verdi.giuseppe">Verdi’s</persName> Opern von der
 				Frivolität und Lascivität unserer Zeit angekränkelt sind, während bei <persName
-					ref="#rossini.gioachino">Rossini</persName> das Naive das eigentlich
+					key="rossini.gioachino">Rossini</persName> das Naive das eigentlich
 				charakteristische Merkmal selbst in dem frivolen „<title
-					ref="#rossini.il-barbiere-di-siviglia">Barbier von Sevilla</title>“ ist, und
+					key="rossini.il-barbiere-di-siviglia" type="mus">Barbier von Sevilla</title>“ ist, und
 				weil eben darin der unschätzbare Werth dieser Oper für alle Zeiten liegt.</p>
-			<p>Die Aufführung des <title ref="#verdi.requiem">Requiem</title> war, abgesehen von
-				einer bei den Damen <persName ref="#radecke.luise">Radecke</persName> und <persName
-					ref="#schefsky.josephine">Schefzky</persName> hervortretenden Indisposition in
+			<p>Die Aufführung des <title key="verdi.requiem" type="mus">Requiem</title> war, abgesehen von
+				einer bei den Damen <persName key="radecke.luise">Radecke</persName> und <persName
+					key="schefsky.josephine">Schefzky</persName> hervortretenden Indisposition in
 				den ersten Stadien der Produktion, vortrefflich und auch dieser Mangel wurde
 				reichlich ausgeglichen durch die gelungene Exekutierung des Duetts <hi
-					rend="antiqua"><title ref="#verdi.requiem.5">„Agnus Dei“</title></hi>, welches
-				die Damen wiederholen mußten. Herr <persName ref="#nachbaur.franz"
+					rend="antiqua"><title key="verdi.requiem.5" type="mus">„Agnus Dei“</title></hi>, welches
+				die Damen wiederholen mußten. Herr <persName key="nachbaur.franz"
 					role="soloist.tenor">Nachbaur</persName> zeigte durch seine Sololeistung: <hi
-					rend="antiqua"><title ref="#verdi.requiem.2.ingemisco">„Ingemisco“</title></hi>,
+					rend="antiqua"><title key="verdi.requiem.2.ingemisco" type="mus">„Ingemisco“</title></hi>,
 				daß er seinem Ruf auch als Kirchensänger gerecht zu werden weiß und Herr <persName
-					ref="#bausewein.kaspar" role="soloist.basso">Bausewein</persName> that das
+					key="bausewein.kaspar" role="soloist.basso">Bausewein</persName> that das
 				Seinige, um den Erfolg des Ganzen zu gewährleisten. Es bleibt nur zu wünschen, daß
 				durch Wiederholung des immerhin interessanten und an musikalischen Schönheiten
 				reichen Tonstückes auch einem weiteren Kreise Gelegenheit geboten wird, das
-					<persName ref="#verdi.giuseppe">Verdische</persName>
-				<title ref="#verdi.requiem">Requiem</title> kennen zu lernen.</p>
+					<persName key="verdi.giuseppe">Verdische</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> kennen zu lernen.</p>
 		</body>
 	</text>
 </TEI>

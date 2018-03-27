@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1877-03-23"/>
 					<biblScope unit="issue">13</biblScope>
 					<biblScope unit="volume">73</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bremen"/></creation>
+			<creation><placeName key="bremen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -44,15 +44,15 @@
 			<pb break="null" n="136" type="initial"/>
 			<head rend="larger widespace">Correspondenzen.</head>
 			<pb break="null" n="138" type="skipped"/>
-			<p rend="right"><placeName ref="#bremen">Bremen</placeName>.</p>
+			<p rend="right"><placeName key="bremen">Bremen</placeName>.</p>
 			<cb break="null" n="138b" type="skipped"/>
 			<p>Außerdem haben wir 3 Abonnementconcerte, wie die „Privatconcerte“ unter <persName
-					ref="#reinthaler.karl">R<surplus resp="tr">h</surplus>einthaler’s</persName>
-				Leitung, in denen auch einiges Neue aufgeführt wird. <rs ref="#bremen.1876.1"
-					type="event">Im ersten kam <persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> an die
+					key="reinthaler.karl">R<surplus resp="tr">h</surplus>einthaler’s</persName>
+				Leitung, in denen auch einiges Neue aufgeführt wird. <rs key="bremen.1876.1"
+					type="event">Im ersten kam <persName key="verdi.giuseppe">Verdi’s</persName>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> an die
 					Reihe</rs>, über welches bereits so viel geschrieben worden ist, daß ein Mehr
-				wohl überflüssig scheint. <rs ref="#bremen.1876.2" type="event">Es wurde in einem
+				wohl überflüssig scheint. <rs key="bremen.1876.2" type="event">Es wurde in einem
 					„Privatconcert“ wiederholt.</rs> —</p>
 		</body>
 	</text>

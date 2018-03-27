@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-04-21"/>
 					<biblScope unit="issue">17</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -45,15 +45,15 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
 			<pb break="null" n="175" type="skipped"/>
-			<p><rs ref="#salzburg.1876.1" type="event"><hi rend="widespace"><placeName
-							ref="#salzburg">Salzburg</placeName></hi>. <date when-iso="1876-04-23"
+			<p><rs key="salzburg.1876.1" type="event"><hi rend="widespace"><placeName
+							key="salzburg">Salzburg</placeName></hi>. <date when-iso="1876-04-23"
 						>Am 23.</date>
-					<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> mit der
-					Gräfin <persName ref="#gatterburg.hedwig">Gatterburg</persName>, Frl. <persName
-						ref="#voigt.gabriele">Voigt</persName> (Sopran), Hrn. <persName
-						ref="#huber.franz">Huber</persName> (Tenor) und Hrn. <persName
-						ref="#schuegraf.eduard">Schuegraft</persName> aus <placeName ref="#muenchen"
+					<persName key="verdi.giuseppe">Verdi’s</persName>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> mit der
+					Gräfin <persName key="gatterburg.hedwig">Gatterburg</persName>, Frl. <persName
+						key="voigt.gabriele">Voigt</persName> (Sopran), Hrn. <persName
+						key="huber.franz">Huber</persName> (Tenor) und Hrn. <persName
+						key="schuegraf.eduard">Schuegraft</persName> aus <placeName key="muenchen"
 						>München</placeName>.</rs> —</p>
 		</body>
 	</text>

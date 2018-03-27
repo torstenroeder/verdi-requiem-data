@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#wiener-zeitung" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="wiener-zeitung" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1874-06-18"/>
 					<biblScope unit="issue">137</biblScope>
 					<biblScope unit="subIssue">137</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#paris"/></creation>
+			<creation><placeName key="paris"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -42,65 +42,65 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Notiz.</head>
-			<p rend="smaller">(<hi rend="widespace"><persName ref="#verdi.giuseppe"
+			<p rend="smaller">(<hi rend="widespace"><persName key="verdi.giuseppe"
 						>Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title></hi>.) <rs ref="#paris.1874"
+					<title key="verdi.requiem" type="mus">Requiem</title></hi>.) <rs key="paris.1874"
 					type="event">Die neueste, vielbesprochene Composition <persName
-						ref="#verdi.giuseppe">Verdi’s</persName>, sein großes <title
-						ref="#verdi.requiem">Requiem</title>, ist in <placeName ref="#paris"
+						key="verdi.giuseppe">Verdi’s</persName>, sein großes <title
+						key="verdi.requiem" type="mus">Requiem</title>, ist in <placeName key="paris"
 						>Paris</placeName> aufgeführt worden</rs> und zwar mit entschiedenem Erfolg,
 				an welchem Composition und Aufführung gleichen Antheil hatten. Statt der
 				enthusiastischen Schreie, die uns bis jetzt aus den italienischen Blättern
 				entgegentönten, erhalten wir endlich die eingehende Besprechung eines competenten
-				Beurtheilers, — <persName ref="#reyer.ernest">Reyer</persName> im „<orgName
-					ref="#journal-des-debats">Journal des D<hi rend="antiqua">é</hi>bats</orgName>“
+				Beurtheilers, — <persName key="reyer.ernest">Reyer</persName> im „<orgName
+					key="journal-des-debats">Journal des D<hi rend="antiqua">é</hi>bats</orgName>“
 				hat das Werk einer eingehenden kritischen Analyse unterzogen.<note resp="tr"
-					type="textLink">Vgl. <persName ref="#reyer.ernest">Ernest Reyer</persName>, <ref
+					type="textLink">Vgl. <persName key="reyer.ernest">Ernest Reyer</persName>, <ref
 						target="jdd_1874-06-1_feuilleton.xml" type="text">Journal des Débats, Paris,
 						14. Juni 1874</ref></note> Gebe man, meint er, den dramatischen Zug des
 				Ganzen zu, so könne man dem Werke große Anerkennung, ja Bewunderung, trotz einzelner
 				Mängel, nicht versagen. Insbesondere seien die Mysterien des hohen Kunststyles der
 				Musik mit einer Sicherheit gehandhabt, über die man bei <persName
-					ref="#verdi.giuseppe">Verdi</persName> um so mehr erstaunen dürfe, je weniger
+					key="verdi.giuseppe">Verdi</persName> um so mehr erstaunen dürfe, je weniger
 				man sie bei ihm gesucht haben würde — und der überraschende Umschwung, der sich in
-					„<title ref="#verdi.aida">A<hi rend="antiqua">ï</hi>da</title>“ manifestirt,
+					„<title key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title>“ manifestirt,
 				zeige sich auch hier, — selbst einige Reminiscenzen an diese Oper tauchen auf, wie
 				denn z. B. die Nummer „<hi rend="antiqua"><title n="qui-mariam"
-						ref="#verdi.requiem.2.ingemisco">qui Mariam absolvisti</title></hi>“ an die
-					<title ref="#verdi.aida.amneris-und-die-priester">Scene zwischen Amneris und den
-					Priestern</title> mahne. Das „<title ref="#verdi.requiem.4">Sanctus</title>“ ist
+						key="verdi.requiem.2.ingemisco" type="mus">qui Mariam absolvisti</title></hi>“ an die
+					<title key="verdi.aida.amneris-und-die-priester" type="mus">Scene zwischen Amneris und den
+					Priestern</title> mahne. Das „<title key="verdi.requiem.4" type="mus">Sanctus</title>“ ist
 				eine Fuge zu acht realen Stimmen für zwei Chöre. „Selbst <persName
-					ref="#cherubini.luigi">Cherubini</persName>“, meint der Kritiker, „würde sich
+					key="cherubini.luigi">Cherubini</persName>“, meint der Kritiker, „würde sich
 				hier voll Achtung und Bewunderung verneigt haben.“ Große Sensation machte das <title
-					ref="#verdi.requiem.3">Offertorium</title>, ein Duett, durch den Gesang der
-				Damen <persName ref="#stolz.teresa">Therese Stolz</persName> und <persName
-					ref="#waldmann.maria">Waldmann</persName> (die eine eine Ungarin, die andere aus
-					<placeName ref="#oesterreich">Oesterreich</placeName>.) Um „<title
-					ref="#verdi.requiem.2.confutatis">Confutatis</title>“ malt <persName
-					ref="#verdi.giuseppe">Verdi</persName> noch wilder als <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName>, chromatische Gänge sausen
+					key="verdi.requiem.3" type="mus">Offertorium</title>, ein Duett, durch den Gesang der
+				Damen <persName key="stolz.teresa">Therese Stolz</persName> und <persName
+					key="waldmann.maria">Waldmann</persName> (die eine eine Ungarin, die andere aus
+					<placeName key="oesterreich">Oesterreich</placeName>.) Um „<title
+					key="verdi.requiem.2.confutatis" type="mus">Confutatis</title>“ malt <persName
+					key="verdi.giuseppe">Verdi</persName> noch wilder als <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName>, chromatische Gänge sausen
 				gegen einander, während Posaunenaccorden dazwischen tönen. An <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName> erinnert Manches, so der Anfang
-				des „<hi rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies
+					key="mozart.wolfgang-amadeus">Mozart</persName> erinnert Manches, so der Anfang
+				des „<hi rend="antiqua"><title key="verdi.requiem.2.dies-irae" type="mus">Dies
 					irae</title></hi><supplied resp="tr">“</supplied>, des „<hi rend="antiqua"
-						><title ref="#verdi.requiem.2.rex-tremendae">Rex tremendæ
-					majestatis</title></hi>“ u. s. w., — dagegen hat <persName ref="#verdi.giuseppe"
+						><title key="verdi.requiem.2.rex-tremendae" type="mus">Rex tremendæ
+					majestatis</title></hi>“ u. s. w., — dagegen hat <persName key="verdi.giuseppe"
 					>Verdi</persName> das „<hi rend="antiqua"><title
-						ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>“ so ziemlich
-				ungenirt aus dem <title ref="#berlioz.grande-messe-des-morts">Requiem</title> von
-					<persName ref="#berlioz.hector">Berlioz</persName> annectirt. Die
-				Instrumentirung wird höchlich gerühmt, doch scheint <persName ref="#verdi.giuseppe"
+						key="verdi.requiem.2.tuba-mirum" type="mus">Tuba mirum</title></hi>“ so ziemlich
+				ungenirt aus dem <title key="berlioz.grande-messe-des-morts" type="mus">Requiem</title> von
+					<persName key="berlioz.hector">Berlioz</persName> annectirt. Die
+				Instrumentirung wird höchlich gerühmt, doch scheint <persName key="verdi.giuseppe"
 					>Verdi</persName> vom Effectmittel des Tremolo öfter Gebrauch gemacht zu haben,
 				als für kirchliche Musik gutzuheißen ist. Die Harmonie ist kunstvoll und
 					rein<supplied resp="tr">,</supplied> abgesehen von einigen ganz unbegreiflichen,
 				augenscheinlich absichtlichen Quintparallelen um „<hi rend="antiqua"><title
-						n="oro-supplex" ref="#verdi.requiem.2.confutatis">Oro supplex</title></hi>“
-				und im „<hi rend="antiqua"><title ref="#verdi.requiem.2.confutatis"
+						n="oro-supplex" key="verdi.requiem.2.confutatis" type="mus">Oro supplex</title></hi>“
+				und im „<hi rend="antiqua"><title key="verdi.requiem.2.confutatis" type="mus"
 						>Confutatis</title></hi>“ und von einigen Härten, wie wenn z.B. im „<hi
-					rend="antiqua"><title ref="#verdi.requiem.2">Dies
+					rend="antiqua"><title key="verdi.requiem.2" type="mus">Dies
 					irae</title><!--REFERENZ genaue Stelle (Dies irae)?--></hi>“ <hi rend="antiqua"
 					>G-moll</hi> ungenirt nach <hi rend="antiqua">E-dur</hi> eintritt. (Auch in
-					„<title ref="#verdi.aida">A<hi rend="antiqua">ï</hi>da</title>“ finden sich
+					„<title key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title>“ finden sich
 				neben großen Schönheiten einzelne harte Stellen<supplied resp="tr">.</supplied>)
 				Geistreich und bedeutend, wie das Werk ist, kann es trotz solcher einzelner Mängel
 				den Ruhm seines Schöpfers nur vermehren.</p>

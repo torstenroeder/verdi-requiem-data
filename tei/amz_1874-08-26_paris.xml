@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AmZ, Leipzig, 26. August 1874</title>
-				<author><persName ref="#blaze.henri"/></author>
+				<author><persName key="blaze.henri"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#amz" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="amz" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1874-08-26"/>
 					<biblScope unit="issue">34</biblScope>
 					<biblScope unit="volume">9</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#paris"/></creation>
+			<creation><placeName key="paris"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -46,25 +46,25 @@
 		<body rend="antiqua">
 			<cb break="null" facs="#f1" n="539" type="initial"/>
 			<head rend="larger bold egypt">Neueste Pariser musikalische Zustände.</head>
-			<head rend="smaller">(Nach <hi rend="widespace"><persName ref="#blaze.henri"
+			<head rend="smaller">(Nach <hi rend="widespace"><persName key="blaze.henri"
 						>Lagenevais</persName></hi>.)<note resp="tr" type="textLink">Vgl. <persName
-						ref="#blaze.henri">Henri Blaze</persName>, <ref target="rddm_1874-06-15.xml"
+						key="blaze.henri">Henri Blaze</persName>, <ref target="rddm_1874-06-15.xml"
 						type="text">Revue des deux mondes (Paris), 15. Juni
 				1874</ref>.</note></head>
-			<head rend="italic"><persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title>. Die Damen <persName ref="#stolz.teresa"
-					>Stolz</persName>, <persName ref="#waldmann.maria">Waldmann</persName>, Nillson.
+			<head rend="italic"><persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title>. Die Damen <persName key="stolz.teresa"
+					>Stolz</persName>, <persName key="waldmann.maria">Waldmann</persName>, Nillson.
 				Die Concerte. <gap resp="tr"/></head>
-			<p>Wollen wir für einen Augenblick auf die <rs ref="#paris.1874" type="event"><title
-						ref="#verdi.requiem">Seelenmesse</title> von <hi rend="italic"><persName
-							ref="#verdi.giuseppe">Verdi</persName></hi></rs> zurückkommen. Seit 14
-				Tagen hatte <placeName ref="#paris">Paris</placeName> keinen anderen Gegenstand der
+			<p>Wollen wir für einen Augenblick auf die <rs key="paris.1874" type="event"><title
+						key="verdi.requiem" type="mus">Seelenmesse</title> von <hi rend="italic"><persName
+							key="verdi.giuseppe">Verdi</persName></hi></rs> zurückkommen. Seit 14
+				Tagen hatte <placeName key="paris">Paris</placeName> keinen anderen Gegenstand der
 				Aufregung als sie. Unter den Musikern, den Künstlern und der vornehmen Welt herrscht
 				darüber nur eine Stimme der Anerkennung, ja der Bewunderung. Konnte man doch mitten
 				im Sommer, am hellen Tage, bei einer erstickenden Hitze den Saal der <placeName
-					ref="#paris.opera-comique">komischen Oper</placeName> sich füllen, sich
+					key="paris.opera-comique">komischen Oper</placeName> sich füllen, sich
 				leidenschaftlich erregen, in Enthusiasmus ausbrechen sehen, wie einst bei den
-				glorreichsten Aufführungen des <placeName ref="#paris.theatre-italien"
+				glorreichsten Aufführungen des <placeName key="paris.theatre-italien"
 					>Théâtre-Italien</placeName> — und vermittelst welchen Publikums! Nicht etwa
 				jenes banalen, lärmenden, gespreizten Personals, das die öffentlichen Blätter »die
 				Leute der ersten Vorstellungen« nennen, sondern der Gesellschaft, der feinen, die
@@ -76,25 +76,25 @@
 				Betrachtungen, und man ergeht sich in Bedauern‚ dass ein solcher Hauptschlag nicht
 				einem Franzosen geglückt ist; trösten wir uns aber damit, dass dieses Meisterwerk,
 				das auch deutschen Ursprungs hätte sein können, von einem <placeName
-					ref="#frankreich">Frankreich</placeName> befreundeten Italiener herstammt, von
+					key="frankreich">Frankreich</placeName> befreundeten Italiener herstammt, von
 				einem Genie jener lateinischen Raçe, welche, wenn man der »<orgName
-					ref="#norddeutsche-allgemeine-zeitung">Norddeutschen Zeitung</orgName>« glauben
+					key="norddeutsche-allgemeine-zeitung">Norddeutschen Zeitung</orgName>« glauben
 				darf, zum demnächstigen Verschwinden bestimmt ist.</p>
-			<p>Wir haben die <title ref="#verdi.requiem">Messe</title> von <persName
-					ref="#verdi.giuseppe">Verdi</persName> so oft gehört, als sie gegeben wurde, und
+			<p>Wir haben die <title key="verdi.requiem" type="mus">Messe</title> von <persName
+					key="verdi.giuseppe">Verdi</persName> so oft gehört, als sie gegeben wurde, und
 				deren Studium wie die Reflexion über dieselbe haben nur den Eindruck erhöht, den sie
 				auf uns schon am ersten Tage gemacht. Neben tiefem Erfassen des Gegenstandes,
 				Reichthum und Mannigfaltigkeit der Gedanken wie der Formen, Kraft und Farbe in den
 				Klangwirkungen erkennen wir auf jeder Seite den Geist und die Hand des Meisters,
 				oder besser gesagt, des modernen Meisters. Der vernachlässigte Autor des »<title
-					ref="#verdi.il-trovatore">Trovatore</title>« und des »<title ref="#verdi.ernani"
+					key="verdi.il-trovatore" type="mus">Trovatore</title>« und des »<title key="verdi.ernani" type="mus"
 					>Ernani</title>«, der ungeachtet seine Kunst ihm doch so schöne Triumphe
 				verschafft hatte, mitten in seiner Laufbahn missachtet worden war, mochte es wohl
 				für einen schönen Traum halten, mit dem musikalischen und dramatischen Temperamente,
 				womit ihn der Himmel begabt hatte, jemals dahin zu gelangen, die Sprache eines
-					<persName ref="#beethoven.ludwig-van">Beethoven</persName>, <persName
-					ref="#mendelssohn-bartholdy.felix">Mendelssohn</persName> oder <persName
-					ref="#schumann.robert">Schumann</persName> zu sprechen (!). Und dieser Traum hat
+					<persName key="beethoven.ludwig-van">Beethoven</persName>, <persName
+					key="mendelssohn-bartholdy.felix">Mendelssohn</persName> oder <persName
+					key="schumann.robert">Schumann</persName> zu sprechen (!). Und dieser Traum hat
 				durch eine Willenskraft, auf die man kaum genug hinweisen kann, sich nun doch
 				glorreich verwirklicht. In der That, sich wieder der Arbeit, dem Studium zu
 				unterziehen, nach zwanzigjährigen Erfolgen, die uns Ruhm und Glück gebracht haben,
@@ -103,28 +103,28 @@
 				dass eine solche Handlungsweise einen gewissen Respect einflösst, und dass, indem
 				wir das Meisterwerk bewundern, wir uns zu gleicher Zeit vor dem männlichen und
 				entschlossenen Charakter des Künstlers, der es schuf, verneigen, um so mehr, als
-					<persName ref="#verdi.giuseppe">Verdi</persName> bei diesem Unternehmen ein
+					<persName key="verdi.giuseppe">Verdi</persName> bei diesem Unternehmen ein
 				hohes Spiel spielte und <cb break="yes" n="540" type="regular"/>am Ende des
 				Wagnisses sehr leicht dahin kommen konnte, die sichere Beute für einen Schatten
 				fahren gelassen zu haben. Handelte es sich doch darum, einer Behandlungsweise zu
 				entsagen, durch die ihm die Composition von Werken, wie einer »<title
-					ref="#verdi.la-traviata">Traviata</title>«, eines <title
-					ref="#verdi.un-ballo-in-maschera">Maskenballes</title> und eines <title
-					ref="#verdi.rigoletto">Rigoletto</title> gelungen war! Konnte er mit
+					key="verdi.la-traviata" type="mus">Traviata</title>«, eines <title
+					key="verdi.un-ballo-in-maschera" type="mus">Maskenballes</title> und eines <title
+					key="verdi.rigoletto" type="mus">Rigoletto</title> gelungen war! Konnte er mit
 				Bestimmtheit wissen, wohin ihn die neuen Versuche führen würden, denen er sich
-				unterzog? <title ref="#verdi.don-carlos">Don Carlos</title> zeigte ihn, uns auf dem
+				unterzog? <title key="verdi.don-carlos" type="mus">Don Carlos</title> zeigte ihn, uns auf dem
 				Punkte der Krisis, sagen wir es offen, des Herumtastens. Das Publikum war sich nicht
 				klar über das, was es hörte; es fühlte sich durch diesen symphonischen Apparat
 				enttäuscht; selbst die Scene des Gross-Inquisitors, so prachtvoll durch tragischen
 				Ausdruck, liess es kalt. Man erblickte darin weniger die Anzeichen einer radicalen
 				Wandelung als einen Versuch der Nachahmung, eine gewisse Hingebung an nur mangelhaft
-				ausgesprochene Tendenzen. Der <persName ref="#verdi.giuseppe">Verdi</persName> des
-					<title ref="#verdi.rigoletto">Rigoletto</title> und des <title
-					ref="#verdi.ernani">Ernani</title> hatte in Wirklichkeit den alten Menschen
-				ausgezogen, und der neue heutige <persName ref="#verdi.giuseppe">Verdi</persName>
+				ausgesprochene Tendenzen. Der <persName key="verdi.giuseppe">Verdi</persName> des
+					<title key="verdi.rigoletto" type="mus">Rigoletto</title> und des <title
+					key="verdi.ernani" type="mus">Ernani</title> hatte in Wirklichkeit den alten Menschen
+				ausgezogen, und der neue heutige <persName key="verdi.giuseppe">Verdi</persName>
 				zeigte sich kaum erst zur Hälfte. Die Inspiration zögerte, die Hand, welche das
 				Steuer führte, schien mehr darauf bedacht, die Klippen zu umschiffen, als mit vollen
-				Segeln auf neue Ufer loszusteuern. Erst später mit der <title ref="#verdi.aida"
+				Segeln auf neue Ufer loszusteuern. Erst später mit der <title key="verdi.aida" type="mus"
 					>Aida</title> sollte die Metamorphose ihren endlichen Abschluss erhalten, und
 				nun die Messe zeigt uns den Meister in der Allgewalt seiner Thätigkeit, gleichsam
 				durchdrungen von den Gewässern des Styx.</p>
@@ -140,41 +140,41 @@
 				auch jedes Stück im Einzelnen haben mag, es schliesst sich dem grossen Ganzen
 				harmonisch an. Auf das stürmische und grauenvolle in grossartigen Conturen und einem
 				labyrinthischen Fugensatze sich entrollenden <hi rend="italic"><title
-						ref="#verdi.requiem.2">Dies irae</title></hi> folgt das kurze und
-				pathetische <hi rend="italic"><title ref="#verdi.requiem.2.recordare"
+						key="verdi.requiem.2" type="mus">Dies irae</title></hi> folgt das kurze und
+				pathetische <hi rend="italic"><title key="verdi.requiem.2.recordare" type="mus"
 						>Recordare</title></hi>. An der Schwelle des seufzererfüllten, flehenden und
-				angstvollen <hi rend="italic"><title ref="#verdi.requiem.7">Libera</title></hi>
-				vernehmen wir das <hi rend="italic"><title ref="#verdi.requiem.5">Agnus
+				angstvollen <hi rend="italic"><title key="verdi.requiem.7" type="mus">Libera</title></hi>
+				vernehmen wir das <hi rend="italic"><title key="verdi.requiem.5" type="mus">Agnus
 					Dei</title></hi>, einen Ruhealtar in der düsteren Nacht. Dasselbe ist zwar nur
 				eine einfache Cantilene, aber von welchem Wohllaute in den Motiven und von welcher
 				Wirkung bei dem Eintritte des Chores im Unisono und bei der Wiederholung in Moll!
 				Bei diesem Anlasse hört man von Reminiscenzen sprechen; die einen, sich anklammernd
 				an die ersten drei Noten einer Phrase, deren ganzer Effect auf den Schlusstakten
-				beruht, rufen aus: »Das ist aus der <title ref="#boieldieu.la-dame-blanche">weissen
+				beruht, rufen aus: »Das ist aus der <title key="boieldieu.la-dame-blanche" type="mus">weissen
 					Frau</title>!« die anderen, nicht minder klug, behaupten: »Ach nein, ihr irrt
-				euch, das ist der Zwischenact der <title ref="#meyerbeer.l-africaine"
+				euch, das ist der Zwischenact der <title key="meyerbeer.l-africaine" type="mus"
 					>Afrikanerin</title>!« — Denn es gilt zur Zeit für eine ausgemachte Sache, dass
 				man die Saiten-Instru<cb break="no" facs="#f2" n="541" type="regular"/>mente nicht
 				im Unisono gehen lassen kann, ohne einen Raubzug in <persName
-					ref="#meyerbeer.giacomo">Meyerbeer’s</persName> Gebiet zu unternehmen — eine
+					key="meyerbeer.giacomo">Meyerbeer’s</persName> Gebiet zu unternehmen — eine
 				Extravaganz, wobei die pfiffigen Leute, welche so schöne Sachen auftischen, die
-				nämlichen sind, welche früher behaupteten, <persName ref="#meyerbeer.giacomo"
+				nämlichen sind, welche früher behaupteten, <persName key="meyerbeer.giacomo"
 					>Meyerbeer</persName> habe jenen Zwischenact in frecher Weise von <persName
-					ref="#paisiello.giovanni">Païsiello</persName> aus dessen berühmter Romanze:
-					»<title ref="#paisiello.il-barbiere-di-siviglia.1.6">Ich bin Lindar</title>«
+					key="paisiello.giovanni">Païsiello</persName> aus dessen berühmter Romanze:
+					»<title key="paisiello.il-barbiere-di-siviglia.1.6" type="mus">Ich bin Lindar</title>«
 				gestohlen. Doch lassen wir den Scherz bei Seite und kehren wir zu dem für den
 				Gegenstand angemessenen Ton zurück. Fast hätten wir vergessen; des <hi rend="italic"
-						><title ref="#verdi.requiem.6">Lux aeterna</title></hi> zu erwähnen, eines
+						><title key="verdi.requiem.6" type="mus">Lux aeterna</title></hi> zu erwähnen, eines
 				der schönsten und dramatischsten Gesänge jenes Todtengedichtes. Vermöge des
 				Gegensatzes von Licht und Schatten, erinnert es ganz an <persName
-					ref="#rijn.rembrandt-van">Rembrandt</persName>. In der Höhe des himmlischen
+					key="rijn.rembrandt-van">Rembrandt</persName>. In der Höhe des himmlischen
 				Azurs girren die Saiten-Instrumente, zitternd, knisternd und mystisch: <hi
 					rend="italic">lux aeterna!</hi> In der Tiefe dumpf, verhüllt und düster
 				psalmodiert das Blech: <hi rend="italic">requiem aeternam!</hi> Alles ist schön, wie
-				von <persName ref="#mozart.wolfgang-amadeus">Mozart</persName>, und furchtbar wie
+				von <persName key="mozart.wolfgang-amadeus">Mozart</persName>, und furchtbar wie
 				ein Grabgesang. Derselbe Gegensatz ist im <hi rend="italic"><title
-						ref="#verdi.requiem.7">libera</title></hi>, wo die <hi rend="widespace"
-						><persName ref="#stolz.teresa">Stolz</persName></hi> als unwiderstehliche
+						key="verdi.requiem.7" type="mus">libera</title></hi>, wo die <hi rend="widespace"
+						><persName key="stolz.teresa">Stolz</persName></hi> als unwiderstehliche
 				Verbündete eingreift. Wenn diese mächtige glanzvolle Stimme sich entfaltet, meint
 				man den Sturm über die Wogen hinbrausen zu hören; allmälig beruhigt sie sich und
 				erstirbt in einem <hi rend="italic">pianissimo</hi>, das uns im Grunde der Seele

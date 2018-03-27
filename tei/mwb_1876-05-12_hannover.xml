@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-05-12"/>
 					<biblScope unit="issue">20</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#hannover"/></creation>
+			<creation><placeName key="hannover"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -44,9 +44,9 @@
 			<pb n="265"/>
 			<head rend="lineale bold">Aufgeführte Novitäten.</head>
 			<cb n="265b" type="skipped"/>
-			<p rend="hanging"><rs ref="#hannover.1876.1" type="event"><persName
-						ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi> (G.)</persName>,
-						<title ref="#verdi.requiem">Requiem</title>. (<placeName ref="#hannover"
+			<p rend="hanging"><rs key="hannover.1876.1" type="event"><persName
+						key="verdi.giuseppe"><hi rend="widespace">Verdi</hi> (G.)</persName>,
+						<title key="verdi.requiem" type="mus">Requiem</title>. (<placeName key="hannover"
 						>Hannover</placeName>, Wohlthätigkeitsconcert am <date when-iso="1876-04-14"
 						>14. April</date>.)</rs></p>
 		</body>

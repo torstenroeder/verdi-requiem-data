@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-05-19"/>
 					<biblScope unit="issue">21</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#st-petersburg"/></creation>
+			<creation><placeName key="st-petersburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -43,11 +43,11 @@
 		<body rend="antiqua">
 			<head rend="lineale bold">Aufgeführte Novitäten.</head>
 			<gap resp="tr"/>
-			<p rend="noIndent"><rs ref="#st-petersburg.1876.1" type="event">
-					<persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi> (G.)</persName>,
-						<title ref="#verdi.requiem">Requiem</title>. (<placeName
-						ref="#st-petersburg">St. Petersburg</placeName>, Aufführung im <placeName
-						ref="#st-petersburg.mariinski-theater">Grossen
+			<p rend="noIndent"><rs key="st-petersburg.1876.1" type="event">
+					<persName key="verdi.giuseppe"><hi rend="widespace">Verdi</hi> (G.)</persName>,
+						<title key="verdi.requiem" type="mus">Requiem</title>. (<placeName
+						key="st-petersburg">St. Petersburg</placeName>, Aufführung im <placeName
+						key="st-petersburg.mariinski-theater">Grossen
 				Theater</placeName>.)</rs></p>
 		</body>
 	</text>

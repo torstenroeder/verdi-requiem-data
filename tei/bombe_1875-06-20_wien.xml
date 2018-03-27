@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#die-bombe" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="die-bombe" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-20"/>
 					<biblScope unit="issue">24</biblScope>
 					<biblScope unit="volume">5</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -53,13 +53,13 @@
 				<l>Als in’s Evangelium blickt.</l>
 				<l>Jüngling aus Jerusalem —</l>
 				<l><hi rend="antiqua">Dona nobis requiem.</hi></l>
-				<l rend="right"><persName ref="#verdi.giuseppe">Verdi</persName> und sein
+				<l rend="right"><persName key="verdi.giuseppe">Verdi</persName> und sein
 					Quartett.</l>
 			</lg>
 			<lg>
 				<l>Lass’, Distanzfex, schon genug sein</l>
 				<l>Deines grauen Spiels! Im Flug sein</l>
-				<l>Sollen wieder in <placeName ref="#paris">Paris</placeName>.</l>
+				<l>Sollen wieder in <placeName key="paris">Paris</placeName>.</l>
 				<l>Sechs Fiaker und „zaruck“ sein,</l>
 				<l>Denk, o Fex, die Ruh’ is süß</l>
 				<l>Bei der Hitz’ und angenehm —</l>
@@ -91,7 +91,7 @@
 				<l>wollen gerne schon im Schatten</l>
 				<l>Von den Jahres Arbeit ruh’n;</l>
 				<l>Darum fütt’re auf den Matten,</l>
-				<l><persName ref="#bismarck.otto-von">Bismarck</persName>, in Parzin dein Ruhn.</l>
+				<l><persName key="bismarck.otto-von">Bismarck</persName>, in Parzin dein Ruhn.</l>
 				<l>Trink’ der eig’nen Sahne Crême —</l>
 				<l><hi rend="antiqua">Dona nobis requiem.</hi></l>
 				<l rend="right">Die Leitartikler.</l>

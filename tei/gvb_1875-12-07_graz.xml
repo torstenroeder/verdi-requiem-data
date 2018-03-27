@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#grazer-volksblatt" role="publisher"/>
-					<placeName ref="#graz"/>
+					<orgName key="grazer-volksblatt" role="publisher"/>
+					<placeName key="graz"/>
 					<date when-iso="1875-12-07"/>
 					<biblScope unit="issue">280</biblScope>
 					<biblScope unit="volume">8</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#graz"/></creation>
+			<creation><placeName key="graz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -43,14 +43,14 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb facs="#f1" n="[4]b"/>
-			<head rend="larger"><placeName ref="#graz.stadt-theater">Stadt-Theater</placeName> in
-					<placeName ref="#graz">Graz</placeName>.</head>
-			<p rend="center"><rs ref="#graz.1875.3a" type="event"><date when-iso="1875-12-07"
+			<head rend="larger"><placeName key="graz.stadt-theater">Stadt-Theater</placeName> in
+					<placeName key="graz">Graz</placeName>.</head>
+			<p rend="center"><rs key="graz.1875.3a" type="event"><date when-iso="1875-12-07"
 						>Dienstag den 7. Dezember 1875</date>.<lb break="yes"/><hi
-						rend="bold antiqua"><orgName ref="#graz.akademischer-gesangverein"
+						rend="bold antiqua"><orgName key="graz.akademischer-gesangverein"
 							>Akademischer Gesang-Verein</orgName>.</hi><lb break="yes"/><hi
-						rend="larger antiqua"><title ref="#verdi.requiem">Requiem</title></hi><lb
-						break="yes"/>von <persName ref="#verdi.giuseppe">Verdi</persName>.</rs></p>
+						rend="larger antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi><lb
+						break="yes"/>von <persName key="verdi.giuseppe">Verdi</persName>.</rs></p>
 		</body>
 	</text>
 </TEI>

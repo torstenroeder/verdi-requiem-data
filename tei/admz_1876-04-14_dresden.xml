@@ -3,18 +3,19 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>AdMz, Leipzig, 14./21. April 1876 (= National-Ztg., 9.2.)</title>
-				<author><persName ref="#naumann.emil"/></author>
+				<title>AdMz, Leipzig, 14./21. April 1876</title>
+				<title corresp="nz_1876-02-09_dresden.xml">aus: National-Ztg., 9.2.</title>
+				<author key="naumann.emil">Emil Naumann</author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/admz_1876-04-14_verdis-requiem.xml</p>
+				<p>http://verdi-requiem.de/text/admz_1876-04-14_dresden.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#admz" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="admz" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-04-14"/>
 					<biblScope unit="issue">15</biblScope>
 					<biblScope unit="volume">3</biblScope>
@@ -22,8 +23,8 @@
 					<biblScope unit="page">119–120</biblScope>
 				</bibl>
 				<bibl>
-					<orgName ref="#admz" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="admz" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-04-21"/>
 					<biblScope unit="issue">16</biblScope>
 					<biblScope unit="volume">3</biblScope>
@@ -54,14 +55,14 @@
 			<text n="1">
 				<body rend="fraktur">
 					<cb n="119b"/>
-					<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title> **</head>
-					<head rend="smaller">(besprochen von <persName ref="#naumann.emil">Emil
+					<head rend="larger"><persName key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title> **</head>
+					<head rend="smaller">(besprochen von <persName key="naumann.emil">Emil
 							Naumann</persName>).</head>
 					<p rend="smaller">**) Wir glauben unsern Lesern einen Dienst zu erweisen, wenn
-						wir diesen kürzlich in der <orgName ref="#national-zeitung"
+						wir diesen kürzlich in der <orgName key="national-zeitung"
 							>National-Ztg.</orgName> erschienenen Aufsatz von <persName
-							ref="#naumann.emil">Emil Naumann</persName><note resp="tr"
+							key="naumann.emil">Emil Naumann</persName><note resp="tr"
 							type="textLink">Vgl. <ref target="nz_1876-02-09_dresden.xml" type="text"
 								>National-Zeitung, Berlin, 9. Februar 1876</ref>.</note> an dieser
 						Stelle bringen; um so mehr, da wir den darin ausgesprochenen Ansichten
@@ -75,8 +76,8 @@
 						des Urtheils fallen oder in eine Periode, der es an großen überzeugenden
 						Schöpfungen fehlt, können künstlich zu einer Bedeutung hinaufgesteigert
 						werden, die ihnen an und für sich nicht inne wohnt. Zu den Werken dieser Art
-						gehört unter gewissen Einschränkungen auch das <title ref="#verdi.requiem"
-							>Requiem</title> von <persName ref="#verdi.giuseppe">Verdi</persName>.
+						gehört unter gewissen Einschränkungen auch das <title key="verdi.requiem" type="mus"
+							>Requiem</title> von <persName key="verdi.giuseppe">Verdi</persName>.
 						Ich will damit durchaus nicht sagen, daß diese Arbeit ohne allen Grund so
 						viel Aufsehen bei uns erregt, ich will derselben ebensowenig Talent und
 						Geist absprechen, dennoch ist dasselbe weit davon entfernt, ein wahrhaft
@@ -85,66 +86,65 @@
 						Gattung und einem Stil, der seinem eigenen Schaffen und Können fern liegt,
 						zu ergehen. Da man Stile und Kunstformen aber nicht <pb break="yes" n="120a"
 							type="regular"/>über Nacht erobert, so ist die Arbeit <persName
-							ref="#verdi.giuseppe">Verdi’s</persName> ein geistreiches Experiment
+							key="verdi.giuseppe">Verdi’s</persName> ein geistreiches Experiment
 						geblieben, das uns mehr ein pathologisches Interesse als reine Theilnahme
 						einflößt.</p>
 					<p>Nichts dürfte vielleicht die thatsächliche Bedeutung der Komposition
-							<persName ref="#verdi.giuseppe">Verdi’s</persName> in ein helleres Licht
+							<persName key="verdi.giuseppe">Verdi’s</persName> in ein helleres Licht
 						setzen, als die Behauptung, daß dieselbe, wenn sie von einem deutschen
 						Meister herrührte, wahrscheinlich von denselben Stimmen, deren Enthusiasmus
 						jetzt ins Grenzenlose geht, verurtheilt werden würde. <emph rend="widespace"
 							>Das bedeutendste Werk gleicher Gattung</emph>, welches die neuere Zeit
 						hervorgerufen, ist das <emph rend="widespace"><title
-								ref="#kiel.requiem-f-moll">Requiem</title> von <persName
-								ref="#kiel.friedrich">Friedrich Kiel</persName></emph>, dennoch hat
+								key="kiel.requiem-f-moll" type="mus">Requiem</title> von <persName
+								key="kiel.friedrich">Friedrich Kiel</persName></emph>, dennoch hat
 						es, im Verhältnis zu der Überschwänglichkeit, mit der man <persName
-							ref="#verdi.giuseppe">Verdi’s</persName> Werke preist, nur einen mäßigen
+							key="verdi.giuseppe">Verdi’s</persName> Werke preist, nur einen mäßigen
 						Beifall oder den Beifall des Kenners gefunden, und in mancher großen
-						deutschen Stadt, z. B. in <placeName ref="#dresden">Dresden</placeName>, ist
+						deutschen Stadt, z. B. in <placeName key="dresden">Dresden</placeName>, ist
 						dieses Werk unseren Landsmannes überhaupt noch nicht gehört worden. Nun
-						stelle man sich vor, daß <hi rend="widespace"><persName
-								ref="#kiel.friedrich">Kiel</persName></hi> es gewagt hätte, uns ein
-						Requiem vorzuführen, das alle Effekte der großen Pariser Oper aufgeboten
-						haben würde, um zu wirken, so kann man überzeugt sein, daß die deutschen
-						Kritiker kein gutes Haar an ihm gelassen haben würden. Intolerant gegen die
-						Landsleute, sind wir nur tolerant gegen die
-						Fremden.*<surplus>*</surplus></p>
+						stelle man sich vor, daß <hi rend="widespace"><persName key="kiel.friedrich"
+								>Kiel</persName></hi> es gewagt hätte, uns ein Requiem vorzuführen,
+						das alle Effekte der großen Pariser Oper aufgeboten haben würde, um zu
+						wirken, so kann man überzeugt sein, daß die deutschen Kritiker kein gutes
+						Haar an ihm gelassen haben würden. Intolerant gegen die Landsleute, sind wir
+						nur tolerant gegen die Fremden.*<surplus>*</surplus></p>
 					<p rend="smaller">*) Letzteres ist uns in jüngster Zeit wieder recht aufgefallen
-						in mehreren Artikeln von <persName ref="#langhans.wilhelm">Dr.
-							Langhans</persName> (<orgName ref="#nbmz">Berl. Musikz.</orgName>) über
-						den französischen Komponisten <persName ref="#saint-saens.camille"
+						in mehreren Artikeln von <persName key="langhans.wilhelm">Dr.
+							Langhans</persName> (<orgName key="nbmz">Berl. Musikz.</orgName>) über
+						den französischen Komponisten <persName key="saint-saens.camille"
 							>Saint-Saens</persName>. Wie unsererseits werden Gelegenheit nehmen, auf
 						die dort so außerordentlich gerühmten, und nach unserer Ansicht weit
 						überschätzten Werke dieses Komponisten gründlich einzugehen. Weit entfernt
 						den Haß auf dem Gebiete der Politik in die Kunst hinüberzutragen, wie das
 						leider von unserm Nachbarvolk so häufig geschieht und wie es kürzlich in so
 						trauriger kleinlicher Weise wieder vorgefallen ist, als <persName
-							ref="#wilhelmj.august">Wilhelmj</persName> in <placeName ref="#paris"
+							key="wilhelmj.august">Wilhelmj</persName> in <placeName key="paris"
 							>Paris</placeName> zu spielen eingeladen war, sollte die Anbeterei Alles
-						dessen, was aus <placeName ref="#frankreich">Frankreich</placeName> kommt
+						dessen, was aus <placeName key="frankreich">Frankreich</placeName> kommt
 						doch endlich einmal aufhören. Gewiß wundert man sich am Meisten in
-							<placeName ref="#frankreich">Frankreich</placeName> selbst über
-						derartige Posaunenstöße. <space type="flexible"/> Die Red.</p>
-					<p><persName ref="#verdi.giuseppe">Verdi</persName> verpflanzt das Theater von
+							<placeName key="frankreich">Frankreich</placeName> selbst über derartige
+						Posaunenstöße. <space type="flexible"/> Die Red.</p>
+					<p><persName key="verdi.giuseppe">Verdi</persName> verpflanzt das Theater von
 						der Scene in die Kirche, es gelüstete ihn, die dramatischen Schauer seiner
 						Opern auch einmal an einem andern Stoffe zu versuchen und, an Stelle der
-							<term ref="#nemesis">Nemesis</term> der Tragödie, das Weltgericht des
+							<term key="nemesis">Nemesis</term> der Tragödie, das Weltgericht des
 						jüngsten Tages zu seinem Vorwurf zu machen. Von diesem Standpunkte aus muß
-						man das Talent <persName ref="#verdi.giuseppe">Verdi’s</persName>
-						rückhaltlos anerkennen. Sogar ein Streben nach höheren Zielen, als er sie
-						sich bisher gestellt hat, macht sich dann in diesem geltend. Was ich
-						zuvörderst am entschiedensten betonen muß, ist die Thatsache, daß <persName
-							ref="#verdi.giuseppe">Verdi</persName> das Publikum nicht blos hat
+						man das Talent <persName key="verdi.giuseppe">Verdi’s</persName> rückhaltlos
+						anerkennen. Sogar ein Streben nach höheren Zielen, als er sie sich bisher
+						gestellt hat, macht sich dann in diesem geltend. Was ich zuvörderst am
+						entschiedensten betonen muß, ist die Thatsache, daß <persName
+							key="verdi.giuseppe">Verdi</persName> das Publikum nicht blos hat
 						blenden wollen, sondern daß es ihm, soweit dies sein Standpunkt zuläßt,
 						ernst mit dem von ihm gewählten Stoffe und dessen Darstellung gewesen ist,
 						daher auch mit seinem Empfinden und Fühlen, ernst mit seiner Trauer um
-							<persName ref="#manzoni.alessandro">Alessandro Manzoni</persName>, zu
-						dessen Todestag das <title ref="#verdi.requiem">Requiem</title> komponirt
+							<persName key="manzoni.alessandro">Alessandro Manzoni</persName>, zu
+						dessen Todestag das <title key="verdi.requiem" type="mus">Requiem</title> komponirt
 						ist, ernst endlich mit dem Versenken seiner Gedanken in die Sphäre von
 						Vergänglichkeit, Tod, Auferstehung und das große Gottesurtheil, das aller
-						Kreatur prophezeit worden. <persName ref="#verdi.giuseppe">Verdi</persName>
+						Kreatur prophezeit worden. <persName key="verdi.giuseppe">Verdi</persName>
 						war wirklich ergriffen von der Komposition seines Werkes und schuf also
-						nicht, wie <persName ref="#goethe.johann-wolfgang-von">Goethe</persName>
+						nicht, wie <persName key="goethe.johann-wolfgang-von">Goethe</persName>
 						einmal von schlechten Dichtern sagt, ohne einen inneren Anlaß, sondern mit
 						einem solchen. Dennoch vermag der italienische Meister den Eklektiker, der
 						ihm, wie den meisten Tageskomponisten unserer Zeit, tief im Blut sitzt,
@@ -154,39 +154,39 @@
 						Motiv und an die aus ihm hervorfließende Stimmung hingeben wollen, auf das
 						Grausamste oder Gewaltsamste durch eins jener vorausberechneten Effektmittel
 						aufgeschreckt, die dem Stile der französischen großen Oper seit dem
-						auftreten <persName ref="#meyerbeer.giacomo">Meyerbeer’s</persName> und
-							<persName ref="#halevy.jacques">Halevy’s</persName> so geläufig geworden
+						auftreten <persName key="meyerbeer.giacomo">Meyerbeer’s</persName> und
+							<persName key="halevy.jacques">Halevy’s</persName> so geläufig geworden
 						sind. Aber damit nicht genug, begegnen wir auch den in höchster Lage
-						vierfach getheilten <title ref="#wagner.lohengrin">Lohengrin</title>-Geigen
-							<persName ref="#wagner.richard">Wagner’s</persName><note resp="tr"
-							type="musicLink">Vgl. <title key="bar:1" ref="#verdi.requiem.6">Lux
+						vierfach getheilten <title key="wagner.lohengrin" type="mus">Lohengrin</title>-Geigen
+							<persName key="wagner.richard">Wagner’s</persName><note resp="tr"
+							type="musicLink">Vgl. <title key="verdi.requiem.6" ref="bar:1" type="mus">Lux
 								aeterna</title>, T. 1 ff. (WGV S. 191) u. <title
-								ref="#wagner.lohengrin">Lohengrin</title>, 3. Akt, T. 1228 ff. (RWSW
+								key="wagner.lohengrin" type="mus">Lohengrin</title>, 3. Akt, T. 1228 ff. (RWSW
 							S. 139).</note>, zu denen, um die Reminiscenz noch zu verstärken, ein
 						englisches Horn oder eine Klarinette den Baß bildet; wir begegnen nicht
 						weniger, besonders in den Solopiecen, Anklängen an die Sentimentalität eines
-							<persName ref="#kuecken.friedrich-wilhelm">Kücken</persName> und
-							<persName ref="#proch.heinrich">Proch</persName>, die dem beweglichen
+							<persName key="kuecken.friedrich-wilhelm">Kücken</persName> und
+							<persName key="proch.heinrich">Proch</persName>, die dem beweglichen
 						Italiener schon als getragener Stil erscheint. Und selbst seine Studien
 						klassischer Partituren des deutschen italienischen Kirchenstils nehmen die
 						Richtung auf den Effekt; nur diesen hat er darin bewundert und reproduzirt.
-						So hat ihm z. B. der Sturm, der in <persName ref="#mozart.wolfgang-amadeus"
+						So hat ihm z. B. der Sturm, der in <persName key="mozart.wolfgang-amadeus"
 							>Mozart’s</persName>
-						<title ref="#mozart.requiem">Requiem</title> das Orchester und den Chor beim
-							„<hi rend="antiqua"><title ref="#mozart.requiem.3.1-dies-irae"
+						<title key="mozart.requiem" type="mus">Requiem</title> das Orchester und den Chor beim
+							„<hi rend="antiqua"><title key="mozart.requiem.3.1-dies-irae" type="mus"
 									>Di<supplied resp="tr">e</supplied>s irae</title></hi>“ erfaßt,
 						im gleichnamigen Satze seines Werkes vorgeschwebt; so ist ihm der ungeheure
-						Effekt des Tam-Tamschlages, der im <title ref="#cherubini.requiem-c-moll"
+						Effekt des Tam-Tamschlages, der im <title key="cherubini.requiem-c-moll" type="mus"
 							>Requiem</title> seines großen unsterblichen Landsmannes <persName
-							ref="#cherubini.luigi">Cherubini</persName> das „<hi rend="antiqua"
-								><title ref="#cherubini.requiem-c-moll.dies-irae">Dies
+							key="cherubini.luigi">Cherubini</persName> das „<hi rend="antiqua"
+								><title key="cherubini.requiem-c-moll.dies-irae" type="mus">Dies
 							irae</title></hi>“ eröffnet, nicht entgangen, und um etwas Aehnliches zu
 						bringen, bedient er sich der Posaunen, Becken und der Piccolo. Auch der <cb
 							break="yes" n="120b" type="regular"/>Eingang des „<hi rend="antiqua"
-								><title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>“
-						steht unter <persName ref="#mozart.wolfgang-amadeus">Mozart’schen</persName>
+								><title key="verdi.requiem.2.tuba-mirum" type="mus">Tuba mirum</title></hi>“
+						steht unter <persName key="mozart.wolfgang-amadeus">Mozart’schen</persName>
 						Einflüssen, nur mit dem Unterschiede, daß sich <persName
-							ref="#verdi.giuseppe">Verdi</persName> hier, statt der Posaune, einer
+							key="verdi.giuseppe">Verdi</persName> hier, statt der Posaune, einer
 						Anzahl von Solotrompeten bedient, die mit dem bleichen Kolorit ihrer tiefen
 						Töne uns allerdings wie Moderluft und Grabeshauch überschauern. Wir machen
 						also überall die Erfahrung, daß es dem Meister nicht gelingt, Stile oder
@@ -198,19 +198,19 @@
 						beherrscht der Subjektivismus, der in Kunst, Literatur und Wissenschaft als
 						die eigentliche Grundkrankheit unserer Zeit anzusehen ist, auch die Romanen
 						sind davon ergriffen und wenn sie auch nicht ein kunstgeschichtliches
-						Unikum, wie <persName ref="#wagner.richard">Richard Wagner</persName>, in
+						Unikum, wie <persName key="wagner.richard">Richard Wagner</persName>, in
 						unserem Jahrhundert hervorgebracht, dass eine Person an die Stelle der
 						ganzen Kunst setzt, so sind doch Erscheinungen, wie <persName
-							ref="#verdi.giuseppe">Verdi</persName>, <persName ref="#berlioz.hector"
-							>Berlioz</persName> und <persName ref="#liszt.franz">Franz
+							key="verdi.giuseppe">Verdi</persName>, <persName key="berlioz.hector"
+							>Berlioz</persName> und <persName key="liszt.franz">Franz
 							Liszt</persName>, dem deutschen Meister durch ihren hochgesteigerten
 						Subjektivismus nahe verwandt. Das Motto Aller ist: <hi rend="antiqua"
-							xml:lang="fr"><term ref="#car--plaisir">„Car tel est mon
+							xml:lang="fr"><term key="car--plaisir">„Car tel est mon
 							plaisir“</term></hi>! und der Tonkunst und ihren Gesetzen gegenüber
 						glaubt jeder mit absolutistischem Bewußtsein sagen zu dürfen: <hi
-							rend="antiqua" xml:lang="fr"><term ref="#etat--moi">„L’etat c’est
+							rend="antiqua" xml:lang="fr"><term key="etat--moi">„L’etat c’est
 								moi.“</term></hi> Doch verschließen wir die Augen nicht gegen das
-						Bedeutungs- und Verheißungsvolle, was uns in <persName ref="#verdi.giuseppe"
+						Bedeutungs- und Verheißungsvolle, was uns in <persName key="verdi.giuseppe"
 							>Verdi’s</persName> That — denn eine künstlerische That ist sein neustes
 						Werk jedenfalls zu nennen — ergreift. Wäre der italienische Meister nicht
 						ein ungewöhnlich begabtes Talent, so würde ihm seine Spekulation auf die
@@ -218,40 +218,40 @@
 						haben, deren Zeugen wir sind, noch er überhaupt im Stande gewesen sein, ein
 						Werk zu schaffen, das in einzelnen Partien auch den ergreift, der es ernst
 						mit der Kunst meint. Und wenn man mitunter den Gedanken nicht abwehren kann,
-						daß <persName ref="#meyerbeer.giacomo">Meyerbeer</persName>, wenn er ein
+						daß <persName key="meyerbeer.giacomo">Meyerbeer</persName>, wenn er ein
 						Requiem hätte schreiben wollen es in ähnlicher Weise und in verwandtem
-						Geiste komponirt haben würde, wie <persName ref="#verdi.giuseppe"
+						Geiste komponirt haben würde, wie <persName key="verdi.giuseppe"
 							>Verdi</persName>, so ist es doch auch dies nicht herabsetzend für den
-						letzteren, denn auch <persName ref="#meyerbeer.giacomo">Meyerbeer</persName>
+						letzteren, denn auch <persName key="meyerbeer.giacomo">Meyerbeer</persName>
 						würde, wenn er nichts weiter als der Spekulant wäre, für den ihm seine
 						Feinde ausgeben und nicht zugleich ein bedeutender Künstler, sich wohl kaum,
-						wie geschehen, seit fünfzig Jahren auf den Bühnen <placeName ref="#europa"
+						wie geschehen, seit fünfzig Jahren auf den Bühnen <placeName key="europa"
 							>Europa’s</placeName> mit seinen Opern behaupten. Aber es treten noch
-						andere Momente hinzu, um unser Interesse am <title ref="#verdi.requiem"
+						andere Momente hinzu, um unser Interesse am <title key="verdi.requiem" type="mus"
 							>Requiem</title>
-						<persName ref="#verdi.giuseppe">Verdi’s</persName> zu steigern.</p>
+						<persName key="verdi.giuseppe">Verdi’s</persName> zu steigern.</p>
 					<p rend="center smaller">(Schluß folgt.)</p>
 				</body>
 			</text>
 			<text n="2">
 				<body rend="fraktur">
 					<cb break="null" n="126a" type="initial"/>
-					<head rend="bold"><persName ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></head>
-					<head rend="smaller">(besprochen von <persName ref="#naumann.emil">Emil
+					<head rend="bold"><persName key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title></head>
+					<head rend="smaller">(besprochen von <persName key="naumann.emil">Emil
 							Naumann</persName>).</head>
 					<p rend="center smaller">(Schluß.)</p>
 					<p>Zunächst ist es immer von hoher Bedeutung und fordert unsere Theilnahme
 						heraus, wenn wir einen von seiner Mitwelt hochgefeierten Künstler in
 						reiferen Jahren einen neuen Weg einschlagen und bis zu einem gewissen Punkte
 						mit seiner Vergangenheit brechen sehen; denn das muß gleich hier gesagt
-						werden, daß die relative Bedeutung des <persName ref="#verdi.giuseppe"
+						werden, daß die relative Bedeutung des <persName key="verdi.giuseppe"
 							>Verdi’schen</persName>
-						<title ref="#verdi.requiem">Requiems</title> eine sehr hohe ist; steht das
-							<title ref="#verdi.requiem">Requiem</title> doch fast außer Verhältnis
-						zu dem größten Theile seiner früheren Schöpfungen. Der Beginn eines solchen
+						<title key="verdi.requiem" type="mus">Requiems</title> eine sehr hohe ist; steht das
+							<title key="verdi.requiem" type="mus">Requiem</title> doch fast außer Verhältnis zu
+						dem größten Theile seiner früheren Schöpfungen. Der Beginn eines solchen
 						Umschwungs im Meister wollte uns schon in seiner letzten Oper <title
-							ref="#verdi.aida">Aida</title> entgegentreten; noch ungleich größer
+							key="verdi.aida" type="mus">Aida</title> entgegentreten; noch ungleich größer
 						erscheint der Schritt, den er nunmehr gethan hat, und zwar auch dann, wenn
 						ich ganz davon absehe, daß ein Mann, der seine Thätigkeit ein Menschenalter
 						hindurch der Oper gewidmet hat, plötzlich den ernsten Ton eines Grabliedes
@@ -265,21 +265,21 @@
 						begabtesten <cb break="yes" n="126b" type="regular"/>Völker der Erde,
 						vielfach auf eine gegenseitige Ergänzung aufgelegt seien. Die Geschichte der
 						Tonkunst lehrt dies in überzeugender Weise. Hätte <persName
-							ref="#verdi.giuseppe">Verdi</persName> ausschließlich die von seinen
-						Vorgängern <persName ref="#bellini.vincenzo">Bellini</persName> und
-							<persName ref="#donizetti.gaetano">Donizetti</persName> eingeschlagenen
-						Wege weiter verfolgt, so wäre das musikalische Italien einer Isolirung
-						verfallen, die es späterhin schwer gemacht haben würde, das in der Tonkunst
-						historisch gewordene alte Verhältnis zu Deutschland wiederzufinden und neu
-						aufleben zu lassen. <persName ref="#verdi.giuseppe">Verdi</persName> empfand
-						jedoch instinktiv, daß diese Isolirung durchbrochen werden müsse und wenn er
-						sich zunächst nicht uns, sondern den Franzosen und deren Oper zuwandte, so
-						war doch damit der erste Schritt zu einer Wiederanknüpfung mit den
+							key="verdi.giuseppe">Verdi</persName> ausschließlich die von seinen
+						Vorgängern <persName key="bellini.vincenzo">Bellini</persName> und <persName
+							key="donizetti.gaetano">Donizetti</persName> eingeschlagenen Wege weiter
+						verfolgt, so wäre das musikalische Italien einer Isolirung verfallen, die es
+						späterhin schwer gemacht haben würde, das in der Tonkunst historisch
+						gewordene alte Verhältnis zu Deutschland wiederzufinden und neu aufleben zu
+						lassen. <persName key="verdi.giuseppe">Verdi</persName> empfand jedoch
+						instinktiv, daß diese Isolirung durchbrochen werden müsse und wenn er sich
+						zunächst nicht uns, sondern den Franzosen und deren Oper zuwandte, so war
+						doch damit der erste Schritt zu einer Wiederanknüpfung mit den
 						Nachbarnationen überhaupt gethan. Uebrigens wirkte <placeName
-							ref="#deutschland">Deutschland</placeName> mittelbar auch schon durch
-							<persName ref="#meyerbeer.giacomo">Meyerbeer</persName> auf unseren
-						italienischen Meister in <placeName ref="#paris">Paris</placeName> ein.
-						Hierbei sollten jedoch die Beziehungen <persName ref="#verdi.giuseppe"
+							key="deutschland">Deutschland</placeName> mittelbar auch schon durch
+							<persName key="meyerbeer.giacomo">Meyerbeer</persName> auf unseren
+						italienischen Meister in <placeName key="paris">Paris</placeName> ein.
+						Hierbei sollten jedoch die Beziehungen <persName key="verdi.giuseppe"
 							>Verdi’s</persName> und, in Verbindung mit ihm diejenigen des übrigen
 						musikalischen Italiens zu Deutschland nicht stehen bleiben; auch die
 						nationale Geschichte beider Völker that das Ihre, um hier fördernd
@@ -291,55 +291,55 @@
 						von Soiréen für deutsche Kammermusik, aus denen sich wiederum das berühmte
 						Florentiner Streichquartett entwickelte, das Herantreten an einen Tondichter
 						von so charakteristisch nationaler Färbung, wie <persName
-							ref="#weber.carl-maria-von">C. M. v. Weber</persName> für uns Deutsche
+							key="weber.carl-maria-von">C. M. v. Weber</persName> für uns Deutsche
 						ist, das Interesse selbst, mit dem man zu unserem jüngsten nationalen
-						Meister, zu den Schöpfungen <persName ref="#wagner.richard">Richard
+						Meister, zu den Schöpfungen <persName key="wagner.richard">Richard
 							Wagner’s</persName> griff und die Aufführung seines „<title
-							ref="#wagner.lohengrin">Lohengrin</title>“ in <placeName ref="#bologna"
+							key="wagner.lohengrin" type="mus">Lohengrin</title>“ in <placeName key="bologna"
 							>Bologna</placeName> und anderen Städten des nördlichen Italiens sind
 						eben so viele Beweise für die neuerwachten musikalischen Beziehungen
 						zwischen den beiden großen Völkerschaften diesseits und jenseits der Alpen.
 						Und zwar sind dieselben durchaus keine einseitigen, denn unser Interesse an
 						den Leistungen der Italiener hat eigentlich niemals aufgehört. Daß heute
-							<persName ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title> einen Triumphzug durch
-							<placeName ref="#deutschland">Deutschland’s</placeName> Städte hält,
-						verdankt der Meister gewiß nicht zum kleinsten Theile <sic>mit</sic> der so
-						schön zwischen beiden Völkern in den letzten Jahren aufgeblühten nationalen
+							<persName key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title> einen Triumphzug durch <placeName
+							key="deutschland">Deutschland’s</placeName> Städte hält, verdankt der
+						Meister gewiß nicht zum kleinsten Theile <sic>mit</sic> der so schön
+						zwischen beiden Völkern in den letzten Jahren aufgeblühten nationalen
 						Sympathie.</p>
-					<p>Dennoch kommen <persName ref="#verdi.giuseppe">Verdi</persName> gegenüber
-						noch andere Gründe eines besonderen Antheils von unserer Seite mit in’s
-						Spiel. Gerade das <title ref="#verdi.requiem">Requiem</title> des Meisters
-						gleicht einer entschiedenen Schwenkung desselben auf die Schule <placeName
-							ref="#deutschland">Deutschlands</placeName> zu und verräth deutlich die
+					<p>Dennoch kommen <persName key="verdi.giuseppe">Verdi</persName> gegenüber noch
+						andere Gründe eines besonderen Antheils von unserer Seite mit in’s Spiel.
+						Gerade das <title key="verdi.requiem" type="mus">Requiem</title> des Meisters gleicht
+						einer entschiedenen Schwenkung desselben auf die Schule <placeName
+							key="deutschland">Deutschlands</placeName> zu und verräth deutlich die
 						ernste Absicht, sich ihr in Beziehung auf Stil und Tiefe der Auffassung zu
 						nähern. Worin zeigt sich nun zunächst der versuchte Anschluß <persName
-							ref="#verdi.giuseppe">Verdi’s</persName> an deutschen Stil und deutsche
+							key="verdi.giuseppe">Verdi’s</persName> an deutschen Stil und deutsche
 						Empfindungsweise? Es wird gewiß jeden Kenner, der das Werk noch nicht gehört
 						hat, überraschen, wenn ich antworte, daß sich eine solche Annäherung an uns
 						hauptsächlich in dem Streben nach der Entwickelung polyphoner Sätze und
 						eines polyphonen Stils offenbart. Eine solche Behauptung ist freilich <term
-							ref="#cum--salis">cum grano salis</term> zu verstehen, da das, was der
-						gänzlich gesunkenen Kirchenmusik des heutigen <placeName ref="#italien"
+							key="cum--salis">cum grano salis</term> zu verstehen, da das, was der
+						gänzlich gesunkenen Kirchenmusik des heutigen <placeName key="italien"
 							>Italiens</placeName> gegenüber uns in dieser Beziehung in <persName
-							ref="#verdi.giuseppe">Verdi</persName> schon als tief, deutsch und
+							key="verdi.giuseppe">Verdi</persName> schon als tief, deutsch und
 						stilvoll erscheint, mit den eigentlichen Großmeistern unseres polyphonen
-						Stils verglichen, mit <persName ref="#schuetz.heinrich">Heinrich
-							Schütz</persName>, <persName ref="#bach.johann-sebastian"
-							>Bach</persName>, <persName ref="#haendel.georg-friedrich"
-							>Händel</persName>, <persName ref="#haydn.joseph">Haydn</persName> und
-							<persName ref="#mendelssohn-bartholdy.felix">Mendelssohn</persName> nur
-						als ein bescheidener Anfang und ein zum Theil nur auf Mißverständniß
-						beruhendes Beginnen erscheint. Dem ungeachtet würde schon das bloße Wollen
-							<persName ref="#verdi.giuseppe">Verdi’s</persName>, sich uns nach dieser
-						Richtung hin zu nähern, kunsthistorisch von hoher Bedeutung sein und da er
-						im Augenblicke der musikalische Führer seiner Nation ist, von den
+						Stils verglichen, mit <persName key="schuetz.heinrich">Heinrich
+							Schütz</persName>, <persName key="bach.johann-sebastian"
+						>Bach</persName>, <persName key="haendel.georg-friedrich">Händel</persName>,
+							<persName key="haydn.joseph">Haydn</persName> und <persName
+							key="mendelssohn-bartholdy.felix">Mendelssohn</persName> nur als ein
+						bescheidener Anfang und ein zum Theil nur auf Mißverständniß beruhendes
+						Beginnen erscheint. Dem ungeachtet würde schon das bloße Wollen <persName
+							key="verdi.giuseppe">Verdi’s</persName>, sich uns nach dieser Richtung
+						hin zu nähern, kunsthistorisch von hoher Bedeutung sein und da er im
+						Augenblicke der musikalische Führer seiner Nation ist, von den
 						weitreichenden Folgen, sowol für diese, wie für uns, wenn wir nicht noch
-						überdies ein Paar Sätzen in <persName ref="#verdi.giuseppe"
+						überdies ein Paar Sätzen in <persName key="verdi.giuseppe"
 							>Verdi’s</persName> Arbeit begegneten, die schon als ein erstes
 						erfreuliches und selbst überraschendes Resultat der angeknüpften Beziehungen
 						gelten können. Ich meine damit namentlich den Schlußchor des Werkes „<title
-							ref="#verdi.requiem.7">Libera me domine</title>,“ der hoffnungsreiche
+							key="verdi.requiem.7" type="mus">Libera me domine</title>,“ der hoffnungsreiche
 						Ansätze zum wirklich fugirten Stil in jener organisch gegliederten und
 						schwungvollen Weise gewahren läßt, wie wir sie in unserer klassischen
 						deutschen Kirchenmusik gewohnt sind. Hier könnte man in Wahrheit mitunter
@@ -348,134 +348,134 @@
 						gewaltsames Abbrechen und akkordische Recitationen des ganzen Chors in einer
 						Weise unterbrochen wird, die uns wieder daran erinnert, wie schwer es dem
 						Meister noch wird, sich in der neuen Sphäre stilvoll zu bewegen.</p>
-					<p>Das <title ref="#verdi.requiem">Requiem</title> beginnt in einer überraschend
+					<p>Das <title key="verdi.requiem" type="mus">Requiem</title> beginnt in einer überraschend
 						neuen und geheimnisvoll wirkenden Weise, mit einem von Sordinen im
 						Streichorchester begleiteten Chore. Nur mit der zerstückten
 						Textesdeklamation dieses Chores können wir uns nicht einverstanden erklären.
-						Sehr fein ist der a Capella gesungene Chor: „<title n="te-decet-hymnus"
-							ref="#verdi.requiem.1">Te decet hymnus</title>.“ Bei dem „<title
-							n="kyrie" ref="#verdi.requiem.1">Kyrie eleison, Christe eleison</title>“
+						Sehr fein ist der a Capella gesungene Chor: „<title key="verdi.requiem.1"
+							n="te-decet-hymnus" type="mus">Te decet hymnus</title>.“ Bei dem „<title
+							key="verdi.requiem.1" n="kyrie" type="mus">Kyrie eleison, Christe eleison</title>“
 						treten Solostimmen in auf einander folgenden Einsätzen schön und
 						wirkungsvoll ein; mit dem Hinzutritt des Chores jedoch verwandelt sich der
 						kirchliche Hymnus wieder in ein wenn auch schönes und gediegenes Ensemble
 						der großen Oper. Die wie eine Windsbraut dahinjagenden Figuren der Geigen in
-							„<title ref="#verdi.requiem.2.dies-irae">dies irae</title>“ zum vollen
+							„<title key="verdi.requiem.2.dies-irae" type="mus">dies irae</title>“ zum vollen
 						Chor der Stimmen, Blas- und Schlaginstrumente, obwohl angeregt durch
-							<persName ref="#cherubini.luigi">Cherubini</persName> und <persName
-							ref="#mozart.wolfgang-amadeus">Mozart</persName>, mahnen dem ungeachtet
-						an ähnliche Effekte aus „<title ref="#meyerbeer.robert-le-diable">Robert dem
+							<persName key="cherubini.luigi">Cherubini</persName> und <persName
+							key="mozart.wolfgang-amadeus">Mozart</persName>, mahnen dem ungeachtet
+						an ähnliche Effekte aus „<title key="meyerbeer.robert-le-diable" type="mus">Robert dem
 							Teufel</title>“. Schön dagegen ist das Herabsinken dieser tönenden Masse
-						zum Pianissimo des „<title n="juste-judex" ref="#verdi.requiem.2.recordare"
+						zum Pianissimo des „<title key="verdi.requiem.2.recordare" n="juste-judex" type="mus"
 							>Quando judex</title>“ und bringen hier auch tiefliegende Triller der
 						Holzbläser, namentlich in der bleichen Farbe des unteren Flötenregisters,
 						ergreifende koloristische Effekte hervor. Entschieden aber müssen wir uns
-						gegen so realistische Effekte, wie die des „<title n="mors-stupebit"
-							ref="#verdi.requiem.2.tuba-mirum">Mors stupebit</title>“ verwahren. Man
-						stelle sich vor, daß der Solo-Baßsänger das eine Wort Mors in der tiefe
-						erschallen läßt, worauf ihm die große Trommel mit einem ihrer dumpfen
-						tonlosen Schläge ebenfalls Solo antwortet, und daß sich dieser Wechsel ein
-						paar Mal wiederholt, ehe jenem isolirten Worte Mors der damit verbundene
-						übrige Text folgt. Bei uns im Norden wird man bei diesem drastischen
-						Realismus sicherlich keinen eine Gänsehaut hervorrufenden kalten Schauer
-						empfinden, sondern vielmehr ausrufen: „Bange machen gilt nicht!“ Ich kann
-						mir aber sehr wohl denken, daß dieser stark aufgetragene Effekt auf die
-						leicht erregbar entzündliche Phantasie des Südländers ungefähr die Wirkung
-						hervorbringe, als wenn sich das offene Grab aufthue und die Erdschollen,
-						welche die Hinterbliebenen dem Gestorbenen als letzte ihm zu erweisende Ehre
-						nachsenden, dumpf auf den Sarg aufschlügen. Wahrhaft schön und innerlich
-						ergriffen dagegen ist das Terzett: „<title
-							ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser tunc
+						gegen so realistische Effekte, wie die des „<title
+							key="verdi.requiem.2.tuba-mirum" n="mors-stupebit" type="mus">Mors
+						stupebit</title>“ verwahren. Man stelle sich vor, daß der Solo-Baßsänger das
+						eine Wort Mors in der tiefe erschallen läßt, worauf ihm die große Trommel
+						mit einem ihrer dumpfen tonlosen Schläge ebenfalls Solo antwortet, und daß
+						sich dieser Wechsel ein paar Mal wiederholt, ehe jenem isolirten Worte Mors
+						der damit verbundene übrige Text folgt. Bei uns im Norden wird man bei
+						diesem drastischen Realismus sicherlich keinen eine Gänsehaut hervorrufenden
+						kalten Schauer empfinden, sondern vielmehr ausrufen: „Bange machen gilt
+						nicht!“ Ich kann mir aber sehr wohl denken, daß dieser stark aufgetragene
+						Effekt auf die leicht erregbar entzündliche Phantasie des Südländers
+						ungefähr die Wirkung hervorbringe, als wenn sich das offene Grab aufthue und
+						die Erdschollen, welche die Hinterbliebenen dem Gestorbenen als letzte ihm
+						zu erweisende Ehre nachsenden, dumpf auf den Sarg aufschlügen. Wahrhaft
+						schön und innerlich ergriffen dagegen ist das Terzett: „<title
+							key="verdi.requiem.2.quid-sum-miser" type="mus">Quid sum miser tunc
 							dicturus</title>,“ das von dem wirklichen Bewußtsein des „Miser sum,“
 						das den Menschen zu überkommen vermag, tief erfüllt ist und uns auch
 						abgerundet in der Form entgegentrat. Die mit Posaunen begleitete
-						Chordeklamation des „<title ref="#verdi.requiem.2.rex-tremendae">Rex
+						Chordeklamation des „<title key="verdi.requiem.2.rex-tremendae" type="mus">Rex
 							tremendae majestatis</title>“ ist im katholischen Sinne groß gedacht,
-						obwohl es hier nicht an gewissen <persName ref="#meyerbeer.giacomo"
+						obwohl es hier nicht an gewissen <persName key="meyerbeer.giacomo"
 							>Meyerbeer’schen</persName> Modulationen fehlt; das sich daran
-						schließende „<title n="salva-me" ref="#verdi.requiem.2.rex-tremendae">Salva
+						schließende „<title key="verdi.requiem.2.rex-tremendae" n="salva-me" type="mus">Salva
 							me</title>“ ist neu durch seine von <persName
-							ref="#mozart.wolfgang-amadeus">Mozart</persName> und andern Meistern
+							key="mozart.wolfgang-amadeus">Mozart</persName> und andern Meistern
 						abweichende Behandlung; es gestaltet sich nämlich nicht als sanfte Bitte,
 						sondern zu einem aus Todesnoth erschallenden Hülferuf des Chors. Das
-						Baßsolo: „<title ref="#verdi.requiem.2.confutatis">Confutatis
+						Baßsolo: „<title key="verdi.requiem.2.confutatis" type="mus">Confutatis
 							maledictis</title>“ mit seinen die züngelnden Flammen malenden Piccolos
 						erinnert wieder zu sehr an den Bösewicht der Oper, der hier etwa die Mitte
-						zwischen <title ref="#meyerbeer.robert-le-diable.bertram">Bertram</title>,
-							<title ref="#weber.freischuetz.kaspar">Kaspar</title> und <title
-							ref="#beethoven.fidelio.don-pizarro">Pizarro</title> innehält. Um so
+						zwischen <title key="meyerbeer.robert-le-diable.bertram" type="mus">Bertram</title>,
+							<title key="weber.freischuetz.kaspar" type="mus">Kaspar</title> und <title
+							key="beethoven.fidelio.don-pizarro" type="mus">Pizarro</title> innehält. Um so
 						wohlthuender ist der Wechsel, der mit dem sanft-schönen „voca me“ eintritt.
-						Das „<title ref="#verdi.requiem.2.lacrymosa">Lacrimosa</title>“ erscheint
-						das erste Mal als ein von Posaunen, Pauken, großen Trommeln, Becken und dem
+						Das „<title key="verdi.requiem.2.lacrymosa" type="mus">Lacrimosa</title>“ erscheint das
+						erste Mal als ein von Posaunen, Pauken, großen Trommeln, Becken und dem
 						übrigen Orchester begleitetes Presto, das zweite Mal als ein melodisches
-						Soloquartett. In dem „<title n="domine-jesu" ref="#verdi.requiem.3">Domine
+						Soloquartett. In dem „<title key="verdi.requiem.3" n="domine-jesu" type="mus">Domine
 							Jesu Christe</title>,“ welches den zweiten Theil des ganzen Werkes
 						eröffnet, zeigen die 4 Solostimmen eine gediegene polyphone Führung und
-						würdige Haltung; noch hoch darüber erhebt sich das „<title n="hostias"
-							ref="#verdi.requiem.3">Hostias et preces tibi</title>,“ der nach meiner
-						Meinung genialste Satz des ganzen Requiem. Hier endlich gelingt es dem
-						Meister, uns zu beweisen, daß er auch ohne Aufwand großer und komplizirter
-						Mittel uns auf das Tiefste zu ergreifen vermag. Der Tenor beginnt mit dem
-						einfachen, wundervollen Thema, welchem sich die andern 3 Solostimmen nach
-						und nach in einem rührenden Dolce anschmiegen, während das in würdevoller
-						Weise begleitende Orchester die Wirkung einer mit sanften Registern
-						spielenden Orgel erzeugt. Die darauf folgende Fuge a due Cori zum <title
-							ref="#verdi.requiem.4">Sanctus</title> ist dagegen ein vollständig
+						würdige Haltung; noch hoch darüber erhebt sich das „<title
+							key="verdi.requiem.3" n="hostias" type="mus">Hostias et preces tibi</title>,“ der
+						nach meiner Meinung genialste Satz des ganzen Requiem. Hier endlich gelingt
+						es dem Meister, uns zu beweisen, daß er auch ohne Aufwand großer und
+						komplizirter Mittel uns auf das Tiefste zu ergreifen vermag. Der Tenor
+						beginnt mit dem einfachen, wundervollen Thema, welchem sich die andern 3
+						Solostimmen nach und nach in einem rührenden Dolce anschmiegen, während das
+						in würdevoller Weise begleitende Orchester die Wirkung einer mit sanften
+						Registern spielenden Orgel erzeugt. Die darauf folgende Fuge a due Cori zum
+							<title key="verdi.requiem.4" type="mus">Sanctus</title> ist dagegen ein vollständig
 						verfehltes Experiment und nichts weniger als ein fugirter Satz. Ganz
 						abgesehen davon, daß das Thema mit seinen sich auf- und abwiegenden
 						Terzenintervallen dem Charakter der Motive, die dieser Stil fordert, gradezu
 						widerspricht, bringt es der Komponist damit auch nicht über die vier ersten
 						Wiederschläge, und mehr als kindlich vollends ist, was er uns hier als
 						Gegenthema bietet. Wollen und Können stehen an dieser Stelle in einem
-						unlösbaren Widerstreit. Auch das „<title ref="#verdi.requiem.5">Agnus
+						unlösbaren Widerstreit. Auch das „<title key="verdi.requiem.5" type="mus">Agnus
 							Dei</title>“ ist schwach und die nicht endenwollende Behandlung der
 						Solistimmen in Oktavengängen hat etwas Dilettantisches, ohne daß doch die
 						beabsichtigte Wirkung, damit etwas Neues zu bieten, erreicht wird; dazu
 						werden wir hier noch auf das Lebhafteste an das Gebet aus der „<title
-							ref="#auber.la-muette-de-portici">Stummen von <choice>
+							key="auber.la-muette-de-portici" type="mus">Stummen von <choice>
 								<orig>Porrici</orig>
 								<corr resp="tr">Portici</corr>
 							</choice></title>“ erinnert. Als großer Kolorist in Instrumentalfarben
-						zeigt sich <persName ref="#verdi.giuseppe">Verdi</persName> wieder in dem
-							„<title ref="#verdi.requiem.6">Et Lux perpetua luceat eis</title>,“ über
+						zeigt sich <persName key="verdi.giuseppe">Verdi</persName> wieder in dem
+							„<title key="verdi.requiem.6" type="mus">Et Lux perpetua luceat eis</title>,“ über
 						das die hohen Bläser eine wahre Flut lichter Verklärung verbreiten. Die
-						Einleitung des <title ref="#verdi.requiem.7">Finale’s</title> schmeckt stark
-						nach der Kirchenscene im <title ref="#meyerbeer.le-prophete"
+						Einleitung des <title key="verdi.requiem.7" type="mus">Finale’s</title> schmeckt stark
+						nach der Kirchenscene im <title key="meyerbeer.le-prophete" type="mus"
 							>Propheten</title>, namentlich nach den dort vorkommenden akkordischen
 						Deklamationen des betend niedergesunkenen Volkes. Ergreifend und wahr
-						dagegen ist das darauffolgende schöne Altsolo: „<title n="tremens-factus"
-							ref="#verdi.requiem.7">Tremens factus</title>“ und nicht weniger das
+						dagegen ist das darauffolgende schöne Altsolo: „<title key="verdi.requiem.7"
+							n="tremens-factus" type="mus">Tremens factus</title>“ und nicht weniger das
 						Sopransolo mit a Capella-Chor zu dem letzten Auftreten der Worte „<title
-							n="requiem-aeternam" ref="#verdi.requiem.7">Requiem aeternam</title>.“
+							key="verdi.requiem.7" n="requiem-aeternam" type="mus">Requiem aeternam</title>.“
 						Ueber die hohe Bedeutung des Schlußchors habe <supplied resp="tr"
 							>ich</supplied> mich schon vorhin geäußert.</p>
-					<p>Jedenfalls ist das geschilderte Werk, mit <persName ref="#rossini.gioachino"
-							>Rossini’s</persName> „<title ref="#rossini.stabat-mater">Stabat
+					<p>Jedenfalls ist das geschilderte Werk, mit <persName key="rossini.gioachino"
+							>Rossini’s</persName> „<title key="rossini.stabat-mater" type="mus">Stabat
 							mater</title>“ verglichen, ein Schritt aus dem Theatralischen nach dem
 						wahrhaft Kirchlichen zu, obwohl ihm, wie gesagt, von unserem vorbildlichen
 						Standpunkte aus, noch bei weitem zu viel des Opernhaften bleibt. <persName
-							ref="#verdi.giuseppe">Verdi</persName> war es nichts desto weniger darum
+							key="verdi.giuseppe">Verdi</persName> war es nichts desto weniger darum
 						zu thun, sich der ernsten deutschen Schule zu nähern, deren bedeutendste,
 						wenn auch noch von ihm vielfach mißverstandene Schöpfungen ihm in seinem
-							<title ref="#verdi.requiem">Requiem</title> vorschweben. Wenn es ihm
-						noch nicht gelungen ist, zur Einheit des Stiles, der Stimmung und der
-						Kunstform durchzudringen, wer wollte ihm wohl, der aus so völlig andern
-						Regionen zu uns herantritt, hieraus einen Vorwurf machen? Auch beim
-						Durchbruch zur ernsten Kunst müssen, wenn ihre erhabensten Gattungen einem
-						Volke für lange Zeit verloren gegangen waren, erst wieder Umwege und
-						gewaltsame Anläufe gemacht werden, ehe man die Straße, die zu großen Zielen
-						führt, wieder erreicht. Und wenn <persName ref="#verdi.giuseppe"
-							>Verdi</persName> auch die völlige Wandlung, die sich in der Musikwelt
-							<placeName ref="#italien">Italiens</placeName> vorzubereiten scheint,
-						nicht miterleben sollte, so wird er doch als einer der ersten Bahnbrecher
-						derselben angeführt werden müssen und sein <title ref="#verdi.requiem"
-							>Requiem</title> als das Werk, das einen jener seltenen Momente im
-						Kunst- und Kulturleben eines Volkes darstellt, von welchen sich eine
-						Wandlung seiner Richtung und eine neue Epoche jenes Schaffens datiren.<note
-							resp="tr" type="commentary">In diesem Nachdruck fehlt der letzte Absatz,
-							dessen Schluss lautete: »Möchte vor allem meine herzliche und
-							unbefangene Anerkennung, die ich in so mancher Beziehung dem neuen Werke
-							entgegenbringe, ebenso herzlich und unbefangen von unseren Nachbarn
-							jenseits der Alpen aufgenommen werden, wie sie gemeint ist!«</note></p>
+							<title key="verdi.requiem" type="mus">Requiem</title> vorschweben. Wenn es ihm noch
+						nicht gelungen ist, zur Einheit des Stiles, der Stimmung und der Kunstform
+						durchzudringen, wer wollte ihm wohl, der aus so völlig andern Regionen zu
+						uns herantritt, hieraus einen Vorwurf machen? Auch beim Durchbruch zur
+						ernsten Kunst müssen, wenn ihre erhabensten Gattungen einem Volke für lange
+						Zeit verloren gegangen waren, erst wieder Umwege und gewaltsame Anläufe
+						gemacht werden, ehe man die Straße, die zu großen Zielen führt, wieder
+						erreicht. Und wenn <persName key="verdi.giuseppe">Verdi</persName> auch die
+						völlige Wandlung, die sich in der Musikwelt <placeName key="italien"
+							>Italiens</placeName> vorzubereiten scheint, nicht miterleben sollte, so
+						wird er doch als einer der ersten Bahnbrecher derselben angeführt werden
+						müssen und sein <title key="verdi.requiem" type="mus">Requiem</title> als das Werk, das
+						einen jener seltenen Momente im Kunst- und Kulturleben eines Volkes
+						darstellt, von welchen sich eine Wandlung seiner Richtung und eine neue
+						Epoche jenes Schaffens datiren.<note resp="tr" type="commentary">In diesem
+							Nachdruck fehlt der letzte Absatz, dessen Schluss lautete: »Möchte vor
+							allem meine herzliche und unbefangene Anerkennung, die ich in so mancher
+							Beziehung dem neuen Werke entgegenbringe, ebenso herzlich und unbefangen
+							von unseren Nachbarn jenseits der Alpen aufgenommen werden, wie sie
+							gemeint ist!«</note></p>
 				</body>
 			</text>
 		</group>

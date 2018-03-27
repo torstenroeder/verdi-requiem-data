@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#die-presse"/>
-					<placeName ref="#wien"/>
+					<orgName key="die-presse"/>
+					<placeName key="wien"/>
 					<date when-custom="fri" when-iso="1875-10-22"/>
 					<biblScope unit="issue">293</biblScope>
 					<biblScope unit="volume">28</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#graz"/></creation>
+			<creation><placeName key="graz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -45,10 +45,10 @@
 			<cb facs="#f1" n="10b"/>
 			<head rend="bold">Theater- und Kunstnachrichten.</head>
 			<cb break="null" n="10c" type="skipped"/>
-			<p>— <rs ref="#graz.1875" type="event">In <hi rend="widespace"><placeName ref="#graz"
+			<p>— <rs key="graz.1875" type="event">In <hi rend="widespace"><placeName key="graz"
 							>Graz</placeName></hi> bereitet die Direction des Landestheaters
-						<persName ref="#verdi.giuseppe">Verdi’s</persName> „<title
-						ref="#verdi.requiem">Requiem</title>“ für Ende dieses Monats mit sämmtlichen
+						<persName key="verdi.giuseppe">Verdi’s</persName> „<title
+						key="verdi.requiem" type="mus">Requiem</title>“ für Ende dieses Monats mit sämmtlichen
 					Opernkräften und unter Verstärkung von Chor und Orchester vor.</rs> Die Proben
 				haben bereits begonnen, die Zahl der Vorstellungen wird auf zwei beschränkt.</p>
 		</body>

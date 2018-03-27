@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Deutsche Rundschau, Berlin, Januar 1876</title>
-				<author><persName ref="#ambros.august-wilhelm"/></author>
+				<author><persName key="ambros.august-wilhelm"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#deutsche-rundschau" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="deutsche-rundschau" role="publisher"/>
+					<placeName key="berlin"/>
 					<date notAfter-iso="1876-01-31" notBefore-iso="1876-01-12" when-iso="1876-01-31"/>
 					<biblScope unit="issue">4</biblScope>
 					<biblScope unit="volume">2</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/><date when-iso="1875-12-12"/></creation>
+			<creation><placeName key="wien"/><date when-iso="1875-12-12"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -47,31 +47,31 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="widespace larger">Wiener Chronik.</head>
-			<head><persName ref="#wagner.richard">Richard Wagner</persName> in <placeName
-					ref="#wien">Wien</placeName>.</head>
-			<p rend="right"><hi rend="widespace"><placeName ref="#wien">Wien</placeName></hi>, <date
+			<head><persName key="wagner.richard">Richard Wagner</persName> in <placeName
+					key="wien">Wien</placeName>.</head>
+			<p rend="right"><hi rend="widespace"><placeName key="wien">Wien</placeName></hi>, <date
 					when-iso="1875-12-12">12. Dezember 1875</date></p>
 			<p><pb break="null" facs="#f1" n="148" type="skipped"/> Im <date from-iso="1875-06"
 					to-iso="1875-09">verflossenen Sommer</date> hatte <persName
-					ref="#verdi.giuseppe">Verdi</persName> als Gast in <placeName ref="#wien"
-					>Wien</placeName> verweilt, er hatte nicht blos sein <rs ref="#wien.1875"
-					type="event"><title ref="#verdi.requiem">Manzoni-Requiem</title> mit
+					key="verdi.giuseppe">Verdi</persName> als Gast in <placeName key="wien"
+					>Wien</placeName> verweilt, er hatte nicht blos sein <rs key="wien.1875"
+					type="event"><title key="verdi.requiem" type="mus">Manzoni-Requiem</title> mit
 					außerordentlichem Erfolg aufgeführt</rs>, sondern auch seine „<title
-					ref="#verdi.aida">Aida</title>,“ — und die Wiener behaupteten, erst jetzt sei
-				ihnen über diese Oper das wahre Licht aufgegangen. <persName ref="#verdi.giuseppe"
+					key="verdi.aida" type="mus">Aida</title>,“ — und die Wiener behaupteten, erst jetzt sei
+				ihnen über diese Oper das wahre Licht aufgegangen. <persName key="verdi.giuseppe"
 					>Verdi</persName> selbst hatte durch sein edel-bescheidenes Auftreten fast eben
 				so viel persönlichen Erfolg, als durch seine neuesten Partituren, welche aus mehr
 				als einem Verdi-Saulus einen Verdi-Paulus machten.<note resp="tr"
 					type="glossaryLink">Saulus, der einstige Christenverfolger, fand in dem
 					»Damaskuserlebnis« seine Bekehrung und ließ sich fortan nach seinem griechischen
 					Namen »Paulus« nennen.</note> Alle Welt versicherte, <persName
-					ref="#verdi.giuseppe">Verdi</persName> sei ein Ausbund von Liebenswürdigkeit —
+					key="verdi.giuseppe">Verdi</persName> sei ein Ausbund von Liebenswürdigkeit —
 				und doch bildete schweigsame Zurückhaltung beinahe den Grundzug seines Wesens. Aber
-				es bewährte sich, was weiland schon <persName ref="#seneca.lucius-annaeus">der
+				es bewährte sich, was weiland schon <persName key="seneca.lucius-annaeus">der
 					altrömische Philosoph</persName> als Kennzeichen eines vorzüglichen Menschen
 				hervorgehoben hat: <hi rend="antiqua" xml:lang="la">ipso nutu, vultu, incessu
 					prodest</hi>.<note resp="tr" type="literatureLink">Vgl. <persName
-						ref="#seneca.lucius-annaeus">Lucius Annaeus Seneca</persName>, De
+						key="seneca.lucius-annaeus">Lucius Annaeus Seneca</persName>, De
 					Tranquillitate Animi, IV,6: »Numquam inutilis est opera ciuis boni: auditus est
 					uisusque. Vultu, nutu, obstinatione tacita incessuque ipso prodest.« –
 					Übersetzung nach Jean Paul, Leben des Quintus Fixlein, München 1796, Kapitel 47:
@@ -80,22 +80,22 @@
 					durch den Einhergang selber fruchten.«</note> Das Wichtigste bei der ganzen
 				Sache war,daß der Succeß in keiner Weise ein künstlich vorbereiteter und gewaltsam
 				durchgesetzter heißen konnte — die Theilnahme, der Beifall kam vom Herzen. Zugegeben
-				mag werden, daß die in <placeName ref="#wien">Wien</placeName> verweilenden Italiani
+				mag werden, daß die in <placeName key="wien">Wien</placeName> verweilenden Italiani
 				und Italianissimi, deren Anzahl keine geringe ist, dafür weniger sorgten, als
 				persönlich — dafür mit beiden Flachhänden im rechten Augenblick thätig waren, daß
 				der Applaus auch in dem wünschenswerthen Fortissimo erschalle. Sie erblickten in
-					<persName ref="#verdi.giuseppe">Verdi’s</persName> Berufung, in <persName
-					ref="#verdi.giuseppe">Verdi’s</persName> Erfolg einen Rückschlag gegen den
+					<persName key="verdi.giuseppe">Verdi’s</persName> Berufung, in <persName
+					key="verdi.giuseppe">Verdi’s</persName> Erfolg einen Rückschlag gegen den
 				Wagner-Enthusiasmus, welcher sich im Lauf der letzten Jahre in Wien bis zur
 				Weißglühhitze gesteigert hatte und zuweilen höchst seltsame Blasen aufwarf. Die
-				Wagnerianer, deren Zahl in <placeName ref="#wien">Wien</placeName> in gewissen
+				Wagnerianer, deren Zahl in <placeName key="wien">Wien</placeName> in gewissen
 				Kreisen Legion ist, sahen scheel genug darin — und wie bei einer Schachpartie, wenn
 				der eine Spieler mit dem König Weiß irgend einen bedeutenden und folgenreichen Zug
 				macht, sein Gegner es angemessen finden mag, seinerseits mit dem Könige Schwarz auch
-				einen Zug zu machen — so wurde nun <persName ref="#wagner.richard">Wagner</persName>
+				einen Zug zu machen — so wurde nun <persName key="wagner.richard">Wagner</persName>
 				solenn eingeladen <gap resp="tr"/></p>
 			<pb break="null" facs="#f2" n="152" type="skipped"/>
-			<p rend="right"><persName ref="#ambros.august-wilhelm">A. W. <hi rend="widespace"
+			<p rend="right"><persName key="ambros.august-wilhelm">A. W. <hi rend="widespace"
 						>Ambros</hi></persName>.</p>
 		</body>
 	</text>

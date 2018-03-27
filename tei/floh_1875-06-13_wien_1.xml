@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#der-floh" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="der-floh" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-13"/>
 					<biblScope unit="issue">24</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -43,7 +43,7 @@
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<pb facs="#f1" n="1"/>
-			<head rend="larger"><persName ref="#verdi.giuseppe">Giuseppe Verdi</persName></head>
+			<head rend="larger"><persName key="verdi.giuseppe">Giuseppe Verdi</persName></head>
 			<p rend="center"><graphic url="floh_1875-06-13_1.png">
 					<desc>Giuseppe Verdi</desc>
 				</graphic></p>

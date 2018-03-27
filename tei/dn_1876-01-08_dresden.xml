@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#dresdner-nachrichten" role="publisher"/>
-					<placeName ref="#dresden"/>
+					<orgName key="dresdner-nachrichten" role="publisher"/>
+					<placeName key="dresden"/>
 					<date when-custom="sat" when-iso="1876-01-08"/>
 					<biblScope unit="issue">8</biblScope>
 					<biblScope unit="volume">21</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#dresden"/></creation>
+			<creation><placeName key="dresden"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -38,14 +38,14 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
-			<p><g n="2020" type="DAGGER">†</g><rs ref="#dresden.1876.1" type="event"> Heute findet
-					im <hi rend="widespace"><placeName ref="#dresden.hoftheater">königlichen
+			<p><g n="2020" type="DAGGER">†</g><rs key="dresden.1876.1" type="event"> Heute findet
+					im <hi rend="widespace"><placeName key="dresden.hoftheater">königlichen
 							Altstädter Hoftheater</placeName></hi> die erste Aufführung von <hi
-						rend="widespace"><persName ref="#verdi.giuseppe">G. Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi> statt</rs>, zur Todtenfeier
-					<persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName> componirt.
+						rend="widespace"><persName key="verdi.giuseppe">G. Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> statt</rs>, zur Todtenfeier
+					<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName> componirt.
 				Das melodisch wunderbar reizvolle und würdig gestimmte Tonwerk wird hoffentlich auch
-				in <placeName ref="#dresden">Dresden</placeName>, wie anderwärts, die vollste
+				in <placeName key="dresden">Dresden</placeName>, wie anderwärts, die vollste
 				Anerkennung im Publikum finden. Wie wir hören, wird der königliche Hof der ersten
 				Aufführung anwohnen und ist die Nachfrage nach Billets sehr lebhaft.</p>
 		</body>

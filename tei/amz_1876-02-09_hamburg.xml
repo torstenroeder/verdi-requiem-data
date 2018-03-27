@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AmZ, Leipzig, 9. Februar 1876</title>
-				<author><persName ref="#krause.emil"/></author>
+				<author><persName key="krause.emil"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#amz" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="amz" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-02-09"/>
 					<biblScope unit="issue">6</biblScope>
 					<biblScope unit="volume">11</biblScope>
@@ -46,46 +46,46 @@
 			<cb break="null" n="92" type="initial"/>
 			<head rend="larger bold egypt">Berichte.</head>
 			<cb break="null" facs="#f1" n="93" type="skipped"/>
-			<head><hi rend="bold"><placeName ref="#hamburg">Hamburg</placeName></hi>, <date
+			<head><hi rend="bold"><placeName key="hamburg">Hamburg</placeName></hi>, <date
 					when-iso="1876-02-01">1. Februar</date>.</head>
-			<p><hi rend="italic"><persName ref="#krause.emil">E. K.</persName></hi> Das wichtigste
-				musikalische Ereigniss des verflossenen Monats war die <rs ref="#hamburg.1876"
-					type="event">Aufführung des <hi rend="widespace"><title ref="#verdi.requiem"
+			<p><hi rend="italic"><persName key="krause.emil">E. K.</persName></hi> Das wichtigste
+				musikalische Ereigniss des verflossenen Monats war die <rs key="hamburg.1876"
+					type="event">Aufführung des <hi rend="widespace"><title key="verdi.requiem" type="mus"
 							>Requiem</title></hi> von <hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi</persName></hi> im hiesigen <placeName
-						ref="#hamburg.stadt-theater">Stadttheater</placeName></rs>. Herrn Director
-					<persName ref="#pollini.bernhard">Pollini</persName> haben wir die Bekanntschaft
+							key="verdi.giuseppe">Verdi</persName></hi> im hiesigen <placeName
+						key="hamburg.stadt-theater">Stadttheater</placeName></rs>. Herrn Director
+					<persName key="pollini.bernhard">Pollini</persName> haben wir die Bekanntschaft
 				mit einem Werke von Bedeutung zu verdanken; welcher von unseren Gesangvereinen hätte
 				sich wohl in kürzester Zeit an diese Novität gemacht? — Der Eindruck der Composition
 				war, trotz aller und zum Theil wohl gerechtfertigter Bedenken, dennoch in seiner
-				Totalität überraschend. Der Schöpfer des »<title ref="#verdi.rigoletto"
-					>Rigoletto</title>«, »<title ref="#verdi.il-trovatore">Troubadour</title>« etc.
+				Totalität überraschend. Der Schöpfer des »<title key="verdi.rigoletto" type="mus"
+					>Rigoletto</title>«, »<title key="verdi.il-trovatore" type="mus">Troubadour</title>« etc.
 				zeigt in diesem Werk der Welt, was er im Stande ist Gediegenes zu gestalten, mehr
 				dies, als dasjenige was er glaubt, denn eine innerste religiöse Ueberzeugung spricht
-				sich nicht in dem <title ref="#verdi.requiem">Requiem</title> aus. Neben den
+				sich nicht in dem <title key="verdi.requiem" type="mus">Requiem</title> aus. Neben den
 				grossartigsten Sätzen enthält die Composition manches Opernhafte und sogar Triviale,
 				es mangelt daher die Einheit des Stils. Begreiflicherweise darf man nicht etwas
-					<persName ref="#mozart.wolfgang-amadeus">Mozart</persName> oder <persName
-					ref="#cherubini.luigi">Cherubini</persName> Gleichbedeutendes beanspruchen, denn
-				wie wäre wohl ein <persName ref="#verdi.giuseppe">Verdi</persName> im Stande
+					<persName key="mozart.wolfgang-amadeus">Mozart</persName> oder <persName
+					key="cherubini.luigi">Cherubini</persName> Gleichbedeutendes beanspruchen, denn
+				wie wäre wohl ein <persName key="verdi.giuseppe">Verdi</persName> im Stande
 				gewesen, den herrlichen Text, der so oft die edelste Interpretation in Tönen
 				gefunden, in gleich idealer Weise zu componiren, aber eine ausserordentliche That
-				bleibt sein <title ref="#verdi.requiem">Requiem</title> dennoch. Die Aufführung,
-				welche Herr Kapellmeister <persName ref="#fuchs.johann-nepomuk">Fuchs</persName> mit
+				bleibt sein <title key="verdi.requiem" type="mus">Requiem</title> dennoch. Die Aufführung,
+				welche Herr Kapellmeister <persName key="fuchs.johann-nepomuk">Fuchs</persName> mit
 				grosser Sorgfalt und Sachkenntniss vorbereitet hatte, war eine recht gute. Chor und
 				Orchester waren durch manche schätzbare Kraft verstärkt, um so mehr konnte ein
 				künstlerisch befriedigendes Resultat erzielt werden. Fräulein <hi rend="widespace"
-						><persName ref="#froehlich.xxx">Fröhlich</persName></hi>, Fräul. <hi
-					rend="widespace"><persName ref="#boree.minna">Borée</persName></hi>, die Herren
-					<hi rend="widespace"><persName ref="#candidus.william">Candidus</persName></hi>
-				und <hi rend="widespace"><persName ref="#koegel.josef">Kögel</persName></hi> waren
+						><persName key="froehlich.xxx">Fröhlich</persName></hi>, Fräul. <hi
+					rend="widespace"><persName key="boree.minna">Borée</persName></hi>, die Herren
+					<hi rend="widespace"><persName key="candidus.william">Candidus</persName></hi>
+				und <hi rend="widespace"><persName key="koegel.josef">Kögel</persName></hi> waren
 				mit den schwierigen Solopartien betraut. Sie lösten ihre Aufgabe mit Geschick, am
-				besten Fräul. <persName ref="#boree.minna">Borée</persName>, auch Frl. <persName
-					ref="#froehlich.xxx">Fröhlich</persName> und Herr <persName
-					ref="#candidus.william">Candidus</persName> sind gediegene Künstler, wogegen
-				Herrn <persName ref="#koegel.josef">Kögel’s</persName> Gesangweise den Anforderungen
+				besten Fräul. <persName key="boree.minna">Borée</persName>, auch Frl. <persName
+					key="froehlich.xxx">Fröhlich</persName> und Herr <persName
+					key="candidus.william">Candidus</persName> sind gediegene Künstler, wogegen
+				Herrn <persName key="koegel.josef">Kögel’s</persName> Gesangweise den Anforderungen
 				des Werkes nicht entsprach. Bei der dritten und fünften Aufführung war Frau
-					<persName ref="#otto-alvsleben.melitta">Otto-Alvsleben</persName> die Trägerin
+					<persName key="otto-alvsleben.melitta">Otto-Alvsleben</persName> die Trägerin
 				des Solo-Soprans, ihre herrliche <cb break="yes" n="94" type="regular"/>Stimme und
 				ausgezeichnete Gesangsweise kamen der ganzen Reproduction vortheilhaft zu
 				statten.</p>

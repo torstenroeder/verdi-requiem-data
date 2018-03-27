@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#wiener-zeitung" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="wiener-zeitung" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="fri" when-iso="1875-11-05"/>
 					<biblScope unit="issue">254</biblScope>
 					<series>wz</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -42,16 +42,16 @@
 		<body rend="fraktur">
 			<head rend="larger">Kleine Chronik.</head>
 			<gap resp="tr"/>
-			<p>(<hi rend="widespace">Theater</hi>.) <rs ref="#wien.1875a.3" type="event"><date
+			<p>(<hi rend="widespace">Theater</hi>.) <rs key="wien.1875a.3" type="event"><date
 						when-iso="1875-11-07"><hi rend="widespace">Sonntag</hi>, den 7. d.
 					M.</date>, gelangt im <hi rend="widespace"><placeName
-							ref="#wien.hof-operntheater">k. k. Hofoperntheater</placeName></hi>
-					<persName ref="#verdi.giuseppe">Verdi’s</persName> „<hi rend="widespace"><title
-							ref="#verdi.requiem">Requiem</title></hi>“ in dieser Saison zum letzten
-					Male zur Aufführung.</rs> Da <rs ref="#wien.1875a.1 wien.1875a.2" type="event"
+							key="wien.hof-operntheater">k. k. Hofoperntheater</placeName></hi>
+					<persName key="verdi.giuseppe">Verdi’s</persName> „<hi rend="widespace"><title
+							key="verdi.requiem" type="mus">Requiem</title></hi>“ in dieser Saison zum letzten
+					Male zur Aufführung.</rs> Da <rs key="wien.1875a.1 wien.1875a.2" type="event"
 					>die beiden ersten Aufführungen</rs> dieses Werkes bei gänzlich ausverkauftem
 				Hause stattfanden und der Andrang zur Vormerkung von Sitzplätzen ungewöhnlich
-				bedeutend ist, so sieht sich die Direction veranlaßt, für <rs ref="#wien.1875a.3"
+				bedeutend ist, so sieht sich die Direction veranlaßt, für <rs key="wien.1875a.3"
 					type="event">diese dritte und letzte Vorstellung</rs> das Abonnement
 				aufzuheben.</p>
 		</body>

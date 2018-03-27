@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#wiener-zeitung" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="wiener-zeitung" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="fri" when-iso="1875-06-11"/>
 					<biblScope unit="issue">131</biblScope>
 					<biblScope unit="subIssue">131</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -43,20 +43,20 @@
 		<body rend="fraktur">
 			<head rend="larger">Theater von heute.</head>
 			<gap resp="tr"/>
-			<p><rs ref="#wien.1875.1" type="event"><hi rend="bold"><placeName
-							ref="#wien.hof-operntheater">Hofoperntheater.</placeName></hi> Unter
-					persönlicher Leitung des Componisten <persName ref="#verdi.giuseppe">Giuseppe
-						Verdi</persName>. „<title ref="#verdi.requiem">Requiem</title>“ für Soli,
-					Chor und Orchester. (Erste Aufführung in <placeName ref="#wien"
-					>Wien</placeName>.) Soli: Sigra. <persName ref="#stolz.teresa">Teresa
-						Stolz</persName>, Sgra. <persName ref="#waldmann.maria">Maria
-						Waldmann</persName>, Sigr. <persName ref="#masini.angelo">Angelo
-						Masini</persName>, Sigr. <persName ref="#medini.paolo">Paolo
+			<p><rs key="wien.1875.1" type="event"><hi rend="bold"><placeName
+							key="wien.hof-operntheater">Hofoperntheater.</placeName></hi> Unter
+					persönlicher Leitung des Componisten <persName key="verdi.giuseppe">Giuseppe
+						Verdi</persName>. „<title key="verdi.requiem" type="mus">Requiem</title>“ für Soli,
+					Chor und Orchester. (Erste Aufführung in <placeName key="wien"
+					>Wien</placeName>.) Soli: Sigra. <persName key="stolz.teresa">Teresa
+						Stolz</persName>, Sgra. <persName key="waldmann.maria">Maria
+						Waldmann</persName>, Sigr. <persName key="masini.angelo">Angelo
+						Masini</persName>, Sigr. <persName key="medini.paolo">Paolo
 						Medini</persName>. Chor (150 Mitwirkende): der gesammte Chor der <placeName
-						ref="#wien.hof-operntheater">k. k. Hofoper</placeName>, verstärkt durch
-					Mitglieder des <orgName ref="#wien.akademischer-gesangverein">akademischen
+						key="wien.hof-operntheater">k. k. Hofoper</placeName>, verstärkt durch
+					Mitglieder des <orgName key="wien.akademischer-gesangverein">akademischen
 						Gesangvereines</orgName>. Instrumentale: das Orchester der <placeName
-						ref="#wien.hof-operntheater">k. k. Hofoper</placeName>.</rs></p>
+						key="wien.hof-operntheater">k. k. Hofoper</placeName>.</rs></p>
 		</body>
 	</text>
 </TEI>

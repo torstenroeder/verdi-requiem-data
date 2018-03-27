@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neues-wiener-tagblatt" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="neues-wiener-tagblatt" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="sat" when-iso="1875-06-05"/>
 					<biblScope unit="issue">154</biblScope>
 					<series>nwt</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -44,10 +44,10 @@
 			<head rend="larger">Theater und Kunst.</head>
 			<gap resp="tr"/>
 			<p><g n="002A" type="ASTERISK">*</g>
-				<persName ref="#verdi.giuseppe">Verdi</persName> ist, wie mir bereits gemeldet, in
-				Wien angekommen und die <rs ref="#wien.1875" type="event">Aufführungen der <title
-						ref="#verdi.requiem">Manzoni-Messe</title></rs> und der „<title
-					ref="#verdi.aida">Aida</title>“ unter des Komponisten persönlicher Leitung
+				<persName key="verdi.giuseppe">Verdi</persName> ist, wie mir bereits gemeldet, in
+				Wien angekommen und die <rs key="wien.1875" type="event">Aufführungen der <title
+						key="verdi.requiem" type="mus">Manzoni-Messe</title></rs> und der „<title
+					key="verdi.aida" type="mus">Aida</title>“ unter des Komponisten persönlicher Leitung
 				stehen vor der Thüre. Auch die gelben Plakate sind bereits erschienen, die sich mit
 				den Preisen zu den Messeabenden beschäftigten; aber sagen wir es ganz offen, diese
 				Tarifplakate haben auch jenen kleinen Rest des städtischen Publikums, der noch die
@@ -67,17 +67,17 @@
 				auserlesenen Genüssen hat und in welcher wir wohl Fremde erwarten, aber keine sehen.
 				Wir rechnen der Direktion des Opernhauses nicht nach und glauben gerne, daß ihr das
 				Verdi-Experiment mannigfache und hohe Kosten verursacht, selbst wenn man die Spesen
-				für die Mitwirkung des <orgName ref="#wien.akademischer-gesangverein">akademischen
+				für die Mitwirkung des <orgName key="wien.akademischer-gesangverein">akademischen
 					Gesangvereins</orgName>, die mit Stücken <hi rend="antiqua">in natura</hi>, d.
 				h. mit Sitzen zu den Opernvorstellungen befriedigt wird, gar nicht in Rechnung
-				zieht, aber wenn eben die zwei Abende der <title ref="#verdi.requiem">Messe</title>
-				und die zwei der „<title ref="#verdi.aida">Aida</title>“ nur vom Gesichtspunkte der
+				zieht, aber wenn eben die zwei Abende der <title key="verdi.requiem" type="mus">Messe</title>
+				und die zwei der „<title key="verdi.aida" type="mus">Aida</title>“ nur vom Gesichtspunkte der
 				Spekulation aus in Szene gesetzt wurden, so hat man wohl auch gewiß das mögliche
 				Risiko in den Voranschlag aufgenommen. Es ist nämlich noch gar nicht ausgemacht, ob
 				das Wiener Publikum auf den Messetarif unserer Opernverwaltung eingehe, ja nach den
 				bisherigen Resultaten der Vormerkungen — und große Theaterereignisse pflegen in der
 				Regel ihr Vormerkungen vorauszuwerfen — scheint die Fluth der Billetbewerber nicht
-				gewaltig genug hereinbrechen zu wollen, um auch noch für die <term ref="#agiotage"
+				gewaltig genug hereinbrechen zu wollen, um auch noch für die <term key="agiotage"
 					>Agiotage</term> genug Wasser zum Schwimmen und Fischen zu haben. . . . .</p>
 		</body>
 	</text>

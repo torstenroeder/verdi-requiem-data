@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Zeitung, 24. August 1875</title>
-				<author><persName ref="#hiller.ferdinand"/></author>
+				<author><persName key="hiller.ferdinand"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#koelnische-zeitung" role="publisher"/>
-					<placeName ref="#koeln"/>
+					<orgName key="koelnische-zeitung" role="publisher"/>
+					<placeName key="koeln"/>
 					<date when-iso="1875-08-24"/>
 					<biblScope unit="issue">234</biblScope>
 					<biblScope unit="subIssue">234</biblScope>
@@ -41,32 +41,32 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head><g n="2736" type="SIX_POINTED_BLACK_STAR">✶</g>
-				<persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title>.</head>
-			<p>Dieses Tonwerk, welches der populäre Componist des <title ref="#verdi.il-trovatore"
+				<persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title>.</head>
+			<p>Dieses Tonwerk, welches der populäre Componist des <title key="verdi.il-trovatore" type="mus"
 					>Trovatore</title> zur Feier des <date when-iso="1873-04-22">Todestages</date>
-				<persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName> geschrieben (<rs
-					ref="#mailand.1874.1" type="event">es wurde am <date when-iso="1874-05-22">22.
+				<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName> geschrieben (<rs
+					key="mailand.1874.1" type="event">es wurde am <date when-iso="1874-05-22">22.
 						Mai 1874</date> zum ersten Mal aufgeführt</rs>), hat seitdem in <rs
-					ref="#paris.1874" type="event"><placeName ref="#paris">Paris</placeName></rs>,
-					<rs ref="#london.1875" type="event"><placeName ref="#london"
-					>London</placeName></rs> und <rs ref="#wien.1875" type="event"><placeName
-						ref="#wien">Wien</placeName></rs>, wo es unter der persönlichen Leitung
-					<persName ref="#verdi.giuseppe">Verdi’s</persName> zu wiederholten Malen gegeben
+					key="paris.1874" type="event"><placeName key="paris">Paris</placeName></rs>,
+					<rs key="london.1875" type="event"><placeName key="london"
+					>London</placeName></rs> und <rs key="wien.1875" type="event"><placeName
+						key="wien">Wien</placeName></rs>, wo es unter der persönlichen Leitung
+					<persName key="verdi.giuseppe">Verdi’s</persName> zu wiederholten Malen gegeben
 				worden, großes Aufsehen erregt. Hier zu Lande müssen wir uns vorläufig gedulden. Der
-				große Verleger <orgName ref="#ricordi">Ricordi</orgName> in <placeName
-					ref="#mailand">Mailand</placeName> hat freilich Partitur und Stimmen gestochen —
+				große Verleger <orgName key="ricordi">Ricordi</orgName> in <placeName
+					key="mailand">Mailand</placeName> hat freilich Partitur und Stimmen gestochen —
 				aber er hat sich das Recht vorbehalten, die Aufführung nur da und nur unter den
-				Umständen zu erlauben, die ihm (oder <persName ref="#verdi.giuseppe"
+				Umständen zu erlauben, die ihm (oder <persName key="verdi.giuseppe"
 					>Verdi</persName>?) genehm sind. Vielleicht vereinigt er den vollständigen
 				Apparat von Chor, Orchester und Solisten und unternimmt eine Requiems-Rundreise —
 				wer weiß, ob es sich nicht lohnen würde? Wie dem nun sei — wir müssen uns für jetzt
 				damit begnügen, das Werk (jedenfalls bei Weitem das bedeutendste <persName
-					ref="#verdi.giuseppe">Verdi’s</persName>) aus dem Clavierauszug kennen zu lernen
+					key="verdi.giuseppe">Verdi’s</persName>) aus dem Clavierauszug kennen zu lernen
 				— eine Bekanntschaft, die zu den interessantesten und wohlthuendsten gehört, die
 				seit lange<supplied resp="tr">m</supplied> auf dem Gebiete der höheren Vokalmusik zu
 				machen sich Gelegenheit geboten.</p>
-			<p>„Ein Requiem von <persName ref="#verdi.giuseppe">Verdi</persName>?“ werden viele
+			<p>„Ein Requiem von <persName key="verdi.giuseppe">Verdi</persName>?“ werden viele
 				meiner verehrten Collegen mit ungläubigem Kopfschütteln ausrufen — aber ich denke,
 				gar mancher wird mir schließlich doch zustimmen. Wohlthuend ist es, in dem Werke
 				eines Meisters sich umzuthun, der mit souverainer Macht über seine Mittel gebietet
@@ -81,11 +81,11 @@
 			<p>So ungesucht die Weisen dieser Composition erscheinen, so natürlich im großen Ganzen
 				der Gang der Harmonie ist, so wüßte ich doch kein Werk zu nennen, aus welchem man
 				eine Idee seiner Eigenthümlichkeit gewinnen könnte. Mit <persName
-					ref="#rossini.gioachino">Rossini’s</persName>
-				<hi rend="antiqua"><title ref="#rossini.stabat-mater">Stabat mater</title></hi>,
+					key="rossini.gioachino">Rossini’s</persName>
+				<hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">Stabat mater</title></hi>,
 				dessen glänzende Eigenschaften jeder unbefangene Musiker gelten lassen muß, hat das
-					<persName ref="#verdi.giuseppe">Verdi’sche</persName>
-				<title ref="#verdi.requiem">Werk</title> doch nur die allgemeinsten Züge
+					<persName key="verdi.giuseppe">Verdi’sche</persName>
+				<title key="verdi.requiem" type="mus">Werk</title> doch nur die allgemeinsten Züge
 				italienischer Melodik gemein — es steht, in Beziehung auf Stimmung, Ausdruck,
 				vollends aber auf breite Anlage, Originalität der Form, Behandlung des Chores und
 				der Solostimmen auf einem ganz anderen Gebiete. Es ist wohl das erste Mal, daß in
@@ -100,12 +100,12 @@
 				getrieben, die vielleicht über jene Linie hinausgeht, welche in einem derartigen
 				Werke der geläuterte Geschmack innegehalten sehen möchte, so kann man doch nicht
 				sagen, daß es im schlimmen Sinne theatralisch sei. Dies ist vielleicht nur da der
-				Fall, wo der Componist (im <title ref="#verdi.requiem.7">Libera</title>) zu einer
+				Fall, wo der Componist (im <title key="verdi.requiem.7" type="mus">Libera</title>) zu einer
 				Nachahmung kirchlichen Psalmodierens gegriffen hat — die Vorführung des äußerlich
 				Kirchlichen bekommt stets etwas Dekoratives. Viele Gesänge sind sogar von großer
 				Innerlichkeit — wenige nur streifen ans Gewöhnliche — ausdrucksvoll kann man
 				eigentlich Alles nennen. Als eminenter Meister zeigt sich <persName
-					ref="#verdi.giuseppe">Verdi</persName> in den vielfachen Verschlingungen seines
+					key="verdi.giuseppe">Verdi</persName> in den vielfachen Verschlingungen seines
 				Chores mit den Solostimmen. Die ungeheure Erfahrung seiner langen Theaterlaufbahn
 				kommt ihm hier zu Statten, aber es steckt doch ein ganz anderer Ernst in der Art und
 				Weise, wie er hier seine dort gewonnene Geschicklichkeit benutzt, als dies in seinen
@@ -114,12 +114,12 @@
 				Meister, auch in denjenigen Stücken, in welchen er den strengen polyphonen Formen
 				seinen Tribut bezahlt, weiß er sich mit einer Gewandtheit zu bewegen, die eben so
 				natürlich ist, als entfernt von schulmeisterlichen Tintenklecksen. Die <title
-					ref="#verdi.requiem.4">Sanctus-Fuge</title> für Doppelchor und das vierstimmige
-				Fugato im <hi rend="antiqua">„<title n="libera-me.fuga" ref="#verdi.requiem.7"
+					key="verdi.requiem.4" type="mus">Sanctus-Fuge</title> für Doppelchor und das vierstimmige
+				Fugato im <hi rend="antiqua">„<title n="libera-me.fuga" key="verdi.requiem.7" type="mus"
 						>Libera me</title>“</hi> können manchem Contrepunktisten <hi rend="antiqua"
-						><term ref="#ex-professo">ex professo</term></hi> zu denken geben.</p>
+						><term key="ex-professo">ex professo</term></hi> zu denken geben.</p>
 			<p>Man wird auch nach dem Clavierauszug keinen Augenblick im Zweifel darüber bleiben,
-				daß <persName ref="#verdi.giuseppe">Verdi</persName> sein Orchester zur vollsten
+				daß <persName key="verdi.giuseppe">Verdi</persName> sein Orchester zur vollsten
 				Wirkung bringt: es auch an modernen, picanten, aparten, glänzenden
 				Instrumentaleffecten in diesem Requiem nicht fehlen lassen wird. Aber eben so wenig
 				bleibt man darüber im Unklaren, daß der italienische Meister vor Allem seinen
@@ -128,7 +128,7 @@
 				unmusikalisch Redenden, die sich in Acht zu nehmen haben, nicht einem Horn oder eine
 				Bratsche ins Gehege zu kommen. Mit der ganzen Herrlichkeit, die der göttlichen
 				Menschenstimme innewohnt, treten sie auf. Freilich verlangt <persName
-					ref="#verdi.giuseppe">Verdi</persName> Sänger — und zwar in der vollsten
+					key="verdi.giuseppe">Verdi</persName> Sänger — und zwar in der vollsten
 				Bedeutung — keine Stimmen ohne Schule — keine Virtuosen ohne Stimme — keine
 				Declamation ohne Beides. Und das ist das Wohlthuendste in diesem Werke, daß es eine
 				lebendige Protestation ist gegen den immer mehr um sich greifenden Unsinn einer
@@ -140,7 +140,7 @@
 				kolossale Rumpelkammer ästhetischer, philosophischer, poetischer und prosaischer
 				Irrthümer, zu welchen auch eine so aufgeklärte Zeit wie die unsere ihr Contingent zu
 				liefern nicht ermangelt.</p>
-			<p rend="right"><hi rend="widespace"><persName ref="#hiller.ferdinand">Ferd.
+			<p rend="right"><hi rend="widespace"><persName key="hiller.ferdinand">Ferd.
 						Hiller</persName></hi>.</p>
 		</body>
 	</text>

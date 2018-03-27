@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>National-Zeitung, Berlin, 22. Januar 1876</title>
-				<author><persName ref="#wuerst.richard"/></author>
+				<author><persName key="wuerst.richard"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#national-zeitung" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="national-zeitung" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-custom="sat" when-iso="1876-01-22"/>
 					<biblScope unit="issue">35</biblScope>
 					<biblScope unit="subIssue">35</biblScope>
@@ -26,7 +26,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#dresden"/></creation>
+			<creation><placeName key="dresden"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,34 +42,34 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Kleine Mittheilungen.</head>
-			<p><persName ref="#wuerst.richard">R. W.</persName>
-				<placeName ref="#dresden">Dresden</placeName>, <date when-iso="1876-01">Mitte
-					Januar</date>. <rs ref="#dresden.1876.1" type="event">Da das hiesige <placeName
-						ref="#dresden.hoftheater">Hoftheater</placeName>, so viel mir bekannt, mit
-					der Aufführung des <persName ref="#verdi.giuseppe">Verdischen</persName>
-					<title ref="#verdi.requiem">Requiems</title> den Reigen der Aufführungen dieses
+			<p><persName key="wuerst.richard">R. W.</persName>
+				<placeName key="dresden">Dresden</placeName>, <date when-iso="1876-01">Mitte
+					Januar</date>. <rs key="dresden.1876.1" type="event">Da das hiesige <placeName
+						key="dresden.hoftheater">Hoftheater</placeName>, so viel mir bekannt, mit
+					der Aufführung des <persName key="verdi.giuseppe">Verdischen</persName>
+					<title key="verdi.requiem" type="mus">Requiems</title> den Reigen der Aufführungen dieses
 					Werkes in Deutschland eröffnet hat<note resp="tr" type="eventCommentary">Die
 						Erstaufführungen im Deutschen Reich hatten bereits am 7. Dezember 1875 in
-							<placeName ref="#koeln">Köln</placeName> und <placeName ref="#muenchen"
+							<placeName key="koeln">Köln</placeName> und <placeName key="muenchen"
 							>München</placeName> stattgefunden.</note>, so interessirt es wohl, über
 					den Erfolg etwas Näheres zu hören.</rs>
-				<rs ref="#dresden.1876.2" type="event">Am <date when-iso="1876-01-11">11.
-						Januar</date> hat das <title ref="#verdi.requiem">Requiem</title> zum
+				<rs key="dresden.1876.2" type="event">Am <date when-iso="1876-01-11">11.
+						Januar</date> hat das <title key="verdi.requiem" type="mus">Requiem</title> zum
 					zweiten Male seine Anziehungskraft bewährt.</rs> Das Haus war wieder
 				ausverkauft, und obschon der Beifall sich in Rücksicht auf den kirchlichen Stoff des
 				Kunstwerks maßvoll beschränkte, war der Erfolg doch ein unzweifelhafter. Schon nach
 				der ersten Aufführung hatte die gesammte hiesige Kritik sich in warm zustimmender
 				Weise ausgesprochen. Die Leistungen der Kapelle und der Chöre verdienen nicht minder
-				Lob wie die der Damen <persName ref="#schuch-proska.clementine"
+				Lob wie die der Damen <persName key="schuch-proska.clementine"
 					role="soloist.soprano">Schuch (-Proska)</persName> und <persName
-					ref="#nanitz.minna" role="soloist.mezzo">Nanitz</persName> und der Herren
-					<persName ref="#erl.anton" role="soloist.tenor">Anton Erl</persName> und
-					<persName ref="#koehler.hans" role="soloist.basso">Köhler</persName>. Der
+					key="nanitz.minna" role="soloist.mezzo">Nanitz</persName> und der Herren
+					<persName key="erl.anton" role="soloist.tenor">Anton Erl</persName> und
+					<persName key="koehler.hans" role="soloist.basso">Köhler</persName>. Der
 				Kapellmeister Schuch legte von Neuem ein beredtes Zeugniß für seine große Befähigung
 				ab, Musikstücke moderner Meister in vollendeter Weise zum Ausdruck gelangen zu
-				lassen. Abweichend von früheren <title ref="#verdi.requiem"
-				>Requiem</title>-Aufführungen, hatte man diesmal <rs ref="#mailand.1874"
-					type="event">nach dem Beispiele <placeName ref="#mailand"
+				lassen. Abweichend von früheren <title key="verdi.requiem" type="mus"
+				>Requiem</title>-Aufführungen, hatte man diesmal <rs key="mailand.1874"
+					type="event">nach dem Beispiele <placeName key="mailand"
 					>Mailands</placeName></rs> das gesammte Damenpersonal mit schwarzen Schleiern
 				ausgestattet, die nicht nur trefflich zu der ernsten Haltung des Werkes paßten,
 				sondern auch zu den weißen Kleidern malerisch wirkten. Die amphitheatralische
@@ -81,18 +81,18 @@
 				Elements den Genuß des Werkes in der Heimath des Komponisten ebenso sehr erhöht, wie
 				sie unser Ohr befremdlich berührt, ist unleugbar. Die Klänge der Becken nehmen
 				diesseits der Alpen einen andern Klang an als jenseits derselben, wo die Orgel sich
-				längst den geschwindesten Weisen <persName ref="#meyerbeer.giacomo"
-					>Meyerbeer’s</persName>, <persName ref="#rossini.gioachino">Rossini’s</persName>
-				und <persName ref="#verdi.giuseppe">Verdi’s</persName> anbequemt hat. Welches Getöse
-				herrscht nicht in der <placeName ref="#unidentified">Kirche des heiligen
-					Gennaio</placeName> zu <placeName ref="#neapel">Neapel</placeName>, wenn die
+				längst den geschwindesten Weisen <persName key="meyerbeer.giacomo"
+					>Meyerbeer’s</persName>, <persName key="rossini.gioachino">Rossini’s</persName>
+				und <persName key="verdi.giuseppe">Verdi’s</persName> anbequemt hat. Welches Getöse
+				herrscht nicht in der <placeName key="unidentified">Kirche des heiligen
+					Gennaio</placeName> zu <placeName key="neapel">Neapel</placeName>, wenn die
 				Soldaten auf den Altar marschiren, um dem Wunder des fließenden Blutes größeren
 				Glanz zu geben! Wenn die „Verwandten“ des Heiligen, die Fischverkäuferinnen von dem
 				largo del mercato, mit Bitten, Weinen und Schelten dem Heiligen zusetzen, er möge
 				das Wunder endlich geschehen lassen. Versetzt man sich im Geiste unter den Himmel
-					<placeName ref="#italien">Italiens</placeName>, so muß man das <persName
-					ref="#verdi.giuseppe">Verdi’sche</persName>
-				<title ref="#verdi.requiem">Requiem</title> als einen staunenswerthen Beweis für den
+					<placeName key="italien">Italiens</placeName>, so muß man das <persName
+					key="verdi.giuseppe">Verdi’sche</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> als einen staunenswerthen Beweis für den
 				Einfluß deutscher Musik und deutschen Ernstes auf den Komponisten bezeichnen. Von
 				musikalischem Wohllaut ist das ganze Werk getränkt, ohne daß ein glücklicher Gedanke
 				in eitler Selbstbewunderung sich störend wiederholte oder das Bestreben des

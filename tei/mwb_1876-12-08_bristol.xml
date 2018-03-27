@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-12-08"/>
 					<biblScope unit="issue">52</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bristol"/><date when-iso="1876-07"/></creation>
+			<creation><placeName key="bristol"/><date when-iso="1876-07"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -48,9 +48,9 @@
 			<pb n="712" type="initial"/>
 			<head rend="lineale bold">Aufgeführte Novitäten.</head>
 			<pb break="null" facs="#f1" n="713" type="skipped"/>
-			<p rend="hanging"><persName ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>
-					(G.)</persName>, <title ref="#verdi.requiem">Requiem</title>. (<rs
-					ref="#bristol.1876" type="event"><placeName ref="#bristol">Bristol</placeName>,
+			<p rend="hanging"><persName key="verdi.giuseppe"><hi rend="widespace">Verdi</hi>
+					(G.)</persName>, <title key="verdi.requiem" type="mus">Requiem</title>. (<rs
+					key="bristol.1876" type="event"><placeName key="bristol">Bristol</placeName>,
 					Musikfest.</rs>)</p>
 		</body>
 	</text>

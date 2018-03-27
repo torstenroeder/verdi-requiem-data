@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#die-presse"/>
-					<placeName ref="#wien"/>
+					<orgName key="die-presse"/>
+					<placeName key="wien"/>
 					<date when-custom="tue" when-iso="1875-10-26"/>
 					<biblScope unit="issue">297</biblScope>
 					<biblScope unit="volume">28</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#graz"/></creation>
+			<creation><placeName key="graz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -45,20 +45,20 @@
 			<pb break="null" facs="#f1" n="9" type="initial"/>
 			<head rend="larger">Theater- und Kunstnachrichten.</head>
 			<cb break="null" n="9b" type="skipped"/>
-			<p>— <rs ref="#wien.1875a.1 wien.1875a.2" type="event">Im <placeName
-						ref="#wien.hof-operntheater">Hofoperntheater</placeName> gelangt am <date
+			<p>— <rs key="wien.1875a.1 wien.1875a.2" type="event">Im <placeName
+						key="wien.hof-operntheater">Hofoperntheater</placeName> gelangt am <date
 						when-iso="1875-11-01">1.</date> und <date when-iso="1875-11-02">2.
 						November</date>
-					<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> unter Leitung <persName
-						ref="#richter.hans">Hans Richter’s</persName> zur Aufführung.</rs> Frau
-					<persName ref="#wilt.marie">Wilt</persName> und Fräulein <persName
-					ref="#hellmer.xxx">Hellmer</persName>, die Herren <persName ref="#walter.gustav"
-					>Walter</persName> und <persName ref="#rokitansky.hans">Rokitansky</persName>
+					<persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> unter Leitung <persName
+						key="richter.hans">Hans Richter’s</persName> zur Aufführung.</rs> Frau
+					<persName key="wilt.marie">Wilt</persName> und Fräulein <persName
+					key="hellmer.xxx">Hellmer</persName>, die Herren <persName key="walter.gustav"
+					>Walter</persName> und <persName key="rokitansky.hans">Rokitansky</persName>
 				sind im Besitze der Solopartien. Der akademische <orgName
-					ref="#wien.akademischer-gesangverein">Gesangsverein</orgName> hat seine
+					key="wien.akademischer-gesangverein">Gesangsverein</orgName> hat seine
 				Betheiligung bereits zugesagt, sowie auch jene Damen, welche bei den unter <persName
-					ref="#verdi.giuseppe">Verdi’s</persName> Leitung stattgehabten Aufführungen
+					key="verdi.giuseppe">Verdi’s</persName> Leitung stattgehabten Aufführungen
 				mitwirkten. Das Arrangement der Bühne wird in allen seinen Theilen beibehalten und
 					<surplus resp="tr">findet</surplus> der Anfang der Aufführungen <supplied
 					resp="tr">findet</supplied> um halb 8 Uhr statt. <gap resp="tr"/></p>

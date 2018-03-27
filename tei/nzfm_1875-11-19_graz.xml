@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1875-11-19"/>
 					<biblScope unit="issue">47</biblScope>
 					<biblScope unit="volume">71</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#graz"/></creation>
+			<creation><placeName key="graz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -45,21 +45,21 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head rend="bold">Aufführungen.</head>
 			<cb break="null" n="467b" type="skipped"/>
-			<p><rs ref="#graz.1875" type="event"><hi rend="widespace"><placeName ref="#graz"
+			<p><rs key="graz.1875" type="event"><hi rend="widespace"><placeName key="graz"
 							>Graz</placeName></hi>. Am <date when-iso="1875-11-01">1.</date> und
 						<date when-iso="1875-11-02">2.</date>
-					<title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
-						>Verdi</persName> mit Frl. <persName ref="#groedinger.xxx"
-						>Grödinger</persName>, Frl. <persName ref="#haeckl.xxx">Häckl</persName>,
-					Frl. <persName ref="#renee.xxx">Renée</persName>, Frl. <persName
-						ref="#rubin.xxx">Rubin</persName>, Fr. <persName ref="#storch-zoder.xxx"
-						>Storch-Zoder</persName>, Frl. <persName ref="#tomsa.xxx">Tomsa</persName>,
-					Frl. <persName ref="#topolanski.emma">Topolanski</persName>, Fr. <persName
-						ref="#treiber.xxx">Treiber</persName> und der HH. <persName
-						ref="#beck.joseph">Beck</persName>, <persName ref="#grengg.karl"
-						>Grengg</persName>, <persName ref="#moedlinger.ludwig">Mödlinger</persName>,
-						<persName ref="#puls.albert">Puls</persName>, <persName ref="#stoll.august"
-						>Stoll</persName> und <persName ref="#schwarz.xxx">Schwarz</persName></rs>.
+					<title key="verdi.requiem" type="mus">Requiem</title> von <persName key="verdi.giuseppe"
+						>Verdi</persName> mit Frl. <persName key="groedinger.xxx"
+						>Grödinger</persName>, Frl. <persName key="haeckl.xxx">Häckl</persName>,
+					Frl. <persName key="renee.xxx">Renée</persName>, Frl. <persName
+						key="rubin.xxx">Rubin</persName>, Fr. <persName key="storch-zoder.xxx"
+						>Storch-Zoder</persName>, Frl. <persName key="tomsa.xxx">Tomsa</persName>,
+					Frl. <persName key="topolanski.emma">Topolanski</persName>, Fr. <persName
+						key="treiber.xxx">Treiber</persName> und der HH. <persName
+						key="beck.joseph">Beck</persName>, <persName key="grengg.karl"
+						>Grengg</persName>, <persName key="moedlinger.ludwig">Mödlinger</persName>,
+						<persName key="puls.albert">Puls</persName>, <persName key="stoll.august"
+						>Stoll</persName> und <persName key="schwarz.xxx">Schwarz</persName></rs>.
 				<gap/></p>
 		</body>
 	</text>

@@ -3,7 +3,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>NZfM, Leipzig, 10. März 1876 [2] (= eine Wiesbadener Ztg.?)</title>
+				<title>NZfM, Leipzig, 10. März 1876 [2]</title>
+				<title>aus einer Wiesbadener Ztg.?</title>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -12,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-03-10"/>
 					<biblScope unit="issue">11</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wiesbaden"/></creation>
+			<creation><placeName key="wiesbaden"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,27 +46,27 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
 			<pb break="null" n="115" type="skipped"/>
-			<p><rs ref="#wiesbaden.1876" type="event"><hi rend="widespace"><placeName
-							ref="#wiesbaden">Wiesbaden</placeName></hi>. Am <date
-						when-iso="1876-02-22">22.</date> und <date when-iso="1876-02-25"><choice>
+			<p><rs key="wiesbaden.1876" type="event"><hi rend="widespace"><placeName key="wiesbaden"
+							>Wiesbaden</placeName></hi>. Am <date when-iso="1876-02-22">22.</date>
+					und <date when-iso="1876-02-25"><choice>
 							<orig>23.</orig>
 							<corr resp="tr">25.</corr>
 						</choice> Febr.</date> zwei Aufführungen von <hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName></hi>
-					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> im königl.
+							key="verdi.giuseppe">Verdi’s</persName></hi>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> im königl.
 					Theater mit den Gesangkräften der Oper, des <orgName
-						ref="#wiesbaden.caecilienverein">Cäcilienvereins</orgName> etc. etc.</rs>,
+						key="wiesbaden.caecilienverein">Cäcilienvereins</orgName> etc. etc.</rs>,
 				„einem stattlichen Chor von 120 klangvollen und auf das Sorgfältigste eingeschulten
 				Stimmen, die im Verein mit dem verstärkten Orchester eine so imposante Massenwirkung
 				erzielten, daß sie für die bescheidenen Räumlichkeiten des Musentempels fast zu
 				mächtig war. Für die Solopartien wird man auch selten vier schönere Stimmen wie die
-				der Damen <hi rend="widespace"><persName ref="#szegal.gabriele"
-					>Szegal</persName></hi> und <hi rend="widespace"><persName ref="#resch.xxx"
+				der Damen <hi rend="widespace"><persName key="szegal.gabriele"
+					>Szegal</persName></hi> und <hi rend="widespace"><persName key="resch.xxx"
 						>Resch</persName></hi>, der HH. <hi rend="widespace"><persName
-						ref="#peschier.adolf">Peschier</persName></hi> und <hi rend="widespace"
-						><persName ref="#siehr.gustav">Siehr</persName></hi> zusammenfinden. Die
+						key="peschier.adolf">Peschier</persName></hi> und <hi rend="widespace"
+						><persName key="siehr.gustav">Siehr</persName></hi> zusammenfinden. Die
 				Direction des Ganzen war in den erprobten Händen des Kapellm. <hi rend="widespace"
-						><persName ref="#jahn.wilhelm">Jahn</persName></hi> und somit waren alle
+						><persName key="jahn.wilhelm">Jahn</persName></hi> und somit waren alle
 				Vorbedingungen für eine vorzügliche Aufführung vorhanden. Wir haben also der
 				glänzenden Aufführung eines interessanten Werkes beigewohnt, welches ohne Zweifel
 				den Höhepunkt des künstlerischen Schaffens seines Autors bezeichnet, <hi
@@ -79,39 +80,39 @@
 				empfinden, in der Musik einer Todtenmesse hören sollen. In einer wirklichen
 				Kirchenmusik muß die Ruhe der Ergebung in das Unabänderliche herrschen und jeden
 				heftigen Ausbruch verhindern. Auf einen Streit darüber, ob <hi rend="widespace"
-						><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
-				<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> seinem
+						><persName key="verdi.giuseppe">Verdi’s</persName></hi>
+				<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> seinem
 				eigentlichen Zwecke, in der Kirche aufgeführt zu werden, entspreche, braucht man
 				sich daher nicht einzulassen; dem <hi rend="widespace">deutschen Gefühl</hi>
 				wenigstens würde sich Dergleichen <hi rend="widespace">absolut nicht bieten</hi>
-				lassen. Hat man doch selbst dem <persName ref="#mozart.wolfgang-amadeus"
+				lassen. Hat man doch selbst dem <persName key="mozart.wolfgang-amadeus"
 					>Mozart’schen</persName>
-				<hi rend="antiqua"><title ref="#mozart.requiem">Requiem</title></hi> sein Anrecht
-				auf die Kirche bestritten, und wie mild und resignirt ist es doch im Vergleich mit
-				dem <title ref="#verdi.requiem">Verdischen</title>! Sieht man aber hiervon ganz ab
+				<hi rend="antiqua"><title key="mozart.requiem" type="mus">Requiem</title></hi> sein Anrecht auf
+				die Kirche bestritten, und wie mild und resignirt ist es doch im Vergleich mit dem
+					<title key="verdi.requiem" type="mus">Verdischen</title>! Sieht man aber hiervon ganz ab
 				und betrachtet das Werk als eine Art Vereinigung von dramatischer und Concertmusik,
 				der ein <hi rend="widespace">kirchlicher Text nur als Unterlage</hi> dient, so muß
 				man gestehen, daß es das allgemeine Aufsehen nicht mit Unrecht erregt. Für uns
 				Deutsche muß eine nicht geringe Genugthuung darin liegen, daß die Forderung:
 				Wahrheit des Ausdrucks, Uebereinstimmung zwischen Wort und Ton auch durch einen
 				Italiener nicht mehr von der Hand gewiesen werden kann. <persName
-					ref="#verdi.giuseppe">Verdi</persName> hat eine recht dramatische Musik
+					key="verdi.giuseppe">Verdi</persName> hat eine recht dramatische Musik
 				geschrieben, die nur an wenigen Stellen in seine alten Banalitäten zurückfällt. Es
 				hat wohl selten ein Componist einen solchen Abgrund zu überbrücken gewußt, wie er
-				zwischen <persName ref="#verdi.giuseppe">Verdi’s</persName> Erstlingsoper <hi
-					rend="antiqua"><title ref="#verdi.nabucco">Nabucodonosor</title></hi><note
+				zwischen <persName key="verdi.giuseppe">Verdi’s</persName> Erstlingsoper <hi
+					rend="antiqua"><title key="verdi.nabucco" type="mus">Nabucodonosor</title></hi><note
 					resp="tr" type="commentary">Nabucco war nicht Verdis erste, aber seine erste
 					international erfolgreiche Oper.</note> und dem <hi rend="antiqua"><title
-						ref="#verdi.requiem">Requiem</title></hi> liegt.“ — Sind denn übrigens die
-				in religiöser Beziehung viel gehaltvolleren und tieferen deutschen Kirchenwerke
-				eines <persName ref="#bach.johann-sebastian">Bach</persName>, <persName
-					ref="#beethoven.ludwig-van">Beethoven</persName>, <persName ref="#liszt.franz"
-					>Liszt</persName>, <persName ref="#brahms.johannes">Brahms</persName>, <persName
-					ref="#rubinstein.anton">Rubinstein</persName> u. A. durch zahlreiche
-				Aufführungen bei uns überall etwa schon so eingebürgert, daß man sich bereits dem
-				Luxus von zwei so großartigen Kraftentfaltungen für ein dem deutschen Wesen so
-				heterogenes Werk hingeben darf? Wann werden wir unsere eigene Nationalität zu achten
-				anfangen? D. R. —</p>
+						key="verdi.requiem" type="mus">Requiem</title></hi> liegt.“ — Sind denn übrigens die in
+				religiöser Beziehung viel gehaltvolleren und tieferen deutschen Kirchenwerke eines
+					<persName key="bach.johann-sebastian">Bach</persName>, <persName
+					key="beethoven.ludwig-van">Beethoven</persName>, <persName key="liszt.franz"
+					>Liszt</persName>, <persName key="brahms.johannes">Brahms</persName>, <persName
+					key="rubinstein.anton">Rubinstein</persName> u. A. durch zahlreiche Aufführungen
+				bei uns überall etwa schon so eingebürgert, daß man sich bereits dem Luxus von zwei
+				so großartigen Kraftentfaltungen für ein dem deutschen Wesen so heterogenes Werk
+				hingeben darf? Wann werden wir unsere eigene Nationalität zu achten anfangen? D. R.
+				—</p>
 		</body>
 	</text>
 </TEI>

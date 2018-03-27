@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AdMz, Leipzig, 21. April 1876</title>
-				<author><persName ref="#goldhann.ludwig"/></author>
+				<author><persName key="goldhann.ludwig"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#admz" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="admz" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-04-21"/>
 					<biblScope unit="issue">16</biblScope>
 					<biblScope unit="volume">3</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,30 +40,30 @@
 		<body rend="fraktur">
 			<cb break="null" n="127b" type="initial"/>
 			<head rend="widespace larger">Correspondenzen.</head>
-			<p><hi rend="bold"><placeName ref="#bruenn">Brünn</placeName>.</hi> Das Musikleben
+			<p><hi rend="bold"><placeName key="bruenn">Brünn</placeName>.</hi> Das Musikleben
 				unserer Stadt bot im abgelaufenen ersten Viertel des Jahres so wenig hervorstehende
 				Momente, daß die Aufgabe des Berichterstatters eine sehr leichte wird. Der schwere
 				Druck der Zeit, welcher sich in der <emph rend="widespace">Fabrikstadt</emph>
-				<placeName ref="#bruenn">Brünn</placeName> nur fast vernichtender Wirkung geltend
+				<placeName key="bruenn">Brünn</placeName> nur fast vernichtender Wirkung geltend
 				macht, läßt im Publikum keine Freude an künstlerischen Produktionen aufkommen, und
 				hält auch alle auswärtigen musikalischen Notabilitäten von einem so wenig
 				genußverheißenden Besuche unserer Stadt ab. Genußvoll gestaltete sich <rs
-					ref="#bruenn.1876" type="event">die (wiederholte) Aufführung von <hi
-						rend="widespace"><persName ref="#verdi.giuseppe" role="composer"
+					key="bruenn.1876" type="event">die (wiederholte) Aufführung von <hi
+						rend="widespace"><persName key="verdi.giuseppe" role="composer"
 							>Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi>, unter Mitwirkung der <hi
+						<title key="verdi.requiem" type="mus">Requiem</title></hi>, unter Mitwirkung der <hi
 						rend="widespace">köngl. Kammersängerin Frl. <persName
-							ref="#gompertz-bettelheim.karoline-von"><choice>
+							key="gompertz-bettelheim.karoline-von"><choice>
 								<orig>Gompery-Bettelprinz</orig>
 								<corr resp="tr">Gompertz-Bettelheim</corr>
 							</choice></persName></hi></rs>, in einem musikalischen Feste, das durch
 				eine daran sich knüpfende Polemik über Werth oder Unwerth des Werkes, noch durch
 				lange Zeit nachwirkte. Im Allgemeinen mußte man zugestehen, daß hier ein meist
 				religiöser Gedanke, in so würdiger Form ausgesprochen sei, als dies eben einem
-				verdienstvollen Komponisten <placeName ref="#italien">Italiens</placeName> möglich
+				verdienstvollen Komponisten <placeName key="italien">Italiens</placeName> möglich
 				ist. <gap resp="tr"/></p>
 			<p rend="right"><hi rend="antiqua">Dr.</hi>
-				<persName ref="#goldhann.ludwig" role="author">L. G.</persName></p>
+				<persName key="goldhann.ludwig" role="author">L. G.</persName></p>
 		</body>
 	</text>
 </TEI>

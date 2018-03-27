@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#die-bombe" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="die-bombe" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-13"/>
 					<biblScope unit="issue">23</biblScope>
 					<biblScope unit="volume">5</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -44,8 +44,8 @@
 		<body rend="fraktur">
 			<pb facs="#f1" n="14"/>
 			<head rend="antiqua bold larger">Heiter ist die Kunst.</head>
-			<p>Bei der nächsten Reprise des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiems</title> wird, um den feierlich düstern Eindruck
+			<p>Bei der nächsten Reprise des <persName key="verdi.giuseppe">Verdi’schen</persName>
+				<title key="verdi.requiem" type="mus">Requiems</title> wird, um den feierlich düstern Eindruck
 				zu verstärken, außer den schwarzgeränderten Mullkleidern der Choristinnen noch
 				folgender Apparat zur Verwendung kommen:</p>
 			<p>Anstatt des Gefrornen wird in den Pausen schwarzer Kaffee von echten Mohren

@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neue-freie-presse" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="neue-freie-presse" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="fri" when-iso="1875-09-17"/>
 					<biblScope unit="issue">3974</biblScope>
 					<biblScope unit="subIssue">3974</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#florenz"/></creation>
+			<creation><placeName key="florenz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -42,35 +42,35 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p>[Ein Schreiben <persName ref="#verdi.giuseppe">Verdi’s</persName>.] Der Compositeur
-				der <title ref="#verdi.requiem">Manzoni-Messe</title> hat mit seiner ablehnenden
-				Antwort, zur Michel-Angelo-Feier in <placeName ref="#florenz">Florenz</placeName>
+			<p>[Ein Schreiben <persName key="verdi.giuseppe">Verdi’s</persName>.] Der Compositeur
+				der <title key="verdi.requiem" type="mus">Manzoni-Messe</title> hat mit seiner ablehnenden
+				Antwort, zur Michel-Angelo-Feier in <placeName key="florenz">Florenz</placeName>
 				persönlich mitzuwirken, in einem Wespenneste gestöbert. Sein Freund und Verleger
-					<persName cert="high" ref="#ricordi.tito">Ricordi</persName> glaubt auf die
-				schmerzhaften Stichwunden, die Maestro <persName ref="#verdi.giuseppe"
+					<persName cert="high" key="ricordi.tito">Ricordi</persName> glaubt auf die
+				schmerzhaften Stichwunden, die Maestro <persName key="verdi.giuseppe"
 					>Verdi</persName> seither zu erleiden hat, Balsam zu träufeln, indem er von
 				diesem einen Brief älteren Datums, und zwar aus dem Jahre <date when-iso="1868"
 					>1868</date> reproducirt, der also stylisirt ist:</p>
-			<p rend="right"><hi rend="widespace"><placeName ref="#sant-agata"
+			<p rend="right"><hi rend="widespace"><placeName key="sant-agata"
 					>Sant’Agata</placeName></hi>, <date when-iso="1868-11-17">17. November
 					1868</date></p>
-			<p>Theuerster <persName cert="high" ref="#ricordi.tito">Ricordi</persName>! Ich möchte,
-				daß zur Ehrenfeier <persName ref="#rossini.gioachino">Rossini’s</persName> die
-				ausgezeichnetsten italienischen Meister, <persName ref="#mercadante.saverio"
+			<p>Theuerster <persName cert="high" key="ricordi.tito">Ricordi</persName>! Ich möchte,
+				daß zur Ehrenfeier <persName key="rossini.gioachino">Rossini’s</persName> die
+				ausgezeichnetsten italienischen Meister, <persName key="mercadante.saverio"
 					>Mercadante</persName> obenan, ein Requiem componiren würden, das am Jahrestage
 				seines Ablebens aufzuführen wäre. Ich wünschte, daß nicht allein die Componisten,
 				sondern auch alle ausführenden Künstler außer ihrer Mitwirkung noch den Obulus, alle
 				Kosten aus Eigenem zu bestreiten, bieten würden. Ich möchte und wünschte ferners,
 				daß keine fremde Hand, die — und sei sie auch sonst noch so mächtig — mit der Kunst
 				nichts zu schaffen hat, ihre Mithilfe reichen dürfte; im andern Falle würde ich mich
-				sofort zurückziehen. Die Messe mußte in <placeName ref="#bologna.san-petronio">San
-					Petronio</placeName> der Stadt <placeName ref="#bologna">Bologna</placeName>,
-				welche die eigentliche musikalische Heimat <persName ref="#rossini.gioachino"
+				sofort zurückziehen. Die Messe mußte in <placeName key="bologna.san-petronio">San
+					Petronio</placeName> der Stadt <placeName key="bologna">Bologna</placeName>,
+				welche die eigentliche musikalische Heimat <persName key="rossini.gioachino"
 					>Rossini’s</persName> war, aufgeführt werden. Diese Messe dürfte nicht
 				Gegenstand des Neugierigen- oder Populations-Interesses sein; kaum aufgeführt, müßte
 				sie versiegelt und in den Archiven des musikalischen Lyceums dieser Stadt hinterlegt
 				und daraus nicht hervorgeholt werden. Eine Ausnahme könnte allenfalls für die
-				Jahresfeste, sofern solche für <persName ref="#rossini.gioachino">Rossini</persName>
+				Jahresfeste, sofern solche für <persName key="rossini.gioachino">Rossini</persName>
 				von Seite der Nachkommen stattfänden, gemacht werden. Wenn ich mich der Huld des
 				Heiligen Vaters erfreuen würde, so möchte ich ihn bitten, wenigstens für dieses
 				einzigemal zu gestatten, daß die Frauen bei der Aufführung dieses Musikwerkes
@@ -84,7 +84,7 @@
 				Einheit fehlen; abgesehen von diesem Fehler wird sie aber den Beweis liefern, wie
 				groß und stark in uns Allen die Verehrung für den Mann ist, dessen Verlust die ganze
 				Welt beweint.</p>
-			<p rend="right"><persName ref="#verdi.giuseppe">G. <hi rend="widespace"
+			<p rend="right"><persName key="verdi.giuseppe">G. <hi rend="widespace"
 					>Verdi</hi></persName>.</p>
 		</body>
 	</text>

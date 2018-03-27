@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#der-floh" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="der-floh" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-13"/>
 					<biblScope unit="issue">24</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -43,37 +43,37 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb facs="#f1" n="2c"/>
-			<head rend="antiqua larger">Während der <rs ref="#wien.1875" type="event">Aufführung des
-						<title ref="#verdi.requiem">Requiem</title></rs>.</head>
+			<head rend="antiqua larger">Während der <rs key="wien.1875" type="event">Aufführung des
+						<title key="verdi.requiem" type="mus">Requiem</title></rs>.</head>
 			<head rend="plain">(Auf den Galerien.)</head>
 			<lg>
 				<l>— Du, Josef, Du hast ja Latein g’lernt. Was heißt denn das <hi rend="antiqua"
-							><title ref="#verdi.requiem.2.dies-irae">„Dies irae<supplied resp="tr"
+							><title key="verdi.requiem.2.dies-irae" type="mus">„Dies irae<supplied resp="tr"
 								>“</supplied></title></hi>?</l>
 				<l><supplied resp="tr">—</supplied> Da steht’s ja am Theaterzettel: <hi
-						rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies
+						rend="antiqua"><title key="verdi.requiem.2.dies-irae" type="mus">Dies
 						irae</title></hi> (Soli und Chor.)</l>
 			</lg>
 			<p rend="center">*</p>
 			<lg>
 				<l>— Ujeh! Die Clericalen werden sich ärgern.</l>
-				<l>— Weil man das <title ref="#verdi.requiem">Requiem</title> im Theater
+				<l>— Weil man das <title key="verdi.requiem" type="mus">Requiem</title> im Theater
 					aufführt?</l>
 				<l>— Nein, weil man nicht mit’n Klingelbeut’l rumgeh’n darf.</l>
 			</lg>
 			<p rend="center">*</p>
 			<lg>
 				<l>— Fein, göttlich, auf Ehre, me möcht glauben, me is im alten Tempel und hört den
-						<persName ref="#sulzer.salomon">Sulzer</persName> vortragen ä Psalm.</l>
-				<l>— Nur mit’n Unterschied, daß ä Psalm von <persName ref="#sulzer.salomon"
+						<persName key="sulzer.salomon">Sulzer</persName> vortragen ä Psalm.</l>
+				<l>— Nur mit’n Unterschied, daß ä Psalm von <persName key="sulzer.salomon"
 						>Sulzer</persName>, was der nix kost, Dich nix stimmt ä so traurig, wie so ä
 					Reckwiehm, was Du mußt zahlen ä schweres Angtreh!</l>
 			</lg>
 			<p rend="center">*</p>
 			<lg>
 				<l>— Du glühst ja ganz! Was regt dich so auf, lieber Mann?</l>
-				<l>— Ich erinnere mich an die <persName ref="#linda.bertha">Linda</persName>, die
-					gestern dort an derselben Stelle, wo Signora <persName ref="#stolz.teresa"
+				<l>— Ich erinnere mich an die <persName key="linda.bertha">Linda</persName>, die
+					gestern dort an derselben Stelle, wo Signora <persName key="stolz.teresa"
 						>Stolz</persName> steht, mit den Füßchen so trillerte, wie diese mit der
 					Kehle.</l>
 			</lg>

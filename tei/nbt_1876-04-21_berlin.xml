@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neues Berliner Tageblatt, 21. April 1876</title>
-				<author><persName ref="#lackowitz.wilhelm"/></author>
+				<author><persName key="lackowitz.wilhelm"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neues-berliner-tageblatt" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="neues-berliner-tageblatt" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-custom="fri" when-iso="1876-04-21"/>
 					<biblScope unit="issue">93</biblScope>
 					<biblScope unit="subIssue">93</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#berlin"/></creation>
+			<creation><placeName key="berlin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,41 +42,41 @@
 			<head rend="larger">Musikalische Wochenschau.</head>
 			<p>Nur <hi rend="widespace">ein</hi> musikalisches Ereigniß ist für die verflossene
 				Woche zu verzeichnen, aber es ist ein Ereigniß von hervorragender Bedeutung: Das <hi
-					rend="widespace"><title ref="#verdi.requiem">Requiem</title></hi> von <hi
-					rend="widespace"><persName ref="#verdi.giuseppe">Giuseppe Verdi</persName></hi>,
-				dem Komponisten des <title ref="#verdi.il-trovatore">Troubadour</title> und der
-					<title ref="#verdi.aida">Aida</title>. Der Jahrestag des Todes <persName
-					ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>, des italienischen
-				Dichters, gab die Veranlassung, daß dies <title ref="#verdi.requiem">Requiem</title>
-				geschrieben wurde. <rs ref="#mailand.1874.1" type="event">Die erste Aufführung fand
-					am <date when-iso="1874-05-22">22. Mai 1874</date> zu <placeName ref="#mailand"
+					rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi> von <hi
+					rend="widespace"><persName key="verdi.giuseppe">Giuseppe Verdi</persName></hi>,
+				dem Komponisten des <title key="verdi.il-trovatore" type="mus">Troubadour</title> und der
+					<title key="verdi.aida" type="mus">Aida</title>. Der Jahrestag des Todes <persName
+					key="manzoni.alessandro">Alessandro Manzoni’s</persName>, des italienischen
+				Dichters, gab die Veranlassung, daß dies <title key="verdi.requiem" type="mus">Requiem</title>
+				geschrieben wurde. <rs key="mailand.1874.1" type="event">Die erste Aufführung fand
+					am <date when-iso="1874-05-22">22. Mai 1874</date> zu <placeName key="mailand"
 						>Mailand</placeName> statt</rs>, und ihr folgten seitdem Aufführungen in <rs
-					ref="#florenz.1875" type="event"><placeName ref="#florenz"
-					>Florenz</placeName></rs>, <rs ref="#wien.1875" type="event"><placeName
-						ref="#wien">Wien</placeName></rs>, <rs ref="#paris.1874" type="event"
-						><placeName ref="#paris">Paris</placeName></rs>, <rs ref="#dresden.1876"
-					type="event"><placeName ref="#dresden">Dresden</placeName></rs>, <rs
-					ref="#hamburg.1876" type="event"><placeName ref="#hamburg"
-					>Hamburg</placeName></rs>, <rs ref="#leipzig.1876" type="event"><placeName
-						ref="#leipzig">Leipzig</placeName></rs>. Mit gespannter Erwartung sah man
-				auch hier in <rs ref="#berlin.1876" type="event"><placeName ref="#berlin"
-						>Berlin</placeName></rs> dem Werke entgegen. <persName ref="#verdi.giuseppe"
+					key="florenz.1875" type="event"><placeName key="florenz"
+					>Florenz</placeName></rs>, <rs key="wien.1875" type="event"><placeName
+						key="wien">Wien</placeName></rs>, <rs key="paris.1874" type="event"
+						><placeName key="paris">Paris</placeName></rs>, <rs key="dresden.1876"
+					type="event"><placeName key="dresden">Dresden</placeName></rs>, <rs
+					key="hamburg.1876" type="event"><placeName key="hamburg"
+					>Hamburg</placeName></rs>, <rs key="leipzig.1876" type="event"><placeName
+						key="leipzig">Leipzig</placeName></rs>. Mit gespannter Erwartung sah man
+				auch hier in <rs key="berlin.1876" type="event"><placeName key="berlin"
+						>Berlin</placeName></rs> dem Werke entgegen. <persName key="verdi.giuseppe"
 					>Verdi</persName> sollte zeigen, ob der merkwürdige Fortschritt, den er in der
-					<title ref="#verdi.aida">Aida</title> über sich selbst hinaus gemacht, eine
+					<title key="verdi.aida" type="mus">Aida</title> über sich selbst hinaus gemacht, eine
 				bloße Laune gewesen, ein bloßes Experiment, um die Welt zu öffnen, — oder ob er, der
 				nunmehr Zweiundsechzigjährige, die Kunst in der That von einer ernsteren Seite
-				ansehen wolle, als er es bis zur <title ref="#verdi.aida">Aida</title> in seinen
+				ansehen wolle, als er es bis zur <title key="verdi.aida" type="mus">Aida</title> in seinen
 				zahlreichen italienischen Opern leichtfertigster Sorte gethan hatte. Das <title
-					ref="#verdi.requiem">Requiem</title> bestätigt das Letztere. Nun freilich, was
+					key="verdi.requiem" type="mus">Requiem</title> bestätigt das Letztere. Nun freilich, was
 				wir Deutsche von einem solchen Werke zu verlangen gewohnt sind, das bietet <persName
-					ref="#verdi.giuseppe">Verdi</persName> trotz alledem natürlich nicht, der
+					key="verdi.giuseppe">Verdi</persName> trotz alledem natürlich nicht, der
 				Italiener, speziell sogar der italienische Opernkomponist, verleugnet sich
 					<sic>nirgend</sic>; aber unverkennbar hat er sein bedeutendes Können einem
 				ernsten Wollen dienstbar gemacht. Er hat sich offenbar in den Stoff versenkt, ist
 				von dessen Komposition wirklich ergriffen gewesen. Warum auch hätten ihm, der mit
 				Vorliebe die Blut- und Schaueroper kultivirte, die Schauer des jüngsten Gerichts
 				nicht wohlverwandt erscheinen sollen? Das unstreitig bedeutende Können <persName
-					ref="#verdi.giuseppe">Verdi’s</persName> liegt nun aber auf einem ganz anderen
+					key="verdi.giuseppe">Verdi’s</persName> liegt nun aber auf einem ganz anderen
 				Gebiete als dem kirchlichen. Es lag bei ihm in der Natur der Sache, daß die
 				Ausdrucksformen der großen Oper maßgebend sein mußten, und so vermag der zum größten
 				Theile opernhafte Zuschnitt des Ganzen nur einen getheilten Eindruck zu
@@ -88,58 +88,58 @@
 				an, entwickelt sich klar und ruhig aus sich selbst und aus dem Gegenstand heraus, so
 				daß auch derjenige, welcher die ernstesten Anforderungen an die Kunst stellt, davon
 				ergriffen werden kann, — ein vorausberechneter Effekt im Style der großen Oper, nach
-					<persName ref="#meyerbeer.giacomo">Meyerbeer’schem</persName> Vorbilde, stürzt
+					<persName key="meyerbeer.giacomo">Meyerbeer’schem</persName> Vorbilde, stürzt
 				ihn aus allen Himmeln und läßt ihn bedauerlich den Kopf schütteln. Wir erinnern
-				beispielsweise an das <title ref="#verdi.requiem.3">Offertorium</title>: <hi
-					rend="antiqua"><title n="domine-jesu" ref="#verdi.requiem.3">Domine Jesu
+				beispielsweise an das <title key="verdi.requiem.3" type="mus">Offertorium</title>: <hi
+					rend="antiqua"><title n="domine-jesu" key="verdi.requiem.3" type="mus">Domine Jesu
 						Christe</title></hi>, in welchem die vier Stimmen so edel und dabei so
 				melodiös mit und in einander zu arbeiten beginnen, daß es eine wahre Freude ist, bis
 				dann die Violinen, ganz pianissimo anhebend, hinzutreten und der Eindruck in einen
 				vollständig opernhaften umschlägt. Oder wir erinnern an die Fuge <hi rend="antiqua"
-						><title n="libera-me.fuga" ref="#verdi.requiem.7">Libera me</title></hi>;
+						><title n="libera-me.fuga" key="verdi.requiem.7" type="mus">Libera me</title></hi>;
 				das ist charakteristisch erfunden, baut sich nach den strengsten Regeln der Kunst
 				ernst und überaus wirkungsvoll auf, so daß wir uns von dem großartig angelegten
 				Satze wahrhaft Bedeutungsvolles versprechen dürfen — auch hier läuft schließlich
 				Alles in tanzende Rhythmen und opernhafte Schablone aus. Auf das Einzelne speziell
 				einzugehen, mag uns erlassen sein. Es ist nicht zu leugnen, daß <persName
-					ref="#verdi.giuseppe">Verdi</persName> als ausschließlicher italienischer
+					key="verdi.giuseppe">Verdi</persName> als ausschließlicher italienischer
 				Opernkomponist in Manchem wahrhaft überraschend den Ton getroffen hat, der die
-				Kirchenkompositionen eines <persName ref="#mozart.wolfgang-amadeus"
-					>Mozart</persName>, <persName ref="#cherubini.luigi">Cherubini</persName> und
+				Kirchenkompositionen eines <persName key="mozart.wolfgang-amadeus"
+					>Mozart</persName>, <persName key="cherubini.luigi">Cherubini</persName> und
 				anderer Meister durchweht. Wir nennen das <hi rend="antiqua"><title
-						ref="#verdi.requiem.5">Agnus Dei</title></hi>, das <hi rend="antiqua"><title
-						ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser tunc
+						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi>, das <hi rend="antiqua"><title
+						key="verdi.requiem.2.quid-sum-miser" type="mus">Quid sum miser tunc
 					dicturus</title></hi><choice>
 					<orig>?</orig>
 					<corr resp="tr">,</corr>
 				</choice> namentlich aber das rührende <hi rend="antiqua"><title n="hostias"
-						ref="#verdi.requiem.3">Hostias</title></hi>, das wir als die gelungenste
-				Nummer des Ganzen hinstellen möchte. Daß <persName ref="#verdi.giuseppe"
+						key="verdi.requiem.3" type="mus">Hostias</title></hi>, das wir als die gelungenste
+				Nummer des Ganzen hinstellen möchte. Daß <persName key="verdi.giuseppe"
 					>Verdi</persName> die genannten Meister und nicht unsere großen, strengen
 				Kirchenkomponisten zum Muster genommen hat, leuchtet überall hervor, lag auch für
 				ihn zur Hand. Am auffallendsten tritt dies im <hi rend="antiqua"><title
-						ref="#verdi.requiem.2.dies-irae">Dies irae</title></hi> hervor, wo ihn
-				sowohl der Sturm, der <persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName>
+						key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title></hi> hervor, wo ihn
+				sowohl der Sturm, der <persName key="mozart.wolfgang-amadeus">Mozart’s</persName>
 				Orchester und Chor erfaßt, wie der wirkungsvolle Tamtamschlag <persName
-					ref="#cherubini.luigi">Cherubini’s</persName> offenbar vorgeschwebt haben; aber
-					<persName ref="#verdi.giuseppe">Verdi</persName> bleibt hinter Beiden zurück.
+					key="cherubini.luigi">Cherubini’s</persName> offenbar vorgeschwebt haben; aber
+					<persName key="verdi.giuseppe">Verdi</persName> bleibt hinter Beiden zurück.
 				Was er giebt, zeigt das von der Oper mit hinübergenommene Streben, möglichst grell
 				zu färben, Kontraste gegenüber zu stellen, so realistisch wie möglich zu Werke zu
 				gehen. Und diese realistische Ausführungsweise wird namentlich den Norddeutschen nie
 				für dieses Requiem erwärmen können. Die Posaunenstöße, mit welchen das Werk hie und
 				da in Scene gesetzt worden ist, mit welchen sogar hie und da die Kritik in’s Zeug
-				gegangen, können unsere Meinung nicht erschütter. <persName ref="#verdi.giuseppe"
+				gegangen, können unsere Meinung nicht erschütter. <persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> ist ein höchst interessantes Experiment,
+				<title key="verdi.requiem" type="mus">Requiem</title> ist ein höchst interessantes Experiment,
 				— welches — das wollen wir zugeben — seinem Schöpfer zur Ehre gereicht, da sich in
 				ihm das Streben, <cb break="yes" n="3c" type="regular"/>Großes und Ernstes zu
-				wollen, noch mehr dokumentirt als in der <title ref="#verdi.aida">Aida</title>.
+				wollen, noch mehr dokumentirt als in der <title key="verdi.aida" type="mus">Aida</title>.
 				Darüber hinaus aber geht seine Bedeutung nicht. Eine Regeneration der italienischen
 				Kirchenmusik ist von ihm ebenso wenig zu erwarten, wie es seinerzeit <persName
-					ref="#rossini.gioachino">Rossini’s</persName>
-				<hi rend="antiqua"><title ref="#rossini.stabat-mater">Stabat mater</title></hi>
+					key="rossini.gioachino">Rossini’s</persName>
+				<hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">Stabat mater</title></hi>
 				bewirken konnte. Die Musikgeschichte beweist, daß derartige Kunstwerke, die wie
-				dieses <title ref="#verdi.requiem">Requiem</title> eine Zwitterstellung zwischen
+				dieses <title key="verdi.requiem" type="mus">Requiem</title> eine Zwitterstellung zwischen
 				Kirche und Oper eingenommen haben, stets nur eine vorübergehende Bedeutung und nie
 				eine nachhaltige Einwirkung auf die Kunst gehabt haben. Wir sind sogar fest davon
 				überzeugt: Hätte ein deutscher Komponist es gewagt, ein solches Requiem zu
@@ -155,21 +155,21 @@
 				dürfte bei der zum Theil kolossalen Instrumentation nicht wohl angehen, aber der
 				Chor muß verstärkt werden, wenn die Wirkung eine ganz einheitliche werden soll. Die
 				Soli befanden sich in den Händen der Fräuleins <hi rend="widespace"><persName
-						ref="#lehmann.lilli">Lehmann</persName></hi> und <hi rend="widespace"
-						><persName ref="#brandt.marianne">Brandt</persName></hi> und der Herren <hi
-					rend="widespace"><persName ref="#ernst.heinrich">Ernst</persName></hi> und <hi
-					rend="widespace"><persName ref="#betz.franz">Betz</persName></hi>, eine
+						key="lehmann.lilli">Lehmann</persName></hi> und <hi rend="widespace"
+						><persName key="brandt.marianne">Brandt</persName></hi> und der Herren <hi
+					rend="widespace"><persName key="ernst.heinrich">Ernst</persName></hi> und <hi
+					rend="widespace"><persName key="betz.franz">Betz</persName></hi>, eine
 				Besetzung, wie sie bei uns besser kaum zu ermöglichen sein dürfte. Am
 				Dirigentenpulte saß Hr. Kapellmeister <hi rend="widespace"><persName
-						ref="#radecke.robert">Radecke</persName></hi>. Schließlich wollen wir nicht
+						key="radecke.robert">Radecke</persName></hi>. Schließlich wollen wir nicht
 				unterlassen zu konstatiren, daß trotz der Spannung, mit welcher das Werk schon
 				wochenlang im Verkehr sowohl wie in den Zeitungen besprochen wurde, das Haus bei
 				dieser ersten Aufführung nicht unbedeutende Lücken zeigte, Beweis genug, daß im
 				Publikum ein gerechtes Mißtrauen gegen ein Requiem von dem Komponisten des „<title
-					ref="#verdi.il-trovatore">Troubadour</title>“ und der „<title ref="#verdi.aida"
+					key="verdi.il-trovatore" type="mus">Troubadour</title>“ und der „<title key="verdi.aida" type="mus"
 					>Aida</title>“ vorhanden ist. Daß sich der Zuspruch bei den Wiederholungen
 				steigern wird, ist auch nicht zu erwarten.</p>
-			<p rend="right"><persName ref="#lackowitz.wilhelm">W. <hi rend="widespace"
+			<p rend="right"><persName key="lackowitz.wilhelm">W. <hi rend="widespace"
 						>Lackowitz</hi></persName>.</p>
 		</body>
 	</text>

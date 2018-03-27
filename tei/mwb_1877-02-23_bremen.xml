@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 23. Februar 1877</title>
-				<author><persName ref="#spanuth.august"/></author>
+				<author><persName key="spanuth.august"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1877-02-23"/>
 					<biblScope unit="issue">9</biblScope>
 					<biblScope unit="volume">8</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bremen"/><date when-iso="1876-02"/></creation>
+			<creation><placeName key="bremen"/><date when-iso="1876-02"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -43,16 +43,16 @@
 	<text xml:lang="de">
 		<body rend="antiqua">
 			<pb n="129"/>
-			<p><hi rend="bold"><placeName ref="#bremen">Bremen</placeName>,</hi>
+			<p><hi rend="bold"><placeName key="bremen">Bremen</placeName>,</hi>
 				<date when-iso="1876-02">im Februar</date>. <gap resp="tr"/> Das bis jetzt
-				interessanteste Ereigniss dieser Saison waren die <rs ref="#bremen.1876"
-					type="event">Aufführungen des <persName ref="#verdi.giuseppe"
+				interessanteste Ereigniss dieser Saison waren die <rs key="bremen.1876"
+					type="event">Aufführungen des <persName key="verdi.giuseppe"
 						>Verdi’schen</persName>
-					<title ref="#verdi.requiem">Requiems</title></rs>. Das Werk machte schon bei der
+					<title key="verdi.requiem" type="mus">Requiems</title></rs>. Das Werk machte schon bei der
 				ersten hiesigen Aufführung eine bedeutende Wirkung. Ja, nach dem raffinirten „<title
-					ref="#verdi.requiem.2">dies irae</title>“ vergass sich unser kühles Publicum so
+					key="verdi.requiem.2" type="mus">dies irae</title>“ vergass sich unser kühles Publicum so
 				weit, dass es stürmisch applaudirte. <gap resp="tr"/></p>
-			<p rend="right"><persName ref="#spanuth.august">A. Sp.</persName></p>
+			<p rend="right"><persName key="spanuth.august">A. Sp.</persName></p>
 		</body>
 	</text>
 </TEI>

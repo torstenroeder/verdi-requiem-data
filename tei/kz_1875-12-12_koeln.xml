@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Zeitung, 12. Dezember 1875</title>
-				<author><persName ref="#guckeisen.august"/></author>
+				<author><persName key="guckeisen.august"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#koelnische-zeitung" role="publisher"/>
-					<placeName ref="#koeln"/>
+					<orgName key="koelnische-zeitung" role="publisher"/>
+					<placeName key="koeln"/>
 					<date when-custom="sun" when-iso="1875-12-12"/>
 					<biblScope unit="issue">344</biblScope>
 					<series>kz</series>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koeln"/></creation>
+			<creation><placeName key="koeln"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -37,54 +37,54 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger widespace"><rs ref="#koeln.1875.1" type="event">Viertes
+			<head rend="larger widespace"><rs key="koeln.1875.1" type="event">Viertes
 					Gürzenich-Concert</rs></head>
 			<head>unter Leitung des ständtischen Capellmeisters Herrn <hi rend="antiqua">Dr.</hi>
-				<hi rend="widespace"><persName ref="#hiller.ferdinand">Ferd.
+				<hi rend="widespace"><persName key="hiller.ferdinand">Ferd.
 				Hiller</persName></hi>.</head>
 			<head><date when-iso="1875-12-07">Dinstag, den 7. Dezember</date>.</head>
-			<p rend="right"><hi rend="antiqua"><persName ref="#guckeisen.august">G</persName></hi>
-				<hi rend="bold"><placeName ref="#koeln">Köln</placeName></hi>, <date
+			<p rend="right"><hi rend="antiqua"><persName key="guckeisen.august">G</persName></hi>
+				<hi rend="bold"><placeName key="koeln">Köln</placeName></hi>, <date
 					when-iso="1875-12-10">10. December</date>.</p>
-			<p>Der Name <persName ref="#verdi.giuseppe">Verdi’s</persName>, des früher so viel
+			<p>Der Name <persName key="verdi.giuseppe">Verdi’s</persName>, des früher so viel
 				geschmähten, ja, in den Kreisen unserer musicalischen Aristokratie fast verachteten
-				Componisten des „<title ref="#verdi.rigoletto">Rigoletto</title>“ und <supplied
-					resp="tr">„</supplied><title ref="#verdi.il-trovatore">Troubadour</title>“, lebt
+				Componisten des „<title key="verdi.rigoletto" type="mus">Rigoletto</title>“ und <supplied
+					resp="tr">„</supplied><title key="verdi.il-trovatore" type="mus">Troubadour</title>“, lebt
 				jetzt in Aller Munde. Das Volk hatte den Maestro längst liebgewonnen, es freute sich
 				seiner Melodieen sonde Nebengedanken, ob sie courfähig für den Musikadel oder nicht;
-				nun findet <persName ref="#verdi.giuseppe">Verdi</persName> endlich auch Gnade vor
+				nun findet <persName key="verdi.giuseppe">Verdi</persName> endlich auch Gnade vor
 				den Augen der vornehmen musicalischen Welt, denn — wie sie sagen — er hat
 				außerordentlich viel gelernt, er ist gar nicht mehr wiederzuerkennen; hätte er
 				früher so anständige Musik gemacht, man würde ihm ja mit Freuden die Pforten zu den
 				mit Werken strenger Zucht und strengen Contrapunctes ausgekleideten Salons geöffnet
-				haben. Also endlich erkennt man bei <persName ref="#verdi.giuseppe"
+				haben. Also endlich erkennt man bei <persName key="verdi.giuseppe"
 				>Verdi</persName>, nachdem er vor genau zwei Monaten (<date when-iso="1875-10-09">9.
 					October</date>) 61 Jahre alt geworden, diejenige Dosis von musicalischer Kraft,
 				sogar von jugendlich-dramatischem Feuer, die einen Componisten von Bedeutung
 				anzeichnen. Der Mann hat lange warten müssen — und was hat denn endlich diese
-				allgemeine Umstimmung bewirkt? Zuerst componirte <persName ref="#verdi.giuseppe"
+				allgemeine Umstimmung bewirkt? Zuerst componirte <persName key="verdi.giuseppe"
 					>Verdi</persName> vor drei Jahren eine pompöse Ausstattungsoper mit gewohnter
-					<persName ref="#verdi.giuseppe">Verdi’scher</persName> Musik, nur ohne
+					<persName key="verdi.giuseppe">Verdi’scher</persName> Musik, nur ohne
 				Coloratur- und Cadenzzöpfe, dann in diesem Jahre, zum ersten Todestage seines
-				gefeierten Landsmannes <persName ref="#manzoni.alessandro">Alessandro
+				gefeierten Landsmannes <persName key="manzoni.alessandro">Alessandro
 					Manzoni</persName>, der am <date when-iso="1873-05-22">22. Mai <choice>
 						<orig>1874</orig>
 						<corr resp="tr">1873</corr>
-					</choice></date> das Zeitliche gesegnet, ein „<title ref="#verdi.requiem"
+					</choice></date> das Zeitliche gesegnet, ein „<title key="verdi.requiem" type="mus"
 					>Requiem</title>“, wodurch schließlich auch solche Kreise einen Geschmack von
-					<persName ref="#verdi.giuseppe">Verdi’scher</persName> Manier bekamen, die sonst
-				dem Theaterfern stehen. Dieses „<title ref="#verdi.requiem">Requiem</title>“ hält
+					<persName key="verdi.giuseppe">Verdi’scher</persName> Manier bekamen, die sonst
+				dem Theaterfern stehen. Dieses „<title key="verdi.requiem" type="mus">Requiem</title>“ hält
 				augenblicklich seine Rundreise durch die europäischen Concert- oder Theatersäle.
-				Wien ist mit dem guten Beispiele vorangegangen und unser <placeName ref="#koeln"
+				Wien ist mit dem guten Beispiele vorangegangen und unser <placeName key="koeln"
 					>Köln</placeName> hat sich die Ehre nicht nehmen lassen, dessen Beispiel als die
-				erste unter den Städten <placeName ref="#deutschland">Deutschlands</placeName> zu
-				folgen, während gegenwärtig auch in <placeName ref="#bruessel">Brüssel</placeName>
-				das „<title ref="#verdi.requiem">Requiem</title>“ mehrfache Aufführungen erlebt. Und
+				erste unter den Städten <placeName key="deutschland">Deutschlands</placeName> zu
+				folgen, während gegenwärtig auch in <placeName key="bruessel">Brüssel</placeName>
+				das „<title key="verdi.requiem" type="mus">Requiem</title>“ mehrfache Aufführungen erlebt. Und
 				überall dasselbe Urtheil: ein Werk von bedeutendem musicalischen Werth und von
 				orchestralen oder vocalen Effecten, die man in der That als vorher ungeahnt
 				bezechnen kann. Nur über das Eine wird Meinungsverschiedenheit herrschen: paßt die
 				Musik zu einem „Requiem“ oder nicht? Oder sollte hier auch schon das allgemeine
-				Urtheil entschieden sein, nämlich dahin, daß <persName ref="#verdi.giuseppe"
+				Urtheil entschieden sein, nämlich dahin, daß <persName key="verdi.giuseppe"
 					>Verdi</persName> zwar eine sehr wirkungsvolle Composition, aber kein Requiem
 				geschrieben habe? Dazu möchten wie nun doch einige Anmerkungen machen. Wenn eine
 				Familie um den Sarg eines ihrer Lieben versammelt steht, so waltet allerdings
@@ -96,20 +96,20 @@
 				es sich bereits um eine Jahresfeier des Todestages handelt. Das ist im Grunde nur
 				eine Feier, ein festliches Hochamt, kein Traueramt mehr. Man singt nur Requiem, weil
 				die Feier nicht einem Lebenden, sondern einem Verstorbenen gilt. So möchte
-				schwerlich etwas dagegen einzuwenden sein, daß <persName ref="#verdi.giuseppe"
+				schwerlich etwas dagegen einzuwenden sein, daß <persName key="verdi.giuseppe"
 					>Verdi</persName> nicht selten aus der Trauerstimmung sich zu helleren Klängen
 				emporschwingt, ja, daß im Ganzen die Trauerstimmung kaum einen hervorstechenden Zug
 				eigentlichen Schmerzes trägt.</p>
-			<p>Ein anderer Einwurf wiegt scheinbar schwerer. <persName ref="#verdi.giuseppe"
+			<p>Ein anderer Einwurf wiegt scheinbar schwerer. <persName key="verdi.giuseppe"
 					>Verdi</persName> schreibe zwar eine dramatisch-effectvolle, eine operistische
 				Musik, aber keine kirchliche, passend zum Gottesdienst. Unsere Orthodoxen der
-				Kirchenmusik erkennen nämlich in der <persName ref="#palestrina.giovanni-pierluigi"
+				Kirchenmusik erkennen nämlich in der <persName key="palestrina.giovanni-pierluigi"
 					>Palästrina’schen</persName> Strenge und Herbigkeit gradezu das Ideal der
 				Christengemeinde erkörpert, weil diese Musik leidenschaftslos und abgeklärt über dem
 				Irdischen schwebe. Doch gemach, gestrenge Herren Richter!</p>
-			<p>Wenn man uns erzählt, wie am Charsamstag in der <placeName ref="#rom.peterskirche"
-					>Peterskirche</placeName> zu <placeName ref="#rom">Rom</placeName> die
-				sogenannten <term ref="#lamentationen">Lamentationen</term> von einem unsichtbaren
+			<p>Wenn man uns erzählt, wie am Charsamstag in der <placeName key="rom.peterskirche"
+					>Peterskirche</placeName> zu <placeName key="rom">Rom</placeName> die
+				sogenannten <term key="lamentationen">Lamentationen</term> von einem unsichtbaren
 				Chor eintönig psalmodirend gesungen werden, wie während des Gesanges eine Kerze nach
 				der andern verlischt, bis tiefste Dunkelheit herrscht, wie dann unter plötzlichem
 				Aufflammen eines glänzenden Lichtmeeres ein jubelnder Auferstehungschor in die
@@ -119,64 +119,64 @@
 				Zwecke der feierliche katholische Gottesdienst mit allem Prunk farbenreicher
 				Ceremonien umgeben wird? Wir wissen die Antwort freilich auch: Der Mensch muß erst
 				durch das Sinnliche zum Uebersinnlichen hinangezogen werden. <hi rend="antiqua"
-						><term ref="#fiat-applicatio">Fiat applicatio!</term></hi> Was dem
+						><term key="fiat-applicatio">Fiat applicatio!</term></hi> Was dem
 				Gottesdienst recht, ist der Musik billig.</p>
-			<p>Uebrigens schrieb <persName ref="#verdi.giuseppe">Verdi</persName> in einem Lande und
+			<p>Uebrigens schrieb <persName key="verdi.giuseppe">Verdi</persName> in einem Lande und
 				für ein Land, wo man den komischen Widerspruch zwischen gottesdienstlicher Musik und
 				gottesdienstlichen Ceremonien noch nicht in die Lehrbücher der Aesthetik aufgenommen
 				hat, wo man im Gegentheil Beides möglichst farbenreich liebt; er schrieb im schönen
-				Lande <placeName ref="#italien">Italien</placeName> für eine lebhaftere Phantasie
+				Lande <placeName key="italien">Italien</placeName> für eine lebhaftere Phantasie
 				als unsere deutsche, für eine Phantasie, die nach dem verkörperten Ausdruck ihrer
-				glühenden Träume strebt. <persName ref="#verdi.giuseppe">Verdi</persName> darf
+				glühenden Träume strebt. <persName key="verdi.giuseppe">Verdi</persName> darf
 				folglich nicht nach deutschem Geschmack beurtheilt werden. Aber auch abgesehen
 				davon, der Vorwurf operistischer Behandlung will doch nur besagen, <persName
-					ref="#verdi.giuseppe">Verdi</persName> gebe uns eine Musik, die in
+					key="verdi.giuseppe">Verdi</persName> gebe uns eine Musik, die in
 				unverkennbarer Weise an das Theater erinnert. Diesen Vorwurf kann nur erheben, wer
 				mit der Opernmusik gründlich vertraut ist, jeder Andere — und wohl die größere
-				Mehrzahl der Kirchenbesucher steht der <persName ref="#verdi.giuseppe"
+				Mehrzahl der Kirchenbesucher steht der <persName key="verdi.giuseppe"
 					>Verdi’schen</persName> Musik unbefangen gegenüber — unterliegt ihrer
 				dramatischen Wirkung ohne störenden Nebengedanken. Es gibt keine objective religiöse
 				Musik. Jede Musik ist nur ein Ausdruck der Individualität des Componisten. Darum
-				componirt <persName ref="#verdi.giuseppe">Verdi</persName> sein <title
-					ref="#verdi.requiem">Requiem</title> anders als <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName>, dieser wieder anders als
-					<persName ref="#schumann.robert">Schumann</persName>, anders als <persName
-					ref="#brahms.johannes">Johannes Brahms</persName>.</p>
+				componirt <persName key="verdi.giuseppe">Verdi</persName> sein <title
+					key="verdi.requiem" type="mus">Requiem</title> anders als <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName>, dieser wieder anders als
+					<persName key="schumann.robert">Schumann</persName>, anders als <persName
+					key="brahms.johannes">Johannes Brahms</persName>.</p>
 			<p>Jede ruhige Erwägung wird dahin führen, die Frage — ob kirchlich oder nicht, ob
 				„Requiem“ oder „Oper“ — bei Seite zu lassen und nur den dramatischen Werth der
-				Composition ins Auge zu fassen. Dramatisch ist das „<title ref="#verdi.requiem"
+				Composition ins Auge zu fassen. Dramatisch ist das „<title key="verdi.requiem" type="mus"
 					>Requiem</title>“ im höchsten Grade, in so fern die Musik sich überwiegend als
 				ein glücklicher Ausdruck der Textgedanken so wie der aus dem Text auszumalenden
 				Scenerien und Bilder ergibt. In erster Linie steht an Reichthum der Effecte das <hi
-					rend="antiqua">„<title ref="#verdi.requiem.2.dies-irae">Dies irae</title>“</hi>,
+					rend="antiqua">„<title key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title>“</hi>,
 				das übrigens in allen bekannten Requiem-Compositionen der Phantasie einen ergiebigen
 				Tummelplatz bietet. Grausig schlagen die ersten Töne ans Ohr, die Zuhörer fühlt
 				sich, von ähnlichem Entsetzen erfaßt, wie durch den <title
-					ref="#wagner.der-fliegende-hollaender.gespensterchor">Gespensterchor</title> des
-					„<title ref="#wagner.der-fliegende-hollaender">Fliegenden Holländers</title>“.
-				Dann dieses leise Austönen des ersten <term ref="#paroxysmus">Paroxysmus</term> mit
+					key="wagner.der-fliegende-hollaender.gespensterchor" type="mus">Gespensterchor</title> des
+					„<title key="wagner.der-fliegende-hollaender" type="mus">Fliegenden Holländers</title>“.
+				Dann dieses leise Austönen des ersten <term key="paroxysmus">Paroxysmus</term> mit
 				den wunderbaren Orchester-Effecten des <hi rend="antiqua">„<title n="quantus-tremor"
-						ref="#verdi.requiem.2.dies-irae">Quantus tremor</title>“</hi>. Nun die
+						key="verdi.requiem.2.dies-irae" type="mus">Quantus tremor</title>“</hi>. Nun die
 				Trompetensignale von nah und fern (schade, daß bei unserer Aufführung die Trompeter
 				sämmtlich auf der Tribühne standen), ankündigend das gewaltig dahinbrausende <hi
-					rend="antiqua"><title ref="#verdi.requiem.2.tuba-mirum">Tuba mirum</title></hi>
+					rend="antiqua"><title key="verdi.requiem.2.tuba-mirum" type="mus">Tuba mirum</title></hi>
 				<cb break="yes" n="3b" type="regular"/> u. s. w. Zu ganz besonderen Effecten greift
 				der Componist im letzten Theile. Die Sätze des <hi rend="antiqua"><title
-						ref="#verdi.requiem.5">Agnus Dei</title></hi> werden in Octaven von den
+						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> werden in Octaven von den
 				beiden Solostimmen Sopran und Alt vorgetragen, das erste Mal ganz ohne Begleitung,
 				das zweite Mal in Moll mit wenigen Instrumenten, das dritte Mal wieder in Dur, wozu
 				Flöten und Clarinetten einen wirklich wunderlichen Reigen aufführen. Aehnlich geht
 				es mit dem Chor, der jede Strophe wiederholt. Erst unisono, dann immer reicher und
 				wirkungsvoller instrumentirt, doch bis zur letzten Note mild und ohne Mitwirkung der
-				Blechinstrumente. Der letzte Satz <hi rend="antiqua">„<title ref="#verdi.requiem.7"
+				Blechinstrumente. Der letzte Satz <hi rend="antiqua">„<title key="verdi.requiem.7" type="mus"
 						>Libera me</title>“</hi> beginnt psalmodirend von der Solostimme ohne
 				Begleitung. Der Chor wiederholt erst die Psalmodie, und während nun die Nummer
 				hindurch die meisten Gestalten des ganzen Werkes, die charakteristischen Züge des
-					<hi rend="antiqua"><title ref="#verdi.requiem.2.dies-irae">Dies
+					<hi rend="antiqua"><title key="verdi.requiem.2.dies-irae" type="mus">Dies
 					irae</title></hi>, das herrliche <hi rend="antiqua"><title n="requiem-aeternam"
-						ref="#verdi.requiem.1">Requiem aeternam</title></hi> unserem Ohre wieder
+						key="verdi.requiem.1" type="mus">Requiem aeternam</title></hi> unserem Ohre wieder
 				lebendig werden, schließt der Satz mit derselben eintönigen Psalmodie <hi
-					rend="antiqua"><title n="libera-me" ref="#verdi.requiem.7">Libera
+					rend="antiqua"><title n="libera-me" key="verdi.requiem.7" type="mus">Libera
 					me</title></hi>, aber eine Octave tiefer von der Sopranstimme (eingestrichenes
 					<hi rend="antiqua">C</hi>) vorgetragen, wozu der Gesangschor kaum hauchend den
 					<hi rend="antiqua">C</hi>-dur-Accord aushält. War schon der Effect derartig, daß
@@ -184,30 +184,30 @@
 				gleichzeitig der Saal in ein mystisches Halbdunkel gehüllt wäre. Wir wollen aber
 				keineswegs in dem Leser die Vorstellung erwecken, als ob es sich einzig um
 				sogenannte Effecte handle. Wer z. B. an den Eingang <hi rend="antiqua"><title
-						n="requiem-aeternam" ref="#verdi.requiem.1">Requiem aeternam</title></hi>
+						n="requiem-aeternam" key="verdi.requiem.1" type="mus">Requiem aeternam</title></hi>
 				nebst der <hi rend="antiqua">a capella</hi> Fuge <hi rend="antiqua"><title
-						n="te-decet-hymnus" ref="#verdi.requiem.1">Te decet hymnus</title></hi>
+						n="te-decet-hymnus" key="verdi.requiem.1" type="mus">Te decet hymnus</title></hi>
 				zurückdenkt, wird gern zugestehen, daß diese Partieen selbst für den strengeren
 				deutschen Geschmack als wahre musicalische Perlen bezeichnet werden müssen. In
-				diesem <hi rend="antiqua"><title ref="#verdi.requiem.1">Requiem
+				diesem <hi rend="antiqua"><title key="verdi.requiem.1" type="mus">Requiem
 					aeternam</title></hi> liegt eine solch hohe Innigkeit, eine so vertrauensvolle
 				Andacht, in so einfach ungesuchter Weise ausgesprochen, daß man schon an die besten
 				deutschen Schöpfungen denken muß, um Gleichwerthiges nebeneinander zu stellen. Wie
 				der Sopran so innig und doch so demüthig fleht: <hi rend="antiqua"><title
-						n="requiem-aeternam" ref="#verdi.requiem.1">dona eis Domine</title></hi> und
+						n="requiem-aeternam" key="verdi.requiem.1" type="mus">dona eis Domine</title></hi> und
 				dann dieser herrliche Uebergang nach Dur: <hi rend="antiqua"><title n="et-lux"
-						ref="#verdi.requiem.1">et lux</title>!</hi> das sind süße Melodieen, von
+						key="verdi.requiem.1" type="mus">et lux</title>!</hi> das sind süße Melodieen, von
 				denen man sich kaum losreißen kann. Unter den Fugen des Werkes gibt es manche
 				künstlichere und mit größerem Aufwand von technischen Mitteln erfundene, als die
-				eben genannte <hi rend="antiqua"><title n="te-decet-hymnus" ref="#verdi.requiem.1"
+				eben genannte <hi rend="antiqua"><title n="te-decet-hymnus" key="verdi.requiem.1" type="mus"
 						>Te decet</title></hi>, aber wohl keine, die so überraschend den Eindruck
 				des alten Kirchenstiles hervorzubringen im Stande ist. Eine solche Nummer hätte man
-				von <persName ref="#verdi.giuseppe">Verdi</persName> wirklich kaum erwarten sollen,
+				von <persName key="verdi.giuseppe">Verdi</persName> wirklich kaum erwarten sollen,
 				und sie beweist die Vielseitigkeit des Mannes für Jeden, der noch irgend einen
 				Zweifel gehegt hätte, auf das schlagendste.</p>
 			<p>Die wenigen Einzelheiten mögen genügen; wer die Partitur durchblättert, findet auf
 				jeder Seite Interessantes und Fesselndes. Nur muß man unbefangen an das Werk
-				herantretenund stets in Rechnung bringen, wer das <title ref="#verdi.requiem"
+				herantretenund stets in Rechnung bringen, wer das <title key="verdi.requiem" type="mus"
 					>Requiem</title> geschrieben hat und für wen es geschrieben ist. Und dann denke
 				man sich die nöthige Scenerie dazu: die schwarz behangene Kirche, die brennenden
 				Wachskerzen, die Menge der Ministranten und Leidtragenden, und auf diesem
@@ -217,47 +217,47 @@
 				gewiß sein.</p>
 			<p>Innerhalb des weit ausgesponnenen Werkes finden die Solostimmen eine ziemlich große
 				und anstrengende Aufgabe; sie wurde aber auch glänzend gelöst. Zwar hätte Frl.
-					<persName ref="#lehmann.lilli">Lehmann</persName> (Sopran) zuweilen mit
+					<persName key="lehmann.lilli">Lehmann</persName> (Sopran) zuweilen mit
 				schwererem Geschütz ins Zeug gehen können; indessen ihre Leistung verdiente doch
 				beste Anerkennung, vor Allem die tadellose Ausführung des sehr schwierigen <hi
-					rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi>. Diese eine
+					rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus Dei</title></hi>. Diese eine
 				Stelle wiegt alle sonstigen Mängel vollständig auf, denn, wenn hier eine Solistin
 				gescheitert wäre, sie würde das Publicum um einen Haupteffect gebracht haben. Mit
-				ihr wirkten Frl. <persName ref="#keller.elsa">Keller</persName> (Mezzosopran) so wie
-				die Herren <persName ref="#diener.franz">Franz Diener</persName> und <persName
-					ref="#schelper.otto">Otto Schelper</persName>, alle uns längst vertraute
+				ihr wirkten Frl. <persName key="keller.elsa">Keller</persName> (Mezzosopran) so wie
+				die Herren <persName key="diener.franz">Franz Diener</persName> und <persName
+					key="schelper.otto">Otto Schelper</persName>, alle uns längst vertraute
 				Künstler, über die man weiter kein Wort zu verlieren braucht. Der Umstand, daß
 				sämmtliche Solisten unserer Bühne angehören und alle, mit Ausnahme von Frl.
-					<persName ref="#lehmann.lilli">Lehmann</persName>, Hauptrollen in der neuen
-					<persName ref="#verdi.giuseppe">Verdi’schen</persName> Oper <title
-					ref="#verdi.aida">A<hi rend="antiqua">ï</hi>da</title> zu vertreten haben,
+					<persName key="lehmann.lilli">Lehmann</persName>, Hauptrollen in der neuen
+					<persName key="verdi.giuseppe">Verdi’schen</persName> Oper <title
+					key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title> zu vertreten haben,
 				verstärkte jedenfalls für die Theaterbesucher den Eindruck einer Art
 				Opernaufführung. Und auch über dieses äußere Moment hinaus lassen sich viele
-				Beziehungen zwischen dem <title ref="#verdi.requiem">Requiem</title> und der <title
-					ref="#verdi.aida">A<hi rend="antiqua">ï</hi>da</title> nicht verkennen, freilich
-				erscheint im <title ref="#verdi.requiem">Requiem</title> der Stil der <title
-					ref="#verdi.aida">A<hi rend="antiqua">ï</hi>da</title> weiter verklärt und
+				Beziehungen zwischen dem <title key="verdi.requiem" type="mus">Requiem</title> und der <title
+					key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title> nicht verkennen, freilich
+				erscheint im <title key="verdi.requiem" type="mus">Requiem</title> der Stil der <title
+					key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title> weiter verklärt und
 				geläutert.</p>
 			<p>Auch Chor und Orchester verdienen für die freudige Hingabe an das Werk bestes Lob. Es
 				ging um Alles mit Lust und Liebe und deßhalb auch vom schönsten Erfolg begleitet.
 				Ein specielles Lorbeerblatt gebührt dem Chor für den nur so traumartig hinzitternden
 					<hi rend="antiqua">C</hi>-dur-Accord am Ende des <hi rend="antiqua"><title
-						ref="#verdi.requiem.7">Libera</title></hi>.</p>
+						key="verdi.requiem.7" type="mus">Libera</title></hi>.</p>
 			<p>Wir sprechen zum Schlusse Herrn Capellmeister <hi rend="antiqua">Dr.</hi>
-				<persName ref="#hiller.ferdinand">Ferd. Hiller</persName> und der Concertdirection
+				<persName key="hiller.ferdinand">Ferd. Hiller</persName> und der Concertdirection
 				im Namen des musikliebenden kölner Publicums den herzlichen Dank für die Aufführung
 				aus, aber auch die dringende Bitte, das prächtige Werk recht bald zu wiederholen,
 				ehe die Chor- und Orchesterstimmen wieder zurückgehen. Manche Musikfreunde
-					<placeName ref="#koeln">Kölns</placeName> und der Umgegen sind durch die strenge
+					<placeName key="koeln">Kölns</placeName> und der Umgegen sind durch die strenge
 				Kälte vom Besuche des Concerts abgehalten worden; sie würden für eine erneute
 				Gelegenheit, das Werk zu hören, dankbar sein, und auch wer es schon gehört hat,
 				bringt der Wiederholung gewiß gesteigertes Interesse entgegen.</p>
-			<p>Dem <title ref="#verdi.requiem">Requiem</title> ging eine <title
-					ref="#svendsen.sigurd-slembe">symphonische Orchestereinleitung zu dem nordischen
-					Drama Sigurd Slembe</title> von <persName ref="#svendsen.johan">J. G.
+			<p>Dem <title key="verdi.requiem" type="mus">Requiem</title> ging eine <title
+					key="svendsen.sigurd-slembe" type="mus">symphonische Orchestereinleitung zu dem nordischen
+					Drama Sigurd Slembe</title> von <persName key="svendsen.johan">J. G.
 					Svendsen</persName> voraus und wirkungslos vorüber. Man war auf das Folgende zu
 				sehr gespannt, und, offen gestanden, es hält auch nachträglich zu schwer, über das
-					<title ref="#verdi.requiem">Requiem</title> hinaus zurüchzudenken.</p>
+					<title key="verdi.requiem" type="mus">Requiem</title> hinaus zurüchzudenken.</p>
 		</body>
 	</text>
 </TEI>

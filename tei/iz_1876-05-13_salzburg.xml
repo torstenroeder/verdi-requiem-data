@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#illustrirte-zeitung" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="illustrirte-zeitung" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-05-13"/>
 					<biblScope unit="issue">1715</biblScope>
 					<series>iz</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -37,12 +37,12 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Theater und Musik.</head>
-			<p><gap resp="tr"/> — <rs ref="#salzburg.1876" type="event"><persName
-						ref="#verdi.giuseppe">Verdi’s</persName> berühmtes <title
-						ref="#verdi.requiem">„Requiem“</title> kam in <placeName ref="#salzburg"
+			<p><gap resp="tr"/> — <rs key="salzburg.1876" type="event"><persName
+						key="verdi.giuseppe">Verdi’s</persName> berühmtes <title
+						key="verdi.requiem" type="mus">„Requiem“</title> kam in <placeName key="salzburg"
 						>Salzburg</placeName> am <date when-iso="1876-04-23">23. April</date> in
 					einem außerordentlichen Mozarteum-Concert mit circa 400 Mitwirkenden unter der
-					trefflichen Leitung des artistischen Directors Dr. <persName ref="#bach.otto">O.
+					trefflichen Leitung des artistischen Directors Dr. <persName key="bach.otto">O.
 						Bach</persName> zur Aufführung, und fand diese sowie die Wiederholung am
 						<date when-iso="1876-04-30">30. April</date> eine glänzende Aufnahme und
 					durchgreifendsten Erfolg.</rs></p>

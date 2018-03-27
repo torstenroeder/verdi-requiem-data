@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-04-07"/>
 					<biblScope unit="issue">15</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#elberfeld"/></creation>
+			<creation><placeName key="elberfeld"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -45,12 +45,12 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
 			<cb break="null" n="156b" type="skipped"/>
-			<p><rs ref="#elberfeld.1876.1" type="event"><hi rend="widespace"><placeName
-							ref="#elberfeld">Elberfeld</placeName></hi>. <gap resp="tr"/> Am <date
+			<p><rs key="elberfeld.1876.1" type="event"><hi rend="widespace"><placeName
+							key="elberfeld">Elberfeld</placeName></hi>. <gap resp="tr"/> Am <date
 						when-iso="1876-04-05">5.</date> unter Leitung von <persName
-						ref="#schornstein.hermann" role="conductor">Schornstein</persName>
-					<persName ref="#verdi.giuseppe" role="composer">Verdi’s</persName>
-					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi>.</rs> —</p>
+						key="schornstein.hermann" role="conductor">Schornstein</persName>
+					<persName key="verdi.giuseppe" role="composer">Verdi’s</persName>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>.</rs> —</p>
 		</body>
 	</text>
 </TEI>

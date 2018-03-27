@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Hans von Bülow, Brief an Bernard Ullman, München, 23. Juni 1874</title>
-				<author><persName ref="#buelow.hans-von"/></author>
+				<author><persName key="buelow.hans-von"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,7 +13,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<placeName ref="#muenchen"/>
+					<placeName key="muenchen"/>
 					<date when-iso="1874-06-23"/>
 				</bibl>
 				<bibl>
@@ -25,7 +25,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#muenchen"/><date when-iso="1874-06-23"/></creation>
+			<creation><placeName key="muenchen"/><date when-iso="1874-06-23"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -47,11 +47,11 @@
 	</facsimile>
 	<text xml:lang="fr">
 		<body rend="antiqua">
-			<p><placeName ref="#muenchen">Munich</placeName>, ce <date when-iso="1874-06-23">23 juin
+			<p><placeName key="muenchen">Munich</placeName>, ce <date when-iso="1874-06-23">23 juin
 					1874</date></p>
-			<p>Les fameux articles de la <orgName ref="#allgemeine-zeitung">Allgemeine
+			<p>Les fameux articles de la <orgName key="allgemeine-zeitung">Allgemeine
 					Zeitung</orgName> — je les ai déjà remia à mon ami <persName
-					ref="#spitzweg.eugen">Spitzweg</persName> (bon et honnête garçon) pour Vous être
+					key="spitzweg.eugen">Spitzweg</persName> (bon et honnête garçon) pour Vous être
 				expédiés de suite. Il se distinguent plus par la vérité du fond que par l'élégance
 				de la forme. Je suis encore tout à fait ahuri par leur immense éclat — une fois de
 				plus j’ai eu la naivité de prendre une bombe pour un „Knallbonbon“. Cependant
@@ -60,11 +60,11 @@
 				d’autres.</p>
 			<p>Les meilleurs parmi les Italiens m’applaudissent — à cet égard je pourrai Vous
 				montrer en temps et lieu des documents assez curieux. Mais — basta.</p>
-			<p>Ne vous mêlez pas de critique, cher <persName ref="#ullman.bernard">M.
+			<p>Ne vous mêlez pas de critique, cher <persName key="ullman.bernard">M.
 					Ullman</persName> — ou, ma foi, je me mêle de prophétie — et je Vous dirai, que
-				malgré toutes apparences — la messe de <persName ref="#verdi.giuseppe"
+				malgré toutes apparences — la messe de <persName key="verdi.giuseppe"
 					>Verdi</persName> — — tuera tout simplement son auteur. <persName
-					ref="#filippi.filippo">Filippo Filippi</persName> de <placeName ref="#mailand"
+					key="filippi.filippo">Filippo Filippi</persName> de <placeName key="mailand"
 					>Milan</placeName> a raison de dire que je suis »perdu« en Italie — »perdu«
 				auprès de tutta la perduta gente« — bei den Romanen (du reste les chenapans, tous,
 				ont toujours raison).</p>

@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Euterpe, Leipzig, Mitte 1876</title>
-				<author><persName ref="#koestlin.heinrich-adolf"/></author>
+				<author><persName key="koestlin.heinrich-adolf"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#euterpe" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="euterpe" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date cert="low" notAfter-iso="1876-06-30" notBefore-iso="1876-06-21"
 						when-iso="1876-06-30"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach der Aufführung-->
@@ -26,7 +26,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#heilbronn"/><date notBefore-iso="1876-06-21"
+			<creation><placeName key="heilbronn"/><date notBefore-iso="1876-06-21"
 					when-iso="1876-06-21"/></creation>
 			<textClass>
 				<keywords>
@@ -44,37 +44,37 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb n="130"/>
-			<head rend="bold larger"><persName ref="#verdi.giuseppe">G. Verdi’s</persName>
-				<title ref="#verdi.requiem">„Requiem“</title>,</head>
-			<head>auf den Todestag <persName ref="#manzoni.alessandro">Alessandro
+			<head rend="bold larger"><persName key="verdi.giuseppe">G. Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">„Requiem“</title>,</head>
+			<head>auf den Todestag <persName key="manzoni.alessandro">Alessandro
 					Manzoni’s</persName> componirt.</head>
-			<head rend="smaller">Von <persName ref="#koestlin.heinrich-adolf">H. A. <hi
+			<head rend="smaller">Von <persName key="koestlin.heinrich-adolf">H. A. <hi
 						rend="widespace">Köstlin</hi></persName>.</head>
-			<p>Ihr Mitarbeiter hatte gestern Gelegenheit, <rs ref="#heilbronn.1876" type="event"
-						><persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">„Requiem“</title> mit tüchtiger Besetzung in der
-						<placeName ref="#heilbronn.st-kilian">St. Kilianskirche</placeName> zu
-						<placeName ref="#heilbronn">Heilbronn</placeName></rs> zu hören. Ein Bericht
+			<p>Ihr Mitarbeiter hatte gestern Gelegenheit, <rs key="heilbronn.1876" type="event"
+						><persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">„Requiem“</title> mit tüchtiger Besetzung in der
+						<placeName key="heilbronn.st-kilian">St. Kilianskirche</placeName> zu
+						<placeName key="heilbronn">Heilbronn</placeName></rs> zu hören. Ein Bericht
 				über die bei dieser Aufführung erhaltenen Eindrücke dürfte deshalb von Interesse
-				sein, weil diese Aufführung die erste in <placeName ref="#deutschland"
+				sein, weil diese Aufführung die erste in <placeName key="deutschland"
 					>Süddeutschland</placeName> und wohl eine der ersten in <placeName
-					ref="#deutschland">Deutschland</placeName> überhaupt war<note resp="tr"
+					key="deutschland">Deutschland</placeName> überhaupt war<note resp="tr"
 					type="eventCommentary">Im süddeutschen Raum waren der Heilbronner Aufführung
 					zwei Aufführungen in München vorrangegangen; insgesamt war das Werk in
 					Deutschland schon an mindestens zehn Orten aufgeführt worden.</note> und weil es
 				immerhin, mag man einem musikalischen Bekenntniß angehören, welchem man will, eine
 				Pflicht ist, von den hervorragenden Leistungen des Landes Act zu nehmen, von dem wir
 				die Tonkunst überkommen haben. Eine hervorragende Leistung darf dieses <title
-					ref="#verdi.requiem">Requiem</title> genannt werden, wenn auch in letzter
+					key="verdi.requiem" type="mus">Requiem</title> genannt werden, wenn auch in letzter
 				Beziehung ihm die zündende Kraft der genialen Schöpfung abgesprochen werden muß: es
 				ist das Werk eines geistvollen Eklektikers, der in seinem langen Leben viel erfahren
 				und gelernt hat und der insbesondere bei den Deutschen mit großem Erfolg in die
 				Schule gegangen ist, ohne die italienische Eigenart, die vor allem in der Vorliebe
 				für den <hi rend="antiqua">bel canto</hi> besteht, zu verläugnen.</p>
 			<p>Der moderne Charakter des Werk’s verräth sich in erster Linie durch die Auffassung
-				der musikalischen Aufgabe: <persName ref="#mozart.wolfgang-amadeus"
+				der musikalischen Aufgabe: <persName key="mozart.wolfgang-amadeus"
 					>Mozart’s</persName>
-				<title ref="#mozart.requiem">„Requiem“</title>, diese verklärte, weihevolle
+				<title key="mozart.requiem" type="mus">„Requiem“</title>, diese verklärte, weihevolle
 				Todtenmesse, gibt im Anschluß an das Wort der Liturgie die Empfindungen der Seele
 				wieder, welche vor die Pforten der Ewigkeit gestellt ist; von den Schrecken des
 				Gerichts bis zum seligen Gottesfrieden des Erlösten machen wir alle Wandlungen der
@@ -85,17 +85,17 @@
 				das Gemüth wirft: daher der hinreißende Zauber, die verklärte Innigkeit, die
 				seelische Wärme und im Anschluß hieran die läuternde, verklärende Wirkung dieses
 				Werkes.</p>
-			<p>Mit anderen Worten: <persName ref="#mozart.wolfgang-amadeus">Mozart’s</persName>
-				<title ref="#mozart.requiem">„Requiem“</title> ist vorwiegend <emph rend="widespace"
+			<p>Mit anderen Worten: <persName key="mozart.wolfgang-amadeus">Mozart’s</persName>
+				<title key="mozart.requiem" type="mus">„Requiem“</title> ist vorwiegend <emph rend="widespace"
 					>lyrisch</emph> gehalten, wo er realistisch malt, dient es nur zur Verstärkung
 				des lyrischen Ausdruck’s. Es ist die subjective Frömmigkeit, die hier zum vollen
 				Ausdruck kommt, und es entspricht dies der ganzen Art <persName
-					ref="#mozart.wolfgang-amadeus">Mozart’s</persName>, dem die Musik wesentlich die
+					key="mozart.wolfgang-amadeus">Mozart’s</persName>, dem die Musik wesentlich die
 				Sprache der eigenen Empfindung ist, weil er nur in Tönen denkt und fühlt.</p>
 			<pb break="yes" n="131" type="skipped"/>
-			<p>Der Eklektiker <persName ref="#verdi.giuseppe">Verdi</persName>, wie die Neueren
+			<p>Der Eklektiker <persName key="verdi.giuseppe">Verdi</persName>, wie die Neueren
 				überhaupt, stellt sich anders zur Musik: ihm dienen die Töne als Farben, um zu
-				malen, um in decorativer Weise zu schildern. So auch im <title ref="#verdi.requiem"
+				malen, um in decorativer Weise zu schildern. So auch im <title key="verdi.requiem" type="mus"
 					>Requiem</title>. Es ist uns zu Muth, als beschauten wir ein großartiges Gemälde
 				des jüngsten Gerichts, voll greller Farben. Wir werden davon angefaßt, vielleicht
 				auch ergriffen, aber es bleibt doch etwas äußerliches für uns, wir werden nicht so
@@ -104,62 +104,62 @@
 				That prächtige Wirkungen hat von überraschender Schönheit und Neuheit in Klangfarbe
 				und Modulation. Für eine Todtenmesse, welche im ganzen bei allen einzelnen Färbungen
 				und Steigerungen den Grundton des Ernsten, Wehmüthigen festhalten sollte, gibt das
-					<persName ref="#verdi.giuseppe">Verdi’sche</persName>
-				<title ref="#verdi.requiem">Requiem</title> viel zu viel dramatische Effecte: die
+					<persName key="verdi.giuseppe">Verdi’sche</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> viel zu viel dramatische Effecte: die
 				Färbung ist zu grell, die Charakteristik, wenn wir so sagen dürfen, zu dick
 				aufgetragen, so daß man da und dort nicht mehr in der Kirche, sondern im Theater
 				sich zu befinden meint.</p>
-			<p>So mahnt das „<hi rend="antiqua"><title ref="#verdi.requiem.2">Dies
-				irae</title></hi>“ — ein gewaltiges Stück — fast an das chromatische Grausen des
-					<title ref="#wagner.tannhaeuser.1.1.venusberg">Venusberg’s im
+			<p>So mahnt das „<hi rend="antiqua"><title key="verdi.requiem.2" type="mus">Dies irae</title></hi>“
+				— ein gewaltiges Stück — fast an das chromatische Grausen des <title
+					key="wagner.tannhaeuser.1.1.venusberg" type="mus">Venusberg’s im
 				Tannhäuser</title><!--*REFERENZ genaue Stelle im Tannhäuser?-->; andre Stellen mit
 				auffallend hohen Geigentönen und Tremolo’s erinnern an die Graal’smusik im <title
-					ref="#wagner.lohengrin">Lohengrin</title><note resp="tr" type="musicLink">Vgl.
-						<title key="bar:1" ref="#verdi.requiem.6">Lux aeterna</title>, Takt 1ff (WGV
-					S. 191) und <title ref="#wagner.lohengrin">Lohengrin</title>, 3. Akt, Takt
-					1228ff (RWSW S. 139).</note>; das „<hi rend="antiqua"><title
-						ref="#verdi.requiem.5">Agnus Dei</title></hi>“, welches im Tone der
-				kirchlichen Psalmodie von Sopran und <choice>
+					key="wagner.lohengrin" type="mus">Lohengrin</title><note resp="tr" type="musicLink">Vgl.
+						<title key="verdi.requiem.6" ref="bar:1" type="mus">Lux aeterna</title>, Takt 1ff (WGV
+					S. 191) und <title key="wagner.lohengrin" type="mus">Lohengrin</title>, 3. Akt, Takt 1228ff
+					(RWSW S. 139).</note>; das „<hi rend="antiqua"><title key="verdi.requiem.5" type="mus"
+						>Agnus Dei</title></hi>“, welches im Tone der kirchlichen Psalmodie von
+				Sopran und <choice>
 					<orig>Tenor</orig>
 					<corr resp="tr">Mezzosopran</corr>
 				</choice><note resp="tr" type="eventCommentary">Eigentlich Sopran und Mezzosopran,
 					jedoch könnte die Besetzung umgestellt worden sein; vgl. <ref
 						target="bk_1875-12-12_muenchen.xml" type="text">Bayerischer Kurier, München,
 						12. Dezember 1875</ref>.</note> in Octaven gesungen wird, mahnt uns fast an
-				die realistischen Effecte <persName ref="#meyerbeer.giacomo">Meyerbeer’s</persName>;
+				die realistischen Effecte <persName key="meyerbeer.giacomo">Meyerbeer’s</persName>;
 				doch sind die wunderschönen Chor-Einklänge im <hi rend="antiqua"><title
-						ref="#verdi.requiem.5">Agnus Dei</title></hi> ganz geeignet, für den
+						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> ganz geeignet, für den
 				plötzlich in unsere Nase eindringenden Lampengeruch<note resp="tr" type="commentary"
 					>Bezogen auf den typischen Geruch der Beleuchtung in Bühnenhäusern.</note> uns
-				zu entschädigen. Auch im „<hi rend="antiqua"><title n="domine-jesu"
-						ref="#verdi.requiem.3">Domine Jesu</title></hi>“ (Offertorium) ist uns der
+				zu entschädigen. Auch im „<hi rend="antiqua"><title key="verdi.requiem.3"
+						n="domine-jesu" type="mus">Domine Jesu</title></hi>“ (Offertorium) ist uns der
 				„Pfaffengesang“ theilweise zu realistisch imitirt: das gehört auf den Altar, nicht
 				auf den <emph rend="widespace">Chor</emph>.</p>
-			<p>Verräth in allen diesen Zügen <persName ref="#verdi.giuseppe">Verdi</persName> den
+			<p>Verräth in allen diesen Zügen <persName key="verdi.giuseppe">Verdi</persName> den
 				Eklektiker, der von der neuesten deutschen Richtung stark beeinflußt ist, so tritt
 				uns in der Behandlung der Singstimmen der Italiener entgegen der es nicht über das
 				Herz bringt, der Declamation und Sprachcorrectheit den schönen Gesang, die Süßigkeit
 				des Wohllaut’s aufzuopfern. Von ergreifender Schönheit und Innigkeit ist in dieser
-				Hinsicht das „<hi rend="antiqua"><title ref="#verdi.requiem.2.quid-sum-miser">Quid
+				Hinsicht das „<hi rend="antiqua"><title key="verdi.requiem.2.quid-sum-miser" type="mus">Quid
 						sum miser</title></hi>“ (<hi rend="antiqua">G moll</hi>), während das „<hi
-					rend="antiqua"><title ref="#verdi.requiem.2.recordare">Recordare Jesu
-						pie</title></hi>“ (Sopran und Mezzo-Sopran), eine pastorale-artig klingende
+					rend="antiqua"><title key="verdi.requiem.2.recordare" type="mus">Recordare Jesu
+					pie</title></hi>“ (Sopran und Mezzo-Sopran), eine pastorale-artig klingende
 				Melodie, uns fast ein klein wenig an Trivialität zu streifen schien; ebenso gieng’s
-				uns mit dem „<hi rend="antiqua"><title ref="#verdi.requiem.2.ingemisco">Ingemisco
+				uns mit dem „<hi rend="antiqua"><title key="verdi.requiem.2.ingemisco" type="mus">Ingemisco
 						tanquam reus</title></hi>“ (Tenorsolo in <hi rend="antiqua">Es dur</hi>);
 				von schöner Wirkung ist jedoch das Baßsolo: „<hi rend="antiqua"><title
-						ref="#verdi.requiem.2.confutatis">Confutatis maledictis</title></hi>“ (<hi
+						key="verdi.requiem.2.confutatis" type="mus">Confutatis maledictis</title></hi>“ (<hi
 					rend="antiqua">H moll</hi>) trotz einer starrenden Quintenfolge; ergreifend ist
-				namentlich das Sätzchen „<hi rend="antiqua"><title n="oro-supplex"
-						ref="#verdi.requiem.2.confutatis">oro <choice>
+				namentlich das Sätzchen „<hi rend="antiqua"><title key="verdi.requiem.2.confutatis"
+						n="oro-supplex" type="mus">oro <choice>
 							<orig>suppase</orig>
 							<corr resp="tr">supplex</corr>
 						</choice> et acclinis</title></hi>“ gesetzt, das tieftraurige „<hi
-					rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">Lacrymosa dies
+					rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa dies
 						illa</title></hi>“ (Quartett und Chor) ist fast sentimental. Von kräftiger
-				Wirkung ist die Doppelfuge des „<hi rend="antiqua"><title ref="#verdi.requiem.4"
+				Wirkung ist die Doppelfuge des „<hi rend="antiqua"><title key="verdi.requiem.4" type="mus"
 						>Sanctus</title></hi>“, wiewohl man dabei sich <persName
-					ref="#haendel.georg-friedrich">Händel’s</persName> nicht erinnern darf.</p>
+					key="haendel.georg-friedrich">Händel’s</persName> nicht erinnern darf.</p>
 			<p>Trotz der Vorliebe für den schönen Gesang<note resp="tr" type="glossaryLink">Hier
 					gemeint: »Belcanto«.</note> und schöne Melodieabschlüsse ist die Declamation
 				correct und schön.</p>
@@ -168,16 +168,16 @@
 				italienischen der weichen Schönheit. Jedenfalls haben wir ein Werk vor uns, das den
 				Meister verräth, wenn auch nicht den aus dem eigenen und von innen heraus
 				schaffenden Genius. Die Aufführung kann als vortrefflich bezeichnet werden. Der
-				Orchesterpart wurde von der <orgName ref="#stuttgart.hofkapelle">Stuttgarter
+				Orchesterpart wurde von der <orgName key="stuttgart.hofkapelle">Stuttgarter
 					Hofkapelle</orgName> mit Feinheit und Schärfe durchgeführt; der Chor des
-					<orgName ref="#heilbronn.oratorienverein">Heilbronner Oratorienvereins</orgName>
-				(Musikdirektor <persName ref="#maschek.ernst">Maschek</persName>) war gut geschult
+					<orgName key="heilbronn.oratorienverein">Heilbronner Oratorienvereins</orgName>
+				(Musikdirektor <persName key="maschek.ernst">Maschek</persName>) war gut geschult
 				und sang mit viel Wärme; die Solo’s, vertreten von den Herren <persName
-					ref="#schuetky.franz-josef">Schütky</persName> (k. württ. Kammersänger) und
-					<persName ref="#martens.johannes">Martens</persName> (großherzogl. bad.
-				Hofopernsänger) und den Damen <persName ref="#doetscher.leontine">von
-					Dötscher</persName> und <persName ref="#luger.angelina">Luger</persName>
-					(<placeName ref="#stuttgart">Stuttgart</placeName>) befriedigten in jeder
+					key="schuetky.franz-josef">Schütky</persName> (k. württ. Kammersänger) und
+					<persName key="martens.johannes">Martens</persName> (großherzogl. bad.
+				Hofopernsänger) und den Damen <persName key="doetscher.leontine">von
+					Dötscher</persName> und <persName key="luger.angelina">Luger</persName>
+					(<placeName key="stuttgart">Stuttgart</placeName>) befriedigten in jeder
 				Hinsicht, so daß die Freude und die Sympathie, welche die Ausführenden trug, sich
 				dem Publikum unwillkürlich mittheilte, was wiederum dem Werke selbst sehr zu statten
 				kam.</p>

@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1874-06-12"/>
 					<biblScope unit="issue">24</biblScope>
 					<biblScope unit="volume">70</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#mailand"/></creation>
+			<creation><placeName key="mailand"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -43,18 +43,18 @@
 		<body rend="fraktur">
 			<head rend="larger">Aufführungen.</head>
 			<gap resp="tr"/>
-			<p><rs ref="#mailand.1874.1" type="event"><hi rend="widespace"><placeName ref="#mailand"
+			<p><rs key="mailand.1874.1" type="event"><hi rend="widespace"><placeName key="mailand"
 							>Mailand</placeName></hi>. Am <date when-iso="1874-05-22">22. v.
 						M.</date> erste Aufführung von <hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName></hi>
-					<title ref="#verdi.requiem">Seelenmesse</title> für <persName
-						ref="#manzoni.alessandro">Manzoni</persName> mit großem Pomp u. Leit. des
+							key="verdi.giuseppe">Verdi’s</persName></hi>
+					<title key="verdi.requiem" type="mus">Seelenmesse</title> für <persName
+						key="manzoni.alessandro">Manzoni</persName> mit großem Pomp u. Leit. des
 					Comp. (Chor 120 P., Orchester 110 P., Solisten die Damen <hi rend="widespace"
-							><persName ref="#stolz.teresa">Stolz</persName></hi> und <hi
-						rend="widespace"><persName ref="#waldmann.maria">Waldmann</persName></hi>,
-					Tenor. <hi rend="widespace"><persName ref="#capponi.giuseppe"
+							><persName key="stolz.teresa">Stolz</persName></hi> und <hi
+						rend="widespace"><persName key="waldmann.maria">Waldmann</persName></hi>,
+					Tenor. <hi rend="widespace"><persName key="capponi.giuseppe"
 						>Capponi</persName></hi> und Bass. <hi rend="widespace"><persName
-							ref="#maini.armando">Maini</persName></hi>)</rs>. — <gap resp="tr"/></p>
+							key="maini.armando">Maini</persName></hi>)</rs>. — <gap resp="tr"/></p>
 		</body>
 	</text>
 </TEI>

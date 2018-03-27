@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#illustrirtes-wiener-extrablatt" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="illustrirtes-wiener-extrablatt" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="wed" when-iso="1875-06-09"/>
 					<biblScope unit="issue">158</biblScope>
 					<biblScope unit="volume">4</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Illustration</term>
@@ -42,36 +42,36 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger"><persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>.</head>
+			<head rend="larger"><persName key="verdi.giuseppe">Giuseppe Verdi</persName>.</head>
 			<p><graphic url="iwe_1875-06-09_1.png">
 					<desc>Portrait von Giuseppe Verdi</desc>
 				</graphic></p>
-			<p><rs ref="#wien.1875" type="event"><persName ref="#verdi.giuseppe">Verdi</persName>,
-					der weltberühmte Komponist, weilt gegenwärtig in <placeName ref="#wien"
-						>Wien</placeName>, um seine <title ref="#verdi.requiem">Messe</title>, die
+			<p><rs key="wien.1875" type="event"><persName key="verdi.giuseppe">Verdi</persName>,
+					der weltberühmte Komponist, weilt gegenwärtig in <placeName key="wien"
+						>Wien</placeName>, um seine <title key="verdi.requiem" type="mus">Messe</title>, die
 						<date when-iso="1875-06-11">kommenden Freitag</date> an der <placeName
-						ref="#wien.hof-operntheater">Hofoper</placeName> zur Aufführung gelangt,
+						key="wien.hof-operntheater">Hofoper</placeName> zur Aufführung gelangt,
 					persönlich zu dirigiren.</rs> Wir nehmen dies zum Anlasse, um hier die Züge des
 				illustren Mannes wiederzugeben.<note resp="tr" type="literatureLink">Vgl. J. Robert,
 						<ref target="http://gallica.bnf.fr/ark:/12148/btv1b8425504j" type="text"
 						>Gravur von Giuseppe Verdi (1872)</ref>.</note></p>
-			<p>Der Name <persName ref="#verdi.giuseppe">Verdi’s</persName>, der auf den Flügeln des
+			<p>Der Name <persName key="verdi.giuseppe">Verdi’s</persName>, der auf den Flügeln des
 				Ruhmes längst schon bis an die äußersten Grenzen der zivilisirten <cb break="yes"
 					n="1b" type="regular"/>Welt getragen wurde, genießt im Heimatlande des
-				Musik-Dichters, in <placeName ref="#italien">Italien</placeName>, die höchste
+				Musik-Dichters, in <placeName key="italien">Italien</placeName>, die höchste
 				Verehrung, und so sehr diese durch die Werke des Komponisten gerechtfertigt
 				erscheint, so spielt doch auch ein kleinwenig politische Kabbala dabei mit, indem
-					<persName ref="#verdi.giuseppe">Verdi’s</persName> Name, merkwürdig genug, in
-				seinen einzelnen Buchstaben die Neugeburt <placeName ref="#italien"
+					<persName key="verdi.giuseppe">Verdi’s</persName> Name, merkwürdig genug, in
+				seinen einzelnen Buchstaben die Neugeburt <placeName key="italien"
 					>Italiens</placeName> (<hi rend="antiqua"><hi rend="bold">V</hi>ittorio <hi
 						rend="bold">E</hi>manuele, <hi rend="bold">R</hi>e <hi rend="bold"
 						>D</hi>’<hi rend="bold">I</hi>talia</hi>) andeutet.</p>
 			<cb break="yes" n="1c" type="regular"/>
-			<p><persName ref="#verdi.giuseppe">Verdi</persName> ist <date when-iso="1814"
-					>1814</date> im ehemaligen Herzogthume <placeName ref="#parma">Parma</placeName>
+			<p><persName key="verdi.giuseppe">Verdi</persName> ist <date when-iso="1814"
+					>1814</date> im ehemaligen Herzogthume <placeName key="parma">Parma</placeName>
 				geboren. Dem Sohne des schlichten Dorfwirthes wurde es nicht an der Wiege gesungen,
 				daß er dereinst, mit Lorbern und Auszeichnungen gekrönt, eine Zierde seines
-				Vaterlandes und Senator des geeinigten <placeName ref="#italien"
+				Vaterlandes und Senator des geeinigten <placeName key="italien"
 					>Italiens</placeName> sein werde.</p>
 		</body>
 	</text>

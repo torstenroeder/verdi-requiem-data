@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1875-10-22"/>
 					<biblScope unit="issue">43</biblScope>
 					<biblScope unit="volume">71</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruessel"/></creation>
+			<creation><placeName key="bruessel"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -45,12 +45,12 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head rend="bold">Aufführungen.</head>
 			<gap resp="tr"/>
-			<p><rs ref="#bruessel.1875.1" type="event"><hi rend="widespace"><placeName
-							ref="#bruessel">Brüssel</placeName></hi>. <persName
-						ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> soll daselbst <date
+			<p><rs key="bruessel.1875.1" type="event"><hi rend="widespace"><placeName
+							key="bruessel">Brüssel</placeName></hi>. <persName
+						key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> soll daselbst <date
 						notAfter-iso="1875-12-15" when-iso="1875-12">Anfang December</date>
-					<hi rend="antiqua"><placeName ref="#bruessel.la-monnaie">im Théatre de la
+					<hi rend="antiqua"><placeName key="bruessel.la-monnaie">im Théatre de la
 							Monnaie</placeName></hi> zur Aufführung kommen</rs>.</p>
 		</body>
 	</text>

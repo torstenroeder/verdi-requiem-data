@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#dresdner-nachrichten" role="publisher"/>
-					<placeName ref="#dresden"/>
+					<orgName key="dresdner-nachrichten" role="publisher"/>
+					<placeName key="dresden"/>
 					<date when-custom="tue" when-iso="1876-01-04"/>
 					<biblScope unit="issue">4</biblScope>
 					<biblScope unit="volume">21</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#dresden"/></creation>
+			<creation><placeName key="dresden"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -39,82 +39,82 @@
 		<body rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
 			<p><g n="2020" type="DAGGER">†</g>
-				<rs ref="#dresden.1876.1" type="event"><date when-iso="1876-01-08">Künftigen <hi
-							rend="widespace">Sonnabend</hi></date> wird in <placeName ref="#dresden"
+				<rs key="dresden.1876.1" type="event"><date when-iso="1876-01-08">Künftigen <hi
+							rend="widespace">Sonnabend</hi></date> wird in <placeName key="dresden"
 						>Dresden</placeName> im <hi rend="widespace">Altstädter</hi>, durch ein
-					Orchesterpodium vorgerichteten <placeName ref="#dresden.hoftheater"
+					Orchesterpodium vorgerichteten <placeName key="dresden.hoftheater"
 						>Hoftheater</placeName>
-					<persName ref="#verdi.giuseppe">G. <hi rend="widespace">Verdi’s</hi></persName>
-					zur Todtenfeier für den Dichter <persName ref="#manzoni.alessandro"
-						>Manzoni</persName> componirtes <title ref="#verdi.requiem">Requiem</title>
+					<persName key="verdi.giuseppe">G. <hi rend="widespace">Verdi’s</hi></persName>
+					zur Todtenfeier für den Dichter <persName key="manzoni.alessandro"
+						>Manzoni</persName> componirtes <title key="verdi.requiem" type="mus">Requiem</title>
 					erstmalig aufgeführt.</rs> Frau <hi rend="widespace"><persName
-						ref="#schuch-proska.clementine">Schuch</persName></hi>, Frl. <hi
-					rend="widespace"><persName ref="#nanitz.minna">Nanitz</persName></hi>, Herr
-					<persName ref="#erl.anton">A. <hi rend="widespace">Erl</hi></persName> und Herr
-					<hi rend="widespace"><persName ref="#koehler.hans">Köhler</persName></hi> singen
+						key="schuch-proska.clementine">Schuch</persName></hi>, Frl. <hi
+					rend="widespace"><persName key="nanitz.minna">Nanitz</persName></hi>, Herr
+					<persName key="erl.anton">A. <hi rend="widespace">Erl</hi></persName> und Herr
+					<hi rend="widespace"><persName key="koehler.hans">Köhler</persName></hi> singen
 				die Soli. Die sieben Nummern des Tonwerkes sind alle von bedeutender Schönheit.
-				Hervorragt das <title n="kyrie" ref="#verdi.requiem.1">Kyrie</title> (vierstimmig)
-				und aus dem <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae</title></hi>
-				das herrliche <hi rend="antiqua"><title ref="#verdi.requiem.2.liber-scriptus">liber
+				Hervorragt das <title n="kyrie" key="verdi.requiem.1" type="mus">Kyrie</title> (vierstimmig)
+				und aus dem <hi rend="antiqua"><title key="verdi.requiem.2" type="mus">Dies irae</title></hi>
+				das herrliche <hi rend="antiqua"><title key="verdi.requiem.2.liber-scriptus" type="mus">liber
 						scriptus</title></hi> (Mezzosopran). Kaum minder ist das <hi rend="antiqua"
-						><title ref="#verdi.requiem">recordare</title></hi> ein empfindungsschönes
-				Tonstück. Das <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus
-					Dei</title></hi> und <hi rend="antiqua"><title ref="#verdi.requiem.6">lux
-						aeterna</title></hi> haben in <rs ref="#paris.1875" type="event"><placeName
-						ref="#paris">Paris</placeName></rs> und <rs ref="#wien.1875" type="event"
-						><placeName ref="#wien">Wien</placeName></rs> den größten Eindruck gemacht
-				und es ist wohl kaum zu zweifeln, daß das kunstsinnige <placeName ref="#dresden"
+						><title key="verdi.requiem" type="mus">recordare</title></hi> ein empfindungsschönes
+				Tonstück. Das <hi rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus
+					Dei</title></hi> und <hi rend="antiqua"><title key="verdi.requiem.6" type="mus">lux
+						aeterna</title></hi> haben in <rs key="paris.1875" type="event"><placeName
+						key="paris">Paris</placeName></rs> und <rs key="wien.1875" type="event"
+						><placeName key="wien">Wien</placeName></rs> den größten Eindruck gemacht
+				und es ist wohl kaum zu zweifeln, daß das kunstsinnige <placeName key="dresden"
 					>Dresden</placeName> in der Schätzung dieses Werkes <persName
-					ref="#verdi.giuseppe">Verdi’s</persName> anderen Orten nicht nachstehen werde.
-				Man denke nicht an <persName ref="#rossini.gioachino">Rossini’s</persName>
-				Kirchenmusik bei <persName ref="#verdi.giuseppe">Verdi</persName>. <persName
-					ref="#rossini.gioachino">Rossini</persName> hat zumeist am Ende seiner Laufbahn
+					key="verdi.giuseppe">Verdi’s</persName> anderen Orten nicht nachstehen werde.
+				Man denke nicht an <persName key="rossini.gioachino">Rossini’s</persName>
+				Kirchenmusik bei <persName key="verdi.giuseppe">Verdi</persName>. <persName
+					key="rossini.gioachino">Rossini</persName> hat zumeist am Ende seiner Laufbahn
 				solche geschrieben und nur in der Form, kaum aber in der Erfindung unterscheiden
-				sich <persName ref="#rossini.gioachino">Rossini’s</persName> „Kirchen-“Melodien von
-				seinen Opern. Anders <persName ref="#verdi.giuseppe">Verdi</persName>. Im Zenit
-				seines Schaffens, aus voller Begeisterung “für <placeName ref="#italien"
-					>Italiens</placeName> großen Todten“, <persName ref="#manzoni.alessandro"
-					>Alessandro Manzoni</persName>, schrieb <persName ref="#verdi.giuseppe"
-					>Verdi</persName> sein <title ref="#verdi.requiem">Requiem</title>. Wer den
-				Fortschritt der <title ref="#verdi.aida">A<hi rend="antiqua">ï</hi>da</title> nach
+				sich <persName key="rossini.gioachino">Rossini’s</persName> „Kirchen-“Melodien von
+				seinen Opern. Anders <persName key="verdi.giuseppe">Verdi</persName>. Im Zenit
+				seines Schaffens, aus voller Begeisterung “für <placeName key="italien"
+					>Italiens</placeName> großen Todten“, <persName key="manzoni.alessandro"
+					>Alessandro Manzoni</persName>, schrieb <persName key="verdi.giuseppe"
+					>Verdi</persName> sein <title key="verdi.requiem" type="mus">Requiem</title>. Wer den
+				Fortschritt der <title key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title> nach
 				Seiten des tragischen Ausdruckes und der Styleinheit erwägt, wird nicht zweifeln,
-				daß <persName ref="#verdi.giuseppe">Verdi</persName> in der Vollkraft des Schaffens
-				steht. Freilich, in <placeName ref="#dresden">Dresden</placeName>
+				daß <persName key="verdi.giuseppe">Verdi</persName> in der Vollkraft des Schaffens
+				steht. Freilich, in <placeName key="dresden">Dresden</placeName>
 				<pb break="yes" n="3a" type="regular"/>kennt man den italienischen <persName
-					ref="#wagner.richard">R. Wagner</persName> kaum genügend. Aus Prüderie und
+					key="wagner.richard">R. Wagner</persName> kaum genügend. Aus Prüderie und
 				instinctiver Abneigung gegen sein Genie begnügte man sich Jahrzehnte lang, den
-					<title ref="#verdi.il-trovatore">Trovatore</title> abzuspielen, allenfalls mit
-				einiger Berücksichtigung des <title ref="#verdi.ernani">Ernani</title>: erst die
-				neuere Zeit hat <title ref="#verdi.rigoletto">Rigoletto</title> und <title
-					ref="#verdi.la-traviata">Traviata</title> beigefügt, und das sind weit eher
+					<title key="verdi.il-trovatore" type="mus">Trovatore</title> abzuspielen, allenfalls mit
+				einiger Berücksichtigung des <title key="verdi.ernani" type="mus">Ernani</title>: erst die
+				neuere Zeit hat <title key="verdi.rigoletto" type="mus">Rigoletto</title> und <title
+					key="verdi.la-traviata" type="mus">Traviata</title> beigefügt, und das sind weit eher
 				künstlerische Bereicherungen des Repertoirs, als gewisse wackere teutsche
 				Kapellmeisteropern. Nicht nachmachen soll unsere musikdramatische Jugend das
-				dramatische Genie <persName ref="#verdi.giuseppe">Verdi’s</persName>; aber man soll
+				dramatische Genie <persName key="verdi.giuseppe">Verdi’s</persName>; aber man soll
 				endlich aufhören, <hi rend="widespace">alle</hi> Kunst nach den Regeln der teutschen
 				Compositionsgrammatik zu messen. Die <hi rend="widespace">Kunst</hi>, wenn irgend
 				etwas, ist international, und wenn man bei Gemälden nicht den Heimathschein erfragt,
 				so soll man es am wenigsten bei Opernwerken; denn Franzosen wie Italiener sind uns
-				in dieser Musikgattung voraus und selbst <persName ref="#mozart.wolfgang-amadeus"
+				in dieser Musikgattung voraus und selbst <persName key="mozart.wolfgang-amadeus"
 					>Mozarts</persName> Opernwerke sind unter der Sonne Italiens gereift oder doch
-				von italienischer Bildung beeinflußt worden. <placeName ref="#deutschland"
+				von italienischer Bildung beeinflußt worden. <placeName key="deutschland"
 					>Deutschland</placeName> ist vollends jetzt stark genug, fremde Einflüsse
 				ertragen zu können; die Zeit, wo an deutschen Höfen die deutsche Musik dem
 				Aschenbrödel und die italienische und französische den Prinzessinnen im Märchen
 				glich, kommt nicht wieder. Die einzig berechtigte Frage: ist <persName
-					ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> im Stand zu rühren, zu erheben, zu
-				begeistern, darf bejaht werden. In <placeName ref="#wien">Wien</placeName> haben die
+					key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> im Stand zu rühren, zu erheben, zu
+				begeistern, darf bejaht werden. In <placeName key="wien">Wien</placeName> haben die
 				besten deutschen Musiker mit Erstaunen und Rührung zu kämpfen gehabt beim ersten
 				Bekanntwerden mit dem Werke. Und auch in der Wahl der Mittel ist das Werk
 				epochemachend; es ist einfach, würdevoll, ernst und dabei von jenem süßen Wohllaut
 				der von der italienischen Musik auch da unzertrennlich ist, wo, wie in diesem <title
-					ref="#verdi.requiem">Requiem</title> und in desselben Autors <title
-					ref="#verdi.aida">A<hi rend="antiqua">ï</hi>da</title>, die deutschen
-				Musikformen von <persName ref="#beethoven.ludwig-van">Beethoven</persName> bis
-					<persName ref="#wagner.richard">Wagner</persName> sich einflußreich auf
-					<persName ref="#verdi.giuseppe">Verdi’s</persName> nationales Genie erwiesen
+					key="verdi.requiem" type="mus">Requiem</title> und in desselben Autors <title
+					key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title>, die deutschen
+				Musikformen von <persName key="beethoven.ludwig-van">Beethoven</persName> bis
+					<persName key="wagner.richard">Wagner</persName> sich einflußreich auf
+					<persName key="verdi.giuseppe">Verdi’s</persName> nationales Genie erwiesen
 				haben.</p>
-			<p rend="right"><hi rend="widespace"><persName ref="#hartmann.ludwig">Ludwig
+			<p rend="right"><hi rend="widespace"><persName key="hartmann.ludwig">Ludwig
 						Hartmann</persName></hi>.</p>
 		</body>
 	</text>

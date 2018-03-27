@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#amz" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="amz" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1874-06-24"/>
 					<biblScope unit="issue">25</biblScope>
 					<biblScope unit="volume">9</biblScope>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#mailand"/></creation>
+			<creation><placeName key="mailand"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -43,13 +43,13 @@
 			<pb break="null" facs="#f1" n="395" type="initial"/>
 			<head rend="bold larger egypt">Berichte. Nachrichten und Bemerkungen.</head>
 			<cb break="null" n="396" type="skipped"/>
-			<p><hi rend="bold">* <placeName ref="#mailand">Mailand</placeName>.</hi>
-				<rs ref="#mailand.1874.1" type="event">Am <date when-iso="1874-05-22">22. Mai</date>
-					ist in der <placeName ref="#mailand.san-marco">Kirche San Marco</placeName> zu
-						<placeName ref="#mailand">Mailand</placeName>
-					<hi rend="italic"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
-					<title ref="#verdi.requiem">Requiem</title> zum Gedächtniss <persName
-						ref="#manzoni.alessandro">Manzoni’s</persName> unter des Componisten eigener
+			<p><hi rend="bold">* <placeName key="mailand">Mailand</placeName>.</hi>
+				<rs key="mailand.1874.1" type="event">Am <date when-iso="1874-05-22">22. Mai</date>
+					ist in der <placeName key="mailand.san-marco">Kirche San Marco</placeName> zu
+						<placeName key="mailand">Mailand</placeName>
+					<hi rend="italic"><persName key="verdi.giuseppe">Verdi’s</persName></hi>
+					<title key="verdi.requiem" type="mus">Requiem</title> zum Gedächtniss <persName
+						key="manzoni.alessandro">Manzoni’s</persName> unter des Componisten eigener
 					Leitung aufgeführt worden</rs> und die italienischen Blätter sind voll der
 				Lobeserhebungen.</p>
 		</body>

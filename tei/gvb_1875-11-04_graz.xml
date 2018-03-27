@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#grazer-volksblatt" role="publisher"/>
-					<placeName ref="#graz"/>
+					<orgName key="grazer-volksblatt" role="publisher"/>
+					<placeName key="graz"/>
 					<date when-iso="1875-11-04"/>
 					<biblScope unit="issue">252</biblScope>
 					<biblScope unit="volume">8</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#graz"/></creation>
+			<creation><placeName key="graz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -43,47 +43,47 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Musik und Kunst.</head>
-			<head><placeName ref="#graz.landes-theater">Landestheater</placeName>.</head>
-			<p>Das vom Opernkompositeur <persName ref="#verdi.giuseppe">G. Verdi</persName> für den
-				verstorbenen italienischen Patrioten <persName ref="#manzoni.alessandro">Alessandro
-					Manzoni</persName> komponirte <title ref="#verdi.requiem">Requiem</title> hat
+			<head><placeName key="graz.landes-theater">Landestheater</placeName>.</head>
+			<p>Das vom Opernkompositeur <persName key="verdi.giuseppe">G. Verdi</persName> für den
+				verstorbenen italienischen Patrioten <persName key="manzoni.alessandro">Alessandro
+					Manzoni</persName> komponirte <title key="verdi.requiem" type="mus">Requiem</title> hat
 				die Direktion am <date when-iso="1875-11-01">1.</date> und <date
 					when-iso="1875-11-02">2. November</date> mit verstärktem Chor und Orchester zur
 				Aufführung gebracht, und uns dadurch mit einem interessanten Werke bekannt gemacht.
-					<persName ref="#verdi.giuseppe">Verdi</persName> zählt gegenwärtig zu den
-				bedeutendsten Komponisten <placeName ref="#italien">Italiens</placeName>, und durch
+					<persName key="verdi.giuseppe">Verdi</persName> zählt gegenwärtig zu den
+				bedeutendsten Komponisten <placeName key="italien">Italiens</placeName>, und durch
 				das oberwähnte Werk bewies er, daß er nicht allein im Opernstyle, sondern auch in
 				kirchlicher Richtung Vorzügliches leisten kann.</p>
 			<p>Hiedurch wollen wir aber nicht behauptet haben, daß dieses <title
-					ref="#verdi.requiem">Requiem</title> allen Anforderungen des strengen
+					key="verdi.requiem" type="mus">Requiem</title> allen Anforderungen des strengen
 				Kirchenstyles vollkommen entspricht, denn nur zu oft verläßt <persName
-					ref="#verdi.giuseppe">Verdi</persName> den Kirchenton, verirrt sich in die <hi
+					key="verdi.giuseppe">Verdi</persName> den Kirchenton, verirrt sich in die <hi
 					rend="antiqua">opera seria</hi>, kehrt aber bald wieder um, bleibt jedoch immer
-				originell. Man betrachte nur den Absatz: „<title ref="#verdi.requiem.2.tuba-mirum"
-					>Tuba mirum</title>“, welche Stelle <persName ref="#mozart.wolfgang-amadeus"
-					>Mozart</persName> in seinem <title ref="#mozart.requiem">Requiem</title> zu so
+				originell. Man betrachte nur den Absatz: „<title key="verdi.requiem.2.tuba-mirum" type="mus"
+					>Tuba mirum</title>“, welche Stelle <persName key="mozart.wolfgang-amadeus"
+					>Mozart</persName> in seinem <title key="mozart.requiem" type="mus">Requiem</title> zu so
 				herrlichem und ergreifenden Ausdrucke gebracht hat. — Was macht <persName
-					ref="#verdi.giuseppe">Verdi</persName> daraus? Eine sehr interessante und
+					key="verdi.giuseppe">Verdi</persName> daraus? Eine sehr interessante und
 				effektreiche Theaterszene, denn statt Posaunen tönen und von verschiedenen Seiten im
 				Orchester und aus dem Hintergrunde der Bühne tief und hoch gestimmte Trompeten
 				entgegen, so daß wir uns in eine Schlacht zwischen zwei feindlichen Heeren versetzt
 				glaubten. Der Raum erlaubt uns nicht, auf einzelne Schönheiten dieses Werkes näher
 				einzugehen, und wir müssen daher jeden Musikfreund darauf verwei<cb break="no"
 					n="3b" type="regular"/>sen, daß dieses Requiem auch im Stadttheater und im
-				Konzerte des <orgName ref="#graz.akademischer-gesangverein">akademischen
+				Konzerte des <orgName key="graz.akademischer-gesangverein">akademischen
 					Gesangvereines</orgName> demnächst zur Aufführung gelangen wird.</p>
-			<p><rs ref="#graz.1875" type="event">Die Wiedergabe dieses Werkes fand bei ausverkauftem
+			<p><rs key="graz.1875" type="event">Die Wiedergabe dieses Werkes fand bei ausverkauftem
 					Hause statt</rs>, und um die gelungene Aufführung machte sich vorzüglich Frl.
-					<persName ref="#tomsa.xxx">Tomsa</persName> verdient, welche ihre Alt- und
+					<persName key="tomsa.xxx">Tomsa</persName> verdient, welche ihre Alt- und
 				Contra-Altpartie mit ihrer äußerst wohlgeschulten, gesunden Stimme und ganz
 				richtigem Vortrage zur vollen Geltung brachte, und hierfür allgemeinen und lebhaften
 				Beifall wiederholt erhielt. Die Sopranpartie war unter die Damen Frl. <persName
-					ref="#rubin.xxx">Rubin</persName>, <persName ref="#haeckl.xxx">Häckl</persName>,
-					<persName ref="#groedinger.xxx">Grödinger</persName>, Frau <persName
-					ref="#storch-zoder.xxx">Storch-Zoder</persName> und <persName ref="#treiber.xxx"
+					key="rubin.xxx">Rubin</persName>, <persName key="haeckl.xxx">Häckl</persName>,
+					<persName key="groedinger.xxx">Grödinger</persName>, Frau <persName
+					key="storch-zoder.xxx">Storch-Zoder</persName> und <persName key="treiber.xxx"
 					>Treiber</persName> vertheilt, welche Alle ihrer Aufgabe, sowie die Solosänger
-				Herr <persName ref="#beck.joseph">Beck</persName>, <persName ref="#grengg.karl"
-					>Grengg</persName> und <persName ref="#stoll.august">Stoll</persName> vollkommen
+				Herr <persName key="beck.joseph">Beck</persName>, <persName key="grengg.karl"
+					>Grengg</persName> und <persName key="stoll.august">Stoll</persName> vollkommen
 				entsprachen. Der Damenchor war durch mehrere Dilettantinnen verstärkt, welche recht
 				wacker, rein und präzis eingriffen.</p>
 		</body>

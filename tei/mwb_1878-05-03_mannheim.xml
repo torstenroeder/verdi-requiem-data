@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1878-05-03"/>
 					<biblScope unit="issue">19</biblScope>
 					<biblScope unit="volume">9</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#mannheim"/><date when-iso="1878-04"/></creation>
+			<creation><placeName key="mannheim"/><date when-iso="1878-04"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -45,16 +45,16 @@
 			<pb break="null" n="234" type="initial"/>
 			<head rend="lineale bold">Concertumschau.</head>
 			<cb break="null" facs="#f1" n="235b" type="skipped"/>
-			<p><hi rend="bold"><placeName ref="#mannheim">Mannheim</placeName>.</hi>
+			<p><hi rend="bold"><placeName key="mannheim">Mannheim</placeName>.</hi>
 				<gap resp="tr"/>
-				<rs ref="#mannheim.1878.1" type="event">Am <date when-iso="1878-04-19">19.
-						April</date> Aufführ. v. <persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> durch den Musikverein unt. solist.
-					Mitwirk. v. Frau <persName ref="#possart.anna">Possart</persName> a. <placeName
-						ref="#muenchen">München</placeName>, Frl. <persName ref="#steinbach.emma"
-						>Steinbach</persName> a. <placeName ref="#karlsruhe">Carlsruhe</placeName>
-					u. HH. <persName ref="#wolff.josef">Wolff</persName> a. <placeName ref="#speyer"
-						>Speyer</placeName> u. <persName ref="#lindeck.wilhelm"
+				<rs key="mannheim.1878.1" type="event">Am <date when-iso="1878-04-19">19.
+						April</date> Aufführ. v. <persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> durch den Musikverein unt. solist.
+					Mitwirk. v. Frau <persName key="possart.anna">Possart</persName> a. <placeName
+						key="muenchen">München</placeName>, Frl. <persName key="steinbach.emma"
+						>Steinbach</persName> a. <placeName key="karlsruhe">Carlsruhe</placeName>
+					u. HH. <persName key="wolff.josef">Wolff</persName> a. <placeName key="speyer"
+						>Speyer</placeName> u. <persName key="lindeck.wilhelm"
 					>Lindeck</persName>.</rs></p>
 		</body>
 	</text>

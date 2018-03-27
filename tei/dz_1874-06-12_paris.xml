@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#deutsche-zeitung" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="deutsche-zeitung" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1874-06-12"/>
 					<biblScope unit="issue">877</biblScope>
 					<biblScope unit="subIssue">877</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#paris"/><placeName ref="#mailand"/></creation>
+			<creation><placeName key="paris"/><placeName key="mailand"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -45,24 +45,24 @@
 		<body rend="fraktur">
 			<head rend="larger">Theater, Kunst und Literatur.</head>
 			<gap resp="tr"/>
-			<p>— <rs ref="#paris.1874.1" type="event">Maestro <hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi</persName></hi> führte am <date
-						when-iso="1874-06-09">9. d. M.</date> in <placeName ref="#paris"
-						>Paris</placeName> sein „<hi rend="widespace"><title ref="#verdi.requiem"
+			<p>— <rs key="paris.1874.1" type="event">Maestro <hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi</persName></hi> führte am <date
+						when-iso="1874-06-09">9. d. M.</date> in <placeName key="paris"
+						>Paris</placeName> sein „<hi rend="widespace"><title key="verdi.requiem" type="mus"
 							>Manzoni-Requiem</title></hi>“ auf</rs>, und zwar mit denselben
 				Solisten, welche dasselbe vor vierzehn Tagen unter seiner eigenen Leitung in
-					<placeName ref="#mailand">Mailand</placeName> gesungen haben. <hi rend="antiqua"
-					>Il sindaco di Milano,</hi> der <persName cert="high" ref="#belinzaghi.giulio"
+					<placeName key="mailand">Mailand</placeName> gesungen haben. <hi rend="antiqua"
+					>Il sindaco di Milano,</hi> der <persName cert="high" key="belinzaghi.giulio"
 					>Mailänder Oberbürgermeister</persName>, schickte damals dem kurz zuvor
-				eingetroffenen <persName ref="#buelow.hans-von">Hans v. <hi rend="widespace"
+				eingetroffenen <persName key="buelow.hans-von">Hans v. <hi rend="widespace"
 						>Bülow</hi></persName> eine Eintrittskarte für diese musikalische
-				Festlichkeit zu. Aber <persName ref="#buelow.hans-von">Bülow</persName> remittirte
-				das Billet mit dem Bemerken, „er sei nach <placeName ref="#mailand"
-					>Mailand</placeName> gekommen, um die Oper von <persName ref="#glinka.michael"
-					>Glinka</persName>, nicht um das <title ref="#verdi.requiem">Requiem</title> von
-					<persName ref="#verdi.giuseppe">Verdi</persName> zu hören“. Diese rasch
+				Festlichkeit zu. Aber <persName key="buelow.hans-von">Bülow</persName> remittirte
+				das Billet mit dem Bemerken, „er sei nach <placeName key="mailand"
+					>Mailand</placeName> gekommen, um die Oper von <persName key="glinka.michael"
+					>Glinka</persName>, nicht um das <title key="verdi.requiem" type="mus">Requiem</title> von
+					<persName key="verdi.giuseppe">Verdi</persName> zu hören“. Diese rasch
 				bekanntgewordene Erklärung rief einen solchen Sturm des Unmuthes hervor, daß Herr
-					<persName ref="#buelow.hans-von">v. Bülow</persName> zu seiner persönlichen
+					<persName key="buelow.hans-von">v. Bülow</persName> zu seiner persönlichen
 				Sicherheit die Flucht ergriff. Man muß die wuthschnaubenden Artikel der
 				italienischen Zeitungen selber lesen, um zu der Ueberzeugung zu kommen, daß
 				wahrscheinlich noch niemals einem deutschen Künstler jenseits der Alpen solche

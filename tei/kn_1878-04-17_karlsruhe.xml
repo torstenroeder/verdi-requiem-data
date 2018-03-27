@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#karlsruher-nachrichten" role="publisher"/>
-					<placeName ref="#karlsruhe"/>
+					<orgName key="karlsruher-nachrichten" role="publisher"/>
+					<placeName key="karlsruhe"/>
 					<date when-custom="wed" when-iso="1878-04-17"/>
 					<biblScope unit="issue">46</biblScope>
 					<biblScope unit="subIssue">46</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#karlsruhe"/></creation>
+			<creation><placeName key="karlsruhe"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,28 +40,28 @@
 			<head rend="larger">Lokal-Nachrichten.</head>
 			<pb break="null" n="344" type="skipped"/>
 			<p>— <hi rend="bold">Nach der wohlgelungenen</hi>
-				<rs ref="#karlsruhe.1878.1" type="event">Aufführung von <persName
-						ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title></rs>, dessen zahlreicher Besuch dem
+				<rs key="karlsruhe.1878.1" type="event">Aufführung von <persName
+						key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title></rs>, dessen zahlreicher Besuch dem
 				edlen Zwecke ein hübsches materielles Ergebniß brachte, fand in dem Konzertsaale der
-					<placeName ref="#karlsruhe.festhalle">Festhalle</placeName> ein geselliges
+					<placeName key="karlsruhe.festhalle">Festhalle</placeName> ein geselliges
 				Festessen der zunächst Betheiligten statt. Bei demselben war es besonders Herr
-				Hofkapellmeister <hi rend="widespace"><persName ref="#dessoff.felix-otto"
+				Hofkapellmeister <hi rend="widespace"><persName key="dessoff.felix-otto"
 						>Dessoff</persName></hi>, welcher als der Held des Tages gefeiert wurde,
 				während dieser seinen Mitarbeitern an dem schwierigen Werke, den Herren <hi
-					rend="widespace"><persName ref="#ruzek.joseph">Ruzek</persName></hi>, <hi
-					rend="widespace"><persName ref="#mohr.xxx">Mohr</persName></hi> und <hi
-					rend="widespace"><persName ref="#steinbach.emma">Steinbach</persName></hi> den
+					rend="widespace"><persName key="ruzek.joseph">Ruzek</persName></hi>, <hi
+					rend="widespace"><persName key="mohr.xxx">Mohr</persName></hi> und <hi
+					rend="widespace"><persName key="steinbach.emma">Steinbach</persName></hi> den
 				wohlverdienten Dank für ihre thätige Mitwirkung darbrachte. Herr Hofschauspieler <hi
-					rend="widespace"><persName ref="#lange.rudolph">Lange</persName></hi>
-				übermittelte im Auftrage <persName ref="#luise-von-preussen">I. K. H. der
+					rend="widespace"><persName key="lange.rudolph">Lange</persName></hi>
+				übermittelte im Auftrage <persName key="luise-von-preussen">I. K. H. der
 					Großherzogin</persName> dem Dirigentin und allen Mitwirkenden den Ausdruck der
 				allerhöchsten Anerkennung. Mit großer Opferbereitwilligkeit hatten die Mitglieder
 				des Genossenschafts-Vorstandes sich der schönen Sache angenomnmen, und fand die
 				Anerkennung hiefür in den auf’s Wärmste aufgenommenen Toasten auf die Herren <hi
-					rend="widespace"><persName ref="#holdampf.ferdinand-karl"
+					rend="widespace"><persName key="holdampf.ferdinand-karl"
 					>Holdampf</persName></hi> und <hi rend="widespace"><persName
-						ref="#groesser.wilhelm">Grösser</persName></hi> beredten Ausdruck.
+						key="groesser.wilhelm">Grösser</persName></hi> beredten Ausdruck.
 				Ueberhaupt nahm die Aufführung, wie das darauf folgende Festessen den schönsten
 				Verlauf; auch hat es sich wieder auf das Neue gezeigt, was vereinte Kräfte unter
 				sicherer Leitung zu leisten vermögen und wie vorzüglich sich unsere Festhalle hiezu

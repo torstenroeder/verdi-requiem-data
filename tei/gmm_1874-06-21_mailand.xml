@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#gazzetta-musicale-di-milano" role="publisher"/>
-					<placeName ref="#mailand"/>
+					<orgName key="gazzetta-musicale-di-milano" role="publisher"/>
+					<placeName key="mailand"/>
 					<date when-iso="1874-06-21"/>
 					<biblScope unit="issue">25</biblScope>
 					<biblScope unit="volume">29</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#mailand"/></creation>
+			<creation><placeName key="mailand"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Illustration</term>
@@ -46,14 +46,14 @@
 					<desc>Prima esecuzione della Messa da Requiem, Chiesa di San Marco, 22 maggio
 						1874</desc>
 				</graphic></p>
-			<p>LA <placeName ref="#mailand.san-marco">CHIESA DI S. MARCO</placeName> IN <placeName
-					ref="#mailand">MILANO</placeName> — <date when-iso="1874-05-22">22 MAGGIO
+			<p>LA <placeName key="mailand.san-marco">CHIESA DI S. MARCO</placeName> IN <placeName
+					key="mailand">MILANO</placeName> — <date when-iso="1874-05-22">22 MAGGIO
 					1874</date></p>
-			<p rend="italic"><rs ref="#mailand.1874.1" type="event">Prima esecuzione della <hi
-						rend="straight"><title ref="#verdi.requiem">MESSA DA REQUIEM</title></hi> di
-						<hi rend="straight"><persName ref="#verdi.giuseppe">VERDI</persName></hi>
+			<p rend="italic"><rs key="mailand.1874.1" type="event">Prima esecuzione della <hi
+						rend="straight"><title key="verdi.requiem" type="mus">MESSA DA REQUIEM</title></hi> di
+						<hi rend="straight"><persName key="verdi.giuseppe">VERDI</persName></hi>
 					per l’anniversario della morte di <hi rend="straight"><persName
-							ref="#manzoni.alessandro">ALESSANDRO MANZONI</persName></hi>.</rs></p>
+							key="manzoni.alessandro">ALESSANDRO MANZONI</persName></hi>.</rs></p>
 		</body>
 	</text>
 </TEI>

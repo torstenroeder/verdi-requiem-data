@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-03-10"/>
 					<biblScope unit="issue">11</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#leipzig"/></creation>
+			<creation><placeName key="leipzig"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -45,18 +45,18 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
 			<pb break="null" n="114" type="skipped"/>
-			<p><rs ref="#leipzig.1876.1" type="event"><placeName ref="#leipzig">Leipzig</placeName>.
+			<p><rs key="leipzig.1876.1" type="event"><placeName key="leipzig">Leipzig</placeName>.
 						<gap resp="tr"/> Am <date when-iso="1876-03-09">9.</date> im neunzehnten
 						Gewandhaus<supplied resp="tr">concert</supplied> mit Frau <hi
-						rend="widespace"><persName ref="#peschka-leutner.minna"
+						rend="widespace"><persName key="peschka-leutner.minna"
 						>Peschka</persName></hi>, Frl. <hi rend="widespace"><persName
-							ref="#nanitz.minna">Nanitz</persName></hi> aus <placeName ref="#dresden"
+							key="nanitz.minna">Nanitz</persName></hi> aus <placeName key="dresden"
 						>Dresden</placeName>, HH. <hi rend="widespace"><persName
-							ref="#pielke.walter">W. Pielke</persName></hi> und <hi rend="widespace"
-							><persName ref="#koehler.hans">Köhler</persName></hi> aus <placeName
-						ref="#dresden">Dresden</placeName>: <hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName></hi>
-					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi>.</rs> —</p>
+							key="pielke.walter">W. Pielke</persName></hi> und <hi rend="widespace"
+							><persName key="koehler.hans">Köhler</persName></hi> aus <placeName
+						key="dresden">Dresden</placeName>: <hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi’s</persName></hi>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>.</rs> —</p>
 		</body>
 	</text>
 </TEI>

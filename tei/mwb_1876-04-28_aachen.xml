@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-04-28"/>
 					<biblScope unit="issue">18</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#aachen"/></creation>
+			<creation><placeName key="aachen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -44,20 +44,20 @@
 		<body rend="antiqua">
 			<pb break="null" facs="#f1" n="231" type="initial"/>
 			<head rend="lineale bold">Concertumschau.</head>
-			<p><rs ref="#aachen.1876.1" type="event"><hi rend="bold"><placeName ref="#aachen"
+			<p><rs key="aachen.1876.1" type="event"><hi rend="bold"><placeName key="aachen"
 							>Aachen</placeName>.</hi> 6. Abonn-Conc. unt. Leit. des Musikdirectors
-					Hrn. <persName ref="#breunung.ferdinand">F. Breunung</persName> am <date
+					Hrn. <persName key="breunung.ferdinand">F. Breunung</persName> am <date
 						when-iso="1876-03-16">16. März</date>: <title
-						ref="#gluck.iphigenie-en-aulide.ouverture">„Iphigenien“-Ouvert.</title> v.
-						<persName ref="#gluck.christoph-willibald">Gluck</persName>, <title
-						ref="#verdi.requiem">Requiem</title> v. <hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi</persName></hi>. Solisten: Frau <persName
-						ref="#lederer-ubrich.asminde">A. Lederer-Ubrich</persName> a. <placeName
-						ref="#aachen">Aachen</placeName>, Frl. <persName ref="#keller.elsa">Elsa
-						Keller</persName> a. <placeName ref="#koeln">Cöln</placeName>, Hr. Prof.
-						<persName ref="#schneider.carl">Carl Schneider</persName> a. <placeName
-						ref="#koeln">Cöln</placeName> und Hr. <persName ref="#pfeiffer.xxx">L.
-						Pfeiffer</persName> a. <placeName ref="#duesseldorf"
+						key="gluck.iphigenie-en-aulide.ouverture" type="mus">„Iphigenien“-Ouvert.</title> v.
+						<persName key="gluck.christoph-willibald">Gluck</persName>, <title
+						key="verdi.requiem" type="mus">Requiem</title> v. <hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi</persName></hi>. Solisten: Frau <persName
+						key="lederer-ubrich.asminde">A. Lederer-Ubrich</persName> a. <placeName
+						key="aachen">Aachen</placeName>, Frl. <persName key="keller.elsa">Elsa
+						Keller</persName> a. <placeName key="koeln">Cöln</placeName>, Hr. Prof.
+						<persName key="schneider.carl">Carl Schneider</persName> a. <placeName
+						key="koeln">Cöln</placeName> und Hr. <persName key="pfeiffer.xxx">L.
+						Pfeiffer</persName> a. <placeName key="duesseldorf"
 					>Düsseldorf</placeName>.</rs></p>
 		</body>
 	</text>

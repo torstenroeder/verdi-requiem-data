@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-12-15"/>
 					<biblScope unit="issue">51</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bristol"/></creation>
+			<creation><placeName key="bristol"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -46,9 +46,9 @@
 			<cb break="null" n="511b" type="skipped"/>
 			<head rend="bold">Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
 			<gap resp="tr"/>
-			<p rend="hanging"><rs ref="#bristol.1876.1" type="event"><persName ref="#verdi.giuseppe"
-						>Verdi, G.</persName>, <hi rend="antiqua"><title ref="#verdi.requiem"
-							>Requiem</title></hi>. <placeName ref="#bristol">Bristol</placeName>,
+			<p rend="hanging"><rs key="bristol.1876.1" type="event"><persName key="verdi.giuseppe"
+						>Verdi, G.</persName>, <hi rend="antiqua"><title key="verdi.requiem" type="mus"
+							>Requiem</title></hi>. <placeName key="bristol">Bristol</placeName>,
 					Musikfest.</rs></p>
 		</body>
 	</text>

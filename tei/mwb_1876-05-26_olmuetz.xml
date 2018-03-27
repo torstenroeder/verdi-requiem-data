@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-05-26"/>
 					<biblScope unit="issue">22</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#olmuetz"/></creation>
+			<creation><placeName key="olmuetz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -45,10 +45,10 @@
 			<head rend="bold lineale">Vermischte Mittheilungen und Notizen.</head>
 			<cb break="null" facs="#f1" n="288b" type="skipped"/>
 			<p><g n="002A" type="ASTERISK">*</g>
-				<rs ref="#olmuetz.1876" type="event">In <hi rend="widespace"><placeName
-							ref="#olmuetz">Olmütz</placeName></hi> kam <hi rend="widespace"
-							><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
-					<title ref="#verdi.requiem">Requiem</title> kürzlich vier<note resp="tr"
+				<rs key="olmuetz.1876" type="event">In <hi rend="widespace"><placeName
+							key="olmuetz">Olmütz</placeName></hi> kam <hi rend="widespace"
+							><persName key="verdi.giuseppe">Verdi’s</persName></hi>
+					<title key="verdi.requiem" type="mus">Requiem</title> kürzlich vier<note resp="tr"
 						type="eventCommentary">Bislang nur zwei Aufführungen belegbar.</note> Mal
 					zur Aufführung.</rs> Das Werk hat dort sehr gefallen.</p>
 		</body>

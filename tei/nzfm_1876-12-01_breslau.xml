@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-12-01"/>
 					<biblScope unit="issue">49</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#breslau"/></creation>
+			<creation><placeName key="breslau"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -44,16 +44,16 @@
 			<cb break="null" n="482b" type="initial"/>
 			<head rend="larger widespace">Correspondenzen.</head>
 			<gap resp="tr"/>
-			<p rend="bold right"><placeName ref="#breslau">Breslau</placeName>.</p>
+			<p rend="bold right"><placeName key="breslau">Breslau</placeName>.</p>
 			<pb break="null" n="483" type="skipped"/>
-			<p><gap resp="tr"/> Die <placeName ref="#breslau">Breslauer</placeName>
-				<orgName ref="#breslau.singakademie"><hi rend="widespace"
+			<p><gap resp="tr"/> Die <placeName key="breslau">Breslauer</placeName>
+				<orgName key="breslau.singakademie"><hi rend="widespace"
 					>Singakademie</hi></orgName> unter Leitung von <hi rend="widespace"><persName
-						ref="#schaeffer.julius">Julius Schäffer</persName></hi> hatte sich diesmal
+						key="schaeffer.julius">Julius Schäffer</persName></hi> hatte sich diesmal
 				als erste Aufführung ein Werk gewählt, welches in gewisser Beziehung weit ab von
 				ihrem Wirkungskreis des als gediegenen Religiösen lag, nämlich das <hi
-					rend="widespace"><title ref="#verdi.requiem">Manzoni-Requiem</title></hi> von
-					<persName ref="#verdi.giuseppe">Verdi</persName>. <rs ref="#breslau.1876.1"
+					rend="widespace"><title key="verdi.requiem" type="mus">Manzoni-Requiem</title></hi> von
+					<persName key="verdi.giuseppe">Verdi</persName>. <rs key="breslau.1876.1"
 					type="event">Es wurde ohne fremde Hülfe auswärtiger Solisten am <date
 						when-iso="1876-11-07">7. Nov.</date> unter großer Betheiligung des Publikums
 					ganz vortrefflich ausgeführt</rs> und fand die ihm gebührende Würdigung als

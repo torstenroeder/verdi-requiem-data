@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#der-floh" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="der-floh" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-13"/>
 					<biblScope unit="issue">24</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -49,62 +49,62 @@
 				</graphic></p>
 			<p rend="right">Herr vün Redacter !</p>
 			<p>Ä hohes <hi rend="antiqua">C</hi> den Herrn Direkter <hi rend="widespace"><persName
-						ref="#jauner.franz-von">Janner</persName></hi> ünd ä Triller dazü. Er hot
+						key="jauner.franz-von">Janner</persName></hi> ünd ä Triller dazü. Er hot
 				gethon, wos noch kä anziger Direkter vor ihm hot gethon ünd kä Anziger noch ihm werd
 				thün. Waanen kennt mer. Äs Chor hot er gewonnen ünd äs Orchester hot er fost
 				verloren. Wie ä so, wer ich Ihnen erzählen. Züerst vüm Verlüst vüm Orchester, waanen
-				kennt mer. Hätt’ nemlich solln sein de Prob züm <title ref="#verdi.requiem"
-					>Rehkviem</title> vün <hi rend="widespace"><persName ref="#verdi.giuseppe"
+				kennt mer. Hätt’ nemlich solln sein de Prob züm <title key="verdi.requiem" type="mus"
+					>Rehkviem</title> vün <hi rend="widespace"><persName key="verdi.giuseppe"
 						>Verdi</persName></hi>, waanen kennt mer, oder eigentlich soll mer dabei,
 				ünd äs gonze Personal wor versommelt üm zehn Uhr, wo hatt’ sollen de Waanerei nach
-				de Noten anfangen. Es werd vertel af Elfe, <persName ref="#verdi.giuseppe"
+				de Noten anfangen. Es werd vertel af Elfe, <persName key="verdi.giuseppe"
 					>Verdi</persName> is noch nix da, es werd halber, er is noch immer nix da. Werd
-				das Orchester unruhig, <hi rend="widespace"><persName ref="#hellmesberger.josef"
+				das Orchester unruhig, <hi rend="widespace"><persName key="hellmesberger.josef"
 						>Hellmesberger</persName></hi> streicht sei <hi rend="antiqua">G</hi>-Saiten
-				ünd sei Glatzen, <hi rend="widespace"><persName ref="#bachrich.sigmund"
+				ünd sei Glatzen, <hi rend="widespace"><persName key="bachrich.sigmund"
 						>Bachrich</persName></hi> pützt sei Viola, werd violett vor Zorn ünd pützt
 				nochämal de Viola ünd de Augengleser, <hi rend="widespace"><persName
-						ref="#doppler.albert-franz">Doppler</persName></hi> pfeift nix nor af sei
+						key="doppler.albert-franz">Doppler</persName></hi> pfeift nix nor af sei
 				Flöte, sondern auch af Verdi. Große Unruhe. Es werd dreiviertel af Elfe. Da fallen ä
-				paar laute Wort in Orchester, <hi rend="widespace"><persName ref="#jauner.franz-von"
+				paar laute Wort in Orchester, <hi rend="widespace"><persName key="jauner.franz-von"
 						>Jauner</persName></hi> aber, was ist <cb break="yes" n="2b" type="regular"
 				/> af der Bühne, laßt sich nix herünter, se aufzuheben, mer macht Bemerkungen, de
 				sehr billig sein, weil Alles hat Hünger, ä bekannter Witzblaser sogt, Verdi benehmt
 				sich wir de Nomen vün seine Primadonnen <hi rend="widespace"><persName
-						ref="#stolz.teresa">Stolz</persName></hi> ünd wie ä <hi rend="widespace"
-						><persName ref="#waldmann.maria">Waldmann</persName></hi> nix wie a <hi
+						key="stolz.teresa">Stolz</persName></hi> ünd wie ä <hi rend="widespace"
+						><persName key="waldmann.maria">Waldmann</persName></hi> nix wie a <hi
 					rend="widespace">Welt</hi>mann, jetzt kümmt ä groißes Volksgemormel in
 				Orchester, de ganze <hi rend="widespace">Harmonie</hi> is scho gestört — endlich
-				kimmt <persName ref="#verdi.giuseppe">Verdi</persName>, <hi rend="widespace"
-						><persName ref="#jauner.franz-von">Jauner</persName></hi> geht ihm entgegen
+				kimmt <persName key="verdi.giuseppe">Verdi</persName>, <hi rend="widespace"
+						><persName key="jauner.franz-von">Jauner</persName></hi> geht ihm entgegen
 				ünd sogt vor ihm dem Orchester, es wär scheener, wenn se hetten mehr <hi
 					rend="widespace">kinstlerische</hi> Ruhe gezeigt, <persName
-					ref="#verdi.giuseppe">Verdi</persName> moch ä Gsicht wie ä Dützend Rehkaiems, in
+					key="verdi.giuseppe">Verdi</persName> moch ä Gsicht wie ä Dützend Rehkaiems, in
 				Orchester is mer ibergangen vüm Allegro ins Adaschio ünd es hoben geschwiegen alle
 				Flöten ünd andere Instrumente, ünd ’n andern Tag is in der Zeitung gestanden —
-					<persName ref="#verdi.giuseppe">Verdi</persName> is geworn empfangen mit ä
+					<persName key="verdi.giuseppe">Verdi</persName> is geworn empfangen mit ä
 				ungeheiren Applaus — wer lacht da in <hi rend="antiqua">B-moll</hi>? Ünd zwischen
-					<persName ref="#jauner.franz-von">Jauner</persName> ünd dem Orchester ist de
+					<persName key="jauner.franz-von">Jauner</persName> ünd dem Orchester ist de
 				Stimmung um ä starken halben Ton gesunken, waanen kennt mer. Gestiegen aber is se
 				beim Chor. Nach der Prob is Jauner gekümmen eigenhändig persönlich in de
 				Chor-Garderobe, hot jeden vün de Herrn de Hand gereicht, gesogt, daß er is entzickt
 				ünd hot jeden ä Kinstler genannt. Hetten Se sehen solln de Rihrung, der alte <hi
-					rend="widespace"><persName ref="#wohlrath.xxx">Wohlrath</persName></hi> hot nix
-				kennen mehr schnupfen, <hi rend="widespace"><persName ref="#koschat.thomas"
+					rend="widespace"><persName key="wohlrath.xxx">Wohlrath</persName></hi> hot nix
+				kennen mehr schnupfen, <hi rend="widespace"><persName key="koschat.thomas"
 						>Koschat</persName></hi> is ä Kärntner Lied in de Kehle stecken geblieben,
-					<hi rend="widespace"><persName ref="#haimann.xxx">Haimann</persName></hi> is in
+					<hi rend="widespace"><persName key="haimann.xxx">Haimann</persName></hi> is in
 				der Schnelligkeit gworn <hi rend="widespace">noch</hi> mägerer ünd de Damen vüm Choe
 				hoben geweint de ältesten Thränen, waanen kennt mer, ünd in der noibelsten <hi
 					rend="antiqua">Moll</hi>-Stimmung is mer gegangen ausänander, ünd das ganze Chor
-				schwärmt jetzt ünd schwört jetzt for <persName ref="#jauner.franz-von"
+				schwärmt jetzt ünd schwört jetzt for <persName key="jauner.franz-von"
 					>Jauner</persName> ünd geht for ihm durch’s Feier in „<hi rend="widespace"
-						><title ref="#wagner.rienzi">Rienzi</title></hi>“ ünd dorch’s Wasser in „<hi
-					rend="widespace"><title ref="#wagner.lohengrin">Lohengrin</title></hi>“, ünd kä
+						><title key="wagner.rienzi" type="mus">Rienzi</title></hi>“ ünd dorch’s Wasser in „<hi
+					rend="widespace"><title key="wagner.lohengrin" type="mus">Lohengrin</title></hi>“, ünd kä
 				anziger sagt mehr, waanen kennt mer iber Jauner’s Angaschement, im Gegentheil, ä
 				hohes C ihm ünd ä Triller dazu ünd ä ausgeglichenes</p>
 			<p rend="antiqua center">Do, rö, mü, fa, so, la, sü, do</p>
 			<p rend="noIndent">vün mir</p>
-			<p rend="right"><hi rend="lineale bold"><persName ref="#singerlich.jainkef">Jainkef
+			<p rend="right"><hi rend="lineale bold"><persName key="singerlich.jainkef">Jainkef
 						Singerlich</persName>,</hi><lb break="yes"/><hi rend="smaller">Chorist vün’s
 					Theater ünd vüm neien Tempel<lb break="yes"/> Waanen kennt mer.</hi></p>
 		</body>

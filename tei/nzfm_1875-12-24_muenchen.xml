@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1875-12-24"/>
 					<biblScope unit="issue">52</biblScope>
 					<biblScope unit="volume">71</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#muenchen"/></creation>
+			<creation><placeName key="muenchen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -46,14 +46,14 @@
 			<head>Aufführungen.</head>
 			<cb break="null" n="520b" type="skipped"/>
 			<p>
-				<rs ref="#muenchen.1875.1" type="event"><placeName ref="#muenchen"
+				<rs key="muenchen.1875.1" type="event"><placeName key="muenchen"
 						>München</placeName>. <gap resp="tr"/> Am <date when-iso="1875-12-07"><choice>
 							<orig>12.</orig>
 							<corr resp="tr">7.</corr>
 						</choice></date> durch die Musikakademie unter <persName
-						ref="#wuellner.franz">Wüllners</persName> Leitung <persName
-						ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> zum ersten Male mit auffallendem
+						key="wuellner.franz">Wüllners</persName> Leitung <persName
+						key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> zum ersten Male mit auffallendem
 					Erfolge</rs>.</p>
 		</body>
 	</text>

@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neue-freie-presse" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="neue-freie-presse" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="wed" when-iso="1875-06-23"/>
 					<biblScope unit="issue">3888</biblScope>
 					<biblScope unit="subIssue">3888</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -43,13 +43,13 @@
 		<body rend="fraktur">
 			<cb break="null" n="5c" type="initial"/>
 			<head rend="larger">Theater- und Kunstnachrichten.</head>
-			<p rend="right"><placeName ref="#wien">Wien</placeName>, <date when-iso="1875-06-22">22.
+			<p rend="right"><placeName key="wien">Wien</placeName>, <date when-iso="1875-06-22">22.
 					Juni</date>.</p>
-			<p>— Am morgigen Abend schließt das <placeName ref="#wien.hof-operntheater"
+			<p>— Am morgigen Abend schließt das <placeName key="wien.hof-operntheater"
 					>Hofoperntheater</placeName> seine Saison und wird erst am <date
 					when-iso="1875-08-15">15. August</date>, nach dem Ende der Ferien, wieder
-				eröffnet werden; <rs ref="#wien.1875.4" type="event">die letzte Aufführung der
-						<title ref="#verdi.requiem">Manzoni-Messe</title> bildet den Abschluß der
+				eröffnet werden; <rs key="wien.1875.4" type="event">die letzte Aufführung der
+						<title key="verdi.requiem" type="mus">Manzoni-Messe</title> bildet den Abschluß der
 					Vorstellungen.</rs>
 				<gap resp="tr"/></p>
 		</body>

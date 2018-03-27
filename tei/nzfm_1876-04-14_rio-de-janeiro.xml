@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-04-14"/>
 					<biblScope unit="issue">16</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#rio-de-janeiro"/></creation>
+			<creation><placeName key="rio-de-janeiro"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,11 +45,11 @@
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
 			<pb break="null" n="166" type="skipped"/>
-			<p><rs ref="#rio-de-janeiro.1876" type="event"><hi rend="widespace"><placeName
-							ref="#rio-de-janeiro">Rio de Janeiro</placeName></hi>. Auch die
-					Hauptstadt <placeName ref="#brasilien">Brasiliens</placeName> hat bereits ihre
-					Aufführung von <persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<hi rend="antiqua"><title ref="#verdi.requiem">Requiem</title></hi> unter großem
+			<p><rs key="rio-de-janeiro.1876" type="event"><hi rend="widespace"><placeName
+							key="rio-de-janeiro">Rio de Janeiro</placeName></hi>. Auch die
+					Hauptstadt <placeName key="brasilien">Brasiliens</placeName> hat bereits ihre
+					Aufführung von <persName key="verdi.giuseppe">Verdi’s</persName>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> unter großem
 					Furore gehabt.</rs> —</p>
 		</body>
 	</text>

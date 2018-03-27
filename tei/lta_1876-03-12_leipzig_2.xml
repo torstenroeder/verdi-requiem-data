@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Leipziger Tageblatt und Anzeiger, 12. März 1876 [2]</title>
-				<author><persName ref="#piutti.carl"/></author>
+				<author><persName key="piutti.carl"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#leipziger-tageblatt" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="leipziger-tageblatt" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-custom="sun" when-iso="1876-03-12"/>
 					<biblScope unit="issue">72</biblScope>
 					<series>lt</series>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#leipzig"/></creation>
+			<creation><placeName key="leipzig"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,35 +41,35 @@
 		<body rend="fraktur">
 			<head rend="larger">Musikalischer Bericht.</head>
 			<head>Neunzehntes Gewandhausconcert.</head>
-			<p><rs ref="#leipzig.1876.1" type="event"><placeName ref="#leipzig">Leipzig</placeName>,
+			<p><rs key="leipzig.1876.1" type="event"><placeName key="leipzig">Leipzig</placeName>,
 						<date when-iso="1876-03-11">11. März</date>. Vorigen Donnerstag, im 19.
 					Abonnement-Concert, fand die erste Aufführung des <hi rend="widespace"><title
-							ref="#verdi.requiem">Requiem</title></hi> von <hi rend="widespace"
-							><persName ref="#verdi.giuseppe"><choice>
+							key="verdi.requiem" type="mus">Requiem</title></hi> von <hi rend="widespace"
+							><persName key="verdi.giuseppe"><choice>
 								<orig>Guiseppe</orig>
 								<corr resp="tr">Giuseppe</corr>
 							</choice> Verdi</persName></hi> statt, — einer Novität, die beim
 					deutschen Publicum viele Theilnahme gefunden hat und von der Kritik so leicht
 					nicht abgethan ist.</rs>
-				<rs ref="#leipzig.1876.2" type="event">Die Aufführung wird sich am Montag
+				<rs key="leipzig.1876.2" type="event">Die Aufführung wird sich am Montag
 					wiederholen.</rs> Wir haben uns alle Mühe gegeben, die Partitur*) zu erlangen,
-				um eingehender über das <title ref="#verdi.requiem">Requiem</title> sprechen zu
+				um eingehender über das <title key="verdi.requiem" type="mus">Requiem</title> sprechen zu
 				können, — denn wir besitzen nicht die Kühnheit, über ein solches Werk nach bloßem
 				Hören der ersten Aufführung ein Urtheil, welches in mancher Hinsicht ein
 				absprechendes sein würde, zu veröffentlichen. Leider ist diese Mühe für den
 				Augenblick vergeblich gewesen.</p>
-			<p>Glücklicher scheint <persName ref="#naumann.emil">Emil <hi rend="widespace"><choice>
+			<p>Glücklicher scheint <persName key="naumann.emil">Emil <hi rend="widespace"><choice>
 							<orig>Hartmann</orig>
 							<corr resp="tr">Naumann</corr>
 						</choice></hi></persName> gewesen zu sein, welcher dem <title
-					ref="#verdi.requiem">Requiem</title> gelegentlich der <rs ref="#dresden.1876"
-					type="event"><placeName ref="#dresden">Dresdner</placeName> Aufführungen</rs>
-				eine ausführliche Besprechung in der <orgName ref="#national-zeitung"
+					key="verdi.requiem" type="mus">Requiem</title> gelegentlich der <rs key="dresden.1876"
+					type="event"><placeName key="dresden">Dresdner</placeName> Aufführungen</rs>
+				eine ausführliche Besprechung in der <orgName key="national-zeitung"
 					>Nationalzeitung</orgName> widmet.<note resp="tr" type="textLink">Gemeint ist
-					der Artikel von <persName ref="#naumann.emil">Emil Naumann</persName>, <ref
+					der Artikel von <persName key="naumann.emil">Emil Naumann</persName>, <ref
 						target="nz_1876-02-09_dresden.xml" type="text">National-Zeitung, Berlin, 9.
 						Februar 1876</ref>; der Name des Autors wurde verwechselt mit <persName
-						ref="#hartmann.ludwig">Ludwig Hartmann</persName>, <ref
+						key="hartmann.ludwig">Ludwig Hartmann</persName>, <ref
 						target="dn_1876-01-10_hoftheater.xml" type="text">Dresdner Nachrichten, 10.
 						Januar 1876</ref>.</note> Der Artikel ist lesenswerth. Die, welche sich für
 				das Werk interessiren, finden darin die Ansicht eines Fachmannes ausgesprochen, mit
@@ -77,7 +77,7 @@
 				Puncten in Uebereinstimmung setzt. Es ist uns immerhin lieber, in diesem Fall die
 				motivirte Ansicht eines Andern zu geben, als unsere eigene auf so schwachen
 				Grundlagen, und wir lassen daher statt unseres Berichts den aus der <orgName
-					ref="#national-zeitung">„N-Z.“</orgName> — wörtlich und im Wesentlichen
+					key="national-zeitung">„N-Z.“</orgName> — wörtlich und im Wesentlichen
 				unverkürzt — folgen, uns jeder Ergänzung oder Widerlegung enthaltend, da eine solche
 				nur auf Grund der Partitur erfolgen kann.</p>
 			<p>Leider ist der Abdruck dieses Berichts im Tageblatt erst in einer späteren Nummer
@@ -86,23 +86,23 @@
 				Gewissenhaftigkeit vorbereitete, daher auch strengsten Anforderungen genügende,
 				unter den musikalischen Ereignissen unsrer Stadt auf höchster Linie stehende. Wie
 				das Orchester und der Chorverein des Gewandhauses, unter Capellmeister <persName
-					ref="#reinecke.carl">Reinecke’s</persName> Leitung, so trugen namentlich auch
+					key="reinecke.carl">Reinecke’s</persName> Leitung, so trugen namentlich auch
 				die vier Solisten zu diesem schönen Gelingen der Aufführung bei. An die Namen der
 				Frau <hi rend="antiqua">Dr.</hi>
-				<hi rend="widespace"><persName ref="#peschka-leutner.minna"
+				<hi rend="widespace"><persName key="peschka-leutner.minna"
 						>Peschka-Leutner</persName></hi> und des Herrn <hi rend="widespace"
-						><persName ref="#pielke.walter">Pielke</persName></hi> knüpft sich für uns
+						><persName key="pielke.walter">Pielke</persName></hi> knüpft sich für uns
 				Leipziger von vornherein die Idee einer stylvollen, technisch vollkommenen und durch
 				ihre Klangschönheit für sich einnehmenden Leistung. An die Namen der beiden Dresdner
-				Gäste, des Fräulein <hi rend="widespace"><persName ref="#nanitz.minna"
+				Gäste, des Fräulein <hi rend="widespace"><persName key="nanitz.minna"
 						>Nanitz</persName></hi> (Alt) und des Herrn <hi rend="widespace"><persName
-						ref="#koehler.hans">Köhler</persName></hi>, beide von der königl. Hofoper,
+						key="koehler.hans">Köhler</persName></hi>, beide von der königl. Hofoper,
 				knüpfen wir im Andenken ihrer neulichen Mitwirkung für die Zukunft dieselbe
 				Idee.</p>
 			<p>Da uns die vorzüglichen Kräfte auch für die Montagsaufführung gewonnen bleiben, so
 				sehen wir dieser mit Freuden entgegen als einem seltsamen musikalischen Ereigniß —
 				in doppeltem Sinn.</p>
-			<p rend="right"><hi rend="widespace"><persName ref="#piutti.carl">C.
+			<p rend="right"><hi rend="widespace"><persName key="piutti.carl">C.
 					Piutti</persName></hi>.</p>
 			<p rend="smaller">*) Die einzige dürfte in den Händen der Gewandhaus-Direction sein.</p>
 		</body>

@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AdMz, Leipzig, 3. März 1876</title>
-				<author><persName ref="#akronym.ok"/></author>
+				<author><persName key="akronym.ok"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#admz" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="admz" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-03-03"/>
 					<biblScope unit="issue">9</biblScope>
 					<biblScope unit="volume">3</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koeln"/><date when-iso="1876-02-20"/></creation>
+			<creation><placeName key="koeln"/><date when-iso="1876-02-20"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,12 +42,12 @@
 			<pb break="null" n="74" type="initial"/>
 			<head rend="widespace larger">Korrespondenzen.</head>
 			<cb break="null" n="75b" type="skipped"/>
-			<p><hi rend="bold"><placeName ref="#hamburg">Cöln</placeName>,</hi>
-				<date when-iso="1876-02-20">20. Februar</date>. Das <rs ref="#koeln.1875.2"
+			<p><hi rend="bold"><placeName key="hamburg">Cöln</placeName>,</hi>
+				<date when-iso="1876-02-20">20. Februar</date>. Das <rs key="koeln.1875.2"
 					type="event">achte Gürzenichkonzert</rs> brachte eine Wiederholung des <hi
-					rend="widespace"><persName ref="#verdi.giuseppe">Verdi’schen</persName>
-					<title ref="#verdi.requiem">Requiems</title></hi>, dessen erste Aufführung
-				bereits im <rs ref="#koeln.1875.1" type="event">vierten Konzert</rs> stattgefunden,
+					rend="widespace"><persName key="verdi.giuseppe">Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Requiems</title></hi>, dessen erste Aufführung
+				bereits im <rs key="koeln.1875.1" type="event">vierten Konzert</rs> stattgefunden,
 				von uns jedoch damals nicht hatte besprochen werden können. Der durchschlagende
 				Erfolg, welchen das Werk auch diesmal wieder errang, durfte im Ganzen ein
 				berechtigter sein. Im Ganzen, denn im Einzelnen ließe sich der Komposition doch
@@ -55,11 +55,11 @@
 				wollen wir uns auf die vielen Schönheiten und Schwächen des Werkes näher einlassen,
 				so begnügen wir uns damit, unser Urtheil kurz zusammenzufassen. Das, was wir an dem
 				Werke schön finden, sondert sich auf einzelne Nummern, von denen die erste, das
-					<title ref="#verdi.requiem.4">Sanctus</title> und die <title
-					ref="#verdi.requiem.7">letzte</title> und die hervorragendsten sind. Hier hat
+					<title key="verdi.requiem.4" type="mus">Sanctus</title> und die <title
+					key="verdi.requiem.7" type="mus">letzte</title> und die hervorragendsten sind. Hier hat
 				der Komponist eine Musik geschaffen, die dem religiösen Stoffe gemäß concipirt und
 				mit entsprechenden Mitteln ausgeführt ist. Auch das <hi rend="antiqua"><title
-						ref="#verdi.requiem.2">Dies irae</title></hi>, welches selbstverständlich
+						key="verdi.requiem.2" type="mus">Dies irae</title></hi>, welches selbstverständlich
 				einen größeren Aufwand von Mitteln verlangt, ist in den Hauptpartien als gelungen zu
 				betrachten, d. h. seiner Großartigkeit zwar mit Effekten reich bedacht, <pb
 					break="yes" n="76" type="regular"/>aber doch nicht über die aesthetischen
@@ -75,11 +75,11 @@
 					<corr resp="tr">Bereicherung</corr>
 				</choice> erfahren hat. Ueber die Aufführung können wir bez. des Chores und
 				Orchesters nur Rühmliches berichten. Von den Solisten sind die Herren <hi
-					rend="widespace"><persName ref="#schelper.otto">Schelper</persName></hi> und <hi
-					rend="widespace">Prof. <persName ref="#schneider.carl">Schneider</persName></hi>
-				ebenso zu loben, wie die Damen <hi rend="widespace"><persName ref="#lehmann.lilli"
+					rend="widespace"><persName key="schelper.otto">Schelper</persName></hi> und <hi
+					rend="widespace">Prof. <persName key="schneider.carl">Schneider</persName></hi>
+				ebenso zu loben, wie die Damen <hi rend="widespace"><persName key="lehmann.lilli"
 						>Lehmann</persName></hi> und <hi rend="widespace"><persName
-						ref="#keller.elsa">Keller</persName></hi> wegen entsetzlichen Detonirens
+						key="keller.elsa">Keller</persName></hi> wegen entsetzlichen Detonirens
 				Tadel verdienen. Daß das Publikum im Applaus keinen Unterschied machte, durfte nicht
 				das Mittel sein, die Damen zu ernsterem überhaupt und der betreffenden Partien
 				insbesondere anzuspornen. Möchte doch endlich einmal dieses Applaudiren in’s Blaue
@@ -87,7 +87,7 @@
 				dann kann überhaupt von einem Zweck und Nutzen desselben die Rede sein.</p>
 			<gap resp="tr"/>
 			<p rend="right"><hi rend="antiqua">Dr.</hi>
-				<persName ref="#akronym.ok" role="author">O. K.</persName></p>
+				<persName key="akronym.ok" role="author">O. K.</persName></p>
 		</body>
 	</text>
 </TEI>

@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Mathilde Marchesi, Brief an Ferdinand Hiller, 12. Dezember 1875</title>
-				<author><persName ref="#marchesi.mathilde"/></author>
+				<author><persName key="marchesi.mathilde"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -17,7 +17,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/><date when-iso="1875-12-12"/></creation>
+			<creation><placeName key="wien"/><date when-iso="1875-12-12"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -31,10 +31,10 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p>Das <title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
+			<p>Das <title key="verdi.requiem" type="mus">Requiem</title> von <persName key="verdi.giuseppe"
 					>Verdi</persName> haben Sie aufgeführt! Hat es gefallen? Es braucht vorzügliche
-				Sänger; wer hat bei Ihnen gesungen? <rs ref="#wien.1875a" type="event">Hier wurde es
-					kürzlich an der <placeName ref="#wien.hof-operntheater">Oper</placeName> von den
+				Sänger; wer hat bei Ihnen gesungen? <rs key="wien.1875a" type="event">Hier wurde es
+					kürzlich an der <placeName key="wien.hof-operntheater">Oper</placeName> von den
 					deutschen Sängern gegeben</rs>, war aber nicht mehr zu erkennen.</p>
 		</body>
 	</text>

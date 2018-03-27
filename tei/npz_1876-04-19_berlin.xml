@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Preußische Zeitung, Berlin, 19. April 1876</title>
-				<author><persName ref="#symbol.paragraph"/></author>
+				<author><persName key="symbol.paragraph"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neue-preussische-zeitung" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="neue-preussische-zeitung" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-custom="wed" when-iso="1876-04-19"/>
 					<biblScope unit="issue">91</biblScope>
 					<series>npz</series>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#berlin"/></creation>
+			<creation><placeName key="berlin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -38,110 +38,110 @@
 	<!--<graphic n="npz_1876-04-19_2.jpg"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger"><placeName ref="#berlin.hofoper">Königliches
+			<head rend="larger"><placeName key="berlin.hofoper">Königliches
 				Theater</placeName>.</head>
-			<p><rs ref="#berlin.1876.1" type="event">Im <hi rend="widespace"><placeName
-							ref="#berlin.hofoper">Opernhause</placeName></hi>
+			<p><rs key="berlin.1876.1" type="event">Im <hi rend="widespace"><placeName
+							key="berlin.hofoper">Opernhause</placeName></hi>
 					<date when-iso="1876-04-15">Sonnabend, den 15. April</date>, zum ersten Male:
-						<hi rend="widespace">„<title ref="#verdi.requiem">Requiem</title>“</hi>, von
-						<hi rend="widespace"><persName ref="#verdi.giuseppe"
+						<hi rend="widespace">„<title key="verdi.requiem" type="mus">Requiem</title>“</hi>, von
+						<hi rend="widespace"><persName key="verdi.giuseppe"
 					>Verdi</persName></hi>.</rs> — Wer die Kunst nicht nur in ihren einzelnen Werken
 				und Stückwerken auffaßt, sondern sie auch in ihrem geschichtlichen Zusammenhange mit
 				der Gesammtbildung und Gesittung der Völker zu begreifen sucht, der kann es nicht
 				als eine zufällige Erscheinung ansehen, daß die neuren <hi rend="widespace"
 					>italienischen</hi> Opern-Componisten entweder von der kirchlichen Musik her zur
 				weltlichen fortgegangen oder vom Theater zur Kirche zurückgekehrt sind. <hi
-					rend="widespace"><persName ref="#rossini.gioachino">Rossini</persName></hi> hat
-				nach seinem charaktervollen Tondrama, dem „<title ref="#rossini.guillaume-tell"
+					rend="widespace"><persName key="rossini.gioachino">Rossini</persName></hi> hat
+				nach seinem charaktervollen Tondrama, dem „<title key="rossini.guillaume-tell" type="mus"
 					>Tell</title>“, nichts mehr für die Opernbühne geschrieben; dafür überraschte er
 				nach Jahre langer Kunstpause die musikalische Welt mit seinem <hi rend="antiqua"
-						>„<title ref="#rossini.stabat-mater">Stabat mater</title>“</hi>. <persName
-					ref="#bellini.vincenzo">Bellini</persName>, der thränenreiche Siegwart der
+						>„<title key="rossini.stabat-mater" type="mus">Stabat mater</title>“</hi>. <persName
+					key="bellini.vincenzo">Bellini</persName>, der thränenreiche Siegwart der
 				italienischen Oper, componirte vor seiner Verbindung mit dem Theater zwei <hi
-					rend="antiqua">„<title ref="#bellini.dixit-dominus">Dixit dominus</title>“,</hi>
-				fünf <title ref="#bellini.messen">Messen</title> so wie noch andere Kirchenstücke.
+					rend="antiqua">„<title key="bellini.dixit-dominus" type="mus">Dixit dominus</title>“,</hi>
+				fünf <title key="bellini.messen" type="mus">Messen</title> so wie noch andere Kirchenstücke.
 				Und wäre er, der junge Sicilianer, der mit seinem elegischen Pathos seinem Vorgänger
-					<persName ref="#rossini.gioachino">Rossini</persName> die Herrschaft über die
+					<persName key="rossini.gioachino">Rossini</persName> die Herrschaft über die
 				europäischen Opernbühnen streitig machte, nicht so frühzeitig gestorben, wer weiß,
-				ob nicht <persName ref="#bellini.vincenzo">Bellini</persName> von Neuem das
+				ob nicht <persName key="bellini.vincenzo">Bellini</persName> von Neuem das
 				kirchliche Tonspiel gerührt haben würde, zumal da er mit seiner letzten und reifsten
-				Oper: „<title ref="#bellini.i-puritani">Die Puritaner</title>“, den ersten Schritt
+				Oper: „<title key="bellini.i-puritani" type="mus">Die Puritaner</title>“, den ersten Schritt
 				auf der Bahn zu höheren Zielen gethan hatte. Auch <hi rend="widespace"><persName
-						ref="#donizetti.gaetano">Donizetti</persName></hi> hat mit Tondichtungen im
-				Kirchenstile angefangen und als Schüler des Paters <persName ref="#mattei.stanislao"
-					>Mattei</persName> in <placeName ref="#rom">Rom</placeName> gründliche
+						key="donizetti.gaetano">Donizetti</persName></hi> hat mit Tondichtungen im
+				Kirchenstile angefangen und als Schüler des Paters <persName key="mattei.stanislao"
+					>Mattei</persName> in <placeName key="rom">Rom</placeName> gründliche
 				Vorstudien zum Contrapunktisten getrieben, bis das Fahrzeug seiner guten Vorsätze an
 				dem silbernen Felsen des leichter verdienten Opern-Honorars scheiterte. Doch schrieb
 				er auf der Höhe seiner Theater-Erfolge noch ein <hi rend="antiqua">„<title
-						ref="#donizetti.ave-maria">Ave Maria</title>“</hi> und <hi rend="antiqua"
-						>„<title ref="#donizetti.miserere">Miserere</title>“,</hi> (<date
-					when-iso="1843-04-04">1843 am Charfreitage</date> in <placeName ref="#wien"
+						key="donizetti.ave-maria" type="mus">Ave Maria</title>“</hi> und <hi rend="antiqua"
+						>„<title key="donizetti.miserere" type="mus">Miserere</title>“,</hi> (<date
+					when-iso="1843-04-04">1843 am Charfreitage</date> in <placeName key="wien"
 					>Wien</placeName> aufgeführt). Nun kommt <hi rend="widespace"><persName
-						ref="#verdi.giuseppe">Verdi</persName></hi> mit einem „<title
-					ref="#verdi.requiem">Requiem</title>“, und nach seinen italienischen Vorläufern
-				kann uns dies nicht so wundern, wie es einst das „<title ref="#mozart.requiem"
+						key="verdi.giuseppe">Verdi</persName></hi> mit einem „<title
+					key="verdi.requiem" type="mus">Requiem</title>“, und nach seinen italienischen Vorläufern
+				kann uns dies nicht so wundern, wie es einst das „<title key="mozart.requiem" type="mus"
 					>Requiem</title>“ des Opern-Componisten <hi rend="widespace"><persName
-						ref="#mozart.wolfgang-amadeus">Mozart</persName></hi> jenem Thüringer
-				Organisten anthat, von dem <persName ref="#jahn.otto">Otto Jahn</persName> erzählt:
-				„Der alte Organist <persName ref="#kittel.johann-christian">Kittel</persName> in
-					<placeName ref="#erfurt">Erfurt</placeName>, ein Schüler <persName
-					ref="#bach.johann-sebastian">S. <hi rend="widespace">Bachs</hi></persName>,
+						key="mozart.wolfgang-amadeus">Mozart</persName></hi> jenem Thüringer
+				Organisten anthat, von dem <persName key="jahn.otto">Otto Jahn</persName> erzählt:
+				„Der alte Organist <persName key="kittel.johann-christian">Kittel</persName> in
+					<placeName key="erfurt">Erfurt</placeName>, ein Schüler <persName
+					key="bach.johann-sebastian">S. <hi rend="widespace">Bachs</hi></persName>,
 				erhielt eines Tages <cb break="yes" n="2b" type="regular"/> die Orgelstimme eines
-				ihm unbekannten <title ref="#mozart.requiem">Requiem</title>, das ihn sehr bald
+				ihm unbekannten <title key="mozart.requiem" type="mus">Requiem</title>, das ihn sehr bald
 				anzog und je länger je mehr fesselte, so daß er sich am Schlusse nach dem
-				Componisten erkundigte. Als ihm <persName ref="#mozart.wolfgang-amadeus"
+				Componisten erkundigte. Als ihm <persName key="mozart.wolfgang-amadeus"
 					>Mozart</persName> genannt wurde, trauete er seinen Ohren nicht, denn von dem
 				Componisten beliebter Opern die er übrigens nicht kannte, erwartete er keine solche
 				Kirchenmusik. Nun ließ er sich auch die Opern geben, und war vorurtheilsfrei genug,
 				auch in ihnen den Componisten des Requiem zu erkennen und lieb zu gewinnen.“<note
-					resp="tr" type="literatureLink">Vgl. <persName ref="#jahn.otto">Otto
+					resp="tr" type="literatureLink">Vgl. <persName key="jahn.otto">Otto
 						Jahn</persName>, <ref
 						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA737"
 						type="text">W. A. Mozart, 4. Theil (Leipzig 1859), S. 736, Anm.
 					87</ref>.</note></p>
-			<p>Allerdings tragen die „<title ref="#mozart.die-zauberfloete">Zauberflöte</title>“ in
-				ihrem ernsten Theile und das „<title ref="#mozart.requiem">Requiem</title>“, diese
-				beiden letzten Werke <persName ref="#mozart.wolfgang-amadeus">Mozarts</persName>,
+			<p>Allerdings tragen die „<title key="mozart.die-zauberfloete" type="mus">Zauberflöte</title>“ in
+				ihrem ernsten Theile und das „<title key="mozart.requiem" type="mus">Requiem</title>“, diese
+				beiden letzten Werke <persName key="mozart.wolfgang-amadeus">Mozarts</persName>,
 				manche Zeichen verwandter Gemüthsverfassung. Findet sich doch auch im „<title
-					ref="#mozart.requiem">Requiem</title>“ die Zusammenstellung von Bassethörnern,
+					key="mozart.requiem" type="mus">Requiem</title>“ die Zusammenstellung von Bassethörnern,
 				Fagotts und Posaunen neben den Saiten-Instrumenten, wie sie in der „<title
-					ref="#mozart.die-zauberfloete">Zauberflöte</title>“ zum Austönen des Feierlichen
+					key="mozart.die-zauberfloete" type="mus">Zauberflöte</title>“ zum Austönen des Feierlichen
 				dient. Solche Anklänge an die Oper erweckten den bekannten Vorwurf, daß <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName> in seinem „<title
-					ref="#mozart.requiem">Requiem</title>“ seinen theatralischen Stil nicht völlig
+					key="mozart.wolfgang-amadeus">Mozart</persName> in seinem „<title
+					key="mozart.requiem" type="mus">Requiem</title>“ seinen theatralischen Stil nicht völlig
 				verläugnet habe. Auch ist von Musikgelehrten heftig darüber gestritten worden: ob
-				seine Fuge in dem <title ref="#mozart.requiem.2-kyrie">Kyrie</title> streng genommen
-				als contrapunktisches Meisterstück gelten könne. <persName ref="#verdi.giuseppe"
-					>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ nun läßt sich
-				wenigstens insofern mit <persName ref="#mozart.wolfgang-amadeus">Mozarts</persName>
-				<title ref="#mozart.requiem">Seelenmesse</title> vergleichen, als es zu der „<title
-					ref="#verdi.aida">Aida</title>“ des berühmten italienischen Opern-Componisten
-				eine ähnliche Stellung einnimmt, wie das „<title ref="#mozart.requiem"
+				seine Fuge in dem <title key="mozart.requiem.2-kyrie" type="mus">Kyrie</title> streng genommen
+				als contrapunktisches Meisterstück gelten könne. <persName key="verdi.giuseppe"
+					>Verdis</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“ nun läßt sich
+				wenigstens insofern mit <persName key="mozart.wolfgang-amadeus">Mozarts</persName>
+				<title key="mozart.requiem" type="mus">Seelenmesse</title> vergleichen, als es zu der „<title
+					key="verdi.aida" type="mus">Aida</title>“ des berühmten italienischen Opern-Componisten
+				eine ähnliche Stellung einnimmt, wie das „<title key="mozart.requiem" type="mus"
 					>Requiem</title>“ des deutschen Meisters zu dessen „<title
-					ref="#mozart.die-zauberfloete">Zauberflöte</title>.“ Die nämliche ernste
-				Stimmung und musikalische Erhebung, aus welcher „<title ref="#verdi.aida"
-					>Aida</title>“ hervorgegangen, ist auch in seinem „<title ref="#verdi.requiem"
+					key="mozart.die-zauberfloete" type="mus">Zauberflöte</title>.“ Die nämliche ernste
+				Stimmung und musikalische Erhebung, aus welcher „<title key="verdi.aida" type="mus"
+					>Aida</title>“ hervorgegangen, ist auch in seinem „<title key="verdi.requiem" type="mus"
 					>Requiem</title>“ wieder zu erkennen. Und wie der italienische Maestro, nächst
-				dem deutschen Meister <persName ref="#wagner.richard">Richard <hi rend="widespace"
+				dem deutschen Meister <persName key="wagner.richard">Richard <hi rend="widespace"
 						>Wagner</hi></persName>, unbestreitbar der fruchtbarste und erfolgreichste
-				Opern-Componiste der Gegenwart, in seiner „<title ref="#verdi.aida">Aida</title>“
+				Opern-Componiste der Gegenwart, in seiner „<title key="verdi.aida" type="mus">Aida</title>“
 				mit edleren Kunstmitteln das Beste, was er bis dahin geschaffen hatte, die Miserere-
-				und die Kerker-Scenen im „<title ref="#verdi.il-trovatore">Troubadour</title>“ weit
+				und die Kerker-Scenen im „<title key="verdi.il-trovatore" type="mus">Troubadour</title>“ weit
 				überbot — das von Vielen bewunderte, äußerlich blendende, aber innerlich häßliche
-					<title ref="#verdi.rigoletto">Rigoletto-Quartett</title> zählt eben so wenig für
-				uns, wie seine „<title ref="#verdi.la-traviata">Traviata</title>“ — so übertrifft
-					<persName ref="#verdi.giuseppe">Verdi</persName> jetzt mit seinem „<title
-					ref="#verdi.requiem">Requiem</title>“ die vielmehr <cb break="yes" n="1d"
+					<title key="verdi.rigoletto" type="mus">Rigoletto-Quartett</title> zählt eben so wenig für
+				uns, wie seine „<title key="verdi.la-traviata" type="mus">Traviata</title>“ — so übertrifft
+					<persName key="verdi.giuseppe">Verdi</persName> jetzt mit seinem „<title
+					key="verdi.requiem" type="mus">Requiem</title>“ die vielmehr <cb break="yes" n="1d"
 					type="regular"/> theatralische und opernhafte geistliche Musik <persName
-					ref="#rossini.gioachino">Rossini’s</persName>, zu deren Beschönigung ein
-					<persName ref="#gautier.theophile">französischer Kunstkritiker</persName>
+					key="rossini.gioachino">Rossini’s</persName>, zu deren Beschönigung ein
+					<persName key="gautier.theophile">französischer Kunstkritiker</persName>
 				schrieb: „der italienische Katholicismus habe nicht das strenge, düstere Aussehen
 				des nordischen; er sei im Gegentheil ein freundlicher, lächelnder, fast lustiger
 					(<hi rend="antiqua">presque gai</hi>), immer festlich gestimmter Katholicismus,
 				der sich keineswegs scheue, den Opern-Geigen und Arien den Eingang in seine
 				schmuckreiche, von Wohlgerüchen und Jubelgesängen erfüllten Kirchen zu
 					gestatten.“<note resp="tr" type="literatureLink">Vgl. <persName
-						ref="#gautier.theophile">Théophile Gautier</persName>, <ref
+						key="gautier.theophile">Théophile Gautier</persName>, <ref
 						target="https://archive.org/stream/histoiredelartdr02gautuoft#page/207/mode/1up"
 						type="text">Histoire de l'art dramatique en France depuis vingt-cinq ans,
 						Bd. 2 (1859), S. 207</ref>: »Le catholicisme italien n’a pas cette teinte
@@ -152,114 +152,114 @@
 					et de myrtes, de parfums et de chants d’allégresse; un catholicisme plus
 					familier et plus humain qui se mêle à la vie et l’accepte comme elle
 					est.«</note></p>
-			<p>Mit tieferem Ernste, als <persName ref="#rossini.gioachino">Rossini</persName>, ist
-					<persName ref="#verdi.giuseppe">Verdi</persName> von seinem katholischen
+			<p>Mit tieferem Ernste, als <persName key="rossini.gioachino">Rossini</persName>, ist
+					<persName key="verdi.giuseppe">Verdi</persName> von seinem katholischen
 				Standpunkte aus an die Aufgabe des „Requiems“ gegangen. Er schrieb diese Seelenmesse
-				bekanntlich zur Gedächtnißfeier <persName ref="#manzoni.alessandro">Al<surplus
+				bekanntlich zur Gedächtnißfeier <persName key="manzoni.alessandro">Al<surplus
 						resp="tr">l</surplus>essandro <hi rend="widespace">Manzonis</hi></persName>,
 				jenes idealistischen Dichters, der sich durch <hi rend="widespace"><persName
-						ref="#goethe.johann-wolfgang-von">Goethe</persName></hi> so mächtig
+						key="goethe.johann-wolfgang-von">Goethe</persName></hi> so mächtig
 				gefördert sah und es dankerfüllt ausgesprochen hat: „Erst dadurch, daß ich mich der
-				Liebe und Achtung <persName ref="#goethe.johann-wolfgang-von">Goethes</persName>
+				Liebe und Achtung <persName key="goethe.johann-wolfgang-von">Goethes</persName>
 				erfreue, bin ich mir selbst etwas werth. Sein Verdienst allein ist es, wenn man mir
-				Anerkennung zollt. Bevor <persName ref="#goethe.johann-wolfgang-von"
+				Anerkennung zollt. Bevor <persName key="goethe.johann-wolfgang-von"
 					>Goethe</persName> großmüthig sich meiner annahm, hat man mich schlecht genug
 					behandelt.“<note resp="tr" type="literatureLink">Vgl. Karl Wilhelm Müller, <ref
 						target="https://books.google.de/books?id=vVY6AAAAcAAJ&amp;pg=PA70"
 						type="text">Goethes letzte literarische Thätigkeit, Verhältniß zum Ausland
 						und Scheiden (Jena 1832), S. 70–71</ref>.</note> Wußte <persName
-					ref="#verdi.giuseppe">Verdi</persName>, mit welcher Pietät <persName
-					ref="#manzoni.alessandro">Manzoni</persName> an dem deutschen Dichter hing? Wenn
+					key="verdi.giuseppe">Verdi</persName>, mit welcher Pietät <persName
+					key="manzoni.alessandro">Manzoni</persName> an dem deutschen Dichter hing? Wenn
 				das, dann könnte man ein Merkmal italienischer Erkenntlichkeit auch darin finden,
-				daß der Componist in seinem „<title ref="#verdi.requiem">Requiem</title>“ auf
-					<persName ref="#manzoni.alessandro">Manzoni</persName> in die Kunststraße
+				daß der Componist in seinem „<title key="verdi.requiem" type="mus">Requiem</title>“ auf
+					<persName key="manzoni.alessandro">Manzoni</persName> in die Kunststraße
 				deutscher Meister einzulenken strebt, besonders in der Richtung auf den
-				polyphonischen Satz. Freilich hat <persName ref="#verdi.giuseppe">Verdi</persName>
-				nicht ungestraft unter den Palmen der <placeName ref="#paris">Pariser</placeName>
-				<placeName ref="#paris.grand-opera">großen Oper</placeName> gewandelt, wie solche
+				polyphonischen Satz. Freilich hat <persName key="verdi.giuseppe">Verdi</persName>
+				nicht ungestraft unter den Palmen der <placeName key="paris">Pariser</placeName>
+				<placeName key="paris.grand-opera">großen Oper</placeName> gewandelt, wie solche
 				durch die Vermischung der italienischen Lyrik und der neufranzösischen Dramatik als
 				effectsüchtiges Spektakelstück entstanden ist. Trotz der ernsten, oft innigen
 				Versenkung in die religiöse Poesie des Textes, trotz der edlen, künstlerischen
 				Absicht, den musikalischen Ausdruck zu zügeln, Alles in gebändigter, gemäßigter Form
 				zu halten und sich vor dem bachantischen Toben und wirbelnden Tumult der modernen
 				Oper zu hüten, spielt doch noch mancher Theaterspuk in das „<title
-					ref="#verdi.requiem">Requiem</title>“ hinein, ab und zu wie das <title
-					ref="#weber.freischuetz.samiel">Samiel-Gespenst</title> des <title
-					ref="#weber.freischuetz">Freischützen</title> kommen und verschwindend.
+					key="verdi.requiem" type="mus">Requiem</title>“ hinein, ab und zu wie das <title
+					key="weber.freischuetz.samiel" type="mus">Samiel-Gespenst</title> des <title
+					key="weber.freischuetz" type="mus">Freischützen</title> kommen und verschwindend.
 				Derartige Opern-Anklänge glauben wir herausgehört zu haben <cb break="yes" n="2d"
 					type="regular"/> an einzelnen Stellen des <hi rend="antiqua">„<title
-						ref="#verdi.requiem.2.dies-irae">Dies irae</title>“</hi>, bei denen
-					<persName ref="#verdi.giuseppe">Verdi</persName> vielleicht an <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName> gedacht hat, aber mehr an die
-				musikalischen „Teufeleien“ in <persName ref="#meyerbeer.giacomo"
-					>Meyerbeers</persName> „<title ref="#meyerbeer.robert-le-diable">Robert</title>“
+						key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title>“</hi>, bei denen
+					<persName key="verdi.giuseppe">Verdi</persName> vielleicht an <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName> gedacht hat, aber mehr an die
+				musikalischen „Teufeleien“ in <persName key="meyerbeer.giacomo"
+					>Meyerbeers</persName> „<title key="meyerbeer.robert-le-diable" type="mus">Robert</title>“
 				erinnert. Den Eindruck einer Tongrimmasse macht das wiederholte Bum! der großen
 				Trommel bei dem aus dem Zusammenhange gerissenen Worte: <hi rend="antiqua"><title
-						n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">„Mors“
+						n="mors-stupebit" key="verdi.requiem.2.tuba-mirum" type="mus">„Mors“
 						(stupebit)</title></hi>. Auch die Piccolo-Flötentöne zu dem Baß-Solo <hi
-					rend="antiqua">„<title ref="#verdi.requiem.2.confutatis">Confutatis
+					rend="antiqua">„<title key="verdi.requiem.2.confutatis" type="mus">Confutatis
 						maledictis</title>“</hi> berühren ungefähr so, wie das „unglückselige
 				Flötenspiel“, von dem Ferdinand in „Cabale und Liebe“ sagt, daß es ihm nie hätte
 				einfallen sollen.<note resp="tr" type="literatureLink">Vgl. <persName
-						ref="#schiller.friedrich">Friedrich Schiller</persName>, Kabale und Liebe,
+						key="schiller.friedrich">Friedrich Schiller</persName>, Kabale und Liebe,
 					5. Akt, 3. Szene: »Unglückseliges Flötenspiel, das mir nie hätte einfallen
 					sollen«; nach: <ref
 						target="http://www.deutschestextarchiv.de/schiller_kabale_1784/148"
 						type="text">Mannheim 1784, S. 144</ref>.</note> Die zweichörige Doppelfuge
-				zum „<title ref="#verdi.requiem.4">Sanctus</title>“ dürfte als solche nur vor einem
+				zum „<title key="verdi.requiem.4" type="mus">Sanctus</title>“ dürfte als solche nur vor einem
 				musikalischen Richterstuhle, dem die classische Lehne fehlt, passiren.</p>
 			<p>Nach diesen Rügen des Opernhaften wenden wir uns zu den in meisterhaften Tonstrahlen
 				leuchtenden Gipfeln des Werkes. Diese erheben sich namentlich in dem originell
-				componirten <title n="introitus" ref="#verdi.requiem.1">Introitus</title>, in dem
-				Chore: <hi rend="antiqua">„<title n="te-decet-hymnus" ref="#verdi.requiem.1">Te
+				componirten <title n="introitus" key="verdi.requiem.1" type="mus">Introitus</title>, in dem
+				Chore: <hi rend="antiqua">„<title n="te-decet-hymnus" key="verdi.requiem.1" type="mus">Te
 						decet hymnus</title>“,</hi> in den Sologesängen des „<title n="kyrie"
-					ref="#verdi.requiem.1">Kyrie</title>“, in dem wunderschönen Piano zu den Worten:
-					<hi rend="antiqua">„<title n="quantus-tremor" ref="#verdi.requiem.2.dies-irae"
+					key="verdi.requiem.1" type="mus">Kyrie</title>“, in dem wunderschönen Piano zu den Worten:
+					<hi rend="antiqua">„<title n="quantus-tremor" key="verdi.requiem.2.dies-irae" type="mus"
 						>Quando judex</title>“</hi>, in dem tiefempfundenen Terzett: <hi
-					rend="antiqua">„<title ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser tunc
+					rend="antiqua">„<title key="verdi.requiem.2.quid-sum-miser" type="mus">Quid sum miser tunc
 						dicturus</title>“</hi> und dem herrlichen Quartett mit Chor: <hi
-					rend="antiqua">„<title ref="#verdi.requiem.2.rex-tremendae">Rex tremendae
+					rend="antiqua">„<title key="verdi.requiem.2.rex-tremendae" type="mus">Rex tremendae
 						majestatis</title>“</hi>. Im zweiten Theile des „Requiems“ ist gleich das
-					<hi rend="antiqua">„<title n="domine-jesu" ref="#verdi.requiem.3"
+					<hi rend="antiqua">„<title n="domine-jesu" key="verdi.requiem.3" type="mus"
 					>Domine</title>“</hi> von ergreifender Gewalt, wird aber in seiner Wirkung auf
 				das Gemüth der Hörer noch überragt durch das poetisch beseelte <hi rend="antiqua"
-						>„<title n="hostias" ref="#verdi.requiem.3">Hostias</title>“</hi> mit seiner
-				orgelähnlichen Instrumentirung. Hier steigert sich <persName ref="#verdi.giuseppe"
+						>„<title n="hostias" key="verdi.requiem.3" type="mus">Hostias</title>“</hi> mit seiner
+				orgelähnlichen Instrumentirung. Hier steigert sich <persName key="verdi.giuseppe"
 					>Verdi</persName> zu einer wahrhaft idealischen Musik von lauterstem melodischen
 				Ausdruck und klarem Ebenmaß. An die Höhe dieser Tondichtung reiche weder das schon
-				erwähnte <hi rend="antiqua">„<title ref="#verdi.requiem.4">Sanctus</title>“</hi> mit
+				erwähnte <hi rend="antiqua">„<title key="verdi.requiem.4" type="mus">Sanctus</title>“</hi> mit
 				seiner zweifelhaften Fuge, noch das darauf folgende <hi rend="antiqua">„<title
-						ref="#verdi.requiem.5">Agnus Dei</title>“</hi> für Sopran, Mezzosopran und
+						key="verdi.requiem.5" type="mus">Agnus Dei</title>“</hi> für Sopran, Mezzosopran und
 				Chor, obwohl gerade das letztere die enthusiastische Zustimmung der Hörer in Wien
 				gefunden und sogar da Capo verlangt worden ist und hier gleichfalls lauten Beifall
 				angefacht hat. Wenn es als ein Wahrzeichen idealistischer Musik, wie es die
 				Kirchenmusik vor Allem sein soll, gelten darf, daß die Ruhe der Seele in der
 				Tondichtung unverloren bleibt, so hat der Componist in dem <hi rend="antiqua"
-						>„<title ref="#verdi.requiem.5">Agnus Dei</title>“</hi>
+						>„<title key="verdi.requiem.5" type="mus">Agnus Dei</title>“</hi>
 				<cb break="yes" n="2e" type="regular"/> nicht das Entsprechende geschaffen. Dies
-				aber gelang ihm wieder bei dem <hi rend="antiqua">„<title ref="#verdi.requiem.6">Lux
+				aber gelang ihm wieder bei dem <hi rend="antiqua">„<title key="verdi.requiem.6" type="mus">Lux
 						aeterna</title>“</hi>, wo eine hohe Glorie aus dem Tongemälde zu leuchten
 				scheint. Im Schlußsatze steigert sich nochmals die poetische Empfindungskraft des
 				Maestro; in dem Solo und dem letzten Chor hört man den Flügelschlag einer genial
-				schaffenden Phantasie, und wenn man schon in „<title ref="#verdi.aida">Aida</title>“
+				schaffenden Phantasie, und wenn man schon in „<title key="verdi.aida" type="mus">Aida</title>“
 				den Tondichter bewundern mußte, der einen ihm bis dahin fremden Aufschwung „durch
 				das Morgenthor des Schönen“<note resp="tr" type="literatureLink">Vgl. <persName
-						ref="#schiller.friedrich">Friedrich Schiller</persName>, Ballade »Die
+						key="schiller.friedrich">Friedrich Schiller</persName>, Ballade »Die
 					Künstler«: »Nur durch das Morgenthor des Schönen / Drangst du in der Erkenntniß
 					Land«, aus: <ref
 						target="https://archive.org/stream/gedichtevonschil00schi#page/73/mode/1up"
 						type="text">Schiller’s Gedichte (Berlin 1873), S. 73–87, Vers
-					34f</ref>.</note> nahm, so kann sein „<title ref="#verdi.requiem"
+					34f</ref>.</note> nahm, so kann sein „<title key="verdi.requiem" type="mus"
 					>Requiem</title>“, trotz der ihm stellenweise noch anhaftenden Opernschlacken,
 				die Achtung vor dem überraschenden Läuterungs-Processe des reichbegabten Künstlers
 				nur noch erhöhen.</p>
 			<p>Die Aufführung des neuen Werkes unter der Leitung des Herrn Kapellmeisters <hi
-					rend="widespace"><persName ref="#radecke.robert">Radecke</persName></hi> war der
+					rend="widespace"><persName key="radecke.robert">Radecke</persName></hi> war der
 				ernsten Tondichtung würdig. Die Solopartieen, gesungen von Frl. <hi rend="widespace"
-						><persName ref="#lehmann.lilli">Lehmann</persName></hi> und Frl. <hi
-					rend="widespace"><persName ref="#brandt.marianne">Brandt</persName></hi>, so wie
-				den Herren <hi rend="widespace"><persName ref="#betz.franz">Betz</persName></hi> und
-					<hi rend="widespace"><persName ref="#ernst.heinrich">Ernst</persName></hi>,
+						><persName key="lehmann.lilli">Lehmann</persName></hi> und Frl. <hi
+					rend="widespace"><persName key="brandt.marianne">Brandt</persName></hi>, so wie
+				den Herren <hi rend="widespace"><persName key="betz.franz">Betz</persName></hi> und
+					<hi rend="widespace"><persName key="ernst.heinrich">Ernst</persName></hi>,
 				gelangten in der kunstfertigen Ausführung zur ergreifenden Wirkung, Chor und
 				Orchester waren mit voller Hingebung bei der Sache, und der Eindruck so mächtig, daß
 				das ersichtlich bewegte Auditorium am Schlusse in anhaltenden Applaus ausbrach.
@@ -269,13 +269,13 @@
 				Erscheinen im Opernhause, und in der lauten Zustimmung des Auditoriums lag zugleich
 				der Dank an die General-Intendantur der Königlichen Theater dafür, daß sie den
 				Kunstfreunden die Bekanntschaft mit dem Aufsehen erregenden „<title
-					ref="#verdi.requiem">Requiem</title>“ <persName ref="#verdi.giuseppe"
+					key="verdi.requiem" type="mus">Requiem</title>“ <persName key="verdi.giuseppe"
 					>Verdis</persName> aufs Würdigste vermittelt hat. — Ihre Majestäten der <hi
-					rend="widespace"><persName ref="#franz-joseph-i.habsburg">Kaiser</persName></hi>
-				und die <hi rend="widespace"><persName ref="#elisabeth.oesterreich-ungarn"
+					rend="widespace"><persName key="franz-joseph-i.habsburg">Kaiser</persName></hi>
+				und die <hi rend="widespace"><persName key="elisabeth.oesterreich-ungarn"
 						>Kaiserin</persName></hi> zeichneten die Aufführung durch Ihre Gegenwart bis
 				zum Schlusse aus.</p>
-			<p rend="right"><persName ref="#symbol.paragraph"><g n="00A7|002A"
+			<p rend="right"><persName key="symbol.paragraph"><g n="00A7|002A"
 						type="SECTION_SIGN|ASTERISK">§*</g></persName></p>
 		</body>
 	</text>

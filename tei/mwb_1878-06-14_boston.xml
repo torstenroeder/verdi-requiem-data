@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1878-06-14"/>
 					<biblScope unit="issue">25</biblScope>
 					<biblScope unit="volume">9</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#boston"/></creation>
+			<creation><placeName key="boston"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -44,11 +44,11 @@
 			<pb break="null" facs="#f1" n="305" type="initial"/>
 			<head rend="bold lineale">Aufgeführte Novitäten.</head>
 			<cb break="null" n="305b" type="skipped"/>
-			<p rend="hanging"><rs ref="#unidentified" type="event"><persName ref="#verdi.giuseppe"
+			<p rend="hanging"><rs key="unidentified" type="event"><persName key="verdi.giuseppe"
 							><hi rend="widespace">Verdi</hi> (G.)</persName>, <title
-						ref="#verdi.requiem">Requiem</title>. (<placeName ref="#boston"
+						key="verdi.requiem" type="mus">Requiem</title>. (<placeName key="boston"
 						>Boston</placeName>, Aufführ. durch die <orgName
-						ref="#boston.haendel-and-haydn-society">Händel- u.
+						key="boston.haendel-and-haydn-society">Händel- u.
 						Haydn-Gesellschaft</orgName>.)</rs></p>
 		</body>
 	</text>

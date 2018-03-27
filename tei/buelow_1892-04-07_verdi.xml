@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Hans von Bülow, Brief an Giuseppe Verdi, Hamburg, 7. April 1892</title>
-				<author><persName ref="#buelow.hans-von"/></author>
+				<author><persName key="buelow.hans-von"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,7 +13,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<placeName ref="#hamburg"/>
+					<placeName key="hamburg"/>
 					<date when-iso="1892-04-07"/>
 				</bibl>
 				<bibl>Briefe. Siebter Band (Briefe und Schriften 8), Marie von Bülow (Hg.), Leipzig:
@@ -21,7 +21,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#hamburg"/><date when-iso="1892-04-07"/></creation>
+			<creation><placeName key="hamburg"/><date when-iso="1892-04-07"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -43,7 +43,7 @@
 	<text xml:lang="it">
 		<body rend="antiqua">
 			<pb break="null" facs="#f1" n="386" type="initial"/>
-			<p rend="right"><hi rend="widespace"><placeName ref="#hamburg">Amburgo</placeName></hi>,
+			<p rend="right"><hi rend="widespace"><placeName key="hamburg">Amburgo</placeName></hi>,
 				li <date when-iso="1892-04-07">7 Aprile 1892</date>.</p>
 			<p>Illustre Maestro,</p>
 			<p>Degnatevi ascoltare la confessione di un contrito peccatore! Fa già diciotto anni che
@@ -59,13 +59,13 @@
 			<p>Fanatismo=petrolio; entusiasmo=luce elettrica. Nel mondo intellettuale e morale la
 				luce chiamasi: giustizia. Niente di più distruttivo dell’ingiustizia, nulla di più
 				intollerabile dell’intolleranza, come l’ha già detto il nobilissimo <persName
-					ref="#leopardi.giacomo">Giacomo Leopardi</persName>.</p>
+					key="leopardi.giacomo">Giacomo Leopardi</persName>.</p>
 			<p>Giunto alfin a quel »punto di cognizione« quanto n’ebbi a congratularmi, quanto se
 				n’è arricchita la mia vita, se n’è accresciuto il campo delle più preziose gioie, le
 				artistiche! Ho principiato collo studiare le Vostre ultime opere: <hi rend="italic"
-						><title ref="#verdi.aida">l’Aida</title></hi>, <hi rend="italic"><title
-						ref="#verdi.otello">l’Otello</title></hi> ed il <hi rend="italic"><title
-						ref="#verdi.requiem">Requiem</title></hi>, di cui ultimamente una esecuzione
+						><title key="verdi.aida" type="mus">l’Aida</title></hi>, <hi rend="italic"><title
+						key="verdi.otello" type="mus">l’Otello</title></hi> ed il <hi rend="italic"><title
+						key="verdi.requiem" type="mus">Requiem</title></hi>, di cui ultimamente una esecuzione
 				anzi piuttosto debole — m’ha commosso fin’ alle lagrime: le ho studiate non
 				solamente secondo la lettera che uccide, ma secondo lo spirito che ravviva! Ebbene,
 				illustre Maestro, ora Vi ammiro, Vi amo!</p>
@@ -74,9 +74,9 @@
 				erranti, confessare la colpa del passato.</p>
 			<p>E fedele al motto prussiano: <hi rend="italic">Suum cuique</hi>, esclamo
 				bravamente</p>
-			<p>Evviva <persName ref="#verdi.giuseppe">VERDI</persName>, il <persName
-					ref="#wagner.richard">Wagner</persName> dei nostri cari alleati!</p>
-			<p rend="right"><persName ref="#buelow.hans-von">Hans von Bülow</persName> (nato <date
+			<p>Evviva <persName key="verdi.giuseppe">VERDI</persName>, il <persName
+					key="wagner.richard">Wagner</persName> dei nostri cari alleati!</p>
+			<p rend="right"><persName key="buelow.hans-von">Hans von Bülow</persName> (nato <date
 					when-iso="1830-01-08">8 Gennaio 1830</date>).</p>
 		</body>
 	</text>

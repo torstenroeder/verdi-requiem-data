@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AmZ, Leipzig, 29. März 1876 [1]</title>
-				<author><persName ref="#anonymus.ein-koelner-referent"/></author>
+				<author><persName key="anonymus.ein-koelner-referent"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#amz" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="amz" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-03-29"/>
 					<biblScope unit="issue">13</biblScope>
 					<biblScope unit="volume">11</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koeln"/><date when-iso="1876-03-15"/></creation>
+			<creation><placeName key="koeln"/><date when-iso="1876-03-15"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -49,46 +49,46 @@
 		<body rend="antiqua">
 			<cb break="null" facs="#f1" n="202" type="initial"/>
 			<head rend="larger bold egypt">Berichte.</head>
-			<head><placeName ref="#koeln"><hi rend="bold">Cöln</hi></placeName>, <date
+			<head><placeName key="koeln"><hi rend="bold">Cöln</hi></placeName>, <date
 					when-iso="1876-03-15">15. März</date>.</head>
-			<p><rs ref="#muenchen.1875.1" type="event">Ihr <persName ref="#stetter.friedrich"
+			<p><rs key="muenchen.1875.1" type="event">Ihr <persName key="stetter.friedrich"
 						>Münchener Berichterstatter</persName> glaubt, der <placeName
-						ref="#muenchen">baierischen Residenzstadt</placeName> gebühre das Verdienst,
-					zuerst im deutschen Reiche <hi rend="widespace"><persName ref="#verdi.giuseppe"
+						key="muenchen">baierischen Residenzstadt</placeName> gebühre das Verdienst,
+					zuerst im deutschen Reiche <hi rend="widespace"><persName key="verdi.giuseppe"
 							>Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi> aufgeführt zu
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> aufgeführt zu
 					haben.</rs><note resp="tr" type="textLink">Vgl. <persName
-						ref="#stetter.friedrich">Friedrich Stetter</persName>, <ref
+						key="stetter.friedrich">Friedrich Stetter</persName>, <ref
 						target="amz_1876-02-09_muenchen.xml" type="text">AmZ, Leipzig, 9.
 						Februar–1.März 1876</ref>.</note>
-				<rs ref="#koeln.1875.1" type="event">An demselben Tage, wie in <placeName
-						ref="#muenchen">München</placeName>, am <date when-iso="1875-12-07">7.
-						December v. J.</date>, wurde dasselbe Werk auch in <placeName ref="#koeln"
+				<rs key="koeln.1875.1" type="event">An demselben Tage, wie in <placeName
+						key="muenchen">München</placeName>, am <date when-iso="1875-12-07">7.
+						December v. J.</date>, wurde dasselbe Werk auch in <placeName key="koeln"
 						>Cöln</placeName> — ebenfalls zum ersten Male im deutschen Reiche —
 					aufgeführt.</rs>
-				<placeName ref="#muenchen">München</placeName> und <placeName ref="#koeln"
+				<placeName key="muenchen">München</placeName> und <placeName key="koeln"
 					>Cöln</placeName> haben also in diesem Falle gleiches Verdienst, und <placeName
-					ref="#koeln">Cöln</placeName> kann also nur den weiteren Vorzug geltend machen,
+					key="koeln">Cöln</placeName> kann also nur den weiteren Vorzug geltend machen,
 				dass eine Wiederholung jener Aufführung nicht ein frommer Wunsch geblieben, sondern
-				eine wirkliche Thatsache geworden ist. <rs ref="#koeln.1875.2" type="event"
-						><persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> wurde am <date when-iso="1876-02-15"
+				eine wirkliche Thatsache geworden ist. <rs key="koeln.1875.2" type="event"
+						><persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> wurde am <date when-iso="1876-02-15"
 						>15. Februar d. J.</date> zum zweiten Male aufgeführt</rs> unter einer
 				Betheiligung des Publikums, wie wir sie höchstens bei Musikfesten gesehen haben —
 				Beweis genug, dass das Werk gezündet, dass es enthusiastischen Beifall gefunden hat.
 				Unsere musikalische Welt schwelgte nach beiden Aufführungen in Entzücken und längere
-				Zeit drehte sich die Unterhaltung mit Vorliebe um <persName ref="#verdi.giuseppe"
+				Zeit drehte sich die Unterhaltung mit Vorliebe um <persName key="verdi.giuseppe"
 					>Verdi’s</persName> Meisterwerk. Mit besonderem Eifer wurde die Frage, ob
 				„kirchlich oder nicht kirchlich“ discutirt, und die Argumente, welche bei dieser
 				Gelegenheit vorgebracht wurden, entsprechen mehr den ersten Aufwallungen des
-				Enthusiasmus für <persName ref="#verdi.giuseppe">Verdi</persName> als der Sache
-				selbst. Der <persName ref="#guckeisen.august">Berichterstatter</persName> der
-					<orgName ref="#koelnische-zeitung">Cöln. Zeitung</orgName> glaubte, sich gegen
+				Enthusiasmus für <persName key="verdi.giuseppe">Verdi</persName> als der Sache
+				selbst. Der <persName key="guckeisen.august">Berichterstatter</persName> der
+					<orgName key="koelnische-zeitung">Cöln. Zeitung</orgName> glaubte, sich gegen
 				die Zumuthung verwahren zu müssen, über diese Frage in eine Erörterung mit Jenen
 				einzutreten, welche den Maassstab der Kirchlichkeit aus der Rüstkammer des
 				sechszehnten Jahrhunderts hervorzuholen gewohnt seien; um ein Requiem im Sinne jener
 				Zeit, schrieb er, handle es sich nicht, sondern um eine »Traueroper«<note resp="tr"
-					type="textLink">Vgl. <persName ref="#guckeisen.august">August
+					type="textLink">Vgl. <persName key="guckeisen.august">August
 						Guckeisen</persName>, <ref target="kz_1876-02-18_guerzenich-konzert.xml"
 						type="text">Kölnische Zeitung, 18. Februar 1876</ref>.</note>. Damit wären
 				wir denn glücklich auf den Standpunkt Mattheson’s zurückgekommen und dessen
@@ -96,40 +96,40 @@
 					histrionem</hi>«<note resp="tr" type="literatureLink">Matthesons Titel: Mundus
 					universus exercet histrionem, lat.: »Die ganze Welt treibt
 					Schauspielerei«.</note> wäre wieder die Grundlage der Aesthetik in Fragen der
-				heiligen Tonkunst. — Ihr <persName ref="#stetter.friedrich">Münchener
+				heiligen Tonkunst. — Ihr <persName key="stetter.friedrich">Münchener
 					Berichterstatter</persName> ist nach meiner Ansicht auch nicht besonders
 				glücklich gewesen mit seinen Bemerkungen über diese Frage.<note resp="tr"
-					type="textLink">Vgl. <persName ref="#stetter.friedrich">Friedrich
+					type="textLink">Vgl. <persName key="stetter.friedrich">Friedrich
 						Stetter</persName>, <ref target="amz_1876-02-09_muenchen.xml" type="text"
 						>AmZ, Leipzig, 9. Februar–1.März 1876</ref>.</note> Wer den kirchlichen
-				Charakter des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiems</title> vertheidigen will, muss es mit besseren
+				Charakter des <persName key="verdi.giuseppe">Verdi’schen</persName>
+				<title key="verdi.requiem" type="mus">Requiems</title> vertheidigen will, muss es mit besseren
 				Gründen thun als mit dem Hinweis auf den »künstlerischen Adel«, ein Begriff, dessen
 				elastische Dehnbarkeit auf der Hand liegt. Mit der Berufung auf <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName> und <persName
-					ref="#cherubini.luigi">Cherubini</persName> ist auch nicht viel gewonnen, denn
-				zwischen dem <title ref="#verdi.requiem">Requiem</title>
-				<persName ref="#verdi.giuseppe">Verdi’s</persName> und den gleichnamigen
+					key="mozart.wolfgang-amadeus">Mozart</persName> und <persName
+					key="cherubini.luigi">Cherubini</persName> ist auch nicht viel gewonnen, denn
+				zwischen dem <title key="verdi.requiem" type="mus">Requiem</title>
+				<persName key="verdi.giuseppe">Verdi’s</persName> und den gleichnamigen
 				Compositionen Jener besteht doch ein gewaltiger Unterschied; die Einwendungen,
 				welche von den Vertretern einer strengeren Observanz gegen <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName> und <persName
-					ref="#cherubini.luigi">Cherubini</persName> geltend gemacht werden können,
-				treffen die <persName ref="#verdi.giuseppe">Verdi’sche</persName>
-				<title ref="#verdi.requiem">Composition</title> in unendlich höherem Maasse. Mögen
-				einzelne Sätze der letzteren, wie das »<title ref="#verdi.requiem.1">requiem
-					aeternam</title>«, »<title n="te-decet-hymnus" ref="#verdi.requiem.1">te decet
-					hymnus</title>« und »<title ref="#verdi.requiem.5">agnus dei</title>«, sich
-				allenfalls der kirchlichen Feier einfügen lassen, das »<title ref="#verdi.requiem.2"
+					key="mozart.wolfgang-amadeus">Mozart</persName> und <persName
+					key="cherubini.luigi">Cherubini</persName> geltend gemacht werden können,
+				treffen die <persName key="verdi.giuseppe">Verdi’sche</persName>
+				<title key="verdi.requiem" type="mus">Composition</title> in unendlich höherem Maasse. Mögen
+				einzelne Sätze der letzteren, wie das »<title key="verdi.requiem.1" type="mus">requiem
+					aeternam</title>«, »<title n="te-decet-hymnus" key="verdi.requiem.1" type="mus">te decet
+					hymnus</title>« und »<title key="verdi.requiem.5" type="mus">agnus dei</title>«, sich
+				allenfalls der kirchlichen Feier einfügen lassen, das »<title key="verdi.requiem.2" type="mus"
 					>dies irae</title>« würde in Verbindung mit letzterer einen unerträglichen
 				Eindruck machen. Die Behandlung der ersten Strophe dieses Hymnus und des »<title
-					ref="#verdi.requiem.2.tuba-mirum">tuba mirum</title>« ist so derb realistisch,
+					key="verdi.requiem.2.tuba-mirum" type="mus">tuba mirum</title>« ist so derb realistisch,
 				wie die alten Gemälde vom jüngsten Gericht, auf denen flammenspeiende Teufel, feiste
 				Mönche, liederliche Bischöfe und Päpste, und üppige Nonnen an Stricken in die Hölle
 				schleifen, während im Hintergrunde einige fromme Seelen durch die schmale Pforte in
 				das himmlische Zion eingehen.</p>
 			<p>Diese Controverse hätte übrigens ohne Nachtheil in den Berichten über die Aufführung
-				des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
-				<title ref="#verdi.requiem">Werkes</title> unerörtert bleiben können, denn wie
+				des <persName key="verdi.giuseppe">Verdi’schen</persName>
+				<title key="verdi.requiem" type="mus">Werkes</title> unerörtert bleiben können, denn wie
 				augenblicklich die Verhältnisse liegen, wird das selbe schwerlich in irgend einer
 				Kirche im deutschen Reiche zur Aufführung kommen, d. h. in Verbindung mit der
 				liturgischen Feier. Eine unmittelbare Nothwendigkeit, diese Frage klar zu stellen,
@@ -137,24 +137,24 @@
 				etwas hochgehenden Wogen des Enthusiasmus sich beruhigt haben. Die beiden hiesigen
 				Aufführungen waren brillant. Der Chor leistete ganz Vortreffliches, und das
 				Soloquartett war gut besetzt, durch Frl. <hi rend="widespace"><persName
-						ref="#lehmann.marie">Lehmann</persName></hi>, Frl. <hi rend="widespace"
-						><persName ref="#keller.elsa">Keller</persName></hi> und die Herren <hi
-					rend="widespace"><persName ref="#diener.franz">Diener</persName></hi> und <hi
-					rend="widespace"><persName ref="#schelper.otto">Schelper</persName></hi> vom
+						key="lehmann.marie">Lehmann</persName></hi>, Frl. <hi rend="widespace"
+						><persName key="keller.elsa">Keller</persName></hi> und die Herren <hi
+					rend="widespace"><persName key="diener.franz">Diener</persName></hi> und <hi
+					rend="widespace"><persName key="schelper.otto">Schelper</persName></hi> vom
 				hiesigen Stadttheater; bei der zweiten Aufführung trat für den erkrankten Herrn
-					<persName ref="#diener.franz">Diener</persName> Herr Prof. <hi rend="widespace"
-						><persName ref="#schneider.carl">Schneider</persName></hi> ein.</p>
-			<p>In dem <rs ref="#koeln.1875.1" type="event">Concert vom <date when-iso="1875-12-07"
-						>7. Decbr. v. J.</date></rs> wurde ausser dem <title ref="#verdi.requiem"
-					>Requiem</title> noch <title ref="#svendsen.sigurd-slembe">Sigurd
-				Slembe</title>, symphonische Einleitung zu <persName ref="#bjoernson.bjoernstjerne"
+					<persName key="diener.franz">Diener</persName> Herr Prof. <hi rend="widespace"
+						><persName key="schneider.carl">Schneider</persName></hi> ein.</p>
+			<p>In dem <rs key="koeln.1875.1" type="event">Concert vom <date when-iso="1875-12-07"
+						>7. Decbr. v. J.</date></rs> wurde ausser dem <title key="verdi.requiem" type="mus"
+					>Requiem</title> noch <title key="svendsen.sigurd-slembe" type="mus">Sigurd
+				Slembe</title>, symphonische Einleitung zu <persName key="bjoernson.bjoernstjerne"
 					>Bjornstjerne Björnson’s</persName> gleichnamigem Drama von <persName
-					ref="#svendsen.johan"><hi rend="widespace">Joh. S. Svendsen</hi></persName>, und
-				in dem <rs ref="#koeln.1875.2" type="event">Concert vom <date when-iso="1876-02-15"
+					key="svendsen.johan"><hi rend="widespace">Joh. S. Svendsen</hi></persName>, und
+				in dem <rs key="koeln.1875.2" type="event">Concert vom <date when-iso="1876-02-15"
 						>15. Februar</date></rs> die <title
-					ref="#brahms.variationen-ueber-ein-thema-von-haydn">Variationen für Orchester
+					key="brahms.variationen-ueber-ein-thema-von-haydn" type="mus">Variationen für Orchester
 					über ein Thema von Jos. Haydn</title> (Chorale St. Antoni) von <persName
-					ref="#brahms.johannes"><hi rend="widespace">Joh. Brahms</hi></persName>
+					key="brahms.johannes"><hi rend="widespace">Joh. Brahms</hi></persName>
 				aufgeführt.</p>
 			<gap/>
 		</body>

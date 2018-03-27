@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#hamburger-nachrichten" role="publisher"/>
-					<placeName ref="#hamburg"/>
+					<orgName key="hamburger-nachrichten" role="publisher"/>
+					<placeName key="hamburg"/>
 					<date when-custom="sat" when-iso="1876-01-08"/>
 					<biblScope unit="issue">7</biblScope>
 					<series>hn</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#hamburg"/></creation>
+			<creation><placeName key="hamburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -44,39 +44,39 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" facs="#f1" n="8f" type="initial"/>
-			<head rend="antiqua larger"><placeName ref="#hamburg.stadt-theater"
+			<head rend="antiqua larger"><placeName key="hamburg.stadt-theater"
 					>Stadt-Theater</placeName></head>
-			<head>(Direction <hi rend="antiqua bold"><persName ref="#pollini.bernhard">B.
+			<head>(Direction <hi rend="antiqua bold"><persName key="pollini.bernhard">B.
 						Pollini.</persName></hi>)</head>
-			<p rend="center"><rs ref="#hamburg.1876.1" type="event"> Heute, <date
+			<p rend="center"><rs key="hamburg.1876.1" type="event"> Heute, <date
 						when-iso="1876-01-08">Sonnabend, den 8. Januar</date>:<lb break="yes"/>
 					<hi rend="widespace">Zweite Vorstellung</hi><lb break="yes"/> mit gänzlich
 					aufgehobenem Abonnement.<lb break="yes"/> Zum 1. Male:<lb break="yes"/>
-					<hi rend="widespace bold antiqua"><title ref="#verdi.requiem"
-						>Requiem</title></hi><lb break="yes"/> von <persName ref="#verdi.giuseppe"
+					<hi rend="widespace bold antiqua"><title key="verdi.requiem" type="mus"
+						>Requiem</title></hi><lb break="yes"/> von <persName key="verdi.giuseppe"
 						>Giuseppe Verdi</persName>.</rs><lb break="yes"/> (Zum Todestag <persName
-					ref="#manzoni.alessandro">Alessandro Manzoni’s</persName> componirt.)</p>
-			<p><hi rend="bold">Soli:</hi> Fräulein <hi rend="bold"><persName ref="#froehlich.xxx"
+					key="manzoni.alessandro">Alessandro Manzoni’s</persName> componirt.)</p>
+			<p><hi rend="bold">Soli:</hi> Fräulein <hi rend="bold"><persName key="froehlich.xxx"
 						role="soloist.soprano">Fröhlich</persName></hi> (Sopran), Fräulein <hi
-					rend="bold"><persName ref="#boree.minna" role="soloist.mezzo"
+					rend="bold"><persName key="boree.minna" role="soloist.mezzo"
 					>Borée</persName></hi> (Mezzo Sopran), Herr <hi rend="bold"><persName
-						ref="#candidus.william" role="soloist.tenor">Candidus</persName></hi>
-				(Tenor), Herr <hi rend="bold"><persName ref="#koegel.josef" role="soloist.basso"
+						key="candidus.william" role="soloist.tenor">Candidus</persName></hi>
+				(Tenor), Herr <hi rend="bold"><persName key="koegel.josef" role="soloist.basso"
 						>Kögel</persName></hi> (Baß).</p>
 			<p><hi rend="bold">Chor:</hi> 120 Mitwirkende.</p>
 			<p><hi rend="bold">Instrumentale:</hi> Das auf 72 Musiker verstärkte Orchester des
 				Stadt-Theaters.</p>
 			<p rend="bold center">Dirigent: Herr Kapellmeister <hi rend="antiqua"><persName
-						ref="#fuchs.johann-nepomuk">Fuchs</persName></hi>.</p>
+						key="fuchs.johann-nepomuk">Fuchs</persName></hi>.</p>
 			<p rend="center">Erste Abtheilung.</p>
 			<p>No 1. Requiem und Kyrie (Ewige Ruh’ gieb ihnen) } Quartett und Chor.</p>
 			<gap resp="tr"/>
 			<p>No. 7. Libera me Domine (Befreie mich, Allmächtiger) } Sopran. Chor. Schlußfuge.</p>
-			<p>Obiges Werk ist Eigenthum für alle Länder von <persName ref="#ricordi.tito">Tito
-					Ricordi</persName> in <placeName ref="#mailand">Mailand</placeName>.</p>
+			<p>Obiges Werk ist Eigenthum für alle Länder von <persName key="ricordi.tito">Tito
+					Ricordi</persName> in <placeName key="mailand">Mailand</placeName>.</p>
 			<p><l>Vorher:</l>
-				<l><title ref="#schubert.trauermarsch">Trauermarsch</title> von <persName
-						ref="#schubert.franz">Franz Schubert</persName>.</l></p>
+				<l><title key="schubert.trauermarsch" type="mus">Trauermarsch</title> von <persName
+						key="schubert.franz">Franz Schubert</persName>.</l></p>
 			<p>Große Preise. Anfang 7 Uhr.</p>
 		</body>
 	</text>

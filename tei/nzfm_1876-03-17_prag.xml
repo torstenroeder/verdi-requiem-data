@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#nzfm" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="nzfm" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-03-17"/>
 					<biblScope unit="issue">12</biblScope>
 					<biblScope unit="volume">72</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#prag"/></creation>
+			<creation><placeName key="prag"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -46,10 +46,10 @@
 			<cb break="null" n="120b" type="initial"/>
 			<head rend="larger">Correspondenzen.</head>
 			<cb break="null" n="122b" type="skipped"/>
-			<p rend="right"><hi rend="bold"><placeName ref="#prag">Prag</placeName></hi>.</p>
+			<p rend="right"><hi rend="bold"><placeName key="prag">Prag</placeName></hi>.</p>
 			<p>Unsere Theaterleitung ist endlich in der letzten Zeit ihres Regimes dahin gelangt,
-				mit Vater <persName ref="#homer">Homeros</persName> (Odyssee I. 350<note resp="tr"
-					type="literatureLink">Vgl. <persName ref="#homer">Homer</persName>, Odyssee I,
+				mit Vater <persName key="homer">Homeros</persName> (Odyssee I. 350<note resp="tr"
+					type="literatureLink">Vgl. <persName key="homer">Homer</persName>, Odyssee I,
 					351–352: »τούτῳ δ’ οὐ νέμεσις Δαναῶν κακὸν οἶτον ἀείδειν· / τὴν γὰρ ἀοιδὴν
 					μᾶλλον ἐπικλείουσ’ ἄνθρωποι, / ἥ τις ἀιόντεσσι νεωτάτη ἀμφιπέληται«. – »Zürne
 					denn nicht, weil dieser die Leiden der Danaer singet; / Denn der neuste Gesang
@@ -57,57 +57,57 @@
 					Versammlung«, nach: Johann Heinrich Voß.</note>) die Anziehungskraft
 				musikalischer Novitäten richtig zu würdigen, und vervollständigte das gar
 				lückenhafte Repertoire durch Aufnahme von drei größeren Partituren. In späten Jahren
-				hat <persName ref="#verdi.giuseppe">Verdi</persName> mit seiner musikalischen
-				Vergangenheit gebrochen und strebt seit <title ref="#verdi.la-forza-del-destino">La
+				hat <persName key="verdi.giuseppe">Verdi</persName> mit seiner musikalischen
+				Vergangenheit gebrochen und strebt seit <title key="verdi.la-forza-del-destino" type="mus">La
 					forza del <pb break="yes" n="123" type="regular"/>destino</title> einem neuen
-				Ziel zu. <gap resp="tr"/> Auch im <title ref="#verdi.requiem">Requiem</title>,
-				welches bisher dreimal aufgeführt wurde, wandelt <persName ref="#verdi.giuseppe"
+				Ziel zu. <gap resp="tr"/> Auch im <title key="verdi.requiem" type="mus">Requiem</title>,
+				welches bisher dreimal aufgeführt wurde, wandelt <persName key="verdi.giuseppe"
 					>Verdi</persName> ungewohnte Pfade und sein Temperament widerstrebt gradezu dem
 				vorgesetzten Style, dem Ausfluß inbrünstiger Hingebung an die Gottheit und
 				unentweihter Keuschheit der Empfindung. So zur Selbstverleugnung genöthigt, verlor
-					<persName ref="#verdi.giuseppe">V.</persName> den sicher leitenden Instinct, was
+					<persName key="verdi.giuseppe">V.</persName> den sicher leitenden Instinct, was
 				sich deutlich darin zeigt, daß überall das rechte Maß verfehlt ist. Bald dramatische
-				Leidenschaftlichkeit (<title ref="#verdi.requiem.2">dies irae</title>) und nachgrade
-				theatralisches Pathos (<title n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum"
+				Leidenschaftlichkeit (<title key="verdi.requiem.2" type="mus">dies irae</title>) und nachgrade
+				theatralisches Pathos (<title n="mors-stupebit" key="verdi.requiem.2.tuba-mirum" type="mus"
 					>Mors stupebit</title>), bald eine peinliche Herbheit und Simplicität im
-				Ausdruck (Octavenparallelen im <title ref="#verdi.requiem.5">Agnus</title>) <term
-					ref="#diabolus--musica">„Diabolus in musica“</term><note resp="tr"
+				Ausdruck (Octavenparallelen im <title key="verdi.requiem.5" type="mus">Agnus</title>) <term
+					key="diabolus--musica">„Diabolus in musica“</term><note resp="tr"
 					type="glossaryLink">Der Ausdruck ist hier auf die Parallelführung der Akkorde in
-					Quintlage gemünzt.</note> im <title ref="#verdi.requiem.2.confutatis"
-					>Confutatis</title>, die auf das Requiem von <persName ref="#prioris.johannes"
-					>Prioris</persName> und <persName ref="#rue.pierre-de-la">Pierre de la
+					Quintlage gemünzt.</note> im <title key="verdi.requiem.2.confutatis" type="mus"
+					>Confutatis</title>, die auf das Requiem von <persName key="prioris.johannes"
+					>Prioris</persName> und <persName key="rue.pierre-de-la">Pierre de la
 					Rue</persName> zurückverweist. Ob künftige Zeiten gewisse in <persName
-					ref="#verdi.giuseppe">Verdis</persName>
-				<title ref="#verdi.requiem">Requiem</title> beliebte Instrumentalgruppen
+					key="verdi.giuseppe">Verdis</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> beliebte Instrumentalgruppen
 				sanctioniren werden, muß dahingestellt bleiben, aber der Geist des Meßtextes selbst
-				fordert mehr Pietät als ihm die Auffassung seitens <persName ref="#verdi.giuseppe"
+				fordert mehr Pietät als ihm die Auffassung seitens <persName key="verdi.giuseppe"
 					>V.’s</persName> bezeugte. Der Meßtext ist durch die Tradition geheiligt und
 				steht ebenso unveränderlich fest wie eine historische Persönlichkeit, der gegenüber
 				die Auffassung des Künstlers an unverrückbare Normen gebunden ist. Davon dispensiren
 				nicht die polyphonischen Versuche (allerdings bezeichnet schon <persName
-					ref="#petrucci.ottaviano">Ott. Petrucci</persName> die Polyphonie als
+					key="petrucci.ottaviano">Ott. Petrucci</persName> die Polyphonie als
 				unentbehrlich, Gott zu preisen<note resp="tr" type="literatureLink">Vgl. <persName
-						ref="#petrucci.ottaviano">Ottaviano Petrucci</persName>, <ref
+						key="petrucci.ottaviano">Ottaviano Petrucci</persName>, <ref
 						target="https://archive.org/stream/imslp-musices-odhecaton-petrucci-ottaviano/PMLP75514-OPetrucci_Harmonice_Musices_Odhecaton_LC_sgmt1#page/n1/mode/1up"
 						type="text">Harmonice Musices Odhecaton, Fol. 1v, Zeile 9</ref>: »musicam
 					vero illam numerosam sive discantum malis sine qua non deum optimum maximum
 					propiciamus: non nuptiarum solennia celebramus: non convivia: non quicquid in
 					vita jucundum transmittimus«.</note>) noch die 2 Fugen, von denen die zum <title
-					ref="#verdi.requiem.4">Sanctus</title> übrigens eine schwache grammatische
-				Toncombination ist, geeignet, <persName ref="#leibniz.gottfried-wilhelm"
+					key="verdi.requiem.4" type="mus">Sanctus</title> übrigens eine schwache grammatische
+				Toncombination ist, geeignet, <persName key="leibniz.gottfried-wilhelm"
 					>Leibnitz’s</persName> einseitige Ansicht vom Wesen der Musik<note resp="tr"
 					type="literatureLink">Im Hintergrund steht der vielzitierte Satz »Musica est
 					exercitium arithmeticae occultum nescientis se numerare animi« – »Musik ist eine
 					verborgene Rechenkunst des seines Zählens unbewussten Geistes«, Brief von
 					Gottfried Wilhelm Leibniz an Christian Goldbach vom 27. April 1712.</note> zu
-				bestätigen. Der Vocal- und Instrumentalkörper war zu den <rs ref="#prag.1876"
-					type="event">Aufführungen des <title ref="#verdi.requiem">Requiem</title></rs>
-				ansehnlich verstärkt, die Soli (<persName ref="#hajos.siegmund">Hajos</persName>,
-					<persName ref="#schebesta.adalbert">Schebesta</persName>, <persName
-					ref="#moser.marie">Moser</persName>, <persName ref="#burenne.henriette"
+				bestätigen. Der Vocal- und Instrumentalkörper war zu den <rs key="prag.1876"
+					type="event">Aufführungen des <title key="verdi.requiem" type="mus">Requiem</title></rs>
+				ansehnlich verstärkt, die Soli (<persName key="hajos.siegmund">Hajos</persName>,
+					<persName key="schebesta.adalbert">Schebesta</persName>, <persName
+					key="moser.marie">Moser</persName>, <persName key="burenne.henriette"
 					>Burenne</persName>) bis auf die Baßpartie, welche seltsamer Weise dem Bariton
 				zugetheilt wurde, sehr gut vertreten. Das Ensemble ging unter Kplm. <persName
-					ref="#slansky.ludwig">Slanskys</persName> Leitung recht präcis und
+					key="slansky.ludwig">Slanskys</persName> Leitung recht präcis und
 				ausdrucksvoll.</p>
 		</body>
 	</text>

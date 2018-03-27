@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Zeitung, 23. Mai 1877 [1]</title>
-				<author><persName ref="#guckeisen.august"/></author>
+				<author><persName key="guckeisen.august"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#koelnische-zeitung" role="publisher"/>
-					<placeName ref="#koeln"/>
+					<orgName key="koelnische-zeitung" role="publisher"/>
+					<placeName key="koeln"/>
 					<date when-custom="wed" when-iso="1877-05-23"/>
 					<biblScope unit="issue">142</biblScope>
 					<biblScope unit="subIssue">142</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koeln"/></creation>
+			<creation><placeName key="koeln"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -44,34 +44,34 @@
 		<body rend="fraktur">
 			<head rend="larger">Vierundfünfzigstes Niederrheinisches Musikfest</head>
 			<head rend="smaller">unter Leitung von <hi rend="antiqua">Dr.</hi>
-				<persName ref="#hiller.ferdinand">Ferd. Hiller</persName>.</head>
-			<head>Gefeiert in <placeName ref="#koeln">Köln</placeName> am <date
+				<persName key="hiller.ferdinand">Ferd. Hiller</persName>.</head>
+			<head>Gefeiert in <placeName key="koeln">Köln</placeName> am <date
 					when-iso="1877-05-20">20.</date>, <date when-iso="1877-05-21">21.</date> und
 					<date when-iso="1877-05-22">22. Mai</date>.</head>
 			<head rend="widespace">Dritter Tag.</head>
-			<p rend="right"><hi rend="antiqua"><persName ref="#guckeisen.august">G</persName></hi>
-				<hi rend="bold"><placeName ref="#koeln">Köln</placeName></hi>, <date
+			<p rend="right"><hi rend="antiqua"><persName key="guckeisen.august">G</persName></hi>
+				<hi rend="bold"><placeName key="koeln">Köln</placeName></hi>, <date
 					when-iso="1877-05-23">23. Mai</date>.</p>
-			<p>Erledigen wir zunächst das <rs ref="#koeln.1877.musikfest.2" type="event">Programm
+			<p>Erledigen wir zunächst das <rs key="koeln.1877.musikfest.2" type="event">Programm
 					des zweiten Tages</rs>. Zu den angeführten Besonderheiten des <persName
-					ref="#verdi.giuseppe">Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiems</title> gehört auch das häufige Psalmodiren
+					key="verdi.giuseppe">Verdi’schen</persName>
+				<title key="verdi.requiem" type="mus">Requiems</title> gehört auch das häufige Psalmodiren
 				nicht nur dort, wo der Blick auf die Partitur schon die Absicht erkennt, wie zu
 				Anfang des Libera me Domine, sondern auch an zahlreichen anderen Stellen, z. B. im
-					<title ref="#verdi.requiem.3">Offertorium</title> die Unisonostelle der Solisten
+					<title key="verdi.requiem.3" type="mus">Offertorium</title> die Unisonostelle der Solisten
 				fae cas Domine de morte transire ad vitam. Die Stimmen lösen sich hier ab, genau wie
 				im hohen Domchor die Psalmen hingemurmelt werden. Selbst das <title
-					n="requiem-aeternam" ref="#verdi.requiem.7">Requiem aeternam</title> in der
-				Nummer <title ref="#verdi.requiem.6">Lux aeterna</title> klingt unter <persName
-					ref="#verdi.giuseppe">Verdi</persName> ganz in der psalmodischen Manier. Man
+					n="requiem-aeternam" key="verdi.requiem.7" type="mus">Requiem aeternam</title> in der
+				Nummer <title key="verdi.requiem.6" type="mus">Lux aeterna</title> klingt unter <persName
+					key="verdi.giuseppe">Verdi</persName> ganz in der psalmodischen Manier. Man
 				sieht, daß der Componist möglichst viele Aeußerlichkeiten des katholischen
 				Trauergottesdienstes in sein Werk aufzunehmen bemüht war, so daß jedenfalls im
-				schönen Lande Italien das <title ref="#verdi.requiem">Requiem</title> von <persName
-					ref="#verdi.giuseppe">Verdi</persName> für vollständig kirchlich gelten muß. Daß
+				schönen Lande Italien das <title key="verdi.requiem" type="mus">Requiem</title> von <persName
+					key="verdi.giuseppe">Verdi</persName> für vollständig kirchlich gelten muß. Daß
 				wir Deutsche darüber anders denken, ändert nichts an dem Werthe der Composition an
-				und für sich betrachtet. Kurz gesagt, <persName ref="#verdi.giuseppe"
+				und für sich betrachtet. Kurz gesagt, <persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title>, wie es unter des Componisten Leitung
+				<title key="verdi.requiem" type="mus">Requiem</title>, wie es unter des Componisten Leitung
 				erschien, ist für jeden phantasiereichen Menschen ein farbenreiches, prächtiges
 				Bild, wo der düstere Ernst, der Schauer des Schreckens dem bel canto des Arioso oder
 				der Cavatine brüderlich die Hand reicht. Aber eben der häufige Wechsel der
@@ -87,40 +87,40 @@
 				dem Eifer und der Hingabe des Chores sehr wohl zufrieden sein. Auch ohne die
 				genauesten Schattirungen war der Eindruck dennoch für die Mitwirkenden rühmlich
 				genug.</p>
-			<p>An Ehren fehlte es <persName ref="#verdi.giuseppe">Verdi</persName> nicht, wenigstens
-				ist in <placeName ref="#koeln">Köln</placeName> ein Componist selten oder nie in
+			<p>An Ehren fehlte es <persName key="verdi.giuseppe">Verdi</persName> nicht, wenigstens
+				ist in <placeName key="koeln">Köln</placeName> ein Componist selten oder nie in
 				dieser Weise gefeiert worden. Jede Nummer erhielt rauschenden Applaus. Am Schlusse
 				wollte das Toben kein Ende nehmen. Selbstverständlich fehlten die Orchestertusche
-				nicht. Auch schöne Andenken nimmt <persName ref="#verdi.giuseppe">Verdi</persName>
-				mit aus <placeName ref="#koeln">Köln</placeName>. Als er eben das Dirigentenpult
+				nicht. Auch schöne Andenken nimmt <persName key="verdi.giuseppe">Verdi</persName>
+				mit aus <placeName key="koeln">Köln</placeName>. Als er eben das Dirigentenpult
 				betreten hatte und den Tactstock ergriff, nahte eine Dame aus dem Chor mit einem
 				reich in Gold und Elfenbein gearbeiteten Tactstock. Der goldne Griff trägt in einem
 				Kranz von Lorbeerblättern auf blauem Email die Initiale <persName
-					ref="#verdi.giuseppe">Verdi’s</persName>, ein <hi rend="antiqua">V</hi> mit
+					key="verdi.giuseppe">Verdi’s</persName>, ein <hi rend="antiqua">V</hi> mit
 				Diamanten besetzt. Der Stab ist ein Geschenk des Chores und von Herrn Juwelier
-					<persName ref="#schmitz.xxx">Schmitz</persName> gearbeitet. Eine andere Gabe in
+					<persName key="schmitz.xxx">Schmitz</persName> gearbeitet. Eine andere Gabe in
 				Form eines silbernen Lorbe<supplied resp="tr">e</supplied>rkranzes mit goldner
-				Schlinge, aus dem Atelier des Herrn Hofjuwelier <persName ref="#becker.xxx"
+				Schlinge, aus dem Atelier des Herrn Hofjuwelier <persName key="becker.xxx"
 					>Becker</persName> wurde dem Maestro am Schlusse des Requiem überreicht. Jedes
 				Blatt trägt den Namen einer Dame, der betreffenden Geberin. Dieses Geschenk sollte
 				der Verehrung vieler Theaterbesucherinnen für den Componisten Ausdruck verleihen.
 				Tags zuvor hatte das Musikfest-Comité dem Maestro das Rheinalbum von Professor
-					<persName ref="#scheuren.caspar">Scheuren</persName> mit einem zu dem
+					<persName key="scheuren.caspar">Scheuren</persName> mit einem zu dem
 				Widmungszwecke eigens von dem Autor gezeichneten hochkünstlerischen Titelblatte
 				überreicht. Diese Zeichen der Verehrung werden die Erinnerung an Köln wohl in dem
 				Meister wach halten; in uns bleibt die Erinnerung an ihn lebendig durch seine Werke!
 					<gap resp="tr"/></p>
 			<p>Der Chor konnte sich in diesem Concert etwas ausruhen; er hatte nur mit den beiden
-				Solostimmen das <title ref="#verdi.requiem.5">Agnus Dei</title> aus dem <title
-					ref="#verdi.requiem">Requiem</title> zu wiederholen, was zu einer erneuten
-				Ovation für <persName ref="#verdi.giuseppe">Verdi</persName> Veranlassung gab,
+				Solostimmen das <title key="verdi.requiem.5" type="mus">Agnus Dei</title> aus dem <title
+					key="verdi.requiem" type="mus">Requiem</title> zu wiederholen, was zu einer erneuten
+				Ovation für <persName key="verdi.giuseppe">Verdi</persName> Veranlassung gab,
 				sodann zum Schlusse die Nationalhymne singen. Die Einführung der Nationalhymne ist
 				eine Neuerung nach englischem Muster, die man gewiß nur billigen kann. Jede
 				Gelegenheit zur Ausbildung eines Nationalgefühls muß mit Freuden ergriffen werden.
 				Von der Hymne kamen die vier Originalstrophen zum Vortrag, für Soli, Chor und
 				Orchester in recht geistreicher Weise variiert. Besser aber noch, wenn das Publicum
 				einstimmen kann. <gap resp="tr"/></p>
-			<p>Dr. <persName ref="#guckeisen.august">August Guckeisen</persName>.</p>
+			<p>Dr. <persName key="guckeisen.august">August Guckeisen</persName>.</p>
 		</body>
 	</text>
 </TEI>

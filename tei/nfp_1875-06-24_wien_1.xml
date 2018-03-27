@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neue-freie-presse" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="neue-freie-presse" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1875-06-24"/>
 					<biblScope unit="issue">3889</biblScope>
 					<biblScope unit="subIssue">3889</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -44,18 +44,18 @@
 			<pb break="null" n="1" type="initial"/>
 			<head rend="larger">Kleine Chronik.</head>
 			<cb break="null" n="1b" type="skipped"/>
-			<p>[<persName ref="#verdi.giuseppe">Verdi</persName> in <placeName ref="#wien"
-					>Wien</placeName>.] Heute Vormittags erschien <persName ref="#verdi.giuseppe"
-					>Giuseppe Verdi</persName> in der <placeName ref="#wien.hofburg"
+			<p>[<persName key="verdi.giuseppe">Verdi</persName> in <placeName key="wien"
+					>Wien</placeName>.] Heute Vormittags erschien <persName key="verdi.giuseppe"
+					>Giuseppe Verdi</persName> in der <placeName key="wien.hofburg"
 					>Hofburg</placeName>, um in einer Audienz dem <persName
-					ref="#franz-joseph-i.habsburg">Kaiser</persName> für die bevorstehende
-				Auszeichnung zu danken. Der <persName ref="#franz-joseph-i.habsburg"
+					key="franz-joseph-i.habsburg">Kaiser</persName> für die bevorstehende
+				Auszeichnung zu danken. Der <persName key="franz-joseph-i.habsburg"
 					>Kaiser</persName> empfing den Componisten ungemein freundlich und unterhielt
 				sich weit länger mit ihm, als dies sonst bei den allgemeinen Audienzen üblich ist.
-				Der <persName ref="#franz-joseph-i.habsburg">Kaiser</persName> sprach mit <persName
-					ref="#verdi.giuseppe">Verdi</persName> Italienisch und dankte dem Maestro vor
-				Allem „für den außergewöhnlichen Genuß“, den das <rs ref="#wien.1875.2" type="event"
-						><title ref="#verdi.requiem">Requiem</title></rs> ihm bereitet habe. <gap
+				Der <persName key="franz-joseph-i.habsburg">Kaiser</persName> sprach mit <persName
+					key="verdi.giuseppe">Verdi</persName> Italienisch und dankte dem Maestro vor
+				Allem „für den außergewöhnlichen Genuß“, den das <rs key="wien.1875.2" type="event"
+						><title key="verdi.requiem" type="mus">Requiem</title></rs> ihm bereitet habe. <gap
 					resp="tr"/></p>
 		</body>
 	</text>

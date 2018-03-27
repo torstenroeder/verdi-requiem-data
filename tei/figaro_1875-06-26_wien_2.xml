@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#figaro" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="figaro" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-26"/>
 					<biblScope unit="issue">29</biblScope>
 					<biblScope unit="volume">19</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -42,79 +42,79 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger">Kritik des Dr. <persName ref="#vielwisserl.o-w">O. W.
+			<head rend="larger">Kritik des Dr. <persName key="vielwisserl.o-w">O. W.
 					Vielwisserl</persName><note resp="tr" type="commentary">Wahrscheinlich gemünzt
-					auf <persName ref="#ambros.august-wilhelm">August Wilhelm Ambros</persName> und
+					auf <persName key="ambros.august-wilhelm">August Wilhelm Ambros</persName> und
 					seinen Artikel in der <ref target="wz_1875-06-12_verdis-requiem.xml" type="text"
 						>Wiener Abendpost, 12. Juni 1875</ref>.</note> über das <title
-					ref="#verdi.requiem">Requiem</title>
-				<persName ref="#verdi.giuseppe">Verdi’s</persName>.</head>
-			<p>Es ist ein großes Ereigniß, welches <placeName ref="#wien">Wien</placeName> in
-				Aufregung versetzt. <rs ref="#wien.1875.1" type="event"><hi rend="widespace"
-							><persName ref="#verdi.giuseppe">Verdi’s</persName></hi>
-					<title ref="#verdi.requiem">Requiem</title> ist mit einem Erfolge zur Aufführung
+					key="verdi.requiem" type="mus">Requiem</title>
+				<persName key="verdi.giuseppe">Verdi’s</persName>.</head>
+			<p>Es ist ein großes Ereigniß, welches <placeName key="wien">Wien</placeName> in
+				Aufregung versetzt. <rs key="wien.1875.1" type="event"><hi rend="widespace"
+							><persName key="verdi.giuseppe">Verdi’s</persName></hi>
+					<title key="verdi.requiem" type="mus">Requiem</title> ist mit einem Erfolge zur Aufführung
 					gelangt, der einen hochwichtigen historischen Moment in der Musikgeschichte
-						<placeName ref="#wien">Wiens</placeName> für alle Zeiten bilden wird und ich
+						<placeName key="wien">Wiens</placeName> für alle Zeiten bilden wird und ich
 					werde sichtlich bemüht sein, diesen hochwichtigen Moment kritisch in seiner
 					vollen Bedeutung für die Kunstgeschichte darzulegen.</rs> Ich habe zwar neulich
 				aus Anlaß der Aufführung von Bruchstücken aus <hi rend="widespace"><persName
-						ref="#wagner.richard">Wagner’s</persName></hi>
-				<title ref="#wagner.siegfried">Siegfried</title> und <title
-					ref="#wagner.goetterdaemmerung">Götterdämmerung</title> behauptet, es seien dies
+						key="wagner.richard">Wagner’s</persName></hi>
+				<title key="wagner.siegfried" type="mus">Siegfried</title> und <title
+					key="wagner.goetterdaemmerung" type="mus">Götterdämmerung</title> behauptet, es seien dies
 				die größten Eindrücke, die ich je durch ein musikalisches Werk empfangen habe,
 				allein ich fühle mich heute zu dem korrigirenden Geständnisse gedrängt, daß es
-				eigentlich <hi rend="widespace"><persName ref="#verdi.giuseppe"
-					>Verdi’s</persName></hi> grandioses <title ref="#verdi.requiem">Requiem</title>
+				eigentlich <hi rend="widespace"><persName key="verdi.giuseppe"
+					>Verdi’s</persName></hi> grandioses <title key="verdi.requiem" type="mus">Requiem</title>
 				ist, das mit den mächstigsten Eindruck hervorgerufen. <hi rend="widespace"><persName
-						ref="#verdi.giuseppe">Verdi</persName></hi> hat die alten Meister nicht
-				verleugnet. Schon vor <persName ref="#palestrina.giovanni-pierluigi"
+						key="verdi.giuseppe">Verdi</persName></hi> hat die alten Meister nicht
+				verleugnet. Schon vor <persName key="palestrina.giovanni-pierluigi"
 					>Palestrina</persName> finden wir bedeutende Kirchenkomponisten, die aber Wenige
-				kennen. <persName ref="#krumpolini.andreas">Andreas <hi rend="widespace"
+				kennen. <persName key="krumpolini.andreas">Andreas <hi rend="widespace"
 						>Krumpolini</hi></persName> (<date when-iso="1264">1264</date>) schrieb
 				Messen in welchen der heilige Geist durch Klatschteller zum Ausdrucke gebracht wird.
-					<persName ref="#czipczapko.angelo-wenzel">Angelo Wenzel <hi rend="widespace"
+					<persName key="czipczapko.angelo-wenzel">Angelo Wenzel <hi rend="widespace"
 						>Czipczapko</hi></persName> (<date when-iso="1300">1300</date>) war
 				eigentlich ein Czeche von Geburt, worauf die leisen Anklänge in seinem Namen
-				hindeuten. Er kam aber frühzeitig nach <placeName ref="#italien">Italien</placeName>
+				hindeuten. Er kam aber frühzeitig nach <placeName key="italien">Italien</placeName>
 				und war der Erste, der im Dies irae die heimatlichen Trompeten d’rein blasen ließ,
 				um Gottes Zorn darzustellen. Die Fuge im Sanctus finden wir zuerst in der kleinen
-				Messe des <hi rend="widespace"><persName ref="#fipsius.archibaldus-blasius"
+				Messe des <hi rend="widespace"><persName key="fipsius.archibaldus-blasius"
 						>Archibaldus Blasius Fipsius</persName></hi> (<date when-iso="1340"
 					>1340</date>). Der Mann war eigentlich ein Schneider und hatte offenbar die
 				Idee, so wie es ihm gelungen war, aus einzelnen Flecken und Flicken ein Kleid
 					zusammenzustellen<surplus resp="tr">.</surplus>, dies auch in einem Musikstück
 				zu versuchen. Aber erst sein Nachfolger, der Italiener <persName
-					ref="#krumpelmayro.nikolo">Nikolo <hi rend="widespace"
+					key="krumpelmayro.nikolo">Nikolo <hi rend="widespace"
 					>Krumpelmayro</hi></persName> (<date when-iso="1400">1400</date>) hat die Fuge
 				zu einem gelehrten Musikstück gemacht. Als ich auf meiner italienischen Reise nach
-					<placeName ref="#pisa">Pisa</placeName> kam, ward ich dort von dem großen,
-				leider zu wenig gekannten Meister <persName ref="#brummbasso.francesco">Francesco
+					<placeName key="pisa">Pisa</placeName> kam, ward ich dort von dem großen,
+				leider zu wenig gekannten Meister <persName key="brummbasso.francesco">Francesco
 						<hi rend="widespace">Brummbasso</hi></persName> auf das freundlichste
 				empfangen, er erwies mir jede Aufmerksamkeit, ja ich mußte sogar bei ihm speisen und
 				er trieb seine Gastfreundschaft so weit, daß er mein Leibgericht, gebratenes
 				Lämmernes, für mich eigens bereiten ließ. Also dieser mein Freund <hi
-					rend="widespace"><persName ref="#brummbasso.francesco"
-					>Brummbasso</persName></hi> führte mich zu <placeName ref="#pisa"
+					rend="widespace"><persName key="brummbasso.francesco"
+					>Brummbasso</persName></hi> führte mich zu <placeName key="pisa"
 					>Pisa</placeName> in die große Bibliothek, und zwar in den Manuskriptensaal, wo
 				eigentlich Niemand Zutritt hat, und ich studirte daselbst unter anderem die Partitur
-				der Messe <hi rend="widespace"><persName ref="#krumpelmayro.nikolo"
+				der Messe <hi rend="widespace"><persName key="krumpelmayro.nikolo"
 						>Krumpelmayro’s</persName></hi>. Ich staunte über diese große musikalische
 				Gelehrsamkeit, die aber wenige nur zu schätzen wissen. Ich habe leider nicht den
-				Raum hier, Alles wiederzugeben, was mir das <title ref="#verdi.requiem"
+				Raum hier, Alles wiederzugeben, was mir das <title key="verdi.requiem" type="mus"
 					>Requiem</title>
-				<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName></hi> in’s
+				<hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName></hi> in’s
 				Gedächtniß ruft. So viel ist aber gewiß, <hi rend="widespace"><persName
-						ref="#verdi.giuseppe">Verdi</persName></hi> hat mit seiner <title
-					ref="#verdi.requiem">Messe</title> nicht nur <hi rend="widespace"><persName
-						ref="#bach.johann-sebastian">Bach</persName></hi>, <hi rend="widespace"
-						><persName ref="#haydn.joseph">Haydn</persName></hi>, <hi rend="widespace"
-						><persName ref="#mozart.wolfgang-amadeus">Mozart</persName></hi>, <hi
-					rend="widespace"><persName ref="#beethoven.ludwig-van"
-				>Beethoven</persName></hi>, <hi rend="widespace"><persName ref="#liszt.franz"
+						key="verdi.giuseppe">Verdi</persName></hi> hat mit seiner <title
+					key="verdi.requiem" type="mus">Messe</title> nicht nur <hi rend="widespace"><persName
+						key="bach.johann-sebastian">Bach</persName></hi>, <hi rend="widespace"
+						><persName key="haydn.joseph">Haydn</persName></hi>, <hi rend="widespace"
+						><persName key="mozart.wolfgang-amadeus">Mozart</persName></hi>, <hi
+					rend="widespace"><persName key="beethoven.ludwig-van"
+				>Beethoven</persName></hi>, <hi rend="widespace"><persName key="liszt.franz"
 						>Liszt</persName></hi> und <hi rend="widespace"><persName
-						ref="#brahms.johannes">Brahms</persName></hi>, sondern auch den <persName
-					ref="#krumpelmayro.nikolo">Nikolo <hi rend="widespace"
-					>Krumpelmayro</hi></persName> und den <persName ref="#brummbasso.francesco"
+						key="brahms.johannes">Brahms</persName></hi>, sondern auch den <persName
+					key="krumpelmayro.nikolo">Nikolo <hi rend="widespace"
+					>Krumpelmayro</hi></persName> und den <persName key="brummbasso.francesco"
 					>Francesco <hi rend="widespace">Brummbasso</hi></persName> übertroffen.</p>
 		</body>
 	</text>

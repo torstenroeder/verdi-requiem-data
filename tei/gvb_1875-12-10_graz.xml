@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#grazer-volksblatt" role="publisher"/>
-					<placeName ref="#graz"/>
+					<orgName key="grazer-volksblatt" role="publisher"/>
+					<placeName key="graz"/>
 					<date when-custom="fri" when-iso="1875-12-10"/>
 					<biblScope unit="issue">282</biblScope>
 					<biblScope unit="volume">8</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#graz"/></creation>
+			<creation><placeName key="graz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -43,15 +43,15 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Grazer Notizen.</head>
-			<p rend="right"><placeName ref="#graz">Graz</placeName>, am <date when-iso="1875-12-09"
+			<p rend="right"><placeName key="graz">Graz</placeName>, am <date when-iso="1875-12-09"
 					>9. Dezember</date>.</p>
 			<cb break="yes" n="3" type="skipped"/>
 			<p><g n="002A" type="ASTERISK">*</g>
-				<rs ref="#graz.1875.3" type="event">(Die Aufführung von <persName
-						ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title>) von Seite des Grazer <orgName
-						ref="#graz.akademischer-gesangverein">akademischen Gesang-Vereines</orgName>
-					im <placeName ref="#graz.stadt-theater">Stadtheater</placeName> mußte bis
+				<rs key="graz.1875.3" type="event">(Die Aufführung von <persName
+						key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title>) von Seite des Grazer <orgName
+						key="graz.akademischer-gesangverein">akademischen Gesang-Vereines</orgName>
+					im <placeName key="graz.stadt-theater">Stadtheater</placeName> mußte bis
 					nächste Woche verschoben werden.</rs></p>
 		</body>
 	</text>

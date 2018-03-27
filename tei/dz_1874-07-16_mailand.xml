@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Deutsche Zeitung, Wien, 16. Juli 1874</title>
-				<author><persName ref="#gehring.franz"/></author>
+				<author><persName key="gehring.franz"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#deutsche-zeitung" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="deutsche-zeitung" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1874-07-16"/>
 					<biblScope unit="issue">910</biblScope>
 					<biblScope unit="subIssue">910</biblScope>
@@ -25,7 +25,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#mailand"/></creation>
+			<creation><placeName key="mailand"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -48,25 +48,25 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
-			<head><persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> für <persName ref="#manzoni.alessandro"
+			<head><persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> für <persName key="manzoni.alessandro"
 					>Manzoni</persName> und seine Kritiker.</head>
 			<p>Seit langer Zeit hat eine musikalische Composition nicht so viel Staub aufgewirbelt
-				als das Requiem, welches <persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>
-				zu Ehren <persName ref="#manzoni.alessandro">Manzoni’s</persName>, dieses nach
-					<persName ref="#goethe.johann-wolfgang-von">Goethe</persName> „wahrhaft
+				als das Requiem, welches <persName key="verdi.giuseppe">Giuseppe Verdi</persName>
+				zu Ehren <persName key="manzoni.alessandro">Manzoni’s</persName>, dieses nach
+					<persName key="goethe.johann-wolfgang-von">Goethe</persName> „wahrhaft
 				liebenswürdigen“ Dichters, componirt und am <date when-iso="1874-05-22">22. Mai d.
-					J.</date> zu ersten Gedächtnißfeier von <persName ref="#manzoni.alessandro"
+					J.</date> zu ersten Gedächtnißfeier von <persName key="manzoni.alessandro"
 					>Manzoni’s</persName> Sterbetag in der Kirche <placeName
-					ref="#mailand.san-marco">San Marco</placeName> zu <placeName ref="#mailand"
-					>Mailand</placeName> aufgeführt hat. Herrn <persName ref="#buelow.hans-von">Hans
+					key="mailand.san-marco">San Marco</placeName> zu <placeName key="mailand"
+					>Mailand</placeName> aufgeführt hat. Herrn <persName key="buelow.hans-von">Hans
 					v. Bülow</persName>, dem musikalischen Heißsporn der Deutschen, wurde schon vor
 				jener Aufführung das willkommene Glück zu Theil, seinem Unwillen über das Werk
-				freien Lauf lassen zu können. Der <persName ref="#belinzaghi.giulio"
-					>Bürgermeister</persName> von <placeName ref="#mailand">Mailand</placeName>
-				hatte sich beeilt, dem in <placeName ref="#mailand">Mailand</placeName> zufällig
+				freien Lauf lassen zu können. Der <persName key="belinzaghi.giulio"
+					>Bürgermeister</persName> von <placeName key="mailand">Mailand</placeName>
+				hatte sich beeilt, dem in <placeName key="mailand">Mailand</placeName> zufällig
 				anwesenden Pianisten eine Einladungskarte für jene Gedächtnißfeier zu übersenden;
-				Herr <persName ref="#buelow.hans-von">v. Bülow</persName>, ein energischer
+				Herr <persName key="buelow.hans-von">v. Bülow</persName>, ein energischer
 				Anti-Verdianer, fiel nicht aus der Rolle des höflichen Cavaliers, die er in München
 				und in andern deutschen Städten mit Erfolg gespielt hat; er schickte kurzweg mit
 				schnöden Worten seine Karte zurück, schrieb dafür schleunigst einen Zeitungsartikel
@@ -74,64 +74,64 @@
 				Gedächtnißfeier „ein Schein-Compliment an den großen Dichter“ zu nennen.<note
 					resp="tr" type="textLink">Vgl. <ref target="az_1874-05-28_mailand.xml"
 						type="text">Allgemeine Zeitung, Augsburg, 28. Mai 1874</ref>.</note> Dem
-					<title ref="#verdi.requiem">Requiem</title> selbst ertheilt bei dieser
+					<title key="verdi.requiem" type="mus">Requiem</title> selbst ertheilt bei dieser
 				Gelegenheit der kunstverständige Schriftsteller das Prädicat einer „Oper im
-				kirchlichen Gewande“. Herr <persName ref="#buelow.hans-von">Bülow</persName> hatte
+				kirchlichen Gewande“. Herr <persName key="buelow.hans-von">Bülow</persName> hatte
 				sich nicht einmal die Mühe genommen, einer Probe des Requiems beizuwohnen, und nur
 				verstohlene Einblicke in die neueste Offenbarung des Componisten des „<title
-					ref="#verdi.il-trovatore">Trovatore</title>“ und der „<title
-					ref="#verdi.la-traviata">Traviata</title>“ gethan: man muß daher in der That vor
+					key="verdi.il-trovatore" type="mus">Trovatore</title>“ und der „<title
+					key="verdi.la-traviata" type="mus">Traviata</title>“ gethan: man muß daher in der That vor
 				der Unparteilichkeit jenes Urtheils Respect haben.</p>
 			<p>Andere Leute, welche schon nicht mehr nöthig hatten, „verstohlene“ Einblicke in das
-					<title ref="#verdi.requiem">Requiem</title> zu thun (denn der bei Ricordi
+					<title key="verdi.requiem" type="mus">Requiem</title> zu thun (denn der bei Ricordi
 				erschienene Clavier-Auszug war schon Anfangs Juni in vielen, vielleicht auch in
 				einigen Wiener Musikalien-Handlungen zu haben), welche außerdem das <title
-					ref="#verdi.requiem">Requiem</title> in vollendeten Aufführungen hören konnten,
+					key="verdi.requiem" type="mus">Requiem</title> in vollendeten Aufführungen hören konnten,
 				zogen nicht weniger abenteuerliche Schlüsse aus ihren gesehenen und gehörten
-				Beobachtungen, als Herr <persName ref="#buelow.hans-von">v. Bülow</persName> fertig
+				Beobachtungen, als Herr <persName key="buelow.hans-von">v. Bülow</persName> fertig
 				gebracht hatte. Der alte Streit drohte wieder auszubrechen, der schon vom <persName
-					ref="#mozart.wolfgang-amadeus">Mozart’schen</persName>
-				<title ref="#mozart.requiem">Requiem</title> und der sonstigen Kirchenmusik dieses
-				großen Meisters datirt und zur Zeit, als das <persName ref="#rossini.gioachino"
-					>Rossini’sche</persName> „<title ref="#rossini.stabat-mater">Stabat
+					key="mozart.wolfgang-amadeus">Mozart’schen</persName>
+				<title key="mozart.requiem" type="mus">Requiem</title> und der sonstigen Kirchenmusik dieses
+				großen Meisters datirt und zur Zeit, als das <persName key="rossini.gioachino"
+					>Rossini’sche</persName> „<title key="rossini.stabat-mater" type="mus">Stabat
 					mater</title>“ erschien, mit erneuter Heftigkeit geführt wurde über die Frage:
 				Gibt es eine specifische Kirchenmusik oder nicht? Wenn das <title
-					ref="#verdi.requiem">Manzoni-Requiem</title> erst bei und einge<cb break="no"
+					key="verdi.requiem" type="mus">Manzoni-Requiem</title> erst bei und einge<cb break="no"
 					n="1b" type="regular"/>zogen sein wird, wird zweifelsohne dieser unfruchtbare
 				Streit neue Nahrung finden. Machte doch schon diese Frage bei Gelegenheit von
-					<persName ref="#brahms.johannes">Brahms’</persName> „<title
-					ref="#brahms.requiem">Deutschem Requiem</title>“, welches <sic>ostensibel</sic>
+					<persName key="brahms.johannes">Brahms’</persName> „<title
+					key="brahms.requiem" type="mus">Deutschem Requiem</title>“, welches <sic>ostensibel</sic>
 				nicht einmal prätendirt, Kirchenmusik sein zu wollen, dieses und jenen Kennern und
 				Kritikern viel Kopfzerbrechen. Einer der Letztern brachte sogar damals die überaus
 				schlaue Bemerkung an, das Stück, welches an Stelle des „Dies irae“ im <persName
-					ref="#brahms.johannes">Brahms’schen</persName>
-				<title ref="#brahms.requiem">Requiem</title> sich finde, mache in etwas schnellerm
+					key="brahms.johannes">Brahms’schen</persName>
+				<title key="brahms.requiem" type="mus">Requiem</title> sich finde, mache in etwas schnellerm
 				Tempo den Eindruck eines „Steierischen“. Vielleicht werden solche
-				Verschnellerungsversuche auch im neuesten Werke <persName ref="#verdi.giuseppe"
+				Verschnellerungsversuche auch im neuesten Werke <persName key="verdi.giuseppe"
 					>Verdi’s</persName> angestellt und liefern dann zur Abwechslung neue Cjardas und
 				Polkas. Wundern sollte es sich nicht, denn es sind schon so viele ungeheuerlich
-				klingende, mitunter gänzlich unwahre Dinge über das <title ref="#verdi.requiem"
+				klingende, mitunter gänzlich unwahre Dinge über das <title key="verdi.requiem" type="mus"
 					>Requiem</title> mitgetheilt und verbreitet worden, daß die Versuchung, darin
 				noch Einiges zu leisten, groß sein wird, wenn einmal der dies irae, dies illa
 				hereingebrochen ist, an dem man sein Müthchen daran fühlen kann. Wunderbar ist es
 				jedoch, wie die meisten „eingehend besprechenden“ Kritiker das Werk zwar gehört,
 				aber nicht studirt haben. Es dürfte daher zum mindesten nicht uninteressant sein,
-				über dasselbe von Jemandem zu hören, der das <title ref="#verdi.requiem"
+				über dasselbe von Jemandem zu hören, der das <title key="verdi.requiem" type="mus"
 					>Requiem</title>
 				<choice>
 					<orig>von</orig>
 					<corr resp="tr">für</corr>
 				</choice>
-				<persName ref="#manzoni.alessandro">Manzoni</persName> leider noch nicht gehört,
+				<persName key="manzoni.alessandro">Manzoni</persName> leider noch nicht gehört,
 				wohl aber sorgfältig studirt hat.</p>
 			<p>In diesen Worten ist eigentlich meine volle Meinung über das neueste <persName
-					ref="#verdi.giuseppe">Verdi’sche</persName> Werk schon enthalten: nach dem
+					key="verdi.giuseppe">Verdi’sche</persName> Werk schon enthalten: nach dem
 				Studium desselben muß ich es entschieden wünschen, daß wir bald Gelegenheit haben
 				möchten, es zu hören. Freilich gehört dazu eine so sorgfältige Vorbereitung, wie
-					<persName ref="#verdi.giuseppe">Verdi</persName> sie selbst in <rs
-					ref="#mailand.1874" type="event"><placeName ref="#mailand"
-					>Mailand</placeName></rs> und in <rs ref="#paris.1874" type="event"><placeName
-						ref="#paris">Paris</placeName></rs> geleitet hat. <rs ref="#paris.1874"
+					<persName key="verdi.giuseppe">Verdi</persName> sie selbst in <rs
+					key="mailand.1874" type="event"><placeName key="mailand"
+					>Mailand</placeName></rs> und in <rs key="paris.1874" type="event"><placeName
+						key="paris">Paris</placeName></rs> geleitet hat. <rs key="paris.1874"
 					type="event">Die Aufführung in dieser letztern Stadt hatte beiläufig gesagt
 					einen solchen Erfolg, daß während vierzehn Tagen sechs Wiederholungen
 					stattfanden und eine Gesammt-Einnahme von über hunderttausend Francs
@@ -140,14 +140,14 @@
 				solidarisch gegenseitig, daß die Kunst auch sich selbst Zweck sei. Leider sind dabei
 				auch die meisten unserer musikalischen Aufführungen sich selbst Zweck, das heißt,
 				sie bedeuten kaum mehr als gewöhnliche Proben ohne Unterbrechungen. Um aber dem
-				Publicum von dem <persName ref="#verdi.giuseppe">Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiem</title> eine richtige und schöne Vorstellung zu
+				Publicum von dem <persName key="verdi.giuseppe">Verdi’schen</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> eine richtige und schöne Vorstellung zu
 				geben, dazu gehört mehr als ein zur Noth richtiges Abspielen und Absingen der Noten.
 				Es gehören dazu eine Hingabe und ein ernster Eifer für die Sache, wie sie der
 				Componist selbst seiner Aufgabe gewidmet hat.</p>
 			<p>Schon der Blick auf die ersten Seiten des Werkes genugt, diesen Ernst zu erkennen.
 				Der streng vierstimmige <cb break="yes" n="1c" type="regular"/> Satz <hi
-					rend="antiqua"><title ref="#verdi.requiem">„te decet hymnus“</title></hi> nach
+					rend="antiqua"><title key="verdi.requiem" type="mus">„te decet hymnus“</title></hi> nach
 				der ersten Bitte um ewige Ruhe braucht nicht einen Vergleich mit den besten Mustern
 				zu scheuen. Ich muß gestehen, dieser Satz hat mir die neuerdings sehr erschütterte
 				Überzeugung wieder befestigt, daß unsere Musik in der Weiterentwicklung begriffen
@@ -155,145 +155,145 @@
 				wird vom Chor allein ohne Begleitung vorgetragen, bewegt sich daher, wie es sein
 				muß, in den einfachsten harmonischen Gängen und bringt melodische Folgen von einer
 				Kraft einer- und von einer Süßigkeit andererseits, welche wahrhaft herzerfreuend
-				sind. <hi rend="antiqua"><title ref="#verdi.requiem">„Ad te omnis caro
+				sind. <hi rend="antiqua"><title key="verdi.requiem" type="mus">„Ad te omnis caro
 						veniet“</title></hi> ist trotz der strengen Form (dem Kerne des Ganzen,
-				welche gar keinem deutschen Componisten saußer <persName ref="#brahms.johannes"
-					>Brahms</persName> so wie <persName ref="#verdi.giuseppe">Verdi</persName> zu
+				welche gar keinem deutschen Componisten saußer <persName key="brahms.johannes"
+					>Brahms</persName> so wie <persName key="verdi.giuseppe">Verdi</persName> zu
 				Gebote steht, von einer rührenden, kindlichen, kurz bezaubernden Herzenseinfaclt.
 				Eine Beobachtung drängt sich auch hier auf, welche wir schon in der „<title
-					ref="#verdi.aida">Aida</title>“ machten. <persName ref="#verdi.giuseppe"
+					key="verdi.aida" type="mus">Aida</title>“ machten. <persName key="verdi.giuseppe"
 					>Verdi</persName> versteht die Kunst, durch die Lage, welche er den Tönen eines
 				Accordes gibt, zu charakterisiren. Um nun an die eben erwähnte, letzt vielbekannte
-					„<title ref="#verdi.aida">Aida</title>“ zu erinnern, so sei in dieser Hinsicht
+					„<title key="verdi.aida" type="mus">Aida</title>“ zu erinnern, so sei in dieser Hinsicht
 				auf die Schluß-Accorde des zweiten Actes aufmerksam gemacht. Aus ihrem hellen,
 				klaren Klange leuchtet die Begeisterung für den Kampf gegen die Feinde des
 				Vaterlandes plötzlich hervor wie der erste Strahl der aufgehenden Morgensonne.
-				Aehnlich ist an jener Stelle des <title ref="#verdi.requiem">Requiems</title> durch
+				Aehnlich ist an jener Stelle des <title key="verdi.requiem" type="mus">Requiems</title> durch
 				die Wahl der Accordlagen eine milde Zuversicht in die Stimmung hineingetragen,
 				welche trotz aller Einfachheit der angewendeten Mittel (vier Gesangsstimmen ohne
 				jede Begleitung ! !) den Eindruck der vollständigen Neuheit macht. Der Physiker
-					<persName ref="#helmholtz.hermann">Helmholtz</persName> hat ausführlich an einem
-				der schönsten Kirchenstücke <persName ref="#mozart.wolfgang-amadeus"
+					<persName key="helmholtz.hermann">Helmholtz</persName> hat ausführlich an einem
+				der schönsten Kirchenstücke <persName key="mozart.wolfgang-amadeus"
 					>Mozart’s</persName> nachgewiesen, wie bedeutend die Charakteristik durch die
 				Wahl der Lagen längst bekannter und einfacher Accorde sich gestalten kann.<note
-					resp="tr" type="literatureLink">Vgl. <persName ref="#helmholtz.hermann">Hermann
+					resp="tr" type="literatureLink">Vgl. <persName key="helmholtz.hermann">Hermann
 						von Helmholtz</persName>, <ref
 						target="https://archive.org/stream/b21717114#page/337/mode/1up" type="text"
 						>Die Lehre von den Tonempfindungen als physiologische Grundlage für die
 						Theorie der Musik (Braunschweig 1863); hier: S. 337–340</ref>.</note> Daß
-				auch <persName ref="#verdi.giuseppe">Verdi</persName> dieses Kunstmittel zu
+				auch <persName key="verdi.giuseppe">Verdi</persName> dieses Kunstmittel zu
 				handhaben versteht, befreit seine Composition am allerentschiedensten von den
 				Vorwürfen der „theatralischen Effecthascherei“<!--ZITAT Quelle nicht gefunden-->,
 				mit welchen man nicht eilig genug dieselbe überhäufen konnte.</p>
-			<p>Als nach dem Tode von <persName ref="#mercadante.saverio">Mercadante</persName>
-				<persName ref="#verdi.giuseppe">Verdi</persName> die Ehre zugedacht wurde, oberster
-				Leiter des <placeName ref="#neapel.konservatorium">Conservatoriums</placeName> von
-					<placeName ref="#neapel">Neapel</placeName> — Nachfolger eines <persName
-					cert="high" ref="#scarlatti.alessandro">Scarlatti</persName>, eines <persName
-					ref="#durante.francesco">Durante</persName>, eines <persName ref="#leo.leonardo"
+			<p>Als nach dem Tode von <persName key="mercadante.saverio">Mercadante</persName>
+				<persName key="verdi.giuseppe">Verdi</persName> die Ehre zugedacht wurde, oberster
+				Leiter des <placeName key="neapel.konservatorium">Conservatoriums</placeName> von
+					<placeName key="neapel">Neapel</placeName> — Nachfolger eines <persName
+					cert="high" key="scarlatti.alessandro">Scarlatti</persName>, eines <persName
+					key="durante.francesco">Durante</persName>, eines <persName key="leo.leonardo"
 					>Leo</persName> — zu werden, lehnte er dieselbe ab mit dem Bemerken, daß zur
 				Ueberwachung so ernster Studien ein Mann nöthig sei, der vorzugsweise gelehrt und
 				streng in den Studien sei; es lag darin eigentlich eine herbe Kritik für <persName
-					ref="#mercadante.saverio">Mercadante</persName>, der weder das Eine noch das
+					key="mercadante.saverio">Mercadante</persName>, der weder das Eine noch das
 				Andere gewesen war. Aber in demselben Briefe, in dem er ablehnte (<placeName
-					ref="#genua">Genua</placeName>, <date when-iso="1871-01-05">5. Januar <pb
+					key="genua">Genua</placeName>, <date when-iso="1871-01-05">5. Januar <pb
 						break="yes" facs="#f2" n="2a" type="regular"/>1871</date>), empfiehlt er
-				dringend das Studium <persName ref="#palestrina.giovanni-pierluigi"
+				dringend das Studium <persName key="palestrina.giovanni-pierluigi"
 					>Palestrina’s</persName> und seiner wenigen Zeitgenossen; er schloß mit den
 				Worten: „Kehret zum Alten zurück, das wird ein Fortschritt sein.“<note resp="tr"
 					type="literatureLink">»Torniamo all’antico: sarà un progresso.« Brief von
 					Giuseppe Verdi an Francesco Florimo vom 4. Januar 1871. In: Verdi, Copialettere
-					(1913), S. 232–233 (CCI).</note> Das <title ref="#verdi.requiem">Requiem</title>
+					(1913), S. 232–233 (CCI).</note> Das <title key="verdi.requiem" type="mus">Requiem</title>
 				erscheint an vielfachen Stellen als die praktische Ausführung dieser Weisheit. Wie
-				bei <persName ref="#palestrina.giovanni-pierluigi">Palestrina</persName> der
+				bei <persName key="palestrina.giovanni-pierluigi">Palestrina</persName> der
 				Selbstständigkeit der einzelnen Stimmen sich die Harmonie derartig unterordnen muß,
 				daß diese Musik uns bisweilen befremdlich klingt, so ist in <persName
-					ref="#verdi.giuseppe">Verdi’s</persName> Werk, das ein Compromiß zwischen der
+					key="verdi.giuseppe">Verdi’s</persName> Werk, das ein Compromiß zwischen der
 				modernen und antiken Schreibweise zu nennen sein dürfte, diese Selbstständigkeit
 				wieder zum Stylprincipe gemacht. Das auf den oben besprochenen Satz folgende <hi
-					rend="antiqua">„<title n="kyrie" ref="#verdi.requiem.1">Kyrie eleison, Christe
+					rend="antiqua">„<title n="kyrie" key="verdi.requiem.1" type="mus">Kyrie eleison, Christe
 						eleison</title>“</hi> bekundet dieses zur Genüge. Man spiele oder singe sich
 				die einzelnen Stimmen vor und wird es bestätigt finden. Die Harmonie findet ihren
 				Schwerpunkt dagegen stets im Orchester, und in der mannigfaltigen Näherung und
 				Entfernung dieser beiden Gewalten besteht der große Reiz, den diese Composition
 				ausübt. Besonders bei dem <hi rend="antiqua">„<title
-						ref="#verdi.requiem.2.dies-irae">Dies irae, dies <choice>
+						key="verdi.requiem.2.dies-irae" type="mus">Dies irae, dies <choice>
 							<orig>ille</orig>
 							<corr resp="tr">illa</corr>
 						</choice></title>“</hi> trifft das Orchester diese wichtige Aufgabe, die
 				Harmonie sicher zu leiten. Durchwegs sind Festigkeit und Präcision in den
 				angewandten orchestralen Mitteln. Was die Auswahl derjenigen Theile des <hi
-					rend="antiqua">„<title ref="#verdi.requiem.2">Dies irae</title>“</hi> betrifft,
+					rend="antiqua">„<title key="verdi.requiem.2" type="mus">Dies irae</title>“</hi> betrifft,
 				welche sich für eine rein musikalische Behandlung, also Durchführung u. s. f. von
-				Motiven eignen, so muß ich <persName ref="#verdi.giuseppe">Verdi</persName> vor
-					<persName ref="#mozart.wolfgang-amadeus">Mozart</persName> darin einen Vorzug
-				geben, daß er das <hi rend="antiqua">„<title ref="#verdi.requiem.2.tuba-mirum">Tuba
+				Motiven eignen, so muß ich <persName key="verdi.giuseppe">Verdi</persName> vor
+					<persName key="mozart.wolfgang-amadeus">Mozart</persName> darin einen Vorzug
+				geben, daß er das <hi rend="antiqua">„<title key="verdi.requiem.2.tuba-mirum" type="mus">Tuba
 						mirum spargens sonum</title>“</hi> getrennt hat von dem darauf folgenden <hi
-					rend="antiqua">„<title n="mors-stupebit" ref="#verdi.requiem.2.tuba-mirum">Mors
+					rend="antiqua">„<title n="mors-stupebit" key="verdi.requiem.2.tuba-mirum" type="mus">Mors
 						stupebit</title>“</hi>, welches in der psalmodirenden Weise behandelt ist,
-				wie bei <persName ref="#brahms.johannes">Brahms</persName>: „<title
-					ref="#brahms.requiem">Herr, lehre mich doch, daß es ein Ende mit mir haben
+				wie bei <persName key="brahms.johannes">Brahms</persName>: „<title
+					key="brahms.requiem" type="mus">Herr, lehre mich doch, daß es ein Ende mit mir haben
 					muß</title>“. Das <hi rend="antiqua">„<title
-						ref="#verdi.requiem.2.liber-scriptus">Liber scriptus
+						key="verdi.requiem.2.liber-scriptus" type="mus">Liber scriptus
 					proferetur</title>“</hi> ist eine Fuge von vier Stimmen, so streng und knapp in
-				der Form, wie seit den besten Mustern bei <persName ref="#bach.johann-sebastian"
+				der Form, wie seit den besten Mustern bei <persName key="bach.johann-sebastian"
 					>Bach</persName> nichts geschrieben worden ist.</p>
-			<p>Die Behauptung, das <hi rend="antiqua">„<title ref="#verdi.requiem.2.tuba-mirum">Tuba
-						mirum</title>“</hi> wäre ungenirt von <persName ref="#berlioz.hector"
+			<p>Die Behauptung, das <hi rend="antiqua">„<title key="verdi.requiem.2.tuba-mirum" type="mus">Tuba
+						mirum</title>“</hi> wäre ungenirt von <persName key="berlioz.hector"
 					>Berlioz</persName> her annectirt, ist einfach eine Unwahrheit; wie man
 				überhaupt neben einer so klaren und bis auf die tiefste Tiefe durchsichtigen
-				Conception, wie die <persName ref="#verdi.giuseppe">Verdi’sche</persName> ist, von
-				den durch bizarren Subjectivismus getrübten <persName ref="#berlioz.hector"
+				Conception, wie die <persName key="verdi.giuseppe">Verdi’sche</persName> ist, von
+				den durch bizarren Subjectivismus getrübten <persName key="berlioz.hector"
 					>Berlioz’schen</persName> Sturmfluten reden kann, bleibt mir unbegreiflich; ist
-					<persName ref="#berlioz.hector">Berlioz</persName> eben sich selbst die
-				Hauptsache, so ist für <persName ref="#verdi.giuseppe">Verdi</persName> nur die
-				Kunst da. Und da wagt ein Herr <persName ref="#buelow.hans-von">v. Bülow</persName>,
-				davon zu reden, daß <persName ref="#verdi.giuseppe">Verdi</persName> der
+					<persName key="berlioz.hector">Berlioz</persName> eben sich selbst die
+				Hauptsache, so ist für <persName key="verdi.giuseppe">Verdi</persName> nur die
+				Kunst da. Und da wagt ein Herr <persName key="buelow.hans-von">v. Bülow</persName>,
+				davon zu reden, daß <persName key="verdi.giuseppe">Verdi</persName> der
 				allgewaltige Verderber des italienischen Kunstgeschmackes sei. Wenn die Italiener
-					<persName ref="#verdi.giuseppe">Verdi</persName> endlich auch einmal als den
+					<persName key="verdi.giuseppe">Verdi</persName> endlich auch einmal als den
 				Fahnenträger im Gebiete des Schönen feiern, während sie sonst seinen Opern
 				politischen Beigeschmack abzugewinnen <cb break="yes" n="2b" type="regular"/>
 				suchten, so ist das fürwahr kein Zeichen von Verderbniß des Geschmackes. Auch
-					<persName ref="#rossini.gioachino">Rossini</persName> hatte zwar einst seinem
+					<persName key="rossini.gioachino">Rossini</persName> hatte zwar einst seinem
 				Rivalen als charakteristische Kopfbedeckung einen Helm zugewiesen, doch bei seinem
-				Bonmot vergessen, daß <persName ref="#verdi.giuseppe">Verdi</persName> eines Tages
+				Bonmot vergessen, daß <persName key="verdi.giuseppe">Verdi</persName> eines Tages
 				den Helm ablegen und doch als ganzer Mann weiter kämpfen könnte!</p>
 			<p>Auf jene durch ihr wundervolles Motiv und ihren kühnen und doch logischen Aufbau
 				ausgezeichnete Fuge folgt abermals der erste Theil des <hi rend="antiqua">„<title
-						ref="#verdi.requiem.2">Dies irae</title>“</hi>, dann als Terzett für Sopran,
+						key="verdi.requiem.2" type="mus">Dies irae</title>“</hi>, dann als Terzett für Sopran,
 				Alt und Tenor (theilweise ohne jede Begleitung) das <hi rend="antiqua">„<title
-						ref="#verdi.requiem.2.quid-sum-miser">Quid sum miser tunc
+						key="verdi.requiem.2.quid-sum-miser" type="mus">Quid sum miser tunc
 					dicturus</title>“</hi> und als Baß-Solo das <hi rend="antiqua">„<title
-						ref="#verdi.requiem.2.rex-tremendae">Rex<supplied resp="tr"
+						key="verdi.requiem.2.rex-tremendae" type="mus">Rex<supplied resp="tr"
 							> </supplied>tre<surplus resp="tr"> </surplus>mendae
 					majestatis</title>“</hi>, während alle Soli und Chöre an dem <hi rend="antiqua"
-						>„<title n="salva-me" ref="#verdi.requiem.2.rex-tremendae">Salva
+						>„<title n="salva-me" key="verdi.requiem.2.rex-tremendae" type="mus">Salva
 					me</title>“</hi> nach und nach theilnehmen. Der Schluß dieser Abtheilung ist in
 				der weichen Stimmung des ersten Satzes des <hi rend="antiqua">„<title
-						ref="#verdi.requiem">Requiem</title>“</hi> gehalten. <hi rend="antiqua"
-						>„<title ref="#verdi.requiem.2.recordare">Recordare pie Jesu</title>“</hi>
+						key="verdi.requiem" type="mus">Requiem</title>“</hi> gehalten. <hi rend="antiqua"
+						>„<title key="verdi.requiem.2.recordare" type="mus">Recordare pie Jesu</title>“</hi>
 				ist ein Duett für Sopran und Alt, während dem Tenor das <hi rend="antiqua">„<title
-						ref="#verdi.requiem.2.ingemisco">Ingemisco</title>“</hi> und das rührende
-					<hi rend="antiqua">„<title n="qui-mariam" ref="#verdi.requiem.2.ingemisco">Qui
+						key="verdi.requiem.2.ingemisco" type="mus">Ingemisco</title>“</hi> und das rührende
+					<hi rend="antiqua">„<title n="qui-mariam" key="verdi.requiem.2.ingemisco" type="mus">Qui
 						Mariam absolvisti</title>“</hi> zuertheilt ist. Das <hi rend="antiqua"
-						>„<title ref="#verdi.requiem.2.confutatis">Confutatis</title>“</hi> singt
+						>„<title key="verdi.requiem.2.confutatis" type="mus">Confutatis</title>“</hi> singt
 				der Baß in einfacher melodischer Folge; nichts von einem „Gegeneinandersausen
 				chromatischer Gänge“<note resp="tr" type="textLink">Vgl. <persName
-						ref="#reyer.ernest">Ernest Reyer</persName>, <ref
+						key="reyer.ernest">Ernest Reyer</persName>, <ref
 						target="jdd_1874-06-1_feuilleton.xml" type="text">Journal des Débats, Paris,
 						14. Juni 1874</ref>: »gammes chromatiques en mouvement contraire«.</note>,
 				wie ein großer Kritiker vor dem Herrn vernommen haben will, nicht die entfernteste
-				Aehnlichkeit mit der Auffassung <persName ref="#mozart.wolfgang-amadeus"
+				Aehnlichkeit mit der Auffassung <persName key="mozart.wolfgang-amadeus"
 					>Mozart’s</persName>. Auch das <hi rend="antiqua">„<title n="oro-supplex"
-						ref="#verdi.requiem.2.confutatis">Oro supplex</title>“</hi> mit seinen
+						key="verdi.requiem.2.confutatis" type="mus">Oro supplex</title>“</hi> mit seinen
 				Quinten in der Begleitung <hi rend="antiqua">à la</hi>
-				<persName ref="#haendel.georg-friedrich">Händel</persName> ist in der Auffassung an
-				der entsprechenden Stelle bei <persName ref="#mozart.wolfgang-amadeus"
+				<persName key="haendel.georg-friedrich">Händel</persName> ist in der Auffassung an
+				der entsprechenden Stelle bei <persName key="mozart.wolfgang-amadeus"
 					>Mozart</persName> sehr verschieden, was sich schon äußerlich dadurch
-				kennzeichnet, daß es dort der Chor, hier bei <persName ref="#verdi.giuseppe"
+				kennzeichnet, daß es dort der Chor, hier bei <persName key="verdi.giuseppe"
 					>Verdi</persName> der Solo-Bassist singt. So wundervolle Harmonien <persName
-					ref="#mozart.wolfgang-amadeus">Mozart</persName> an jener Stelle offenbart,
-					<persName ref="#verdi.giuseppe">Verdi’s</persName> klare und eindringliche
+					key="mozart.wolfgang-amadeus">Mozart</persName> an jener Stelle offenbart,
+					<persName key="verdi.giuseppe">Verdi’s</persName> klare und eindringliche
 				Solo-Melodie versetzt uns nicht minder in die dem Texte entsprechende Stimmung. Am
 				Schlusse ereignet sich nun die angebliche Ungeheuerlichkeit des Ueberganges von <hi
 					rend="antiqua">E-dur</hi> nach <hi rend="antiqua">G-moll</hi>; doch kann nur die
@@ -301,74 +301,74 @@
 				an diesem Uebergange ihr Recht, indem der Solosänger auf <hi rend="antiqua">Fis</hi>
 				nach vorhergehendem Dominanten-Accorde zu <hi rend="antiqua widespace">E-moll</hi>
 				eine Fermate hat und eine Cadenz macht, welche recht gut nach der ursprünglichen
-				Tonstufe des <hi rend="antiqua">„<title ref="#verdi.requiem.2.dies-irae">Dies
+				Tonstufe des <hi rend="antiqua">„<title key="verdi.requiem.2.dies-irae" type="mus">Dies
 						irae</title>“</hi> führt; auch wird dann der Anfangssatz wiederholt.</p>
-			<p>In dem darauffolgenden <hi rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa"
+			<p>In dem darauffolgenden <hi rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus"
 						>Lacrymosa</title></hi> kommt ein a capella-Satz für sämmtliche Solostimmen
 				und den Chor mit wunderbaren Harmonien vor und bald darauf schließt das <hi
-					rend="antiqua">„<title ref="#verdi.requiem.2">Dies irae</title>“</hi>. So viel
+					rend="antiqua">„<title key="verdi.requiem.2" type="mus">Dies irae</title>“</hi>. So viel
 				mir bekannt ist, hat noch kein Componist dieser Hymne die musikalische Form dabei so
-				sehr berücksichtigt wie <persName ref="#verdi.giuseppe">Verdi</persName>; durch das
+				sehr berücksichtigt wie <persName key="verdi.giuseppe">Verdi</persName>; durch das
 				Wiederbringen des Hauptsatzes <hi rend="antiqua">„Dies irae“</hi> an sehr geeigneten
 				Stellen erhält das Ganze <cb break="yes" n="2c" type="regular"/>ein festes Gefüge,
 				indem sich der Zuhörer trotz der Mannigfaltigkeit der einzelnen Theile sehr wohl
-				zurechtfindet. Aber gerade des <hi rend="antiqua">„<title ref="#verdi.requiem.2"
+				zurechtfindet. Aber gerade des <hi rend="antiqua">„<title key="verdi.requiem.2" type="mus"
 						>Dies irae</title>“</hi> wegen hat man dieser Musik die Berechtigung des
 				Prädicates „Kirchenmusik“ abgesprochen. Sonderbar, daß gerade hierin gegen alle
-				früheren Bearbeiter desselben Gegenstandes <persName ref="#verdi.giuseppe"
+				früheren Bearbeiter desselben Gegenstandes <persName key="verdi.giuseppe"
 					>Verdi</persName> einen Fortschritt gemacht hat, dessen Bedeutung die Zuhörer im
 				Allgemeinen wohlthuend empfinden, die Kenner nicht unterschätzen dürften.</p>
-			<p>Eine gleiche Formvollendung offenbart sich im <title ref="#verdi.requiem.3"
+			<p>Eine gleiche Formvollendung offenbart sich im <title key="verdi.requiem.3" type="mus"
 					>Offertorium</title>, aus dem wir die Fuge: <hi rend="antiqua">„<title
-						n="quam-olim-abrahae" ref="#verdi.requiem.3">Qui olim Abrahae
+						n="quam-olim-abrahae" key="verdi.requiem.3" type="mus">Qui olim Abrahae
 						promisisti</title>“</hi> und den Gesang des Tenors: <hi rend="antiqua"
-						>„<title n="hostias" ref="#verdi.requiem.3">Hostias <choice>
+						>„<title n="hostias" key="verdi.requiem.3" type="mus">Hostias <choice>
 							<orig>ac</orig>
 							<corr resp="tr">et</corr>
 						</choice> preces</title>“</hi> hervorheben. Wer von dem letztern nicht
 				gerührt wird, wer dabei nicht das Weihevolle und Ueberirdische der Stimmung in sich
 				spürt, der ist überhaupt für Musik nicht zugänglich. Ich wüßte dieser sanften
 				Melodie Weniges zur Seite zu stellen; gewiß aber ist es nur das Beste in dieser Art,
-				wie zum Beispiel eine ähnliche Stelle aus der <persName ref="#beethoven.ludwig-van"
+				wie zum Beispiel eine ähnliche Stelle aus der <persName key="beethoven.ludwig-van"
 					>Beethoven’schen</persName>
-				<hi rend="antiqua"><title ref="#beethoven.missa-solemnis">Missa
-					solemnis</title></hi> im <title ref="#beethoven.missa-solemnis.credo"
+				<hi rend="antiqua"><title key="beethoven.missa-solemnis" type="mus">Missa
+					solemnis</title></hi> im <title key="beethoven.missa-solemnis.credo" type="mus"
 					>Credo</title>: <hi rend="antiqua">„Et incarnatus est“</hi>. Mit der
-				contrapunktischen Kunst im <title ref="#verdi.requiem.4">Sanctus</title> ergeht es
-					<persName ref="#verdi.giuseppe">Verdi</persName>, wie es damit <persName
-					ref="#bach.johann-sebastian">Sebastian Bach</persName> bei vielen Leuten zu
+				contrapunktischen Kunst im <title key="verdi.requiem.4" type="mus">Sanctus</title> ergeht es
+					<persName key="verdi.giuseppe">Verdi</persName>, wie es damit <persName
+					key="bach.johann-sebastian">Sebastian Bach</persName> bei vielen Leuten zu
 				gehen pflegt: sie lassen dieselbe gelten; im Uebrigen, denken sie aber, gehe sie die
 				Sache nichts an. Und doch, wie wenige Künstler wissen heute ihre Kenntnisse mit
-				solcher Freiheit zu handhaben wie <persName ref="#verdi.giuseppe">Verdi</persName>
+				solcher Freiheit zu handhaben wie <persName key="verdi.giuseppe">Verdi</persName>
 				in dieser Fuge und in der Schlußfuge: <hi rend="antiqua">„<title n="libera-me.fuga"
-						ref="#verdi.requiem.7">Libera me</title>“</hi>? Herr <persName
-					ref="#buelow.hans-von">v. Bülow</persName> hat darin Schülerhaftigkeiten und
+						key="verdi.requiem.7" type="mus">Libera me</title>“</hi>? Herr <persName
+					key="buelow.hans-von">v. Bülow</persName> hat darin Schülerhaftigkeiten und
 				Abgeschmacktheiten entdeckt;<note resp="tr" type="textLink">Vgl. <ref
 						target="az_1874-05-28_mailand.xml" type="text">Allgemeine Zeitung, Augsburg,
 						28. Mai 1874</ref>.</note> Andere haben wieder <persName
-					ref="#cherubini.luigi">Cherubini</persName> sich vor ihnen voll Achtung und
+					key="cherubini.luigi">Cherubini</persName> sich vor ihnen voll Achtung und
 				Bewunderung verneigen lassen.<note resp="tr" type="textLink">Vgl. <persName
-						ref="#reyer.ernest">Ernest Reyer</persName>, <ref
+						key="reyer.ernest">Ernest Reyer</persName>, <ref
 						target="jdd_1874-06-1_feuilleton.xml" type="text">Journal des Débats, Paris,
 						14. Juni 1874</ref>.</note></p>
 			<p>Solche Urtheile werden wahrscheinlich durch einen „gesungenen <title
-					ref="#meyerbeer.l-africaine.5.21.grande-scene-du-mancenillier"
+					key="meyerbeer.l-africaine.5.21.grande-scene-du-mancenillier" type="mus"
 					>Manzanillobaum</title>“, wie man nicht verfehlen wird, die <hi rend="antiqua"
 					>Pianissimo unisono</hi>-Einleitung des <hi rend="antiqua"><title
-						ref="#verdi.requiem.5">Agnus dei</title></hi> zu nennen, und andere
+						key="verdi.requiem.5" type="mus">Agnus dei</title></hi> zu nennen, und andere
 				ähnlichen Kalibers vermehrt werden. Sie liefern nur zu sehr den Beweis dafür, daß
 				noch immer nicht eine musikalische Composition aus sich selbst heraus beurtheilt,
 				sondern stets mit Maßstäben gemessen wird, die irgendwo gefunden sind, bei denen es
 				auf eine Handvoll Noten, ja selbst auf einen ganz erheblichen Grad von Genauigkeit
 				gar nicht ankommt. Wenn sie nur ein Stichwort enthalten, so genügen sie. Desto
 				besser aber sind sie, wenn die mehrfache Bedeutung von „Stichwort“ bei ihnen zur
-				Geltung kommt. <persName ref="#verdi.giuseppe">Verdi</persName> hat vollauf über
+				Geltung kommt. <persName key="verdi.giuseppe">Verdi</persName> hat vollauf über
 				sich solche Urtheile ergehen lassen müssen — unbeirrt hat er weiter gestrebt. Das
-				würdige Denkmal, welches er in dem <title ref="#verdi.requiem">Requiem</title>
+				würdige Denkmal, welches er in dem <title key="verdi.requiem" type="mus">Requiem</title>
 				seinem berühmten Landsmanne gesetzt hat, ist eine Frucht dieses Strebens, es gebührt
-				ihm das Motto: <hi rend="antiqua"><term ref="#per--astra">„Per aspera ad
+				ihm das Motto: <hi rend="antiqua"><term key="per--astra">„Per aspera ad
 						astra“</term></hi>.</p>
-			<p rend="right"><hi rend="widespace"><persName ref="#gehring.franz">Franz
+			<p rend="right"><hi rend="widespace"><persName key="gehring.franz">Franz
 						Gehring</persName></hi>.</p>
 		</body>
 	</text>

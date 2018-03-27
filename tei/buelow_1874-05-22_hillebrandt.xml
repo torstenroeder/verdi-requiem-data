@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Hans von Bülow, Brief an Karl Hillebrand, Mailand, 22. Mai 1874</title>
-				<author><persName ref="#buelow.hans-von"/></author>
+				<author><persName key="buelow.hans-von"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,7 +13,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<placeName ref="#mailand"/>
+					<placeName key="mailand"/>
 					<date when-iso="1874-05-22"/>
 				</bibl>
 				<bibl>
@@ -25,7 +25,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#mailand"/><date when-iso="1874-05-22"/></creation>
+			<creation><placeName key="mailand"/><date when-iso="1874-05-22"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -45,10 +45,10 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p rend="right"><hi rend="widespace"><placeName ref="#mailand">Mailand</placeName></hi>,
+			<p rend="right"><hi rend="widespace"><placeName key="mailand">Mailand</placeName></hi>,
 					<date when-iso="1874-05-22">22. Mai 1874</date></p>
 			<gap resp="tr"/>
-			<p>Der Artikel (sind deren zwei geworden) für <orgName ref="#allgemeine-zeitung">A.
+			<p>Der Artikel (sind deren zwei geworden) für <orgName key="allgemeine-zeitung">A.
 					Z.</orgName> hat mir zwei Tage zu schaffen gegeben. Allerlei unerwartete
 				Behelligungen störten mich im Schreiben und machten mich zum nervösesten
 				Katzenonkel. Bin auch leider gar nicht zufrieden mit meinem Elaborate — habe so
@@ -56,17 +56,17 @@
 				Redaktion nicht sonderlich erbaut sein wird und meine Mailänder Musikbriefe
 				ungedruckt läßt — was ich auch gar nicht übel nehmen würde. Glauben Sie aber nicht,
 				daß es möglich wäre, mein Manuscript zurückzuerhalten (ich würde es dann für die
-					<orgName ref="#mwb">musikalische Wochenschrift</orgName> verwerthen, für die es
+					<orgName key="mwb">musikalische Wochenschrift</orgName> verwerthen, für die es
 				immerhin gut genug bleibt)? Wären Sie für diesen Fall einer neuen Aufopferung
 				fährig, nämlich sich — an Ihre Adresse — die Blätter von der Redaktion
 				zurückzuerbitten? Vielleicht druckt man’s übrigens auch.</p>
 			<p>Ich bin sehr erbittert über die Italiäner, habe sie als Gesindel behandelt
 				(verdienen’s auch musikalisch) — habe natürlich trotz syndicaler Einladung heute <rs
-					ref="#mailand.1874.1" type="event">die <persName ref="#verdi.giuseppe"
+					key="mailand.1874.1" type="event">die <persName key="verdi.giuseppe"
 						>Verdi’sche</persName>
-					<title ref="#verdi.requiem">Messe</title></rs> geschwänzt. Hand in Hand mit
+					<title key="verdi.requiem" type="mus">Messe</title></rs> geschwänzt. Hand in Hand mit
 				dieser <hi rend="antiqua">rabbia</hi> geht natürlich ein starkes <hi rend="antiqua"
-					>engouement</hi> für <persName ref="#glinka.michael">Glinka</persName> und
+					>engouement</hi> für <persName key="glinka.michael">Glinka</persName> und
 				Alles, was nach Juchten riecht. Kennen Sie kein nervencalmirendes Mittel? <gap
 					resp="tr"/></p>
 		</body>

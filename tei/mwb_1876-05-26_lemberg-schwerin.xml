@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#mwb" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="mwb" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date when-iso="1876-05-26"/>
 					<biblScope unit="issue">22</biblScope>
 					<biblScope unit="volume">7</biblScope>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#lemberg"/><placeName ref="#schwerin"/></creation>
+			<creation><placeName key="lemberg"/><placeName key="schwerin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -46,13 +46,13 @@
 		<body rend="antiqua">
 			<head rend="lineale bold">Aufgeführte Novitäten.</head>
 			<pb break="null" facs="#f1" n="288" type="skipped"/>
-			<p rend="hanging"><persName ref="#verdi.giuseppe">Verdi (G.)</persName>, <title
-					ref="#verdi.requiem">Requiem</title>. (<rs ref="#lemberg.1876" type="event"
-						><placeName ref="#lemberg">Lemberg</placeName>, Aufführungen am <date
+			<p rend="hanging"><persName key="verdi.giuseppe">Verdi (G.)</persName>, <title
+					key="verdi.requiem" type="mus">Requiem</title>. (<rs key="lemberg.1876" type="event"
+						><placeName key="lemberg">Lemberg</placeName>, Aufführungen am <date
 						when-iso="1876-04-09">9.</date> u. <date when-iso="1876-04-10">10.
 						April</date>.</rs>
-				<rs ref="#schwerin.1876" type="event"><placeName ref="#schwerin"
-						>Schwerin</placeName>, Conc. im <placeName ref="#schwerin.hoftheater"
+				<rs key="schwerin.1876" type="event"><placeName key="schwerin"
+						>Schwerin</placeName>, Conc. im <placeName key="schwerin.hoftheater"
 						>Hoftheater</placeName> am <date when-iso="1876-04-16">16.
 					April</date>.</rs>)</p>
 		</body>

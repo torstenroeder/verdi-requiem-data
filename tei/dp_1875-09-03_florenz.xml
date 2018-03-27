@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#die-presse"/>
-					<placeName ref="#wien"/>
+					<orgName key="die-presse"/>
+					<placeName key="wien"/>
 					<date when-custom="fri" when-iso="1875-09-03"/>
 					<biblScope unit="issue">244</biblScope>
 					<biblScope unit="subIssue">244</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#florenz"/></creation>
+			<creation><placeName key="florenz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -45,16 +45,16 @@
 		<body rend="fraktur">
 			<head rend="larger">Kleine Chronik.</head>
 			<cb break="null" n="3b" type="skipped"/>
-			<p>[Das Programm zur <persName ref="#buonarroti.michelangelo"
-				>Michelangelo</persName>-Feier], „um <persName ref="#buonarroti.michelangelo"
-					>Michelangelo</persName> durch <persName ref="#buonarroti.michelangelo"
+			<p>[Das Programm zur <persName key="buonarroti.michelangelo"
+				>Michelangelo</persName>-Feier], „um <persName key="buonarroti.michelangelo"
+					>Michelangelo</persName> durch <persName key="buonarroti.michelangelo"
 					>Michelangelo</persName> zu ehren“, enthält in seiner Vollständigkeit folgende
 				Punkte: <gap resp="tr"/>
-				<rs ref="#florenz.1875" type="event">Am <date when-iso="1875-09-19">19.</date>,
+				<rs key="florenz.1875" type="event">Am <date when-iso="1875-09-19">19.</date>,
 						<date when-iso="1875-09-20">20.</date>, <date when-iso="1875-09-22"
 						>22.</date> und <date when-iso="1875-09-24">24.</date> wird das <persName
-						ref="#verdi.giuseppe">Verdi’sche</persName>
-					<title ref="#verdi.requiem">Requiem</title> aufgeführt werden.</rs>
+						key="verdi.giuseppe">Verdi’sche</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> aufgeführt werden.</rs>
 				<gap resp="tr"/></p>
 		</body>
 	</text>

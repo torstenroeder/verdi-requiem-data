@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#grazer-volksblatt" role="publisher"/>
-					<placeName ref="#graz"/>
+					<orgName key="grazer-volksblatt" role="publisher"/>
+					<placeName key="graz"/>
 					<date when-iso="1875-10-30"/>
 					<biblScope unit="issue">249</biblScope>
 					<biblScope unit="volume">8</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#graz"/></creation>
+			<creation><placeName key="graz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -42,15 +42,15 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger"><placeName ref="#graz.landes-theater">Landes-Theater</placeName> in
-					<placeName ref="#graz">Graz</placeName>.</head>
+			<head rend="larger"><placeName key="graz.landes-theater">Landes-Theater</placeName> in
+					<placeName key="graz">Graz</placeName>.</head>
 			<gap resp="tr"/>
 			<p rend="center">Nachricht.<lb break="yes"/>
-				<rs ref="#graz.1875.1 graz.1875.2" type="event">Am <date when-iso="1875-10-01"
+				<rs key="graz.1875.1 graz.1875.2" type="event">Am <date when-iso="1875-10-01"
 						>1.</date> und <date when-iso="1875-10-02">2. November</date><lb break="yes"/>
 					<hi rend="bold widespace">Nachmittags 4 Uhr:</hi><lb break="yes"/>
-					<hi rend="larger"><title ref="#verdi.requiem">Requiem</title></hi><lb
-						break="yes"/> von <persName ref="#verdi.giuseppe">Giuseppe
+					<hi rend="larger"><title key="verdi.requiem" type="mus">Requiem</title></hi><lb
+						break="yes"/> von <persName key="verdi.giuseppe">Giuseppe
 					Verdi</persName>.</rs></p>
 		</body>
 	</text>

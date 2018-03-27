@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#muenchener-nachrichten" role="publisher"/>
-					<placeName ref="#muenchen"/>
+					<orgName key="muenchener-nachrichten" role="publisher"/>
+					<placeName key="muenchen"/>
 					<date when-iso="1876-03-24"/>
 					<biblScope unit="issue">84</biblScope>
 					<series>mn</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#muenchen"/></creation>
+			<creation><placeName key="muenchen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -37,29 +37,29 @@
 	<!--<graphic n="mn_1876-03-24_4.jpg"/>-->
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p>— <rs ref="#muenchen.1875.1" type="event"><hi rend="bold">(<persName
-							ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title>)</hi> gelangte hier schon vor
-					einigen Monaten im <placeName ref="#muenchen.odeon">k. Odeon</placeName> zur
-					ersten Aufführung</rs>; <rs ref="#muenchen.1875.2" type="event">eine zweite fand
+			<p>— <rs key="muenchen.1875.1" type="event"><hi rend="bold">(<persName
+							key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title>)</hi> gelangte hier schon vor
+					einigen Monaten im <placeName key="muenchen.odeon">k. Odeon</placeName> zur
+					ersten Aufführung</rs>; <rs key="muenchen.1875.2" type="event">eine zweite fand
 					am <date when-iso="1876-03-21">21. März</date> im <placeName
-						ref="#muenchen.hoftheater">Hoftheater</placeName> statt</rs>. Das <title
-					ref="#verdi.requiem">Requiem</title> ist nicht ohne große Schönheiten und gehört
+						key="muenchen.hoftheater">Hoftheater</placeName> statt</rs>. Das <title
+					key="verdi.requiem" type="mus">Requiem</title> ist nicht ohne große Schönheiten und gehört
 				entschieden zu den bedeutendsten musikalischen Tonschöpfungen der Gegenwart. Am
-				wirkungsvollsten ist das <hi rend="antiqua"><title ref="#verdi.requiem.2">Dies irae
+				wirkungsvollsten ist das <hi rend="antiqua"><title key="verdi.requiem.2" type="mus">Dies irae
 						dies illa</title></hi> — ein großartiges Tongemälde, welches den Schrecken
 				des jüngsten Gerichtes Ausdruck giebt. Das <hi rend="antiqua"><title
-						ref="#verdi.requiem.6">Lux aeterna luceat eis</title></hi> beweist, daß <hi
-					rend="widespace"><persName ref="#verdi.giuseppe">Verdi</persName></hi> denn doch
-				bei Meister <persName ref="#wagner.richard">Wagner</persName> ein wenig in die
+						key="verdi.requiem.6" type="mus">Lux aeterna luceat eis</title></hi> beweist, daß <hi
+					rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> denn doch
+				bei Meister <persName key="wagner.richard">Wagner</persName> ein wenig in die
 				Schule gegangen. — Das Opernhafte, Sinnliche der ganzen Musik mag für ein Requiem
 				nicht passen, es wirkt aber im Konzertsaale und Theater um so besser. Die Aufführung
 				kann als eine gelungene bezeichnet werden. Die Soli wurden gesungen von den Damen
-					<persName ref="#radecke.luise">Radecke</persName> und <persName
-					ref="#schefsky.josephine">Schefzky</persName>, den Herren <persName
-					ref="#bausewein.kaspar">Bausewein</persName> und <persName ref="#nachbaur.franz"
+					<persName key="radecke.luise">Radecke</persName> und <persName
+					key="schefsky.josephine">Schefzky</persName>, den Herren <persName
+					key="bausewein.kaspar">Bausewein</persName> und <persName key="nachbaur.franz"
 					>Nachbaur</persName>.</p>
-			<p><persName ref="#ludwig-ii.bayern">Seine Majestät</persName> erschien nach acht Uhr in
+			<p><persName key="ludwig-ii.bayern">Seine Majestät</persName> erschien nach acht Uhr in
 				der Königsloge und verweilte darin bis zum Schlusse.</p>
 		</body>
 	</text>

@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#neue-freie-presse"/>
-					<placeName ref="#wien"/>
+					<orgName key="neue-freie-presse"/>
+					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1874-06-11"/>
 					<biblScope unit="issue">3517</biblScope>
 					<series>nfp</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#rom"/></creation>
+			<creation><placeName key="rom"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,49 +40,49 @@
 			<cb break="null" n="6b" type="initial"/>
 			<head rend="larger">Theater- und Kunstnachrichten.</head>
 			<cb break="null" n="6c" type="skipped"/>
-			<p>— Man schreibt uns aus <hi rend="widespace"><placeName ref="#rom"
+			<p>— Man schreibt uns aus <hi rend="widespace"><placeName key="rom"
 					>Rom</placeName></hi>, <date when-iso="1874-06-02">2. Juni</date>: Die
 				oberitalienischen Blätter befassen sich seit einigen Tagen sehr eingehend mit
-					<persName ref="#buelow.hans-von">Hanns v. Bülow</persName>, und zwar in einer
+					<persName key="buelow.hans-von">Hanns v. Bülow</persName>, und zwar in einer
 				Weise, welche dem deutschen Musiker nicht angenehm sein dürfte. <persName
-					ref="#buelow.hans-von">Bülow</persName>, dessen Name auch in <placeName
-					ref="#italien">Italien</placeName> einen guten Klang hatte, weilte <rs
-					ref="#mailand.1874" type="event">während der Aufführung der rasch berühmt
-					gewordenen <title ref="#verdi.requiem">Messe</title>
-					<persName ref="#verdi.giuseppe">Verdi’s</persName> zu Ehren des verstorbenen
-						<persName ref="#manzoni.alessandro">Manzoni</persName> in <placeName
-						ref="#mailand">Mailand</placeName></rs>. Enthusiastische Anhänger <persName
-					ref="#verdi.giuseppe">Verdi’s</persName> fragten nun <persName
-					ref="#buelow.hans-von">Bülow</persName> um sein Urtheil über das neueste Werk
-				des italienischen Maestro. <persName ref="#buelow.hans-von">Bülow</persName> zeigte
+					key="buelow.hans-von">Bülow</persName>, dessen Name auch in <placeName
+					key="italien">Italien</placeName> einen guten Klang hatte, weilte <rs
+					key="mailand.1874" type="event">während der Aufführung der rasch berühmt
+					gewordenen <title key="verdi.requiem" type="mus">Messe</title>
+					<persName key="verdi.giuseppe">Verdi’s</persName> zu Ehren des verstorbenen
+						<persName key="manzoni.alessandro">Manzoni</persName> in <placeName
+						key="mailand">Mailand</placeName></rs>. Enthusiastische Anhänger <persName
+					key="verdi.giuseppe">Verdi’s</persName> fragten nun <persName
+					key="buelow.hans-von">Bülow</persName> um sein Urtheil über das neueste Werk
+				des italienischen Maestro. <persName key="buelow.hans-von">Bülow</persName> zeigte
 				sich darüber sehr indigniert und meinte, man könne ihm nicht zumuthen, <persName
-					ref="#verdi.giuseppe">Verdi’sche</persName> Machwerke anzuhören. Rasch fand
+					key="verdi.giuseppe">Verdi’sche</persName> Machwerke anzuhören. Rasch fand
 				diese schroffe Aeußerung ihren Weg in die Oeffentlichkeit und erregte einen wahren
 				Sturm von Entrüstung. Die Journale leitartikelten darüber, und während sich einige
-				darauf beschränkte, Herrn <persName ref="#buelow.hans-von">Bülow</persName>
+				darauf beschränkte, Herrn <persName key="buelow.hans-von">Bülow</persName>
 				schlechtweg jedes Urtheil abzusprechen, verlangten andere sie Intervention des —
 				Irrenarztes oder gar das Recht des —Prügels. Der <orgName
-					ref="#l-osservatore-cattolico">Osservatore Cattolico</orgName> benützte
-					<persName ref="#buelow.hans-von">Bülow’s</persName> Unklugheit, um den Italiener
+					key="l-osservatore-cattolico">Osservatore Cattolico</orgName> benützte
+					<persName key="buelow.hans-von">Bülow’s</persName> Unklugheit, um den Italiener
 				das Verderbliche der preußisch-deutschen Allianz vorzudemonstriren, und selbst
-				ruhige Journale, wie die <orgName ref="#la-perseveranza">Perseveranza</orgName>,
+				ruhige Journale, wie die <orgName key="la-perseveranza">Perseveranza</orgName>,
 				schäumen vor Wuth und predigen nahezu einen Feldzug gegen deutsche Musik. Herr
-					<persName ref="#buelow.hans-von">v. Bülow</persName> hat es mit <placeName
-					ref="#italien">Italien</placeName> gründlich verdorben. Sollte er einmal wagen,
+					<persName key="buelow.hans-von">v. Bülow</persName> hat es mit <placeName
+					key="italien">Italien</placeName> gründlich verdorben. Sollte er einmal wagen,
 				vor einem italienischen Publicum aufzutreten, dann dürfte er die Früchte seiner
 				unvorsichtigen Aeußerung wol ernten. Allein auch andere deutsche Künstler, die
-				namentlich in der letzten Zeit in <placeName ref="#italien">Italien</placeName>
+				namentlich in der letzten Zeit in <placeName key="italien">Italien</placeName>
 				gerne gehört wurden, werden unter der Unvorsichtigkeit <persName
-					ref="#buelow.hans-von">Bülow’s</persName> zu leiden haben. Das italienische
-				Publicum hält die <persName ref="#verdi.giuseppe">Verdi</persName> angethane Insulte
+					key="buelow.hans-von">Bülow’s</persName> zu leiden haben. Das italienische
+				Publicum hält die <persName key="verdi.giuseppe">Verdi</persName> angethane Insulte
 				für eine Beleidigung der Nation und scheint nicht übel geneigt zu sein, in Herrn
-					<persName ref="#buelow.hans-von">v. Bülow</persName> den Repräsentanten der
+					<persName key="buelow.hans-von">v. Bülow</persName> den Repräsentanten der
 				deutschen Nation, der deutschen Künstlerwelt zum mindesten zu erblicken. Wenn auch
-				die deutsche Künstlerwelt ähnlich über <persName ref="#verdi.giuseppe"
-					>Verdi</persName> denkt, wie Herr <persName ref="#buelow.hans-von">v.
+				die deutsche Künstlerwelt ähnlich über <persName key="verdi.giuseppe"
+					>Verdi</persName> denkt, wie Herr <persName key="buelow.hans-von">v.
 					Bülow</persName>, dürfte sie doch nicht geneigt sein, ihr Urtheil in einer so
 				provocirenden tactlosen Weise auszusprechen, wie dies Herrn <persName
-					ref="#buelow.hans-von">Bülow</persName> beliebte.</p>
+					key="buelow.hans-von">Bülow</persName> beliebte.</p>
 		</body>
 	</text>
 </TEI>
