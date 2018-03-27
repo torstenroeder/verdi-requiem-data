@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#salzburger-volksblatt"/>
-					<placeName ref="#salzburg"/>
+					<orgName key="salzburger-volksblatt"/>
+					<placeName key="salzburg"/>
 					<date when-custom="tue" when-iso="1876-03-14"/>
 					<biblScope unit="issue">31</biblScope>
 					<biblScope unit="volume">6</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -44,37 +44,37 @@
 			<pb break="null" n="3" type="initial"/>
 			<head rend="larger">Salzburger Nachrichten.</head>
 			<gap resp="tr"/>
-			<p><hi rend="bold"><persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title>.</hi>
-				<rs ref="#salzburg.1876" type="event"><persName ref="#verdi.giuseppe"
-						>Verdi’s</persName> großes <title ref="#verdi.requiem">Requiem</title> wird
-					unter Leitung des Herrn Mozarteums-Directors Dr. <persName ref="#bach.otto">O.
+			<p><hi rend="bold"><persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title>.</hi>
+				<rs key="salzburg.1876" type="event"><persName key="verdi.giuseppe"
+						>Verdi’s</persName> großes <title key="verdi.requiem" type="mus">Requiem</title> wird
+					unter Leitung des Herrn Mozarteums-Directors Dr. <persName key="bach.otto">O.
 							<hi rend="widespace">Bach</hi></persName> im <date when-iso="1876-04"
 						>April</date> in der großen <hi rend="antiqua"><placeName
-							ref="#salzburg.aula-academica">Aula academica</placeName></hi> zur
-					ersten Aufführung in <placeName ref="#salzburg">Salzburg</placeName>
+							key="salzburg.aula-academica">Aula academica</placeName></hi> zur
+					ersten Aufführung in <placeName key="salzburg">Salzburg</placeName>
 					gelangen.</rs> Die Soli’s haben gütigst die kunstbewährten Kräfte, die Damen:
-				Gräfin <persName ref="#gatterburg.hedwig">Hedwig <hi rend="widespace"
+				Gräfin <persName key="gatterburg.hedwig">Hedwig <hi rend="widespace"
 						>Gatterburg</hi></persName> und Fräul. <hi rend="widespace"><persName
-						ref="#voigt.gabriele">Voigt</persName></hi>, die Herren: <persName
-					ref="#huber.franz">Franz <hi rend="widespace">Huber</hi></persName> und <hi
-					rend="widespace"><persName ref="#schuegraf.eduard">Schuegraf</persName></hi> aus
-					<placeName ref="#muenchen">München</placeName> übernommen. Zur Ausführung der
+						key="voigt.gabriele">Voigt</persName></hi>, die Herren: <persName
+					key="huber.franz">Franz <hi rend="widespace">Huber</hi></persName> und <hi
+					rend="widespace"><persName key="schuegraf.eduard">Schuegraf</persName></hi> aus
+					<placeName key="muenchen">München</placeName> übernommen. Zur Ausführung der
 				großen Chöre haben ihre freundliche Mitwirkung gefälligst zugesagt: Alle Damen und
 				Herren der Salzburger Liedertafel, dann sämmtliche Gesangskräfte des k. k.
 				Gynmasiums, der Lehrer, Bildungs-Anstalt und Oberrealschule (mit bereits erfolgter
 				gütiger Bewilligung der P. T. Direktoren dieser Lehr-Anstalten). Um diesem
 				Massen-Chore eine möglichst breite und großartige instrumentale Basis zu verleihen,
-				hat sich Herr Director <persName ref="#bach.otto">Bach</persName> an den Herrn k. k.
-				Obersten <persName ref="#latterer.josef">von <hi rend="widespace"
+				hat sich Herr Director <persName key="bach.otto">Bach</persName> an den Herrn k. k.
+				Obersten <persName key="latterer.josef">von <hi rend="widespace"
 					>Latterer</hi></persName> des löbl. Regiments Erzh. Rainer um unentgeltliche
 				Ueberlassung der vollständigen <hi rend="widespace">Regiments-Kapelle</hi> gewendet
 				und auch bereits in liebenswürdigster Weise hiezu die Bewilligung erhalten. Sonach
-				werden zum erstenmale die beiden Orchester, <orgName ref="#salzburg.mozarteum"
+				werden zum erstenmale die beiden Orchester, <orgName key="salzburg.mozarteum"
 					>Mozarteums-Kapelle</orgName> und Regimentsmusik, zu Einem größeren
-				Instrumentalkörper vereiniget bei Aufführung des <persName ref="#verdi.giuseppe"
+				Instrumentalkörper vereiniget bei Aufführung des <persName key="verdi.giuseppe"
 					>Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiem</title> wirken. — Letztere erfolgt — wegen der
+				<title key="verdi.requiem" type="mus">Requiem</title> wirken. — Letztere erfolgt — wegen der
 				größeren Vorbereitungen und höheren Kosten in einem <hi rend="widespace"
 					>außerordentlichen Concerte des Mozarteums</hi> mit mäßig erhöhten Preisen.
 				(Vormerkungen hiezu in der Mayrischen Buchhandlung.)</p>

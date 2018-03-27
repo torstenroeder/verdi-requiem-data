@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="wed" when-iso="1876-01-05"/>
 					<biblScope unit="issue">3</biblScope>
 					<biblScope unit="volume">26</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -37,13 +37,13 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><rs ref="#bruenn.1876" type="event">(<hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi>.) Die geehrten Damen und
-					Herren des <orgName ref="#bruenn.musikverein">Musikvereines</orgName>, sowie die
+			<p><rs key="bruenn.1876" type="event">(<hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi>.) Die geehrten Damen und
+					Herren des <orgName key="bruenn.musikverein">Musikvereines</orgName>, sowie die
 					Herren Dilettanten werden zu einer kleinen Probe, welche <date
 						when-iso="1876-01-05">Mittwoch</date>, Abends präzise 7 Uhr im <placeName
-						ref="#bruenn.redouta-theater">Redoutensaale</placeName> stattfindet,
+						key="bruenn.redouta-theater">Redoutensaale</placeName> stattfindet,
 					höflichst eingeladen.</rs></p>
 		</body>
 	</text>

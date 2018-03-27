@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="sat" when-iso="1875-11-27"/>
 					<biblScope unit="issue">272</biblScope>
 					<biblScope unit="volume">25</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -41,20 +41,20 @@
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>
 			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<hi rend="widespace">Ein Komite</hi>.) Wir
-				melden jüngst, daß sich zur <rs ref="#bruenn.1876" type="event">Produktion des
-						<title ref="#verdi.requiem">Requiems</title> von <persName
-						ref="#verdi.giuseppe">Verdi</persName></rs> ein Komite bilden wird. Dasselbe
+				melden jüngst, daß sich zur <rs key="bruenn.1876" type="event">Produktion des
+						<title key="verdi.requiem" type="mus">Requiems</title> von <persName
+						key="verdi.giuseppe">Verdi</persName></rs> ein Komite bilden wird. Dasselbe
 				hat sich nun konstituirt, und besteht aus folgenden Mitgliedern, aus den Damen: Ihre
 				Exzellenz die Statthalterin Baronin <hi rend="widespace"><persName
-						ref="#possinger.emilie">Possinger</persName></hi>, Frau <persName
-					ref="#gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName>, Baronin
-					<persName ref="#herring.amalie">Herring</persName>, Gräfin <persName
-					ref="#serenyi.ernestine">Serenyi</persName>, Frau <persName ref="#teuber.adele"
-					>Adele v. Teuber</persName> und Gräfin <persName ref="#belrupt.marie"
-					>Belrupt</persName>; aus den Herren: Dr. <persName ref="#goldhann.ludwig"
-					>Goldhann</persName>, Dr. <persName ref="#klob.friedrich">Klob</persName>,
-				Direktor <persName ref="#kitzler.otto">Kitzler</persName> und Buchhändler <persName
-					ref="#palliardi.josef">Palliardi</persName>.</p>
+						key="possinger.emilie">Possinger</persName></hi>, Frau <persName
+					key="gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName>, Baronin
+					<persName key="herring.amalie">Herring</persName>, Gräfin <persName
+					key="serenyi.ernestine">Serenyi</persName>, Frau <persName key="teuber.adele"
+					>Adele v. Teuber</persName> und Gräfin <persName key="belrupt.marie"
+					>Belrupt</persName>; aus den Herren: Dr. <persName key="goldhann.ludwig"
+					>Goldhann</persName>, Dr. <persName key="klob.friedrich">Klob</persName>,
+				Direktor <persName key="kitzler.otto">Kitzler</persName> und Buchhändler <persName
+					key="palliardi.josef">Palliardi</persName>.</p>
 		</body>
 	</text>
 </TEI>

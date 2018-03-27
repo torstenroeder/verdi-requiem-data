@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#die-ostschweiz" role="publisher"/>
-					<placeName ref="#st-gallen"/>
+					<orgName key="die-ostschweiz" role="publisher"/>
+					<placeName key="st-gallen"/>
 					<date when-custom="tue" when-iso="1878-04-16"/>
 					<biblScope unit="issue">89</biblScope>
 					<biblScope unit="volume">5</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#st-gallen"/></creation>
+			<creation><placeName key="st-gallen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -43,14 +43,14 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="2c" type="initial"/>
-			<head rend="larger"><placeName ref="#st-gallen">St. Gallen</placeName>.</head>
-			<p>— <hi rend="widespace">Stadt</hi>. <rs ref="#st-gallen.1878.1" type="event">Am
+			<head rend="larger"><placeName key="st-gallen">St. Gallen</placeName>.</head>
+			<p>— <hi rend="widespace">Stadt</hi>. <rs key="st-gallen.1878.1" type="event">Am
 						<date>Palmsonntag</date> wurde mit durchschlagendem Erfolge unter der
-					Direktion des Hrn. <hi rend="widespace"><persName ref="#bogler.xxx"
-							>Bogler</persName></hi> durch die <orgName ref="#st-gallen.antlitz"
+					Direktion des Hrn. <hi rend="widespace"><persName key="bogler.xxx"
+							>Bogler</persName></hi> durch die <orgName key="st-gallen.antlitz"
 						>Antlitzgesellschaft</orgName> unter Mitwirkung trefflicher fremder Kräfte
-						<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<hi rend="widespace antiqua"><title ref="#verdi.requiem">Requiem</title></hi>
+						<persName key="verdi.giuseppe">Verdi’s</persName>
+					<hi rend="widespace antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>
 					aufgeführt.</rs></p>
 		</body>
 	</text>

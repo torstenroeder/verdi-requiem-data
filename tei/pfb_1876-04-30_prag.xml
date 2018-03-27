@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#pilsner-fremdenblatt" role="publisher"/>
-					<placeName ref="#pilsen"/>
+					<orgName key="pilsner-fremdenblatt" role="publisher"/>
+					<placeName key="pilsen"/>
 					<date when-custom="sun" when-iso="1876-04-30"/>
 					<biblScope unit="issue">Probe-Nummer</biblScope>
 					<series>pfb</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#prag"/></creation>
+			<creation><placeName key="prag"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -43,12 +43,12 @@
 			<pb break="null" n="7" type="initial"/>
 			<head rend="lineale">Lokales und Auswärtiges.</head>
 			<cb break="null" n="7b" type="skipped"/>
-			<p>— <hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title></hi>. Die erste Vorstellung von
-					<persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> ist auf <date when-iso="1876-05-05"
+			<p>— <hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title></hi>. Die erste Vorstellung von
+					<persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> ist auf <date when-iso="1876-05-05"
 					>5.</date>, die zweite auf den <date when-iso="1876-05-12">12. Mai l. J.</date>
-				im <placeName ref="#pilsen.stadt-theater">Stadt-Theater</placeName> angesetzt. Zu
+				im <placeName key="pilsen.stadt-theater">Stadt-Theater</placeName> angesetzt. Zu
 				der ersten Vorstellung sind bereits, mit Ausnahme von ca. 10 nummerirten Sitzen alle
 				Sitzplätze vergriffen. — Die Herren Musikfreunde vom Lande werden darauf aufmerksam
 				gemacht, dass sie ihre eventuellen Vormerkungen für Plätze zur zweiten Aufführung

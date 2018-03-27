@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#salzburger-volksblatt"/>
-					<placeName ref="#salzburg"/>
+					<orgName key="salzburger-volksblatt"/>
+					<placeName key="salzburg"/>
 					<date when-custom="thu" when-iso="1876-02-10"/>
 					<biblScope unit="issue">17</biblScope>
 					<biblScope unit="volume">6</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -44,22 +44,22 @@
 			<cb break="null" n="2c" type="initial"/>
 			<head rend="larger">Salzburger Nachrichten.</head>
 			<p><hi rend="bold"><g n="002A" type="ASTERISK">*</g>
-					<rs ref="#salzburg.1876" type="event"><persName ref="#verdi.giuseppe"
+					<rs key="salzburg.1876" type="event"><persName key="verdi.giuseppe"
 							>Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title>.</rs></hi><rs
-					ref="#salzburg.1876" type="event"> Die schon vor längerer Zeit von Herrn
-					Mozarteums-Direktor Dr. <persName ref="#bach.otto">O. Bach</persName> angeregte
-					Aufführung des berühmten <persName ref="#verdi.giuseppe">Verdi’schen</persName>
-					<title ref="#verdi.requiem">Requiems</title> ist nunmehr, Dank der großherzigen
+						<title key="verdi.requiem" type="mus">Requiem</title>.</rs></hi><rs
+					key="salzburg.1876" type="event"> Die schon vor längerer Zeit von Herrn
+					Mozarteums-Direktor Dr. <persName key="bach.otto">O. Bach</persName> angeregte
+					Aufführung des berühmten <persName key="verdi.giuseppe">Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Requiems</title> ist nunmehr, Dank der großherzigen
 					Bemühungen der kunstsinnigen Fr. Gräfin <hi rend="widespace"><persName
-							ref="#gatterburg.hedwig">Hedwig Gatterburg</persName></hi> bezüglich des
+							key="gatterburg.hedwig">Hedwig Gatterburg</persName></hi> bezüglich des
 					Kostenpunktes der Anschaffung gesichert und wird definitiv im <date
 						when-iso="1876-04">April dieses Jahres</date> statthaben.</rs> Ihre kais.
-				Hoheiten <hi rend="widespace"><persName ref="#franz-joseph-i.habsburg">Großherzog
+				Hoheiten <hi rend="widespace"><persName key="franz-joseph-i.habsburg">Großherzog
 						von Toscana</persName></hi> und <hi rend="widespace"><persName
-						ref="#elisabeth.oesterreich-ungarn">Frau Gemahlin</persName></hi> haben dem
-					<orgName ref="#salzburg.mozarteum">Mozarteum</orgName> zu dem Zwecke des
-				Ankaufes des <title ref="#verdi.requiem">Requiems</title> großmüthigst einen Betrag
+						key="elisabeth.oesterreich-ungarn">Frau Gemahlin</persName></hi> haben dem
+					<orgName key="salzburg.mozarteum">Mozarteum</orgName> zu dem Zwecke des
+				Ankaufes des <title key="verdi.requiem" type="mus">Requiems</title> großmüthigst einen Betrag
 				von 100 Gulden zustellen lassen.</p>
 		</body>
 	</text>

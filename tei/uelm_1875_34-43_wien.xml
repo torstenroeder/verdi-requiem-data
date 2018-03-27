@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#ueber-land-und-meer" role="publisher"/>
-					<placeName ref="#stuttgart"/>
+					<orgName key="ueber-land-und-meer" role="publisher"/>
+					<placeName key="stuttgart"/>
 					<date cert="medium" when-iso="1875-07-25"/>
 					<!--BIBLIO Datierung: Sonntage von April 1875 aus gezählt-->
 					<date cert="low" when-iso="1875-06-20"/>
@@ -26,7 +26,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -45,20 +45,20 @@
 		<body rend="fraktur">
 			<head rend="larger">Musik.</head>
 			<gap resp="tr"/>
-			<p>— <rs ref="#wien.1875" type="event"><hi rend="bold">Der kolossale Erfolg, den die
+			<p>— <rs key="wien.1875" type="event"><hi rend="bold">Der kolossale Erfolg, den die
 						drei Aufführungen von</hi>
-					<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> unter Direktion des gefeierten
+					<persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> unter Direktion des gefeierten
 					Komponisten zu Wege brachten, hat die wiener Hofoperndirektion veranlaßt, vier
 					Aufführungen des bedeutenden Werkes zu veranlassen.</rs></p>
-			<p>— <hi rend="bold">Der große Erfolg, dessen das <title ref="#verdi.requiem"
-						>Manzoni-Requiem</title> am </hi><placeName ref="#wien.hof-operntheater"><hi
+			<p>— <hi rend="bold">Der große Erfolg, dessen das <title key="verdi.requiem" type="mus"
+						>Manzoni-Requiem</title> am </hi><placeName key="wien.hof-operntheater"><hi
 						rend="bold">wiener</hi>
 					<lb break="yes"/>Hofoperntheater</placeName> sich erfreute, hat den dankbaren
 				Komponisten be<cb break="no" n="851b" type="regular"/>wogen, dem Direktor <persName
-					ref="#jauner.franz-von">Jauner</persName> das Versprechen zu geben, in der
-				nächsten Wintersaison nach <placeName ref="#wien">Wien</placeName> zu kommen, um
-				seine zur Aufführung angenommene Oper <title ref="#verdi.don-carlos">„Don
+					key="jauner.franz-von">Jauner</persName> das Versprechen zu geben, in der
+				nächsten Wintersaison nach <placeName key="wien">Wien</placeName> zu kommen, um
+				seine zur Aufführung angenommene Oper <title key="verdi.don-carlos" type="mus">„Don
 					Carlos“</title> persönlich zu dirigiren.</p>
 		</body>
 	</text>

@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl facs="#f11">
-					<orgName ref="#die-ostschweiz" role="publisher"/>
-					<placeName ref="#st-gallen"/>
+					<orgName key="die-ostschweiz" role="publisher"/>
+					<placeName key="st-gallen"/>
 					<date when-custom="thu" when-iso="1878-04-18"/>
 					<biblScope unit="issue">91</biblScope>
 					<biblScope unit="volume">5</biblScope>
@@ -21,8 +21,8 @@
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 				<bibl facs="#f21">
-					<orgName ref="#die-ostschweiz" role="publisher"/>
-					<placeName ref="#st-gallen"/>
+					<orgName key="die-ostschweiz" role="publisher"/>
+					<placeName key="st-gallen"/>
 					<date when-custom="fri" when-iso="1878-04-19"/>
 					<biblScope unit="issue">92</biblScope>
 					<biblScope unit="volume">5</biblScope>
@@ -30,8 +30,8 @@
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 				<bibl facs="#f31">
-					<orgName ref="#die-ostschweiz" role="publisher"/>
-					<placeName ref="#st-gallen"/>
+					<orgName key="die-ostschweiz" role="publisher"/>
+					<placeName key="st-gallen"/>
 					<date when-custom="sat" when-iso="1878-04-21"/>
 					<biblScope unit="issue">93</biblScope>
 					<biblScope unit="volume">5</biblScope>
@@ -41,7 +41,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#st-gallen"/></creation>
+			<creation><placeName key="st-gallen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -70,22 +70,22 @@
 				<body rend="fraktur">
 					<cb n="1c"/>
 					<head rend="larger"><g n="2609" type="SUN">☉</g>
-						<rs ref="#st-gallen.1878" type="event"><persName ref="#verdi.giuseppe"
-								>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ in
-								<placeName ref="#st-gallen.kirche-st-laurenzen">St.
-								Laurenzen</placeName> zu <placeName ref="#st-gallen">St.
+						<rs key="st-gallen.1878" type="event"><persName key="verdi.giuseppe"
+								>Verdis</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“ in
+								<placeName key="st-gallen.kirche-st-laurenzen">St.
+								Laurenzen</placeName> zu <placeName key="st-gallen">St.
 								Gallen</placeName>.</rs></head>
 					<p>Wie bereits in einigen vorangehenden Jahren am <date>Palmsonntage</date>
-						einige der berühmtesten Oratorien durch die <placeName ref="#st-gallen">St.
+						einige der berühmtesten Oratorien durch die <placeName key="st-gallen">St.
 							Gallischen</placeName> Musikvereine zur Aufführung gelangten, so reihte
-						sich diesmal an die „<hi rend="widespace"><title ref="#haydn.die-schoepfung"
+						sich diesmal an die „<hi rend="widespace"><title key="haydn.die-schoepfung" type="mus"
 								>Schöpfung</title>
-							<persName ref="#haydn.joseph">Haydns</persName></hi>“, den „<hi
-							rend="widespace"><title ref="#haendel.messiah">Messias</title>
-							<persName ref="#haendel.georg-friedrich">Händels</persName></hi>“ nun
+							<persName key="haydn.joseph">Haydns</persName></hi>“, den „<hi
+							rend="widespace"><title key="haendel.messiah" type="mus">Messias</title>
+							<persName key="haendel.georg-friedrich">Händels</persName></hi>“ nun
 						das <sic>weitberühmte</sic>
-						<hi rend="antiqua">„<title ref="#verdi.requiem">Requiem</title>“</hi> des
-						noch lebenden italienischen Tonkünstlers <persName ref="#verdi.giuseppe"
+						<hi rend="antiqua">„<title key="verdi.requiem" type="mus">Requiem</title>“</hi> des
+						noch lebenden italienischen Tonkünstlers <persName key="verdi.giuseppe"
 							>Verdi</persName>. Schreiber dieser Zeilen ist weder befähigt noch
 						berufen, über die Eminenz diefes Werkes und das Gelingen seiner Aufführung
 						ein kritisches oder lobendes Wort zu veröffentlichen. Das Werk in sich hat
@@ -101,13 +101,13 @@
 						diesen Grundton des Meisterwerkes nur mit einigen Zügen hervorzuheben,
 						versuchen diese Zeilen.</p>
 					<p>Feierlich und ernst, wie’s der liturgische Text erheischt, eröffnet sich das
-						Oratorium mit <hi rend="antiqua">„<title ref="#verdi.requiem.1">Requiem
+						Oratorium mit <hi rend="antiqua">„<title key="verdi.requiem.1" type="mus">Requiem
 								æternam</title>“</hi>. Auch die Töne gleiten in feierlicher Ruhe
 						dahin und die Feinheit der Composition ist ein Bild jenes himmlischen
 						Aethers, dessen Leuchten der musikalische Chor den Verewigten zufleht.
-						Flehende Stimmen tragen das <title ref="#verdi.requiem.3"
+						Flehende Stimmen tragen das <title key="verdi.requiem.3" type="mus"
 							>Offertorium</title> zum Throne des Allerhöchsten, aus dessen
-						Himmelsraum beim <hi rend="antiqua"><title ref="#verdi.requiem.4"
+						Himmelsraum beim <hi rend="antiqua"><title key="verdi.requiem.4" type="mus"
 								>Sanctus</title></hi> ein schwellender Jubelchor sich herab —
 						verliert in das Thal der Thränen, wo das menschliche Organ wohl für Seufzer
 						und Bitten befähigt, aber zu schwerfällig ist, den höchsten Kreisen des
@@ -115,10 +115,10 @@
 						sagt ja die Mythe — erfüllt Klage des sterblichen Sängers Mund und die
 						Stimme bricht, sobald sie sich erheben will in die Harmonien des
 						überirdischen Jubels.</p>
-					<p>Ich übergehe das flehende <hi rend="antiqua">„<title ref="#verdi.requiem.5"
+					<p>Ich übergehe das flehende <hi rend="antiqua">„<title key="verdi.requiem.5" type="mus"
 								>Agnus dei</title>“</hi>, auch das <hi rend="antiqua">„<title
-								ref="#verdi.requiem.6">Lux perpetua</title>“</hi> und selbst das <hi
-							rend="antiqua">„<title ref="#verdi.requiem.7">Libera</title>“</hi>, in
+								key="verdi.requiem.6" type="mus">Lux perpetua</title>“</hi> und selbst das <hi
+							rend="antiqua">„<title key="verdi.requiem.7" type="mus">Libera</title>“</hi>, in
 						welchem, wie in der Rekapitulation einer Meisterrede die herrlichsten
 						Partien nochmals wiederkehren, so alle ergreifenden Harmonien nochmals an’s
 						Ohr zittern mit ihrem Ernst, ihrer Erhabenheit, ihrer Lieblichkeit, bis sie
@@ -129,8 +129,8 @@
 						im liturgischen Texte, so in der künstlerisch musikalischen Aufführung die
 						Glanzpartie bildet, das ist das musikalische Gemälde — ich darf es seiner
 						deskriptiven Darstellung wegen wohl sagen — des <hi rend="antiqua">„<title
-								ref="#verdi.requiem.2">Dies iræ</title>“</hi>.</p>
-					<p>Wie die Künstlerhand <persName ref="#buonarroti.michelangelo">Michel
+								key="verdi.requiem.2" type="mus">Dies iræ</title>“</hi>.</p>
+					<p>Wie die Künstlerhand <persName key="buonarroti.michelangelo">Michel
 							Angelos</persName> zwar über alle Wandflächen der Sixtinischen Kapelle
 						zu Rom ihre farbigen Spuren und Schatten geworfen, aber im „<hi
 							rend="widespace">letzten Gerichte</hi>“ an der Hauptwand sich gleichsam
@@ -139,14 +139,14 @@
 						bis in seine Tiefen erfaßten Gedankens, das da aus diesen Harmonien austönt
 						und mit Orpheusgewalt selbst das nicht musikalische Ohr in dasselbe
 						Schwelgen hineinbannt. Ich möchte mir in der That nur wünschen, vor dem
-						Meisterwerke <persName ref="#buonarroti.michelangelo">Michel
+						Meisterwerke <persName key="buonarroti.michelangelo">Michel
 							Angelos</persName>, den Meisterhymnus <hi rend="antiqua">„Dies iræ“</hi>
-						in der Meisterharmonie <persName ref="#verdi.giuseppe">Verdis</persName>
+						in der Meisterharmonie <persName key="verdi.giuseppe">Verdis</persName>
 						auftönen zu hören und von den Einzelmusen der Malerei, der Poesie und der
 						Musik das katholische Dogma etwas dem irdischen Blicke entschleiern zu
 						lassen. Ich dachte unwillkürlich an den Tag, der einstens wie der Blitz und
 						wider Erwarten tagend, der irdischen Tage Abschluß bildet, als auf einmal in
-						das ruhig austönende <hi rend="antiqua"><title ref="#verdi.requiem.1"
+						das ruhig austönende <hi rend="antiqua"><title key="verdi.requiem.1" type="mus"
 								>Kyrie</title></hi> mit erschüttender Gewalt die Allianz aller Töne
 						von Menschen und Instrumenten zu einer Gewaltharmonie verbunden, hinbrach in
 						die wunderbare, allerdings nur vom Fachmanne ganz zu schätzende Harmonie der
@@ -174,10 +174,10 @@
 				<body rend="fraktur">
 					<cb n="3c"/>
 					<head><g n="2609" type="SUN">☉</g>
-						<rs ref="#st-gallen.1878" type="event"><persName ref="#verdi.giuseppe"
-								>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ in
-								<placeName ref="#st-gallen.kirche-st-laurenzen">St.
-								Laurenzen</placeName> zu <placeName ref="#st-gallen">St.
+						<rs key="st-gallen.1878" type="event"><persName key="verdi.giuseppe"
+								>Verdis</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“ in
+								<placeName key="st-gallen.kirche-st-laurenzen">St.
+								Laurenzen</placeName> zu <placeName key="st-gallen">St.
 								Gallen</placeName>.</rs></head>
 					<p rend="center">(Fortsetzung.)</p>
 					<p>Aber der Glaube und seine Wahrheiten sind keine Schreckbilder der Phantasie,
@@ -188,7 +188,7 @@
 							rend="widespace">David und die Sybillen</hi>. Zuerst der Glaube, dann
 						erst seine begründete Kenntniß. Die Verse des Hymnus, die Töne der Musik
 						haben gedacht wie der Engel der Schule, der hl. <persName
-							ref="#aquin.thomas-von">Thomas von Aquin</persName>, und inmitten der
+							key="aquin.thomas-von">Thomas von Aquin</persName>, und inmitten der
 						Symphonien gedenkt man der Trockenheit scholastischer Weisheit. Das
 						musikalische Panorama ist eröffnet, denn es zeigt den „Tag der Schrecken“;
 						seine Bedeutung ist verkündet, denn es zeigt ein Faktum, welches David und
@@ -209,9 +209,9 @@
 							venturus“</hi>: „<hi rend="widespace">Wenn der Richter wird
 							erscheinen</hi>.“ Die erregende und gellende Einleitung, die klagende
 						Melodie des Ausrufes: „Welch ein Wimmern“, ist gewichen vor der Majestät des
-						Gesanges, der, wie im <placeName ref="#rom.peterskirche"
-							>Petersdome</placeName> zu <placeName ref="#rom">Rom</placeName> die
-							<placeName ref="#rom.sixtinische-kapelle">Sixtinische
+						Gesanges, der, wie im <placeName key="rom.peterskirche"
+							>Petersdome</placeName> zu <placeName key="rom">Rom</placeName> die
+							<placeName key="rom.sixtinische-kapelle">Sixtinische
 							Kapelle</placeName> das Nahen des Pontifex, hier das Erscheinen des
 						Weltenrichters ankündet. Er ist erschienen. Die Erde trägt den Menschensohn
 						zum zweiten Male und für einen Moment ist verstummt das Zusammenbrechen der
@@ -235,8 +235,8 @@
 						es einen gewaltigeren Gedanken? Gibts aber wohl auch in der Auswahl
 						musikalischer Ausführungen des <hi rend="antiqua">„Dies iræ“</hi> ein
 						andere, die so sehr Fleisch ist dieses seelischen Gedankens, als die im <hi
-							rend="antiqua">„<title ref="#verdi.requiem">Requiem</title>“</hi>
-						<persName ref="#verdi.giuseppe">Verdis</persName> ?</p>
+							rend="antiqua">„<title key="verdi.requiem" type="mus">Requiem</title>“</hi>
+						<persName key="verdi.giuseppe">Verdis</persName> ?</p>
 					<p rend="center">(Schluß folgt.)</p>
 				</body>
 			</text>
@@ -244,15 +244,15 @@
 				<body rend="fraktur">
 					<cb break="null" n="3b" type="initial"/>
 					<head><g n="2609" type="SUN">☉</g>
-						<rs ref="#st-gallen.1878" type="event"><persName ref="#verdi.giuseppe"
-								>Verdis</persName> „<title ref="#verdi.requiem">Requiem</title>“ in
-								<placeName ref="#st-gallen.kirche-st-laurenzen">St.
-								Laurenzen</placeName> zu <placeName ref="#st-gallen">St.
+						<rs key="st-gallen.1878" type="event"><persName key="verdi.giuseppe"
+								>Verdis</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“ in
+								<placeName key="st-gallen.kirche-st-laurenzen">St.
+								Laurenzen</placeName> zu <placeName key="st-gallen">St.
 								Gallen</placeName>.</rs></head>
 					<p rend="center">(Schluß.)</p>
 					<p>Als in mehrfach repetirten, unterbrochenen Solotönen einer Baßstimme das Wort
 							<hi rend="antiqua">„<title n="mors-stupebit"
-								ref="#verdi.requiem.2.tuba-mirum">Mors — mors — mors</title>“</hi>
+								key="verdi.requiem.2.tuba-mirum" type="mus">Mors — mors — mors</title>“</hi>
 						erscholl, da war’s mir, ich erblicke den Sensenmann, dessen Stunde gekommen,
 						wie er noch dreimal sich erhebt, sich fortschleppen will, aber sinkt, in die
 						Grube fällt, die er einst den Todten gegraben, selbst stirbt, ausröchelt,
@@ -260,13 +260,13 @@
 						aber in der Wolkenhöhe haben sie den Ruf auch verstanden, denn in einem
 						Sopran, dessen Reinheit an himmlische Regionen erinnert, kündet es die
 						andere folgende Solostimme: „<hi rend="widespace"><title
-								ref="#verdi.requiem.2.liber-scriptus">Ein geschriebenes Buch sich
+								key="verdi.requiem.2.liber-scriptus" type="mus">Ein geschriebenes Buch sich
 								zeiget</title></hi>“ an. Die Reinheit der Stimme war die lichte
 						Farbe in der Ausführung dieser Partie, wie die Baßstimme des <hi
 							rend="antiqua">„mors“</hi> das dunkle Colorit des sterbenden Todes war
 						auf diesem musikalischen Gemälde. Die Szenerie ist vollendet; der Richter
 						sitzt <hi rend="antiqua">„<title n="judex-ergo"
-								ref="#verdi.requiem.2.liber-scriptus">judex ergo cum
+								key="verdi.requiem.2.liber-scriptus" type="mus">judex ergo cum
 							sedebit</title>“</hi> — die Aktion kann beginnen. Was vor Allem — ich
 						darf es nicht verschweigen — die ganze bisherige Durchführung durchzittert,
 						ist der stets wiederholte Ausruf „Tag der Schrecken, Tag des Zornes“. Bald
@@ -282,7 +282,7 @@
 						objektiven Leben, streitet hier in Harmonisirung des Hymnus den Wettkampf,
 						in welcher Partie ihr der Lorbeer gebühre, ob in der mehr epischen ersten
 						oder der mehr lyrischen zweiten Partie der Musikpoesie desselben. „<hi
-							rend="widespace"><title ref="#verdi.requiem.2.quid-sum-miser">Ach, was
+							rend="widespace"><title key="verdi.requiem.2.quid-sum-miser" type="mus">Ach, was
 								werd ich Armer sagen</title></hi>“, tönt es weiter, aber die
 						Empfindung hat das Wort, den Ton gebrochen und ein Wimmern bestätigt, was
 						vorher gesungen worden: „<hi rend="widespace">Tag des Wimmerns, Tag der
@@ -313,10 +313,10 @@
 						immer wieder hervor und wie bei einem erneuten Blick auf ein Zaubergemälde
 						heben und schwellen neu an die Wogen des subjektiven Empfindens, wenn die
 						rauschenden Töne den <hi rend="antiqua">„<title
-								ref="#verdi.requiem.2.rex-tremendae">rex tremendæ
+								key="verdi.requiem.2.rex-tremendae" type="mus">rex tremendæ
 							majestatis</title>“</hi> wiederum verkünden und näher tragen. Daß gegen
 						das Ende der Hymnus <hi rend="antiqua">„<title
-								ref="#verdi.requiem.2.confutatis">Confutatis maledictis, flammis
+								key="verdi.requiem.2.confutatis" type="mus">Confutatis maledictis, flammis
 								acribus addictis</title>“</hi> furchtbar ernst, gewaltig, aber
 						verhältnißmäßig rasch, ohne Repetitien an uns uns vorüberrauscht, erinnert
 						uns mit Schrecken an jenes Vorüberrauschen der Gottlosen dorthin, wo sie
@@ -324,11 +324,11 @@
 						zu ändern, zu beklagen oder zu bejammern, keine Zunge mehr versucht — weil
 						dies nutzlos wäre. Noch einmal schwellt das Meer der Empfindung an, und die
 						Hochfluth der Gefühle des Schreckens <hi rend="antiqua">„<title
-								ref="#verdi.requiem.2.lacrymosa">Lacrymosa dies illa</title>“</hi>
+								key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa dies illa</title>“</hi>
 						der Gefühle des Vertrauens <hi rend="antiqua">„Huic ergo parce Deus“</hi>
 						thürmt sich noch einmal. Dann fällt sie. Die Ebbe tritt in diesem
 						innerlichen Meere ein. Die Wellen legen sich — ruhen. <hi rend="antiqua"
-								>„<title n="dona-eis" ref="#verdi.requiem.2.lacrymosa">Dona eis
+								>„<title n="dona-eis" key="verdi.requiem.2.lacrymosa" type="mus">Dona eis
 								requiem</title>“</hi> „<hi rend="widespace">Gib Ihnen die ewige
 							Ruhe</hi>“ schließt das Meisterwerk.</p>
 					<p>Ich glaube einigermaßen den Empfindungen gerecht geworden zu sein, die das
@@ -350,10 +350,10 @@
 					<p>Wenn aber erst der Meister-Hymnus dieses <hi rend="antiqua">„Dies iræ“</hi>
 						in die Wirklichkeit übersetzt wird und vor der Gegenwart des Weltenrichters
 						die Miriaden seliger Geister in himmlischem Soprane das <hi rend="antiqua"
-								>„<title ref="#verdi.requiem.2.liber-scriptus">Liber scriptus
+								>„<title key="verdi.requiem.2.liber-scriptus" type="mus">Liber scriptus
 								proferetur</title>“</hi> — singen, die in Herzensängsten vergehenden
 						Geschlechter das <hi rend="antiqua">„<title
-								ref="#verdi.requiem.2.quid-sum-miser">quid sum miser tunc
+								key="verdi.requiem.2.quid-sum-miser" type="mus">quid sum miser tunc
 								dicturus</title>“</hi>
 						<sic>stönen</sic> und die von ferne in den ewigen Pfuhl hinabstürzenden
 						Verlornen das <hi rend="antiqua">„flammis acribus addictus“</hi> heulen,

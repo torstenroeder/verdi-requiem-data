@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#salzburger-volksblatt"/>
-					<placeName ref="#salzburg"/>
+					<orgName key="salzburger-volksblatt"/>
+					<placeName key="salzburg"/>
 					<date when-custom="tue" when-iso="1876-05-02"/>
 					<biblScope unit="issue">52</biblScope>
 					<biblScope unit="volume">6</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,34 +42,34 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb break="null" n="2" type="initial"/>
-			<head rend="larger">Die zweite Aufführung des <persName ref="#verdi.giuseppe"
+			<head rend="larger">Die zweite Aufführung des <persName key="verdi.giuseppe"
 					>Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiems</title>.</head>
-			<p><rs ref="#salzburg.1876.2" type="event">Der hiesige <orgName
-						ref="#salzburg.dommusikverein">Dom-Musik-Verein</orgName> und <orgName
-						ref="#salzburg.mozarteum">Mozarteum</orgName> hat, in billiger
+				<title key="verdi.requiem" type="mus">Requiems</title>.</head>
+			<p><rs key="salzburg.1876.2" type="event">Der hiesige <orgName
+						key="salzburg.dommusikverein">Dom-Musik-Verein</orgName> und <orgName
+						key="salzburg.mozarteum">Mozarteum</orgName> hat, in billiger
 					Berücksichtigung seiner unterstützenden Mitglieder, als zweites dießjähriges
 					Vereins-Concert am <date when-iso="1876-04-30">30. April Nachm. 4 Uhr</date> in
-					der <placeName ref="#salzburg.aula-academica">Aula academica</placeName> eine
-					Wiederholung des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
-					<title ref="#verdi.requiem">Requiems</title> veranlaßt, welche ungeachtet der
+					der <placeName key="salzburg.aula-academica">Aula academica</placeName> eine
+					Wiederholung des <persName key="verdi.giuseppe">Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Requiems</title> veranlaßt, welche ungeachtet der
 					eingetretenen Frühlingswitterung <cb break="yes" n="2b" type="regular"/>und der
 					für derlei Concerte minder günstigen Nachmittagsarbeit doch von einem
 					zahlreichen Publikum besucht war.</rs></p>
-			<p><rs ref="#salzburg.1876" type="event">Die Solo-Partien waren wie bei der ersten
-					Aufführung besetzt.</rs> Frau Gräfin <persName ref="#gatterburg.hedwig"
+			<p><rs key="salzburg.1876" type="event">Die Solo-Partien waren wie bei der ersten
+					Aufführung besetzt.</rs> Frau Gräfin <persName key="gatterburg.hedwig"
 					role="soloist.mezzo">Hedwig Gatterburg</persName> (Mezzo-Sopran) sang mit einer
 				Gefühlswärme und Innigkeit, welche ihre Gesangsleistung so sehr auszeichnet und
 				derselben eine Höhe der Empfindung verleiht, welche sie über viele Künstlerinnen
 				ihres Faches erhebt. Reichlicher Beifall belohnte diese vorzügliche Leistung.
-				Fräulein <persName ref="#voigt.gabriele" role="soloist.soprano">Gabriele
+				Fräulein <persName key="voigt.gabriele" role="soloist.soprano">Gabriele
 					Voigt</persName> (Sopran) hat mit wahrem seraphischen Klange das Quartett
 				umgeben, und war in ihren von reichem Beifalle begleiteten Solo-Vorträgen von eben
-				so tief ergreifender als anmuthender Wirkung. Herr <persName ref="#huber.franz"
+				so tief ergreifender als anmuthender Wirkung. Herr <persName key="huber.franz"
 					role="soloist.tenor">Huber</persName> (Tenor) schien leider in Folge
 				vorausgegangener Heiserkeit nicht besonders disponirt, brachte aber dessenungeachtet
-				seine Partie zur verdienstlichen Geltung. Herr <persName ref="#schuegraf.eduard"
-					role="soloist.basso">Schuegraf</persName> aus <placeName ref="#muenchen"
+				seine Partie zur verdienstlichen Geltung. Herr <persName key="schuegraf.eduard"
+					role="soloist.basso">Schuegraf</persName> aus <placeName key="muenchen"
 					>München</placeName> hatte wieder die Gefälligkeit, die Baßpartie zu übernehmen.
 				Der Klang seiner Stimme ist sympathisch und weich, der Gesangsvortrag korrekt und
 				empfindsam; wir sind überzeugt, daß der jugendliche Sänger bei fortgesetzten
@@ -85,7 +85,7 @@
 				hiesigen Lehranstalten einen Chor bilden, mit welchem jedem Kunst-Institute zu
 				gratuliren ist, und daß durch ein freundliches Zusammenwirken Bedeutendes erzielt
 				werden kann. Möge dieser Geist fortan erhalten und gefördert werden!</p>
-			<p>Herr Direktor Dr. <persName ref="#bach.otto">Bach</persName> dirigirte mit gewohnter
+			<p>Herr Direktor Dr. <persName key="bach.otto">Bach</persName> dirigirte mit gewohnter
 				Umsicht und künstlerischem Verständniß, und verdiente daher mit vollem Rechte die
 				reichlichen Beifallsbezeugungen. Das Institut aber hat durch diese Aufführungen
 				bewiesen, daß es ein lebensfähiges und strebsames, daher der fördernden Theilnahme

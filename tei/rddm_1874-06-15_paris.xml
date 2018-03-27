@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Revue des Deux Mondes, Paris, 15. Juni 1874</title>
-				<author><persName ref="#blaze.henri"/></author>
+				<author><persName key="blaze.henri"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#revue-des-deux-mondes"/>
-					<placeName ref="#paris"/>
+					<orgName key="revue-des-deux-mondes"/>
+					<placeName key="paris"/>
 					<date when-iso="1874-06-15"/>
 					<biblScope unit="issue">9</biblScope>
 					<biblScope unit="volume">45</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#paris"/></creation>
+			<creation><placeName key="paris"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>

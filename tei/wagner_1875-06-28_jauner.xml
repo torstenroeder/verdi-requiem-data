@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Richard Wagner, Brief an Franz Jauner, 28. Juni 1875</title>
-				<author><persName ref="#wagner.richard"/></author>
+				<author><persName key="wagner.richard"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,7 +13,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<placeName ref="#wien"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-28"/>
 				</bibl>
 				<bibl>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/><date when-iso="1875-06-28"/></creation>
+			<creation><placeName key="wien"/><date when-iso="1875-06-28"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -56,7 +56,7 @@
 				Klarheit. Wie ich höre wird das Wiener Hof-Operntheater manchen anderen Experimenten
 				offen gestellt sein, mit welchen ich mich nicht in Rivalität gebracht zu sehen
 				wünschte: nichts könnte mir toller vorkommen, als mit Herrn <persName
-					ref="#verdi.giuseppe">Verdi</persName> in Nebenbuhlerschaft zu gerathen, zumal
+					key="verdi.giuseppe">Verdi</persName> in Nebenbuhlerschaft zu gerathen, zumal
 				mir nicht wenigstens in jeder Hinsicht vollkommene Aufführungen zu Gebote stünden,
 				wie sie jene Herrn mit sehr sicherem Instinkte zu garantiren wissen.</p>
 			<p>Tragen Sie daher irgendwelche Bedenken gegen meine Auffassung und meine Vorschläge,
@@ -70,8 +70,8 @@
 				für seine glorreichen Bemühungen zu erkennen zu geben; wahrlich schon um Sr.
 				Excellenz willen wünschte ich, es käme zu etwas recht Gutem und Schönem!</p>
 			<p>Mit hochachtungsvollem Gruße verbleibe ich</p>
-			<p>Ihr sehr ergebener <persName ref="#wagner.richard">Richard Wagner</persName>.</p>
-			<p><placeName ref="#bayreuth">Bayreuth</placeName>, <date when-iso="1875-06-28">28 Juni
+			<p>Ihr sehr ergebener <persName key="wagner.richard">Richard Wagner</persName>.</p>
+			<p><placeName key="bayreuth">Bayreuth</placeName>, <date when-iso="1875-06-28">28 Juni
 					1875</date></p>
 		</body>
 	</text>

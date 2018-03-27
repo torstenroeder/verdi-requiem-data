@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tonkunst" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="tonkunst" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-iso="1876-05-20"/>
 					<biblScope unit="issue">14</biblScope>
 					<biblScope unit="volume">1</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#berlin"/></creation>
+			<creation><placeName key="berlin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,18 +42,18 @@
 			<pb n="281"/>
 			<head>Musikpflege.</head>
 			<pb n="283" type="skipped"/>
-			<p><rs ref="#berlin.1876.4" type="event"><hi rend="bold kanzlei"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi> kam in <placeName
-						ref="#berlin">Berlin</placeName> am <date when-iso="1876-05-10"
+			<p><rs key="berlin.1876.4" type="event"><hi rend="bold kanzlei"><persName
+							key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> kam in <placeName
+						key="berlin">Berlin</placeName> am <date when-iso="1876-05-10"
 						>Bußtage</date> zum 4. Male zur Aufführung</rs>, und hat sich also als den
-				hiesigen Ansprüchen gewachsen erwiesen. Wie in der Oper <title ref="#verdi.aida"
-					>Aïda</title> ist <persName ref="#verdi.giuseppe">Verdi</persName> auch hier ein
-				Anderer geworden, und das <title ref="#verdi.requiem">Requiem</title> unterscheidet
-				sich sehr von <persName ref="#rossini.gioachino">Rossini’s</persName>
-				<title ref="#rossini.stabat-mater">Stabat mater</title>. Dass <persName
-					ref="#rossini.gioachino">Rossini</persName> noch eine <title
-					ref="#rossini.petite-messe-solennelle">„feierliche Messe”</title> geschrieben,
+				hiesigen Ansprüchen gewachsen erwiesen. Wie in der Oper <title key="verdi.aida" type="mus"
+					>Aïda</title> ist <persName key="verdi.giuseppe">Verdi</persName> auch hier ein
+				Anderer geworden, und das <title key="verdi.requiem" type="mus">Requiem</title> unterscheidet
+				sich sehr von <persName key="rossini.gioachino">Rossini’s</persName>
+				<title key="rossini.stabat-mater" type="mus">Stabat mater</title>. Dass <persName
+					key="rossini.gioachino">Rossini</persName> noch eine <title
+					key="rossini.petite-messe-solennelle" type="mus">„feierliche Messe”</title> geschrieben,
 				die wohl nur deshalb so wenig Aufsehen erregte, weil sie erst nach dem Tode des
 				Komponisten zur Aufführung kam, vergisst man dabei. Man wundert sich so viel
 				darüber, dass diese heutige italienische Musik nicht mehr so italienisch
@@ -61,39 +61,39 @@
 				kann die Musik nicht bleiben, denn einen Stillstand giebt es in ihrer Geschichte
 				auch nicht, und so kennt auch die heutige italienische Musik nicht mehr jene
 				langathmigen, gleichr<supplied resp="tr">h</supplied>ythmischen und gleichmäßigen
-					Melodie<surplus resp="tr">e</surplus>n, welche <persName ref="#bellini.vincenzo"
-					>Bellini</persName>, <persName ref="#rossini.gioachino">Rossini</persName> und
-					<persName ref="#donizetti.gaetano">Donizetti</persName> schrieben. Was den
+					Melodie<surplus resp="tr">e</surplus>n, welche <persName key="bellini.vincenzo"
+					>Bellini</persName>, <persName key="rossini.gioachino">Rossini</persName> und
+					<persName key="donizetti.gaetano">Donizetti</persName> schrieben. Was den
 				eigentlichen Musikgehalt anbetrifft, so ist es ebenso unzulässig nun anzunehmen,
 				dass es nur noch eine Musik gäbe in Deutsch- und Welschland, als es jene absolute
 				Nichtachtung der früheren italienischen Musik war. Trotz vieler und großer
 				Entschuldigungen dafür bleibt es der Kritik und einem <pb break="yes" n="284"
 					type="regular"/>großen Theile der deutschen Musiker doch als ein Unrecht
 				anzurechnen, dass sie diese mit wahrer Indignation und hochmüthiger Verachtung
-				behandelten. Einer der größten Musikkritiker, <persName ref="#heine.heinrich">H. <hi
+				behandelten. Einer der größten Musikkritiker, <persName key="heine.heinrich">H. <hi
 						rend="widespace">Heine</hi></persName>, kannte diese parteiliche Schwäche
 				der deutschen Kritiker auch nicht. Man lese im Salon nach, was er über <persName
-					ref="#rossini.gioachino">Rossini’s</persName>
-				<title ref="#rossini.stabat-mater">Stabat mater</title> schrieb! <orgName
-					ref="#tonkunst">Die Tonkunst</orgName> macht sich auch nicht zum Nachbeter
+					key="rossini.gioachino">Rossini’s</persName>
+				<title key="rossini.stabat-mater" type="mus">Stabat mater</title> schrieb! <orgName
+					key="tonkunst">Die Tonkunst</orgName> macht sich auch nicht zum Nachbeter
 				irgend welcher Partei, sondern will nur der Wahrheit dienen. Da ist <persName
-					ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Todtenmesse</title> nun doch immer echt italische Musik.
+					key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Todtenmesse</title> nun doch immer echt italische Musik.
 				Die Formen sind plastisch, die melodischen Themen reliefartig hervortretend, die
 				Instrumentation tief gesättigt; kurz, die Vorzüge unserer südländischen Nachbarmusik
 				zeigen sich im vollsten Lichte. Dagegen muss dem Deutschen stets das Fremdländische
-				fühlbar bleiben, und das ist gut so. Da <persName ref="#gounod.charles"
+				fühlbar bleiben, und das ist gut so. Da <persName key="gounod.charles"
 					>Gounod</persName> ebenfalls eine <title
-					ref="#gounod.messe-breve-pour-les-morts">Messe</title> zur Aufführung brachte,
+					key="gounod.messe-breve-pour-les-morts" type="mus">Messe</title> zur Aufführung brachte,
 				so liegt ein Vergleich nahe. Ein solcher soll den Lesern auch gebracht werden, und
 				wird deshalb heute auf ein näheres Eingehen verzichtet. Gesagt sei nur, dass eine
 				große Anzahl von höchst originellen und schönen Zügen das widerwillige Publikum
-					<placeName ref="#berlin">Berlins</placeName> bezwangen, und der Erfolg, getragen
+					<placeName key="berlin">Berlins</placeName> bezwangen, und der Erfolg, getragen
 				durch die treffliche Ausführung der Kgl. Oper und deren Sänger (Frl. <persName
-					ref="#lehmann.lilli">Lehmann</persName> und <persName ref="#brandt.marianne"
-					>Brandt</persName>, HH. <persName ref="#ernst.heinrich">Ernst</persName> und
-					<persName ref="#betz.franz">Betz</persName>), unter Direktion <persName
-					ref="#radecke.robert">Radecke’s</persName> ein günstiger genannt werden
+					key="lehmann.lilli">Lehmann</persName> und <persName key="brandt.marianne"
+					>Brandt</persName>, HH. <persName key="ernst.heinrich">Ernst</persName> und
+					<persName key="betz.franz">Betz</persName>), unter Direktion <persName
+					key="radecke.robert">Radecke’s</persName> ein günstiger genannt werden
 				muss.</p>
 		</body>
 	</text>

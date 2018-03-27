@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="sat" when-iso="1876-01-15"/>
 					<biblScope unit="issue">11</biblScope>
 					<biblScope unit="volume">26</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -40,13 +40,13 @@
 			<cb n="3c"/>
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>
-			<p> (<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title></hi>.) Aus dem Erträgniß der <rs
-					ref="#bruenn.1876" type="event">zweimaligen Aufführung des <persName
-						ref="#verdi.giuseppe">Verdi’schen</persName>
-					<title ref="#verdi.requiem">Requiems</title></rs> sind dem hiesigen
+			<p> (<hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title></hi>.) Aus dem Erträgniß der <rs
+					key="bruenn.1876" type="event">zweimaligen Aufführung des <persName
+						key="verdi.giuseppe">Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Requiems</title></rs> sind dem hiesigen
 				evangelischen Frauenvereine durch gütige Vermittlung der Frau <persName
-					ref="#gompertz-bettelheim.karoline-von">von Gomperz-Bettelheim</persName> 250
+					key="gompertz-bettelheim.karoline-von">von Gomperz-Bettelheim</persName> 250
 				fl. übergeben worden, für welche hochherzige Spende dieser Verein dem
 				veranstaltenden Komite den verbindlichen Dank ausspricht.</p>
 		</body>

@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="sun" when-iso="1875-11-21"/>
 					<biblScope unit="issue">267</biblScope>
 					<biblScope unit="volume">25</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -37,18 +37,18 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (Das <title ref="#verdi.requiem"
+			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (Das <title key="verdi.requiem" type="mus"
 					>Requiem</title>
-				<persName ref="#verdi.giuseppe">Verdi’s</persName>.) Zu unserer gestrigen Meldung
-				wegen <rs ref="#bruenn.1876.1" type="event">Produktion des <persName
-						ref="#verdi.giuseppe">Verdi’schen</persName>
-					<title ref="#verdi.requiem">Requiems</title> am <date when-iso="1876-01-02">2.
+				<persName key="verdi.giuseppe">Verdi’s</persName>.) Zu unserer gestrigen Meldung
+				wegen <rs key="bruenn.1876.1" type="event">Produktion des <persName
+						key="verdi.giuseppe">Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Requiems</title> am <date when-iso="1876-01-02">2.
 						Jänner 1876</date></rs> fügen wir noch hinzu, daß nebst dem künstlerischen
 				Interesse auch ein Wohlthätigkeitszweck hiemit in Verbindung gesetzt werden soll.
 				Die erzielte Reineinnahme wird nämlich den vier Brünner wohlthätigen Frauen-Vereinen
 				gewidmet werden. Zur Ausführung bildet sich ein Komite, dem die angesehensten Damen
 				unserer Stadt nebst mehreren in der Kunstwelt bekannten Herren angehören. Als
-				Produktionsort wurde einstweilen der <placeName ref="#bruenn.redouta-theater"
+				Produktionsort wurde einstweilen der <placeName key="bruenn.redouta-theater"
 					>Redoutensaal</placeName> angenommen, die Partitur zum Zwecke der Aufführung ist
 				schon angekauft.</p>
 		</body>

@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tonkunst" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="tonkunst" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-iso="1876-04-29"/>
 					<biblScope unit="issue">14</biblScope>
 					<biblScope unit="volume">1</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#leipzig"/></creation>
+			<creation><placeName key="leipzig"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -43,12 +43,12 @@
 			<gap resp="tr"/>
 			<pb n="243"/>
 			<gap/>
-			<p><rs ref="#leipzig.1876.2" type="event">Das <hi rend="bold kanzlei"><placeName
-							ref="#leipzig.gewandhaus">Gewandhaus</placeName></hi> wiederholte
-						<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> mit aufgehobenem Abonnement vor —
+			<p><rs key="leipzig.1876.2" type="event">Das <hi rend="bold kanzlei"><placeName
+							key="leipzig.gewandhaus">Gewandhaus</placeName></hi> wiederholte
+						<persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> mit aufgehobenem Abonnement vor —
 					halbleerem Saale.</rs> Seltsam! Sollte daraus zu schließen sein, dass das
-					<placeName ref="#leipzig.gewandhaus">Gewandhaus</placeName> ein mit dem kleinen
+					<placeName key="leipzig.gewandhaus">Gewandhaus</placeName> ein mit dem kleinen
 				Saale abschließendes Publikum nur besäße!</p>
 		</body>
 	</text>

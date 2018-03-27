@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#signale" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="signale" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date cert="low" notAfter-iso="1876-01-31" notBefore-iso="1876-01-09"
 						when-iso="1876-01-31"/>
 					<!--BIBLIO Datierung: vgl. Signale Januar 1876, Nr. 7-->
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -48,17 +48,17 @@
 			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
 			<pb break="null" n="104" type="skipped"/>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
-				<hi rend="widespace">In <placeName ref="#wien">Wien</placeName></hi> fanden im
-					<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> in den 365
+				<hi rend="widespace">In <placeName key="wien">Wien</placeName></hi> fanden im
+					<placeName key="wien.hof-operntheater">Hofoperntheater</placeName> in den 365
 				Tagen des Jahres <date when-iso="1875">1875</date> 294 Vorstellungen statt. An
 				Novitäten wurde gegeben: <gap resp="tr"/>
-				<rs ref="#wien.1875.1" type="event">am <date when-iso="1875-06-11">11. Juni</date>
-					zum ersten Male: „<title ref="#verdi.requiem">Requiem</title>“ (Manzoni-Messe)
-					unter persönlicher Leitung <persName ref="#verdi.giuseppe">Verdi’s</persName>
-					und Mitwirkung der Damen <persName ref="#stolz.teresa">Therese Stolz</persName>
-					und <persName ref="#waldmann.maria">Marie Waldmann</persName> und der Herren
-						<persName ref="#masini.angelo">Angelo Masini</persName> und <persName
-						ref="#medini.paolo">Paolo Medini</persName></rs>; <gap resp="tr"/></p>
+				<rs key="wien.1875.1" type="event">am <date when-iso="1875-06-11">11. Juni</date>
+					zum ersten Male: „<title key="verdi.requiem" type="mus">Requiem</title>“ (Manzoni-Messe)
+					unter persönlicher Leitung <persName key="verdi.giuseppe">Verdi’s</persName>
+					und Mitwirkung der Damen <persName key="stolz.teresa">Therese Stolz</persName>
+					und <persName key="waldmann.maria">Marie Waldmann</persName> und der Herren
+						<persName key="masini.angelo">Angelo Masini</persName> und <persName
+						key="medini.paolo">Paolo Medini</persName></rs>; <gap resp="tr"/></p>
 		</body>
 	</text>
 </TEI>

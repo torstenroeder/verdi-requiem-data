@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#salzburger-volksblatt"/>
-					<placeName ref="#salzburg"/>
+					<orgName key="salzburger-volksblatt"/>
+					<placeName key="salzburg"/>
 					<date when-custom="tue" when-iso="1876-04-18"/>
 					<biblScope unit="issue">46</biblScope>
 					<biblScope unit="volume">6</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -45,9 +45,9 @@
 			<head rend="larger">Salzburger Nachrichten.</head>
 			<gap resp="tr"/>
 			<p><g n="002A" type="ASTERISK">*</g>
-				<rs ref="#salzburg.1876" type="event">Zu <hi rend="bold"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi> finden die letzten Proben
+				<rs key="salzburg.1876" type="event">Zu <hi rend="bold"><persName
+							key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> finden die letzten Proben
 						(<hi rend="widespace">ausschließlich für die Mitwirkenden zugänglich</hi>)
 					wie folgt statt</rs>: Morgen <date when-iso="1876-04-19">Mittwoch den 19.
 					April</date> Nachmittags 4 Uhr im Kapellhause letzte Clavierprobe des Chors.
@@ -59,10 +59,10 @@
 				Die <hi rend="antiqua">P. T.</hi> Mitwirkenden beim Chore werden freundlichst und
 				dringend ersucht, sich im Interesse der Sache bei diesen letzten Proben gütigst <hi
 					rend="widespace">vollzählig</hi> zu betheiligen. — Herr <hi rend="widespace"
-						><persName ref="#schuegraf.eduard">Schuegraf</persName></hi>, der rühmlichst
+						><persName key="schuegraf.eduard">Schuegraf</persName></hi>, der rühmlichst
 				bekannte Concert- und Oratorien-Sänger aus München, ist bereits zur Aufführung des
-					<persName ref="#verdi.giuseppe">Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiems</title> hier eingetroffen.</p>
+					<persName key="verdi.giuseppe">Verdi’schen</persName>
+				<title key="verdi.requiem" type="mus">Requiems</title> hier eingetroffen.</p>
 		</body>
 	</text>
 </TEI>

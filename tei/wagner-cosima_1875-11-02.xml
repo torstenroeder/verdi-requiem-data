@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Cosima Wagner, Tagebuch, 2. November 1875</title>
-				<author><persName ref="#wagner.cosima"/></author>
+				<author><persName key="wagner.cosima"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -26,7 +26,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/><date when-iso="1875-11-02"/></creation>
+			<creation><placeName key="wien"/><date when-iso="1875-11-02"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -42,12 +42,12 @@
 		<body rend="antiqua">
 			<p><hi rend="italic"><date when-iso="1875-11-02">Dienstag 2ten</date></hi>
 				<gap resp="tr"/>
-				<rs ref="#wien.1875a.2" type="event">Abends das »<title ref="#verdi.requiem"
-						>Requiem</title>« von <persName ref="#verdi.giuseppe">Verdi</persName></rs>,
+				<rs key="wien.1875a.2" type="event">Abends das »<title key="verdi.requiem" type="mus"
+						>Requiem</title>« von <persName key="verdi.giuseppe">Verdi</persName></rs>,
 				worüber nicht zu sprechen entschieden das beste ist. — — — <date
 					when-iso="1875-11-02">Allerseelentag</date> heute, wie vieles ging mir verloren!
-				Ich bringe den Abend mit <persName ref="#sierzputowska.emilie">Emilie</persName> zu,
-				von <persName ref="#muchanoff.maria">Marie</persName> sprechend, des Todes
+				Ich bringe den Abend mit <persName key="sierzputowska.emilie">Emilie</persName> zu,
+				von <persName key="muchanoff.maria">Marie</persName> sprechend, des Todes
 				gedenkend.</p>
 		</body>
 	</text>

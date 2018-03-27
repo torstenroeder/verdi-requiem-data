@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 30. Dezember 1875</title>
-				<author><persName ref="#akronym.cw"/></author>
+				<author><persName key="akronym.cw"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="thu" when-iso="1875-12-30"/>
 					<biblScope unit="issue">298</biblScope>
 					<biblScope unit="volume">25</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -39,65 +39,65 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb n="2"/>
-			<head rend="larger">Das <title ref="#verdi.requiem">Requiem</title> von <persName
-					ref="#verdi.giuseppe">Verdi</persName>.</head>
-			<p><hi rend="antiqua"><persName ref="#akronym.cw">C. W.</persName></hi>
-				<hi rend="bold"><placeName ref="#bruenn">Brünn</placeName>,</hi>
+			<head rend="larger">Das <title key="verdi.requiem" type="mus">Requiem</title> von <persName
+					key="verdi.giuseppe">Verdi</persName>.</head>
+			<p><hi rend="antiqua"><persName key="akronym.cw">C. W.</persName></hi>
+				<hi rend="bold"><placeName key="bruenn">Brünn</placeName>,</hi>
 				<date when-iso="1875-12-29">29. Dezember</date>. „Zum ersten Jahrestag des Todes
-					<persName ref="#manzoni.alessandro">Alessandro Manzoni’s</persName>
-				<date when-iso="1874-05-22">22. Mai 1874</date>, <title ref="#verdi.requiem"
-					>Requiem</title>, komponirt von <persName ref="#verdi.giuseppe">Verdi</persName>
+					<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>
+				<date when-iso="1874-05-22">22. Mai 1874</date>, <title key="verdi.requiem" type="mus"
+					>Requiem</title>, komponirt von <persName key="verdi.giuseppe">Verdi</persName>
 				für vier Solostimmen und Chor,“ — so lautet die Ueberschrift in der Partitur dieses
-				Werkes, welches <rs ref="#bruenn.1876.1" type="event">dem Publikum <placeName
-						ref="#bruenn">Brünns</placeName> am <date when-iso="1876-01-02">zweiten
+				Werkes, welches <rs key="bruenn.1876.1" type="event">dem Publikum <placeName
+						key="bruenn">Brünns</placeName> am <date when-iso="1876-01-02">zweiten
 						Jänner 1876</date> zum erstenmale vorgeführt</rs> werden soll.</p>
-			<p><persName ref="#manzoni.alessandro">Alessandro Graf Manzoni</persName>, einer der
+			<p><persName key="manzoni.alessandro">Alessandro Graf Manzoni</persName>, einer der
 				neueren italienischen Dichter, geboren <date when-iso="1784">1784</date> in
-					<placeName ref="#mailand">Mailand</placeName> und gestorben am <date
+					<placeName key="mailand">Mailand</placeName> und gestorben am <date
 					when-iso="1873-05-22">22. Mai 1873</date> hat sich durch seine lyrischen und
 				dramatischen Werke, mehr aber durch seinen Roman <hi rend="antiqua">„I promessi
 					sposi storia milanese del secola XVII“</hi>, der auch in <placeName
-					ref="#deutschland">Deutschland</placeName> bekannt geworden ist, eine
-				hervorragende Stellung in der Kunstwelt erworben. <placeName ref="#italien"
+					key="deutschland">Deutschland</placeName> bekannt geworden ist, eine
+				hervorragende Stellung in der Kunstwelt erworben. <placeName key="italien"
 					>Italien</placeName> feierte das Gedächtniß des Verstorbenen und <persName
-					ref="#verdi.giuseppe">Verdi</persName> setzte ihm ein musikalisches Denkmal.</p>
+					key="verdi.giuseppe">Verdi</persName> setzte ihm ein musikalisches Denkmal.</p>
 			<p>Als vor mehr als einem Jahre Zeitungsnotizen meldeten, <persName
-					ref="#verdi.giuseppe">Verdi</persName> versuche sich mit der kirchlichen Musik
+					key="verdi.giuseppe">Verdi</persName> versuche sich mit der kirchlichen Musik
 				und komponire eine Missa pro defunctis, eine Todtenmesse, da schüttelten manche
-				Musiker ungläubig das Haupt. Wie, der Komponist des <title ref="#verdi.nabucco"
-					>Nabukko</title>, <title ref="#verdi.ernani">Ernani</title>, <title
-					ref="#verdi.rigoletto">Rigoletto</title>, der <title ref="#verdi.la-traviata"
-					>Traviata</title> und des <title ref="#verdi.il-trovatore">Trubadour</title>
+				Musiker ungläubig das Haupt. Wie, der Komponist des <title key="verdi.nabucco" type="mus"
+					>Nabukko</title>, <title key="verdi.ernani" type="mus">Ernani</title>, <title
+					key="verdi.rigoletto" type="mus">Rigoletto</title>, der <title key="verdi.la-traviata" type="mus"
+					>Traviata</title> und des <title key="verdi.il-trovatore" type="mus">Trubadour</title>
 				wage es auf einem musikalischen Gebiete, welches die größten deutschen Meister als
 				ihre Domäne besaßen? Er hatte es gewagt und mit einem unbestrittenen Erfolge, gleich
-				jenem, welchen er mit seiner Oper <title ref="#verdi.aida">Aida</title> errungen.
+				jenem, welchen er mit seiner Oper <title key="verdi.aida" type="mus">Aida</title> errungen.
 				Und als wollte er den strengen Theoretikern ein Schnippchen schlagen, brachte er
-				gleich im ersten Satze <title ref="#verdi.requiem.1">Requiem und Kyrie</title> — <hi
-					rend="antiqua">„<title n="te-decet-hymnus" ref="#verdi.requiem.1">Te decet
-						hymnus</title>“</hi> einen fugirten Satz, im <title ref="#verdi.requiem.4"
+				gleich im ersten Satze <title key="verdi.requiem.1" type="mus">Requiem und Kyrie</title> — <hi
+					rend="antiqua">„<title n="te-decet-hymnus" key="verdi.requiem.1" type="mus">Te decet
+						hymnus</title>“</hi> einen fugirten Satz, im <title key="verdi.requiem.4" type="mus"
 					>Sanctus</title> aber sogar eine achtstimmige Doppelfuge. Daß <persName
-					ref="#verdi.giuseppe">Verdi</persName> seine Studien an den Werken der
+					key="verdi.giuseppe">Verdi</persName> seine Studien an den Werken der
 				klassischen Meister seiner Nation und an jenen der deutschen gemacht, darüber läßt
 				sich nicht zweifeln. Der Einfluß der deutschen Musik zeigte sich schon auffallend in
-				seiner Oper <title ref="#verdi.aida">Aida</title> und diese Thatsache erinnert uns
-				an den beinahe gleichen Entwicklungsgang <persName ref="#rossini.gioachino"
-					>Rossini’s</persName>, welcher in seinem „<title ref="#rossini.guillaume-tell"
+				seiner Oper <title key="verdi.aida" type="mus">Aida</title> und diese Thatsache erinnert uns
+				an den beinahe gleichen Entwicklungsgang <persName key="rossini.gioachino"
+					>Rossini’s</persName>, welcher in seinem „<title key="rossini.guillaume-tell" type="mus"
 					>Tell</title>“ beinahe ganz neue Bahnen betrat und im <hi rend="antiqua">„<title
-						ref="#rossini.stabat-mater">Stabat Mater</title>,“</hi> welches vor mehreren
-				Jahren im <placeName ref="#bruenn.redouta-theater">Redoutensaale</placeName> zur
+						key="rossini.stabat-mater" type="mus">Stabat Mater</title>,“</hi> welches vor mehreren
+				Jahren im <placeName key="bruenn.redouta-theater">Redoutensaale</placeName> zur
 				Aufführung gelangte, auch auf das kirchliche Gebiet, freilich ohne Glück,
 				streifte.</p>
 			<cb break="yes" n="2b" type="regular"/>
-			<p>Sowie aber <persName ref="#rossini.gioachino">Rossini</persName> den Italiener nicht
-				verläugnen konnte, so kann es auch <persName ref="#verdi.giuseppe">Verdi</persName>
-				in seinem <title ref="#verdi.requiem">Requiem</title> nicht. Der bekannte Ausspruch
+			<p>Sowie aber <persName key="rossini.gioachino">Rossini</persName> den Italiener nicht
+				verläugnen konnte, so kann es auch <persName key="verdi.giuseppe">Verdi</persName>
+				in seinem <title key="verdi.requiem" type="mus">Requiem</title> nicht. Der bekannte Ausspruch
 				des römischen Dichters <hi rend="antiqua">„Naturam expellas furca, tamen usque
-					recurret,“</hi><note resp="tr" type="literatureLink">Vgl. <persName ref="#horaz"
+					recurret,“</hi><note resp="tr" type="literatureLink">Vgl. <persName key="horaz"
 						>Horaz</persName>, Epistularum, Liber Primus, X, 24; z. B. <ref
 						target="https://archive.org/stream/operahor02horauoft#page/236/mode/1up"
 						type="text">Keller/Holder (Leipzig 1864), S. 236</ref>. – »Auch wenn du die
 					Natur gewaltsam austreibst, kehrt sie doch zurück.«</note> welchen wir in
-				Beziehung auf <persName ref="#verdi.giuseppe">Verdi</persName> mit: „Der Italiener
+				Beziehung auf <persName key="verdi.giuseppe">Verdi</persName> mit: „Der Italiener
 				kann seine Natur nicht verläugnen,“ frei übersetzen möchten, wurde zur Wahrheit und
 				alle Behauptungen, welche in manchen Urtheilen geschaffen, sind darum nicht richtig,
 				weil sie unmittelbar nach dem bloßen Hören ohne tieferen Eingehen geschöpft
@@ -105,52 +105,52 @@
 			<p>Der nationale Charakter tritt in der Melodienführung, in dem intensiven Ausdruck,
 				welcher in den vokalen Theil gelegt ist, in der vollen Harmonie des Orchesters
 				hervor. Das ist keine Todtenmesse, wie sie von unsern deutschen Meistern geschaffen
-				wurden. Aber gerade dieses südliche Kolorit gibt dem <persName ref="#verdi.giuseppe"
+				wurden. Aber gerade dieses südliche Kolorit gibt dem <persName key="verdi.giuseppe"
 					>Verdischen</persName>
-				<title ref="#verdi.requiem">Requiem</title> einen eigenthümlichen Reiz, welcher
+				<title key="verdi.requiem" type="mus">Requiem</title> einen eigenthümlichen Reiz, welcher
 				dadurch erhöht wird, daß der Komponist einen oft meisterhaften polyphonen Satz zur
 				Anwendung bringt, der bei ihm allerdings als originell gelten mag.</p>
 			<p>Die steifen Theoretiker freilich, welche den Kontrapunk nach den logischen
 				Grundregeln Mephistos „Da wird der Geist wohl dessirt, in spanische Stiefel
 					eingeschnürt“<note resp="tr" type="literatureLink">Vgl. <persName
-						ref="#goethe.johann-wolfgang-von">Goethe</persName>, Faust I, Studierzimmer;
+						key="goethe.johann-wolfgang-von">Goethe</persName>, Faust I, Studierzimmer;
 					z.B. nach: <ref
 						target="https://archive.org/stream/faust04unkngoog#page/n78/mode/1up"
 						type="text">Stuttgart 1863, S. 70</ref>.</note> — lehren wollen, werden über
-				manche Freiheiten, die sich <persName ref="#verdi.giuseppe">Verdi</persName>
+				manche Freiheiten, die sich <persName key="verdi.giuseppe">Verdi</persName>
 				erlaubt, stolpern, aber der Maestro kümmert sich wenig um Schulweisheit, wo er sein
 				Genie sprechen läßt.</p>
-			<p>Man hat die „<title ref="#verdi.requiem">Todtenmesse</title>“ meist nur in
+			<p>Man hat die „<title key="verdi.requiem" type="mus">Todtenmesse</title>“ meist nur in
 				Konzertsälen zur Aufführung gebracht, wer aber glauben wollte, sie passe nicht auch
 				in die Kirche, der täuscht sich gewaltig. Das Werk duftet gerade nicht nach
 				Weihrauch, aber es hat in vielen seinen Theilen einen kirchlichen Zug, es ergreift,
 				es erhebt. Wir machen auf das „<hi rend="antiqua"><title
-						ref="#verdi.requiem.2.recordare">Recordare Hostias</title></hi>“ und
-				besonders „<title ref="#verdi.requiem.5">Agnus</title>“ aufmerksam. In letzterem
+						key="verdi.requiem.2.recordare" type="mus">Recordare Hostias</title></hi>“ und
+				besonders „<title key="verdi.requiem.5" type="mus">Agnus</title>“ aufmerksam. In letzterem
 				beginnen Sopran und Mezzosopran die Melodie (in Oktaven)<supplied resp="tr"
 					>,</supplied> werden später von sanften Flöten begleitet und vom Chor gleichsam
 				eingerahmt. Der Effekt dieses Tonstückes ist wunderbar.</p>
 			<p>Von ergreifender Wirkung ist das <hi rend="antiqua"><title
-						ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title></hi> (Mezzosopransolo),
+						key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title></hi> (Mezzosopransolo),
 				welches hier von Frau <hi rend="widespace"><persName
-						ref="#gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName></hi>
+						key="gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName></hi>
 				<cb break="yes" n="2c" type="regular"/>gesungen werden wird. Der Satz bewegt sich in
 				der düsteren <hi rend="antiqua">b-moll</hi> Tonart im <hi rend="antiqua">Largo con
 					molta espressione</hi> und ist auch insoferne bemerkenswerth als der Singstimme
 				schluchzende Akzente zugehteilt sind.</p>
-			<p>Im „<hi rend="antiqua"><title ref="#verdi.requiem.2">dies irae</title></hi>“ soll der
+			<p>Im „<hi rend="antiqua"><title key="verdi.requiem.2" type="mus">dies irae</title></hi>“ soll der
 				Weltuntergang, der Tag des Gerichtes geschildert werden und <persName
-					ref="#verdi.giuseppe">Verdi</persName> hat auch stark <hi rend="antiqua">al
+					key="verdi.giuseppe">Verdi</persName> hat auch stark <hi rend="antiqua">al
 					fresco</hi> gemalt. Von großem Effekte sind die mit Macht ertönenden Posaunen,
 				eine Idee, welche zwar nicht neu, aber glücklich verwerthet ist. Im <title
-					ref="#verdi.requiem.4">Sanctus</title> ist gleich Anfangs die Blechharmonie
+					key="verdi.requiem.4" type="mus">Sanctus</title> ist gleich Anfangs die Blechharmonie
 				dominirent, aber dies dürfte nach unserem Empfinden die schwächste Partie des Werkes
 				sein. Gott den Herrn so stark in „Trompeten“ zu loben, ist gar zu — militärisch.</p>
-			<p>Nach dem „<hi rend="antiqua"><title n="requiem-aeternam" ref="#verdi.requiem.7"
+			<p>Nach dem „<hi rend="antiqua"><title n="requiem-aeternam" key="verdi.requiem.7" type="mus"
 						>Requiem aeternam dona eis Domine</title></hi>“, mit welchem die
-				Todtenmessen schließen, läßt <persName ref="#verdi.giuseppe">Verdi</persName> nach
+				Todtenmessen schließen, läßt <persName key="verdi.giuseppe">Verdi</persName> nach
 				„langer Pause“ noch einen Satz „<hi rend="antiqua"><title n="libera-me.fuga"
-						ref="#verdi.requiem.7">Libera me Domine, de morte aeterna</title></hi>,“
+						key="verdi.requiem.7" type="mus">Libera me Domine, de morte aeterna</title></hi>,“
 				Befreie mich Herr vom ewigen Tode, folgen, welcher nach einem kurzen Rezitative in
 				ein <hi rend="antiqua">Allegro risoluto</hi> übergeht, welches theilweise fugirt
 				gehalten, das ganze Werk in würdiger und erhebender Weise zum Abschlusse bringt.</p>
@@ -161,13 +161,13 @@
 				Komponisten auf einem ganz neuen Gebiete zu begegnen, so ist es noch mehr die edle
 				würdige Haltung des ganzen Werkes, welches bei großem Melodienreichthum, glänzender
 				Instrumentation eine weihevolle Stimmung hervorbringt.</p>
-			<p>Das Konzert, in welchem uns das „<title ref="#verdi.requiem">Manzoni-Requiem</title>“
+			<p>Das Konzert, in welchem uns das „<title key="verdi.requiem" type="mus">Manzoni-Requiem</title>“
 				unter Mitwirkung der Frau <hi rend="widespace"><persName
-						ref="#gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName></hi>,
+						key="gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName></hi>,
 				der Mitglieder des Musikvereines und der besten Kräfte unserer Oper, Fräulein <hi
-					rend="widespace"><persName ref="#will.julie">Will</persName></hi>, der Herren
-					<hi rend="widespace"><persName ref="#curiel.xxx">Curiel</persName></hi> und <hi
-					rend="widespace"><persName ref="#krejci.friedrich">Krejczy</persName></hi>,
+					rend="widespace"><persName key="will.julie">Will</persName></hi>, der Herren
+					<hi rend="widespace"><persName key="curiel.xxx">Curiel</persName></hi> und <hi
+					rend="widespace"><persName key="krejci.friedrich">Krejczy</persName></hi>,
 				vorgeführt wird, bildet den Höhepunkt unserer diesjährigen musikalischen Saison und
 				wir können mit Sicherheit einem hohen Genuße entgegensehen.</p>
 		</body>

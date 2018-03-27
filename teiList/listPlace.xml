@@ -15,15 +15,25 @@
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
+			<geoDecl xml:id="geohash">geohash.org</geoDecl>
 			<p>see http://verdi-requiem.de for a detailed description</p>
+			<p>Modell:</p>
+			<p>place[@type=bloc][@subtype=continent] = Kontinent.</p>
+			<p>place[@type=bloc][@subtype=area] = Kontinentalregion ohne politische Definition.</p>
+			<p>place[@type=bloc][@subtype=union] = Staatenbund.</p>
+			<p>place[@type=country] = Staat.</p>
+			<p>place[@type=region][@subtype=domain] = Administrativ definierter Landesteil.</p>
+			<p>place[@type=region][@subtype=area] = Landesregion ohne politische Definition.</p>
+			<p>place[@type=settlement] = Ortschaft.</p>
+			<p>place[@type=building] = Gebäude.</p>
 		</encodingDesc>
 	</teiHeader>
 	<text xml:lang="de">
 		<body>
 			<head>Orte</head>
-			<listPlace>
-				<head>Kontinente</head>
-				<place type="continent" xml:id="afrika">
+			<listPlace type="bloc">
+				<head>Erdteile und Regionen</head>
+				<place subtype="continent" type="bloc" xml:id="afrika">
 					<placeName type="index" xml:lang="de">Afrika</placeName>
 					<placeName xml:lang="en">Africa</placeName>
 					<placeName xml:lang="fr">Afrique</placeName>
@@ -32,7 +42,7 @@
 					<placeName xml:lang="ru">Африка</placeName>
 					<bibl type="de.wikipedia.org">Afrika</bibl>
 				</place>
-				<place type="continent" xml:id="europa">
+				<place subtype="continent" type="bloc" xml:id="europa">
 					<placeName type="index" xml:lang="de">Europa</placeName>
 					<placeName xml:lang="en">Europe</placeName>
 					<placeName xml:lang="fr">Europe</placeName>
@@ -41,7 +51,14 @@
 					<placeName xml:lang="ru">Европа</placeName>
 					<bibl type="de.wikipedia.org">Europa</bibl>
 				</place>
-				<place type="continent" xml:id="nordamerika">
+				<place subtype="area" type="bloc" xml:id="skandinavien">
+					<placeName type="index" xml:lang="de">Skandinavien</placeName>
+					<location>
+						<bloc key="europa" role="area"/>
+					</location>
+					<bibl type="de.wikipedia.org">Skandinavien</bibl>
+				</place>
+				<place subtype="continent" type="bloc" xml:id="nordamerika">
 					<placeName type="index" xml:lang="de">Nordamerika</placeName>
 					<placeName xml:lang="en">North America</placeName>
 					<placeName xml:lang="fr">Amérique du Nord</placeName>
@@ -50,7 +67,7 @@
 					<placeName xml:lang="ru">Северная Америка</placeName>
 					<bibl type="de.wikipedia.org">Nordamerika</bibl>
 				</place>
-				<place type="continent" xml:id="suedamerika">
+				<place subtype="continent" type="bloc" xml:id="suedamerika">
 					<placeName type="index" xml:lang="de">Südamerika</placeName>
 					<placeName xml:lang="en">South America</placeName>
 					<placeName xml:lang="fr">Amérique du Sud</placeName>
@@ -60,8 +77,8 @@
 					<bibl type="de.wikipedia.org">Südamerika</bibl>
 				</place>
 			</listPlace>
-			<listPlace>
-				<head>Länder, Staatenbünde und Regionen</head>
+			<listPlace type="country|bloc|region">
+				<head>Länder, Gebiete und Staatenbünde</head>
 				<place type="country" xml:id="aegypten">
 					<placeName type="index" xml:lang="de">Ägypten</placeName>
 					<placeName xml:lang="en">Egypt</placeName>
@@ -70,7 +87,7 @@
 					<placeName xml:lang="pl">Egipt</placeName>
 					<placeName xml:lang="ru">Египет</placeName>
 					<location>
-						<geogName ref="#afrika"/>
+						<bloc key="afrika" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Ägypten</bibl>
 				</place>
@@ -81,9 +98,9 @@
 					<placeName xml:lang="it">Baviera</placeName>
 					<placeName xml:lang="pl">Bawaria</placeName>
 					<placeName xml:lang="ru">Бавария</placeName>
-					<country from="1871" ref="#deutschland" role="administration"/>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<country from="1871" key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Bayern</bibl>
 				</place>
@@ -95,16 +112,16 @@
 					<placeName xml:lang="pl">Belgia</placeName>
 					<placeName xml:lang="ru">Бельгия</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Belgien</bibl>
 				</place>
 				<place type="country" xml:id="boehmen">
 					<placeName type="index" xml:lang="de">Böhmen</placeName>
 					<placeName from="1993" xml:lang="de">Tschechien</placeName>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Böhmen</bibl>
 				</place>
@@ -116,7 +133,7 @@
 					<placeName xml:lang="pl">Brazylia</placeName>
 					<placeName xml:lang="ru">Бразилия</placeName>
 					<location>
-						<geogName ref="#suedamerika" role="continent"/>
+						<bloc key="suedamerika" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Brasilien</bibl>
 				</place>
@@ -129,7 +146,7 @@
 					<placeName xml:lang="pl">Niemcy</placeName>
 					<placeName xml:lang="ru">Германия</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Deutschland</bibl>
 				</place>
@@ -141,7 +158,7 @@
 					<placeName xml:lang="pl">Francja</placeName>
 					<placeName xml:lang="ru">Франция</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Frankreich</bibl>
 				</place>
@@ -153,7 +170,7 @@
 					<placeName xml:lang="pl">Grecja</placeName>
 					<placeName xml:lang="ru">Греция</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Griechenland</bibl>
 				</place>
@@ -187,7 +204,7 @@
 					<placeName from="1801" to="1927" xml:lang="ru">Соединённое королевство
 						Великобритании и Ирландии</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Großbritannien</bibl>
 				</place>
@@ -199,33 +216,33 @@
 					<placeName xml:lang="pl">Italia</placeName>
 					<placeName xml:lang="ru">Италия</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Italien</bibl>
 				</place>
 				<place type="country" xml:id="lombardei">
 					<placeName type="index" xml:lang="de">Lombardei</placeName>
-					<country ref="#italien" role="administration"/>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Königreich_Lombardo-Venetien</bibl>
 				</place>
 				<place type="country" xml:id="lombardo-venetien">
 					<placeName type="index" xml:lang="de">Lombardo-Venetien</placeName>
 					<placeName type="full" xml:lang="de">Königreich Lombardo-Venetien</placeName>
-					<country ref="#italien" role="administration"/>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Königreich_Lombardo-Venetien</bibl>
 				</place>
 				<place type="country" xml:id="maehren">
 					<placeName type="index" xml:lang="de">Mähren</placeName>
 					<placeName from="1993" xml:lang="de">Tschechien</placeName>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Mähren</bibl>
 				</place>
@@ -237,7 +254,7 @@
 					<placeName xml:lang="pl">Macedonia</placeName>
 					<placeName xml:lang="ru">Македония</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Makedonien_(antikes_Königreich)</bibl>
 				</place>
@@ -249,25 +266,25 @@
 					<placeName xml:lang="pl">Holandia</placeName>
 					<placeName xml:lang="ru">Нидерланды</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Niederlande</bibl>
 				</place>
-				<place type="region" xml:id="norddeutschland">
+				<place subtype="area" type="region" xml:id="norddeutschland">
 					<placeName type="index" xml:lang="de">Norddeutschland</placeName>
 					<placeName xml:lang="en">North Germany</placeName>
 					<location>
-						<country ref="#deutschland"/>
-						<geogName ref="#europa" role="continent"/>
+						<country key="deutschland"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Norddeutschland</bibl>
 				</place>
-				<place type="region" xml:id="norditalien">
+				<place subtype="area" type="region" xml:id="norditalien">
 					<placeName type="index" xml:lang="de">Norditalien</placeName>
 					<placeName xml:lang="en">North Italy</placeName>
 					<location>
-						<country ref="#italien"/>
-						<geogName ref="#europa" role="continent"/>
+						<country key="italien"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Oberitalien</bibl>
 				</place>
@@ -279,7 +296,7 @@
 					<placeName xml:lang="pl">Norwegia</placeName>
 					<placeName xml:lang="ru">Норвегия</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Norwegen</bibl>
 				</place>
@@ -290,17 +307,17 @@
 					<placeName xml:lang="it">Austria</placeName>
 					<placeName xml:lang="pl">Austria</placeName>
 					<placeName xml:lang="ru">Австрия</placeName>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Österreich</bibl>
 				</place>
-				<place type="bloc" xml:id="oesterreich-ungarn">
+				<place subtype="union" type="bloc" xml:id="oesterreich-ungarn">
 					<placeName type="index" xml:lang="de">Österreich-Ungarn</placeName>
 					<placeName from="1804" to="1867" xml:lang="de">Kaisertum Österreich</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Österreich-Ungarn</bibl>
 				</place>
@@ -314,15 +331,15 @@
 					<placeName xml:lang="pl">Polska</placeName>
 					<placeName xml:lang="ru">Польша</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Polen</bibl>
 				</place>
-				<place type="region" xml:id="rheinland">
+				<place subtype="area" type="region" xml:id="rheinland">
 					<placeName type="index" xml:lang="de">Rheinland</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Rheinland</bibl>
 				</place>
@@ -334,7 +351,7 @@
 					<placeName xml:lang="pl">Rosja</placeName>
 					<placeName xml:lang="ru">Россия</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Russland</bibl>
 				</place>
@@ -346,7 +363,7 @@
 					<placeName xml:lang="pl">Szwecja</placeName>
 					<placeName xml:lang="ru">Швеция</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Schweden</bibl>
 				</place>
@@ -358,27 +375,20 @@
 					<placeName xml:lang="pl">Szwajcaria</placeName>
 					<placeName xml:lang="ru">Швейцария</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Schweiz</bibl>
 				</place>
-				<place type="block" xml:id="skandinavien">
-					<placeName type="index" xml:lang="de">Skandinavien</placeName>
-					<location>
-						<geogName ref="#europa" role="continent"/>
-					</location>
-					<bibl type="de.wikipedia.org">Skandinavien</bibl>
-				</place>
-				<place type="region" xml:id="sueddeutschland">
+				<place subtype="area" type="region" xml:id="sueddeutschland">
 					<placeName type="index" xml:lang="de">Süddeutschland</placeName>
 					<placeName xml:lang="en">South Germany</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Süddeutschland</bibl>
 				</place>
-				<place type="region" xml:id="toskana">
+				<place subtype="domain" type="region" xml:id="toskana">
 					<placeName type="index" xml:lang="de">Toskana</placeName>
 					<placeName xml:lang="en">Tuscany</placeName>
 					<placeName xml:lang="fr">Toscane</placeName>
@@ -386,7 +396,7 @@
 					<placeName xml:lang="pl">Toskania</placeName>
 					<placeName xml:lang="ru">Тоскана</placeName>
 					<location>
-						<country ref="#italien" role="administration"/>
+						<country key="italien" role="domain"/>
 					</location>
 					<bibl type="de.wikipedia.org">Toskana</bibl>
 				</place>
@@ -398,7 +408,7 @@
 					<placeName xml:lang="pl">Ukraina</placeName>
 					<placeName xml:lang="ru">Украина</placeName>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Ukraine</bibl>
 				</place>
@@ -409,9 +419,9 @@
 					<placeName xml:lang="it">Ungheria</placeName>
 					<placeName xml:lang="pl">Węgry</placeName>
 					<placeName xml:lang="ru">Венгрия</placeName>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location>
-						<geogName ref="#europa" role="continent"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Ungarn</bibl>
 				</place>
@@ -424,12 +434,12 @@
 					<placeName xml:lang="pl">Stany Zjednoczone</placeName>
 					<placeName xml:lang="ru">Соединённые Штаты</placeName>
 					<location>
-						<geogName ref="#nordamerika" role="continent"/>
+						<bloc key="nordamerika" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">USA</bibl>
 				</place>
 			</listPlace>
-			<listPlace>
+			<listPlace type="settlement|building">
 				<head>Ortschaften und Schauplätze</head>
 				<place type="settlement" xml:id="aachen">
 					<placeName type="index" xml:lang="de">Aachen</placeName>
@@ -438,27 +448,29 @@
 					<placeName xml:lang="it">Aquisgrana</placeName>
 					<placeName xml:lang="pl">Akwizgran</placeName>
 					<placeName xml:lang="ru">Аахен</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.77664 6.08342</geo>
-						<region ref="#rheinland"/>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1h2f7q5u</geo>
+						<region key="rheinland"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
-						<desc type="Meyer_1893">7: 85-95% Katholiken, 5-15% Protestanten</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">79606</desc>
+						<desc source="#brockhaus-1892">überwiegend katholisch</desc>
+						<desc source="#meyers-1893">7: 85-95% Katholiken, 5-15% Protestanten</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">79606</desc>
 					</population>
 					<idno type="geonames.org">3247449</idno>
-					<idno type="geohash.org">u1h2f7q5u</idno>
 					<bibl type="de.wikipedia.org">Aachen</bibl>
 				</place>
-				<place type="location" xml:id="aachen.kurhaus">
+				<place type="building" xml:id="aachen.kurhaus">
 					<placeName type="index" xml:lang="de">Kurhaus</placeName>
 					<placeName from="1916" type="other">Altes Kurhaus</placeName>
-					<settlement ref="#aachen" role="parentSettlement"/>
+					<location>
+						<settlement key="aachen" role="area"/>
+					</location>
 					<bibl type="de.wikipedia.org">Altes_Kurhaus_Aachen</bibl>
 				</place>
 				<place type="settlement" xml:id="altona">
@@ -468,16 +480,16 @@
 					<placeName xml:lang="it">Altona</placeName>
 					<placeName xml:lang="pl">Altona</placeName>
 					<placeName xml:lang="ru"><!--Altona--></placeName>
-					<country ref="#deutschland" role="administration"/>
-					<location type="geonames.org">
+					<location>
 						<geo>53.55 9.93333</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1x0dh3pr</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">84097</desc>
+						<desc source="#volkszaehlung-1875">84097</desc>
 					</population>
 					<idno type="geonames.org">2911296</idno>
-					<idno type="geohash.org">u1x0dh3pr</idno>
 					<bibl type="de.wikipedia.org">Bezirk_Altona</bibl>
 				</place>
 				<place type="settlement" xml:id="antwerpen">
@@ -487,10 +499,10 @@
 					<placeName xml:lang="it">Anversa</placeName>
 					<placeName xml:lang="pl">Antwerpia</placeName>
 					<placeName xml:lang="ru">Антверпен</placeName>
-					<country ref="#belgien" role="administration"/>
 					<location>
 						<geo>51.21989 4.40346</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="belgien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2803138</idno>
 					<bibl type="de.wikipedia.org">Antwerpen</bibl>
@@ -502,10 +514,10 @@
 					<placeName xml:lang="it">Atene</placeName>
 					<placeName xml:lang="pl">Ateny</placeName>
 					<placeName xml:lang="ru">Афины</placeName>
-					<country ref="#griechenland" role="administration"/>
 					<location>
 						<geo>37.97945 23.71622</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="griechenland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">264371</idno>
 					<bibl type="de.wikipedia.org">Athen</bibl>
@@ -517,10 +529,10 @@
 					<placeName xml:lang="it">Augusta</placeName>
 					<placeName xml:lang="pl">Augsburg</placeName>
 					<placeName xml:lang="ru">Аугсбург</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>48.37154 10.89851</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2954172</idno>
 					<bibl type="de.wikipedia.org">Augsburg</bibl>
@@ -532,18 +544,18 @@
 					<placeName xml:lang="it">Basilea</placeName>
 					<placeName xml:lang="pl">Bazylea</placeName>
 					<placeName xml:lang="ru">Базель</placeName>
-					<country ref="#schweiz" role="administration"/>
 					<location type="geonames.org">
 						<geo>47.5584 7.57327</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0mqsc8dp</geo>
+						<country key="schweiz" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">Katholiken und Reformierte gemischt</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
+						<desc source="#andree-1881">Katholiken und Reformierte gemischt</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
 					</population>
 					<idno type="geonames.org">2661604</idno>
-					<idno type="geohash.org">u0mqsc8dp</idno>
 					<bibl type="de.wikipedia.org">Basel</bibl>
 				</place>
 				<place type="settlement" xml:id="bayreuth">
@@ -553,13 +565,13 @@
 					<placeName xml:lang="it">Bayreuth</placeName>
 					<placeName xml:lang="pl">Bayreuth</placeName>
 					<placeName xml:lang="ru">Байройт</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.94806 11.57833</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">19180</desc>
+						<desc source="#volkszaehlung-1875">19180</desc>
 					</population>
 					<idno type="geonames.org">2951825</idno>
 					<bibl type="de.wikipedia.org">Bayreuth</bibl>
@@ -571,13 +583,13 @@
 					<placeName xml:lang="it">Bergamo</placeName>
 					<placeName xml:lang="pl">Bergamo</placeName>
 					<placeName xml:lang="ru">Бергамо</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>45.69798 9.66895</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0ngupng8</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3182164</idno>
-					<idno type="geohash.org">u0ngupng8</idno>
 					<bibl type="de.wikipedia.org">Bergamo</bibl>
 				</place>
 				<place type="settlement" xml:id="berlin">
@@ -587,36 +599,36 @@
 					<placeName xml:lang="it">Berlino</placeName>
 					<placeName xml:lang="pl">Berlin</placeName>
 					<placeName xml:lang="ru">Берлин</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>52.52437 13.41053</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u33dc0f42</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">966858</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">966858</desc>
 					</population>
 					<idno type="geonames.org">2950159</idno>
-					<idno type="geohash.org">u33dc0f42</idno>
 					<bibl type="de.wikipedia.org">Berlin</bibl>
 				</place>
-				<place type="location" xml:id="berlin.hofoper">
+				<place type="building" xml:id="berlin.hofoper">
 					<placeName type="index" xml:lang="de">Königliche Hofoper Unter den
 						Linden</placeName>
 					<location>
-						<settlement ref="#berlin" role="parentSettlement"/>
-						<geogName ref="#europa" role="continent"/>
+						<settlement key="berlin" role="area"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Staatsoper_Unter_den_Linden</bibl>
 				</place>
-				<place type="location" xml:id="berlin.kronprinzenpalais">
+				<place type="building" xml:id="berlin.kronprinzenpalais">
 					<placeName type="index" xml:lang="de">Kronprinzenpalais</placeName>
 					<location>
-						<settlement ref="#berlin" role="parentSettlement"/>
-						<geogName ref="#europa" role="continent"/>
+						<settlement key="berlin" role="area"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Kronprinzenpalais_(Berlin)</bibl>
 				</place>
@@ -627,23 +639,23 @@
 					<placeName xml:lang="it">Bologna</placeName>
 					<placeName xml:lang="pl">Bolonia</placeName>
 					<placeName xml:lang="ru">Болонья</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>44.49381 11.33875</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">srbj4h53w</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Italiener</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Italiener</desc>
 					</population>
 					<idno type="geonames.org">3181928</idno>
-					<idno type="geohash.org">srbj4h53w</idno>
 					<bibl type="de.wikipedia.org">Bologna</bibl>
 				</place>
-				<place type="location" xml:id="bologna.san-petronio">
+				<place type="building" xml:id="bologna.san-petronio">
 					<placeName type="index" xml:lang="de">San Petronio</placeName>
 					<location>
-						<settlement ref="#bologna" role="parentSettlement"/>
+						<settlement key="bologna" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">San_Petronio_Basilica</bibl>
 				</place>
@@ -654,13 +666,13 @@
 					<placeName xml:lang="it">Boston</placeName>
 					<placeName xml:lang="pl">Boston</placeName>
 					<placeName xml:lang="ru">Бостон</placeName>
-					<country ref="#usa" role="administration"/>
 					<location type="geonames.org">
 						<geo>42.35843 -71.05977</geo>
-						<geogName ref="#nordamerika" role="continent"/>
+						<geo decls="#geohash">drt2yzpgere</geo>
+						<country key="usa" role="domain"/>
+						<bloc key="nordamerika" role="area"/>
 					</location>
 					<idno type="geonames.org">4930956</idno>
-					<idno type="geohash.org">drt2yzpgere</idno>
 					<bibl type="de.wikipedia.org">Boston</bibl>
 				</place>
 				<place type="settlement" xml:id="bremen">
@@ -670,20 +682,20 @@
 					<placeName xml:lang="it">Brema</placeName>
 					<placeName xml:lang="pl">Brema</placeName>
 					<placeName xml:lang="ru">Бремен</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>53.07516 8.80777</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1qmbqc1q</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein evangelisch</desc>
-						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">102532</desc>
+						<desc source="#brockhaus-1892">rein evangelisch</desc>
+						<desc source="#meyers-1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">102532</desc>
 					</population>
 					<idno type="geonames.org">2944388</idno>
-					<idno type="geohash.org">u1qmbqc1q</idno>
 					<bibl type="de.wikipedia.org">Bremen</bibl>
 				</place>
 				<place type="settlement" xml:id="breslau">
@@ -693,21 +705,21 @@
 					<placeName xml:lang="it">Breslavia</placeName>
 					<placeName from="1945" type="index" xml:lang="pl">Wrocław</placeName>
 					<placeName xml:lang="ru">Вроцлав</placeName>
-					<country ref="#deutschland" role="administration" to="1945"/>
-					<country from="1945" ref="#polen" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.1 17.03333</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u3h4exzj4</geo>
+						<country key="deutschland" role="domain" to="1945"/>
+						<country from="1945" key="polen" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">gemischt, mehr evangelisch</desc>
-						<desc type="Meyer_1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">239050</desc>
+						<desc source="#brockhaus-1892">gemischt, mehr evangelisch</desc>
+						<desc source="#meyers-1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">239050</desc>
 					</population>
 					<idno type="geonames.org">3081368</idno>
-					<idno type="geohash.org">u3h4exzj4</idno>
 					<bibl type="de.wikipedia.org">Breslau</bibl>
 				</place>
 				<place type="settlement" xml:id="bristol">
@@ -717,13 +729,13 @@
 					<placeName xml:lang="it">Bristol</placeName>
 					<placeName xml:lang="pl">Bristol</placeName>
 					<placeName xml:lang="ru">Бристоль</placeName>
-					<country ref="#grossbritannien" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.45523 -2.59665</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">gcnhtp583</geo>
+						<country key="grossbritannien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2654675</idno>
-					<idno type="geohash.org">gcnhtp583</idno>
 					<bibl type="de.wikipedia.org">Bristol</bibl>
 				</place>
 				<place type="settlement" xml:id="bruck-an-der-mur">
@@ -733,11 +745,11 @@
 					<placeName xml:lang="it">Bruck an der Mur</placeName>
 					<placeName xml:lang="pl">Bruck an der Mur</placeName>
 					<placeName xml:lang="ru">Брук-ан-дер-Мур</placeName>
-					<country ref="#oesterreich" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>47.41667 15.28333</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="oesterreich" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2781371</idno>
 					<bibl type="de.wikipedia.org">Bruck_an_der_Mur</bibl>
@@ -750,32 +762,32 @@
 					<placeName xml:lang="pl">Brno</placeName>
 					<placeName type="index" xml:lang="cz">Brno</placeName>
 					<placeName xml:lang="ru">Брно</placeName>
-					<country ref="#maehren" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.19522 16.60796</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u2ezcgstz</geo>
+						<country key="maehren" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">über 90% Katholiken, über 2% Juden</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Deutsche</desc>
+						<desc source="#andree-1881">über 90% Katholiken, über 2% Juden</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Deutsche</desc>
 					</population>
 					<idno type="geonames.org">3078610</idno>
-					<idno type="geohash.org">u2ezcgstz</idno>
 					<bibl type="de.wikipedia.org">Brünn</bibl>
 				</place>
-				<place type="location" xml:id="bruenn.redouta-theater">
+				<place type="building" xml:id="bruenn.redouta-theater">
 					<placeName type="index" xml:lang="de">Reduta-Theater</placeName>
 					<location>
-						<settlement ref="#bruenn" role="parentSettlement"/>
+						<settlement key="bruenn" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Reduta-Theater</bibl>
 				</place>
-				<place type="location" xml:id="bruenn.stadttheater">
+				<place type="building" xml:id="bruenn.stadttheater">
 					<placeName type="index" xml:lang="de">Deutsches Stadttheater</placeName>
 					<location>
-						<settlement ref="#bruenn" role="parentSettlement"/>
+						<settlement key="bruenn" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Brünner_Stadttheater</bibl>
 				</place>
@@ -786,32 +798,30 @@
 					<placeName xml:lang="it">Bruxelles</placeName>
 					<placeName xml:lang="pl">Bruksela</placeName>
 					<placeName xml:lang="ru">Брюссель</placeName>
-					<country ref="#belgien" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.85045 4.34878</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="belgien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2800866</idno>
 					<bibl type="de.wikipedia.org">Brüssel</bibl>
 				</place>
-				<place type="location" xml:id="bruessel.la-monnaie">
+				<place type="building" xml:id="bruessel.la-monnaie">
 					<placeName type="index" xml:lang="de">Théâtre Royal de la Monnaie</placeName>
 					<placeName type="index" xml:lang="fr">Théâtre Royal de la Monnaie</placeName>
 					<placeName>Koninklijke Muntschouwburg</placeName>
 					<location>
-						<settlement ref="#bruessel" role="parentSettlement"/>
+						<settlement key="bruessel" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Brüsseler_Opernhaus_La_Monnaie/De_Munt</bibl>
 				</place>
-				<place type="location" xml:id="budapest.nationaltheater">
+				<place type="building" xml:id="budapest.nationaltheater">
 					<placeName type="index" xml:lang="de">Ungarisches Nationaltheater</placeName>
 					<placeName>Magyar Nemzeti Színház</placeName>
 					<location>
-						<settlement ref="#pest" role="parentSettlement"/>
-					</location>
-					<population>
+						<settlement key="pest" role="area"/>
 						<desc>Kerepesi út, 1837–1908</desc>
-					</population>
+					</location>
 					<bibl type="de.wikipedia.org">Nationaltheater_(Budapest)</bibl>
 				</place>
 				<place type="settlement" xml:id="buenos-aires">
@@ -823,15 +833,15 @@
 					<placeName xml:lang="ru">Буэнос-Айрес</placeName>
 					<location type="geonames.org">
 						<geo>-34.61315 -58.37723</geo>
-						<geogName ref="#suedamerika" role="continent"/>
+						<bloc key="suedamerika" role="area"/>
 					</location>
 					<idno type="geonames.org">3435910</idno>
 					<bibl type="de.wikipedia.org">Buenos_Aires</bibl>
 				</place>
-				<place type="location" xml:id="buenos-aires.teatro-opera">
+				<place type="building" xml:id="buenos-aires.teatro-opera">
 					<placeName type="index" xml:lang="de">Teatro Ópera</placeName>
 					<location>
-						<settlement ref="#buenos-aires" role="parentSettlement"/>
+						<settlement key="buenos-aires" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">http://de.wikipedia.org/wiki/Teatro_Ópera</bibl>
 				</place>
@@ -842,13 +852,13 @@
 					<placeName xml:lang="it">Busseto</placeName>
 					<placeName xml:lang="pl">Busseto</placeName>
 					<placeName xml:lang="ru">Буссето</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>44.98057 10.04208</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">spzpuknjw</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3181364</idno>
-					<idno type="geohash.org">spzpuknjw</idno>
 					<bibl type="de.wikipedia.org">Busseto</bibl>
 				</place>
 				<place type="settlement" xml:id="cairo">
@@ -859,13 +869,13 @@
 					<placeName xml:lang="it">Il Cairo</placeName>
 					<placeName xml:lang="pl">Kair</placeName>
 					<placeName xml:lang="ru">Каир</placeName>
-					<country ref="#aegypten" role="administration"/>
 					<location type="geonames.org">
 						<geo>30.06263 31.24967</geo>
-						<geogName ref="#afrika" role="continent"/>
+						<geo decls="#geohash">stq4yv3jk</geo>
+						<country key="aegypten" role="domain"/>
+						<bloc key="afrika" role="area"/>
 					</location>
 					<idno type="geonames.org">360630</idno>
-					<idno type="geohash.org">stq4yv3jk</idno>
 					<bibl type="de.wikipedia.org">Kairo</bibl>
 				</place>
 				<place type="settlement" xml:id="charlottenburg">
@@ -875,16 +885,16 @@
 					<placeName xml:lang="it">Charlottenburg</placeName>
 					<placeName xml:lang="pl">Charlottenburg</placeName>
 					<placeName xml:lang="ru">Шарлоттенбург</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>52.51667 13.28333</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u336y8z21</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">25847</desc>
+						<desc source="#volkszaehlung-1875">25847</desc>
 					</population>
 					<idno type="geonames.org">2940187</idno>
-					<idno type="geohash.org">u336y8z21</idno>
 					<bibl type="de.wikipedia.org">Berlin-Charlottenburg</bibl>
 				</place>
 				<place type="settlement" xml:id="coburg">
@@ -895,29 +905,29 @@
 					<placeName xml:lang="it">Coburg</placeName>
 					<placeName xml:lang="pl">Coburg</placeName>
 					<placeName xml:lang="ru">Кобург</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.25937 10.96384</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0zv6x2h2</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein evangelisch</desc>
-						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">14567</desc>
+						<desc source="#brockhaus-1892">rein evangelisch</desc>
+						<desc source="#meyers-1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">14567</desc>
 					</population>
 					<idno type="geonames.org">2939951</idno>
-					<idno type="geohash.org">u0zv6x2h2</idno>
 					<bibl type="de.wikipedia.org">Coburg</bibl>
 				</place>
-				<place type="location" xml:id="coburg.hoftheater">
+				<place type="building" xml:id="coburg.hoftheater">
 					<placeName type="index">Herzoglich sächsisches Hoftheater</placeName>
 					<placeName from="1827" to="1918" xml:lang="de">Herzoglich sächsisches
 						Hoftheater</placeName>
 					<placeName from="1918" to="1919" xml:lang="de">Theater in Coburg</placeName>
 					<placeName from="1919" xml:lang="de">Coburgisches Landestheater</placeName>
 					<location>
-						<settlement ref="#coburg" role="parentSettlement"/>
+						<settlement key="coburg" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Landestheater_Coburg</bibl>
 				</place>
@@ -930,7 +940,7 @@
 					<placeName xml:lang="ru">Константина</placeName>
 					<location type="geonames.org">
 						<geo>36.365 6.61472</geo>
-						<geogName ref="#afrika" role="continent"/>
+						<bloc key="afrika" role="area"/>
 					</location>
 					<idno type="geonames.org">2501152</idno>
 					<bibl type="de.wikipedia.org">Constantine_(Algerien)</bibl>
@@ -942,24 +952,24 @@
 					<placeName xml:lang="it">Danzica</placeName>
 					<placeName type="index" xml:lang="pl">Gdańsk</placeName>
 					<placeName xml:lang="ru">Гданьск</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>54.35205 18.64637</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">97931</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">97931</desc>
 					</population>
 					<idno type="geonames.org">3099434</idno>
 					<bibl type="de.wikipedia.org">Danzig</bibl>
 				</place>
-				<place type="location" xml:id="danzig.schuetzenhaus">
+				<place type="building" xml:id="danzig.schuetzenhaus">
 					<placeName type="index" xml:lang="de">Friedrich-Wilhelm-Schützenhaus</placeName>
 					<bibl>
-						<settlement ref="#danzig" role="parentSettlement"/>
+						<settlement key="danzig" role="area"/>
 					</bibl>
 				</place>
 				<place type="settlement" xml:id="darmstadt">
@@ -969,19 +979,19 @@
 					<placeName xml:lang="it">Darmstadt</placeName>
 					<placeName xml:lang="pl">Darmstadt</placeName>
 					<placeName xml:lang="ru">Дармштадт</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.87056 8.64944</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0vgwzvp2</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">36993</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">36993</desc>
 					</population>
 					<idno type="geonames.org">2938913</idno>
-					<idno type="geohash.org">u0vgwzvp2</idno>
 					<bibl type="de.wikipedia.org">Darmstadt</bibl>
 				</place>
 				<place type="settlement" xml:id="dessau">
@@ -991,19 +1001,19 @@
 					<placeName xml:lang="it">Dessau</placeName>
 					<placeName xml:lang="pl">Dessau</placeName>
 					<placeName xml:lang="ru">Дессау</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.83864 12.24555</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u30wvspsp</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein evangelisch</desc>
-						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">19643</desc>
+						<desc source="#brockhaus-1892">rein evangelisch</desc>
+						<desc source="#meyers-1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">19643</desc>
 					</population>
 					<idno type="geonames.org">2937959</idno>
-					<idno type="geohash.org">u30wvspsp</idno>
 					<bibl type="de.wikipedia.org">Dessau</bibl>
 				</place>
 				<place type="settlement" xml:id="dresden">
@@ -1013,23 +1023,23 @@
 					<placeName xml:lang="it">Dresda</placeName>
 					<placeName xml:lang="pl">Drezno</placeName>
 					<placeName xml:lang="ru">Дрезден</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.05089 13.73832</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u31f2t7nj</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">197295</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">197295</desc>
 					</population>
 					<idno type="geonames.org">2935022</idno>
-					<idno type="geohash.org">u31f2t7nj</idno>
 					<bibl type="de.wikipedia.org">Dresden</bibl>
 				</place>
-				<place type="location" xml:id="dresden.hoftheater">
+				<place type="building" xml:id="dresden.hoftheater">
 					<placeName type="index" xml:lang="de">Königliches Hoftheater</placeName>
 					<placeName from="1841" to="1869" xml:lang="de">Neues Königliches
 						Hoftheater</placeName>
@@ -1038,16 +1048,16 @@
 					<placeName from="1878" to="1945" xml:lang="de">Semperoper</placeName>
 					<placeName from="1985" xml:lang="de">Semperoper</placeName>
 					<bibl>
-						<settlement ref="#dresden" role="parentSettlement"/>
+						<settlement key="dresden" role="area"/>
 					</bibl>
 					<bibl type="de.wikipedia.org">Hoftheater_Dresden</bibl>
 				</place>
-				<place type="location" xml:id="dresden.neustaedter-hoftheater">
+				<place type="building" xml:id="dresden.neustaedter-hoftheater">
 					<placeName type="index" xml:lang="de">Neustädter Hoftheater Dresden</placeName>
 					<placeName from="1873 " to="1913" xml:lang="de">Neustädter Hoftheater
 						Dresden</placeName>
 					<bibl>
-						<settlement ref="#dresden" role="parentSettlement"/>
+						<settlement key="dresden" role="area"/>
 					</bibl>
 					<bibl type="www"
 						>http://www.andreas-praefcke.de/carthalia/germany/dresden_neustaedter.htm</bibl>
@@ -1059,20 +1069,20 @@
 					<placeName xml:lang="it">Düsseldorf</placeName>
 					<placeName xml:lang="pl">Düsseldorf</placeName>
 					<placeName xml:lang="ru">Дюссельдорф</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.22172 6.77616</geo>
-						<region ref="#rheinland"/>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1hg6jsr0</geo>
+						<region key="rheinland"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
-						<desc type="Meyer_1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">80695</desc>
+						<desc source="#brockhaus-1892">überwiegend katholisch</desc>
+						<desc source="#meyers-1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">80695</desc>
 					</population>
 					<idno type="geonames.org">2934246</idno>
-					<idno type="geohash.org">u1hg6jsr0</idno>
 					<bibl type="de.wikipedia.org">Düsseldorf</bibl>
 				</place>
 				<place type="settlement" xml:id="elberfeld">
@@ -1082,21 +1092,21 @@
 					<placeName xml:lang="it">Elberfeld</placeName>
 					<placeName xml:lang="pl">Elberfeld</placeName>
 					<placeName xml:lang="ru">Эльберфельд</placeName>
-					<country ref="#deutschland" role="administration"/>
-					<country ref="#rheinland" role="parentRegion"/>
 					<location type="geonames.org">
 						<geo>51.25627 7.14816</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1j5dc95d</geo>
+						<region key="rheinland" role="area"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">80589</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">80589</desc>
 					</population>
 					<idno type="geonames.org">2931276</idno>
-					<idno type="geohash.org">u1j5dc95d</idno>
 					<bibl type="de.wikipedia.org">Elberfeld</bibl>
 				</place>
 				<place type="settlement" xml:id="erfurt">
@@ -1106,10 +1116,10 @@
 					<placeName xml:lang="it">Erfurt</placeName>
 					<placeName xml:lang="pl">Erfurt</placeName>
 					<placeName xml:lang="ru">Эрфурт</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location>
 						<geo>50.9787 11.03283</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2929670</idno>
 					<bibl type="de.wikipedia.org">Erfurt</bibl>
@@ -1121,10 +1131,10 @@
 					<placeName xml:lang="it">Ferrara</placeName>
 					<placeName xml:lang="pl">Ferrara</placeName>
 					<placeName xml:lang="ru">Феррара</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>44.84346 11.60868</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3177090</idno>
 					<bibl type="de.wikipedia.org">Ferrara</bibl>
@@ -1136,27 +1146,27 @@
 					<placeName xml:lang="it">Firenze</placeName>
 					<placeName xml:lang="pl">Firence</placeName>
 					<placeName xml:lang="ru">Флоренция</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>43.76667 11.25</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3176959</idno>
 					<bibl type="de.wikipedia.org">Florenz</bibl>
 				</place>
-				<place type="location" xml:id="florenz.teatro-pagliano">
+				<place type="building" xml:id="florenz.teatro-pagliano">
 					<placeName to="1901" type="index" xml:lang="de">Teatro Pagliano</placeName>
 					<placeName from="1901" xml:lang="de">Teatro Verdi</placeName>
 					<bibl>
-						<settlement ref="#florenz" role="parentSettlement"/>
+						<settlement key="florenz" role="area"/>
 					</bibl>
 					<bibl type="it.wikipedia.org">Teatro_Verdi_(Firenze)</bibl>
 				</place>
-				<place type="location" xml:id="florenz.teatro-principe-umberto">
+				<place type="building" xml:id="florenz.teatro-principe-umberto">
 					<placeName type="index" xml:lang="de">Teatro Principe Umberto</placeName>
 					<placeName type="index" xml:lang="de">Teatro Umberto I</placeName>
 					<bibl>
-						<settlement ref="#florenz" role="parentSettlement"/>
+						<settlement key="florenz" role="area"/>
 					</bibl>
 					<bibl type="it.wikipedia.org">Teatro_Umberto_I</bibl>
 				</place>
@@ -1176,28 +1186,28 @@
 					<placeName xml:lang="pl">Frankfurt nad Menem</placeName>
 					<placeName xml:lang="ru">Франкфурт</placeName>
 					<placeName xml:lang="ru">Франкфурт-на-Майне</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.11552 8.68417</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0yjjd6jk</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">103136</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">103136</desc>
 					</population>
 					<idno type="geonames.org">2925533</idno>
-					<idno type="geohash.org">u0yjjd6jk</idno>
 					<bibl type="de.wikipedia.org">Frankfurt</bibl>
 				</place>
 				<place type="settlement" xml:id="gent">
 					<placeName type="index" xml:lang="de">Gent</placeName>
-					<country ref="#belgien" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.05 3.71667</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="belgien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2797656</idno>
 					<bibl type="de.wikipedia.org">Gent</bibl>
@@ -1209,28 +1219,28 @@
 					<placeName xml:lang="it">Genova</placeName>
 					<placeName xml:lang="pl">Genua</placeName>
 					<placeName xml:lang="ru">Генуя</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>44.40632 8.93386</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">spykeef3w</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3176219</idno>
-					<idno type="geohash.org">spykeef3w</idno>
 					<bibl type="de.wikipedia.org">Genua</bibl>
 				</place>
-				<place type="location" xml:id="genua.palazzo-doria">
+				<place type="building" xml:id="genua.palazzo-doria">
 					<placeName type="index" xml:lang="de">Palazzo Doria</placeName>
 					<placeName type="index" xml:lang="it">Palazzo Doria</placeName>
 					<bibl>
-						<settlement ref="#genua" role="parentSettlement"/>
+						<settlement key="genua" role="area"/>
 					</bibl>
 					<bibl type="it.wikipedia.org">Villa_del_Principe</bibl>
 				</place>
-				<place type="location" xml:id="genua.teatro-carlo-felice">
+				<place type="building" xml:id="genua.teatro-carlo-felice">
 					<placeName type="index" xml:lang="de">Teatro Carlo Felice</placeName>
 					<placeName type="index" xml:lang="it">Teatro Carlo Felice</placeName>
 					<bibl>
-						<settlement ref="#genua" role="parentSettlement"/>
+						<settlement key="genua" role="area"/>
 					</bibl>
 					<bibl type="de.wikipedia.org">Teatro_Carlo_Felice</bibl>
 				</place>
@@ -1241,16 +1251,16 @@
 					<placeName xml:lang="it">Gottinga</placeName>
 					<placeName xml:lang="pl">Getynga</placeName>
 					<placeName xml:lang="ru">Гёттинген</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.53443 9.93228</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1pj1yq8d</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">17038</desc>
+						<desc source="#volkszaehlung-1875">17038</desc>
 					</population>
 					<idno type="geonames.org">2918632</idno>
-					<idno type="geohash.org">u1pj1yq8d</idno>
 					<bibl type="de.wikipedia.org">Göttingen</bibl>
 				</place>
 				<place type="settlement" xml:id="gotha">
@@ -1260,33 +1270,33 @@
 					<placeName xml:lang="it">Gotha</placeName>
 					<placeName xml:lang="pl">Gotha</placeName>
 					<placeName xml:lang="ru">Гота</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.94823 10.70193</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1p9gdw72</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">22928</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">22928</desc>
 					</population>
 					<idno type="geonames.org">2918752</idno>
-					<idno type="geohash.org">u1p9gdw72</idno>
 					<bibl type="de.wikipedia.org">Gotha</bibl>
 				</place>
 				<place type="settlement" xml:id="graz">
 					<placeName type="index" xml:lang="de">Graz</placeName>
-					<country ref="#oesterreich" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>47.06667 15.45</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="oesterreich" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2778067</idno>
 					<bibl type="de.wikipedia.org">Graz</bibl>
 				</place>
-				<place type="location" xml:id="graz.landes-theater">
+				<place type="building" xml:id="graz.landes-theater">
 					<placeName from="1825" to="1887" type="index" xml:lang="de"
 						>Landestheater</placeName>
 					<placeName from="1887" to="1899" xml:lang="de">Stadttheater</placeName>
@@ -1294,17 +1304,17 @@
 						Franzensplatz</placeName>
 					<placeName from="1918" xml:lang="de">Schauspielhaus Graz</placeName>
 					<location>
-						<settlement ref="#graz" role="parentSettlement"/>
+						<settlement key="graz" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Schauspielhaus_Graz</bibl>
 				</place>
-				<place type="location" xml:id="graz.stadt-theater">
+				<place type="building" xml:id="graz.stadt-theater">
 					<!-- entspricht nicht dem heutigen „Schauspielhaus Graz (1823)“ -->
 					<!-- evtl. „Thalia am Stadtpark“ (1864)? -->
 					<!-- nicht: Opernhaus Graz (1899) -->
 					<placeName from="1864" type="index" xml:lang="de">Stadttheater</placeName>
 					<location>
-						<settlement ref="#graz" role="parentSettlement"/>
+						<settlement key="graz" role="area"/>
 					</location>
 				</place>
 				<place type="settlement" xml:id="guetersloh">
@@ -1314,16 +1324,16 @@
 					<placeName xml:lang="it">Gütersloh</placeName>
 					<placeName xml:lang="pl">Gütersloh</placeName>
 					<placeName xml:lang="ru">Гютерсло</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.90693 8.37854</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1jzqbdq6</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">4491</desc>
+						<desc source="#volkszaehlung-1875">4491</desc>
 					</population>
 					<idno type="geonames.org">2913366</idno>
-					<idno type="geohash.org">u1jzqbdq6</idno>
 					<bibl type="de.wikipedia.org">Gütersloh</bibl>
 				</place>
 				<place type="settlement" xml:id="hamburg">
@@ -1334,26 +1344,26 @@
 					<placeName xml:lang="it">Amburgo</placeName>
 					<placeName xml:lang="pl">Hamburg</placeName>
 					<placeName xml:lang="ru">Гамбург</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>53.57532 10.01534</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1x0ektjt</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein evangelisch</desc>
-						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">264675</desc>
+						<desc source="#brockhaus-1892">rein evangelisch</desc>
+						<desc source="#meyers-1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">264675</desc>
 					</population>
 					<idno type="geonames.org">2911298</idno>
-					<idno type="geohash.org">u1x0ektjt</idno>
 					<bibl type="de.wikipedia.org">Hamburg</bibl>
 				</place>
-				<place type="location" xml:id="hamburg.stadt-theater">
+				<place type="building" xml:id="hamburg.stadt-theater">
 					<placeName type="index" xml:lang="de">Stadt-Theater</placeName>
 					<location>
-						<settlement ref="#hamburg" role="parentSettlement"/>
+						<settlement key="hamburg" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Hamburgische_Staatsoper</bibl>
 				</place>
@@ -1364,20 +1374,20 @@
 					<placeName xml:lang="it">Hannover</placeName>
 					<placeName xml:lang="pl">Hanower</placeName>
 					<placeName xml:lang="ru">Ганновер</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>52.37052 9.73322</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1qcvqwxs</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">106677</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">106677</desc>
 					</population>
 					<idno type="geonames.org">2910831</idno>
-					<idno type="geohash.org">u1qcvqwxs</idno>
 					<bibl type="de.wikipedia.org">Hannover</bibl>
 				</place>
 				<place type="settlement" xml:id="heilbronn">
@@ -1387,25 +1397,25 @@
 					<placeName xml:lang="it">Heilbronn</placeName>
 					<placeName xml:lang="pl">Heilbronn</placeName>
 					<placeName xml:lang="ru">Хайльбронн</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.13995 9.22054</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0wr7uu42</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">21208</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">21208</desc>
 					</population>
 					<idno type="geonames.org">2907669</idno>
-					<idno type="geohash.org">u0wr7uu42</idno>
 					<bibl type="de.wikipedia.org">Heilbronn</bibl>
 				</place>
-				<place type="location" xml:id="heilbronn.st-kilian">
+				<place type="building" xml:id="heilbronn.st-kilian">
 					<placeName type="index" xml:lang="de">St. Kilian</placeName>
 					<location>
-						<settlement ref="#heilbronn" role="parentSettlement"/>
+						<settlement key="heilbronn" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Kilianskirche_(Heilbronn)</bibl>
 				</place>
@@ -1416,26 +1426,26 @@
 					<placeName xml:lang="it">Karlsruhe</placeName>
 					<placeName xml:lang="pl">Karlsruhe</placeName>
 					<placeName xml:lang="ru">Карлсруэ</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.00472 8.38583</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0tyy9y4f</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">gemischt, mehr evangelisch</desc>
-						<desc type="Meyer_1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">42895</desc>
+						<desc source="#brockhaus-1892">gemischt, mehr evangelisch</desc>
+						<desc source="#meyers-1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">42895</desc>
 					</population>
 					<idno type="geonames.org">2892794</idno>
-					<idno type="geohash.org">u0tyy9y4f</idno>
 					<bibl type="de.wikipedia.org">Karlsruhe</bibl>
 				</place>
-				<place type="location" xml:id="karlsruhe.festhalle">
+				<place type="building" xml:id="karlsruhe.festhalle">
 					<placeName type="index" xml:lang="de">Festhalle</placeName>
 					<location>
-						<settlement ref="#karlsruhe" role="parentSettlement"/>
+						<settlement key="karlsruhe" role="area"/>
 					</location>
 					<bibl type="www">http://ka.stadtwiki.net/Festhalle_%28historisch%29</bibl>
 				</place>
@@ -1446,16 +1456,16 @@
 					<placeName xml:lang="it">Kassel</placeName>
 					<placeName xml:lang="pl">Kassel</placeName>
 					<placeName xml:lang="ru">Кассель</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.31667 9.5</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1neztnyn</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">53043</desc>
+						<desc source="#volkszaehlung-1875">53043</desc>
 					</population>
 					<idno type="geonames.org">2892518</idno>
-					<idno type="geohash.org">u1neztnyn</idno>
 					<bibl type="de.wikipedia.org">Kassel</bibl>
 				</place>
 				<place type="settlement" xml:id="koblenz">
@@ -1465,19 +1475,19 @@
 					<placeName xml:lang="it">Coblenza</placeName>
 					<placeName xml:lang="pl">Koblencja</placeName>
 					<placeName xml:lang="ru">Кобленц</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.35357 7.57884</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0vqkxyb3</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">29282</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">29282</desc>
 					</population>
 					<idno type="geonames.org">2886946</idno>
-					<idno type="geohash.org">u0vqkxyb3</idno>
 					<bibl type="de.wikipedia.org">Koblenz</bibl>
 				</place>
 				<place type="settlement" xml:id="koeln">
@@ -1488,27 +1498,27 @@
 					<placeName xml:lang="it">Colonia</placeName>
 					<placeName xml:lang="pl">Kolonia</placeName>
 					<placeName xml:lang="ru">Кёльн</placeName>
-					<country ref="#deutschland" role="administration"/>
-					<country ref="#rheinland" role="parentRegion"/>
 					<location type="geonames.org">
 						<geo>50.93333 6.95</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1hcy2ukd</geo>
+						<country key="deutschland" role="domain"/>
+						<region key="rheinland" role="area"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
-						<desc type="Meyer_1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">135371</desc>
+						<desc source="#brockhaus-1892">überwiegend katholisch</desc>
+						<desc source="#meyers-1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">135371</desc>
 					</population>
 					<idno type="geonames.org">2886242</idno>
-					<idno type="geohash.org">u1hcy2ukd</idno>
 					<bibl type="de.wikipedia.org">Köln</bibl>
 				</place>
-				<place type="location" xml:id="koeln.guerzenich">
+				<place type="building" xml:id="koeln.guerzenich">
 					<placeName type="index" xml:lang="de">Gürzenich</placeName>
 					<location>
-						<settlement ref="#koeln" role="parentSettlement"/>
+						<settlement key="koeln" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Gürzenich</bibl>
 				</place>
@@ -1521,21 +1531,21 @@
 					<placeName xml:lang="it">Kaliningrad</placeName>
 					<placeName xml:lang="pl">Kaliningrad</placeName>
 					<placeName xml:lang="ru">Калининград</placeName>
-					<country ref="#deutschland" role="administration"/>
-					<country ref="#russland" role="administration"/>
 					<location type="geonames.org">
 						<geo>54.70649 20.51095</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u3wx4xwnw</geo>
+						<country key="deutschland" role="domain"/>
+						<country key="russland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein evangelisch</desc>
-						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">122636</desc>
+						<desc source="#brockhaus-1892">rein evangelisch</desc>
+						<desc source="#meyers-1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">122636</desc>
 					</population>
 					<idno type="geonames.org">554234</idno>
-					<idno type="geohash.org">u3wx4xwnw</idno>
 					<bibl type="de.wikipedia.org">Königsberg</bibl>
 				</place>
 				<place type="settlement" xml:id="krakau">
@@ -1546,21 +1556,21 @@
 					<placeName xml:lang="it">Cracovia</placeName>
 					<placeName type="index" xml:lang="pl">Kraków</placeName>
 					<placeName xml:lang="ru">Краков</placeName>
-					<country ref="#oesterreich" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.06143 19.93658</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u2yhvcgrx</geo>
+						<country key="oesterreich" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">über 90% Katholiken, über 2% Juden</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Polen</desc>
-						<desc type="Volkszählung_1875">xxx</desc>
+						<desc source="#andree-1881">über 90% Katholiken, über 2% Juden</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Polen</desc>
+						<desc source="#volkszaehlung-1875">xxx</desc>
 					</population>
 					<!--Einwohner?-->
 					<idno type="geonames.org">3094802</idno>
-					<idno type="geohash.org">u2yhvcgrx</idno>
 					<bibl type="de.wikipedia.org">Krakau</bibl>
 				</place>
 				<place type="settlement" xml:id="leipzig">
@@ -1571,26 +1581,26 @@
 					<placeName xml:lang="it">Lipsia</placeName>
 					<placeName xml:lang="pl">Lipsk</placeName>
 					<placeName xml:lang="ru">Лейпциг</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.33962 12.37129</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u30u1d1g3</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein evangelisch</desc>
-						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">127387</desc>
+						<desc source="#brockhaus-1892">rein evangelisch</desc>
+						<desc source="#meyers-1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">127387</desc>
 					</population>
 					<idno type="geonames.org">2879139</idno>
-					<idno type="geohash.org">u30u1d1g3</idno>
 					<bibl type="de.wikipedia.org">Leipzig</bibl>
 				</place>
-				<place type="location" xml:id="leipzig.gewandhaus">
+				<place type="building" xml:id="leipzig.gewandhaus">
 					<placeName type="index" xml:lang="de">Gewandhaus</placeName>
 					<location>
-						<settlement ref="#leipzig" role="parentSettlement"/>
+						<settlement key="leipzig" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Gewandhaus_(Leipzig)</bibl>
 				</place>
@@ -1601,47 +1611,47 @@
 					<placeName xml:lang="it">Leopoli</placeName>
 					<placeName type="index" xml:lang="pl">Lwów</placeName>
 					<placeName xml:lang="ru">Львов</placeName>
-					<country ref="#polen" role="administration" to="1772"/>
-					<country from="1772" ref="#oesterreich" role="administration" to="1918"/>
-					<bloc from="1772" ref="#oesterreich-ungarn" role="administration" to="1918"/>
-					<country from="1918" ref="#polen" role="administration" to="1939"/>
-					<country from="1945" ref="#russland" role="administration" to="1991"/>
-					<country from="1991" ref="#ukraine" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.83826 24.02324</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u88hej250</geo>
+						<country key="polen" role="domain" to="1772"/>
+						<country from="1772" key="oesterreich" role="domain" to="1918"/>
+						<bloc from="1772" key="oesterreich-ungarn" role="domain" to="1918"/>
+						<country from="1918" key="polen" role="domain" to="1939"/>
+						<country from="1945" key="russland" role="domain" to="1991"/>
+						<country from="1991" key="ukraine" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">über 90% Katholiken, über 5% Juden</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Ruthenen</desc>
+						<desc source="#andree-1881">über 90% Katholiken, über 5% Juden</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Ruthenen</desc>
 					</population>
 					<idno type="geonames.org">702550</idno>
-					<idno type="geohash.org">u88hej250</idno>
 					<bibl type="de.wikipedia.org">Lemberg</bibl>
 				</place>
 				<place type="settlement" xml:id="london">
 					<placeName type="index" xml:lang="de">London</placeName>
-					<country ref="#grossbritannien" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.50853 -0.12574</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="grossbritannien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2643743</idno>
 					<bibl type="de.wikipedia.org">London</bibl>
 				</place>
-				<place type="location" xml:id="london.covent-garden-theatre">
+				<place type="building" xml:id="london.covent-garden-theatre">
 					<placeName type="index" xml:lang="de">Royal Opera House in Covent
 						Garden</placeName>
 					<location>
-						<settlement ref="#london" role="parentSettlement"/>
+						<settlement key="london" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Royal_Opera_House</bibl>
 				</place>
-				<place type="location" xml:id="london.royal-albert-hall">
+				<place type="building" xml:id="london.royal-albert-hall">
 					<placeName type="index" xml:lang="de">Royal Albert Hall</placeName>
 					<location>
-						<settlement ref="#london" role="parentSettlement"/>
+						<settlement key="london" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Royal_Albert_Hall</bibl>
 				</place>
@@ -1652,16 +1662,16 @@
 					<placeName xml:lang="it">Lubecca</placeName>
 					<placeName xml:lang="pl">Lubeka</placeName>
 					<placeName xml:lang="ru">Любек</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>53.86893 10.68729</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1xd7jype</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">44799</desc>
+						<desc source="#volkszaehlung-1875">44799</desc>
 					</population>
 					<idno type="geonames.org">2875601</idno>
-					<idno type="geohash.org">u1xd7jype</idno>
 					<bibl type="de.wikipedia.org">Lübeck</bibl>
 				</place>
 				<place type="settlement" xml:id="luettich">
@@ -1671,17 +1681,17 @@
 					<placeName xml:lang="it">Liegi</placeName>
 					<placeName xml:lang="pl">Liège</placeName>
 					<placeName xml:lang="ru">Льеж</placeName>
-					<country ref="#belgien" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.63373 5.56749</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u15bncqup</geo>
+						<country key="belgien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Wallonen</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Wallonen</desc>
 					</population>
 					<idno type="geonames.org">2792413</idno>
-					<idno type="geohash.org">u15bncqup</idno>
 					<bibl type="de.wikipedia.org">Lüttich</bibl>
 				</place>
 				<place type="settlement" xml:id="magdeburg">
@@ -1691,20 +1701,20 @@
 					<placeName xml:lang="it">Magdeburgo</placeName>
 					<placeName xml:lang="pl">Magdeburg</placeName>
 					<placeName xml:lang="ru">Магдебург</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>52.12773 11.62916</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u3228d5gu</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">87925</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">87925</desc>
 					</population>
 					<idno type="geonames.org">2874545</idno>
-					<idno type="geohash.org">u3228d5gu</idno>
 					<bibl type="de.wikipedia.org">Magdeburg</bibl>
 				</place>
 				<place type="settlement" xml:id="mailand">
@@ -1714,53 +1724,53 @@
 					<placeName xml:lang="it">Milano</placeName>
 					<placeName xml:lang="pl">Mediolan</placeName>
 					<placeName xml:lang="ru">Милан</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>45.46427 9.18951</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0nd9h9rm</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Italiener</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Italiener</desc>
 					</population>
 					<idno type="geonames.org">3173435</idno>
-					<idno type="geohash.org">u0nd9h9rm</idno>
 					<bibl type="de.wikipedia.org">Mailand</bibl>
 				</place>
-				<place type="location" xml:id="mailand.dom">
+				<place type="building" xml:id="mailand.dom">
 					<placeName type="index" xml:lang="de">Dom</placeName>
 					<placeName xml:lang="it">Duomo di Santa Maria Nascente (Milano)</placeName>
 					<location>
-						<settlement ref="#mailand" role="parentSettlement"/>
+						<settlement key="mailand" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Mailänder_Dom</bibl>
 				</place>
-				<place type="location" xml:id="mailand.konservatorium">
+				<place type="building" xml:id="mailand.konservatorium">
 					<placeName type="index" xml:lang="de">Konservatorium</placeName>
 					<location>
-						<settlement ref="#mailand" role="parentSettlement"/>
+						<settlement key="mailand" role="area"/>
 					</location>
 					<bibl type="it.wikipedia.org">Conservatorio_Giuseppe_Verdi_(Milano)</bibl>
 				</place>
-				<place type="location" xml:id="mailand.san-marco">
+				<place type="building" xml:id="mailand.san-marco">
 					<placeName type="index" xml:lang="de">San Marco</placeName>
 					<placeName xml:lang="it">San Marco</placeName>
 					<location>
-						<settlement ref="#mailand" role="parentSettlement"/>
+						<settlement key="mailand" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">San Marco</bibl>
 				</place>
-				<place type="location" xml:id="mailand.teatro-alla-scala">
+				<place type="building" xml:id="mailand.teatro-alla-scala">
 					<placeName type="index" xml:lang="de">Teatro alla Scala</placeName>
 					<location>
-						<settlement ref="#mailand" role="parentSettlement"/>
+						<settlement key="mailand" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_alla_Scala</bibl>
 				</place>
-				<place type="location" xml:id="mailand.teatro-dal-verme">
+				<place type="building" xml:id="mailand.teatro-dal-verme">
 					<placeName type="index" xml:lang="de">Teatro dal Verme</placeName>
 					<location>
-						<settlement ref="#mailand" role="parentSettlement"/>
+						<settlement key="mailand" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_dal_Verme</bibl>
 				</place>
@@ -1771,16 +1781,16 @@
 					<placeName xml:lang="it">Magonza</placeName>
 					<placeName xml:lang="pl">Moguncja</placeName>
 					<placeName xml:lang="ru">Майнц</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.98419 8.2791</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0vu7svmw</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">56421</desc>
+						<desc source="#volkszaehlung-1875">56421</desc>
 					</population>
 					<idno type="geonames.org">2874225</idno>
-					<idno type="geohash.org">u0vu7svmw</idno>
 					<bibl type="de.wikipedia.org">Mainz</bibl>
 				</place>
 				<place type="settlement" xml:id="mannheim">
@@ -1790,34 +1800,34 @@
 					<placeName xml:lang="it">Mannheim</placeName>
 					<placeName xml:lang="pl">Mannheim</placeName>
 					<placeName xml:lang="ru">Мангейм</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.49671 8.47955</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0y18fwe5z6</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">46453</desc>
+						<desc source="#volkszaehlung-1875">46453</desc>
 					</population>
 					<idno type="geonames.org">2873891</idno>
-					<idno type="geohash.org">u0y18fwe5z6</idno>
 					<bibl type="de.wikipedia.org">Mannheim</bibl>
 				</place>
 				<place type="settlement" xml:id="manchester">
 					<placeName type="index" xml:lang="de">Manchester</placeName>
-					<country ref="#grossbritannien" role="administration"/>
 					<location type="geonames.org">
 						<geo>53.48095 -2.23743</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="grossbritannien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2643123</idno>
 					<bibl type="de.wikipedia.org">Manchester</bibl>
 				</place>
 				<place type="settlement" xml:id="moskau">
 					<placeName type="index" xml:lang="de">Moskau</placeName>
-					<country ref="#russland" role="administration"/>
 					<location type="geonames.org">
 						<geo>55.75222 37.61556</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="russland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">524901</idno>
 					<bibl type="de.wikipedia.org">Moskau</bibl>
@@ -1830,47 +1840,47 @@
 					<placeName xml:lang="it">Monaco di Baviera</placeName>
 					<placeName xml:lang="pl">Monachium</placeName>
 					<placeName xml:lang="ru">Мюнхен</placeName>
-					<country ref="#bayern" role="administration"/>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>48.13743 11.57549</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u281z7n0j</geo>
+						<country key="bayern" role="domain"/>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
-						<desc type="Meyer_1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">193024</desc>
+						<desc source="#brockhaus-1892">überwiegend katholisch</desc>
+						<desc source="#meyers-1893">6: 70-85% Katholiken, 15-30% Protestanten</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">193024</desc>
 					</population>
 					<idno type="geonames.org">2867714</idno>
-					<idno type="geohash.org">u281z7n0j</idno>
 					<bibl type="de.wikipedia.org">München</bibl>
 				</place>
-				<place type="location" xml:id="muenchen.hoftheater">
+				<place type="building" xml:id="muenchen.hoftheater">
 					<placeName type="index" xml:lang="de">Königliches Hof- und
 						Nationaltheater</placeName>
 					<location>
-						<settlement ref="#muenchen" role="parentSettlement"/>
+						<settlement key="muenchen" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Nationaltheater_München</bibl>
 				</place>
-				<place type="location" xml:id="muenchen.odeon">
+				<place type="building" xml:id="muenchen.odeon">
 					<placeName type="index" xml:lang="de">Odeontheater</placeName>
 					<location>
-						<settlement ref="#muenchen" role="parentSettlement"/>
+						<settlement key="muenchen" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Odeon_(München)</bibl>
 					<bibl type="www"
 						>http://www.stmi.bayern.de/imperia/md/content/stmi/ministerium/geschichte/muenster.pdf</bibl>
 				</place>
-				<place type="location" xml:id="muenchen.residenztheater">
+				<place type="building" xml:id="muenchen.residenztheater">
 					<placeName type="index" xml:lang="de">Residenztheater</placeName>
 					<placeName xml:lang="de">Cuvilliés-Theater</placeName>
 					<placeName from="1951" xml:lang="de">Neues Residenztheater</placeName>
 					<placeName from="1958" xml:lang="de">Altes Residenztheater</placeName>
 					<location>
-						<settlement ref="#muenchen" role="parentSettlement"/>
+						<settlement key="muenchen" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Residenztheater_(München)</bibl>
 				</place>
@@ -1882,47 +1892,47 @@
 					<placeName xml:lang="it">Monaco di Vestfalia</placeName>
 					<placeName xml:lang="pl">Münster</placeName>
 					<placeName xml:lang="ru">Мюнстер</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>51.96236 7.62571</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u1jrt92xr</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein katholisch</desc>
-						<desc type="Meyer_1893">7: 85-95% Katholiken, 5-15% Protestanten</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">35705</desc>
+						<desc source="#brockhaus-1892">rein katholisch</desc>
+						<desc source="#meyers-1893">7: 85-95% Katholiken, 5-15% Protestanten</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">35705</desc>
 					</population>
 					<idno type="geonames.org">2867543</idno>
-					<idno type="geohash.org">u1jrt92xr</idno>
 					<bibl type="de.wikipedia.org">Münster</bibl>
 				</place>
 				<place type="settlement" xml:id="neapel">
 					<placeName type="index" xml:lang="de">Neapel</placeName>
 					<placeName xml:lang="en">Naples</placeName>
 					<placeName xml:lang="it">Napoli</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>40.83333 14.25</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3172394</idno>
 					<bibl type="de.wikipedia.org">Neapel</bibl>
 				</place>
-				<place type="location" xml:id="neapel.konservatorium">
+				<place type="building" xml:id="neapel.konservatorium">
 					<placeName type="index" xml:lang="de">Konservatorium</placeName>
 					<location>
-						<settlement ref="#neapel" role="parentSettlement"/>
+						<settlement key="neapel" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org"
 						>Konservatorium_„San_Pietro_a_Majella“_Neapel</bibl>
 				</place>
-				<place type="location" xml:id="neapel.teatro-san-carlo">
+				<place type="building" xml:id="neapel.teatro-san-carlo">
 					<placeName type="index" xml:lang="de">Teatro San Carlo</placeName>
 					<placeName type="alternative" xml:lang="de">Real Teatro San Carlo</placeName>
 					<location>
-						<settlement ref="#neapel" role="parentSettlement"/>
+						<settlement key="neapel" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_San_Carlo</bibl>
 				</place>
@@ -1934,27 +1944,27 @@
 					<placeName xml:lang="it">New York</placeName>
 					<placeName xml:lang="pl">Nowy Jork</placeName>
 					<placeName xml:lang="ru">Нью-Йорк</placeName>
-					<country ref="#usa" role="administration"/>
 					<location type="geonames.org">
 						<geo>40.71427 -74.00597</geo>
-						<geogName ref="#nordamerika" role="continent"/>
+						<geo decls="#geohash">dr5regy6r</geo>
+						<country key="usa" role="domain"/>
+						<bloc key="nordamerika" role="area"/>
 					</location>
 					<idno type="geonames.org">5128581</idno>
-					<idno type="geohash.org">dr5regy6r</idno>
 					<bibl type="de.wikipedia.org">New_York_City</bibl>
 				</place>
-				<place type="location" xml:id="new-york.academy-of-music">
+				<place type="building" xml:id="new-york.academy-of-music">
 					<placeName type="index" xml:lang="de">Academy of Music</placeName>
 					<location>
-						<settlement ref="#new-york" role="parentSettlement"/>
+						<settlement key="new-york" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Academy_of_Music_(New_York_City)</bibl>
 				</place>
-				<place type="location" xml:id="new-york.st-anns">
+				<place type="building" xml:id="new-york.st-anns">
 					<placeName type="index" xml:lang="de">St. Ann’s Roman Catholic
 						Church</placeName>
 					<location>
-						<settlement ref="#new-york" role="parentSettlement"/>
+						<settlement key="new-york" role="area"/>
 					</location>
 					<bibl type="en.wikipedia.org">St._Ann's_Church_(Manhattan)</bibl>
 				</place>
@@ -1965,11 +1975,11 @@
 					<placeName xml:lang="it">Olomouc</placeName>
 					<placeName xml:lang="pl">Ołomuniec</placeName>
 					<placeName xml:lang="ru">Оломоуц</placeName>
-					<country ref="#maehren" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.59552 17.25175</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="maehren" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3069011</idno>
 					<bibl type="de.wikipedia.org">Olmütz</bibl>
@@ -1981,42 +1991,42 @@
 					<placeName xml:lang="it">Parigi</placeName>
 					<placeName xml:lang="pl">Paryż</placeName>
 					<placeName xml:lang="ru">Париж</placeName>
-					<country ref="#frankreich" role="administration"/>
 					<location type="geonames.org">
 						<geo>48.85341 2.3488</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u09tvw0f6</geo>
+						<country key="frankreich" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Franzosen</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Franzosen</desc>
 					</population>
 					<idno type="geonames.org">2988507</idno>
-					<idno type="geohash.org">u09tvw0f6</idno>
 					<bibl type="de.wikipedia.org">Paris</bibl>
 				</place>
-				<place type="location" xml:id="paris.grand-opera">
+				<place type="building" xml:id="paris.grand-opera">
 					<placeName from="1875" type="index" xml:lang="de">Palais Garnier</placeName>
 					<placeName xml:lang="fr">Palais Garnier</placeName>
 					<location>
-						<settlement ref="#paris" role="parentSettlement"/>
+						<settlement key="paris" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Opéra_Garnier</bibl>
 				</place>
-				<place type="location" xml:id="paris.invalidendom">
+				<place type="building" xml:id="paris.invalidendom">
 					<placeName type="index" xml:lang="de">Invalidendom</placeName>
 					<location>
-						<settlement ref="#paris" role="parentSettlement"/>
+						<settlement key="paris" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Invalidendom</bibl>
 				</place>
-				<place type="location" xml:id="paris.notre-dame">
+				<place type="building" xml:id="paris.notre-dame">
 					<placeName type="index" xml:lang="de">Notre-Dame</placeName>
 					<location>
-						<settlement ref="#paris" role="parentSettlement"/>
+						<settlement key="paris" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Kathedrale_Notre-Dame_de_Paris</bibl>
 				</place>
-				<place type="location" xml:id="paris.opera-comique">
+				<place type="building" xml:id="paris.opera-comique">
 					<placeName type="index" xml:lang="de">Komische Oper</placeName>
 					<placeName xml:lang="en">Opéra comique</placeName>
 					<placeName xml:lang="fr">Opéra comique</placeName>
@@ -2024,25 +2034,25 @@
 					<placeName xml:lang="pl">Opéra comique</placeName>
 					<placeName xml:lang="ru">Опера-Комик</placeName>
 					<location>
-						<settlement ref="#paris" role="parentSettlement"/>
+						<settlement key="paris" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Opéra-Comique_Paris</bibl>
 				</place>
-				<place type="location" xml:id="paris.st-eustache">
+				<place type="building" xml:id="paris.st-eustache">
 					<placeName type="index" xml:lang="de">Saint-Eustache</placeName>
 					<location>
-						<settlement ref="#paris" role="parentSettlement"/>
+						<settlement key="paris" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">St-Eustache_(Paris)</bibl>
 				</place>
-				<place type="location" xml:id="paris.theatre-italien">
+				<place type="building" xml:id="paris.theatre-italien">
 					<placeName from="1841" to="1878" type="index" xml:lang="de"
 						>Théâtre-Italien</placeName>
 					<placeName xml:lang="de">Opéra-Italien</placeName>
 					<placeName xml:lang="de">Odéon</placeName>
 					<placeName xml:lang="de">Salle Ventadour</placeName>
 					<location>
-						<settlement ref="#paris" role="parentSettlement"/>
+						<settlement key="paris" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Théâtre-Italien</bibl>
 				</place>
@@ -2053,13 +2063,13 @@
 					<placeName xml:lang="it">Parma</placeName>
 					<placeName xml:lang="pl">Parma</placeName>
 					<placeName xml:lang="ru">Парма</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>44.80266 10.32898</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">spzqg5be9</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3171457</idno>
-					<idno type="geohash.org">spzqg5be9</idno>
 					<bibl type="de.wikipedia.org">Parma</bibl>
 				</place>
 				<place type="settlement" xml:id="pest">
@@ -2070,20 +2080,20 @@
 					<placeName xml:lang="it">Budapest</placeName>
 					<placeName xml:lang="pl">Budapeszt</placeName>
 					<placeName xml:lang="ru">Будапешт</placeName>
-					<country ref="#ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>47.49801 19.03991</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u2mw1qc43</geo>
+						<country key="ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
 						<desc>1873 mit Buda und Óbuda zu „Budapest“ zusammengelegt</desc>
-						<desc type="Andree_1881">über 50% Katholiken, über 20% Evangelische, über 2%
-							Juden</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Magyaren</desc>
+						<desc source="#andree-1881">über 50% Katholiken, über 20% Evangelische, über
+							2% Juden</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Magyaren</desc>
 					</population>
 					<idno type="geonames.org">3054643</idno>
-					<idno type="geohash.org">u2mw1qc43</idno>
 					<bibl type="de.wikipedia.org">Pest_(Stadt)</bibl>
 				</place>
 				<place type="settlement" xml:id="piacenza">
@@ -2093,13 +2103,13 @@
 					<placeName xml:lang="it">Piacenza</placeName>
 					<placeName xml:lang="pl">Piacenza</placeName>
 					<placeName xml:lang="ru">Пьяченца</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>45.04676 9.69937</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0nbk2tec</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3171058</idno>
-					<idno type="geohash.org">u0nbk2tec</idno>
 					<bibl type="de.wikipedia.org">Piacenza</bibl>
 				</place>
 				<place type="settlement" xml:id="pilsen">
@@ -2109,20 +2119,20 @@
 					<placeName xml:lang="it">Plzeň</placeName>
 					<placeName xml:lang="pl">Pilzno</placeName>
 					<placeName xml:lang="ru">Пльзень</placeName>
-					<country ref="#boehmen" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.74747 13.37759</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u2ce02m0n</geo>
+						<country key="boehmen" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3068160</idno>
-					<idno type="geohash.org">u2ce02m0n</idno>
 					<bibl type="de.wikipedia.org">Pilsen</bibl>
 				</place>
-				<place type="location" xml:id="pilsen.stadt-theater">
+				<place type="building" xml:id="pilsen.stadt-theater">
 					<placeName type="index" xml:lang="de">Stadt-Theater</placeName>
 					<location>
-						<settlement ref="#pilsen" role="parentSettlement"/>
+						<settlement key="pilsen" role="area"/>
 					</location>
 				</place>
 				<place type="settlement" xml:id="pisa">
@@ -2132,13 +2142,13 @@
 					<placeName xml:lang="it">Pisa</placeName>
 					<placeName xml:lang="pl">Piza</placeName>
 					<placeName xml:lang="ru">Пиза</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>43.71553 10.39659</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">spz2sxqrb</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3170647</idno>
-					<idno type="geohash.org">spz2sxqrb</idno>
 					<bibl type="de.wikipedia.org">Pisa</bibl>
 				</place>
 				<place type="settlement" xml:id="posen">
@@ -2148,21 +2158,21 @@
 					<placeName xml:lang="it">Posen</placeName>
 					<placeName type="index" xml:lang="pl">Poznań</placeName>
 					<placeName xml:lang="ru">Познань</placeName>
-					<country ref="#deutschland" role="administration"/>
-					<country ref="#polen" role="administration"/>
 					<location type="geonames.org">
 						<geo>52.40692 16.92993</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u3k40gxfp</geo>
+						<country key="deutschland" role="domain"/>
+						<country key="polen" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend katholisch</desc>
-						<desc type="Meyer_1893">5: 50-70% Katholiken, 30-50% Protestanten</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">60998</desc>
+						<desc source="#brockhaus-1892">überwiegend katholisch</desc>
+						<desc source="#meyers-1893">5: 50-70% Katholiken, 30-50% Protestanten</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">60998</desc>
 					</population>
 					<idno type="geonames.org">3088171</idno>
-					<idno type="geohash.org">u3k40gxfp</idno>
 					<bibl type="de.wikipedia.org">Posen</bibl>
 				</place>
 				<place type="settlement" xml:id="prag">
@@ -2172,29 +2182,29 @@
 					<placeName xml:lang="it">Praga</placeName>
 					<placeName xml:lang="pl">Praga</placeName>
 					<placeName xml:lang="ru">Прага</placeName>
-					<country ref="#boehmen" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.08804 14.42076</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u2fkbecr1</geo>
+						<country key="boehmen" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">über 90% Katholiken, über 2% Juden</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Deutsche</desc>
+						<desc source="#andree-1881">über 90% Katholiken, über 2% Juden</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Deutsche</desc>
 					</population>
 					<idno type="geonames.org">3067696</idno>
-					<idno type="geohash.org">u2fkbecr1</idno>
 					<bibl type="de.wikipedia.org">Prag</bibl>
 				</place>
-				<place type="location" xml:id="prag.konservatorium">
+				<place type="building" xml:id="prag.konservatorium">
 					<placeName type="index" xml:lang="de">Konservatorium</placeName>
 					<location>
-						<settlement ref="#prag" role="parentSettlement"/>
+						<settlement key="prag" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Prager_Konservatorium</bibl>
 				</place>
-				<place type="location" xml:id="prag.staendetheater">
+				<place type="building" xml:id="prag.staendetheater">
 					<placeName from="1783" to="1798" xml:lang="de">Nationaltheater</placeName>
 					<placeName from="1798" to="1862" xml:lang="de">Königliches
 						Ständetheater</placeName>
@@ -2204,7 +2214,7 @@
 					<placeName from="1990" xml:lang="de">Ständetheater</placeName>
 					<placeName from="1990" xml:lang="cs">Stavovské divadlo</placeName>
 					<location>
-						<settlement ref="#prag" role="parentSettlement"/>
+						<settlement key="prag" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Ständetheater</bibl>
 				</place>
@@ -2215,34 +2225,34 @@
 					<placeName xml:lang="it">Ratisbona</placeName>
 					<placeName xml:lang="pl">Ratyzbona</placeName>
 					<placeName xml:lang="ru">Регенсбург</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.015 12.09556</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u28wg6gd6</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Volkszählung_1875">31504</desc>
+						<desc source="#volkszaehlung-1875">31504</desc>
 					</population>
 					<idno type="geonames.org">2849483</idno>
-					<idno type="geohash.org">u28wg6gd6</idno>
 					<bibl type="de.wikipedia.org">Regensburg</bibl>
 				</place>
 				<place type="settlement" xml:id="reggio">
 					<placeName type="index" xml:lang="de">Reggio</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>44.69825 10.63125</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3169522</idno>
 					<bibl type="de.wikipedia.org">Reggio_nell’Emilia</bibl>
 				</place>
 				<place type="settlement" xml:id="rio-de-janeiro">
 					<placeName type="index" xml:lang="de">Rio de Janeiro</placeName>
-					<country ref="#brasilien" role="administration"/>
 					<location type="geonames.org">
 						<geo>-22.90278 -43.2075</geo>
-						<geogName ref="#suedamerika" role="continent"/>
+						<country key="brasilien" role="domain"/>
+						<bloc key="suedamerika" role="area"/>
 					</location>
 					<idno type="geonames.org">3451190</idno>
 					<bibl type="de.wikipedia.org">Rio_de_Janeiro</bibl>
@@ -2254,36 +2264,36 @@
 					<placeName xml:lang="it">Roma</placeName>
 					<placeName xml:lang="pl">Rzym</placeName>
 					<placeName xml:lang="ru">Рим</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>41.89474 12.4839</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">sr2y7ecwj</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">3169070</idno>
-					<idno type="geohash.org">sr2y7ecwj</idno>
 					<bibl type="de.wikipedia.org">Rom</bibl>
 				</place>
-				<place type="location" xml:id="rom.peterskirche">
+				<place type="building" xml:id="rom.peterskirche">
 					<placeName type="index" xml:lang="de">Peterskirche</placeName>
 					<placeName xml:lang="it">San Pietro</placeName>
 					<location>
-						<settlement ref="#rom" role="parentSettlement"/>
+						<settlement key="rom" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Petersdom</bibl>
 				</place>
-				<place type="location" xml:id="rom.sixtinische-kapelle">
+				<place type="building" xml:id="rom.sixtinische-kapelle">
 					<placeName type="index" xml:lang="de">Sixtinische Kapelle</placeName>
 					<placeName xml:lang="it">Cappella Sistina</placeName>
 					<location>
-						<settlement ref="#rom" role="parentSettlement"/>
+						<settlement key="rom" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Sixtinische_Kapelle</bibl>
 				</place>
-				<place type="location" xml:id="rom.teatro-apollo">
+				<place type="building" xml:id="rom.teatro-apollo">
 					<placeName from="1795" to="1888" type="index" xml:lang="de">Teatro
 						Apollo</placeName>
 					<location>
-						<settlement ref="#rom" role="parentSettlement"/>
+						<settlement key="rom" role="area"/>
 					</location>
 					<bibl type="it.wikipedia.org">Teatro_Tordinona</bibl>
 				</place>
@@ -2295,13 +2305,13 @@
 					<placeName xml:lang="it">Le Roncole</placeName>
 					<placeName xml:lang="pl">Le Roncole</placeName>
 					<placeName xml:lang="ru">Le Roncole</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>44.95241 10.07318</geo>
-						<settlement ref="#busseto" role="parentSettlement"/>
+						<geo decls="#geohash">spzptr0jr</geo>
+						<country key="italien" role="domain"/>
+						<settlement key="busseto" role="area"/>
 					</location>
 					<idno type="geonames.org">7280681</idno>
-					<idno type="geohash.org">spzptr0jr</idno>
 					<bibl type="de.wikipedia.org">Le_Roncole</bibl>
 				</place>
 				<place type="settlement" xml:id="salzburg">
@@ -2312,39 +2322,39 @@
 					<placeName xml:lang="pl">Salzburg</placeName>
 					<placeName xml:lang="pl">Solnogród</placeName>
 					<placeName xml:lang="ru">Зальцбург</placeName>
-					<country ref="#oesterreich" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>47.79941 13.04399</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u23rcp6q7</geo>
+						<country key="oesterreich" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">über 90% Katholiken</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Deutsche</desc>
+						<desc source="#andree-1881">über 90% Katholiken</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Deutsche</desc>
 					</population>
 					<idno type="geonames.org">2766824</idno>
-					<idno type="geohash.org">u23rcp6q7</idno>
 					<bibl type="de.wikipedia.org">Salzburg</bibl>
 				</place>
-				<place type="location" xml:id="salzburg.aula-academica">
+				<place type="building" xml:id="salzburg.aula-academica">
 					<placeName type="index" xml:lang="de">Aula Academica</placeName>
 					<location>
-						<settlement ref="#salzburg" role="parentSettlement"/>
+						<settlement key="salzburg" role="area"/>
 					</location>
 					<bibl type="www">http://www.salzburg.com/wiki/index.php/Aula_Academica</bibl>
 				</place>
-				<place type="location" xml:id="salzburg.kuk-theater">
+				<place type="building" xml:id="salzburg.kuk-theater">
 					<placeName type="index" xml:lang="de">K. u. K. Theater</placeName>
 					<location>
-						<settlement ref="#salzburg" role="parentSettlement"/>
+						<settlement key="salzburg" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Salzburger_Landestheater</bibl>
 				</place>
-				<place type="location" xml:id="sant-agata">
+				<place type="settlement" xml:id="sant-agata">
 					<placeName type="index" xml:lang="de">Sant’Agata</placeName>
 					<location>
-						<settlement ref="#busseto" role="parentSettlement"/>
+						<settlement key="busseto" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Villanova_sull’Arda</bibl>
 				</place>
@@ -2355,30 +2365,30 @@
 					<placeName xml:lang="it">Schwerin</placeName>
 					<placeName xml:lang="pl">Schwerin</placeName>
 					<placeName xml:lang="ru">Шверин</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>53.62937 11.41316</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u3815eqxe</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein evangelisch</desc>
-						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">27643</desc>
+						<desc source="#brockhaus-1892">rein evangelisch</desc>
+						<desc source="#meyers-1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">27643</desc>
 					</population>
 					<idno type="geonames.org">2834282</idno>
-					<idno type="geohash.org">u3815eqxe</idno>
 					<bibl type="de.wikipedia.org">Schwerin</bibl>
 				</place>
-				<place type="location" xml:id="schwerin.hoftheater">
+				<place type="building" xml:id="schwerin.hoftheater">
 					<placeName to="1886" type="index" xml:lang="de">Hoftheater</placeName>
 					<placeName from="1886" to="1918" xml:lang="de">Großherzogliches
 						Hoftheater</placeName>
 					<placeName from="1918" to="1926" xml:lang="de">Landestheater</placeName>
 					<placeName from="1926" xml:lang="de">Mecklenburgisches Staatstheater</placeName>
 					<location>
-						<settlement ref="#schwerin" role="parentSettlement"/>
+						<settlement key="schwerin" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Mecklenburgisches_Staatstheater_Schwerin</bibl>
 				</place>
@@ -2389,13 +2399,13 @@
 					<placeName xml:lang="it">Spira</placeName>
 					<placeName xml:lang="pl">Spira</placeName>
 					<placeName xml:lang="ru">Шпайер</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>49.32083 8.43111</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0vbxfe6ej5</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2830582</idno>
-					<idno type="geohash.org">u0vbxfe6ej5</idno>
 					<bibl type="de.wikipedia.org">Speyer</bibl>
 				</place>
 				<place type="settlement" xml:id="st-gallen">
@@ -2405,36 +2415,36 @@
 					<placeName xml:lang="it">San Gallo</placeName>
 					<placeName xml:lang="pl">Sankt Gallen</placeName>
 					<placeName xml:lang="ru">Санкт-Галлен</placeName>
-					<country ref="#schweiz" role="administration"/>
 					<location>
 						<geo>47.42391 9.37477</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="schweiz" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2658822</idno>
 					<bibl type="de.wikipedia.org">St._Gallen</bibl>
 				</place>
-				<place type="location" xml:id="st-gallen.kirche-st-laurenzen">
+				<place type="building" xml:id="st-gallen.kirche-st-laurenzen">
 					<placeName type="index" xml:lang="de">St. Laurenzen</placeName>
 					<location>
-						<settlement ref="#st-gallen" role="parentSettlement"/>
+						<settlement key="st-gallen" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Kirche_St._Laurenzen</bibl>
 				</place>
 				<place type="settlement" xml:id="st-petersburg">
 					<placeName type="index" xml:lang="de">St. Petersburg</placeName>
 					<placeName type="index" xml:lang="de">Petersburg</placeName>
-					<country ref="#russland" role="administration"/>
 					<location type="geonames.org">
 						<geo>59.93863 30.31413</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="russland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">498817</idno>
 					<bibl type="de.wikipedia.org">Sankt_Petersburg</bibl>
 				</place>
-				<place type="location" xml:id="st-petersburg.mariinski-theater">
+				<place type="building" xml:id="st-petersburg.mariinski-theater">
 					<placeName type="index" xml:lang="de">Mariinski-Theater</placeName>
 					<location>
-						<settlement ref="#st-petersburg" role="parentSettlement"/>
+						<settlement key="st-petersburg" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Mariinski-Theater</bibl>
 				</place>
@@ -2445,11 +2455,11 @@
 					<placeName xml:lang="it">Stockerau</placeName>
 					<placeName xml:lang="pl">Stockerau</placeName>
 					<placeName xml:lang="ru">Штоккерау</placeName>
-					<country ref="#oesterreich" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location>
 						<geo>48.38333 16.21667</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="oesterreich" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2764279</idno>
 					<bibl type="de.wikipedia.org">Stockerau</bibl>
@@ -2461,17 +2471,17 @@
 					<placeName xml:lang="it">Stoccolma</placeName>
 					<placeName xml:lang="pl">Sztokholm</placeName>
 					<placeName xml:lang="ru">Стокгольм</placeName>
-					<country ref="#schweden" role="administration"/>
 					<location type="geonames.org">
 						<geo>59.33258 18.0649</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u6sce0d2n</geo>
+						<country key="schweden" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Schweden</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Schweden</desc>
 					</population>
 					<idno type="geonames.org">2673730</idno>
-					<idno type="geohash.org">u6sce0d2n</idno>
 					<bibl type="de.wikipedia.org">Stockholm</bibl>
 				</place>
 				<place type="settlement" xml:id="stralsund">
@@ -2483,20 +2493,20 @@
 					<placeName xml:lang="pl">Sztrela</placeName>
 					<placeName xml:lang="pl">Strzałów</placeName>
 					<placeName xml:lang="ru">Штральзунд</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>54.30911 13.0818</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u39kcufhv</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein evangelisch</desc>
-						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">27765</desc>
+						<desc source="#brockhaus-1892">rein evangelisch</desc>
+						<desc source="#meyers-1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">27765</desc>
 					</population>
 					<idno type="geonames.org">2826287</idno>
-					<idno type="geohash.org">u39kcufhv</idno>
 					<bibl type="de.wikipedia.org">Stralsund</bibl>
 				</place>
 				<place type="settlement" xml:id="stuttgart">
@@ -2506,20 +2516,20 @@
 					<placeName xml:lang="it">Stoccarda</placeName>
 					<placeName xml:lang="pl">Stuttgart</placeName>
 					<placeName xml:lang="ru">Штутгарт</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>48.78232 9.17702</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0wt2zmcq</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">überwiegend evangelisch</desc>
-						<desc type="Meyer_1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">107273</desc>
+						<desc source="#brockhaus-1892">überwiegend evangelisch</desc>
+						<desc source="#meyers-1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">107273</desc>
 					</population>
 					<idno type="geonames.org">2825297</idno>
-					<idno type="geohash.org">u0wt2zmcq</idno>
 					<bibl type="de.wikipedia.org">Stuttgart</bibl>
 				</place>
 				<place type="settlement" xml:id="triest">
@@ -2529,30 +2539,30 @@
 					<placeName xml:lang="it">Trieste</placeName>
 					<placeName xml:lang="pl">Triest</placeName>
 					<placeName xml:lang="ru">Триест</placeName>
-					<country ref="#italien" role="administration"/>
-					<country ref="#oesterreich" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>45.64861 13.78</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u21gccxv3</geo>
+						<country key="italien" role="domain"/>
+						<country key="oesterreich" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">über 90% Katholiken</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Slovenen</desc>
+						<desc source="#andree-1881">über 90% Katholiken</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Slovenen</desc>
 					</population>
 					<idno type="geonames.org">3165185</idno>
-					<idno type="geohash.org">u21gccxv3</idno>
 					<bibl type="de.wikipedia.org">Triest</bibl>
 				</place>
-				<place type="location" xml:id="triest.teatro-comunale">
+				<place type="building" xml:id="triest.teatro-comunale">
 					<placeName from="1801" to="1820" xml:lang="de">Teatro Nuovo</placeName>
 					<placeName from="1820" to="1861" type="index" xml:lang="de">Teatro
 						Grande</placeName>
 					<placeName from="1861" to="1901" xml:lang="de">Teatro Comunale</placeName>
 					<placeName from="1901" xml:lang="de">Teatro Giuseppe Verdi</placeName>
 					<location>
-						<settlement ref="#triest" role="parentSettlement"/>
+						<settlement key="triest" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_Giuseppe_Verdi_(Triest)</bibl>
 				</place>
@@ -2563,13 +2573,13 @@
 					<placeName xml:lang="it">Utrecht</placeName>
 					<placeName xml:lang="pl">Utrecht</placeName>
 					<placeName xml:lang="ru">Утрехт</placeName>
-					<country ref="#niederlande" role="administration"/>
 					<location type="geonames.org">
 						<geo>52.09083 5.12222</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u178k7h2d</geo>
+						<country key="niederlande" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2745912</idno>
-					<idno type="geohash.org">u178k7h2d</idno>
 					<bibl type="de.wikipedia.org">Utrecht</bibl>
 				</place>
 				<place type="settlement" xml:id="venedig">
@@ -2579,49 +2589,49 @@
 					<placeName xml:lang="it">Venezia</placeName>
 					<placeName xml:lang="pl">Wenecja</placeName>
 					<placeName xml:lang="ru">Венеция</placeName>
-					<country ref="#italien" role="administration"/>
 					<location type="geonames.org">
 						<geo>45.43861 12.32667</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u20f80rbh</geo>
+						<country key="italien" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Italiener</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Italiener</desc>
 					</population>
 					<idno type="geonames.org">3164603</idno>
-					<idno type="geohash.org">u20f80rbh</idno>
 					<bibl type="de.wikipedia.org">Venedig</bibl>
 				</place>
-				<place type="location" xml:id="venedig.san-marco">
+				<place type="building" xml:id="venedig.san-marco">
 					<placeName type="index" xml:lang="de">Markusdom</placeName>
 					<placeName xml:lang="it">Basilica di San Marco (Venezia)</placeName>
 					<location>
-						<settlement ref="#venedig" role="parentSettlement"/>
+						<settlement key="venedig" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Markusdom</bibl>
 				</place>
-				<place type="location" xml:id="venedig.teatro-la-fenice">
+				<place type="building" xml:id="venedig.teatro-la-fenice">
 					<placeName type="index" xml:lang="de">Teatro La Fenice</placeName>
 					<placeName xml:lang="it">Teatro La Fenice</placeName>
 					<location>
-						<settlement ref="#venedig" role="parentSettlement"/>
+						<settlement key="venedig" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_la_Fenice</bibl>
 				</place>
-				<place type="location" xml:id="venedig.teatro-malibran">
+				<place type="building" xml:id="venedig.teatro-malibran">
 					<placeName type="index" xml:lang="de">Teatro Malibran</placeName>
 					<location>
-						<settlement ref="#venedig" role="parentSettlement"/>
+						<settlement key="venedig" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Teatro_Malibran</bibl>
 				</place>
 				<place type="settlement" xml:id="voeslau">
 					<placeName type="index" xml:lang="de">Vöslau</placeName>
-					<country ref="#oesterreich" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>47.96533 16.21359</geo>
-						<geogName ref="#europa" role="continent"/>
+						<country key="oesterreich" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2782043</idno>
 					<bibl type="de.wikipedia.org">Bad_Vöslau</bibl>
@@ -2633,18 +2643,18 @@
 					<placeName xml:lang="it">Varsavia</placeName>
 					<placeName xml:lang="pl">Warszawa</placeName>
 					<placeName xml:lang="ru">Варшава</placeName>
-					<country ref="#russland" role="administration"/>
-					<country ref="#polen" role="administration"/>
 					<location type="geonames.org">
 						<geo>52.22977 21.01178</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u3qcnhheu</geo>
+						<country key="russland" role="domain"/>
+						<country key="polen" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Polen</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Polen</desc>
 					</population>
 					<idno type="geonames.org">756135</idno>
-					<idno type="geohash.org">u3qcnhheu</idno>
 					<bibl type="de.wikipedia.org">Warschau</bibl>
 				</place>
 				<place type="settlement" xml:id="weimar">
@@ -2654,29 +2664,29 @@
 					<placeName xml:lang="it">Weimar</placeName>
 					<placeName xml:lang="pl">Weimar</placeName>
 					<placeName xml:lang="ru">Веймар</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.9803 11.32903</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u30419kz6</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">rein evangelisch</desc>
-						<desc type="Meyer_1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">17522</desc>
+						<desc source="#brockhaus-1892">rein evangelisch</desc>
+						<desc source="#meyers-1893">1: 0-5% Katholiken, 95-100% Protestanten</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">17522</desc>
 					</population>
 					<idno type="geonames.org">2812482</idno>
-					<idno type="geohash.org">u30419kz6</idno>
 					<bibl type="de.wikipedia.org">Weimar</bibl>
 				</place>
-				<place type="location" xml:id="weimar.hoftheater">
+				<place type="building" xml:id="weimar.hoftheater">
 					<placeName from="1791" to="1918" type="index" xml:lang="de"
 						>Hoftheater</placeName>
 					<placeName from="1918" to="1919" xml:lang="de">Landestheater</placeName>
 					<placeName from="1919" xml:lang="de">Deutsches Nationaltheater</placeName>
 					<location>
-						<settlement ref="#weimar" role="parentSettlement"/>
+						<settlement key="weimar" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Deutsches_Nationaltheater_Weimar</bibl>
 				</place>
@@ -2687,70 +2697,70 @@
 					<placeName xml:lang="it">Vienna</placeName>
 					<placeName xml:lang="pl">Wiedeń</placeName>
 					<placeName xml:lang="ru">Вена</placeName>
-					<country ref="#oesterreich" role="administration"/>
-					<bloc ref="#oesterreich-ungarn" role="administration"/>
 					<location type="geonames.org">
 						<geo>48.20849 16.37208</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u2edk850c</geo>
+						<country key="oesterreich" role="domain"/>
+						<bloc key="oesterreich-ungarn" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">über 90% Katholiken</desc>
-						<desc type="Andree_1881">Röm. Katholiken</desc>
-						<desc type="Andree_1881">Deutsche</desc>
+						<desc source="#andree-1881">über 90% Katholiken</desc>
+						<desc source="#andree-1881">Röm. Katholiken</desc>
+						<desc source="#andree-1881">Deutsche</desc>
 					</population>
 					<idno type="geonames.org">2761369</idno>
-					<idno type="geohash.org">u2edk850c</idno>
 					<bibl type="de.wikipedia.org">Wien</bibl>
 				</place>
-				<place type="location" xml:id="wien.burgtheater">
+				<place type="building" xml:id="wien.burgtheater">
 					<placeName type="index" xml:lang="de">Burgtheater</placeName>
 					<placeName from="1748" to="1888" xml:lang="de">k.k. Theater nächst der
 						Burg</placeName>
 					<placeName from="1888" to="1918" xml:lang="de">k.k. Hof-Burgtheater</placeName>
 					<placeName from="1918" xml:lang="de">Burgtheater</placeName>
 					<location>
-						<settlement ref="#wien" role="parentSettlement"/>
+						<settlement key="wien" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Burgtheater</bibl>
 				</place>
-				<place type="location" xml:id="wien.hof-operntheater">
+				<place type="building" xml:id="wien.hof-operntheater">
 					<placeName type="index" xml:lang="de">Hof-Operntheater</placeName>
 					<placeName from="1869" to="1918" xml:lang="de">k.k. Hof-Operntheater</placeName>
 					<placeName from="1918" to="1938" xml:lang="de">Operntheater</placeName>
 					<placeName from="1938" xml:lang="de">Staatsoper</placeName>
 					<location>
-						<settlement ref="#wien" role="parentSettlement"/>
+						<settlement key="wien" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Wiener_Staatsoper</bibl>
 				</place>
-				<place type="location" xml:id="wien.hofburg">
+				<place type="building" xml:id="wien.hofburg">
 					<placeName type="index" xml:lang="de">Hofburg</placeName>
 					<location>
-						<settlement ref="#wien" role="parentSettlement"/>
+						<settlement key="wien" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Hofburg</bibl>
 				</place>
-				<place type="location" xml:id="wien.kaerntnertor-theater">
+				<place type="building" xml:id="wien.kaerntnertor-theater">
 					<placeName from="1709" to="1870" type="index" xml:lang="de"
 						>Kärntnertor-Theater</placeName>
 					<placeName xml:lang="de">Theater am Kärntnertor</placeName>
 					<location>
-						<settlement ref="#wien" role="parentSettlement"/>
+						<settlement key="wien" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Theater_am_Kärntnertor</bibl>
 				</place>
-				<place type="location" xml:id="wien.konservatorium">
+				<place type="building" xml:id="wien.konservatorium">
 					<placeName type="index" xml:lang="de">Konservatorium</placeName>
 					<location>
-						<settlement ref="#wien" role="parentSettlement"/>
+						<settlement key="wien" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org"
 						>Universität_für_Musik_und_darstellende_Kunst_Wien</bibl>
 				</place>
-				<place type="location" xml:id="wien.salvatorkirche">
+				<place type="building" xml:id="wien.salvatorkirche">
 					<placeName type="index" xml:lang="de">St. Salvator</placeName>
 					<location>
-						<settlement ref="#wien" role="parentSettlement"/>
+						<settlement key="wien" role="area"/>
 					</location>
 					<bibl type="de.wikipedia.org">Sankt_Salvator_(Wien)</bibl>
 				</place>
@@ -2761,25 +2771,25 @@
 					<placeName xml:lang="it">Wiesbaden</placeName>
 					<placeName xml:lang="pl">Wiesbaden</placeName>
 					<placeName xml:lang="ru">Висбаден</placeName>
-					<country ref="#deutschland" role="administration"/>
 					<location type="geonames.org">
 						<geo>50.08258 8.24932</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0vug9dwe</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Brockhaus_1892">gemischt, mehr evangelisch</desc>
-						<desc type="Meyer_1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
-						<desc type="Andree_1881">Deutsche</desc>
-						<desc type="Volkszählung_1875">43674</desc>
+						<desc source="#brockhaus-1892">gemischt, mehr evangelisch</desc>
+						<desc source="#meyers-1893">4: 30-50% Katholiken, 50-70% Protestanten</desc>
+						<desc source="#andree-1881">Deutsche</desc>
+						<desc source="#volkszaehlung-1875">43674</desc>
 					</population>
 					<idno type="geonames.org">2809346</idno>
-					<idno type="geohash.org">u0vug9dwe</idno>
 					<bibl type="de.wikipedia.org">Wiesbaden</bibl>
 				</place>
-				<place type="location" xml:id="wiesbaden.koenigliches-theater">
+				<place type="building" xml:id="wiesbaden.koenigliches-theater">
 					<placeName type="index" xml:lang="de">Königliches Theater</placeName>
 					<location>
-						<settlement ref="#wiesbaden" role="parentSettlement"/>
+						<settlement key="wiesbaden" role="area"/>
 					</location>
 				</place>
 				<place type="settlement" xml:id="winterthur">
@@ -2789,13 +2799,13 @@
 					<placeName xml:lang="it">Winterthur</placeName>
 					<placeName xml:lang="pl">Winterthur</placeName>
 					<placeName xml:lang="ru">Винтертур</placeName>
-					<country ref="#schweiz" role="administration"/>
-					<location type="geonames.org">
+					<location>
 						<geo>47.5 8.75</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0qnnz4e2</geo>
+						<country key="schweiz" role="domain"/>
+						<geogName ref="europa" role="area"/>
 					</location>
 					<idno type="geonames.org">2657970</idno>
-					<idno type="geohash.org">u0qnnz4e2</idno>
 					<bibl type="de.wikipedia.org">Winterthur</bibl>
 				</place>
 				<place type="settlement" xml:id="zuerich">
@@ -2805,80 +2815,93 @@
 					<placeName xml:lang="it">Zurigo</placeName>
 					<placeName xml:lang="pl">Zurych</placeName>
 					<placeName xml:lang="ru">Цюрих</placeName>
-					<country ref="#schweiz" role="administration"/>
-					<location type="geonames.org">
+					<location>
 						<geo>47.36667 8.55</geo>
-						<geogName ref="#europa" role="continent"/>
+						<geo decls="#geohash">u0qnjw4bx</geo>
+						<country key="schweiz" role="domain"/>
+						<bloc key="europa" role="area"/>
 					</location>
 					<population>
-						<desc type="Andree_1881">Katholiken und Reformierte gemischt</desc>
-						<desc type="Andree_1881">Evangelische</desc>
-						<desc type="Andree_1881">Deutsche</desc>
+						<desc source="#andree-1881">Katholiken und Reformierte gemischt</desc>
+						<desc source="#andree-1881">Evangelische</desc>
+						<desc source="#andree-1881">Deutsche</desc>
 					</population>
 					<idno type="geonames.org">2657896</idno>
-					<idno type="geohash.org">u0qnjw4bx</idno>
 					<bibl type="de.wikipedia.org">Zürich</bibl>
 				</place>
-
-				<!-- NICHT BEKANNT -->
-				<place type="undefinable" xml:id="unidentified">
+				<place type="settlement" xml:id="halle">
+					<placeName xml:lang="de">Halle</placeName>
+					<placeName type="index" xml:lang="de">Halle an der Saale</placeName>
+					<placeName xml:lang="en">Halle</placeName>
+					<placeName xml:lang="fr">Halle</placeName>
+					<placeName xml:lang="it">Halle</placeName>
+					<placeName xml:lang="pl">Halle</placeName>
+					<placeName xml:lang="ru">Галле</placeName>
+					<location>
+						<geo>51.5 12</geo>
+						<geo decls="#geohash">u30sb7e71</geo>
+						<country key="deutschland" role="domain"/>
+						<bloc key="europa" role="area"/>
+					</location>
+					<population>
+						<desc source="Brockhaus 1892">rein evangelisch</desc>
+						<desc source="Meyer 1893">2: 5-15% Katholiken, 85-95% Protestanten</desc>
+						<desc source="Andree 1881">Deutsche</desc>
+					</population>
+					<idno type="geonames.org">2911522</idno>
+					<bibl type="de.wikipedia.org">Halle</bibl>
+				</place>
+				<place type="settlement" xml:id="oldenburg">
+					<placeName type="index" xml:lang="de">Oldenburg</placeName>
+					<placeName xml:lang="en">Oldenburg</placeName>
+					<placeName xml:lang="fr">Oldenbourg</placeName>
+					<placeName xml:lang="it">Oldenburg</placeName>
+					<placeName xml:lang="pl">Oldenburg</placeName>
+					<placeName xml:lang="ru">Ольденбург</placeName>
+					<location>
+						<geo>53.14118 8.21467</geo>
+						<geo decls="#geohash">u1my6g6b0</geo>
+						<country key="deutschland" role="domain"/>
+						<placeName key="europa" role="area"/>
+					</location>
+					<population>
+						<desc source="Brockhaus 1892">überwiegend evangelisch</desc>
+						<desc source="Meyer 1893">3: 15-30% Katholiken, 70-85% Protestanten</desc>
+						<desc source="Andree 1881">Deutsche</desc>
+					</population>
+					<idno type="geonames.org">2857458</idno>
+					<bibl type="de.wikipedia.org">Oldenburg</bibl>
+				</place>
+				<place type="settlement" xml:id="wuppertal">
+					<placeName type="index" xml:lang="de">Wuppertal</placeName>
+					<placeName xml:lang="en">Wuppertal</placeName>
+					<placeName xml:lang="fr">Wuppertal</placeName>
+					<placeName xml:lang="it">Wuppertal</placeName>
+					<placeName xml:lang="pl">Wuppertal</placeName>
+					<placeName xml:lang="ru">Вупперталь</placeName>
+					<location>
+						<geo>51.27027 7.16755</geo>
+						<geo decls="#geohash">u1j5ddzj0</geo>
+						<country key="deutschland" role="domain"/>
+						<placeName key="europa" role="area"/>
+					</location>
+					<idno type="geonames.org">2805753</idno>
+					<bibl type="de.wikipedia.org">Wuppertal</bibl>
+				</place>
+			</listPlace>
+			<listPlace type="unknown">
+				<head>Unbekannte Orte</head>
+				<place type="unknown" xml:id="unidentified">
 					<placeName type="index">? (nicht identifizierter Ort)</placeName>
 				</place>
-
-				<!-- DEAKTIVIERT -->
-				<!--<placeListItem nym="halle" type="settlement">
-					<geo authority="geonames.org">51.5 12</geo>
-					<id authority="geonames.org">2911522</id>
-					<id authority="geohash.org">u30sb7e71</id>
-					<name lang="de">Halle</name>
-					<name lang="de" type="index">Halle an der Saale</name>
-					<name lang="en">Halle</name>
-					<name lang="fr">Halle</name>
-					<name lang="it">Halle</name>
-					<name lang="pl">Halle</name>
-					<name lang="ru">Галле</name>
-					<place nym="deutschland" role="parentCountry"/>
-					<place nym="europa" role="parentContinent"/>
-					<description source="Brockhaus 1892">rein evangelisch</description>
-					<description source="Meyer 1893">2: 5-15% Katholiken, 85-95%
-						Protestanten</description>
-					<description source="Andree 1881">Deutsche</description>
-					<resource type="de.wikipedia.org" date="2012-11-15">Halle</resource>
-				</placeListItem>-->
-				<!--<placeListItem nym="oldenburg" type="settlement">
-					<geo authority="geonames.org">53.14118 8.21467</geo>
-					<id authority="geonames.org">2857458</id>
-					<id authority="geohash.org">u1my6g6b0</id>
-					<name lang="de" type="index">Oldenburg</name>
-					<name lang="en">Oldenburg</name>
-					<name lang="fr">Oldenbourg</name>
-					<name lang="it">Oldenburg</name>
-					<name lang="pl">Oldenburg</name>
-					<name lang="ru">Ольденбург</name>
-					<place nym="deutschland" role="parentCountry"/>
-					<place nym="europa" role="parentContinent"/>
-					<description source="Brockhaus 1892">überwiegend
-						evangelisch</description>
-					<description source="Meyer 1893">3: 15-30% Katholiken, 70-85%
-						Protestanten</description>
-					<description source="Andree 1881">Deutsche</description>
-					<resource type="de.wikipedia.org" date="2012-11-15">Oldenburg</resource>
-				</placeListItem>-->
-				<!--<placeListItem nym="wuppertal" type="settlement">
-					<geo authority="geonames.org">51.27027 7.16755</geo>
-					<id authority="geonames.org">2805753</id>
-					<id authority="geohash.org">u1j5ddzj0</id>
-					<name lang="de" type="index">Wuppertal</name>
-					<name lang="en">Wuppertal</name>
-					<name lang="fr">Wuppertal</name>
-					<name lang="it">Wuppertal</name>
-					<name lang="pl">Wuppertal</name>
-					<name lang="ru">Вупперталь</name>
-					<place nym="deutschland" role="parentCountry"/>
-					<resource type="de.wikipedia.org" date="2012-11-23">Wuppertal</resource>
-				</placeListItem>-->
-
 			</listPlace>
+			<listBibl>
+				<head>Bibliographie</head>
+				<bibl xml:id="brockhaus-1892"/>
+				<bibl xml:id="meyers-1893"/>
+				<bibl xml:id="andree-1881"/>
+				<bibl xml:id="volkszaehlung-1875"/>
+			</listBibl>
 		</body>
 	</text>
 </TEI>

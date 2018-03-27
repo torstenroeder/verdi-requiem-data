@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tonkunst" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="tonkunst" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-iso="1876-04-08"/>
 					<biblScope unit="issue">11</biblScope>
 					<biblScope unit="volume">1</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#magdeburg"/></creation>
+			<creation><placeName key="magdeburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -43,10 +43,10 @@
 			<gap/>
 			<p><hi rend="bold kanzlei">In Sicht.</hi>
 				<gap resp="tr"/> Frl<!--TEXT sic: ohne Punkt-->
-				<persName ref="#boers.thoma">Börs</persName> a. <placeName ref="#wien"
-					>Wien</placeName> in <placeName ref="#luebeck">Lübeck</placeName> und für das
-					<title ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
-					>Verdi</persName> in <placeName ref="#magdeburg">Magdeburg</placeName><note
+				<persName key="boers.thoma">Börs</persName> a. <placeName key="wien"
+					>Wien</placeName> in <placeName key="luebeck">Lübeck</placeName> und für das
+					<title key="verdi.requiem" type="mus">Requiem</title> von <persName key="verdi.giuseppe"
+					>Verdi</persName> in <placeName key="magdeburg">Magdeburg</placeName><note
 					resp="tr" type="eventCommentary">Für eine Aufführung in Magdeburg gibt es
 					bislang keine weiteren Belege.</note>. <gap resp="tr"/></p>
 		</body>

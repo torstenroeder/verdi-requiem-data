@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#prager-abendblatt" role="publisher"/>
-					<placeName ref="#prag"/>
+					<orgName key="prager-abendblatt" role="publisher"/>
+					<placeName key="prag"/>
 					<date when-custom="tue" when-iso="1876-02-15"/>
 					<biblScope unit="issue">36</biblScope>
 					<biblScope unit="volume">?</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#prag"/></creation>
+			<creation><placeName key="prag"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -41,25 +41,25 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger"><placeName ref="#prag.staendetheater">Deutsches königliches
+			<head rend="larger"><placeName key="prag.staendetheater">Deutsches königliches
 					Landestheater</placeName>.</head>
 			<p><date>Dinstag, 15. Feber</date>. 37. Abonnementsvorstellung</p>
-			<p rend="center"><rs ref="#prag.1876" type="event"><title ref="#verdi.requiem"
-						>Requiem</title><lb break="yes"/>von <persName ref="#verdi.giuseppe"
+			<p rend="center"><rs key="prag.1876" type="event"><title key="verdi.requiem" type="mus"
+						>Requiem</title><lb break="yes"/>von <persName key="verdi.giuseppe"
 						>Giuseppe Verdi</persName> für Soli Chor und Orchester.</rs></p>
-			<p>Soli: Frau <persName ref="#moser.marie">von Moser</persName>. Frl. <persName
-					ref="#burenne.henriette">Burenne</persName>. Herr <persName
-					ref="#hajos.siegmund">Hajos</persName>. Herr <persName ref="#schebesta.adalbert"
+			<p>Soli: Frau <persName key="moser.marie">von Moser</persName>. Frl. <persName
+					key="burenne.henriette">Burenne</persName>. Herr <persName
+					key="hajos.siegmund">Hajos</persName>. Herr <persName key="schebesta.adalbert"
 					>Schebesta</persName>.</p>
 			<p>Chor: (120 Sänger) der Chor des deutschen königl. Landestheaters, verstärkt durch
 				gefällige Mitwirkung der Gesangs-Eleven des Herrn Direktor <persName
-					ref="#piwoda.franz">Piwoda</persName>, sowie der Mitglieder des deutschen
-					<orgName ref="#prag.deutscher-maenner-gesangverein"
+					key="piwoda.franz">Piwoda</persName>, sowie der Mitglieder des deutschen
+					<orgName key="prag.deutscher-maenner-gesangverein"
 					>Männer-Gesangsvereines</orgName>.</p>
-			<p>Instrumentale: Das große Orchester des <placeName ref="#prag.staendetheater"
+			<p>Instrumentale: Das große Orchester des <placeName key="prag.staendetheater"
 					>deutschen königl. Landestheaters</placeName>, verstärkt durch Zöglinge des
-					<placeName ref="#prag">Prager</placeName>
-				<placeName ref="#prag.konservatorium">Konservatoriums</placeName> mit freundlicher
+					<placeName key="prag">Prager</placeName>
+				<placeName key="prag.konservatorium">Konservatoriums</placeName> mit freundlicher
 				Bewilligung des Vereins-Präsidiums.</p>
 			<p>Anfang um 7 Uhr. Ende nach 9 Uhr.</p>
 		</body>

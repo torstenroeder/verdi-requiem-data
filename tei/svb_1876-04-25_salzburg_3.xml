@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#salzburger-volksblatt"/>
-					<placeName ref="#salzburg"/>
+					<orgName key="salzburger-volksblatt"/>
+					<placeName key="salzburg"/>
 					<date when-custom="tue" when-iso="1876-04-25"/>
 					<biblScope unit="issue">49</biblScope>
 					<biblScope unit="volume">6</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -43,26 +43,26 @@
 		<body rend="fraktur">
 			<cb break="null" n="4c" type="initial"/>
 			<head rend="larger">Dank.</head>
-			<p>Die Vorstehung des <hi rend="widespace"><orgName ref="#salzburg.dommusikverein"
+			<p>Die Vorstehung des <hi rend="widespace"><orgName key="salzburg.dommusikverein"
 						>Dommusik-Vereines</orgName></hi> und <hi rend="widespace">Mozarteums</hi>
 				fühlt sich verpflichtet, hiemit allen geehrten Mitwirkenden bei der <rs
-					ref="#salzburg.1876.1" type="event">Aufführung des <persName
-						ref="#verdi.giuseppe"><hi rend="bold">Verdi</hi>’schen</persName>
-					<hi rend="bold"><title ref="#verdi.requiem">Requiems</title></hi></rs>, sowie
+					key="salzburg.1876.1" type="event">Aufführung des <persName
+						key="verdi.giuseppe"><hi rend="bold">Verdi</hi>’schen</persName>
+					<hi rend="bold"><title key="verdi.requiem" type="mus">Requiems</title></hi></rs>, sowie
 				Allen, welche das Unternehmen durch thatkräftige Unterstützung ermöglichten und
 				förderten, insbesondere der Frau Gräfin <hi rend="widespace"><persName
-						ref="#gatterburg.hedwig">Gatterburg</persName></hi>, Frln. <hi
-					rend="widespace"><persName ref="#voigt.gabriele">Voigt</persName></hi>, Hrn.
-				Oberst <hi rend="widespace"><persName ref="#latterer.josef">v.
+						key="gatterburg.hedwig">Gatterburg</persName></hi>, Frln. <hi
+					rend="widespace"><persName key="voigt.gabriele">Voigt</persName></hi>, Hrn.
+				Oberst <hi rend="widespace"><persName key="latterer.josef">v.
 					Latterer</persName></hi> und der verehrlichen <hi rend="widespace"
 					>Liedertafel</hi> den tiefgefühlten Dank öffentlich auszudrücken, und verbindet
 				damit das freundliche Ersuchen an alle <hi rend="antiqua">P. T.</hi> Mitwirkenden,
-				zur <rs ref="#salzburg.1876.2" type="event">zweiten Aufführung</rs>, welche <date
+				zur <rs key="salzburg.1876.2" type="event">zweiten Aufführung</rs>, welche <date
 					when-iso="1876-04-30"><hi rend="bold">Sonntag</hi> den <hi rend="bold">30.
 						April</hi></date> Nachmittags 4 Uhr in der <hi rend="antiqua"><placeName
-						ref="#salzburg.aula-academica">Aula academica</placeName></hi> stattfindet,
+						key="salzburg.aula-academica">Aula academica</placeName></hi> stattfindet,
 				sich vollzählig um ½4 Uhr einfinden zu wollen.</p>
-			<p><hi rend="widespace"><placeName ref="#salzburg">Salzburg</placeName></hi>, <date
+			<p><hi rend="widespace"><placeName key="salzburg">Salzburg</placeName></hi>, <date
 					when-iso="1876-04-24">24. April 1876</date>. </p>
 		</body>
 	</text>

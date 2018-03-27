@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="tue" when-iso="1875-11-23"/>
 					<biblScope unit="issue">268</biblScope>
 					<biblScope unit="volume">25</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -40,11 +40,11 @@
 			<cb n="3b"/>
 			<head rend="larger bold">Brünner Chronik.</head>
 			<cb n="3c" type="skipped"/>
-			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<persName ref="#verdi.giuseppe"
+			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title>.) <rs ref="#bruenn.1876" type="event"
-					>Wie wir vernehmen, soll das <title ref="#verdi.requiem">Requiem</title>
-					<persName ref="#verdi.giuseppe">Verdi’s</persName> zweimal und zwar an zwei bald
+				<title key="verdi.requiem" type="mus">Requiem</title>.) <rs key="bruenn.1876" type="event"
+					>Wie wir vernehmen, soll das <title key="verdi.requiem" type="mus">Requiem</title>
+					<persName key="verdi.giuseppe">Verdi’s</persName> zweimal und zwar an zwei bald
 					aufeinanderfolgenden Tagen zur Aufführung gelangen.</rs> Das Komite beabsichtigt
 				daher auch Abonnements-Karten für beide Produktionen zu ermäßigten Preisen
 				auszugeben.</p>

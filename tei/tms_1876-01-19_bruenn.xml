@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="wed" when-iso="1876-01-19"/>
 					<biblScope unit="issue">14</biblScope>
 					<biblScope unit="volume">26</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -39,13 +39,13 @@
 		<body rend="fraktur">
 			<head rend="larger">Vereine und Gesellschaften.</head>
 			<gap resp="tr"/>
-			<p>(<hi rend="widespace">St. Josefs-Frauenverein</hi>.) Durch die <rs ref="#bruenn.1876"
-					type="event">zweimalige Aufführung des <persName ref="#verdi.giuseppe"
+			<p>(<hi rend="widespace">St. Josefs-Frauenverein</hi>.) Durch die <rs key="bruenn.1876"
+					type="event">zweimalige Aufführung des <persName key="verdi.giuseppe"
 						>Verdi’schen</persName>
-					<title ref="#verdi.requiem">Requiems</title> im <placeName
-						ref="#bruenn.redouta-theater">Redoutensaale</placeName></rs> wurde für den
+					<title key="verdi.requiem" type="mus">Requiems</title> im <placeName
+						key="bruenn.redouta-theater">Redoutensaale</placeName></rs> wurde für den
 				St. Josefs-Frauenverein in Folge der gütigen Vermittlung der Frau <persName
-					ref="#gompertz-bettelheim.karoline-von">Karoline Gomperz-Bettelheim</persName>
+					key="gompertz-bettelheim.karoline-von">Karoline Gomperz-Bettelheim</persName>
 				ein Beitrag von 250 fl. erzielt, für welche hochherzige Spende der genannte Verein
 				dem veranstaltenden Komite den verbindlichen Dank ausspricht.</p>
 		</body>

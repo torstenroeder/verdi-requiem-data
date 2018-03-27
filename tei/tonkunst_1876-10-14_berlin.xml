@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tonkunst" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="tonkunst" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-iso="1876-10-14"/>
 					<biblScope unit="issue">38</biblScope>
 					<biblScope unit="volume">2</biblScope>
@@ -42,10 +42,10 @@
 			<pb n="245"/>
 			<head rend="larger">Theorie, Aesthetik und Geschichte.</head>
 			<head rend="antiqua widespace bold">PPPPP.</head>
-			<head rend="smaller">Von <persName ref="#musiol.robert">R. <hi rend="widespace"
+			<head rend="smaller">Von <persName key="musiol.robert">R. <hi rend="widespace"
 						>Musiol</hi></persName>.</head>
-			<p><persName ref="#verdi.giuseppe">G. <hi rend="widespace">Verdi</hi></persName> hat uns
-				in seiner <hi rend="antiqua"><title ref="#verdi.requiem">„Messa di
+			<p><persName key="verdi.giuseppe">G. <hi rend="widespace">Verdi</hi></persName> hat uns
+				in seiner <hi rend="antiqua"><title key="verdi.requiem" type="mus">„Messa di
 					Requiem“</title></hi> so manche, das künstlerische Bewußtsein treffende
 				Ueberraschung geboten, daß wir uns auch eine gefallen lassen können, die weniger
 				das, sondern mehr unkünstlerisch ist. Es ist das: <hi rend="antiqua widespace"
@@ -53,9 +53,9 @@
 					rend="antiqua">Piano</hi> und wollte er das haben, mußte er Pausen setzen. Waren
 				ihm die zu leise, nun, dann hätte im schlimmsten Falle <hi rend="antiqua widespace"
 					>ppp</hi> ausgereicht. War es doch schon recht lächerlich, als auch <hi
-					rend="widespace"><persName ref="#auber.daniel-francois-esprit"
+					rend="widespace"><persName key="auber.daniel-francois-esprit"
 					>Auber</persName></hi> z. B. in der Ouvertüre zum „<title
-					ref="#auber.fra-diavolo">Fra Diavolo</title>“ <hi rend="antiqua widespace"
+					key="auber.fra-diavolo" type="mus">Fra Diavolo</title>“ <hi rend="antiqua widespace"
 					>pppp</hi> vorschrieb, was, streng genommen, gar nicht so ausgeführt wird. Nun,
 				man ließ es sich gefallen, machte es vielfach nach; war Nichts <hi rend="widespace"
 					>in</hi> den Noten, stand doch Etwas <hi rend="widespace">zwischen</hi> ihnen
@@ -64,8 +64,8 @@
 				als ob nicht schon ohnedies Mancher das Klavier als „Hackebret“ und seine Kehle als
 				Kanonenrohr betrachtet hätte. Wie im Leben, so auch in der Kunst: „Nicht zu viel und
 				nich zu wing iss immer ee Ding!“ Wenn z. B. <hi rend="widespace"><persName
-						ref="#geisler.paul">Paul Geisler</persName></hi> in seinen „<title
-					ref="#geisler.monologe">Monologen</title>“ vielfach weder eine Tempo- noch eine
+						key="geisler.paul">Paul Geisler</persName></hi> in seinen „<title
+					key="geisler.monologe" type="mus">Monologen</title>“ vielfach weder eine Tempo- noch eine
 				dynamische Bezeichnung zu Anfang eines Stückes und durch die längste Dauer desselben
 				bringt, so ist das eben so wenig künstlerisch, als wenn man nach jedem Takte auf
 				Gott weiß wie viel Zeichen stößt. Wir wollen gerade nicht für <hi rend="antiqua"
@@ -80,9 +80,9 @@
 				leise. Es ist dann keine absolute, sondern nur eine rein relative Bezeichnung, eine
 				Spielerei, eine Spiegelfechterei, die nicht blos unkünstlerisch, sondern geradezu
 				lächerlich ist und sich wie Schellen an der Narrenkappe ausnimmt, oder, als ob
-					<persName ref="#huckebein.hans">Hans Huckebein</persName>, der Unglücksrabe,
+					<persName key="huckebein.hans">Hans Huckebein</persName>, der Unglücksrabe,
 				seine Heidelbeer-Compot-Malereien dort versucht hätt<note resp="tr"
-					type="literatureLink">Vgl. <persName ref="#busch.wilhelm">Wilhelm
+					type="literatureLink">Vgl. <persName key="busch.wilhelm">Wilhelm
 						Busch</persName>, <ref
 						target="http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=PPN512543577|LOG_0003&amp;physid=PHYS_0021"
 						type="text">Hans Huckebein</ref>: »Nichts Schönres gab's für Tante Lotte /
@@ -108,10 +108,10 @@
 						type="text">Moses Mendelssohn, Jerusalem, Leipzig 1869, S. 167</ref>.</note>
 				geschehende Schaffen haben? Muß auch die Hauptsache dem Künstler angeboren sein, die
 				künstlerische Erziehung muß doch das Meiste thun. Nehmen wir nur ein Beispiel: <hi
-					rend="widespace"><persName ref="#boehner.johann-ludwig">Louis
+					rend="widespace"><persName key="boehner.johann-ludwig">Louis
 					Böhner</persName></hi>. Er war gewiß einer der Talentvollsten, vielleicht
 				Geniebegabtesten, und was hat er für die Kunst geleistet? Es ist nur wenig, und
-				selbst der Ruhm des <title ref="#boehner.ach-wie-ists-moeglich-dann">„Ach wie ist’s
+				selbst der Ruhm des <title key="boehner.ach-wie-ists-moeglich-dann" type="mus">„Ach wie ist’s
 					möglich dann“</title> ist ihm nicht geblieben. Versunken — vergessen, <hi
 					rend="widespace">das</hi> ist auch sein Fluch! Oder wie viele jener
 				Wunderkinder, auf die man die größten Hoffnungen zu setzen das Recht hatte, haben
@@ -124,7 +124,7 @@
 					rend="antiqua widespace">ppppp</hi> suchen u. dgl., was kaum vorauszusehen ist;
 				das es jedenfalls ein unkünstlerisches Gebahren ist, sei hiermit constatirt. Was
 				zwecklos ist, bleibt zwecklos, selbst wenn es ein <hi rend="widespace"><persName
-						ref="#verdi.giuseppe">Verdi</persName></hi> schreibt, und in der Kunst ist
+						key="verdi.giuseppe">Verdi</persName></hi> schreibt, und in der Kunst ist
 				das Ueberflüssige, Zwecklose verdammlich. Man wolle uns nicht für
 				Kleinlichkeitskrämer halten, denn darum ist es uns nicht zu thun, ob ein Componist
 				einen Buchstaben mehr oder weniger schreibt, sondern um die Consequenzen, sie sich

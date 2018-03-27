@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#prager-abendblatt" role="publisher"/>
-					<placeName ref="#prag"/>
+					<orgName key="prager-abendblatt" role="publisher"/>
+					<placeName key="prag"/>
 					<date when-custom="fri" when-iso="1876-01-28"/>
 					<biblScope unit="issue">22</biblScope>
 					<biblScope unit="volume">?</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#prag"/></creation>
+			<creation><placeName key="prag"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -42,26 +42,26 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<p><hi rend="bold"><g n="2042" type="ASTERISM">⁂</g></hi>
-				<hi rend="bold">Vom <placeName ref="#prag.staendetheater">deutschen
+				<hi rend="bold">Vom <placeName key="prag.staendetheater">deutschen
 						Landestheater</placeName>.</hi>
-				<rs ref="#prag.1876.1" type="event">Gestern gelangte <persName ref="#verdi.giuseppe"
+				<rs key="prag.1876.1" type="event">Gestern gelangte <persName key="verdi.giuseppe"
 						>Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> zur ersten Aufführung.</rs> Den
+					<title key="verdi.requiem" type="mus">Requiem</title> zur ersten Aufführung.</rs> Den
 				Anforderungen des Meisters gemäß wurde das Werk, trotz der Verschiedenartigkeit des
 				musikalischen Bildungsgrades der vielen mitwirkenden Gesangskräfte, im bestimmten
 				Style, breit und groß, in einer weit überschauenden Höhe gehalten. Am meisten mahnte
 				an hohe Haltung, stylmäßige Würde und plastische Festigkeit Frau <persName
-					ref="#moser.marie">von Steinitz-Moser</persName>. Ihr Gesangstheil war so
+					key="moser.marie">von Steinitz-Moser</persName>. Ihr Gesangstheil war so
 				gediegen und edel, wie man es von dieser Künstlerin nur erwarten kann. Mit dem
 				ganzen Nachdrucke ihrer reichen Stimmmittel sangen auch Frl. <persName
-					ref="#burenne.henriette">Burenne </persName>und Hr. <persName
-					ref="#schebesta.adalbert">Schebesta</persName>, sowie Hr. <persName
-					ref="#hajos.siegmund">Hajos</persName>. Die Gesammtwirkung des großartigen
+					key="burenne.henriette">Burenne </persName>und Hr. <persName
+					key="schebesta.adalbert">Schebesta</persName>, sowie Hr. <persName
+					key="hajos.siegmund">Hajos</persName>. Die Gesammtwirkung des großartigen
 				Kunstgebildes war eine mächtige und einzelne Theile desselben mußten über
 				stürmisches Ver<cb break="no" n="3b" type="regular"/>langen wiederholt werden. Hr.
-				Kapellmeister <persName ref="#slansky.ludwig">Slansky</persName> wurde noch
-				besonders mit reichem Beifall bedacht, <rs ref="#prag.1876.2" type="event">Sonntag
-					dürfte das <title ref="#verdi.requiem">Requiem</title> wiederholt werden</rs>.
+				Kapellmeister <persName key="slansky.ludwig">Slansky</persName> wurde noch
+				besonders mit reichem Beifall bedacht, <rs key="prag.1876.2" type="event">Sonntag
+					dürfte das <title key="verdi.requiem" type="mus">Requiem</title> wiederholt werden</rs>.
 					<gap resp="tr"/></p>
 		</body>
 	</text>

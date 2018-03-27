@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="tue" when-iso="1876-01-04"/>
 					<biblScope unit="issue">2</biblScope>
 					<biblScope unit="volume">26</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -38,16 +38,16 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="larger">Konzert.</head>
-			<p><rs ref="#bruenn.1876.1" type="event"><persName ref="#verdi.giuseppe"
+			<p><rs key="bruenn.1876.1" type="event"><persName key="verdi.giuseppe"
 						>Verdi’s</persName> „<hi rend="widespace">Requiem</hi>“ gelangte
 						<date>Sonntag am 2. Jänner</date> im <placeName
-						ref="#bruenn.redouta-theater">Redoutensaale</placeName> zur ersten
+						key="bruenn.redouta-theater">Redoutensaale</placeName> zur ersten
 					Aufführung.</rs> Der Erfolg war ein glänzender in jeder Beziehung, was bei dem
 				sorgfältigen Studium und der Mitwirkung so vorzüglicher Kräfte zu erwarten war.</p>
-			<p>Wir haben der „<title ref="#verdi.requiem">Todtenmesse</title>“ bereits eine
+			<p>Wir haben der „<title key="verdi.requiem" type="mus">Todtenmesse</title>“ bereits eine
 				ausführliche Besprechung gewidmet und es bleibt uns nach dem Anhören des Werkes
 				wenig mehr zu sagen übrig. Nur fanden wir unsere Ansicht, daß der Italiener
-					<persName ref="#verdi.giuseppe">Verdi</persName> sein Naturell nicht verläugnet
+					<persName key="verdi.giuseppe">Verdi</persName> sein Naturell nicht verläugnet
 				hat, noch schärfer bestätigt, als wir es gegen den Ausspruch vieler kritischer
 				Stimmen schon nach dem Studium der Partitur behaupteten.</p>
 			<p>Am Auffallendsten ist jedenfalls das Bemühen des Komponisten, den kirchlichen Styl im
@@ -76,33 +76,33 @@
 				hervorragendes musikalisches Werk, die vollste Beachtung verdient, daß wir der
 				Aufführung mit dem größten Interesse gefolgt sind — und nur wünschen können, daß das
 				kunstsinnige Publikum die zweite Aufführung nicht versäumen möge.</p>
-			<p>Herr Musik-Direktor <hi rend="widespace"><persName ref="#kitzler.otto"
+			<p>Herr Musik-Direktor <hi rend="widespace"><persName key="kitzler.otto"
 						>Kitzler</persName></hi> hat sich um den glänzenden Erfolg des Werkes
 				besonders verdient gemacht. Ihm gebührt ein großer Theil der Anerkennung, mit
 				welcher wir nie zurückhalten, wo es gilt, Verdienste hervorzuheben. Herr <persName
-					ref="#kitzler.otto">Kitzler</persName> wurde wiederholt gerufen; es zeigte sich,
+					key="kitzler.otto">Kitzler</persName> wurde wiederholt gerufen; es zeigte sich,
 				daß das Publikum auch unserer Ansicht war.</p>
 			<p>Von den Solosängern ragte Frau <hi rend="widespace"><persName
-						ref="#gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName></hi>
+						key="gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName></hi>
 				hervor. Wir haben der geehrten Künstlerin schon so viele Genüsse zu verdanken, daß
 				wir beinahe um Worte des Lobes verlegen werden. Die Macht ihres wunderbaren Organs,
 				der echt künstlerisch weihevolle Vortrag übte seinen Zauber, besonders im <hi
-					rend="antiqua"><title ref="#verdi.requiem.2.lacrymosa">Lacrymosa</title></hi>
-				und <hi rend="antiqua"><title ref="#verdi.requiem.5">Agnus Dei</title></hi> aus.
+					rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title></hi>
+				und <hi rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> aus.
 				Letztere Nummer wurde auf stürmisches Verlangen wiederholt.</p>
 			<p>Mit voller Anerkennung nennen wir Fräul. <hi rend="widespace"><persName
-						ref="#will.julie">Will</persName></hi>, welche den schwierigen,
+						key="will.julie">Will</persName></hi>, welche den schwierigen,
 				anstrengenden Sopranpart vollkommen bewältigte und im Vortrage einen gefühlvollen
 				Ausdruck entwickelte.</p>
-			<p>Auch die Herren <hi rend="widespace"><persName ref="#curiel.xxx"
+			<p>Auch die Herren <hi rend="widespace"><persName key="curiel.xxx"
 					>Curiel</persName></hi> und <hi rend="widespace"><persName
-						ref="#krejci.friedrich">Krejczy</persName></hi> haben Recht auf
+						key="krejci.friedrich">Krejczy</persName></hi> haben Recht auf
 				ungeschmälertes Lob. Sie sangen mit Verständniß und feiner
 				<sic>Nuanzirung</sic>.</p>
 			<p>Es bleibt uns nun noch übrig, des Chores unseres Musik- und Männergesang-Vereins,
 				welcher mit voller Hingebung mitwirkte, mit warmen Worten zu gedenken — und auch das
 				Orchester nicht zu vergessen.</p>
-			<p>Der <placeName ref="#bruenn.redouta-theater">Redoutensaal</placeName> war ganz
+			<p>Der <placeName key="bruenn.redouta-theater">Redoutensaal</placeName> war ganz
 				gefüllt, sohin auch der materielle Erfolg — für Wohlthätigkeitszwecke bestimmt —
 				vollkommen erzielt.</p>
 		</body>

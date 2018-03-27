@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Richard Wagner, Brief an Theodore Thomas, 8. Februar 1876</title>
-				<author><persName ref="#wagner.richard"/></author>
+				<author><persName key="wagner.richard"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,7 +13,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<placeName ref="#wien"/>
+					<placeName key="wien"/>
 					<date when-iso="1876-02-08"/>
 				</bibl>
 				<bibl>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/><date when-iso="1876-02-08"/></creation>
+			<creation><placeName key="wien"/><date when-iso="1876-02-08"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -59,9 +59,9 @@
 				zu geben. Für die Höhe meiner Forderung bestimmen mich neueste Erfahrungen, da mir
 				z.B. von einem Berliner Verleger bereits 3000 Thaler für eine ähnliche Composition
 				geboten wurden, welche übrigens ausser aller Beziehung zu einer nationalen Festfeier
-				gestanden haben würde. Herr <hi rend="underlined"><persName ref="#verdi.giuseppe"
+				gestanden haben würde. Herr <hi rend="underlined"><persName key="verdi.giuseppe"
 						>Verdi</persName></hi> hat von seinem Verleger <sic>Riccordi</sic> für das
-				unbedingte Aufführungs- und Eigenthumsrecht seines <title ref="#verdi.requiem"
+				unbedingte Aufführungs- und Eigenthumsrecht seines <title key="verdi.requiem" type="mus"
 					>Requiem</title> circa eine halbe Million Francs erhalten; somit darf es mir
 				erlaubt sein, einen Schluss auf den Werth der Composition eines jetzt berühmten
 				Autors zu ziehen. In diesem Betreff habe ich aber grosse Aufmerksamkeit auf die
@@ -72,9 +72,9 @@
 				Telegrammes von meinem Honorar in Abzug zu bringen. Oder — wenn ich diess Telegramm
 				rechtzeitig nicht erhalte, nehme ich an, dass Sie meinen Forderungen nicht
 				entsprechen können, für welchen Fall ich dann immer bleiben werde</p>
-			<p>Ihr sehr ergebener und verbundener Diener <persName ref="#wagner.richard">Richard
+			<p>Ihr sehr ergebener und verbundener Diener <persName key="wagner.richard">Richard
 					Wagner</persName>.</p>
-			<p><placeName ref="#bayreuth">Bayreuth</placeName>
+			<p><placeName key="bayreuth">Bayreuth</placeName>
 				<date when-iso="1876-02-08">8 Febr. 1876</date>.</p>
 		</body>
 	</text>

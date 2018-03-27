@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#signale" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="signale" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date cert="low" notAfter-iso="1876-02-29" notBefore-iso="1876-02-15"
 						when-iso="1876-02-29"/>
 					<biblScope unit="issue">15</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/><placeName ref="#koeln"/></creation>
+			<creation><placeName key="salzburg"/><placeName key="koeln"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -47,29 +47,29 @@
 			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
 			<pb break="null" n="233" type="skipped"/>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
-				<rs ref="#salzburg.1876" type="event"><hi rend="widespace">In <placeName
-							ref="#salzburg">Salzburg</placeName></hi> wird <date when-iso="1876-04"
+				<rs key="salzburg.1876" type="event"><hi rend="widespace">In <placeName
+							key="salzburg">Salzburg</placeName></hi> wird <date when-iso="1876-04"
 						>Anfangs April</date>
-					<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> vom <orgName
-						ref="#salzburg.dommusikverein">Dom-Musik-Verein</orgName> zur Aufführung
+					<persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> vom <orgName
+						key="salzburg.dommusikverein">Dom-Musik-Verein</orgName> zur Aufführung
 					gebracht werden.</rs> Die Solopartien haben übernommen: Fräulein <persName
-					ref="#voigt.gabriele">Voigt</persName> (Sopran), Mitglied des Salzburger
-				Theaters, Comtesse <persName ref="#gatterburg.hedwig">Hedwig von
+					key="voigt.gabriele">Voigt</persName> (Sopran), Mitglied des Salzburger
+				Theaters, Comtesse <persName key="gatterburg.hedwig">Hedwig von
 					Gatterburg</persName> (Mezzo-Sopran), Ehrenmitglied des Vereins, Herr <persName
-					ref="#schuegraf.eduard">Eduard Schuegraf</persName> (Baß), Sänger aus <placeName
-					ref="#muenchen">München</placeName>, Herr <persName ref="#huber.franz"
+					key="schuegraf.eduard">Eduard Schuegraf</persName> (Baß), Sänger aus <placeName
+					key="muenchen">München</placeName>, Herr <persName key="huber.franz"
 					>Huber</persName>, Vereinsmitglied, singt den Tenor-Part. Das Aufführungsrecht
 				(nicht die Partitur) des Requiem mußte mit 400 Frcs. erkauft werden und der Verein
 				dankt es ausschließlich den persönlichen, kunstfreundlichen Bemühungen der Comtesse
-					<persName ref="#gatterburg.hedwig">Hedwig von Gatterburg</persName>, daß diese
+					<persName key="gatterburg.hedwig">Hedwig von Gatterburg</persName>, daß diese
 				Kosten erbracht wurden.</p>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
-				<rs ref="#koeln.1875.2" type="event"><hi rend="widespace">In <placeName ref="#koeln"
+				<rs key="koeln.1875.2" type="event"><hi rend="widespace">In <placeName key="koeln"
 							>Cöln</placeName></hi> kam im achten Gürzenichconcert am <date
 						when-iso="1876-02-15">15. Febr.</date> auf allseitig gehegten Wunsch
-						<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> nochmals zur Aufführung.</rs></p>
+						<persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> nochmals zur Aufführung.</rs></p>
 		</body>
 	</text>
 </TEI>

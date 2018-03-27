@@ -35,9 +35,9 @@
 				<item xml:id="bona-fide"><label>bona fide</label>, lat. »in gutem Glauben«,
 					»gutgläubig«.</item>
 				<item xml:id="capocchio"><label>Capocchio</label>, ital. Häretiker, der als
-					Alchimist zum Tode verurteilt wurde und zudem in <persName
-						ref="#alighieri.dante">Dantes</persName> Divina Commedia genannt wurde; vgl.
-					Dante Alighieri, La Divina Commedia, Inferno XXIX.</item>
+					Alchimist zum Tode verurteilt wurde und zudem in <persName key="alighieri.dante"
+						>Dantes</persName> Divina Commedia genannt wurde; vgl. Dante Alighieri, La
+					Divina Commedia, Inferno XXIX.</item>
 				<item xml:id="car--plaisir"><label>»Car tel est mon plaisir«</label>, frz.,
 					sinngemäß: »Denn solches ist unser gnädigster Wille.« Mit diesen Worten
 					unterzeichneten französische Könige einst ihre Erlässe.</item>

@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Giuseppe Verdi, Brief an Hans von Bülow, Genua, 14. April 1892</title>
-				<author><persName ref="#verdi.giuseppe"/></author>
+				<author><persName key="verdi.giuseppe"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -18,9 +18,9 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<persName ref="#verdi.giuseppe" role="author"/>
-				<persName ref="#buelow.hans-von" role="recipient"/>
-				<placeName ref="#genua"/>
+				<persName key="verdi.giuseppe" role="author"/>
+				<persName key="buelow.hans-von" role="recipient"/>
+				<placeName key="genua"/>
 				<date when-iso="1892-04-14"/>
 			</creation>
 			<textClass>
@@ -42,7 +42,7 @@
 	</facsimile>
 	<text xml:lang="it">
 		<body rend="antiqua">
-			<p>Illustre Maestro <persName ref="#buelow.hans-von">Bülow</persName>,</p>
+			<p>Illustre Maestro <persName key="buelow.hans-von">Bülow</persName>,</p>
 			<p>Non vi è ombra di peccato in Voi! nè è caso di parlare di pentimenti, e di
 				assoluzioni.</p>
 			<pb break="yes" n="388" type="regular"/>
@@ -56,19 +56,19 @@
 			<p>Se gli artisti del Nord e del Sud hanno tendenze diverse, è bene siano <hi
 					rend="italic">diverse</hi>. Tutti dovrebbero mantenere i <hi rend="italic"
 					>caratteri propri della loro nazione</hi>, come disse benissimo <persName
-					ref="#wagner.richard">Wagner</persName>.</p>
+					key="wagner.richard">Wagner</persName>.</p>
 			<p>Felici Voi che siete ancora i figli di <hi rend="italic"><persName
-						ref="#bach.johann-sebastian">Bach!</persName></hi> E Noi? — Noi pure, figli
-				di <hi rend="italic"><persName ref="#palestrina.giovanni-pierluigi"
+						key="bach.johann-sebastian">Bach!</persName></hi> E Noi? — Noi pure, figli
+				di <hi rend="italic"><persName key="palestrina.giovanni-pierluigi"
 						>Palestrina</persName></hi>, avevamo un giorno una scuola grande . . . e
 				nostra! Ora s’è fatta bastarda, e minaccia rovina!</p>
 			<p>Se potessimo tornar da capo!</p>
-			<p>Spiacemi non poter assistere all’Esposizione musicale di <placeName ref="#wien"
+			<p>Spiacemi non poter assistere all’Esposizione musicale di <placeName key="wien"
 					>Vienna</placeName>, chè, oltre la fortuna di trovarmi fra tanti Illustri
 				Musicisti, avrei avuto il piacere di stringere la mano particolarmente a Voi. Spero
 				che la mia grave età troverà grazia presso quei Signori, che m’hanno gentilmente
 				invitato, e vorranno scusarne la mancanza. — Vostro sincero ammiratore</p>
-			<p rend="right"><persName ref="#verdi.giuseppe">G. Verdi</persName>.</p>
+			<p rend="right"><persName key="verdi.giuseppe">G. Verdi</persName>.</p>
 		</body>
 	</text>
 </TEI>

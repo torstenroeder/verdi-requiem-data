@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#salzburger-volksblatt"/>
-					<placeName ref="#salzburg"/>
+					<orgName key="salzburger-volksblatt"/>
+					<placeName key="salzburg"/>
 					<date when-custom="thu" when-iso="1876-04-13"/>
 					<biblScope unit="issue">44</biblScope>
 					<biblScope unit="volume">6</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -45,24 +45,24 @@
 			<head rend="larger">Salzburger Nachrichten.</head>
 			<gap resp="tr"/>
 			<p><hi rend="bold"><g n="002A" type="ASTERISK">*</g></hi>
-				<rs ref="#salzburg.1876.1" type="event"><hi rend="bold"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi> wird definitiv <date
+				<rs key="salzburg.1876.1" type="event"><hi rend="bold"><persName
+							key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> wird definitiv <date
 						when-iso="1876-04-23">Sonntag den 23. April</date> 7 Uhr in der großen <hi
-						rend="antiqua"><placeName ref="#salzburg.aula-academica">Aula
+						rend="antiqua"><placeName key="salzburg.aula-academica">Aula
 							academica</placeName></hi> zur Aufführung gelangen.</rs> — Die
-				Solopartien übernahmen Frl. Gräfin <persName ref="#gatterburg.hedwig"
+				Solopartien übernahmen Frl. Gräfin <persName key="gatterburg.hedwig"
 					role="soloist.mezzo">H. <hi rend="widespace">Gatterburg</hi></persName>
-				(Mezzo-Sopran), Fräul. <hi rend="widespace"><persName ref="#voigt.gabriele"
+				(Mezzo-Sopran), Fräul. <hi rend="widespace"><persName key="voigt.gabriele"
 						role="soloist.soprano">Voigt</persName></hi> (Sopran), Hr. <hi
-					rend="widespace"><persName ref="#huber.franz" role="soloist.tenor"
+					rend="widespace"><persName key="huber.franz" role="soloist.tenor"
 						>Huber</persName></hi> (Tenor), Hr. <hi rend="widespace"><persName
-						ref="#schuegraf.eduard" role="soloist.basso">Schuegraf</persName></hi>,
-				Concertsänger aus <placeName ref="#muenchen">München</placeName> (Baß). Im Chore
+						key="schuegraf.eduard" role="soloist.basso">Schuegraf</persName></hi>,
+				Concertsänger aus <placeName key="muenchen">München</placeName> (Baß). Im Chore
 				wirken sämmtliche Damen und Herren der Liedertafel, die Gesangskräfte des k. k.
 				Gynmasiums, der Lehrerbildungsanstalt und Oberrealschule mit. Das <orgName
-					ref="#salzburg.mozarteum">Mozarteumsorchester</orgName> wird durch Kunstfreunde
-				und die vollständige Regimentskapelle verstärkt; Herr Dr. <persName ref="#bach.otto"
+					key="salzburg.mozarteum">Mozarteumsorchester</orgName> wird durch Kunstfreunde
+				und die vollständige Regimentskapelle verstärkt; Herr Dr. <persName key="bach.otto"
 					>Bach</persName> wird die Aufführung dirigiren. Es wird dieß die erste und
 				vorderhand <hi rend="widespace">einzige</hi> Aufführung des großartigen und
 				schwierigen Werkes sein; da eine Wiederholung noch <hi rend="widespace"
@@ -70,7 +70,7 @@
 				Aufführung und noch nicht gepflogenen Vereinbarung mit den aus besonderer
 				Gefälligkeit Mitwirkenden abhängt. — Vormerkung zu Sitzen übernimmt die Mayr’sche
 				Buchhandlung; die Jahreskarten der <hi rend="antiqua">P. T.</hi> Abonnenten haben
-				bei diesem außerordentlichen Concerte des <orgName ref="#salzburg.mozarteum"
+				bei diesem außerordentlichen Concerte des <orgName key="salzburg.mozarteum"
 					>Mozarteums</orgName>
 				<hi rend="widespace">keine Giltigkeit</hi>. Die nächste Gesammtprobe findet morgen
 					<date when-iso="1876-04-12">Mittwoch den 12. April</date> Abends 7 Uhr in der

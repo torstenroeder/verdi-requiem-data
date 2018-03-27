@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tonkunst" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="tonkunst" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-iso="1876-01-01"/>
 					<biblScope unit="issue">1</biblScope>
 					<biblScope unit="volume">1</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koeln"/></creation>
+			<creation><placeName key="koeln"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -41,14 +41,14 @@
 			<pb n="17"/>
 			<p><hi rend="bold kanzlei">Concerte.</hi>
 				<gap resp="tr"/></p>
-			<p><rs ref="#koeln.1875.1" type="event"><hi rend="widespace"><placeName ref="#koeln"
+			<p><rs key="koeln.1875.1" type="event"><hi rend="widespace"><placeName key="koeln"
 							>Cöln</placeName></hi>. <gap resp="tr"/>
-					<placeName ref="#koeln.guerzenich">Gürzenich</placeName>: <persName
-						ref="#hiller.ferdinand">Hiller</persName>, <persName ref="#svendsen.johan"
-						>Svendson</persName>, <title ref="#svendsen.sigurd-slembe">Einltg. zu Sigurd
-						Slembe</title> v. <persName ref="#bjoernson.bjoernstjerne">Björnstjerne
-						Björnson</persName>; <persName ref="#verdi.giuseppe">Verdi</persName>:
-						<title ref="#verdi.requiem">Requiem</title>.</rs>
+					<placeName key="koeln.guerzenich">Gürzenich</placeName>: <persName
+						key="hiller.ferdinand">Hiller</persName>, <persName key="svendsen.johan"
+						>Svendson</persName>, <title key="svendsen.sigurd-slembe" type="mus">Einltg. zu Sigurd
+						Slembe</title> v. <persName key="bjoernson.bjoernstjerne">Björnstjerne
+						Björnson</persName>; <persName key="verdi.giuseppe">Verdi</persName>:
+						<title key="verdi.requiem" type="mus">Requiem</title>.</rs>
 				<gap resp="tr"/></p>
 		</body>
 	</text>

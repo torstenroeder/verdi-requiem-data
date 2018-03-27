@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#prager-abendblatt" role="publisher"/>
-					<placeName ref="#prag"/>
+					<orgName key="prager-abendblatt" role="publisher"/>
+					<placeName key="prag"/>
 					<date when-custom="tue" when-iso="1876-01-25"/>
 					<biblScope unit="issue">19-beilage</biblScope>
 					<biblScope unit="volume">?</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#prag"/></creation>
+			<creation><placeName key="prag"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -42,13 +42,13 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<p><hi rend="bold"><g n="2042" type="ASTERISM">⁂</g></hi>
-				<rs ref="#prag.1876.1" type="event"><hi rend="bold">Vom <placeName
-							ref="#prag.staendetheater">deutschen Landestheater</placeName>.</hi>
+				<rs key="prag.1876.1" type="event"><hi rend="bold">Vom <placeName
+							key="prag.staendetheater">deutschen Landestheater</placeName>.</hi>
 					<gap resp="tr"/>
 					<date when-iso="1876-01-26">Mittwoch</date> findet die Generalprobe und <date
 						when-iso="1876-01-27">Donnerstag</date> die erste Aufführung des <persName
-						ref="#verdi.giuseppe">Verdischen</persName>
-					<title ref="#verdi.requiem">Requiems</title> statt.</rs>
+						key="verdi.giuseppe">Verdischen</persName>
+					<title key="verdi.requiem" type="mus">Requiems</title> statt.</rs>
 				<gap resp="tr"/></p>
 		</body>
 	</text>

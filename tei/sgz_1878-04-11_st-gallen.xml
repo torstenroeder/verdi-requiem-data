@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#st-galler-zeitung"/>
-					<placeName ref="#st-gallen"/>
+					<orgName key="st-galler-zeitung"/>
+					<placeName key="st-gallen"/>
 					<date when-custom="thu" when-iso="1878-04-11"/>
 					<biblScope unit="issue">86</biblScope>
 					<series>sgz</series>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#st-gallen"/></creation>
+			<creation><placeName key="st-gallen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -42,15 +42,15 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<cb break="null" n="344b" type="initial"/>
-			<p rend="center"><rs ref="#st-gallen.1878.1" type="event"> Kirchen-Concert<lb
+			<p rend="center"><rs key="st-gallen.1878.1" type="event"> Kirchen-Concert<lb
 						break="yes"/>am <date when-iso="1878-04-14">Palmsonntag, den 14. April
 						1878</date>, in der<lb break="yes"/><placeName
-						ref="#st-gallen.kirche-st-laurenzen">St. Laurenzenkirche</placeName> in
-						<placeName ref="#st-gallen">St. Gallen</placeName>.<lb break="yes"/><title
-						ref="#verdi.requiem">REQUIEM</title>.<lb break="yes"/>Oratorium von
-						<persName ref="#verdi.giuseppe">Giuseppe Verdi</persName>.</rs><lb
+						key="st-gallen.kirche-st-laurenzen">St. Laurenzenkirche</placeName> in
+						<placeName key="st-gallen">St. Gallen</placeName>.<lb break="yes"/><title
+						key="verdi.requiem" type="mus">REQUIEM</title>.<lb break="yes"/>Oratorium von
+						<persName key="verdi.giuseppe">Giuseppe Verdi</persName>.</rs><lb
 					break="yes"/>Aufgeführt von der<lb break="yes"/><orgName
-					ref="#st-gallen.antlitz">Antlitz-Gesellschaft St. Gallen</orgName>.<lb
+					key="st-gallen.antlitz">Antlitz-Gesellschaft St. Gallen</orgName>.<lb
 					break="yes"/>Oeffnung der Kirche 3 Uhr. — Anfang präzis ½4 Uhr.</p>
 			<p>Nach Schluss des Concertes können auswärtige Besucher noch die Abendzüge
 				Rorschach-Chur und Wyl-Ebnat-Winterthur benutzen.</p>

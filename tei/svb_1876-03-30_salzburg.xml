@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#salzburger-volksblatt"/>
-					<placeName ref="#salzburg"/>
+					<orgName key="salzburger-volksblatt"/>
+					<placeName key="salzburg"/>
 					<date when-custom="thu" when-iso="1876-03-30"/>
 					<biblScope unit="issue">38</biblScope>
 					<biblScope unit="volume">6</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -46,17 +46,17 @@
 			<pb break="null" n="3" type="skipped"/>
 			<p><pb break="yes" n="3" type="regular"/><hi rend="bold"><g n="002A" type="ASTERISK"
 						>*</g>
-					<rs ref="#salzburg.1876" type="event"><persName ref="#verdi.giuseppe"
+					<rs key="salzburg.1876" type="event"><persName key="verdi.giuseppe"
 							>Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></rs></hi><rs
-					ref="#salzburg.1876" type="event"> wird alsbald <date notBefore-iso="1876-04-17"
+						<title key="verdi.requiem" type="mus">Requiem</title></rs></hi><rs
+					key="salzburg.1876" type="event"> wird alsbald <date notBefore-iso="1876-04-17"
 						>nach Ostern</date> in der großen <hi rend="antiqua"><placeName
-							ref="#salzburg.aula-academica">Aula academica</placeName></hi> zur
+							key="salzburg.aula-academica">Aula academica</placeName></hi> zur
 					Aufführung gelangen.</rs> Orchester- und Chor-Proben unter Herrn
-				Mozarteums-Direktor <persName ref="#bach.otto">Bach’s</persName> Leitung dazu sind
+				Mozarteums-Direktor <persName key="bach.otto">Bach’s</persName> Leitung dazu sind
 				bereits im vollen Gange und versprechen den besten Erfolg. Die Besetzung — <hi
 					rend="widespace">gleich der eines Musik-Festes</hi> — wird die in <placeName
-					ref="#salzburg">Salzburg</placeName>
+					key="salzburg">Salzburg</placeName>
 				<hi rend="widespace">möglichst erreichbare Stärke</hi> haben und besteht im
 				Instrumentale 22 Geigen (12 erste und 10 zweite Violinen), 8 Bratschen, 10
 				Violoncelle, 8 Contrabässe, 3 Flöten, 2 Oboen, 2 Clarinette, 4 Fagotte, 6 Hörner, 8

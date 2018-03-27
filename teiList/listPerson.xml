@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- todo: MGG-Nachweise holen via BMLO?? -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
 	<teiHeader>
 		<fileDesc>
@@ -29,8 +30,8 @@
 					<persName type="index">Fröhlich, —</persName>
 					<sex>f</sex>
 					<occupation><term type="singer">Sängerin (Sopran)</term> in <placeName
-							ref="#hamburg">Hamburg</placeName></occupation>
-					<!-- nicht: Elise Fröhlich (Debut 1879) -->
+							key="hamburg">Hamburg</placeName></occupation>
+					<!-- ganz evtl: Elise Fröhlich (Debut 1879) -->
 					<!-- nicht: Mathilde Fröhlich (Debut 1891) -->
 					<!-- nicht: Hermine Förster-Fröhlich (Debut 1895) -->
 				</person>
@@ -38,7 +39,7 @@
 					<persName>Mathias</persName>
 					<persName type="index">Mathias, —</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Sänger</term> in <placeName ref="#hamburg"
+					<occupation><term type="singer">Sänger</term> in <placeName key="hamburg"
 							>Hamburg</placeName></occupation>
 				</person>
 				<!-- SÄNGER / nur Nachname / Berlin -->
@@ -47,7 +48,7 @@
 					<persName type="index">Bossi, —</persName>
 					<sex>m</sex>
 					<occupation>
-						<term type="singer">Opernsänger</term> in <placeName ref="#berlin"
+						<term type="singer">Opernsänger</term> in <placeName key="berlin"
 							>Berlin</placeName>
 					</occupation>
 				</person>
@@ -57,17 +58,17 @@
 					<persName type="index">Baldamus, —</persName>
 					<sex>f</sex>
 					<occupation>
-						<term type="singer">Opernsängerin (Sopran)</term> in <placeName
-							ref="#danzig">Danzig</placeName>
+						<term type="singer">Opernsängerin (Sopran)</term> in <placeName key="danzig"
+							>Danzig</placeName>
 					</occupation>
-					<note type="book">Hundert Jahre Danziger Singakademie, S. 147</note>
+					<bibl>Hundert Jahre Danziger Singakademie, S. 147</bibl>
 				</person>
 				<!-- SÄNGER / nur Nachname / Brünn, Wien -->
 				<person xml:id="curiel.xxx">
 					<persName>Curiel</persName>
 					<persName type="index">Curiel, —</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Sänger</term> in <placeName ref="#bruenn"
+					<occupation><term type="singer">Sänger</term> in <placeName key="bruenn"
 							>Brünn</placeName></occupation>
 					<!-- ANNO: vom Hoftheater in Kassel -->
 				</person>
@@ -76,20 +77,20 @@
 					<persName type="index">Ofner, —</persName>
 					<sex>f</sex>
 					<occupation><term type="singer">Sängerin (Sopran)</term> in <placeName
-							ref="#wien">Wien</placeName></occupation>
+							key="wien">Wien</placeName></occupation>
 				</person>
 				<person xml:id="hellmer.xxx">
 					<persName>Hellmer</persName>
 					<persName type="index">Hellmer, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#wien"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="wien"
 							>Wien</placeName></occupation>
 				</person>
 				<person xml:id="lewis.xxx">
 					<persName>Lewis</persName>
 					<persName type="index">Lewis, —</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Sänger (Bass)</term> in <placeName ref="#wien"
+					<occupation><term type="singer">Sänger (Bass)</term> in <placeName key="wien"
 							>Wien</placeName></occupation>
 				</person>
 				<!-- SÄNGER / nur Nachname / Düsseldorf, Wiesbaden -->
@@ -98,7 +99,7 @@
 					<persName type="index">Pfeiffer, H. oder L.</persName>
 					<sex>m</sex>
 					<occupation><term type="singer">Opernsänger (Bass)</term> aus <placeName
-							ref="#duesseldorf">Düsseldorf</placeName></occupation>
+							key="duesseldorf">Düsseldorf</placeName></occupation>
 					<!-- nicht: Karl -->
 					<!-- sehr fraglich: Leonhard Pfeifer??? -->
 				</person>
@@ -107,14 +108,14 @@
 					<persName type="index">Resch, —</persName>
 					<sex>f</sex>
 					<occupation><term type="singer">Sängerin (Alt?)</term> in <placeName
-							ref="#wiesbaden">Wiesbaden</placeName></occupation>
+							key="wiesbaden">Wiesbaden</placeName></occupation>
 				</person>
 				<!-- SÄNGER / nur Nachname / Graz -->
 				<person xml:id="blum.a">
 					<persName>A. Blum</persName>
 					<persName type="index">Blum, A.</persName>
 					<sex>u</sex>
-					<occupation><term type="singer">Sänger/in</term> in <placeName ref="#new-york"
+					<occupation><term type="singer">Sänger/in</term> in <placeName key="new-york"
 							>New York</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -122,7 +123,7 @@
 					<persName>H. Corradi</persName>
 					<persName type="index">Corradi, H.</persName>
 					<sex>u</sex>
-					<occupation><term type="singer">Sänger/in</term> in <placeName ref="#new-york"
+					<occupation><term type="singer">Sänger/in</term> in <placeName key="new-york"
 							>New York</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -130,7 +131,7 @@
 					<persName>C. Fritsch</persName>
 					<persName type="index">Fritsch, C.</persName>
 					<sex>u</sex>
-					<occupation><term type="singer">Sänger/in</term> in <placeName ref="#new-york"
+					<occupation><term type="singer">Sänger/in</term> in <placeName key="new-york"
 							>New York</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -138,7 +139,7 @@
 					<persName>O. Gomien</persName>
 					<persName type="index">Gomien, O.</persName>
 					<sex>u</sex>
-					<occupation><term type="singer">Sänger/in</term> in <placeName ref="#new-york"
+					<occupation><term type="singer">Sänger/in</term> in <placeName key="new-york"
 							>New York</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -146,7 +147,7 @@
 					<persName>Grödinger</persName>
 					<persName type="index">Grödinger, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#graz"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="graz"
 							>Graz</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -154,14 +155,14 @@
 					<persName>Häckl</persName>
 					<persName type="index">Häckl, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#graz"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="graz"
 							>Graz</placeName></occupation>
 				</person>
 				<person xml:id="renee.xxx">
 					<persName>Renée</persName>
 					<persName type="index">Renée, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#graz"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="graz"
 							>Graz</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -169,7 +170,7 @@
 					<persName>Rubin</persName>
 					<persName type="index">Rubin, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#graz"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="graz"
 							>Graz</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -177,7 +178,7 @@
 					<persName>Schwarz</persName>
 					<persName type="index">Schwarz, —</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Sänger</term> in <placeName ref="#graz"
+					<occupation><term type="singer">Sänger</term> in <placeName key="graz"
 							>Graz</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -185,7 +186,7 @@
 					<persName>Storch-Zoder</persName>
 					<persName type="index">Storch-Zoder, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#graz"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="graz"
 							>Graz</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -193,7 +194,7 @@
 					<persName>Tomsa</persName>
 					<persName type="index">Tomsa, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#graz"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="graz"
 							>Graz</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -201,7 +202,7 @@
 					<persName>Treiber</persName>
 					<persName type="index">Treiber, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#graz"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="graz"
 							>Graz</placeName></occupation>
 					<!-- kommt nur einmal vor -->
 				</person>
@@ -210,21 +211,21 @@
 					<persName>Wildt</persName>
 					<persName type="index">Wildt, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#london"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="london"
 							>London</placeName></occupation>
 				</person>
 				<person xml:id="d-angeri.xxx">
 					<persName>d’Angeri</persName>
 					<persName type="index">D’Angeri, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#london"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="london"
 							>London</placeName></occupation>
 				</person>
 				<person xml:id="marini.xxx">
 					<persName>Marini</persName>
 					<persName type="index">Marini, —</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Sänger</term> in <placeName ref="#london"
+					<occupation><term type="singer">Sänger</term> in <placeName key="london"
 							>London</placeName></occupation>
 				</person>
 				<!-- SÄNGER / nur Nachname / Breslau -->
@@ -232,45 +233,45 @@
 					<persName>Hänisch</persName>
 					<persName type="index">Hänisch, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#breslau"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="breslau"
 							>Breslau</placeName></occupation>
 				</person>
 				<person xml:id="hahn.xxx">
 					<persName>Hahn</persName>
 					<persName type="index">Hahn, —</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#breslau"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="breslau"
 							>Breslau</placeName></occupation>
 				</person>
 				<person xml:id="torrige.xxx">
 					<persName>Torrige</persName>
 					<persName type="index">Torrige, —</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Sänger</term> in <placeName ref="#breslau"
+					<occupation><term type="singer">Sänger</term> in <placeName key="breslau"
 							>Breslau</placeName></occupation>
 				</person>
 				<person xml:id="franck.xxx">
 					<persName>Franck</persName>
 					<persName type="index">Franck, —</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Sänger</term> in <placeName ref="#breslau"
+					<occupation><term type="singer">Sänger</term> in <placeName key="breslau"
 							>Breslau</placeName></occupation>
 				</person>
 				<person xml:id="wohlrath.xxx">
 					<persName>Wohlrath</persName>
 					<persName type="index">Wohlrath, —</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Chorist</term> an der <placeName ref="#wien"
+					<occupation><term type="singer">Chorist</term> an der <placeName key="wien"
 							>Wiener</placeName>
-						<placeName ref="#wien.hof-operntheater">Hofoper</placeName></occupation>
+						<placeName key="wien.hof-operntheater">Hofoper</placeName></occupation>
 				</person>
 				<person xml:id="haimann.xxx">
 					<persName>Haimann</persName>
 					<persName type="index">Haimann, —</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Chorist</term> an der <placeName ref="#wien"
+					<occupation><term type="singer">Chorist</term> an der <placeName key="wien"
 							>Wiener</placeName>
-						<placeName ref="#wien.hof-operntheater">Hofoper</placeName></occupation>
+						<placeName key="wien.hof-operntheater">Hofoper</placeName></occupation>
 				</person>
 				<!-- SÄNGER / ohne ID -->
 				<person xml:id="barlani-dini.eufemia">
@@ -295,7 +296,7 @@
 					<persName type="index">Bustini, Emilie</persName>
 					<persName type="index">Elias, Emilie</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#wien"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="wien"
 							>Wien</placeName></occupation>
 				</person>
 				<person xml:id="capponi.giuseppe">
@@ -310,7 +311,11 @@
 					<occupation>1871 geplant: Erstaufführung »Aida« an der Mailänder Scala (Ersatz
 						durch Giuseppe Fancelli)</occupation>
 					<note type="it.wikipedia.org">Giuseppe_Capponi_(tenore)</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 1, S. 551</note>
+					<bibl>
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">1</biblScope>
+						<biblScope unit="page">551</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="caruzzi-bedogni.giuseppina">
 					<persName>Giuseppina Caruzzi Bedogni</persName>
@@ -324,7 +329,7 @@
 					<persName>Karl Chlumetzky</persName>
 					<persName type="index">Chlumetzky, Karl</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sänger</term> in <placeName ref="#olmuetz"
+					<occupation><term type="singer">Sänger</term> in <placeName key="olmuetz"
 							>Olmütz</placeName></occupation>
 				</person>
 				<person xml:id="doetscher.leontine">
@@ -344,7 +349,7 @@
 					<persName type="index">Moritz, Berta</persName>
 					<sex>f</sex>
 					<occupation><date>1870–1876</date><term type="singer">Sängerin (Alt)</term> in
-							<placeName ref="#weimar">Weimar</placeName></occupation>
+							<placeName key="weimar">Weimar</placeName></occupation>
 					<note type="www"><ref
 							target="http://ora-web.swkk.de/archiv_online/gsa.Person_Info?id=50206"
 							>Personeninfos</ref></note>
@@ -358,16 +363,18 @@
 					<occupation>
 						<term type="singer">Sänger (Tenor)</term>
 					</occupation>
-					<occupation>Seit 1875 an der <placeName ref="#berlin.hofoper">Hofoper
+					<occupation>Seit 1875 an der <placeName key="berlin.hofoper">Hofoper
 							Berlin</placeName></occupation>
-					<note type="book">DBEM 2003</note>
+					<bibl type="book">
+						<relatedItem target="#dbem"/>
+					</bibl>
 				</person>
 				<person xml:id="gatterburg.hedwig">
 					<persName>Gräfin Hedwig Gatterburg</persName>
 					<persName type="index">Gatterburg, Hedwig</persName>
 					<sex>f</sex>
 					<occupation><term type="singer">Sängerin (Alt)</term> in <placeName
-							ref="#salzburg">Salzburg</placeName></occupation>
+							key="salzburg">Salzburg</placeName></occupation>
 				</person>
 				<person xml:id="gindele.ernestina">
 					<persName>Ernestina Gindele</persName>
@@ -376,22 +383,26 @@
 					<birth>1841</birth>
 					<death>?</death>
 					<occupation><term type="singer">Sängerin (Mezzosopran)</term> in <placeName
-							ref="#wien">Wien</placeName></occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 2, S. 1333</note>
+							key="wien">Wien</placeName></occupation>
+					<bibl>
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">2</biblScope>
+						<biblScope unit="page">1333</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="huber.franz">
 					<persName>Franz Huber</persName>
 					<persName type="index">Huber, Franz</persName>
 					<sex>m</sex>
 					<occupation><term type="singer">Sänger (Tenor)</term> in <placeName
-							ref="#salzburg">Salzburg</placeName></occupation>
+							key="salzburg">Salzburg</placeName></occupation>
 				</person>
 				<person xml:id="keller.elsa">
 					<persName>Elsa Keller</persName>
 					<persName type="index">Keller, Elsa</persName>
 					<sex>f</sex>
 					<occupation><term type="singer">Opernsängerin (Mezzosopran)</term> aus
-							<placeName ref="#koeln">Köln</placeName></occupation>
+							<placeName key="koeln">Köln</placeName></occupation>
 				</person>
 				<person xml:id="koehler.hans">
 					<persName>Hans Köhler</persName>
@@ -402,9 +413,13 @@
 					<occupation>
 						<term type="singer">Sänger (Bass)</term>
 					</occupation>
-					<occupation>1869–1877 an der <placeName ref="#dresden.hoftheater">Dresdener
+					<occupation>1869–1877 an der <placeName key="dresden.hoftheater">Dresdener
 							Hofoper</placeName></occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 3, S. 1857</note>
+					<bibl>
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">3</biblScope>
+						<biblScope unit="page">1857</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="koschat.thomas">
 					<persName>Thomas Koschat</persName>
@@ -413,15 +428,15 @@
 					<birth>1845</birth>
 					<death>1914</death>
 					<occupation><term type="singer">Chorist und Solist</term> an der <placeName
-							ref="#wien">Wiener</placeName>
-						<placeName ref="#wien.hof-operntheater">Hofoper</placeName></occupation>
+							key="wien">Wiener</placeName>
+						<placeName key="wien.hof-operntheater">Hofoper</placeName></occupation>
 				</person>
 				<person xml:id="krejci.friedrich">
 					<persName>Friedrich Krejči</persName>
 					<persName type="alternative">Friedrich Kreçi</persName>
 					<persName type="index">Krejči, Friedrich</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Sänger</term> in <placeName ref="#bruenn"
+					<occupation><term type="singer">Sänger</term> in <placeName key="bruenn"
 							>Brünn</placeName></occupation>
 					<occupation>wirkte u.a. in Berlin</occupation>
 				</person>
@@ -432,8 +447,8 @@
 					<birth>1833</birth>
 					<death>1911</death>
 					<occupation><term type="singer">Sänger (Bass)</term> und Geschäftsmann aus
-							<placeName ref="#mannheim">Mannheim</placeName></occupation>
-					<occupation>Bruder von <persName ref="#levi.hermann">Wilhelm
+							<placeName key="mannheim">Mannheim</placeName></occupation>
+					<occupation>Bruder von <persName key="levi.hermann">Wilhelm
 						Levi</persName></occupation>
 					<note type="de.wikipedia.org">Wilhelm_Lindeck</note>
 				</person>
@@ -458,6 +473,11 @@
 					<death>1918</death>
 					<occupation>österreichische <term type="singer">Opernsängerin
 						(Sopran)</term></occupation>
+					<bibl>
+						<title>Amalie Friedrich-Materna</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope unit="page">120–122</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="nicolini.ernesto">
 					<persName>Ernesto Nicolini</persName>
@@ -481,7 +501,7 @@
 					<persName>Franz Piwoda</persName>
 					<persName type="index">Piwoda, Franz</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Gesangslehrer</term> in <placeName ref="#prag"
+					<occupation><term type="singer">Gesangslehrer</term> in <placeName key="prag"
 							>Prag</placeName></occupation>
 				</person>
 				<person xml:id="povoleri.paride">
@@ -499,23 +519,23 @@
 					<birth>1846</birth>
 					<death>1908</death>
 					<occupation><term type="singer">Sänger (Tenor)</term> und Kaufmann in <placeName
-							ref="#danzig">Danzig</placeName></occupation>
-					<note type="book">Hundert Jahre Danziger Singakademie, S. 24, 154 und 158</note>
+							key="danzig">Danzig</placeName></occupation>
+					<bibl type="book">Hundert Jahre Danziger Singakademie, S. 24, 154 und 158</bibl>
 				</person>
 				<person xml:id="schmidt.felix">
 					<persName>Felix Schmidt</persName>
 					<persName type="index">Schmidt, Felix</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Sänger (Bass)</term> in <placeName ref="#danzig"
+					<occupation><term type="singer">Sänger (Bass)</term> in <placeName key="danzig"
 							>Danzig</placeName></occupation>
-					<note type="book">Hundert Jahre Danziger Singakademie, S. 155</note>
+					<bibl type="book">Hundert Jahre Danziger Singakademie, S. 155</bibl>
 				</person>
 				<person xml:id="schultner.adolf">
 					<persName>Adolf Ritter von Schultner</persName>
 					<persName type="index">Schultner, Adolf von</persName>
 					<sex>m</sex>
-					<occupation><term type="singer">Gesangsprofessor</term> in <placeName
-							ref="#wien">Wien</placeName></occupation>
+					<occupation><term type="singer">Gesangsprofessor</term> in <placeName key="wien"
+							>Wien</placeName></occupation>
 				</person>
 				<person xml:id="szegal.gabriele">
 					<persName>Gabriele Szegál</persName>
@@ -528,13 +548,17 @@
 					</occupation>
 					<occupation>1870–79 Hoftheater Wiesbaden</occupation>
 					<occupation>1876–79 Hoftheater von Mannheim</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 5, S. 3410</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">5</biblScope>
+						<biblScope unit="page">3410</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="topolanski.emma">
 					<persName>Emma Topolanski</persName>
 					<persName type="index">Topolanski, Emma</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#graz"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="graz"
 							>Graz</placeName></occupation>
 					<occupation>Vorname erschlossen aus: Grazer Volksblatt, 10. Mai
 						1874</occupation>
@@ -556,7 +580,7 @@
 					<persName type="index">Voigt, Gabriele</persName>
 					<sex>f</sex>
 					<occupation><term type="singer">Sängerin (Sopran)</term> in <placeName
-							ref="#salzburg">Salzburg</placeName></occupation>
+							key="salzburg">Salzburg</placeName></occupation>
 				</person>
 				<person xml:id="will.julie">
 					<persName>Julie Will</persName>
@@ -569,8 +593,10 @@
 							target="https://archive.org/details/diegeschichtedes00rilluoft">Albert
 							Rille: Die Geschichte des Brünner Stadt-Theaters 1734-1884. Brünn 1885,
 							S. 178</ref></note>
-					<note type="book">Karoline Coßmar und F. Homann: Almanach und Adreßbuch des
-						Großherzoglichen Hoftheaters, Bd. 29. Karlsruhe 1878, S. 9</note>
+					<bibl type="book">
+						<relatedItem target="#cossmar-homann"/>
+						<biblScope unit="page">9</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="wolff.josef">
 					<persName>Josef Wolff</persName>
@@ -583,7 +609,11 @@
 					</occupation>
 					<occupation>1875 Hofoper Berlin</occupation>
 					<occupation>danach Breslauer Opernhaus</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 5, S. 3758ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">5</biblScope>
+						<biblScope>S. 3758ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="wosahlo.hermine">
 					<persName>Hermine Wosahlo</persName>
@@ -600,7 +630,7 @@
 					<persName type="index">Ulke, Anna</persName>
 					<sex>f</sex>
 					<occupation>
-						<term type="singer">Sängerin</term> in <placeName ref="#wien"
+						<term type="singer">Sängerin</term> in <placeName key="wien"
 							>Wien</placeName>
 					</occupation>
 				</person>
@@ -616,6 +646,11 @@
 						<term type="singer">Sängerin (Mezzosopran)</term>
 					</occupation>
 					<note type="de.wikipedia.org">Désirée_Artôt_de_Padilla</note>
+					<bibl>
+						<title>Désirée Artôt-Padilla</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope unit="page">9f</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="assmann.adele">
 					<idno type="gnd">116371714</idno>
@@ -628,7 +663,7 @@
 					<occupation>
 						<term type="singer">Sängerin (Alt)</term>
 					</occupation>
-					<note type="book">Hundert Jahre Danziger Singakademie, S. 147</note>
+					<bibl type="book">Hundert Jahre Danziger Singakademie, S. 147</bibl>
 				</person>
 				<person xml:id="bausewein.kaspar">
 					<idno type="gnd">116096462</idno>
@@ -642,9 +677,13 @@
 					</occupation>
 					<occupation>seit 1858 an der Hofoper von München</occupation>
 					<note type="de.wikipedia.org">Kaspar_Bausewein</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 1, S. 219ff</note>
-					<note type="book">A. von Menzi, »Kaspar Bausewein«, in: Biographisches Jahrbuch,
-						Bd. 8, 1905</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">1</biblScope>
+						<biblScope>S. 219ff</biblScope>
+					</bibl>
+					<bibl type="book">A. von Menzi, »Kaspar Bausewein«, in: Biographisches Jahrbuch,
+						Bd. 8, 1905</bibl>
 				</person>
 				<person xml:id="beck.joseph">
 					<idno type="gnd">116101520</idno>
@@ -669,7 +708,11 @@
 					<occupation>deutscher <term type="singer">Sänger (Bariton)</term></occupation>
 					<occupation>seit 1859 an der Berliner Hofoper</occupation>
 					<note type="de.wikipedia.org">Franz_Betz_(Opernsänger)</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 1, S. 298ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">1</biblScope>
+						<biblScope>S. 298ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="boers.thoma">
 					<!-- ?? Thoma (Therese) Börs / Wien und 1876-1879 Hoftheater Schwerin -->
@@ -679,7 +722,7 @@
 					<persName type="full">Thoma Therese Börs</persName>
 					<persName type="index">Börs, Thoma</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#wien"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="wien"
 							>Wien</placeName></occupation>
 				</person>
 				<person xml:id="boree.minna">
@@ -697,11 +740,15 @@
 					</occupation>
 					<occupation>1874–1876 am Hamburger Stadttheater</occupation>
 					<occupation>1876–1878 am Deutschen Theater in Prag</occupation>
-					<occupation>verheiratet mit <persName ref="#koegel.josef">Josef
+					<occupation>verheiratet mit <persName key="koegel.josef">Josef
 						Kögel</persName></occupation>
 					<note type="de.wikipedia.org">Minna_Borée</note>
 					<note type="bmlo.lmu.de">k1582</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 1, S. 388</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">1</biblScope>
+						<biblScope unit="page">388</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="brandt.marianne">
 					<idno type="gnd">116406364</idno>
@@ -719,8 +766,16 @@
 					<occupation>gastiert seit 1872 in London, seit 1873 in Wien und seit 1876 in
 						Bayreuth</occupation>
 					<note type="de.wikipedia.org">Marianne_Brandt_(Sängerin)</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 1, S. 432ff</note>
-					<note type="book">Ehrlich 1895, S. 27–28</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">1</biblScope>
+						<biblScope>S. 432ff</biblScope>
+					</bibl>
+					<bibl>
+						<title>Marianne Brandt</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope unit="page">27f</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="buerger.max">
 					<idno type="gnd">132480174</idno>
@@ -746,7 +801,11 @@
 					<occupation>tschechische <term type="singer">Sängerin (Alt)</term></occupation>
 					<occupation>1874–76 am Deutschen Theater Prag</occupation>
 					<occupation>1876–77 am Stadttheater (Opernhaus) von Hamburg</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 1, S. 502ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">1</biblScope>
+						<biblScope>S. 502ff</biblScope>
+					</bibl>
 					<note type="de.wikipedia.org">Henriette_Burenne</note>
 				</person>
 				<person xml:id="candidus.william">
@@ -763,7 +822,11 @@
 					<occupation>1874-75 Hoftheater Hannover</occupation>
 					<occupation>1875-76 am Stadttheater von Hamburg</occupation>
 					<occupation>Gastspiele u.a. an den Hofopern von Berlin und München</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 1, S. 544ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">1</biblScope>
+						<biblScope>S. 544ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="csillag.rosa">
 					<idno type="gnd">116750820</idno>
@@ -786,7 +849,11 @@
 					<occupation>1874/75 Stadttheater Nürnberg</occupation>
 					<occupation>1875/76 Köln</occupation>
 					<occupation>1876/78 Stadttheater (Opernhaus) von Hamburg</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 2, S. 900ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">2</biblScope>
+						<biblScope>S. 900ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="ehnn-sand.bertha">
 					<idno type="viaf">15518503</idno>
@@ -797,9 +864,13 @@
 					<sex>f</sex>
 					<birth when-iso="1845"/>
 					<death>?</death>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#wien"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="wien"
 							>Wien</placeName></occupation>
-					<note type="book">Ehrlich 1895, S. 40–41</note>
+					<bibl>
+						<title>Bertha Ehnn-Sand</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope unit="page">40f</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="eilers.ludwig-albert">
 					<idno type="gnd">139712089</idno>
@@ -822,7 +893,11 @@
 					<death when-iso="1927"/>
 					<occupation>österreichischer <term type="singer">Sänger
 						(Tenor)</term></occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 2, S. 1046ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">2</biblScope>
+						<biblScope>S. 1046ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="ferenczy.jose">
 					<idno type="gnd">116465514</idno>
@@ -847,7 +922,11 @@
 					<occupation>
 						<term type="singer">Sängerin (Sopran)</term>
 					</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 2, S. 1126ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">2</biblScope>
+						<biblScope>S. 1126ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="frezzolini.erminia">
 					<idno type="gnd">116787368</idno>
@@ -868,7 +947,7 @@
 					<birth>1829</birth>
 					<death>1894</death>
 					<occupation>
-						<term type="singer">Opernsänger (Bass)</term> in <placeName ref="#berlin"
+						<term type="singer">Opernsänger (Bass)</term> in <placeName key="berlin"
 							>Berlin</placeName>
 					</occupation>
 				</person>
@@ -896,10 +975,10 @@
 					<occupation>österreich-ungarische Pianistin und <term type="singer"
 							>Kammersängerin</term></occupation>
 					<note type="de.wikipedia.org">Caroline_von_Gomperz-Bettelheim</note>
-					<note type="book">Sängerlex. Bd. 2, S. 1366ff</note>
-					<note type="book">Sängerlex. Bd. 2, Nachtrag</note>
-					<note type="book">Anton Bettelheim: »Caroline von Gompertz-Bettelheim. Ein
-						biographisches Blatt« (1905)</note>
+					<bibl type="book">Sängerlex. Bd. 2, S. 1366ff</bibl>
+					<bibl type="book">Sängerlex. Bd. 2, Nachtrag</bibl>
+					<bibl type="book">Anton Bettelheim: »Caroline von Gompertz-Bettelheim. Ein
+						biographisches Blatt« (1905)</bibl>
 				</person>
 				<person xml:id="grengg.karl">
 					<idno type="gnd">116832185</idno>
@@ -940,8 +1019,15 @@
 					</occupation>
 					<occupation>1874-75 Opernhaus von Leipzig</occupation>
 					<occupation>1875-77 Deutsches Theater in Prag</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 2, S. 1476ff</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Nachtrag</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">2</biblScope>
+						<biblScope>S. 1476ff</biblScope>
+					</bibl>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope>Nachtrag</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="henschel.georg">
 					<idno type="gnd">116719710</idno>
@@ -1012,7 +1098,11 @@
 					<occupation>
 						<term type="singer">Sänger (Bariton)</term>
 					</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 3, S. 1906ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">3</biblScope>
+						<biblScope>S. 1906ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="krolop.franz">
 					<idno type="gnd">116552689</idno>
@@ -1022,7 +1112,7 @@
 					<birth>1839</birth>
 					<death>1897</death>
 					<occupation>
-						<term type="singer">Opernsänger (Bass)</term> in <placeName ref="#berlin"
+						<term type="singer">Opernsänger (Bass)</term> in <placeName key="berlin"
 							>Berlin</placeName>
 					</occupation>
 				</person>
@@ -1044,7 +1134,7 @@
 					<sex>f</sex>
 					<birth when-iso="1852"/>
 					<death when-iso="1921"/>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#berlin"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="berlin"
 							>Berlin</placeName></occupation>
 				</person>
 				<person xml:id="lederer-ubrich.asminde">
@@ -1073,10 +1163,26 @@
 					<occupation>seit 1870 Mitglied der Hofoper Berlin</occupation>
 					<occupation>1876 Erste Bayreuther Festspiele</occupation>
 					<note type="de.wikipedia.org">Lilli_Lehmann</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 3, S. 2030ff</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Nachtrag</note>
-					<note type="book">L. Andro: »Lilli Lehmann« (Berlin, 1907)</note>
-					<note type="book">Ehrlich 1895, S. 72–73</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">3</biblScope>
+						<biblScope>S. 2030ff</biblScope>
+					</bibl>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope>Nachtrag</biblScope>
+					</bibl>
+					<bibl type="book">
+						<author>L. Andro</author>
+						<title>Lilli Lehmann</title>
+						<pubPlace>Berlin</pubPlace>
+						<date>1907</date>
+					</bibl>
+					<bibl>
+						<title>Lilli Lehmann</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope>S. 72f</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="lehmann.marie">
 					<idno type="gnd">116871199</idno>
@@ -1091,11 +1197,22 @@
 					<occupation>1873-78 Opernhaus Köln</occupation>
 					<occupation>1876 Erstaufführung des Nibelungenrings in Bayreuth</occupation>
 					<occupation>1878-79 Opernhaus Breslau</occupation>
-					<occupation>Schwester von <persName ref="#lehmann.lilli">Lilli
-							Lehmann</persName></occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 3, S. 2032ff</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Nachtrag</note>
-					<note type="book">Ehrlich 1895, S. 74–75</note>
+					<occupation>Schwester von <persName key="lehmann.lilli">Lilli
+						Lehmann</persName></occupation>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">3</biblScope>
+						<biblScope>S. 2032ff</biblScope>
+					</bibl>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope>Nachtrag</biblScope>
+					</bibl>
+					<bibl>
+						<title>Marie Lehmann</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope>S. 74f</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="luger.angelina">
 					<idno type="gnd">117314374</idno>
@@ -1110,7 +1227,11 @@
 						<term type="singer">Sängerin (Mezzosopran/Alt)</term>
 					</occupation>
 					<note type="bmlo.lmu.de">l0816</note>
-					<note type="book">Ehrlich 1895, S. 95–96</note>
+					<bibl>
+						<title>Angelina Luger</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope>S. 95f</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="maini.armando">
 					<idno type="viaf">90220647</idno>
@@ -1124,8 +1245,15 @@
 					<occupation>
 						<term type="singer">Sänger (Bassbariton)</term>
 					</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 3, S. 2169ff</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Nachtrag</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">3</biblScope>
+						<biblScope>S. 2169ff</biblScope>
+					</bibl>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope>Nachtrag</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="marchesi.mathilde">
 					<idno type="gnd">116760206</idno>
@@ -1171,7 +1299,7 @@
 					<persName type="index">Milde, Hans Feodor von</persName>
 					<sex>m</sex>
 					<occupation><term type="singer">Sänger (Bass/Bariton)</term> in <placeName
-							ref="#weimar">Weimar</placeName></occupation>
+							key="weimar">Weimar</placeName></occupation>
 				</person>
 				<person xml:id="moedlinger.ludwig">
 					<idno type="gnd">117080551</idno>
@@ -1209,11 +1337,15 @@
 					<death when-iso="1902"/>
 					<occupation>deutscher <term type="singer">Sänger (Tenor)</term></occupation>
 					<occupation>seit 1868 an der Münchner Hofoper</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 2476ff</note>
-					<note type="book">Franz Nachbaur, in: Maren Goltz, Musiker-Lexikon des
-						Herzogtums Sachsen-Meinigen (1680–1918), S. 221</note>
-					<note type="book">A. von Mensi: »Franz Nachbaur« (Biogr. Jahrbuch, 7. Band,
-						1907).</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 2476ff</biblScope>
+					</bibl>
+					<bibl type="book">Franz Nachbaur, in: Maren Goltz, Musiker-Lexikon des
+						Herzogtums Sachsen-Meinigen (1680–1918), S. 221</bibl>
+					<bibl type="book">A. von Mensi: »Franz Nachbaur« (Biogr. Jahrbuch, 7. Band,
+						1907).</bibl>
 				</person>
 				<person xml:id="nanitz.minna">
 					<idno type="viaf">308205519</idno>
@@ -1227,7 +1359,11 @@
 						<term type="singer">Sängerin (Mezzosopran)</term>
 					</occupation>
 					<occupation>1870–1885 Dresdner Hofoper</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 2483</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope unit="page">2483</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="otto-alvsleben.melitta">
 					<idno type="gnd">117190012</idno>
@@ -1238,7 +1374,11 @@
 					<death when-iso="1893"/>
 					<occupation>Schauspielerin und <term type="singer">Opernsängerin
 						(Sopran)</term></occupation>
-					<note type="book">Ehrlich 1895, S. 143–144</note>
+					<bibl>
+						<title>Melitta Otto-Alvsleben</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope>S. 143f</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="passy-cornet.adele">
 					<idno type="gnd">116052880</idno>
@@ -1249,6 +1389,11 @@
 					<death when-iso="1915"/>
 					<occupation>österreichische <term type="singer">Sängerin
 						(Sopran)</term></occupation>
+					<bibl>
+						<title>Adele Passy-Cornet</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope>S. 147f</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="patierno.filippo">
 					<idno type="gnd">116053313</idno>
@@ -1260,7 +1405,11 @@
 					<occupation>italienischer <term type="singer">Sänger (Tenor)</term></occupation>
 					<occupation>1874-76 Teatro Regio in Turin</occupation>
 					<occupation>danach Teatro Grande von Triest</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 2669ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 2669ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="peschka-leutner.minna">
 					<idno type="gnd">116094001</idno>
@@ -1272,13 +1421,21 @@
 					<occupation>
 						<term type="singer">Sängerin</term>
 					</occupation>
-					<occupation>Schülerin von <persName ref="#proch.heinrich">Heinrich
+					<occupation>Schülerin von <persName key="proch.heinrich">Heinrich
 							Proch</persName></occupation>
 					<occupation>1868–1876 Opernhaus von Leipzig</occupation>
 					<occupation>1876 Gast an der Münchner Hofoper</occupation>
 					<occupation>1877-83 Stadttheater von Hamburg</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 2709ff</note>
-					<note type="book">Ehrlich 1895, S. 160–161</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 2709ff</biblScope>
+					</bibl>
+					<bibl>
+						<title>Minna Peschka-Leutner</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope>S. 160f</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="pielke.walter">
 					<idno type="gnd">133612678</idno>
@@ -1293,13 +1450,17 @@
 					</occupation>
 					<occupation>seit 1874 an der Leipziger Oper</occupation>
 					<note type="bmlo.lmu.de">p1058</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 2737</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope unit="page">2737</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="poppe.rosa">
 					<persName>Rosa Poppe</persName>
 					<persName type="index">Poppe, Rosa</persName>
 					<sex>f</sex>
-					<occupation><term type="singer">Sängerin</term> in <placeName ref="#berlin"
+					<occupation><term type="singer">Sängerin</term> in <placeName key="berlin"
 							>Berlin</placeName></occupation>
 				</person>
 				<person xml:id="possart.anna">
@@ -1338,7 +1499,11 @@
 					</occupation>
 					<occupation>1873–1876 Münchner Hofoper</occupation>
 					<occupation>seit 1876 Gastspiel- und Lehrtätigkeit</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 2833ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 2833ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="rokitansky.hans">
 					<idno type="gnd">116600187</idno>
@@ -1382,11 +1547,15 @@
 					<occupation>
 						<term type="singer">Sänger (Bariton)</term>
 					</occupation>
-					<occupation>Wirkte seit ca. 1869 am <placeName ref="#prag.staendetheater"
-							>Deutschen Landestheater</placeName> in <placeName ref="#prag"
+					<occupation>Wirkte seit ca. 1869 am <placeName key="prag.staendetheater"
+							>Deutschen Landestheater</placeName> in <placeName key="prag"
 							>Prag</placeName>, musste sich aber 1873 aufgrund einer Krankheit von
 						der Bühne zurückziehen.</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 3085ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 3085ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="schefsky.josephine">
 					<idno type="gnd">117192864</idno>
@@ -1404,7 +1573,11 @@
 						(Amneris)</occupation>
 					<occupation>1876 1. Bayreuther Festspiele, Gesamtaufführung des
 						Ring-Zyklus</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 3086ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 3086ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="schelper.otto">
 					<idno type="gnd">117217530</idno>
@@ -1418,7 +1591,11 @@
 					</occupation>
 					<occupation>1873-76 Kölner Opernhaus</occupation>
 					<occupation>seit 1876 Opernhaus von Leipzig</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 3091ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 3091ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="schneider.carl">
 					<idno type="gnd">116829516</idno>
@@ -1431,8 +1608,15 @@
 					<occupation>
 						<term type="singer">Sänger (Tenor)</term>
 					</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 3127ff</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Nachtrag</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 3127ff</biblScope>
+					</bibl>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope>Nachtrag</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="schuch-proska.clementine">
 					<idno type="gnd">117117145</idno>
@@ -1447,13 +1631,24 @@
 						<term type="singer">Sängerin (Sopran)</term>
 					</occupation>
 					<occupation>1873–1894 Hofoper Dresden</occupation>
-					<occupation>1875 Heirat mit <persName ref="#schuch.ernst">Ernst von
+					<occupation>1875 Heirat mit <persName key="schuch.ernst">Ernst von
 							Schuch</persName></occupation>
 					<note type="deutsche-biographie.de">sfz116824</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 4, S. 3158ff</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Nachtrag</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 3158ff</biblScope>
+					</bibl>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope>Nachtrag</biblScope>
+					</bibl>
 					<note type="de.wikipedia.org">Clementine_von_Schuch-Proska</note>
-					<note type="book">Ehrlich 1895, S. 188–189</note>
+					<bibl>
+						<title>Klementine Schuch-Proska</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope unit="page">188f</biblScope>
+					</bibl>
 					<note type="www">http://db-staatsoper.die-antwort.eu/search/person/7607</note>
 				</person>
 				<person xml:id="schuegraf.eduard">
@@ -1466,8 +1661,11 @@
 					<occupation>
 						<term type="singer">Sänger (Bariton)</term>
 					</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, / Bd. 4, S.
-						3159ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">4</biblScope>
+						<biblScope>S. 3159ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="schuetky.franz-josef">
 					<idno type="gnd">117133442</idno>
@@ -1501,7 +1699,7 @@
 					<birth when-iso="1846"/>
 					<death when-iso="1936"/>
 					<occupation><term type="singer">Sängerin (Sopran)</term> in <placeName
-							ref="#berlin">Berlin</placeName></occupation>
+							key="berlin">Berlin</placeName></occupation>
 					<note type="de.wikipedia.org">Therese_Seehofer</note>
 					<note type="bmlo.lmu.de">s2775</note>
 				</person>
@@ -1515,7 +1713,11 @@
 					<occupation>deutscher <term type="singer">Sänger (Bass)</term></occupation>
 					<occupation>1870–1881 Hoftheater Wiesbaden</occupation>
 					<occupation>1876 Erste Bayreuther Festspiele</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 5, S. 3239ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">5</biblScope>
+						<biblScope>S. 3239ff</biblScope>
+					</bibl>
 					<note type="www">http://db-staatsoper.die-antwort.eu/search/person/5973</note>
 				</person>
 				<person xml:id="staudigl.joseph">
@@ -1528,8 +1730,10 @@
 					<occupation>
 						<term type="singer">Sänger (Bass)</term>
 					</occupation>
-					<note type="book">Karoline Coßmar und F. Homann: Almanach und Adreßbuch des
-						Großherzoglichen Hoftheaters, Bd. 29. Karlsruhe 1878, S. 9</note>
+					<bibl type="book">
+						<relatedItem target="#cossmar-homann"/>
+						<biblScope unit="page">9</biblScope>
+					</bibl>
 					<note type="bmlo.lmu.de">s2868</note>
 				</person>
 				<person xml:id="steinbach.emma">
@@ -1583,12 +1787,19 @@
 					<occupation>tschechische <term type="singer">Sängerin
 						(Sopran)</term></occupation>
 					<occupation>seit 1865 an der Mailänder Scala</occupation>
-					<note type="book">Kutsch/Riemens 2000, Bd. 5, S. 3358ff</note>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Nachtrag</note>
-					<note type="book">A. Luzio: Il carteggio di Verdi con la Stolz e la Waldmann (in
-						»Carteggi verdiani«, Rom 1947).</note>
-					<note type="book">G. Cenzato: Verdi e la Stolz (Artikel im »Corriere della
-						sera«, Oktober 1932, Neudrucke Parma 1949 und Mailand 1955).</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope>Bd. 5</biblScope>
+						<biblScope>S. 3358ff</biblScope>
+					</bibl>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope>Nachtrag</biblScope>
+					</bibl>
+					<bibl type="book">A. Luzio: Il carteggio di Verdi con la Stolz e la Waldmann (in
+						»Carteggi verdiani«, Rom 1947).</bibl>
+					<bibl type="book">G. Cenzato: Verdi e la Stolz (Artikel im »Corriere della
+						sera«, Oktober 1932, Neudrucke Parma 1949 und Mailand 1955).</bibl>
 					<note type="www">http://db-staatsoper.die-antwort.eu/search/person/9302</note>
 				</person>
 				<person xml:id="waldmann.maria">
@@ -1604,7 +1815,11 @@
 					<occupation>1876 Heirat mit dem italienischen Grafen Galeazzo
 						Massari</occupation>
 					<occupation>1878 Rückzug von der Karriere</occupation>
-					<note type="book">Kutsch/Riemens, Großes Sängerlexikon, Bd. 5, S. 3642ff</note>
+					<bibl type="book">
+						<relatedItem target="#kutsch-riemens"/>
+						<biblScope unit="volume">5</biblScope>
+						<biblScope>S. 3642ff</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="walter.gustav">
 					<idno type="gnd">117130990</idno>
@@ -1633,7 +1848,11 @@
 						Schauspielerin</occupation>
 					<note type="bmlo.lmu.de">w1263</note>
 					<note type="www">http://db-staatsoper.die-antwort.eu/search/person/7955</note>
-					<note type="book">Ehrlich 1895, S. 223–225</note>
+					<bibl type="book">
+						<title>Marie Wilt</title>
+						<relatedItem target="#ehrlich"/>
+						<biblScope unit="page">223–225</biblScope>
+					</bibl>
 					<note type="www">http://openlibrary.org/books/OL23418156M (p. 205)</note>
 				</person>
 			</listPerson>
@@ -1645,21 +1864,21 @@
 					<persName type="index">Croissille, —</persName>
 					<sex>m</sex>
 					<occupation><term type="concert-master">Konzertmeister</term> in <placeName
-							ref="#paris">Paris</placeName></occupation>
+							key="paris">Paris</placeName></occupation>
 				</person>
 				<person xml:id="hermann.xxx">
 					<persName>Hermann</persName>
 					<persName type="index">Hermann, —</persName>
 					<sex>m</sex>
 					<occupation><term type="concert-master">Konzertmeister</term> in <placeName
-							ref="#hamburg">Hamburg</placeName></occupation>
+							key="hamburg">Hamburg</placeName></occupation>
 				</person>
 				<person xml:id="wosahlo.a-c">
 					<!--<id authority="gnd">1020584599</id> [undifferenziert]-->
 					<persName>A. C. Wosáhlo</persName>
 					<persName type="index">Wosáhlo, A. C.</persName>
 					<sex>m</sex>
-					<occupation><term type="conductor">Chordirektor</term> in <placeName ref="#wien"
+					<occupation><term type="conductor">Chordirektor</term> in <placeName key="wien"
 							>Wien</placeName></occupation>
 				</person>
 				<person xml:id="bogler.xxx">
@@ -1667,7 +1886,7 @@
 					<persName type="index">Bogler, —</persName>
 					<sex>m</sex>
 					<occupation><term type="conductor">Musikdirektor</term> in <placeName
-							ref="#st-gallen">St. Gallen</placeName></occupation>
+							key="st-gallen">St. Gallen</placeName></occupation>
 					<!-- möglich: Bernhard Kaspar Bogler (*02.02.1821 +29.12.1902) -->
 				</person>
 				<!-- Vorname, Nachname -->
@@ -1686,7 +1905,7 @@
 					<persName type="index">Schmitt, Alois</persName>
 					<sex>m</sex>
 					<occupation><term type="conductor">Hofkapellmeister</term> in <placeName
-							ref="#schwerin">Schwerin</placeName></occupation>
+							key="schwerin">Schwerin</placeName></occupation>
 					<occupation>Vorname erschlossen aus: Fremden-Blatt (Wien), 11. Mai
 						1873</occupation>
 				</person>
@@ -1711,7 +1930,7 @@
 					<birth when-iso="1841"/>
 					<death when-iso="1913"/>
 					<occupation><term type="other">Bratschist und Komponist</term> in <placeName
-							ref="#wien">Wien</placeName></occupation>
+							key="wien">Wien</placeName></occupation>
 				</person>
 				<person xml:id="bimboni.oreste">
 					<idno type="gnd">142970530</idno>
@@ -1747,8 +1966,8 @@
 					<death>1919</death>
 					<occupation>
 						<term type="other">Klavierdozent</term> am <placeName
-							ref="#wien.konservatorium">Konservatorium</placeName> in <placeName
-							ref="#wien">Wien</placeName>
+							key="wien.konservatorium">Konservatorium</placeName> in <placeName
+							key="wien">Wien</placeName>
 					</occupation>
 				</person>
 				<person xml:id="doppler.albert-franz">
@@ -1759,7 +1978,7 @@
 					<birth when-iso="1821"/>
 					<death when-iso="1883"/>
 					<occupation><term type="other">Flötist und Komponist</term> in <placeName
-							ref="#wien">Wien</placeName></occupation>
+							key="wien">Wien</placeName></occupation>
 				</person>
 				<person xml:id="epstein.julius">
 					<idno type="gnd">116652357</idno>
@@ -1767,8 +1986,8 @@
 					<persName type="index">Epstein, Julius</persName>
 					<sex>m</sex>
 					<occupation>1867–1901 <term type="other">Professor</term> am <placeName
-							ref="#wien.konservatorium">Konservatorium</placeName> in <placeName
-							ref="#wien">Wien</placeName></occupation>
+							key="wien.konservatorium">Konservatorium</placeName> in <placeName
+							key="wien">Wien</placeName></occupation>
 				</person>
 				<person xml:id="faccio.franco">
 					<idno type="gnd">115453814</idno>
@@ -1780,8 +1999,8 @@
 					<death when-iso="1891"/>
 					<occupation><term type="conductor">Dirigent</term> und Komponist</occupation>
 					<occupation>seit 1871 Erster Dirigent der Mailänder Scala</occupation>
-					<note type="book">MGG 2</note>
-					<note type="book">R. de Rensis: Franco Faccio e Verdi, Mailand 1934</note>
+					<bibl type="book">MGG 2</bibl>
+					<bibl type="book">R. de Rensis: Franco Faccio e Verdi, Mailand 1934</bibl>
 				</person>
 				<person xml:id="fuchs.johann-nepomuk">
 					<idno type="gnd">116843985</idno>
@@ -1809,7 +2028,7 @@
 					<persName type="index">Hallé, Carlo</persName>
 					<sex>m</sex>
 					<occupation><term type="conductor">Dirigent</term> in <placeName
-							ref="#manchester">Manchester</placeName></occupation>
+							key="manchester">Manchester</placeName></occupation>
 				</person>
 				<person xml:id="hauser.miska">
 					<idno type="gnd">116539062</idno>
@@ -1836,8 +2055,8 @@
 					<sex>m</sex>
 					<birth when-iso="1828"/>
 					<death when-iso="1893"/>
-					<occupation>1850–1893 Leiter des <placeName ref="#wien.konservatorium"
-							>Konservatoriums</placeName> in <placeName ref="#wien"
+					<occupation>1850–1893 Leiter des <placeName key="wien.konservatorium"
+							>Konservatoriums</placeName> in <placeName key="wien"
 						>Wien</placeName></occupation>
 					<occupation>1860–1876 <term type="concert-master">Konzertmeister</term> des
 						Hofopernorchesters in Wien</occupation>
@@ -1865,8 +2084,10 @@
 					<occupation>deutscher <term type="composer">Komponist</term> und <term
 							type="conductor">Dirigent</term></occupation>
 					<occupation>seit 1850 städtischer Musikdirektor und Konservatoriumsdirektor in
-							<placeName ref="#koeln">Köln</placeName></occupation>
-					<note type="book">Frank Altmann, Tonkünstler-Lexikon, 1936</note>
+							<placeName key="koeln">Köln</placeName></occupation>
+					<bibl type="book">
+						<relatedItem target="#altmann"/>
+					</bibl>
 					<note type="de.wikipedia.org">Ferdinand_Hiller</note>
 				</person>
 				<person xml:id="hol.richard">
@@ -1902,8 +2123,10 @@
 					<death when-iso="1900"/>
 					<occupation><date from="1864">seit 1864</date>
 						<term type="conductor">Theaterkapellmeister</term> in <placeName
-							ref="#wiesbaden">Wiesbaden</placeName></occupation>
-					<note type="book">Frank Altmann, Tonkünstler-Lexikon, 1936</note>
+							key="wiesbaden">Wiesbaden</placeName></occupation>
+					<bibl type="book">
+						<relatedItem target="#altmann"/>
+					</bibl>
 				</person>
 				<person xml:id="kahl.heinrich">
 					<idno type="gnd">132482401</idno>
@@ -1948,7 +2171,7 @@
 					<sex>m</sex>
 					<occupation>
 						<term type="conductor">Chormeister</term> des Gesangvereines in <placeName
-							ref="#olmuetz">Olmütz</placeName>
+							key="olmuetz">Olmütz</placeName>
 					</occupation>
 				</person>
 				<person xml:id="lampert.ernst">
@@ -1968,7 +2191,7 @@
 					<sex>m</sex>
 					<birth>?</birth>
 					<death>1908</death>
-					<occupation><term type="conductor">Dirigent</term> in <placeName ref="#danzig"
+					<occupation><term type="conductor">Dirigent</term> in <placeName key="danzig"
 							>Danzig</placeName></occupation>
 				</person>
 				<person xml:id="laudien.heinrich">
@@ -2005,12 +2228,14 @@
 					<death when-iso="1900"/>
 					<occupation>seit 1872 <term type="conductor">Hofkapellmeister</term> in
 						München</occupation>
-					<occupation>Freund von <persName ref="#brahms.johannes">Brahms</persName> und
-							<persName ref="#wagner.richard">Wagner</persName></occupation>
-					<occupation>Bruder von <persName ref="#lindeck.wilhelm">Wilhelm
+					<occupation>Freund von <persName key="brahms.johannes">Brahms</persName> und
+							<persName key="wagner.richard">Wagner</persName></occupation>
+					<occupation>Bruder von <persName key="lindeck.wilhelm">Wilhelm
 							Lindeck</persName></occupation>
 					<note type="deutsche-biographie.de">sfz50827</note>
-					<note type="book">Frank Altmann, Tonkünstler-Lexikon, 1936</note>
+					<bibl type="book">
+						<relatedItem target="#altmann"/>
+					</bibl>
 				</person>
 				<person xml:id="levi.richard">
 					<idno type="gnd">116978090</idno>
@@ -2076,8 +2301,8 @@
 					<death when-iso="1890"/>
 					<occupation><term type="composer">Komponist</term> und <term type="conductor"
 							>Dirigent</term></occupation>
-					<occupation>Schüler von <persName ref="#verdi.giuseppe">Giuseppe
-							Verdi</persName></occupation>
+					<occupation>Schüler von <persName key="verdi.giuseppe">Giuseppe
+						Verdi</persName></occupation>
 					<note type="en.wikipedia.org">Emanuele_Muzio</note>
 				</person>
 				<person xml:id="napoleao.arthur">
@@ -2115,8 +2340,10 @@
 					</occupation>
 					<occupation>seit 1871 Hofkapellmeister in Berlin</occupation>
 					<occupation>seit 1874 Mitglied der Königlichen Akademie</occupation>
-					<note type="book">DBEM 2003</note>
-					<note type="book">MGG2: Radecke, Robert</note>
+					<bibl type="book">
+						<relatedItem target="#dbem"/>
+					</bibl>
+					<bibl type="book">MGG2: Radecke, Robert</bibl>
 				</person>
 				<person xml:id="reinecke.carl">
 					<idno type="gnd">119388472</idno>
@@ -2132,7 +2359,9 @@
 					<birth when-iso="1824"/>
 					<death when-iso="1910"/>
 					<occupation>deutscher <term type="conductor">Dirigent</term></occupation>
-					<note type="book">Frank Altmann, Tonkünstler-Lexikon, 1936</note>
+					<bibl type="book">
+						<relatedItem target="#altmann"/>
+					</bibl>
 				</person>
 				<person xml:id="reinthaler.karl">
 					<idno type="gnd">116428473</idno>
@@ -2148,7 +2377,9 @@
 						Brahms</occupation>
 					<note type="deutsche-biographie.de">sfz76094</note>
 					<note type="de.wikipedia.org">Carl_Martin_Reinthaler</note>
-					<note type="book">Frank Altmann, Tonkünstler-Lexikon, 1936</note>
+					<bibl type="book">
+						<relatedItem target="#altmann"/>
+					</bibl>
 				</person>
 				<person xml:id="riccius.carl">
 					<idno type="gnd">116504749</idno>
@@ -2182,8 +2413,8 @@
 					<birth when-iso="1833"/>
 					<death when-iso="1895"/>
 					<occupation>Cellist und <term type="conductor">Dirigent</term> in <placeName
-							ref="#florenz">Florenz</placeName></occupation>
-					<note type="book">Dizionario della musica e dei musicisti, UTET 1988</note>
+							key="florenz">Florenz</placeName></occupation>
+					<bibl type="book">Dizionario della musica e dei musicisti, UTET 1988</bibl>
 				</person>
 				<person xml:id="schaeffer.julius">
 					<idno type="gnd">117099821</idno>
@@ -2229,10 +2460,12 @@
 					<occupation>
 						<term type="conductor">Dirigent</term>
 					</occupation>
-					<occupation>seit 1873 Hofkapellmeister in <placeName ref="#dresden"
+					<occupation>seit 1873 Hofkapellmeister in <placeName key="dresden"
 							>Dresden</placeName></occupation>
 					<note type="deutsche-biographie.de">sfz116822</note>
-					<note type="book">Frank Altmann, Tonkünstler-Lexikon, 1936</note>
+					<bibl type="book">
+						<relatedItem target="#altmann"/>
+					</bibl>
 				</person>
 				<person xml:id="slansky.ludwig">
 					<idno type="gnd">143696513</idno>
@@ -2246,7 +2479,9 @@
 					</occupation>
 					<occupation>Seit 1871 <term type="conductor">Kapellmeister</term> am Deutschen
 						Theater in Prag</occupation>
-					<note type="book">Frank Altmann, Tonkünstler-Lexikon, 1936</note>
+					<bibl type="book">
+						<relatedItem target="#altmann"/>
+					</bibl>
 				</person>
 				<person xml:id="taubert.wilhelm">
 					<idno type="gnd">11723589X</idno>
@@ -2292,8 +2527,8 @@
 					<death>1894</death>
 					<occupation>
 						<term type="conductor">Generalsekretär</term> am <placeName
-							ref="#wien.konservatorium">Konservatorium</placeName> in <placeName
-							ref="#wien">Wien</placeName>
+							key="wien.konservatorium">Konservatorium</placeName> in <placeName
+							key="wien">Wien</placeName>
 					</occupation>
 				</person>
 			</listPerson>
@@ -2404,9 +2639,9 @@
 					<death when-iso="1860"/>
 					<occupation>deutscher <term type="composer">Komponist</term> und
 						Pianist</occupation>
-					<note type="book">Irmgard Preuss (Bearbeiterin): Johann Ludwig Böhner.
+					<bibl type="book">Irmgard Preuss (Bearbeiterin): Johann Ludwig Böhner.
 						Veröffentlichungen der Landesbibliothek Gotha, Heft 8. Gotha:
-						Landesbibliothek, 1960</note>
+						Landesbibliothek, 1960</bibl>
 					<note type="de.wikipedia.org">Johann_Ludwig_Böhner</note>
 				</person>
 				<person xml:id="boieldieu.francois-adrien">
@@ -3509,16 +3744,16 @@
 					<persName>Ein Kölner Referent</persName>
 					<persName type="index">[Ein Kölner Referent]</persName>
 					<sex>m</sex>
-					<occupation><term type="critic">Musikkritiker/in</term> der <orgName ref="#amz"
-							>Allgemeinen musikalische Zeitung</orgName> in <placeName ref="#koeln"
+					<occupation><term type="critic">Musikkritiker/in</term> der <orgName key="amz"
+							>Allgemeinen musikalische Zeitung</orgName> in <placeName key="koeln"
 							>Köln</placeName></occupation>
 				</person>
 				<person xml:id="anonymus.ein-pariser-berichterstatter">
 					<persName>Ein Pariser Berichterstatter</persName>
 					<persName type="index">[Ein Pariser Berichterstatter]</persName>
 					<sex>m</sex>
-					<occupation><term type="critic">Musikkritiker/in</term> der <orgName ref="#amz"
-							>Allgemeinen musikalische Zeitung</orgName> in <placeName ref="#paris"
+					<occupation><term type="critic">Musikkritiker/in</term> der <orgName key="amz"
+							>Allgemeinen musikalische Zeitung</orgName> in <placeName key="paris"
 							>Paris</placeName></occupation>
 				</person>
 				<!-- AUTOREN / Akronym, Pseudonym oder nur Nachname -->
@@ -3527,8 +3762,8 @@
 					<persName type="index">»A. G.«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> der <orgName
-							ref="#national-zeitung">National-Zeitung</orgName> in <placeName
-							ref="#berlin">Berlin</placeName></occupation>
+							key="national-zeitung">National-Zeitung</orgName> in <placeName
+							key="berlin">Berlin</placeName></occupation>
 					<!-- August Eduard Grell (1800-1886), Singakademie? (unwahrscheinlich) -->
 				</person>
 				<person xml:id="akronym.ahm">
@@ -3536,7 +3771,7 @@
 					<persName type="index">»ahm«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> der <orgName
-							ref="#morgen-post">Morgen-Post</orgName> in <placeName ref="#wien"
+							key="morgen-post">Morgen-Post</orgName> in <placeName key="wien"
 							>Wien</placeName></occupation>
 				</person>
 				<person xml:id="akronym.cw">
@@ -3544,7 +3779,7 @@
 					<persName type="index">»C. W.«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> des <orgName
-							ref="#tagesbote-aus-maehren-und-schlesien">Tagesboten aus Mähren und
+							key="tagesbote-aus-maehren-und-schlesien">Tagesboten aus Mähren und
 							Schlesien</orgName></occupation>
 				</person>
 				<person xml:id="akronym.emr">
@@ -3552,15 +3787,15 @@
 					<persName type="index">»emr«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> des <orgName
-							ref="#salzburger-volksblatt">Salzburger
+							key="salzburger-volksblatt">Salzburger
 						Volksblatts</orgName></occupation>
 				</person>
 				<person xml:id="akronym.b">
 					<persName type="acronym">B.</persName>
 					<persName type="index">»B.«</persName>
 					<sex>u</sex>
-					<occupation><term type="critic">Musikkritiker/in</term> der <orgName ref="#nzfm"
-							>Neuen Zeitschrift für Musik</orgName> in <placeName ref="#leipzig"
+					<occupation><term type="critic">Musikkritiker/in</term> der <orgName key="nzfm"
+							>Neuen Zeitschrift für Musik</orgName> in <placeName key="leipzig"
 							>Leipzig</placeName></occupation>
 				</person>
 				<person xml:id="akronym.gg">
@@ -3569,8 +3804,8 @@
 					<sex>u</sex>
 					<occupation><date when-iso="1876">1876</date>
 						<term type="critic">Musikkritiker/in</term> der <orgName
-							ref="#koeniglich-privilegirte-berlinische-zeitung">Königlich
-							privilegirte Berlinische Zeitung</orgName> in <placeName ref="#wien"
+							key="koeniglich-privilegirte-berlinische-zeitung">Königlich privilegirte
+							Berlinische Zeitung</orgName> in <placeName key="wien"
 							>Berlin</placeName></occupation>
 				</person>
 				<person xml:id="akronym.h">
@@ -3578,8 +3813,8 @@
 					<persName type="index">»h—«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> des <orgName
-							ref="#neues-fremden-blatt">Neuen Fremden-Blattes</orgName> in <placeName
-							ref="#wien">Wien</placeName></occupation>
+							key="neues-fremden-blatt">Neuen Fremden-Blattes</orgName> in <placeName
+							key="wien">Wien</placeName></occupation>
 				</person>
 				<person xml:id="akronym.jk">
 					<persName type="acronym">J. K.</persName>
@@ -3587,15 +3822,15 @@
 					<sex>u</sex>
 					<occupation><date when-iso="1875">1875</date>
 						<term type="critic">Musikkritiker/in</term> des <orgName
-							ref="#wiener-salonblatt">Wiener Salonblattes</orgName> in <placeName
-							ref="#wien">Wien</placeName></occupation>
+							key="wiener-salonblatt">Wiener Salonblattes</orgName> in <placeName
+							key="wien">Wien</placeName></occupation>
 				</person>
 				<person xml:id="akronym.lb">
 					<persName type="acronym">L. B.</persName>
 					<persName type="index">»L. B.«</persName>
 					<sex>u</sex>
-					<occupation><term type="critic">Musikkritiker/in</term> des <orgName ref="#mwb"
-							>Musikalischen Wochenblattes</orgName> in <placeName ref="#hamburg"
+					<occupation><term type="critic">Musikkritiker/in</term> des <orgName key="mwb"
+							>Musikalischen Wochenblattes</orgName> in <placeName key="hamburg"
 							>Hamburg</placeName></occupation>
 				</person>
 				<person xml:id="akronym.n">
@@ -3603,8 +3838,8 @@
 					<persName type="index">»—n.«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> der <orgName
-							ref="#norddeutsche-allgemeine-zeitung">Norddeutschen Allgemeinen
-							Zeitung</orgName> in <placeName ref="#berlin"
+							key="norddeutsche-allgemeine-zeitung">Norddeutschen Allgemeinen
+							Zeitung</orgName> in <placeName key="berlin"
 						>Berlin</placeName></occupation>
 				</person>
 				<person xml:id="akronym.ok">
@@ -3612,46 +3847,46 @@
 					<persName type="index">»Dr. O. K.«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> der <orgName
-							ref="#signale">Allgemeine deutsche Musikzeitung</orgName> in <placeName
-							ref="#koeln">Köln</placeName></occupation>
+							key="signale">Allgemeine deutsche Musikzeitung</orgName> in <placeName
+							key="koeln">Köln</placeName></occupation>
 				</person>
 				<person xml:id="akronym.p">
 					<persName type="acronym">P.</persName>
 					<persName type="index">»P.«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> der <orgName
-							ref="#signale">Signale für die musikalische Welt</orgName> in <placeName
-							ref="#wien">Wien</placeName></occupation>
+							key="signale">Signale für die musikalische Welt</orgName> in <placeName
+							key="wien">Wien</placeName></occupation>
 				</person>
 				<person xml:id="akronym.r">
 					<persName type="acronym">— r.</persName>
 					<persName type="index">»— r.«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> des <orgName
-							ref="#bayerischer-kurier">Bayerischen Kuriers</orgName> in <placeName
-							ref="#muenchen">München</placeName></occupation>
+							key="bayerischer-kurier">Bayerischen Kuriers</orgName> in <placeName
+							key="muenchen">München</placeName></occupation>
 				</person>
 				<person xml:id="akronym.w">
 					<persName type="acronym">W.</persName>
 					<persName type="index">»W.«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> der <orgName
-							ref="#st-galler-zeitung">St. Galler-Zeitung</orgName></occupation>
+							key="st-galler-zeitung">St. Galler-Zeitung</orgName></occupation>
 				</person>
 				<person xml:id="akronym.z">
 					<persName type="acronym">-z</persName>
 					<persName type="index">»-z«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikreferent/in</term> des <orgName
-							ref="#tagesbote-aus-maehren-und-schlesien">Tagesboten aus Mähren und
+							key="tagesbote-aus-maehren-und-schlesien">Tagesboten aus Mähren und
 							Schlesien</orgName></occupation>
 				</person>
 				<person xml:id="symbol.b">
 					<persName type="acronym">♭</persName>
 					<persName type="index">»♭«</persName>
 					<sex>u</sex>
-					<occupation><term type="critic">Musikkritiker/in</term> des <orgName ref="#mwb"
-							>Musikalischen Wochenblatts</orgName> in <placeName ref="#muenchen"
+					<occupation><term type="critic">Musikkritiker/in</term> des <orgName key="mwb"
+							>Musikalischen Wochenblatts</orgName> in <placeName key="muenchen"
 							>München</placeName></occupation>
 				</person>
 				<person xml:id="symbol.paragraph">
@@ -3659,8 +3894,8 @@
 					<persName type="index">»§*«</persName>
 					<sex>u</sex>
 					<occupation><term type="critic">Musikkritiker/in</term> der <orgName
-							ref="#neue-preussische-zeitung">Neue Preußische Zeitung</orgName> in
-							<placeName ref="#berlin">Berlin</placeName></occupation>
+							key="neue-preussische-zeitung">Neue Preußische Zeitung</orgName> in
+							<placeName key="berlin">Berlin</placeName></occupation>
 				</person>
 				<person xml:id="marchesi.xxx">
 					<persName>Marchesi</persName>
@@ -3682,9 +3917,9 @@
 					<persName>Friedrich Stetter</persName>
 					<persName type="index">Stetter, Friedrich</persName>
 					<sex>m</sex>
-					<occupation><term type="critic">Musikkritiker/in</term> der <orgName ref="#amz"
+					<occupation><term type="critic">Musikkritiker/in</term> der <orgName key="amz"
 							>Allgemeinen musikalischen Zeitung</orgName> in <placeName
-							ref="#muenchen">München</placeName></occupation>
+							key="muenchen">München</placeName></occupation>
 				</person>
 				<person xml:id="weiss.albert">
 					<!-- ?? GND 11728775X, 1844-1925, Katholischer Theologe -->
@@ -3693,9 +3928,9 @@
 					<persName type="index">Weiss, Albert</persName>
 					<sex>m</sex>
 					<occupation><term type="critic">Musikkritiker</term> in <placeName
-							ref="#koenigsberg">Königsberg</placeName></occupation>
-					<occupation>Korrespondent des <orgName ref="#mwb">Musikalischen
-							Wochenblatts</orgName> in <placeName ref="#breslau"
+							key="koenigsberg">Königsberg</placeName></occupation>
+					<occupation>Korrespondent des <orgName key="mwb">Musikalischen
+							Wochenblatts</orgName> in <placeName key="breslau"
 						>Breslau</placeName></occupation>
 				</person>
 				<!-- AUTOREN / Vorname, Nachname, ID -->
@@ -3733,9 +3968,9 @@
 					<death when-iso="1876"/>
 					<occupation>österreichischer <term type="critic"
 						>Musikhistoriker</term></occupation>
-					<occupation>Korrespondent der <orgName ref="#wiener-abendpost">Wiener
+					<occupation>Korrespondent der <orgName key="wiener-abendpost">Wiener
 							Abendpost</orgName></occupation>
-					<occupation>Korrespondent der <orgName ref="#deutsche-rundschau">Deutschen
+					<occupation>Korrespondent der <orgName key="deutsche-rundschau">Deutschen
 							Rundschau</orgName></occupation>
 					<note type="de.wikipedia.org">August_Wilhelm_Ambros</note>
 					<note type="deutsche-biographie.de">sfz69341</note>
@@ -3762,8 +3997,8 @@
 					<death when-iso="1889"/>
 					<occupation>Komponist, Musikschriftsteller, <term type="critic"
 							>Musikkritiker</term></occupation>
-					<occupation>Korrspondent der <orgName ref="#nzfm">Neuen Zeitschrift für
-							Musik</orgName> in <placeName ref="#leipzig"
+					<occupation>Korrspondent der <orgName key="nzfm">Neuen Zeitschrift für
+							Musik</orgName> in <placeName key="leipzig"
 						>Leipzig</placeName></occupation>
 					<note type="deutsche-biographie.de">sfz2007</note>
 					<note type="www"
@@ -3778,8 +4013,8 @@
 					<occupation>
 						<term type="critic">Musikkritiker</term>
 					</occupation>
-					<occupation>Korrespondent der <orgName ref="#amz">Allgemeinen musikalischen
-							Zeitung</orgName> in <placeName ref="#triest"
+					<occupation>Korrespondent der <orgName key="amz">Allgemeinen musikalischen
+							Zeitung</orgName> in <placeName key="triest"
 						>Triest</placeName></occupation>
 				</person>
 				<person xml:id="bjoernson.bjoernstjerne">
@@ -3803,8 +4038,8 @@
 					<birth when-iso="1813"/>
 					<death when-iso="1888"/>
 					<occupation>französischer <term type="writer">Schriftsteller</term></occupation>
-					<occupation>Korrespondent der <orgName ref="#amz">Allgemeinen musikalischen
-							Zeitung</orgName> in <placeName ref="#paris"
+					<occupation>Korrespondent der <orgName key="amz">Allgemeinen musikalischen
+							Zeitung</orgName> in <placeName key="paris"
 						>Paris</placeName></occupation>
 					<note type="de.wikipedia.org">Ange_Henri_Blaze_de_Bury</note>
 				</person>
@@ -3818,7 +4053,7 @@
 					<death when-iso="1868"/>
 					<occupation>deutscher <term type="critic">Musikjournalist</term> und <term
 							type="writer">Musikwissenschaftler</term></occupation>
-					<occupation>Redakteur der <orgName ref="#nzfm">Neuen Zeitschrift für
+					<occupation>Redakteur der <orgName key="nzfm">Neuen Zeitschrift für
 							Musik</orgName></occupation>
 					<note type="de.wikipedia.org">Franz_Brendel</note>
 				</person>
@@ -3906,9 +4141,9 @@
 					<death when-iso="1905"/>
 					<occupation>Musikbibliothekar und <term type="critic"
 						>Musikschriftsteller</term></occupation>
-					<occupation>1846- <orgName ref="#nzfm">Neue Zeitschrift für
+					<occupation>1846- <orgName key="nzfm">Neue Zeitschrift für
 						Musik</orgName></occupation>
-					<occupation>1865-1881 <orgName ref="#leipziger-nachrichten">Leipziger
+					<occupation>1865-1881 <orgName key="leipziger-nachrichten">Leipziger
 							Nachrichten</orgName></occupation>
 					<occupation>1860- Kustos der Stadtbibliothek Leipzig</occupation>
 					<occupation>1885 Dr. phil. h.c. (Leipzig)</occupation>
@@ -4055,8 +4290,8 @@
 					<death when-iso="1898"/>
 					<occupation>deutscher <term type="writer">Schriftsteller</term> und
 						Komponist</occupation>
-					<occupation>Korrespondent der <orgName ref="#nzfm">Neuen Zeitschrift für
-							Musik</orgName> in <placeName ref="#dresden"
+					<occupation>Korrespondent der <orgName key="nzfm">Neuen Zeitschrift für
+							Musik</orgName> in <placeName key="dresden"
 						>Dresden</placeName></occupation>
 					<occupation>Studium der Philologie, Philosophie und Musik in
 						Leipzig</occupation>
@@ -4066,7 +4301,9 @@
 					<occupation>seit 1874 Redakteur der „Geraischen Zeitung“</occupation>
 					<occupation>seit 1874 Redakteur der „Dresdner Theaterzeitung“</occupation>
 					<note type="de.wikipedia.org">Ferdinand_Gleich</note>
-					<note type="book">DBEM 2003</note>
+					<bibl type="book">
+						<relatedItem target="#dbem"/>
+					</bibl>
 				</person>
 				<person xml:id="goethe.johann-wolfgang-von">
 					<idno type="gnd">118540238</idno>
@@ -4087,7 +4324,7 @@
 					<birth when-iso="1823"/>
 					<death when-iso="1893"/>
 					<occupation><term type="critic">Theaterkritiker</term> in <placeName
-							ref="#bruenn">Brünn</placeName></occupation>
+							key="bruenn">Brünn</placeName></occupation>
 				</person>
 				<person xml:id="gregorivius.ferdinand">
 					<idno type="gnd">118541951</idno>
@@ -4108,11 +4345,11 @@
 					<occupation>
 						<term type="critic">Musikkritiker</term>
 					</occupation>
-					<occupation>Korrespondent des <orgName ref="#mwb">Musikalischen
-							Wochenblatts</orgName> in <placeName ref="#koeln"
+					<occupation>Korrespondent des <orgName key="mwb">Musikalischen
+							Wochenblatts</orgName> in <placeName key="koeln"
 						>Köln</placeName></occupation>
-					<occupation>Korrespondent der <orgName ref="#nbmz">Neuen Berliner
-							Musikzeitung</orgName> in <placeName ref="#koeln"
+					<occupation>Korrespondent der <orgName key="nbmz">Neuen Berliner
+							Musikzeitung</orgName> in <placeName key="koeln"
 						>Köln</placeName></occupation>
 				</person>
 				<person xml:id="gumbert.ferdinand">
@@ -4124,13 +4361,15 @@
 					<death when-iso="1886"/>
 					<occupation>deutscher <term type="critic">Musikkritiker</term></occupation>
 					<occupation>frühzeitig beendete Sängerkarriere</occupation>
-					<occupation>Korrespondent der <orgName ref="#nbmz">Neuen Berliner
-							Musikzeitung</orgName> in <placeName ref="#berlin"
+					<occupation>Korrespondent der <orgName key="nbmz">Neuen Berliner
+							Musikzeitung</orgName> in <placeName key="berlin"
 						>Berlin</placeName></occupation>
 					<note type="deutsche-biographie.de">sfz24643</note>
-					<note type="book">DBEM 2003</note>
-					<note type="book">Linda Maria Koldau: Gumbert, Ferdinand. In: MGG2</note>
-					<note type="book">ADB Band 49, Seite 628</note>
+					<bibl type="book">
+						<relatedItem target="#dbem"/>
+					</bibl>
+					<bibl type="book">Linda Maria Koldau: Gumbert, Ferdinand. In: MGG2</bibl>
+					<bibl type="book">ADB Band 49, Seite 628</bibl>
 					<note type="www"><ref
 							target="http://www.retrobibliothek.de/retrobib/seite.html?id=107415#Gümbel"
 							>Meyers Konversationslexikon 1885-1892</ref></note>
@@ -4278,8 +4517,8 @@
 					<occupation>
 						<term type="critic">Musikkritiker</term>
 					</occupation>
-					<occupation>Korrespondent des <orgName ref="#mwb">Musikalischen
-							Wochenblatts</orgName> in <placeName ref="#leipzig"
+					<occupation>Korrespondent des <orgName key="mwb">Musikalischen
+							Wochenblatts</orgName> in <placeName key="leipzig"
 						>Leipzig</placeName></occupation>
 					<note type="www">http://www.leipziger-biographie.de/e3F</note>
 				</person>
@@ -4293,9 +4532,11 @@
 					<occupation>deutscher <term type="writer">Musikwissenschaftler</term> und <term
 							type="critic">Musikkritiker</term></occupation>
 					<occupation>1875 Promotion in Leipzig</occupation>
-					<occupation>Korrespondent der <orgName ref="#nzfm">Neuen Zeitschrift für
-							Musik</orgName> in <placeName ref="#koeln">Köln</placeName></occupation>
-					<note type="book">DBEM 2003</note>
+					<occupation>Korrespondent der <orgName key="nzfm">Neuen Zeitschrift für
+							Musik</orgName> in <placeName key="koeln">Köln</placeName></occupation>
+					<bibl type="book">
+						<relatedItem target="#dbem"/>
+					</bibl>
 				</person>
 				<person xml:id="koestlin.heinrich-adolf">
 					<idno type="gnd">116301635</idno>
@@ -4307,8 +4548,8 @@
 					<death when-iso="1907"/>
 					<occupation>deutscher <term type="critic">evangelischer
 						Theologe</term></occupation>
-					<occupation>Korrespondent der <orgName ref="#euterpe">Euterpe</orgName> in
-							<placeName ref="#heilbronn">Heilbronn</placeName></occupation>
+					<occupation>Korrespondent der <orgName key="euterpe">Euterpe</orgName> in
+							<placeName key="heilbronn">Heilbronn</placeName></occupation>
 					<occupation><term type="writer">Musikschriftsteller</term> und
 						Kirchenmusiker</occupation>
 					<note type="de.wikipedia.org">Heinrich_Adolf_Köstlin</note>
@@ -4323,8 +4564,8 @@
 					<death when-iso="1916"/>
 					<occupation>Komponist, <term type="critic">Musikkritiker</term>, Pianist,
 						Musiklehrer</occupation>
-					<occupation>Korrespondent der <orgName ref="#amz">Allgemeinen musikalischen
-							Zeitung</orgName> in <placeName ref="#hamburg"
+					<occupation>Korrespondent der <orgName key="amz">Allgemeinen musikalischen
+							Zeitung</orgName> in <placeName key="hamburg"
 						>Hamburg</placeName></occupation>
 				</person>
 				<person xml:id="kretzschmar.hermann">
@@ -4337,8 +4578,8 @@
 					<death when-iso="1924"/>
 					<occupation>deutscher <term type="writer"
 						>Musikschriftsteller</term></occupation>
-					<occupation>Korrespondent des <orgName ref="#mwb">Musikalischen
-							Wochenblatts</orgName> in <placeName ref="#leipzig"
+					<occupation>Korrespondent des <orgName key="mwb">Musikalischen
+							Wochenblatts</orgName> in <placeName key="leipzig"
 						>Leipzig</placeName></occupation>
 					<note type="de.wikipedia.org">Hermann_Kretzschmar</note>
 				</person>
@@ -4351,15 +4592,18 @@
 					<death when-iso="1885"/>
 					<occupation><term type="writer">Musikschriftsteller</term>, <term type="critic"
 							>Kritiker</term>, Publizist</occupation>
-					<occupation>Korrespondent der <orgName ref="#amz">Allgemeinen musikalischen
-							Zeitung</orgName> und der <orgName ref="#nbmz">Neuen Berliner
-							Musikzeitung</orgName>in <placeName ref="#goettingen"
+					<occupation>Korrespondent der <orgName key="amz">Allgemeinen musikalischen
+							Zeitung</orgName> und der <orgName key="nbmz">Neuen Berliner
+							Musikzeitung</orgName>in <placeName key="goettingen"
 							>Göttingen</placeName></occupation>
 					<occupation>1830 Promoton De musicis Graecorum organis circa Pindari
 						tempora</occupation>
 					<occupation>1861 Prof. (Univ. Göttingen)</occupation>
 					<occupation>1876 Gründer der Kirchenmusik-Zeitschrift Siona</occupation>
-					<note type="book">DBEM 2003, Bd. 1, S. 483-84</note>
+					<bibl type="book">
+						<relatedItem target="#dbem"/>
+						<biblScope>Bd. 1, S. 483-84</biblScope>
+					</bibl>
 					<note type="www"
 						>http://www.retrobibliothek.de/retrobib/seite.html?id=109897</note>
 				</person>
@@ -4395,8 +4639,8 @@
 					<death when-iso="1892"/>
 					<occupation>Komponist und <term type="writer">Musikschriftsteller</term>
 					</occupation>
-					<occupation>Korrespondent der <orgName ref="#nbmz">Neuen Berliner
-							Musikzeitung</orgName> in <placeName ref="#berlin"
+					<occupation>Korrespondent der <orgName key="nbmz">Neuen Berliner
+							Musikzeitung</orgName> in <placeName key="berlin"
 						>Berlin</placeName></occupation>
 					<note type="deutsche-biographie.de">sfz48111</note>
 				</person>
@@ -4450,12 +4694,12 @@
 					<occupation>seit 1872 Leitung des Musikunterrichts in der „Kaiserin
 						Augusta-Stiftung zur Erziehung von Töchtern gefallener
 						Offiziere“</occupation>
-					<occupation>Korrespondent der <orgName ref="#nbmz">Neuen Berliner
-							Musikzeitung</orgName> in <placeName ref="#charlottenburg"
+					<occupation>Korrespondent der <orgName key="nbmz">Neuen Berliner
+							Musikzeitung</orgName> in <placeName key="charlottenburg"
 							>Charlottenburg</placeName></occupation>
-					<note type="book">Meyers Konversationslexikon, Autorenkollektiv, Verlag des
-						Bibliographischen Instituts, Leipzig und Wien, Vierte Auflage,
-						1885-1892</note>
+					<bibl type="book">
+						<relatedItem target="#meyers"/>
+					</bibl>
 				</person>
 				<person xml:id="lindgren.adolf">
 					<idno type="viaf">75886655</idno>
@@ -4467,8 +4711,8 @@
 					<occupation>
 						<term type="critic">Musikkritiker</term>
 					</occupation>
-					<occupation>Korrespondent der <orgName ref="#amz">Allgemeinen musikalischen
-							Zeitung</orgName> in <placeName ref="#berlin"
+					<occupation>Korrespondent der <orgName key="amz">Allgemeinen musikalischen
+							Zeitung</orgName> in <placeName key="berlin"
 						>Stockholm</placeName></occupation>
 					<note type="sv.wikipedia.org">Adolf_Lindgren_(musikhistoriker)</note>
 				</person>
@@ -4494,7 +4738,7 @@
 					<death>1908</death>
 					<occupation><date when-iso="1875">1875</date>
 						<term type="critic">Musikkritiker/in</term> des <orgName
-							ref="#illustrirtes-wiener-extrablatt">Illustrirten Wiener
+							key="illustrirtes-wiener-extrablatt">Illustrirten Wiener
 							Extrablattes</orgName></occupation>
 					<occupation>Identifizierung: Gundula Kreuzer</occupation>
 				</person>
@@ -4542,14 +4786,14 @@
 					<death when-iso="1888"/>
 					<occupation>deutscher <term type="composer">Komponist</term>, Kirchenmusiker und
 							<term type="critic">Musikkritiker</term></occupation>
-					<occupation>Korrespondent der <orgName ref="#nbmz">Neuen Berliner
-							Musikzeitung</orgName> in <placeName ref="#dresden"
+					<occupation>Korrespondent der <orgName key="nbmz">Neuen Berliner
+							Musikzeitung</orgName> in <placeName key="dresden"
 						>Dresden</placeName></occupation>
-					<occupation>Korrespondent der <orgName ref="#national-zeitung"
-							>National-Zeitung</orgName> in <placeName ref="#dresden"
+					<occupation>Korrespondent der <orgName key="national-zeitung"
+							>National-Zeitung</orgName> in <placeName key="dresden"
 							>Dresden</placeName></occupation>
-					<occupation>Korrespondent der <orgName ref="#admz">Allgemeinen deutschen
-							Musik-Zeitung</orgName> in <placeName ref="#dresden"
+					<occupation>Korrespondent der <orgName key="admz">Allgemeinen deutschen
+							Musik-Zeitung</orgName> in <placeName key="dresden"
 						>Dresden</placeName></occupation>
 					<note type="de.wikipedia.org">Emil_Naumann</note>
 				</person>
@@ -4572,7 +4816,7 @@
 					<death when-iso="1902"/>
 					<occupation><term type="composer">Komponist</term>, Organist und <term
 							type="critic">Musikkritiker</term></occupation>
-					<occupation>Korrespondent des <orgName ref="#leipziger-tageblatt">Leipziger
+					<occupation>Korrespondent des <orgName key="leipziger-tageblatt">Leipziger
 							Tageblatts</orgName></occupation>
 					<note type="www">http://www.leipziger-biographie.de/pAA</note>
 				</person>
@@ -4608,8 +4852,8 @@
 					<occupation>
 						<term type="writer">Musikjournalist</term>
 					</occupation>
-					<occupation>Korrespondent der <orgName ref="#nbmz">Neuen Berliner
-							Musikzeitung</orgName> in <placeName ref="#mailand"
+					<occupation>Korrespondent der <orgName key="nbmz">Neuen Berliner
+							Musikzeitung</orgName> in <placeName key="mailand"
 						>Mailand</placeName></occupation>
 				</person>
 				<person xml:id="saphir.moritz-gottlieb">
@@ -4654,8 +4898,8 @@
 					<birth when-iso="1825">um 1825</birth>
 					<death/>
 					<occupation><term type="critic">Musikkritiker</term> des <orgName
-							ref="#neues-wiener-tagblatt">Neuen Wiener Tagblatts</orgName> in
-							<placeName ref="#wien">Wien</placeName></occupation>
+							key="neues-wiener-tagblatt">Neuen Wiener Tagblatts</orgName> in
+							<placeName key="wien">Wien</placeName></occupation>
 					<note type="www"
 						>https://de.wikisource.org/wiki/BLK%C3%96:Schlesinger,_Sigmund_(II.)</note>
 				</person>
@@ -4669,8 +4913,8 @@
 					<occupation><term type="writer">Schriftsteller, Literaturwissenschaftler,
 							Kunstwissenschaftler</term>, <term type="critic"
 						>Musikkritiker</term></occupation>
-					<occupation>Korrespondent der <orgName ref="#nzfm">Neuen Zeitschrift für
-							Musik</orgName> in <placeName ref="#koeln">Köln</placeName></occupation>
+					<occupation>Korrespondent der <orgName key="nzfm">Neuen Zeitschrift für
+							Musik</orgName> in <placeName key="koeln">Köln</placeName></occupation>
 				</person>
 				<person xml:id="scribe.eugene">
 					<idno type="gnd">118612425</idno>
@@ -4746,11 +4990,11 @@
 					<death when-iso="1920"/>
 					<occupation>Pianist, Redakteur, Konservatoriumslehrer, <term type="critic"
 							>Musikschriftsteller</term></occupation>
-					<occupation>Korrespondent des <orgName ref="#mwb">Musikalischen
-							Wochenblatts</orgName> in <placeName ref="#bremen"
+					<occupation>Korrespondent des <orgName key="mwb">Musikalischen
+							Wochenblatts</orgName> in <placeName key="bremen"
 						>Bremen</placeName></occupation>
 					<occupation>
-						<placeName ref="#bremen">Bremen</placeName>
+						<placeName key="bremen">Bremen</placeName>
 					</occupation>
 				</person>
 				<person xml:id="speidel.ludwig">
@@ -4762,7 +5006,7 @@
 					<birth>1830</birth>
 					<death>1906</death>
 					<occupation><term type="critic">Musikkritiker</term> des <orgName
-							ref="#fremden-blatt">Fremden-Blattes</orgName> in <placeName ref="#wien"
+							key="fremden-blatt">Fremden-Blattes</orgName> in <placeName key="wien"
 							>Wien</placeName></occupation>
 					<note type="de.wikipedia.org">Ludwig_Speidel</note>
 				</person>
@@ -4776,16 +5020,16 @@
 					<occupation>
 						<term type="critic">Musikschriftsteller</term>
 					</occupation>
-					<occupation>Korrespondent des <orgName ref="#mwb">Musikalischen
-							Wochenblatts</orgName> in <placeName ref="#berlin"
+					<occupation>Korrespondent des <orgName key="mwb">Musikalischen
+							Wochenblatts</orgName> in <placeName key="berlin"
 						>Berlin</placeName></occupation>
 					<occupation>seit 1866 als Musikkritiker in Berlin</occupation>
 					<occupation>1876 Redaktion der „Allgemeinen Deutschen Musikzeitung“</occupation>
-					<note type="book">Brockhaus’ Konversationslexikon, Autorenkollektiv, F. A.
-						Brockhaus in Leipzig, Berlin und Wien, 14. Auflage, 1894-1896</note>
-					<note type="book">Meyers Konversationslexikon, Autorenkollektiv, Verlag des
-						Bibliographischen Instituts, Leipzig und Wien, Vierte Auflage,
-						1885-1892</note>
+					<bibl type="book">Brockhaus’ Konversationslexikon, Autorenkollektiv, F. A.
+						Brockhaus in Leipzig, Berlin und Wien, 14. Auflage, 1894-1896</bibl>
+					<bibl type="book">
+						<relatedItem target="#meyers"/>
+					</bibl>
 				</person>
 				<person xml:id="taylor.isidore">
 					<idno type="gnd">119515466</idno>
@@ -4830,14 +5074,14 @@
 							type="composer">Komponist</term>, <term type="writer"
 							>Musikschriftsteller</term> und <term type="critic"
 						>Musikkritiker</term></occupation>
-					<occupation>Korrespondent der <orgName ref="#nbmz">Neuen Berliner
-							Musikzeitung</orgName> in <placeName ref="#berlin"
+					<occupation>Korrespondent der <orgName key="nbmz">Neuen Berliner
+							Musikzeitung</orgName> in <placeName key="berlin"
 						>Berlin</placeName></occupation>
-					<occupation>Korrespondent des <orgName ref="#berliner-tageblatt">Berliner
+					<occupation>Korrespondent des <orgName key="berliner-tageblatt">Berliner
 							Tageblatts</orgName></occupation>
 					<note type="deutsche-biographie.de">sfz83036</note>
-					<note type="book">Richard Schaal: Truhn, Friedrich Hieronymus, in: MGG, Bd. 13,
-						S. 851ff</note>
+					<bibl type="book">Richard Schaal: Truhn, Friedrich Hieronymus, in: MGG, Bd. 13,
+						S. 851ff</bibl>
 					<note type="de.wikipedia.org">Hieronymus_Truhn</note>
 				</person>
 				<person xml:id="ulibischeff.alexander">
@@ -4923,11 +5167,13 @@
 							type="critic">Musikkritiker</term></occupation>
 					<occupation>1874 Professur in Berlin</occupation>
 					<occupation>1874/75 Redaktion der Neuen Berliner Musikzeitung</occupation>
-					<occupation>Korrespondent der <orgName ref="#national-zeitung"
-							>National-Zeitung</orgName> in <placeName ref="#dresden"
+					<occupation>Korrespondent der <orgName key="national-zeitung"
+							>National-Zeitung</orgName> in <placeName key="dresden"
 							>Dresden</placeName></occupation>
 					<note type="deutsche-biographie.de">sfz86288</note>
-					<note type="book">DBEM 2003</note>
+					<bibl type="book">
+						<relatedItem target="#dbem"/>
+					</bibl>
 				</person>
 				<person xml:id="zopff.hermann">
 					<idno type="gnd">117013544</idno>
@@ -4938,7 +5184,7 @@
 					<death when-iso="1883"/>
 					<occupation>deutscher <term type="composer">Komponist</term> und <term
 							type="critic">Musikkritiker</term></occupation>
-					<occupation>seit 1868 Mitherausgeber der <orgName ref="#nzfm">Neuen Zeitschrift
+					<occupation>seit 1868 Mitherausgeber der <orgName key="nzfm">Neuen Zeitschrift
 							für Musik</orgName></occupation>
 					<note type="de.wikipedia.org">Hermann_Zopff</note>
 				</person>
@@ -5155,7 +5401,7 @@
 					<persName>Luigi</persName>
 					<persName type="index">Luigi</persName>
 					<sex>m</sex>
-					<occupation><term type="other">Diener</term> von <persName ref="#verdi.giuseppe"
+					<occupation><term type="other">Diener</term> von <persName key="verdi.giuseppe"
 							>Giuseppe Verdi</persName></occupation>
 				</person>
 				<person xml:id="anonymus.ein-freund-verdis">
@@ -5177,7 +5423,7 @@
 					<birth when-iso="1787"/>
 					<death when-iso="1867"/>
 					<occupation>italienischer <term type="producer">Unternehmer</term></occupation>
-					<occupation>Förderer <persName ref="#verdi.giuseppe"
+					<occupation>Förderer <persName key="verdi.giuseppe"
 						>Verdis</persName></occupation>
 					<note type="it.wikipedia.org">Antonio_Barezzi</note>
 				</person>
@@ -5211,8 +5457,8 @@
 					<sex>m</sex>
 					<birth when-iso="1770"/>
 					<death when-iso="1833"/>
-					<occupation>Kapellmeister in <placeName ref="#busseto">Busseto</placeName>,
-						früher Lehrer von <persName ref="#verdi.giuseppe">Giuseppe
+					<occupation>Kapellmeister in <placeName key="busseto">Busseto</placeName>,
+						früher Lehrer von <persName key="verdi.giuseppe">Giuseppe
 						Verdi</persName></occupation>
 					<note type="en.wikipedia.org">Ferdinando_Provesi</note>
 				</person>
@@ -5223,7 +5469,7 @@
 					<sex>m</sex>
 					<birth when-iso="1744"/>
 					<death when-iso="1798"/>
-					<occupation>Großvater von <persName ref="#verdi.giuseppe">Giuseppe
+					<occupation>Großvater von <persName key="verdi.giuseppe">Giuseppe
 							Verdi</persName></occupation>
 				</person>
 				<person xml:id="verdi.giuseppa">
@@ -5235,7 +5481,7 @@
 					<occupation>
 						<term type="other"/>
 					</occupation>
-					<occupation>Schwester von <persName ref="#verdi.giuseppe">Giuseppe
+					<occupation>Schwester von <persName key="verdi.giuseppe">Giuseppe
 							Verdi</persName></occupation>
 				</person>
 				<person xml:id="verdi.giuseppina">
@@ -5249,7 +5495,7 @@
 					<death when-iso="1897"/>
 					<occupation>italienische <term type="singer">Sängerin
 						(Sopran)</term></occupation>
-					<occupation>zweite Frau von <persName ref="#verdi.giuseppe">Giuseppe
+					<occupation>zweite Frau von <persName key="verdi.giuseppe">Giuseppe
 							Verdi</persName></occupation>
 				</person>
 				<person xml:id="vigna.cesare">
@@ -5259,7 +5505,7 @@
 					<birth when-iso="1819"/>
 					<death when-iso="1892"/>
 					<occupation>Italienischer <term type="other">Arzt</term></occupation>
-					<occupation>Freund von <persName ref="#verdi.giuseppe">Giuseppe
+					<occupation>Freund von <persName key="verdi.giuseppe">Giuseppe
 						Verdi</persName></occupation>
 				</person>
 			</listPerson>
@@ -5271,7 +5517,7 @@
 					<persName type="index">Lambertini, —</persName>
 					<!-- Emilio/Emidio -->
 					<sex>m</sex>
-					<occupation><term type="producer">Impresario</term> in <placeName ref="#bologna"
+					<occupation><term type="producer">Impresario</term> in <placeName key="bologna"
 							>Bologna</placeName></occupation>
 				</person>
 				<!-- Vorname, Nachname -->
@@ -5280,8 +5526,8 @@
 					<persName type="index">Gallo, Antonio</persName>
 					<sex>m</sex>
 					<occupation><term type="producer">Direktor</term> des <placeName
-							ref="#venedig.teatro-malibran">Malibran-Theaters</placeName> in
-							<placeName ref="#venedig">Venedig</placeName></occupation>
+							key="venedig.teatro-malibran">Malibran-Theaters</placeName> in
+							<placeName key="venedig">Venedig</placeName></occupation>
 				</person>
 				<!-- Vorname, Nachname, ID -->
 				<person xml:id="barbaia.domenico">
@@ -5302,8 +5548,8 @@
 					<sex>m</sex>
 					<birth>1828</birth>
 					<death>1910/11</death>
-					<occupation><term type="artist">Bühnenbildner</term> in <placeName
-							ref="#venedig">Venedig</placeName></occupation>
+					<occupation><term type="artist">Bühnenbildner</term> in <placeName key="venedig"
+							>Venedig</placeName></occupation>
 					<occupation>Nachfolger seines Vaters Giuseppe Bertoja (†1873)</occupation>
 				</person>
 				<person xml:id="hock.wilhelm">
@@ -5364,7 +5610,9 @@
 							>Impresario</term></occupation>
 					<occupation>seit 1874 Direktor des Stadttheaters in Hamburg</occupation>
 					<note type="deutsche-biographie.de">sfz96740</note>
-					<note type="book">Frank Altmann, Tonkünstler-Lexikon 1936</note>
+					<bibl type="book">
+						<relatedItem target="#altmann"/>
+					</bibl>
 				</person>
 				<person xml:id="veron.louis-desire">
 					<idno type="viaf">64128973</idno>
@@ -5381,7 +5629,7 @@
 					<persName>Heinrich Hirsch</persName>
 					<persName type="index">Hirsch, Heinrich</persName>
 					<sex>m</sex>
-					<occupation>Theaterdirektor in <placeName ref="#bruenn"
+					<occupation>Theaterdirektor in <placeName key="bruenn"
 						>Brünn</placeName></occupation>
 				</person>
 			</listPerson>
@@ -5409,7 +5657,7 @@
 					<death when-iso="1921"/>
 					<occupation>deutscher Musiker und <term type="publisher"
 						>Musikverleger</term></occupation>
-					<occupation>Mitbegründer von <orgName ref="#siona">Siona</orgName></occupation>
+					<occupation>Mitbegründer von <orgName key="siona">Siona</orgName></occupation>
 				</person>
 				<person xml:id="hofmeister.friedrich">
 					<idno type="gnd">116952431</idno>
@@ -5474,7 +5722,7 @@
 					<persName>Emilie Freiin von Possinger</persName>
 					<sex>f</sex>
 					<occupation><term type="public">Komitéemitglied</term> in <placeName
-							ref="#bruenn">Brünn</placeName></occupation>
+							key="bruenn">Brünn</placeName></occupation>
 					<occupation>Frau des Statthalters von Mähren</occupation>
 				</person>
 				<person xml:id="herring.amalie">
@@ -5482,28 +5730,28 @@
 					<persName>Amalie Freiin von Herring</persName>
 					<sex>f</sex>
 					<occupation><term type="public">Komitéemitglied</term> in <placeName
-							ref="#bruenn">Brünn</placeName></occupation>
+							key="bruenn">Brünn</placeName></occupation>
 				</person>
 				<person xml:id="serenyi.ernestine">
 					<persName type="index">Serenyi, Ernestine</persName>
 					<persName>Ernestine Gräfin Serenyi</persName>
 					<sex>f</sex>
 					<occupation><term type="public">Komitéemitglied</term> in <placeName
-							ref="#bruenn">Brünn</placeName></occupation>
+							key="bruenn">Brünn</placeName></occupation>
 				</person>
 				<person xml:id="belrupt.marie">
 					<persName type="index">Belrupt, Marie</persName>
 					<persName>Marie Gräfin Belrupt</persName>
 					<sex>f</sex>
 					<occupation><term type="public">Komitéemitglied</term> in <placeName
-							ref="#bruenn">Brünn</placeName></occupation>
+							key="bruenn">Brünn</placeName></occupation>
 				</person>
 				<person xml:id="teuber.adele">
 					<persName type="index">Teuber, Adele von</persName>
 					<persName>Adele von Teuber</persName>
 					<sex>f</sex>
 					<occupation><term type="public">Komitéemitglied</term> in <placeName
-							ref="#bruenn">Brünn</placeName></occupation>
+							key="bruenn">Brünn</placeName></occupation>
 				</person>
 				<!-- Vorname, Nachname, ID -->
 				<person xml:id="albert.sachsen">
@@ -5708,7 +5956,7 @@
 					<persName>Horny</persName>
 					<sex>m</sex>
 					<occupation><term type="public">Regimentskapellmeister</term> in <placeName
-							ref="#bruenn">Brünn</placeName></occupation>
+							key="bruenn">Brünn</placeName></occupation>
 				</person>
 				<person xml:id="karl-ludwig.oesterreich">
 					<idno type="gnd">119523620</idno>
@@ -5719,7 +5967,7 @@
 					<birth when-iso="1833"/>
 					<death when-iso="1896"/>
 					<occupation><term type="public">Erzherzog</term> von Österreich</occupation>
-					<occupation>Bruder von Kaiser <persName ref="#franz-joseph-i.habsburg">Franz
+					<occupation>Bruder von Kaiser <persName key="franz-joseph-i.habsburg">Franz
 							Joseph I.</persName></occupation>
 					<note type="de.wikipedia.org">Karl_Ludwig_von_Österreich</note>
 				</person>
@@ -5832,7 +6080,7 @@
 					<sex>m</sex>
 					<birth>1820</birth>
 					<death>1903</death>
-					<occupation>Landeskommandierender in <placeName ref="#bruenn"
+					<occupation>Landeskommandierender in <placeName key="bruenn"
 						>Brünn</placeName></occupation>
 					<note type="deutsche-biographie.de">sfz95695</note>
 				</person>
@@ -5854,7 +6102,7 @@
 					<persName>Marie Schrötter</persName>
 					<sex>f</sex>
 					<occupation><term type="public">Vorsitzende des Komites des
-							Frauen-Wohlthätigkeitsvereines</term> in <placeName ref="#olmuetz"
+							Frauen-Wohlthätigkeitsvereines</term> in <placeName key="olmuetz"
 							>Olmütz</placeName></occupation>
 				</person>
 				<person xml:id="schubert.xxx">
@@ -5862,13 +6110,13 @@
 					<persName>Schubert</persName>
 					<sex>m</sex>
 					<occupation><term type="public">Regimentskapellmeister</term> in <placeName
-							ref="#bruenn">Brünn</placeName></occupation>
+							key="bruenn">Brünn</placeName></occupation>
 				</person>
 				<person xml:id="slott.xxx">
 					<persName type="index">Slott, — van der</persName>
 					<persName>Oberst van der Slott</persName>
 					<sex>m</sex>
-					<occupation><term type="public">Oberst</term> in <placeName ref="#bruenn"
+					<occupation><term type="public">Oberst</term> in <placeName key="bruenn"
 							>Brünn</placeName></occupation>
 				</person>
 				<person xml:id="vittorio-emanuele-ii.savoyen">
@@ -5895,11 +6143,11 @@
 					<sex>f</sex>
 					<birth when-iso="1837"/>
 					<death when-iso="1930"/>
-					<occupation>Zweite Frau von <persName ref="#wagner.richard">Richard
+					<occupation>Zweite Frau von <persName key="wagner.richard">Richard
 							Wagner</persName></occupation>
-					<occupation>Tochter von <persName ref="#liszt.franz">Franz
+					<occupation>Tochter von <persName key="liszt.franz">Franz
 						Liszt</persName></occupation>
-					<occupation>Frau von <persName ref="#buelow.hans-von">Hans von
+					<occupation>Frau von <persName key="buelow.hans-von">Hans von
 						Bülow</persName></occupation>
 					<note type="it.wikipedia.org">Cosima_Wagner</note>
 				</person>
@@ -5975,8 +6223,8 @@
 					<occupation>
 						<term type="other">Unglücksrabe</term>
 					</occupation>
-					<occupation>Tierfigur bei <persName ref="#busch.wilhelm">Wilhelm
-							Busch</persName></occupation>
+					<occupation>Tierfigur bei <persName key="busch.wilhelm">Wilhelm
+						Busch</persName></occupation>
 				</person>
 				<person xml:id="krumpelmayro.nikolo">
 					<persName>Nikolo Krumpelmayro</persName>
@@ -6004,8 +6252,8 @@
 					<persName type="index">Jainkef Singerlich</persName>
 					<sex>m</sex>
 					<occupation>fiktiver jüdischer <term type="singer">Chorist</term> in der
-							<placeName ref="#wien">wienerischen</placeName> Satirezeitschrift
-							<orgName ref="#der-floh">Der Floh</orgName></occupation>
+							<placeName key="wien">wienerischen</placeName> Satirezeitschrift
+							<orgName key="der-floh">Der Floh</orgName></occupation>
 				</person>
 				<person xml:id="theuerdank">
 					<persName>Ritter Theuerdank</persName>
@@ -6047,7 +6295,7 @@
 					<persName type="index">Mohr, —</persName>
 					<sex>m</sex>
 					<occupation>
-						<term type="other">Mitwirkender</term> in <placeName ref="#karlsruhe"
+						<term type="other">Mitwirkender</term> in <placeName key="karlsruhe"
 							>Karlsruhe</placeName>
 					</occupation>
 				</person>
@@ -6057,11 +6305,13 @@
 					<persName type="index">Lange, Rudolph</persName>
 					<sex>m</sex>
 					<occupation>
-						<term type="other">Hofschauspieler</term> in <placeName ref="#karlsruhe"
+						<term type="other">Hofschauspieler</term> in <placeName key="karlsruhe"
 							>Karlsruhe</placeName>
 					</occupation>
-					<note type="book">Karoline Coßmar und F. Homann: Almanach und Adreßbuch des
-						Großherzoglichen Hoftheaters, Bd. 29. Karlsruhe 1878, S. 6</note>
+					<bibl type="book">
+						<relatedItem target="#cossmar-homann"/>
+						<biblScope unit="page">6</biblScope>
+					</bibl>
 					<note type="www">http://ka.stadtwiki.net/Rudolf_Lange</note>
 				</person>
 				<person xml:id="groesser.wilhelm">
@@ -6069,9 +6319,11 @@
 					<persName type="index">Grösser, Wilhelm</persName>
 					<sex>m</sex>
 					<occupation><term type="other">Schauspieler</term> aus <placeName
-							ref="#karlsruhe">Karlsruhe</placeName></occupation>
-					<note type="book">Karoline Coßmar und F. Homann: Almanach und Adreßbuch des
-						Großherzoglichen Hoftheaters, Bd. 29. Karlsruhe 1878, S. 6</note>
+							key="karlsruhe">Karlsruhe</placeName></occupation>
+					<bibl type="book">
+						<relatedItem target="#cossmar-homann"/>
+						<biblScope unit="page">6</biblScope>
+					</bibl>
 				</person>
 				<person xml:id="klob.friedrich">
 					<persName>Friedrich Klob</persName>
@@ -6087,14 +6339,16 @@
 					<persName type="index">Ruzek, Joseph</persName>
 					<sex>m</sex>
 					<occupation>
-						<term type="other">Mitwirkender</term> in <placeName ref="#karlsruhe"
+						<term type="other">Mitwirkender</term> in <placeName key="karlsruhe"
 							>Karlsruhe</placeName>
 					</occupation>
-					<note type="book">Karoline Coßmar und F. Homann: Almanach und Adreßbuch des
-						Großherzoglichen Hoftheaters, Bd. 29. Karlsruhe 1878, S. 8</note>
+					<bibl type="book">
+						<relatedItem target="#cossmar-homann"/>
+						<biblScope unit="page">8</biblScope>
+					</bibl>
 				</person>
 				<!-- Vorname, Nachname, ID -->
-				<!--<person ref="#pasque.ernst">
+				<!--<person key="pasque.ernst">
 		<id authority="gnd">116051760</id>
 		<name>Ernst Pasqué</name>
 		<name type="index">Pasqué, Ernst</name>
@@ -6123,12 +6377,12 @@
 					<persName>Emilie Sierzputowska</persName>
 					<persName type="index">Sierzputowska, Emilie</persName>
 					<sex>f</sex>
-					<occupation>Befreundet mit <persName ref="#wagner.cosima">Cosima
-							Wagner</persName> und <persName ref="#muchanoff.maria">Maria
+					<occupation>Befreundet mit <persName key="wagner.cosima">Cosima
+							Wagner</persName> und <persName key="muchanoff.maria">Maria
 							Muchanoff</persName></occupation>
-					<note type="book">Cosima Wagner: Die Tagebücher. Band I: 1869-1877, editiert und
+					<bibl type="book">Cosima Wagner: Die Tagebücher. Band I: 1869-1877, editiert und
 						kommentiert von Martin Gregor-Dellin und Dietrich Mack, München und Zürich:
-						Piper, 1996 (2. Auflage), S. 935/936</note>
+						Piper, 1996 (2. Auflage), S. 935/936</bibl>
 					<note type="www">http://www.sejm-wielki.pl/b/psb.29422.5</note>
 				</person>
 				<person xml:id="muchanoff.maria">
@@ -6141,30 +6395,30 @@
 					<birth>1822</birth>
 					<death>1874</death>
 					<occupation>Polische <term type="other">Pianistin</term></occupation>
-					<occupation>Befreundet mit <persName ref="#sierzputowska.emilie">Emilie
+					<occupation>Befreundet mit <persName key="sierzputowska.emilie">Emilie
 							Sierzputowska</persName></occupation>
-					<note type="book">Cosima Wagner: Die Tagebücher. Band I: 1869-1877, editiert und
+					<bibl type="book">Cosima Wagner: Die Tagebücher. Band I: 1869-1877, editiert und
 						kommentiert von Martin Gregor-Dellin und Dietrich Mack, München und Zürich:
-						Piper, 1996 (2. Auflage), S. 935/936</note>
+						Piper, 1996 (2. Auflage), S. 935/936</bibl>
 				</person>
 				<person xml:id="palliardi.josef">
 					<persName>Josef Palliardi</persName>
 					<persName type="index">Palliardi, Josef</persName>
 					<sex>m</sex>
-					<occupation>Buchhändler in <placeName ref="#bruenn"
+					<occupation>Buchhändler in <placeName key="bruenn"
 						>Brünn</placeName></occupation>
 				</person>
 				<person xml:id="spitzer.amalie">
 					<persName>Amalie Spitzer</persName>
 					<persName type="index">Spitzer, Amalie</persName>
 					<sex>f</sex>
-					<occupation>Zugegen in <placeName ref="#bruenn">Brünn</placeName></occupation>
+					<occupation>Zugegen in <placeName key="bruenn">Brünn</placeName></occupation>
 				</person>
 				<person xml:id="winiker.karl">
 					<persName>Karl Winiker</persName>
 					<persName type="index">Winiker, Karl</persName>
 					<sex>m</sex>
-					<occupation>Buchdrucker in <placeName ref="#bruenn"
+					<occupation>Buchdrucker in <placeName key="bruenn"
 						>Brünn</placeName></occupation>
 				</person>
 			</listPerson>
@@ -6183,6 +6437,42 @@
 					<sex>m</sex>
 				</person>
 			</listPerson>
+			<listBibl>
+				<head>Bibliographie</head>
+				<bibl xml:id="ehrlich">
+					<title>Berühmte Sängerinnen der Vergangenheit und Gegenwart</title>
+					<title>Eine Sammlung von 91 Biographien und 90 Porträts</title>
+					<editor>A. Ehrlich</editor>
+					<pubPlace>Leipzig</pubPlace>
+					<publisher>Payne</publisher>
+					<date>1895</date>
+				</bibl>
+				<bibl xml:id="kutsch-riemens">
+					<title>Großes Sängerlexikon</title>
+					<editor>Kutsch/Riemens</editor>
+				</bibl>
+				<bibl xml:id="altmann">
+					<author>Frank Altmann</author>
+					<title>Tonkünstler-Lexikon</title>
+					<date>1936</date>
+				</bibl>
+				<bibl xml:id="dbem">DBEM 2003</bibl>
+				<bibl xml:id="cossmar-homann">
+					<title>Almanach und Adreßbuch des Großherzoglichen Hoftheaters</title>
+					<author>Karoline Coßmar</author>
+					<author>F. Homann</author>
+					<biblScope>Bd. 29</biblScope>
+					<pubPlace>Karlsruhe</pubPlace>
+					<date>1878</date>
+				</bibl>
+				<bibl xml:id="meyers">
+					<title>Meyers Konversationslexikon</title>
+					<pubPlace>Leipzig und Wien</pubPlace>
+					<publisher>Verlag des Bibliographischen Instituts</publisher>
+					<date>1885-1892</date>
+					<edition>vierte Auflage</edition>
+				</bibl>
+			</listBibl>
 		</body>
 	</text>
 </TEI>

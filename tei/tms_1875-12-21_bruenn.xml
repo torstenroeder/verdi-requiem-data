@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="tue" when-iso="1875-12-21"/>
 					<biblScope unit="issue">291</biblScope>
 					<biblScope unit="volume">25</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -41,16 +41,16 @@
 			<head rend="larger">Brünner Chronik.</head>
 			<gap resp="tr"/>
 			<p><g n="256A" type="BOX_DRAWINGS_VERTICAL_SINGLE_AND_HORIZONTAL_DOUBLE">╪</g>
-					(<persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title>.) Nachdem der Musik-Verein sein letztes
+					(<persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title>.) Nachdem der Musik-Verein sein letztes
 				diesjähriges Konzert abgehalten, bildet das Studium des <persName
-					ref="#verdi.giuseppe">Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiems</title> den ausschließlichen Gegenstand der
+					key="verdi.giuseppe">Verdi’schen</persName>
+				<title key="verdi.requiem" type="mus">Requiems</title> den ausschließlichen Gegenstand der
 				Thätigkeit in den betreffenden Kreisen. — Ausgezeichnete Dilettanten haben bereits
 				ihre Mitwirkung zugesagt und Alles spricht dafür, daß sich die <rs
-					ref="#bruenn.1876" type="event">Abende des <date when-iso="1876-01-02">2.</date>
+					key="bruenn.1876" type="event">Abende des <date when-iso="1876-01-02">2.</date>
 					und <date when-iso="1876-01-06">6. Jänner</date></rs> zu den Glanzpunkten des
-				diesjährigen künstlerischen Lebens in <placeName ref="#bruenn">Brünn</placeName>
+				diesjährigen künstlerischen Lebens in <placeName key="bruenn">Brünn</placeName>
 				gestalten werden. Demgemäß ist auch die Nachfrage nach Abonnements-Karten schon
 				jetzt eine außerordentlich lebhafte, und dürften namentlich die Sitze in den ersten
 				sechs Reihen sehr bald vergriffen sein. —</p>

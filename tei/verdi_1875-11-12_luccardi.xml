@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Giuseppe Verdi, Brief an Vincenzo Luccardi, Wien, 12. November 1875</title>
-				<author><persName ref="#verdi.giuseppe"/></author>
+				<author><persName key="verdi.giuseppe"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,7 +13,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<placeName ref="#wien"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-11-12"/>
 				</bibl>
 				<bibl>
@@ -28,7 +28,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<placeName ref="#wien"/>
+				<placeName key="wien"/>
 				<date when-iso="1875-11-12"/>
 			</creation>
 			<textClass>
@@ -44,12 +44,12 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<p>Caro <persName ref="#luccardi.vincenzo">Luccardi</persName>,</p>
-			<p>Da Du es willst, werde ich Dir sagen, daß der Erfolg der <title ref="#verdi.requiem"
+			<p>Caro <persName key="luccardi.vincenzo">Luccardi</persName>,</p>
+			<p>Da Du es willst, werde ich Dir sagen, daß der Erfolg der <title key="verdi.requiem" type="mus"
 					>Messa</title> sehr gut gewesen ist. Aufführung, wie Du ihresgleichen nie wieder
 				hören wirst. Orchester und Chöre wunderbar! Wiederholt das <title
-					ref="#verdi.requiem.2.recordare">Duett der Frauen</title>, das <title
-					ref="#verdi.requiem.3">Offertorio</title> und das <title ref="#verdi.requiem.5"
+					key="verdi.requiem.2.recordare" type="mus">Duett der Frauen</title>, das <title
+					key="verdi.requiem.3" type="mus">Offertorio</title> und das <title key="verdi.requiem.5" type="mus"
 					>Agnus Dei</title>
 				<gap resp="tr"/></p>
 		</body>

@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#salzburger-chronik"/>
-					<placeName ref="#salzburg"/>
+					<orgName key="salzburger-chronik"/>
+					<placeName key="salzburg"/>
 					<date when-custom="tue" when-iso="1876-04-25"/>
 					<biblScope unit="issue">49</biblScope>
 					<biblScope unit="volume">12</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,49 +41,49 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger"><persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title>.</head>
+			<head rend="larger"><persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title>.</head>
 			<p><g n="2550" type="BOX_DRAWINGS_DOUBLE_HORIZONTAL">═</g>
-				<rs ref="#salzburg.1876.1" type="event">Die Aufführung des <persName
-						ref="#verdi.giuseppe">Verdi’schen</persName>
-					<title ref="#verdi.requiem">Requiem</title> fand <date when-iso="1876-04-23"
+				<rs key="salzburg.1876.1" type="event">Die Aufführung des <persName
+						key="verdi.giuseppe">Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> fand <date when-iso="1876-04-23"
 						>Sonntag den 23. April d. J.</date> Abends 7 Uhr in der hiesigen <hi
-						rend="antiqua"><placeName ref="#salzburg.aula-academica">Aula
+						rend="antiqua"><placeName key="salzburg.aula-academica">Aula
 							academica</placeName></hi> statt und war von einem zahlreichen Publikum
 					besucht.</rs> Die Anzahl der im Orchester, das durch die vollständige
 				Regimentskapelle des k. k. 59. Infanterie-Regiments verstärkt war, und beim Gesange
 				Mitwirkenden belief sich über 300. Solisten waren die Damen: Fr. Gräfin <persName
-					ref="#gatterburg.hedwig" role="soloist.mezzo">Hedwig <hi rend="widespace"
+					key="gatterburg.hedwig" role="soloist.mezzo">Hedwig <hi rend="widespace"
 						>Gatterburg</hi></persName> (Mezzo-Sopran), Frl. <persName
-					ref="#voigt.gabriele" role="soloist.soprano">Gabriele <hi rend="widespace"
+					key="voigt.gabriele" role="soloist.soprano">Gabriele <hi rend="widespace"
 						>Voigt</hi></persName> (Sopran), Herr <hi rend="widespace"><persName
-						ref="#huber.franz" role="soloist.tenor">Huber</persName></hi> (Tenor) und
-				Herr <persName ref="#schuegraf.eduard" role="soloist.basso">Ed. <hi rend="widespace"
+						key="huber.franz" role="soloist.tenor">Huber</persName></hi> (Tenor) und
+				Herr <persName key="schuegraf.eduard" role="soloist.basso">Ed. <hi rend="widespace"
 						>Schuegraf</hi></persName>, Concertsänger aus München (Basso).</p>
 			<p>Das Tonwerk selbst ist, wenn auch ungeachtet des streng liturgischen Texts, den es
 				behandelt, kein kirchliches, doch vermöge seiner großartigen Anlage und seinen in
 				der That ergreifenden Instrumental-Effekte von hoher Kunstbedeutung und in seiner
 				Art einzig dastehend.</p>
-			<p>Wenn man bedenkt, daß Maestro <persName ref="#verdi.giuseppe">Verdi</persName> in
+			<p>Wenn man bedenkt, daß Maestro <persName key="verdi.giuseppe">Verdi</persName> in
 				seinem 64. Jahre ein Tonwerk von solcher Frische und üppiger Farbenpracht noch zu
 				schaffen im Stande ist, so muß man über den Reichthum an Phantasie staunen, die dem
 				Meister zu Gebote steht und über die er mit genialer Benützung aller möglichen
 				Klangwirkungen gebietet. Die Aufführung unter der vorzüglichen Leitung des
 				artistischen Direktors <hi rend="antiqua">Dr.</hi>
-				<persName ref="#bach.otto">O. <hi rend="widespace">Bach</hi></persName> war aber
+				<persName key="bach.otto">O. <hi rend="widespace">Bach</hi></persName> war aber
 				auch eine sehr gelungene, sowohl in den Solopartien als in den imposanten Chören.
 				Das Orchester leistete Vorzügliches, und wir erinnern uns nicht häufig eines so
 				gerundeten und wirkungsvollen Ensembles, als wir in dem erwähnten <title
-					ref="#verdi.requiem">Requiem</title> zu hören bekamen. Der Beifall war aber auch
+					key="verdi.requiem" type="mus">Requiem</title> zu hören bekamen. Der Beifall war aber auch
 				nach jedem Abschlusse ein stürmischer und <hi rend="antiqua">Dr.</hi>
-				<persName ref="#bach.otto">Bach</persName> erhielt von zarten Damenhänden für seine
+				<persName key="bach.otto">Bach</persName> erhielt von zarten Damenhänden für seine
 				eminente Direktion einen Lorbeerkranz.</p>
-			<p>Das hiesige Kunstinstitut <hi rend="widespace"><orgName ref="#salzburg.mozarteum"
+			<p>Das hiesige Kunstinstitut <hi rend="widespace"><orgName key="salzburg.mozarteum"
 						>Mozarteum</orgName></hi> hat durch die gelungene Aufführung dieses großen
 				Tonwerkes seinen guten Ruf auf das Neue befestigt und den Beweis geliefert, daß
 				durch gegenseitig freundliches Zusammenwirken aller Kunstkräfte der Stadt, wie es
-				eben bei Aufführung des <persName ref="#verdi.giuseppe">Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiem</title> der Fall war, Außerordentliches
+				eben bei Aufführung des <persName key="verdi.giuseppe">Verdi’schen</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> der Fall war, Außerordentliches
 				geleistet werden kann. Möge der reelle auch dem künstlerischen Erfolge gleich
 				kommen!</p>
 		</body>

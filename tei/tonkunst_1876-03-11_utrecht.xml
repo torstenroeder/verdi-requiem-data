@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tonkunst" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="tonkunst" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-iso="1876-03-11"/>
 					<biblScope unit="issue">7</biblScope>
 					<biblScope unit="volume">1</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#utrecht"/></creation>
+			<creation><placeName key="utrecht"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -44,9 +44,9 @@
 			<gap/>
 			<p><hi rend="bold kanzlei">Concerte.</hi>
 				<pb n="118" type="skipped"/>
-				<rs ref="#utrecht.1876" type="event"><placeName ref="#utrecht">Utrecht</placeName>.
-						<persName ref="#hol.richard">Rich. Hol</persName>, <title
-						ref="#verdi.requiem">Verdi-Messe</title>.</rs></p>
+				<rs key="utrecht.1876" type="event"><placeName key="utrecht">Utrecht</placeName>.
+						<persName key="hol.richard">Rich. Hol</persName>, <title
+						key="verdi.requiem" type="mus">Verdi-Messe</title>.</rs></p>
 		</body>
 	</text>
 </TEI>

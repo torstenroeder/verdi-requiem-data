@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#prager-abendblatt" role="publisher"/>
-					<placeName ref="#prag"/>
+					<orgName key="prager-abendblatt" role="publisher"/>
+					<placeName key="prag"/>
 					<date when-custom="sat" when-iso="1876-01-29"/>
 					<biblScope unit="issue">23</biblScope>
 					<biblScope unit="volume">?</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#prag"/></creation>
+			<creation><placeName key="prag"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -42,13 +42,13 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<p><hi rend="bold"><g n="2042" type="ASTERISM">⁂</g></hi>
-				<rs ref="#prag.1876.2" type="event"><hi rend="bold">Vom <placeName
-							ref="#prag.staendetheater">deutschen Landestheater</placeName>.</hi>
+				<rs key="prag.1876.2" type="event"><hi rend="bold">Vom <placeName
+							key="prag.staendetheater">deutschen Landestheater</placeName>.</hi>
 					<gap resp="tr"/> Morgen will man „Die beiden Waisen“<note resp="tr"
 						type="literatureLink">Vgl. Adolphe d’Ennery und Eugène Cormon, »Les deux
-						orphelines«.</note> und Montag das <persName ref="#verdi.giuseppe"
+						orphelines«.</note> und Montag das <persName key="verdi.giuseppe"
 						>Verdi’sche</persName>
-					<title ref="#verdi.requiem">Requiem</title> wiederholen.</rs>
+					<title key="verdi.requiem" type="mus">Requiem</title> wiederholen.</rs>
 				<gap resp="tr"/></p>
 		</body>
 	</text>

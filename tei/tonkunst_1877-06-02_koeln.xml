@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tonkunst" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="tonkunst" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-iso="1877-06-02"/>
 					<biblScope unit="issue">22</biblScope>
 					<biblScope unit="volume">3</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koeln"/></creation>
+			<creation><placeName key="koeln"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -39,21 +39,21 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb n="349"/>
-			<head rend="bold kanzlei">Die musikalischen Pfingsten in <placeName ref="#koeln"
-					>Cöln</placeName>, <placeName ref="#hannover">Hannover</placeName> und
-					<placeName ref="#london">London</placeName>.</head>
+			<head rend="bold kanzlei">Die musikalischen Pfingsten in <placeName key="koeln"
+					>Cöln</placeName>, <placeName key="hannover">Hannover</placeName> und
+					<placeName key="london">London</placeName>.</head>
 			<p>Pfingsten, das Fest der Freude und des Frühlings, hat an diesen 3 Orten auch der
 				Musik gehuldigt. Zwar eiferte fanatische Mißgunst einstmals, als ich in einem
 				frommen Orte auch so der Kunst meine Verehrung darbringen durfte, und dichtete dem
 				(Ravensburger) Musikfeste alles mögliche Böse an; allein trotzdem wird Pfingsten
 				wohl mehr und mehr eine <hi rend="widespace">musikalische</hi> Zeit werden. <rs
-					ref="#koeln.1877" type="event">In <hi rend="widespace"><placeName ref="#koeln"
+					key="koeln.1877" type="event">In <hi rend="widespace"><placeName key="koeln"
 							>Cöln</placeName></hi> feierte die conservative Schule mit <persName
-						ref="#verdi.giuseppe"><hi rend="widespace">Verdi</hi>’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> dasselbe</rs>, <hi rend="widespace"
-						><placeName ref="#hannover">Hannover</placeName></hi> bot wieder ein reiches
-				Tableau der modernen Leistungen und <hi rend="widespace"><placeName ref="#london"
-						>London</placeName></hi> widmete sich ganz <persName ref="#wagner.richard"
+						key="verdi.giuseppe"><hi rend="widespace">Verdi</hi>’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> dasselbe</rs>, <hi rend="widespace"
+						><placeName key="hannover">Hannover</placeName></hi> bot wieder ein reiches
+				Tableau der modernen Leistungen und <hi rend="widespace"><placeName key="london"
+						>London</placeName></hi> widmete sich ganz <persName key="wagner.richard"
 					>Wagner’s</persName> Muse. <gap/></p>
 		</body>
 	</text>

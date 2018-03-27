@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#signale" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="signale" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date cert="low" notAfter-iso="1876-03-31" notBefore-iso="1876-03-14"
 						when-iso="1876-03-31"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach der Aufführung-->
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#leipzig"/></creation>
+			<creation><placeName key="leipzig"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,15 +45,15 @@
 			<pb break="null" n="372" type="initial"/>
 			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
-				<hi rend="widespace"><placeName ref="#leipzig">Leipzig</placeName></hi>. <gap
+				<hi rend="widespace"><placeName key="leipzig">Leipzig</placeName></hi>. <gap
 					resp="tr"/></p>
-			<p><rs ref="#leipzig.1876.2" type="event"><hi rend="widespace">Eine Wiederholung des
-							<persName ref="#verdi.giuseppe">Verdi’schen</persName>
-						<title ref="#verdi.requiem">Requiems</title></hi> hat, wie wir nachträglich
+			<p><rs key="leipzig.1876.2" type="event"><hi rend="widespace">Eine Wiederholung des
+							<persName key="verdi.giuseppe">Verdi’schen</persName>
+						<title key="verdi.requiem" type="mus">Requiems</title></hi> hat, wie wir nachträglich
 					berichten, am <date when-iso="1876-03-13">13. März</date> im Saale des
-						<placeName ref="#leipzig.gewandhaus">Gewandhauses</placeName> stattgefunden
+						<placeName key="leipzig.gewandhaus">Gewandhauses</placeName> stattgefunden
 					und zwar zum Besten des Orchester-Pensionsfonds und des
-					Orchester-Wittwenfonds.</rs> Der <placeName ref="#leipzig.gewandhaus"
+					Orchester-Wittwenfonds.</rs> Der <placeName key="leipzig.gewandhaus"
 					>Gewandhaussaal</placeName> war merkwürdigerweise nur mäßig gefüllt (trotzdem
 				die Wiederholung auf vielfaches Verlangen erfolgte); aber ganz ersichtlich ist das
 				Werk (welches, wie wir voraussahen, in unserer Localpresse viel Staub aufgewirbelt
@@ -63,20 +63,20 @@
 						>Signale, Leipzig, März 1876</ref>.</note> von der Bedeutsamkeit desselben
 				uns nur bestärkt gesehen haben. Die Ausführung war im Großen und Ganzen etwas
 				weniger gelungen als das erste Mal, sowie sie auch unter etwas veränderten
-				Besetzungsverhältnissen geschah. Fräulein <persName ref="#nanitz.minna"
+				Besetzungsverhältnissen geschah. Fräulein <persName key="nanitz.minna"
 					>Nanitz</persName> nämlich, die Vertreterin der Altpartie, war kurz vor dem
 				Concerttage erkrankt, und da in der Schnelligkeit kein anderer Ersatz zu schaffen
 				war, so unternahm es Frau <hi rend="widespace"><persName
-						ref="#peschka-leutner.minna">Peschka-Leutner</persName></hi> (sie, die
+						key="peschka-leutner.minna">Peschka-Leutner</persName></hi> (sie, die
 				Interpretin der „Königin der Nacht“, der „Constanze“ etc.!) die Partie zu singen und
 				entledigte sich ihrer Aufgabe so vortrefflich, wie es ihr nicht leicht eine andere
 				Sopranistin nachmachen wird. Als Remplaçantin wiederum für Frau <persName
-					ref="#peschka-leutner.minna">Peschka-Leutner</persName> hatte die Sopranpartie
-				Frau <hi rend="widespace"><persName ref="#schuch-proska.clementine"
-						>Schuch-Proska</persName></hi> aus <placeName ref="#dresden"
+					key="peschka-leutner.minna">Peschka-Leutner</persName> hatte die Sopranpartie
+				Frau <hi rend="widespace"><persName key="schuch-proska.clementine"
+						>Schuch-Proska</persName></hi> aus <placeName key="dresden"
 					>Dresden</placeName> inne, welche aber augenscheinlich mit Indisponirtheit zu
 				kämpfen hatte und namentlich das schöne <hi rend="antiqua"><title
-						ref="#verdi.requiem.5">Agnus Dei</title></hi> durch chronisches Detoniren
+						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> durch chronisches Detoniren
 				verdarb.</p>
 		</body>
 	</text>

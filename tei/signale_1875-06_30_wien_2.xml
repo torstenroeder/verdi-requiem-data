@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#signale" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="signale" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date cert="low" notAfter-iso="1875-06-30" notBefore-iso="1875-06-14"
 						when-iso="1875-06-30"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach dem Erscheinen der Quelle-->
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,40 +45,40 @@
 		<body rend="fraktur">
 			<pb n="474"/>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
-				<rs ref="#wien.1875.1" type="event"><hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi> ist in <placeName
-						ref="#wien">Wien</placeName> im <placeName ref="#wien.hof-operntheater"
+				<rs key="wien.1875.1" type="event"><hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> ist in <placeName
+						key="wien">Wien</placeName> im <placeName key="wien.hof-operntheater"
 						>Hofoperntheater</placeName> unter Direction des Componisten mit ganz
 					außerordentlichem Erfolg zur Aufführung gekommen.</rs> Als <persName
-					ref="#verdi.giuseppe">Verdi</persName> an das Dirigentenpult trat, wurde er mit
+					key="verdi.giuseppe">Verdi</persName> an das Dirigentenpult trat, wurde er mit
 				einem Beifall empfangen, dessen gleichen man im Operntheater noch nicht erlebt
 				hatte. Einem so glänzenden Empfang entsprach das gebotene Werk und dessen
-				Ausführung. <persName ref="#verdi.giuseppe">Verdi</persName> hat darin gezeigt, was
+				Ausführung. <persName key="verdi.giuseppe">Verdi</persName> hat darin gezeigt, was
 				er kann: Erfindung und Mache reichen einander die Hände und wirken zu einem
 				bedeutenden Ganzen zusammen, das man von dem Componisten, bevor die „<title
-					ref="#verdi.aida">Aïda</title>“ bekannt war, kaum erwarten konnte. Die
+					key="verdi.aida" type="mus">Aïda</title>“ bekannt war, kaum erwarten konnte. Die
 				Ausführung des Werkes war eine außerordentliche; sie packte die Hörerschaft und ließ
 				sie nicht mehr los. Das brillanteste Orchester der Welt stand dem Componisten zur
 				Verfügung und ein Chor, wie eines solchen kaum ein zweites Opernhaus sich rühmt;
 				dazu kamen vier Solisten, die, ungemein stimmbegabt und gesangskundig, von <persName
-					ref="#verdi.giuseppe">Verdi</persName> vollends auf’s Tiefste in seine
+					key="verdi.giuseppe">Verdi</persName> vollends auf’s Tiefste in seine
 				Intentionen eingeweiht, ihre Partien vorzüglich, zum Theile sogar geradezu
-				unübertrefflich sangen. Fräulein <persName ref="#stolz.teresa">Theresa
+				unübertrefflich sangen. Fräulein <persName key="stolz.teresa">Theresa
 					Stolz</persName>, eine Deutsche, sang die Sopranpartie, Fräulein <persName
-					ref="#waldmann.maria">Waldmann</persName>, gleichfalls eine Deutsche, sang die
-				Mezzosopran-Partie; Tenor und Baß sangen die Herren <persName ref="#masini.angelo"
-					>Masini</persName> und <persName ref="#medini.paolo">Medini</persName>. Fräulein
-					<persName ref="#stolz.teresa">Stolz</persName> ist eine Sängerin ersten Ranges,
-				Fräulein <persName ref="#waldmann.maria">Waldmann</persName> steht nicht weit von
+					key="waldmann.maria">Waldmann</persName>, gleichfalls eine Deutsche, sang die
+				Mezzosopran-Partie; Tenor und Baß sangen die Herren <persName key="masini.angelo"
+					>Masini</persName> und <persName key="medini.paolo">Medini</persName>. Fräulein
+					<persName key="stolz.teresa">Stolz</persName> ist eine Sängerin ersten Ranges,
+				Fräulein <persName key="waldmann.maria">Waldmann</persName> steht nicht weit von
 				ihr ab, eine Stufe tiefer wiederholt sich dieses selbe Verhältniß zwischen den
-				Herren <persName ref="#masini.angelo">Masini</persName> und <persName
-					ref="#medini.paolo">Medini</persName>. Fräulein <persName ref="#stolz.teresa"
-					>Stolz</persName> und Herr <persName ref="#masini.angelo">Masini</persName>
-				machten gradezu Furore. Drei Sätze des <title ref="#verdi.requiem">Requiems</title>
+				Herren <persName key="masini.angelo">Masini</persName> und <persName
+					key="medini.paolo">Medini</persName>. Fräulein <persName key="stolz.teresa"
+					>Stolz</persName> und Herr <persName key="masini.angelo">Masini</persName>
+				machten gradezu Furore. Drei Sätze des <title key="verdi.requiem" type="mus">Requiems</title>
 				mußten wiederholt werden, so bedeutend war der Eindruck, den sie hervorriefen. Nach
 				dem Schluß der Aufführung wurde dem Componisten von Seite des Operntheaters ein
-				Lorbeerkranz überreicht. „Gewiß“, schreibt das „<orgName ref="#fremden-blatt"
+				Lorbeerkranz überreicht. „Gewiß“, schreibt das „<orgName key="fremden-blatt"
 					>Fremdenblatt</orgName>“, „wird man an diesen Verdi-Abend lange zurückdenken.
 				Jenes Soloquartett im Vereine mit den übrigen herrlichen Kräften musiciren zu hören,
 				war ein Genuß, wie er dem Menschen nur an den hohen Festtagen der Kunst bescheert

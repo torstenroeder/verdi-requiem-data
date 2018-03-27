@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="sat" when-iso="1875-11-20"/>
 					<biblScope unit="issue">266</biblScope>
 					<biblScope unit="volume">25</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#bruenn"/></creation>
+			<creation><placeName key="bruenn"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -40,15 +40,15 @@
 			<cb n="[3]c"/>
 			<head rend="larger">Brünner Chronik.</head>
 			<gap resp="tr"/>
-			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<persName ref="#verdi.giuseppe"
+			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title>.) Den Brünnern steht ein besonderer
-				künstlerischer Genuß bevor. <rs ref="#bruenn.1876.1" type="event">Am <date
+				<title key="verdi.requiem" type="mus">Requiem</title>.) Den Brünnern steht ein besonderer
+				künstlerischer Genuß bevor. <rs key="bruenn.1876.1" type="event">Am <date
 						when-iso="1876-01-02">2. Jänner</date> soll uns das <title
-						ref="#verdi.requiem">Requiem</title> von <persName ref="#verdi.giuseppe"
+						key="verdi.requiem" type="mus">Requiem</title> von <persName key="verdi.giuseppe"
 						>Verdi</persName> unter gefälliger Mitwirkung der Frau <persName
-						ref="#gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName>
-					vorgeführt werden.</rs> Frau <persName ref="#gompertz-bettelheim.karoline-von"
+						key="gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName>
+					vorgeführt werden.</rs> Frau <persName key="gompertz-bettelheim.karoline-von"
 					>v. Gomperz</persName> ist stets am Platze, wo es gilt, künstlerische Interessen
 				zu fördern.</p>
 		</body>

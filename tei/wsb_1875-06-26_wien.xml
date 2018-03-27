@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Salonblatt, 26. Juni 1875</title>
-				<author><persName ref="#akronym.jk"/></author>
+				<author><persName key="akronym.jk"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#wiener-salonblatt" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="wiener-salonblatt" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-26"/>
 					<biblScope unit="issue">26</biblScope>
 					<biblScope unit="volume">6</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -46,9 +46,9 @@
 		<body rend="fraktur">
 			<cb break="null" n="9b" type="initial"/>
 			<head rend="bold larger">Wiener Briefe.</head>
-			<p rend="smaller center">(<gap resp="tr"/> Die neue <title ref="#verdi.aida"
-					>„Aïda“</title>. — <hi rend="widespace"><persName ref="#verdi.giuseppe"
-						>Verdi</persName></hi> beim <persName ref="#franz-joseph-i.habsburg"
+			<p rend="smaller center">(<gap resp="tr"/> Die neue <title key="verdi.aida" type="mus"
+					>„Aïda“</title>. — <hi rend="widespace"><persName key="verdi.giuseppe"
+						>Verdi</persName></hi> beim <persName key="franz-joseph-i.habsburg"
 					>Kaiser</persName>. <gap resp="tr"/>)</p>
 			<pb break="null" n="10" type="skipped"/>
 			<p>Doch wenden wir uns nun einem heiteren Thema zu, einem Thema, das wenigstens heiter
@@ -61,30 +61,30 @@
 				eine „rührende“ genannt werden. Wenn nur auch das Publikum den Eifer, mit dem man an
 				den Wiener Kunsttempeln bereits jetzt für seine künftigen Vergnügungen zu sorgen
 				beginnt, anerkennen und lohnen wird! Da muß das <placeName
-					ref="#wien.hof-operntheater">Hofoperntheater<surplus resp="tr"
+					key="wien.hof-operntheater">Hofoperntheater<surplus resp="tr"
 					>n</surplus></placeName> in den Vordergrund gestellt werden, dessen Direction es
 				in wirklich anerkennenswerther Weise noch knapp vor Thorschluß gelungen ist, die
 				lahmgelegte Theaterluft wieder anzufachen und das Publikum in das schöne Haus zu
 				locken, trotzdem das Thermometer 25 und mehr Grade zeigte. Aber, wen würden auch
 				nicht die herrlichen Klänge und Arien <hi rend="widespace"><persName
-						ref="#verdi.giuseppe">Verdi’s</persName></hi> bestricken, wen ließen sie
-				kalt, auf wen übten sie nicht unwiderstehlichen Zauber aus. <rs ref="#wien.1875"
+						key="verdi.giuseppe">Verdi’s</persName></hi> bestricken, wen ließen sie
+				kalt, auf wen übten sie nicht unwiderstehlichen Zauber aus. <rs key="wien.1875"
 					type="event">Wir haben gewissenhaft verzeichnet, welche Triumphe der Meister mit
-					seinem <title ref="#verdi.requiem">„Requiem“</title> geerntet</rs>, und es muß
+					seinem <title key="verdi.requiem" type="mus">„Requiem“</title> geerntet</rs>, und es muß
 				uns daher gestattet sein, der <hi rend="widespace">italienischen</hi> „<title
-					ref="#verdi.aida">Aïda</title>“ in wenigen Worten zu gedenken. <cb break="yes"
+					key="verdi.aida" type="mus">Aïda</title>“ in wenigen Worten zu gedenken. <cb break="yes"
 					n="2" type="skipped"/> Ueber die Aufnahme und den Empfang in <placeName
-					ref="#wien">Wien</placeName> werden sich sowohl <hi rend="widespace"><persName
-						ref="#verdi.giuseppe">Verdi</persName></hi> als auch seine Sänger
+					key="wien">Wien</placeName> werden sich sowohl <hi rend="widespace"><persName
+						key="verdi.giuseppe">Verdi</persName></hi> als auch seine Sänger
 				hoffentlich nicht beklagen. Selbst der <hi rend="widespace"><persName
-						ref="#franz-joseph-i.habsburg">Kaiser</persName></hi>, der fast allen
+						key="franz-joseph-i.habsburg">Kaiser</persName></hi>, der fast allen
 				Verdi-Abenden beiwohnte, erklärte, er habe selten so Herrliches und Schönes gehört.
 				Die Verleihung des Comthurkreuzes des Franz Josefs-Ordens an den Maestro bezeugt
 				gewiß am besten, in wie hohem Grade die jüngsten Werke <persName
-					ref="#verdi.giuseppe">Verdi’s</persName> den Gefallen des Monarchen erregt
+					key="verdi.giuseppe">Verdi’s</persName> den Gefallen des Monarchen erregt
 				haben.</p>
 			<gap resp="tr"/>
-			<p rend="right"><hi rend="antiqua"><persName ref="#akronym.jk">J. K.</persName></hi></p>
+			<p rend="right"><hi rend="antiqua"><persName key="akronym.jk">J. K.</persName></hi></p>
 		</body>
 	</text>
 </TEI>

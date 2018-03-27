@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tagesbote-aus-maehren-und-schlesien" role="publisher"/>
-					<placeName ref="#bruenn"/>
+					<orgName key="tagesbote-aus-maehren-und-schlesien" role="publisher"/>
+					<placeName key="bruenn"/>
 					<date when-custom="fri" when-iso="1876-04-21"/>
 					<biblScope unit="issue">92</biblScope>
 					<biblScope unit="volume">26</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#olmuetz"/></creation>
+			<creation><placeName key="olmuetz"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -40,15 +40,15 @@
 			<pb n="3"/>
 			<head rend="larger">Brünner Chronik.</head>
 			<cb break="null" n="3b" type="skipped"/>
-			<p>(<hi rend="widespace"><persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title></hi>.) <rs ref="#olmuetz.1876"
-					type="event">In <placeName ref="#olmuetz">Olmütz</placeName> wird bekanntlich
-						<persName ref="#verdi.giuseppe">Verdi’s</persName>
-					<title ref="#verdi.requiem">Requiem</title> zur Aufführung vorbereitet.</rs> Wie
-				die „<orgName ref="#neue-zeit">Neue Zeit</orgName>“ meldet, hat Frau <hi
-					rend="widespace"><persName ref="#gompertz-bettelheim.karoline-von"
+			<p>(<hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title></hi>.) <rs key="olmuetz.1876"
+					type="event">In <placeName key="olmuetz">Olmütz</placeName> wird bekanntlich
+						<persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> zur Aufführung vorbereitet.</rs> Wie
+				die „<orgName key="neue-zeit">Neue Zeit</orgName>“ meldet, hat Frau <hi
+					rend="widespace"><persName key="gompertz-bettelheim.karoline-von"
 						>Gomperz-Bettelheim</persName></hi> die Absicht, zu der Aufführung dieses
-				Tonwerkes nach <placeName ref="#olmuetz">Olmütz</placeName> zu kommen.</p>
+				Tonwerkes nach <placeName key="olmuetz">Olmütz</placeName> zu kommen.</p>
 		</body>
 	</text>
 </TEI>

@@ -28,7 +28,7 @@
 	<text xml:lang="de">
 		<body>
 			<head>Periodika</head>
-			<listBibl>
+			<listBibl type="periodicals">
 				<head>Deutschsprachige Musikzeitschriften</head>
 				<bibl type="periodical.music" xml:id="admz">
 					<idno type="zdb">505313-4</idno>
@@ -41,7 +41,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1874" to="1884"/>
-						<placeName ref="#charlottenburg"><note>zuerst: Leipzig und
+						<placeName key="charlottenburg"><note>zuerst: Leipzig und
 							Kassel</note></placeName>
 					</publisher>
 					<note type="frequency">wöchentlich (jeden Freitag)</note>
@@ -63,8 +63,8 @@
 						<date from="1798" to="1848"/>
 						<date from="1863" to="1865"/>
 						<date from="1869" to="1882"/>
-						<placeName ref="#leipzig"/>
-						<placeName ref="#winterthur"/>
+						<placeName key="leipzig"/>
+						<placeName key="winterthur"/>
 					</publisher>
 					<note type="frequency">wöchentlich (jeden Mittwoch)</note>
 					<note type="pagination">durchlaufend nach Spalten</note>
@@ -80,7 +80,7 @@
 					<publisher>
 						<name>Schlesinger</name>
 						<date from="1851" to="1879"/>
-						<placeName ref="#berlin"/>
+						<placeName key="berlin"/>
 					</publisher>
 					<bibl type="de.wikisource.org"
 						>Die_Musikalischen_Zeitschriften_seit_ihrer_Entstehung_bis_zur_Gegenwart</bibl>
@@ -95,7 +95,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1824" to="1848"/>
-						<placeName ref="#mainz"/>
+						<placeName key="mainz"/>
 					</publisher>
 				</bibl>
 				<bibl type="periodical.music" xml:id="dmz">
@@ -107,7 +107,7 @@
 					<publisher>
 						<name>Steyrermühl</name>
 						<date from="1874" to="1902"/>
-						<placeName ref="#wien"/>
+						<placeName key="wien"/>
 					</publisher>
 					<bibl type="de.wikipedia.org">Deutsche_Musik-Zeitung</bibl>
 					<bibl type="anno.onb.ac.at">dmz</bibl>
@@ -123,7 +123,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1841" to="1884"/>
-						<placeName ref="#leipzig"/>
+						<placeName key="leipzig"/>
 					</publisher>
 					<note type="frequency">monatlich</note>
 					<note type="pagination">durchlaufend</note>
@@ -140,7 +140,7 @@
 					<publisher>
 						<name>Pustet</name>
 						<date from="1866" to="1899"/>
-						<placeName ref="#regensburg"/>
+						<placeName key="regensburg"/>
 					</publisher>
 				</bibl>
 				<bibl type="periodical.music" xml:id="mfmg">
@@ -151,12 +151,12 @@
 					<publisher>
 						<name>Trautwein / Bahn / Liepmannssohn</name>
 						<date from="1869" to="1883"/>
-						<placeName ref="#berlin"/>
+						<placeName key="berlin"/>
 					</publisher>
 					<publisher>
 						<name>Breitkopf &amp; Härtel</name>
 						<date from="1884" to="1905"/>
-						<placeName ref="#leipzig"/>
+						<placeName key="leipzig"/>
 					</publisher>
 					<bibl type="de.wikisource.org">Monatshefte_für_Musik-Geschichte</bibl>
 				</bibl>
@@ -169,8 +169,8 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1829" to="1947"/>
-						<placeName ref="#leipzig"/>
-						<persName ref="#hofmeister.friedrich" role="editor"/>
+						<placeName key="leipzig"/>
+						<persName key="hofmeister.friedrich" role="editor"/>
 					</publisher>
 					<ref target="http://www.onb.ac.at/sammlungen/musik/16615.htm">ÖNB</ref>
 					<ref target="http://www.hofmeister.rhul.ac.uk">Hofmeister XIX</ref>
@@ -185,7 +185,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1868" to="1928"/>
-						<placeName ref="#regensburg"/>
+						<placeName key="regensburg"/>
 					</publisher>
 					<bibl type="de.wikipedia.org">Musica_sacra_(Zeitschrift)</bibl>
 					<bibl type="opacplus.bsb-muenchen.de">869859912</bibl>
@@ -200,7 +200,7 @@
 					<publisher>
 						<name>Ernst Wilhelm Fritzsch</name>
 						<date from="1870" to="1902"/>
-						<placeName ref="#leipzig"/>
+						<placeName key="leipzig"/>
 					</publisher>
 					<publisher>
 						<name>Siegel</name>
@@ -216,8 +216,8 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1846" to="1896"/>
-						<placeName ref="#berlin"/>
-						<persName ref="#bock.gustav" role="editor"/>
+						<placeName key="berlin"/>
+						<persName key="bock.gustav" role="editor"/>
 					</publisher>
 					<bibl type="de.wikisource.org">Neue_Berliner_Musikzeitung</bibl>
 				</bibl>
@@ -234,7 +234,7 @@
 						<name>C. F. Kahnt</name>
 						<note>zuerst bei wechselnden Verlegern</note>
 						<date from="1834" to="1920"/>
-						<placeName ref="#leipzig"/>
+						<placeName key="leipzig"/>
 					</publisher>
 					<note type="pagination">durchlaufend</note>
 					<bibl type="de.wikipedia.org">Neue_Zeitschrift_für_Musik</bibl>
@@ -249,11 +249,11 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1842" to="1941"/>
-						<placeName ref="#leipzig"/>
-						<placeName ref="#berlin"/>
-						<persName ref="#unidentified" role="editor">Barthold Senff</persName>
-						<persName ref="#buelow.hans-von" role="co-editor">Hans von Bülow</persName>
-						<persName ref="#porges.heinrich" role="co-editor">Heinrich Porges</persName>
+						<placeName key="leipzig"/>
+						<placeName key="berlin"/>
+						<persName key="unidentified" role="editor">Barthold Senff</persName>
+						<persName key="buelow.hans-von" role="co-editor">Hans von Bülow</persName>
+						<persName key="porges.heinrich" role="co-editor">Heinrich Porges</persName>
 					</publisher>
 					<note type="frequency">wöchentlich</note>
 					<note type="pagination">durchlaufend</note>
@@ -269,9 +269,9 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1876" to="1920"/>
-						<placeName ref="#guetersloh"/>
-						<persName ref="#herold.max" role="editor"/>
-						<persName ref="#krueger.eduard" role="editor"/>
+						<placeName key="guetersloh"/>
+						<persName key="herold.max" role="editor"/>
+						<persName key="krueger.eduard" role="editor"/>
 					</publisher>
 				</bibl>
 				<bibl type="periodical.music" xml:id="tonkunst">
@@ -282,8 +282,8 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1876" to="1886"/>
-						<placeName ref="#berlin"/>
-						<placeName ref="#koenigsberg"/>
+						<placeName key="berlin"/>
+						<placeName key="koenigsberg"/>
 					</publisher>
 					<note type="pagination">durchlaufend</note>
 				</bibl>
@@ -298,7 +298,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1849" to="1888"/>
-							<placeName ref="#aachen"/>
+							<placeName key="aachen"/>
 						</publisher>
 					</bibl>
 					<bibl type="journal" xml:id="allgemeine-zeitung">
@@ -310,15 +310,15 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1798" to="1803"/>
-							<placeName ref="#unidentified">Tübingen</placeName>
+							<placeName key="unidentified">Tübingen</placeName>
 						</publisher>
 						<publisher>
 							<date from="1807" to="1882"/>
-							<placeName ref="#augsburg"/>
+							<placeName key="augsburg"/>
 						</publisher>
 						<publisher>
 							<date from="1882" to="1925"/>
-							<placeName ref="#muenchen"/>
+							<placeName key="muenchen"/>
 						</publisher>
 						<note type="pagination">durchlaufend</note>
 						<bibl type="opacplus.bsb-muenchen.de">869859785</bibl>
@@ -330,7 +330,7 @@
 						<publisher>
 							<date from="1850" to="1855"/>
 							<date from="1864" to="1938"/>
-							<placeName ref="#altona"/>
+							<placeName key="altona"/>
 						</publisher>
 						<bibl type="theeuropeanlibrary.org">3000096105067</bibl>
 					</bibl>
@@ -342,7 +342,7 @@
 						<publisher>
 							<date from="1857" to="1893"/>
 							<date from="1922" to="1934"/>
-							<placeName ref="#muenchen"/>
+							<placeName key="muenchen"/>
 						</publisher>
 					</bibl>
 					<bibl type="journal" xml:id="berliner-boersen-zeitung">
@@ -356,7 +356,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1837" to="1901"/>
-							<placeName ref="#berlin"/>
+							<placeName key="berlin"/>
 						</publisher>
 						<note>gesichtet: April 1876</note>
 					</bibl>
@@ -366,7 +366,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1872" to="1939"/>
-							<placeName ref="#berlin"/>
+							<placeName key="berlin"/>
 						</publisher>
 						<note>gesichtet: April 1876</note>
 						<bibl type="theeuropeanlibrary.org">3000096302605</bibl>
@@ -378,7 +378,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1861" to="1935"/>
-							<placeName ref="#coburg"/>
+							<placeName key="coburg"/>
 						</publisher>
 						<note type="pagination">durchlaufend</note>
 						<ref
@@ -393,7 +393,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1874" to="1964"/>
-							<placeName ref="#berlin"/>
+							<placeName key="berlin"/>
 						</publisher>
 						<bibl type="de.wikipedia.org">Deutsche_Rundschau</bibl>
 						<bibl type="de.wikisource.org">Deutsche_Rundschau</bibl>
@@ -404,7 +404,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1856" to="1943"/>
-							<placeName ref="#dresden"/>
+							<placeName key="dresden"/>
 						</publisher>
 						<note>gesichtet: Februar 1876</note>
 						<note type="pagination">einzeln</note>
@@ -416,7 +416,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1850" to="1935"/>
-							<placeName ref="#aachen"/>
+							<placeName key="aachen"/>
 						</publisher>
 						<note type="pagination">unpaginiert</note>
 						<ref
@@ -429,7 +429,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1849" to="1939"/>
-							<placeName ref="#hamburg"/>
+							<placeName key="hamburg"/>
 						</publisher>
 						<bibl type="theeuropeanlibrary.org">3000117588286</bibl>
 					</bibl>
@@ -439,7 +439,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1870" to="1894"/>
-							<placeName ref="#karlsruhe"/>
+							<placeName key="karlsruhe"/>
 						</publisher>
 						<note>gesichtet: April 1878</note>
 						<note type="pagination">durchlaufend</note>
@@ -450,7 +450,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1869" to="1887"/>
-							<placeName ref="#koeln"/>
+							<placeName key="koeln"/>
 						</publisher>
 						<note>gesichtet: Dezember 1875</note>
 					</bibl>
@@ -460,7 +460,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1802" to="1945"/>
-							<placeName ref="#koeln"/>
+							<placeName key="koeln"/>
 						</publisher>
 					</bibl>
 					<bibl type="journal" xml:id="koeniglich-privilegirte-berlinische-zeitung">
@@ -472,7 +472,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1785" to="1911"/>
-							<placeName ref="#berlin"/>
+							<placeName key="berlin"/>
 						</publisher>
 						<note>gesichtet: April 1876</note>
 						<bibl type="opacplus.bsb-muenchen.de">225102298</bibl>
@@ -484,7 +484,7 @@
 						<publisher>
 							<date from="1870" to="1892"><note>ZDB: ab 1878
 								„nachgewiesen“</note></date>
-							<placeName ref="#leipzig"/>
+							<placeName key="leipzig"/>
 						</publisher>
 					</bibl>
 					<bibl type="journal" xml:id="leipziger-tageblatt">
@@ -493,7 +493,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1833" to="1905"/>
-							<placeName ref="#leipzig"/>
+							<placeName key="leipzig"/>
 						</publisher>
 					</bibl>
 					<bibl type="journal" xml:id="mecklenburgische-zeitung">
@@ -503,7 +503,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1848" to="1943"/>
-							<placeName ref="#schwerin"/>
+							<placeName key="schwerin"/>
 						</publisher>
 					</bibl>
 					<bibl type="journal" xml:id="muenchener-nachrichten">
@@ -512,7 +512,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1874" to="1876"/>
-							<placeName ref="#muenchen"/>
+							<placeName key="muenchen"/>
 						</publisher>
 					</bibl>
 					<bibl type="journal" xml:id="national-zeitung">
@@ -522,7 +522,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1848" to="1938"><note>ZDB: 1849</note></date>
-							<placeName ref="#berlin"/>
+							<placeName key="berlin"/>
 						</publisher>
 						<note>gesichtet: April 1876</note>
 						<bibl type="de.wikipedia.org">National-Zeitung_(19._Jahrhundert)</bibl>
@@ -535,7 +535,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1848" to="1929"/>
-							<placeName ref="#berlin"/>
+							<placeName key="berlin"/>
 						</publisher>
 						<note>gesichtet: April 1876</note>
 					</bibl>
@@ -546,7 +546,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1875" to="1877"/>
-							<placeName ref="#berlin"/>
+							<placeName key="berlin"/>
 						</publisher>
 						<note>gesichtet: April 1876</note>
 						<note type="pagination">einzeln</note>
@@ -558,7 +558,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1875" to="1881"/>
-							<placeName ref="#muenchen"/>
+							<placeName key="muenchen"/>
 						</publisher>
 					</bibl>
 					<bibl type="journal" xml:id="norddeutsche-allgemeine-zeitung">
@@ -568,7 +568,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1861" to="1918"/>
-							<placeName ref="#berlin"/>
+							<placeName key="berlin"/>
 						</publisher>
 						<note>gesichtet: April 1876</note>
 					</bibl>
@@ -579,7 +579,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1799" to="1924"/>
-							<placeName ref="#koenigsberg"/>
+							<placeName key="koenigsberg"/>
 						</publisher>
 						<note>gesichtet: Mai 1876</note>
 					</bibl>
@@ -592,7 +592,7 @@
 							<date from="1870" to="1871">
 								<note>nachweisbare Jahrgänge</note>
 							</date>
-							<placeName ref="#wiesbaden"/>
+							<placeName key="wiesbaden"/>
 						</publisher>
 					</bibl>
 					<bibl type="journal" xml:id="schlesische-volkszeitung">
@@ -603,7 +603,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1871" to="1944"/>
-							<placeName ref="#breslau"/>
+							<placeName key="breslau"/>
 						</publisher>
 						<note>gesichtet: Mai 1876</note>
 					</bibl>
@@ -614,7 +614,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1873" to="1920"/>
-							<placeName ref="#danzig"/>
+							<placeName key="danzig"/>
 						</publisher>
 						<note>gesichtet: April 1876</note>
 					</bibl>
@@ -626,7 +626,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1863" to="1903"><note>1903(?)</note></date>
-							<placeName ref="#hamburg"/>
+							<placeName key="hamburg"/>
 						</publisher>
 					</bibl>
 				</listBibl>
@@ -651,7 +651,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1871" to="1907"/>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
 						<note type="pagination">einzeln</note>
 						<note>Einordnung nach Paupié: nationalliberal (S. 157f)</note>
@@ -665,7 +665,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1848" to="1896"/>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
 						<note type="pagination">einzeln</note>
 						<note>Einordnung nach Paupié: rechtsliberal (S. 135–138)</note>
@@ -680,7 +680,7 @@
 						<publisher>
 							<name>Elbemühl</name>
 							<date from="1847" to="1919"><note>falsch in ZDB: 1846</note></date>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
 						<note>teils einzeln paginiert, teils unpaginiert</note>
 						<note>Einordnung nach Paupié: liberal</note>
@@ -692,7 +692,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1868" to="1939"/>
-							<placeName ref="#graz"/>
+							<placeName key="graz"/>
 							<note>wechselnde Verleger</note>
 						</publisher>
 						<note>unpaginiert</note>
@@ -705,7 +705,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1854" to="1886"/>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
 						<note type="pagination">unpaginiert</note>
 						<note>Einordnung nach Paupié: deutschdemokratisch (S. 140–142)</note>
@@ -720,7 +720,7 @@
 						<publisher>
 							<date from="1864" to="1939"/>
 							<note>falsch in ZDB: 1938</note>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
 						<note type="frequency">zweimal täglich</note>
 						<note type="pagination">einzeln paginiert</note>
@@ -734,7 +734,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1865" to="1876"/>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
 						<note type="pagination">einzeln paginiert</note>
 						<bibl type="anno.onb.ac.at">nfb</bibl>
@@ -745,7 +745,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1867" to="1945"/>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
 						<note>Einordnung nach Paupié: demokratisch</note>
 						<bibl type="anno.onb.ac.at">nwg</bibl>
@@ -761,7 +761,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1874" to="1876"/>
-							<placeName ref="#pilsen"/>
+							<placeName key="pilsen"/>
 						</publisher>
 						<bibl type="anno.onb.ac.at">pfb</bibl>
 					</bibl>
@@ -771,7 +771,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1867" to="1918"/>
-							<placeName ref="#prag"/>
+							<placeName key="prag"/>
 						</publisher>
 						<note type="pagination">unpaginiert</note>
 						<bibl type="anno.onb.ac.at">pab</bibl>
@@ -782,7 +782,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1873" to="1938"/>
-							<placeName ref="#salzburg"/>
+							<placeName key="salzburg"/>
 						</publisher>
 						<note>unpaginiert</note>
 						<bibl type="anno.onb.ac.at">sch</bibl>
@@ -794,7 +794,7 @@
 						<publisher>
 							<date from="1871" to="1880"/>
 							<note>nachweisbare Jahrgänge</note>
-							<placeName ref="#salzburg"/>
+							<placeName key="salzburg"/>
 						</publisher>
 						<note type="pagination">unpaginiert</note>
 						<bibl type="anno.onb.ac.at">svb</bibl>
@@ -806,7 +806,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1873" to="1921"/>
-							<placeName ref="#bruenn"/>
+							<placeName key="bruenn"/>
 						</publisher>
 						<note type="pagination">unpaginiert</note>
 					</bibl>
@@ -822,9 +822,9 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1863" to="1921"/>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
-						<note>Beilage zur <orgName ref="#wiener-zeitung">Wiener
+						<note>Beilage zur <orgName key="wiener-zeitung">Wiener
 							Zeitung</orgName></note>
 						<note type="pagination">durchlaufend mit der Wiener Zeitung, ab 1875
 							separat</note>
@@ -837,7 +837,7 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1863" to="1936"/>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
 						<note type="frequency">wöchentlich</note>
 						<note type="pagination">unpaginiert</note>
@@ -851,10 +851,10 @@
 						<lang>Deutsch</lang>
 						<publisher>
 							<date from="1703"/>
-							<placeName ref="#wien"/>
+							<placeName key="wien"/>
 						</publisher>
-						<note>enthält die <orgName ref="#wiener-abendpost">Wiener
-								Abendpost</orgName></note>
+						<note>enthält die <orgName key="wiener-abendpost">Wiener
+							Abendpost</orgName></note>
 						<note type="pagination">unpaginiert</note>
 						<bibl type="de.wikipedia.org">Wiener_Zeitung</bibl>
 						<bibl type="anno.onb.ac.at">wrz</bibl>
@@ -868,7 +868,7 @@
 						<publisher>
 							<name>Moosberger</name>
 							<date from="1874" to="1997"/>
-							<placeName ref="#st-gallen"/>
+							<placeName key="st-gallen"/>
 						</publisher>
 						<ref target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/">Schweizer
 							Presse Online</ref>
@@ -890,7 +890,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1869" to="1919"/>
-						<placeName ref="#wien"/>
+						<placeName key="wien"/>
 					</publisher>
 					<note type="frequency">wöchentlich</note>
 					<bibl type="anno.onb.ac.at">flo</bibl>
@@ -900,11 +900,11 @@
 					<name>Der Ulk</name>
 					<name type="index">Der Ulk [Berlin]</name>
 					<lang>Deutsch</lang>
-					<note>Beilage zum <orgName ref="#berliner-tageblatt">Berliner
-							Tageblatt</orgName> und zur Berliner Volkszeitung</note>
+					<note>Beilage zum <orgName key="berliner-tageblatt">Berliner Tageblatt</orgName>
+						und zur Berliner Volkszeitung</note>
 					<publisher>
 						<date from="1873" to="1933"/>
-						<placeName ref="#berlin"/>
+						<placeName key="berlin"/>
 					</publisher>
 					<note>gesichtet: 1. JH 1876</note>
 					<bibl type="de.wikipedia.org">Ulk</bibl>
@@ -918,7 +918,7 @@
 					<lang>Deutsch</lang>
 					<note>
 						<date from="1871" to="1925"/>
-						<placeName ref="#wien"/>
+						<placeName key="wien"/>
 					</note>
 					<note type="frequency">wöchentlich</note>
 					<bibl type="anno.onb.ac.at">bom</bibl>
@@ -930,7 +930,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1857" to="1919"/>
-						<placeName ref="#wien"/>
+						<placeName key="wien"/>
 					</publisher>
 					<note type="frequency">wöchentlich</note>
 					<bibl type="anno.onb.ac.at">fig</bibl>
@@ -942,7 +942,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1845" to="1944"/>
-						<placeName ref="#muenchen"/>
+						<placeName key="muenchen"/>
 					</publisher>
 					<bibl type="de.wikipedia.org">Fliegende_Blätter</bibl>
 					<ref target="http://diglit.ub.uni-heidelberg.de/diglit/fb65">UB Heidelberg</ref>
@@ -954,11 +954,11 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1843" to="1944"/>
-						<placeName ref="#leipzig"/>
-						<placeName ref="#berlin"/>
-						<placeName ref="#wien"/>
-						<placeName ref="#pest"/>
-						<placeName ref="#new-york"/>
+						<placeName key="leipzig"/>
+						<placeName key="berlin"/>
+						<placeName key="wien"/>
+						<placeName key="pest"/>
+						<placeName key="new-york"/>
 					</publisher>
 				</bibl>
 				<bibl type="periodical.illustrated" xml:id="illustrirtes-wiener-extrablatt">
@@ -967,7 +967,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1872" to="1928"/>
-						<placeName ref="#wien"/>
+						<placeName key="wien"/>
 					</publisher>
 					<bibl type="anno.onb.ac.at">iwe</bibl>
 				</bibl>
@@ -978,7 +978,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1861" to="1933"/>
-						<placeName ref="#wien"/>
+						<placeName key="wien"/>
 					</publisher>
 					<note type="frequency">wöchentlich</note>
 					<bibl type="anno.onb.ac.at">kik</bibl>
@@ -991,7 +991,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1858" to="1922"/>
-						<placeName ref="#stuttgart"/>
+						<placeName key="stuttgart"/>
 					</publisher>
 					<ref target="https://archive.org/stream/bub_gb_UfoN3WjRcJkC#page/n6/mode/1up"
 						>archive.org (Bd. 33)</ref>
@@ -1002,7 +1002,7 @@
 					<lang>Deutsch</lang>
 					<publisher>
 						<date from="1870" to="1938"/>
-						<placeName ref="#wien"/>
+						<placeName key="wien"/>
 					</publisher>
 					<note type="frequency">wöchentlich, ab 1919 14-tägig</note>
 					<bibl type="anno.onb.ac.at">wsb</bibl>
@@ -1015,7 +1015,7 @@
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1869" to="1874"/>
-						<placeName ref="#mailand"/>
+						<placeName key="mailand"/>
 					</publisher>
 					<bibl type="it.wikipedia.org">Emilio_Treves</bibl>
 				</bibl>
@@ -1024,7 +1024,7 @@
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1799" to="1945"/>
-						<placeName ref="#venedig"/>
+						<placeName key="venedig"/>
 					</publisher>
 					<bibl type="it.wikipedia.org">Gazzetta_di_Venezia</bibl>
 				</bibl>
@@ -1033,7 +1033,7 @@
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1842" to="1902"/>
-						<placeName ref="#mailand"/>
+						<placeName key="mailand"/>
 					</publisher>
 				</bibl>
 				<bibl type="periodical.music" xml:id="il-mondo-artistico">
@@ -1042,7 +1042,7 @@
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1867" to="1914"/>
-						<placeName ref="#mailand"/>
+						<placeName key="mailand"/>
 					</publisher>
 				</bibl>
 				<bibl type="journal" xml:id="il-secolo">
@@ -1051,7 +1051,7 @@
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1866" to="1927"/>
-						<placeName ref="#mailand"/>
+						<placeName key="mailand"/>
 					</publisher>
 					<bibl type="it.wikipedia.org">Il_Secolo_(quotidiano)</bibl>
 				</bibl>
@@ -1060,7 +1060,7 @@
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1846" to="1900"/>
-						<placeName ref="#unidentified">Turin</placeName>
+						<placeName key="unidentified">Turin</placeName>
 					</publisher>
 					<bibl type="it.wikipedia.org">L'Opinione_(quotidiano)</bibl>
 				</bibl>
@@ -1068,14 +1068,14 @@
 					<name type="index">La Lombardia [Mailand]</name>
 					<lang>Italienisch</lang>
 					<publisher>
-						<placeName ref="#mailand"/>
+						<placeName key="mailand"/>
 					</publisher>
 				</bibl>
 				<bibl type="periodical.music" xml:id="la-palestra-musicale">
 					<name type="index">La palestra musicale [Rom]</name>
 					<lang>Italienisch</lang>
 					<publisher>
-						<placeName ref="#rom"/>
+						<placeName key="rom"/>
 					</publisher>
 				</bibl>
 				<bibl type="periodical" xml:id="la-perseveranza">
@@ -1084,7 +1084,7 @@
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1859" to="1922"/>
-						<placeName ref="#mailand"/>
+						<placeName key="mailand"/>
 					</publisher>
 				</bibl>
 				<bibl type="periodical" xml:id="l-osservatore-cattolico">
@@ -1093,7 +1093,7 @@
 					<lang>Italienisch</lang>
 					<publisher>
 						<date from="1864" to="1907"/>
-						<placeName ref="#mailand"/>
+						<placeName key="mailand"/>
 					</publisher>
 				</bibl>
 				<bibl type="journal" xml:id="new-york-times">
@@ -1103,7 +1103,7 @@
 					<lang>Englisch</lang>
 					<publisher>
 						<date from="1857"/>
-						<placeName ref="#new-york"/>
+						<placeName key="new-york"/>
 					</publisher>
 					<ref target="http://query.nytimes.com/search/advanced">TimesMachine</ref>
 				</bibl>
@@ -1114,7 +1114,7 @@
 					<lang>Französisch</lang>
 					<publisher>
 						<date from="1814" to="1944"/>
-						<placeName ref="#unidentified">Clermont-Ferrand</placeName>
+						<placeName key="unidentified">Clermont-Ferrand</placeName>
 					</publisher>
 					<ref target="http://gallica.bnf.fr/ark:/12148/cb39294634r/date.langfr"
 						>Gallica</ref>
@@ -1125,7 +1125,7 @@
 					<lang>Französisch</lang>
 					<publisher>
 						<date from="1857" to="1940"/>
-						<placeName ref="#paris"/>
+						<placeName key="paris"/>
 					</publisher>
 					<ref target="http://gallica.bnf.fr/ark:/12148/cb32818319d/date.item"
 						>Gallica</ref>
@@ -1135,7 +1135,7 @@
 					<name type="index">Revue des Deux Mondes [Paris]</name>
 					<lang>Französisch</lang>
 					<publisher>
-						<placeName ref="#paris"/>
+						<placeName key="paris"/>
 					</publisher>
 				</bibl>
 				<bibl type="journal" xml:id="the-times-london">
@@ -1145,7 +1145,7 @@
 					<lang>Englisch</lang>
 					<publisher>
 						<date from="1788"/>
-						<placeName ref="#london"/>
+						<placeName key="london"/>
 					</publisher>
 				</bibl>
 			</listBibl>

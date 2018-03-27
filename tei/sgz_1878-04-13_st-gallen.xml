@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>St. Galler-Zeitung, 13. April 1878</title>
-				<author><persName ref="#akronym.w"/></author>
+				<author><persName key="akronym.w"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#st-galler-zeitung"/>
-					<placeName ref="#st-gallen"/>
+					<orgName key="st-galler-zeitung"/>
+					<placeName key="st-gallen"/>
 					<date when-custom="sat" when-iso="1878-04-13"/>
 					<biblScope unit="issue">88</biblScope>
 					<series>sgz</series>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#st-gallen"/></creation>
+			<creation><placeName key="st-gallen"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -44,16 +44,16 @@
 		<body rend="fraktur">
 			<cb break="null" n="351c" type="initial"/>
 			<head rend="larger"><g n="2020" type="DAGGER">†</g> Requiem.</head>
-			<p>Zu den Verdiensten, welche sich nebst dem „<orgName ref="#st-gallen.frohsinn"
+			<p>Zu den Verdiensten, welche sich nebst dem „<orgName key="st-gallen.frohsinn"
 					>Frohsinn</orgName>“ auch das „<hi rend="widespace"><orgName
-						ref="#st-gallen.antlitz">Antlitz</orgName></hi>“, namentlich unter der
-				Direktion des Herrn <persName ref="#bogler.xxx">Bogler</persName> mit der Aufführung
+						key="st-gallen.antlitz">Antlitz</orgName></hi>“, namentlich unter der
+				Direktion des Herrn <persName key="bogler.xxx">Bogler</persName> mit der Aufführung
 				einer Reihe größerer Tonwerke um unsre musikliebende Bevölkerung schon erworben hat,
 				ist diese Gesellschaft im Begriffe, ein neues hinzuzufügen. Es sei uns gestattet, an
 				Jene, welche unbekannt mit dem Wesen und dem Entwicklungsgang der Kirchenmusik, sich
 				weniger mit dem D<hi rend="antiqua">é</hi>tail als mit dem allgemeinen Charakter und
 				Totaleindruck einer Aufführung befassen, noch ein Wort der Aufmunterung zum Besuche
-				des <hi rend="antiqua">„<title ref="#verdi.requiem">Requiem’s</title>“</hi> zu
+				des <hi rend="antiqua">„<title key="verdi.requiem" type="mus">Requiem’s</title>“</hi> zu
 				richten. In der That, wer irgend welchen Sinn für die schönen Künste, wer ein
 				empfängliches Gemüth namentlich für die erhabenste derselben, für die Musik besitzt,
 				sollte sich die vielleicht einzige Gelegenheit nicht entgehen lassen, dieses Tonwerk
@@ -70,20 +70,20 @@
 					rend="widespace">kann</hi>) in Nationalität und Schule des Komponisten, in der
 				speziellen Begabung und Richtung seines Geistes; für Viele wird sie jedenfalls in
 				unserer Zeit eher anziehend als abstoßend wirken.</p>
-			<p><persName ref="#verdi.giuseppe">Verdi’s</persName>
-				<hi rend="antiqua">„<title ref="#verdi.requiem">Requiem</title>“</hi> verleugnet
+			<p><persName key="verdi.giuseppe">Verdi’s</persName>
+				<hi rend="antiqua">„<title key="verdi.requiem" type="mus">Requiem</title>“</hi> verleugnet
 				eben seine Geburtsstätte nicht, Italien, das Land der Formschönheit; mit den Werken
-					<persName ref="#bach.johann-sebastian">Bach’s</persName>, <persName
-					ref="#haendel.georg-friedrich">Händels</persName> etc. kann es schon darum nicht
+					<persName key="bach.johann-sebastian">Bach’s</persName>, <persName
+					key="haendel.georg-friedrich">Händels</persName> etc. kann es schon darum nicht
 				verglichen werden, weil es modernen Styles ist und der Herr Direktor verdient nur
 				Dank, daß er dießmal einen kühnen Griff in den Schatz der neuern Kompositionen
 				gethan und uns diese exotische Pflanze, diese Passionsblume aus dem Süden
 				präsentirt! Sie ist eine mit glänzender Phantasie gedichtete, von Patriotismus
 				beseelte Todtenklage und Grabeshymne des auf der Bahn der Kunst immer weiter
-				vorschreitenden Schülers <persName ref="#rossini.gioachino">Rossini’s</persName>.
+				vorschreitenden Schülers <persName key="rossini.gioachino">Rossini’s</persName>.
 				Was ihr, verglichen mit den Meisterwerken der deutschen Tonkunst, an Tiefe abgehen
 				mag, das ersetzt sie durch Schwung, warmes Kolorit und Vielseitigkeit in der
-				Behandlung. In <placeName ref="#paris">Paris</placeName> ertönte vor 2 Jahren nur
+				Behandlung. In <placeName key="paris">Paris</placeName> ertönte vor 2 Jahren nur
 				eine Stimme der Verwunderung über die <hi rend="widespace">Neuheit</hi> und <hi
 					rend="widespace">Großartigkeit</hi> der Manier. Und warum sollte denn nur die
 				Kirchenmusik sich unbeweglich und starr immer und ewig im hergebrachten Geleise
@@ -93,7 +93,7 @@
 			<p>So viel über das Opus. Einer befriedigenden Aufführung durch die vorhandenen Kräfte
 				ist von einem Ohrenzeugen der Proben bereits ein günstiges Prognostikon gestellt
 				worden, dem wir uns mit voller Ueberzeugung anschließen können.</p>
-			<p rend="right"><hi rend="antiqua"><persName ref="#akronym.w">W.</persName></hi></p>
+			<p rend="right"><hi rend="antiqua"><persName key="akronym.w">W.</persName></hi></p>
 		</body>
 	</text>
 </TEI>

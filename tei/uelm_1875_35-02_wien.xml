@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#ueber-land-und-meer" role="publisher"/>
-					<placeName ref="#stuttgart"/>
+					<orgName key="ueber-land-und-meer" role="publisher"/>
+					<placeName key="stuttgart"/>
 					<date cert="medium" when-iso="1875-10-10"/>
 					<!--BIBLIO Datierung: Sonntage von Oktober 1875 aus gezählt-->
 					<biblScope unit="issue">2</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -41,10 +41,10 @@
 		<body rend="fraktur">
 			<head rend="larger">Musik.</head>
 			<gap resp="tr"/>
-			<p>— <rs ref="#wien.1875a" type="event"><hi rend="bold"><persName ref="#verdi.giuseppe"
-							>Verdi’s</persName> „<title ref="#verdi.requiem">Requiem</title>“ soll
-						in deutscher Sprache im <placeName ref="#wien">wiener</placeName></hi>
-					<placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName> zur
+			<p>— <rs key="wien.1875a" type="event"><hi rend="bold"><persName key="verdi.giuseppe"
+							>Verdi’s</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“ soll
+						in deutscher Sprache im <placeName key="wien">wiener</placeName></hi>
+					<placeName key="wien.hof-operntheater">Hofoperntheater</placeName> zur
 					Aufführung kommen.</rs></p>
 		</body>
 	</text>

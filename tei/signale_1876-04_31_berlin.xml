@@ -3,7 +3,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Signale, Leipzig, April 1876/31 (= Berliner Fremdenbl.)</title>
+				<title>Signale, Leipzig, April 1876/31</title>
+				<title corresp="bfb_1876-04-19_berlin.xml">aus: Berliner Fremdenbl., 19.4.</title>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -12,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#signale" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="signale" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date cert="low" notAfter-iso="1876-04-30" notBefore-iso="1876-04-20"
 						when-iso="1876-04-30"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach dem Erscheinen der Quelle-->
@@ -24,7 +25,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#berlin"/></creation>
+			<creation><placeName key="berlin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -49,10 +50,10 @@
 			<gap/>
 			<pb n="491"/>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
-				<rs ref="#berlin.1876.1" type="event"><hi rend="widespace"><persName
-							ref="#verdi.giuseppe">Verdi’s</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi> ist nun auch in <placeName
-						ref="#berlin">Berlin</placeName> im <placeName ref="#berlin.hofoper">königl.
+				<rs key="berlin.1876.1" type="event"><hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi’s</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> ist nun auch in <placeName
+						key="berlin">Berlin</placeName> im <placeName key="berlin.hofoper">königl.
 						Opernhause</placeName> am <date when-iso="1876-04-15">15. April</date> zur
 					Aufführung gekommen.</rs> Der Eindruck war ein getheilter. „Der größere Theil
 				des Werkes“ — schreibt das ‚Berliner Fremdenblatt‘ — „ist voll greller, dramatischer
@@ -65,12 +66,12 @@
 				</choice> und Panzertaille.“<note resp="tr" type="textLink">Vgl. <ref
 						target="bfb_1876-04-19_berlin.xml" type="text">Berliner Fremdenblatt, 19.
 						April 1876</ref>.</note> — Die Ausführung des Werkes durch das Chor- und
-				Orchesterpersonal der Oper, durch die Damen Fräulein <persName ref="#lehmann.lilli"
-					role="soloist.soprano">Lehmann</persName> und <persName ref="#brandt.marianne"
-					role="soloist.mezzo">Brandt</persName>, die Herren <persName ref="#betz.franz"
-					role="soloist.basso">Betz</persName> und <persName ref="#ernst.heinrich"
+				Orchesterpersonal der Oper, durch die Damen Fräulein <persName key="lehmann.lilli"
+					role="soloist.soprano">Lehmann</persName> und <persName key="brandt.marianne"
+					role="soloist.mezzo">Brandt</persName>, die Herren <persName key="betz.franz"
+					role="soloist.basso">Betz</persName> und <persName key="ernst.heinrich"
 					role="soloist.tenor">Ernst</persName> als Solisten, war durch den Herrn
-				Capellmeister <persName ref="#radecke.robert" role="conductor">Radecke</persName>,
+				Capellmeister <persName key="radecke.robert" role="conductor">Radecke</persName>,
 				der auch dirigirte, sorgfältig vorbereitet.</p>
 		</body>
 	</text>

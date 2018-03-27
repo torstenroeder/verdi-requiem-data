@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Salonblatt, 12. Juni 1875</title>
-				<author><persName ref="#akronym.jk"/></author>
+				<author><persName key="akronym.jk"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,8 +13,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#wiener-salonblatt" role="publisher"/>
-					<placeName ref="#wien"/>
+					<orgName key="wiener-salonblatt" role="publisher"/>
+					<placeName key="wien"/>
 					<date when-iso="1875-06-12"/>
 					<biblScope unit="issue">24</biblScope>
 					<biblScope unit="volume">6</biblScope>
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/></creation>
+			<creation><placeName key="wien"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Biografik</term>
@@ -47,80 +47,80 @@
 			<cb break="null" n="8b" type="initial"/>
 			<head rend="larger">Wiener Briefe.*)</head>
 			<p rend="smaller">(<gap resp="tr"/>
-				<hi rend="widespace"><persName ref="#verdi.giuseppe">Giuseppe Verdi</persName></hi>
-				in <placeName ref="#wien">Wien</placeName>. — Kunst und National-Oekonomie. — Vor 30
-				Jahren — Die „<title ref="#verdi.requiem">Manzoni-Messe</title>”. — Italienische
+				<hi rend="widespace"><persName key="verdi.giuseppe">Giuseppe Verdi</persName></hi>
+				in <placeName key="wien">Wien</placeName>. — Kunst und National-Oekonomie. — Vor 30
+				Jahren — Die „<title key="verdi.requiem" type="mus">Manzoni-Messe</title>”. — Italienische
 				Gäste. <gap resp="tr"/>)</p>
 			<gap resp="tr"/>
 			<p>Was sonst noch die Gemüther erregte, ist freudiger Natur und von allgemeinstem und
-				weitestem Interesse. <hi rend="widespace"><persName ref="#verdi.giuseppe">Giuseppe
-						Verdi</persName></hi> in <placeName ref="#wien">Wien</placeName> — das ist
+				weitestem Interesse. <hi rend="widespace"><persName key="verdi.giuseppe">Giuseppe
+						Verdi</persName></hi> in <placeName key="wien">Wien</placeName> — das ist
 				die <hi rend="antiqua" xml:lang="en">great attraction</hi> der Woche. <rs
-					ref="#wien.1875" type="event">Der Compositeur des „<title
-						ref="#verdi.il-trovatore">Troubadour</title>“ hat seine stille Villa in
-						<placeName ref="#busseto">Bus<supplied resp="tr">s</supplied>eto</placeName>
-					verlassen und ist, wie einst <persName ref="#cincinnatus">Cincinnatus</persName>
+					key="wien.1875" type="event">Der Compositeur des „<title
+						key="verdi.il-trovatore" type="mus">Troubadour</title>“ hat seine stille Villa in
+						<placeName key="busseto">Bus<supplied resp="tr">s</supplied>eto</placeName>
+					verlassen und ist, wie einst <persName key="cincinnatus">Cincinnatus</persName>
 					vom Pfluge weg an die Spitze der Regierung<note resp="tr" type="glossaryLink"
 						>Cincinnatus, der zweimalige römische Diktator, führte ein Leben in
 						bäuerlichen Verhältnissen.</note>, hierher an die Spitze der Künstlerschaft
-					unserer <hi rend="widespace"><placeName ref="#wien.hof-operntheater"
+					unserer <hi rend="widespace"><placeName key="wien.hof-operntheater"
 							>Hofoper</placeName></hi> geeilt, um die Proben und die erste Aufführung
 					seines jüngsten großartigen Werkes: „<hi rend="widespace"><title
-							ref="#verdi.requiem">Manzoni-Messe</title></hi>“ persönlich zu
-					leiten.</rs> Wenn man, um über <persName ref="#verdi.giuseppe">Verdi</persName>
+							key="verdi.requiem" type="mus">Manzoni-Messe</title></hi>“ persönlich zu
+					leiten.</rs> Wenn man, um über <persName key="verdi.giuseppe">Verdi</persName>
 				zu sprechen, die Erinnerung an den römischen Dictator auffrischt, ist das keineswegs
 				am unrechten Platze. Der berühmte Italiener ist nicht nur Meister im Reiche der
 				Töne, sondern auch in dem der National-Oekonomie, ein Vorzug, dessen sich in der
 				That die wenigsten unter den wenigen genialen Geistern unseres Zeitalters rühmen
 				dürfen. Er besitzt ausgedehnte Ländereien, die er selbst pflegt und deren Bewirthung
 				er sich im Sommer hingibt. Die heißen Monate verlebt er in und um <placeName
-					ref="#busseto">Bus<supplied resp="tr">s</supplied>eto</placeName> bei der
-				Landwirthschaft, den Winter im Palaste Doria zu <placeName ref="#genua"
-					>Genua</placeName> beim Notenpulte und am Clavier. In <placeName ref="#wien"
-					>Wien</placeName> ist <persName ref="#verdi.giuseppe">Verdi</persName>
+					key="busseto">Bus<supplied resp="tr">s</supplied>eto</placeName> bei der
+				Landwirthschaft, den Winter im Palaste Doria zu <placeName key="genua"
+					>Genua</placeName> beim Notenpulte und am Clavier. In <placeName key="wien"
+					>Wien</placeName> ist <persName key="verdi.giuseppe">Verdi</persName>
 				allerdings ein seltener Gast. <pb break="yes" n="9" type="regular"/> Vor mehr als
 				drei Dezennien weilte er zum ersten Mal in unsern Mauern. Es war dies im Jahre <date
 					when-iso="1843">1843</date>, in dem er am <date when-iso="1843-05-04">4.</date>
 				und <date when-iso="1843-05-05">5. April</date> seine Oper „<title
-					ref="#verdi.nabucco">Nabucodonosor</title>“ im alten <placeName
-					ref="#wien.kaerntnertor-theater">Kärntnerthor-Theater</placeName> zum ersten
+					key="verdi.nabucco" type="mus">Nabucodonosor</title>“ im alten <placeName
+					key="wien.kaerntnertor-theater">Kärntnerthor-Theater</placeName> zum ersten
 				Male dirigirte. Seit dieser Zeit ist eine neue Generation herangewachsen und die
 				alte hat die Person des Compositeurs, der damals erst 29 Jahre zählte und bei weitem
 				noch nicht so populär war, wie heute, kaum mehr in fester Erinnerung. Und was ist in
-				dieser mächtigen Spanne Zeit vor sich gegangen? <persName ref="#verdi.giuseppe"
+				dieser mächtigen Spanne Zeit vor sich gegangen? <persName key="verdi.giuseppe"
 					>Giuseppe Verdi</persName> ist ein berühmter Mann geworden, dessen Melodien
 				heute in allen Welttheilen gekannt und geliebt werden, und das kleine,
-				kleinstädtische <placeName ref="#wien">Wien</placeName> hat sich zu einer
+				kleinstädtische <placeName key="wien">Wien</placeName> hat sich zu einer
 				herrlichen, mächtigen Stadt entwickelt, die an Schönheit von einer zweiten nicht
 				überflügelt wird. Die Wiener verehren und bewundern heute den genialen Compositeur —
 				dieser wieder ist bezaubert von dem Eindruck, den die Stadt auf ihn gemacht. Er hält
-				sie für die schönste <placeName ref="#europa">Europas</placeName> und versicherte,
-				daß ihn Umgebung und Bewohner lebhaft an <placeName ref="#norditalien"
+				sie für die schönste <placeName key="europa">Europas</placeName> und versicherte,
+				daß ihn Umgebung und Bewohner lebhaft an <placeName key="norditalien"
 					>Nord-Italien</placeName> gemahnen. Wenn diese Zeilen aus der Presse gegangen,
-				ist die „<title ref="#verdi.requiem">Manzoni-Messe</title>“, der man schon nach dem
+				ist die „<title key="verdi.requiem" type="mus">Manzoni-Messe</title>“, der man schon nach dem
 				Eindrucke, den sie bei der Generalprobe hervorgerufen, einen außerordentlichen
 				Erfolg prophezeihen darf, bereits zur Aufführung gebracht und <persName
-					ref="#verdi.giuseppe">Giuseppe <hi rend="widespace">Verdi</hi></persName> hat
+					key="verdi.giuseppe">Giuseppe <hi rend="widespace">Verdi</hi></persName> hat
 				einen neuen Lorbeer errungen. Hoffentlich ist er nicht undankbar und erfreut
-					<placeName ref="#wien">Wien</placeName> und die Wiener, welche ihm eine so
+					<placeName key="wien">Wien</placeName> und die Wiener, welche ihm eine so
 				enthusiastische Aufnahme bereiten, bald und oft durch seine persönliche Anwesenheit.
 				Wenigstens hat er es zugesagt, und wir glauben, er wird sein Wort einlösen.</p>
 			<p>Zugleich mit dem gefeierten Italiener, dessen Bekanntschaft wir nur erneuern, lernen
 				wir vier Gesangskräfte kennen, denen, um theatralisch zu werden, ein glänzender Ruf
-				vorausgeht. Die Damen <hi rend="widespace"><persName ref="#waldmann.maria"
+				vorausgeht. Die Damen <hi rend="widespace"><persName key="waldmann.maria"
 						>Waldmann</persName></hi> und <hi rend="widespace"><persName
-						ref="#stolz.teresa">Stolz</persName></hi> und die Herren <hi
-					rend="widespace"><persName ref="#medini.paolo">Madini</persName></hi> und <hi
-					rend="widespace"><persName ref="#masini.angelo">Masini</persName></hi> werden
+						key="stolz.teresa">Stolz</persName></hi> und die Herren <hi
+					rend="widespace"><persName key="medini.paolo">Madini</persName></hi> und <hi
+					rend="widespace"><persName key="masini.angelo">Masini</persName></hi> werden
 				uns das Werk des Meisters interpretiren. Man kann auch diesen Gästen, ohne den
 				Thatsachen irgendwie vorzugreifen, einen großartigen, und namentlich den beiden
 				Damen, einen sensationellen Erfolg prophezeihen. <cb break="yes" n="9b"
 					type="skipped"/></p>
-			<p rend="right"><hi rend="antiqua"><persName ref="#akronym.jk">J. K.</persName></hi></p>
+			<p rend="right"><hi rend="antiqua"><persName key="akronym.jk">J. K.</persName></hi></p>
 			<p rend="smaller">*) Wir sehen uns bestimmt, die Wochen-Reflexe vorläufig durch Wiener
 				Briefe aus der Feder eines gewandten Wiener Journalisten zu suppliren, nachdem der
 				geehrte Feuilletonist unseres Blattes, Herr <hi rend="widespace"><persName
-						ref="#mautner.eduard">Eduard Mautner</persName></hi>, derzeit auf Reisen
+						key="mautner.eduard">Eduard Mautner</persName></hi>, derzeit auf Reisen
 				sich befindet. Wir dürfen jedoch die Hoffnung hegen, daß Letzterer unser und unserer
 				Leser auch während der <hi rend="antiqua">Saison morte</hi> freundlich gedenken wird
 				und unser Blatt recht bald mit einem Badebriefe aus seiner geistreichen Feder

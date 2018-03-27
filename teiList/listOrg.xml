@@ -30,92 +30,92 @@
 				<org xml:id="breslau.singakademie">
 					<name>Singakademie [Breslau]</name>
 					<name type="index">Singakademie [Breslau]</name>
-					<placeName ref="#breslau"/>
+					<placeName key="breslau"/>
 				</org>
 				<org xml:id="bruenn.musikverein">
 					<name>Musikverein [Brünn]</name>
 					<name type="index">Musikverein [Brünn]</name>
-					<placeName ref="#bruenn"/>
+					<placeName key="bruenn"/>
 				</org>
 				<org xml:id="frankfurt.caecilienverein">
 					<name>Cäcilienverein [Frankfurt]</name>
 					<name type="index">Cäcilienverein [Frankfurt]</name>
-					<placeName ref="#frankfurt-am-main"/>
+					<placeName key="frankfurt-am-main"/>
 				</org>
 				<org xml:id="graz.akademischer-gesangverein">
 					<name>Akademischer Gesangverein [Graz]</name>
 					<name type="index">Akademischer Gesangverein [Graz]</name>
 					<name type="index">Gesangverein, Akademischer [Graz]</name>
-					<placeName ref="#graz"/>
+					<placeName key="graz"/>
 				</org>
 				<org xml:id="hamburg.philharomischer-verein">
 					<name>Philharmonischer Verein [Hamburg]</name>
 					<name type="index">Philharmonischer Verein [Hamburg]</name>
-					<placeName ref="#hamburg"/>
+					<placeName key="hamburg"/>
 				</org>
 				<org xml:id="boston.haendel-and-haydn-society">
 					<name>Handel and Haydn Society [Boston]</name>
 					<name type="index">Handel and Haydn Society [Boston]</name>
-					<placeName ref="#boston"/>
+					<placeName key="boston"/>
 					<bibl type="en.wikipedia.org">Handel_and_Haydn_Society</bibl>
 				</org>
 				<org xml:id="heilbronn.oratorienverein">
 					<name>Oratorienverein [Heilbronn]</name>
 					<name type="index">Oratorienverein [Heilbronn]</name>
-					<placeName ref="#heilbronn"/>
+					<placeName key="heilbronn"/>
 				</org>
 				<org xml:id="koeln.maenner-gesangverein">
 					<name>Männergesang-Verein [Köln]</name>
 					<name type="index">Männergesang-Verein [Köln]</name>
-					<placeName ref="#koeln"/>
+					<placeName key="koeln"/>
 				</org>
 				<org xml:id="paris.orchestre-pasdeloup">
 					<name>Orchestre Pasdeloup [Paris]</name>
-					<name type="index">Pasdeloup, Orchestre [Paris]</name>
+					<name type="index">Pasdeloup (Orchestre) [Paris]</name>
 					<name type="index">Orchestre Pasdeloup [Paris]</name>
-					<placeName ref="#paris"/>
+					<placeName key="paris"/>
 				</org>
 				<org xml:id="prag.deutscher-maenner-gesangverein">
 					<name>Deutscher Männer-Gesangverein [Prag]</name>
 					<name type="index">Männer-Gesangverein [Prag]</name>
 					<name type="index">Deutscher Männer-Gesangverein [Prag]</name>
-					<placeName ref="#prag"/>
+					<placeName key="prag"/>
 				</org>
 				<org xml:id="salzburg.dommusikverein">
 					<name>Dommusikverein [Salzburg]</name>
 					<name type="index">Dommusikverein [Salzburg]</name>
-					<placeName ref="#salzburg"/>
+					<placeName key="salzburg"/>
 				</org>
 				<org xml:id="salzburg.mozarteum">
 					<name>Mozarteum [Salzburg]</name>
 					<name type="index">Mozarteum [Salzburg]</name>
-					<placeName ref="#salzburg"/>
+					<placeName key="salzburg"/>
 				</org>
 				<org xml:id="st-gallen.antlitz">
 					<name>Antlitz [St. Gallen]</name>
 					<name type="index">Antlitz [St. Gallen]</name>
-					<placeName ref="#st-gallen"/>
+					<placeName key="st-gallen"/>
 				</org>
 				<org xml:id="st-gallen.frohsinn">
 					<name>Frohsinn [St. Gallen]</name>
 					<name type="index">Frohsinn [St. Gallen]</name>
-					<placeName ref="#st-gallen"/>
+					<placeName key="st-gallen"/>
 				</org>
 				<org xml:id="stuttgart.hofkapelle">
 					<name>Hofkapelle [Stuttgart]</name>
 					<name type="index">Hofkapelle [Stuttgart]</name>
-					<placeName ref="#stuttgart"/>
+					<placeName key="stuttgart"/>
 				</org>
 				<org xml:id="wien.akademischer-gesangverein">
 					<name>Akademischer Gesangverein [Wien]</name>
 					<name type="index">Akademischer Gesangverein [Wien]</name>
 					<name type="index">Gesangverein, Akademischer [Wien]</name>
-					<placeName ref="#wien"/>
+					<placeName key="wien"/>
 				</org>
 				<org xml:id="wiesbaden.caecilienverein">
 					<name>Cäcilienverein [Wiesbaden]</name>
 					<name type="index">Cäcilienverein [Wiesbaden]</name>
-					<placeName ref="#wiesbaden"/>
+					<placeName key="wiesbaden"/>
 				</org>
 			</listOrg>
 			<listOrg type="publisher">
@@ -123,13 +123,13 @@
 				<org xml:id="ricordi">
 					<name>Ricordi</name>
 					<name type="index">Ricordi [Mailand]</name>
-					<placeName ref="#mailand"/>
+					<placeName key="mailand"/>
 				</org>
 			</listOrg>
 			<listOrg>
+				<head>Unbekannte Körperschaften</head>
 				<org xml:id="unidentified">
 					<name type="index">? (nicht identifizierte Körperschaft)</name>
-					<desc>nicht definierbar</desc>
 				</org>
 			</listOrg>
 		</body>

@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tonkunst" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="tonkunst" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-iso="1876-03-18"/>
 					<biblScope unit="issue">8</biblScope>
 					<biblScope unit="volume">1</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#berlin"/></creation>
+			<creation><placeName key="berlin"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -43,15 +43,15 @@
 			<gap/>
 			<p><hi rend="bold kanzlei">Concerte.</hi>
 				<gap resp="tr"/>
-				<rs ref="#berlin.1876-hofconcerte.1" type="event"><hi rend="widespace"><placeName
-							ref="#berlin">Berlin</placeName></hi>: HofC.-<persName
-						ref="#taubert.wilhelm">Taubert</persName>. <title ref="#verdi.requiem"
+				<rs key="berlin.1876-hofconcerte.1" type="event"><hi rend="widespace"><placeName
+							key="berlin">Berlin</placeName></hi>: HofC.-<persName
+						key="taubert.wilhelm">Taubert</persName>. <title key="verdi.requiem" type="mus"
 						>Verdi-Messe</title></rs>, Quartett (Fr <persName
-					ref="#artot-de-padilla.desiree">Artôt</persName>-<hi rend="antiqua"
-						>S<ex>opran</ex></hi>), Solos (<persName ref="#hauser.miska"
+					key="artot-de-padilla.desiree">Artôt</persName>-<hi rend="antiqua"
+						>S<ex>opran</ex></hi>), Solos (<persName key="hauser.miska"
 					>Hauser</persName>-<hi rend="antiqua">V<ex>ioline</ex></hi>, <persName
-					ref="#pinner.max">Pinner</persName>-<hi rend="antiqua">P<ex>iano</ex></hi>,
-					<persName ref="#hummel.ferdinand">Hummel</persName>-<hi rend="antiqua"
+					key="pinner.max">Pinner</persName>-<hi rend="antiqua">P<ex>iano</ex></hi>,
+					<persName key="hummel.ferdinand">Hummel</persName>-<hi rend="antiqua"
 						>Ha<ex>rfe</ex></hi>). <gap resp="tr"/></p>
 		</body>
 	</text>

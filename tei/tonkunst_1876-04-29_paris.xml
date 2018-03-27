@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#tonkunst" role="publisher"/>
-					<placeName ref="#berlin"/>
+					<orgName key="tonkunst" role="publisher"/>
+					<placeName key="berlin"/>
 					<date when-iso="1876-04-29"/>
 					<biblScope unit="issue">14</biblScope>
 					<biblScope unit="volume">1</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#paris"/></creation>
+			<creation><placeName key="paris"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -41,11 +41,11 @@
 			<pb n="239"/>
 			<head rend="larger">Musikpflege.</head>
 			<p><hi rend="bold kanzlei">Erste Aufführungen.</hi>
-				<title ref="#gounod.messe-breve-pour-les-morts">Gounod-Requiem</title> (Volksconcert
-				v. <orgName ref="#paris.orchestre-pasdeloup">Pasdeloup</orgName>, <placeName
-					ref="#paris">Paris</placeName>. Die Lorbeeren <persName ref="#verdi.giuseppe"
-					>Verdi’s</persName>, so scheint’s, ließen <persName ref="#gounod.charles"
-					>Gounod</persName> nicht ruhen! — <persName ref="#gounod.charles"
+				<title key="gounod.messe-breve-pour-les-morts" type="mus">Gounod-Requiem</title> (Volksconcert
+				v. <orgName key="paris.orchestre-pasdeloup">Pasdeloup</orgName>, <placeName
+					key="paris">Paris</placeName>. Die Lorbeeren <persName key="verdi.giuseppe"
+					>Verdi’s</persName>, so scheint’s, ließen <persName key="gounod.charles"
+					>Gounod</persName> nicht ruhen! — <persName key="gounod.charles"
 					>Gounod</persName> dirigierte persönlich und empfing die grössten
 				Huldigungen.)</p>
 		</body>

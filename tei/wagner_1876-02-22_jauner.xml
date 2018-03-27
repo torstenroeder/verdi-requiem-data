@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Richard Wagner, Brief an Franz Jauner, 22. Februar 1876</title>
-				<author><persName ref="#wagner.richard"/></author>
+				<author><persName key="wagner.richard"/></author>
 				<principal>Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
@@ -13,7 +13,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<placeName ref="#wien"/>
+					<placeName key="wien"/>
 					<date when-iso="1876-02-22"/>
 				</bibl>
 				<bibl>
@@ -22,7 +22,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#wien"/><date when-iso="1876-02-22"/></creation>
+			<creation><placeName key="wien"/><date when-iso="1876-02-22"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -45,12 +45,12 @@
 				nunmehr zu jeder Zeit im Verkehr mit Wiener Behörden, d.h. den Hoftheaterbehörden,
 				wiederholt gemachte Erfahrung, dass hierbei nie auf einen recht reinen Punkt zu
 				kommen war, und ich stets auf einen Hinterhalt stiess, der mir lange Jahre jede
-				Beziehung zum <placeName ref="#wien.hof-operntheater">Hofoperntheater</placeName>
+				Beziehung zum <placeName key="wien.hof-operntheater">Hofoperntheater</placeName>
 				verleidet hat.</p>
 			<p>So hat mich jetzt wieder Ihre Mittheilung des Entschlusses der obersten
 				Hoftheater-Behörde im Betreff des Chorbenefizes wahrhaft erschreckt. Wie sieht diess
 				plötzlich anders aus, als da wir Beide zuerst diese Sache besprachen! Sie hatten im
-				Vergangenen Frühjahr mit <persName ref="#verdi.giuseppe">Verdi</persName> eine
+				Vergangenen Frühjahr mit <persName key="verdi.giuseppe">Verdi</persName> eine
 				Abendeinnahme von fl. 8000 gemacht, und fanden es daher leicht dem Chor eine sehr
 				bedeutende Einnahme durch erhöhete Preise zuzuwenden, sobald die Direction eben nur
 				die durchschnittliche Höhe einer guten Theatereinnahme für sich davon abziehe. Nach
@@ -64,7 +64,7 @@
 				Aufrichtig gesagt, ich ver fiel sofort auf den Gedanken, jedem Choristen fl. 20 aus
 				meiner Tasche zu schenken, und mir so die ganz unverhältnissmässige, von mir jetzt
 				so sehr gefürchtete Anstrengung der Musikdirection einer solchen Oper, wie <title
-					ref="#wagner.lohengrin">Lohengrin</title>, zu ersparen. Leider kann ich aber
+					key="wagner.lohengrin" type="mus">Lohengrin</title>, zu ersparen. Leider kann ich aber
 				gerade dieses Jahr unmöglich soviel Geld verschenken! Viel leicht könnte ich aber
 				ein Concert geben, welches, meinen vorjährigen Erfahrungen gemäss, mindestens das
 				Doppelte für den Chor abgeworfen hätte. Doch muss ich auch diess für unpassend, und
@@ -85,8 +85,8 @@
 				Doppler, freundlich für 3 März Abends einlade.</p>
 			<p>Mit schwerem, Ihrer befreundeten und mir werthen Person stets aber unveränderlich
 				gewogenem Herzen</p>
-			<p>Ihr ergebener <persName ref="#wagner.richard">Richard Wagner</persName>.</p>
-			<p><placeName ref="#bayreuth">Bayreuth</placeName>
+			<p>Ihr ergebener <persName key="wagner.richard">Richard Wagner</persName>.</p>
+			<p><placeName key="bayreuth">Bayreuth</placeName>
 				<date when-iso="1876-02-22">22 Febr. 1876</date>.</p>
 			<p>Muss es wirklich sein? — „Pour si peu!“ die ungeheure Anstrengung???</p>
 		</body>

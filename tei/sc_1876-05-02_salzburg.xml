@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
-					<orgName ref="#salzburger-chronik"/>
-					<placeName ref="#salzburg"/>
+					<orgName key="salzburger-chronik"/>
+					<placeName key="salzburg"/>
 					<date when-custom="tue" when-iso="1876-05-02"/>
 					<biblScope unit="issue">52</biblScope>
 					<biblScope unit="volume">12</biblScope>
@@ -23,7 +23,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#salzburg"/></creation>
+			<creation><placeName key="salzburg"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,25 +41,25 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head rend="larger">Die II. Aufführung des <persName ref="#verdi.giuseppe"
+			<head rend="larger">Die II. Aufführung des <persName key="verdi.giuseppe"
 					>Verdi’schen</persName>
-				<title ref="#verdi.requiem">Requiem</title>.</head>
+				<title key="verdi.requiem" type="mus">Requiem</title>.</head>
 			<p><g n="2550" type="BOX_DRAWINGS_DOUBLE_HORIZONTAL">═</g>
-				<rs ref="#salzburg.1876.2" type="event">Als zweites Jahres-Concert des hiesigen
-						<orgName ref="#salzburg.dommusikverein">Dom-Musikvereins</orgName> und
-						<orgName ref="#salzburg.mozarteum">Mozarteums</orgName> fand <date
+				<rs key="salzburg.1876.2" type="event">Als zweites Jahres-Concert des hiesigen
+						<orgName key="salzburg.dommusikverein">Dom-Musikvereins</orgName> und
+						<orgName key="salzburg.mozarteum">Mozarteums</orgName> fand <date
 						when-iso="1876-04-30">Sonntag den 30. April d. J.</date> Nachmittags 4 Uhr
-					in der <hi rend="antiqua"><placeName ref="#salzburg.aula-academica">Aula
+					in der <hi rend="antiqua"><placeName key="salzburg.aula-academica">Aula
 							academica</placeName></hi> die Wiederholung des <hi rend="widespace"
-							><persName ref="#verdi.giuseppe">Verdi’schen</persName>
-						<title ref="#verdi.requiem">Requiem</title></hi> statt, welche wieder ein
+							><persName key="verdi.giuseppe">Verdi’schen</persName>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> statt, welche wieder ein
 					zahlreiches Publikum versammelte.</rs></p>
 			<p>Die Besetzung der Solo-Partien des Chores und Orchesters war dieselbe wie bei der
 				ersten Aufführung. Den Vortrag der Solis fanden wir aber noch gerundeter und
 				sicherer als bei dieser, die Chöre, wenn auch weniger zahlreich besetzt, gingen
 				präcis und wirkungsvoll, das Orchester war tadellos, die ganze Aufführung unter der
 				vorzüglichen Leitung des artistischen Direktors <hi rend="antiqua">Dr.</hi>
-				<hi rend="widespace"><persName ref="#bach.otto">Bach</persName></hi> eine dem
+				<hi rend="widespace"><persName key="bach.otto">Bach</persName></hi> eine dem
 				wohlbegründeten Rufe unseres heimischen Kunstinstitutes würdige.</p>
 			<p>Durch mehrmaliges Anhören gewinnt die Composition an Bedeutung und Wirksakeit, und es
 				würde eine geringe musikalische Beurtheilungsfähigkeit verrathen, an der Conception
@@ -67,8 +67,8 @@
 				des strengen kirchlichen Styles nicht entspricht. Dasselbe nimmt allerdings einen
 				anderen Standpunkt ein, ist aber als epochemachendes Tonwerk berufen, in der
 				vordersten Reihe der Tonschöpfungen moderner Musikrichtung zu glänzen.</p>
-			<p>Dem <orgName ref="#salzburg.dommusikverein">Dom-Musikverein</orgName> und <orgName
-					ref="#salzburg.mozarteum">Mozarteum</orgName> gebührt aber das Verdienst, das
+			<p>Dem <orgName key="salzburg.dommusikverein">Dom-Musikverein</orgName> und <orgName
+					key="salzburg.mozarteum">Mozarteum</orgName> gebührt aber das Verdienst, das
 				hiesige Publikum mit dieser interessanten musikalischen Erscheinung der Neuzeit
 				bekannt gemacht zu haben.</p>
 		</body>

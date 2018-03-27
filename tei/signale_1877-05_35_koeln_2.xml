@@ -12,8 +12,8 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl facs="#f1 #f2">
-					<orgName ref="#signale" role="publisher"/>
-					<placeName ref="#leipzig"/>
+					<orgName key="signale" role="publisher"/>
+					<placeName key="leipzig"/>
 					<date cert="low" notAfter-iso="1877-05-30" notBefore-iso="1877-05-23"
 						when-iso="1877-05-30"/>
 					<!--BIBLIO Datierung: frühestens ein Tag nach dem Ende des Musikfestes-->
@@ -24,7 +24,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName ref="#koeln"/></creation>
+			<creation><placeName key="koeln"/></creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -52,25 +52,25 @@
 			<pb n="553"/>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
 				<hi rend="widespace">Ueber das künstlerische Ergebnis des diesjährigen
-					Niederrheinischen Musikfestes</hi> in <placeName ref="#koeln">Köln</placeName>
+					Niederrheinischen Musikfestes</hi> in <placeName key="koeln">Köln</placeName>
 				lauten die Stimmen überwiegend günstig. Unter Leitung <hi rend="antiqua">Dr.</hi>
-				<hi rend="widespace"><persName ref="#hiller.ferdinand">Ferd.
+				<hi rend="widespace"><persName key="hiller.ferdinand">Ferd.
 					Hiller’s</persName></hi> brachte der Eröffnungstag eine prächtige Aufführung von
-					<persName ref="#haydn.joseph">Haydn’s</persName> „<title
-					ref="#haydn.die-jahreszeiten">Jahreszeiten</title>“, an der die Chöre wie die
-				gewonnenen Solisten Fräulein <hi rend="widespace"><persName ref="#lehmann.lilli"
+					<persName key="haydn.joseph">Haydn’s</persName> „<title
+					key="haydn.die-jahreszeiten" type="mus">Jahreszeiten</title>“, an der die Chöre wie die
+				gewonnenen Solisten Fräulein <hi rend="widespace"><persName key="lehmann.lilli"
 						role="soloist.soprano">Lilli Lehmann</persName></hi>, Fräulein <hi
-					rend="widespace"><persName ref="#assmann.adele" role="soloist.mezzo">Adele
+					rend="widespace"><persName key="assmann.adele" role="soloist.mezzo">Adele
 						Aßmann</persName></hi>, die Herren <hi rend="widespace"><persName
-						ref="#ernst.heinrich" role="soloist.tenor">Ernst</persName></hi> und <hi
-					rend="widespace"><persName ref="#henschel.georg" role="soloist.basso">Georg
-						Henschel</persName></hi> (sämmtlich aus <placeName ref="#berlin"
+						key="ernst.heinrich" role="soloist.tenor">Ernst</persName></hi> und <hi
+					rend="widespace"><persName key="henschel.georg" role="soloist.basso">Georg
+						Henschel</persName></hi> (sämmtlich aus <placeName key="berlin"
 					>Berlin</placeName>) gleich hervorragenden Antheil hatten. <rs
-					ref="#koeln.1877.musikfest.2" type="event">Den zweiten Festtag leitete <persName
-						ref="#mozart.wolfgang-amadeus">Mozart’s</persName>
-					<title ref="#mozart.die-zauberfloete.ouvertuere">Zauberflöten-Ouvertüre</title>
-					ein, dann trat der Held des Festes, Maestro <persName ref="#verdi.giuseppe"
-						>Verdi</persName>, an das Pult, um sein <title ref="#verdi.requiem"
+					key="koeln.1877.musikfest.2" type="event">Den zweiten Festtag leitete <persName
+						key="mozart.wolfgang-amadeus">Mozart’s</persName>
+					<title key="mozart.die-zauberfloete.ouvertuere" type="mus">Zauberflöten-Ouvertüre</title>
+					ein, dann trat der Held des Festes, Maestro <persName key="verdi.giuseppe"
+						>Verdi</persName>, an das Pult, um sein <title key="verdi.requiem" type="mus"
 						>Requiem</title> persönlich zu dirigiren.</rs> Von Orchesterfanfaren und
 				stürmischem Beifall begrüßt, mußte er zuerst aus den Händen einer Dame einen vom
 				Chor verliehenen Tactstock entgegennehmen, dessen goldener Griff in einem Kranz von
@@ -82,16 +82,16 @@
 					n="204A" type="TIRONIAN_SIGN_ET">⁊</g>c. <g n="204A" type="TIRONIAN_SIGN_ET"
 					>⁊</g>c., culminirte. Ueber die Auführung selbst war der Maestro des Lobes voll,
 				namentlich wußte er sich nicht anerkennend genug über die Chor- und Orchesterkräfte
-				zu äußern. <persName ref="#beethoven.ludwig-van">Beethoven’s</persName>
-				<title ref="#beethoven.symphonie-9">neunte Sinfonie</title> füllte den zweiten Theil
+				zu äußern. <persName key="beethoven.ludwig-van">Beethoven’s</persName>
+				<title key="beethoven.symphonie-9" type="mus">neunte Sinfonie</title> füllte den zweiten Theil
 				des Abends aus, deren Wiedergabe namentlich in den drei ersten Theilen überaus
 				gelungen war. Das sogenannte Künstlerconcert des dritten Tages <gap resp="tr"/> Das
 				chorvocale Element fand außerdem in dem <hi rend="antiqua"><title
-						ref="#verdi.requiem.5">Agnus Dei</title></hi> aus <persName
-					ref="#verdi.giuseppe">Verdi’s</persName>
-				<title ref="#verdi.requiem">Requiem</title> und der von <persName
-					ref="#hiller.ferdinand">Hiller</persName> arrangirten Nationalhymne <title
-					ref="#heil-dir-im-siegerkranz">„Heil dir im Siegerkranz“</title>
+						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> aus <persName
+					key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> und der von <persName
+					key="hiller.ferdinand">Hiller</persName> arrangirten Nationalhymne <title
+					key="heil-dir-im-siegerkranz" type="mus">„Heil dir im Siegerkranz“</title>
 				Berücksichtigung.</p>
 		</body>
 	</text>
