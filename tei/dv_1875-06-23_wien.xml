@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Das Vaterland, Wien, 23. Juni 1875</title>
-				<author><persName key="kulke.eduard"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="kulke.eduard"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dv_1875-06-23_vom-operntheater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -93,16 +96,17 @@
 					>Stolz</persName> und <persName key="waldmann.maria">Waldmann</persName> mehr
 				werth als mit der <persName key="wilt.marie">Wilt</persName> und <persName
 					key="materna.amalie">Materna</persName>? Oder ist etwa gar das „<title
-					key="verdi.requiem" type="mus">Requiem</title>“ von <persName key="verdi.giuseppe"
-					>Verdi</persName> mehr werth als der „<title key="mozart.don-giovanni" type="mus">Don
-					Juan</title>“, als der „<title key="beethoven.fidelio" type="mus">Fidelio</title>“? Darauf
-				wird <persName key="jauner.franz-von">Jauner</persName> ruhig antworten: Lieber
-				Freund! Ueber diese Dinge kann Jeder urtheilen, wie er will! Wenn Dir der Preis zu
-				hoch ist, so zwingt Dich Niemand, hineinzugehen! — Ich will das „<title
-					key="verdi.requiem" type="mus">Requiem</title>“ aber hören! — ruft der Kunstfreund! — Dann
-				mußt Du bezahlen, was ich verlange! — erwiedert der Director, ohne sich aus der
-				Fassung bringen zu lassen — denn die Kunst ist ein Luxus, und wenn sich auch die
-				Regierung bedenkt, eine Luxussteuer einzuführen, ich habe solche Bedenken nicht.</p>
+					key="verdi.requiem" type="mus">Requiem</title>“ von <persName
+					key="verdi.giuseppe">Verdi</persName> mehr werth als der „<title
+					key="mozart.don-giovanni" type="mus">Don Juan</title>“, als der „<title
+					key="beethoven.fidelio" type="mus">Fidelio</title>“? Darauf wird <persName
+					key="jauner.franz-von">Jauner</persName> ruhig antworten: Lieber Freund! Ueber
+				diese Dinge kann Jeder urtheilen, wie er will! Wenn Dir der Preis zu hoch ist, so
+				zwingt Dich Niemand, hineinzugehen! — Ich will das „<title key="verdi.requiem"
+					type="mus">Requiem</title>“ aber hören! — ruft der Kunstfreund! — Dann mußt Du
+				bezahlen, was ich verlange! — erwiedert der Director, ohne sich aus der Fassung
+				bringen zu lassen — denn die Kunst ist ein Luxus, und wenn sich auch die Regierung
+				bedenkt, eine Luxussteuer einzuführen, ich habe solche Bedenken nicht.</p>
 			<p>Wie man nun aber auch über die Berechtitung der <persName key="jauner.franz-von"
 					>Jauner’schen</persName> Finanzoperationen denken mag, in jedem Falle wird man
 				ihm das Geständniß machen, daß er sein Geschäft versteht; denn er würde die Preise
@@ -115,76 +119,77 @@
 				oder ein berühmter Componist, ein Wunderthier oder eine Sängerin — gleichviel, das
 				Publicum strömt in Schaaren dahin, es will sehen, heute dieß, morgen jenes, aber nur
 					<cb break="yes" n="1c" type="regular"/> sehen. Wäre das „<title
-					key="verdi.requiem" type="mus">Requiem</title>“ aufgeführt worden, ohne daß der Componist
-				erschienen wäre, es selber zu dirigiren, wäre es aufgeführt worden von unseren
-				heimischen ersten Kräften, ohne jenes Quartett, welches der Componist sich
+					key="verdi.requiem" type="mus">Requiem</title>“ aufgeführt worden, ohne daß der
+				Componist erschienen wäre, es selber zu dirigiren, wäre es aufgeführt worden von
+				unseren heimischen ersten Kräften, ohne jenes Quartett, welches der Componist sich
 				mitgebracht: es wäre dem Director nicht in den Sinn gekommen, die Preise zu erhöhen.
 				Als tüchtiger Geschäftsmann hätte er es auch ganz sicher nicht gethan, ebenso wenig
 				als <persName key="herbeck.johann-von">Herbeck</persName> etwa daran denken konnte,
-				bei der ersten Aufführung der „<title key="goldmark.die-koenigin-von-saba" type="mus">Königin
-					von Saba</title>“ die Preise zu erhöhen; <persName key="jauner.franz-von"
-					>Jauner’s</persName> Geschäftskenntniß zeigt sich aber eben darin, daß er wußte,
-				wann er dies wagen dürfe, und daß er die Gunst der Umstände zu benützen
-				verstand.</p>
+				bei der ersten Aufführung der „<title key="goldmark.die-koenigin-von-saba"
+					type="mus">Königin von Saba</title>“ die Preise zu erhöhen; <persName
+					key="jauner.franz-von">Jauner’s</persName> Geschäftskenntniß zeigt sich aber
+				eben darin, daß er wußte, wann er dies wagen dürfe, und daß er die Gunst der
+				Umstände zu benützen verstand.</p>
 			<p>Er hat aber nicht nur das Haus und die Casse gefüllt, er hat noch ein Drittes
 				bewirkt; er hat bewirkt, daß man über die Angelegenheiten des Operntheaters wieder
 				mit einiger Lebhaftigkeit spricht, und zwar zu einer Zeit, da die anderen Theater
 				der Unterhaltung so wenig Stoff und Anhalt bieten. <rs key="wien.1875" type="event"
 					>Freilich spricht man mehr von <persName key="verdi.giuseppe">Verdi</persName>
-					und seinem „<title key="verdi.requiem" type="mus">Requiem</title>“ als vom Operntheater;
-					allein da die Aufführung dieses Werkes im <placeName
+					und seinem „<title key="verdi.requiem" type="mus">Requiem</title>“ als vom
+					Operntheater; allein da die Aufführung dieses Werkes im <placeName
 						key="wien.hof-operntheater">Operntheater</placeName> stattgefunden hat, so
 					kommen die Erörterungen über dasselbe dem Hause zu statten.</rs></p>
 			<p><persName key="verdi.giuseppe">Verdi</persName> ist zur Stunde der Mittelpunct des
 				Interesses in den Kreisen der Kunstfreunde, und es wird über den Werth seines
 				neuesten Werkes sowohl, als auch über die Bedeutung seiner ganzen
 				Künstlerpersönlichkeit im Allgemeinen sehr eifrig gestritten. In den öffentlichen
-				Blättern hat das „<title key="verdi.requiem" type="mus">Requiem</title>“ eine Anerkennung
-				gefunden, welche hinter dem im Hause selbst kundgegebenen Enthusiasmus des Publicums
-				nicht weit zurückstand; in den mündlichen Unterhaltungen hingegen, wo ein Wort das
-				andere gibt, wo ein übertriebenes Lob nur allzu leicht den Geist des Widerspruchs
-				aufregt und den Tadel wachruft, kann man über das „<title key="verdi.requiem" type="mus"
-					>Requiem</title>“ hie und da sehr scharfe Urtheile vernehmen. Die Puristen
-				wollen es ein für alle Mal als „<title key="verdi.requiem" type="mus">Requiem</title>“ gar
-				nicht gelten lassen.</p>
-			<p>Dagegen erwiedern die Anhänger <persName key="verdi.giuseppe">Verdi’s</persName>,
-				daß auch in <persName key="mozart.wolfgang-amadeus">Mozart’s</persName> „<title
-					key="mozart.requiem" type="mus">Requiem</title>“ Stellen vorkommen, welche ebenso gut im
-					„<title key="mozart.don-giovanni" type="mus">Don Juan</title>“ einen Platz hätten finden
-				können, und selbst in der <hi rend="antiqua"><title key="beethoven.missa-solemnis" type="mus"
-						>Missa solennis</title></hi> von <persName key="beethoven.ludwig-van"
-					>Beethoven</persName> seien Einzelheiten, die an manche Nummern des „<title
-					key="beethoven.fidelio" type="mus">Fidelio</title>“ erinnern. Dies wird nun von der
-				gegnerischen Seite sehr gerne zugegeben, nur ziehen die Gegner eine andere Folgerung
-				daraus, als die Freunde und Anhänger. Sie meinen nämlich, es gäbe im „<title
-					key="mozart.don-giovanni" type="mus">Don Juan</title>“ ebensowohl, wie im „<title
-					key="beethoven.fidelio" type="mus">Fidelio</title>“ mehrere Stellen, <cb break="yes"
-					n="1d" type="regular"/>denen man den Charakter des religiösen Styls zugestehen
-				könne, denn sie sind ebenso erhaben, wie viele Stellen aus dem „<title
-					key="mozart.requiem" type="mus">Requiem</title>“, aus der <title
-					key="beethoven.missa-solemnis" type="mus"><hi rend="antiqua">D-dur</hi>-Messe</title>. Der
-				Unterschied sei also der, daß <persName key="mozart.wolfgang-amadeus"
-					>Mozart</persName> und <persName key="beethoven.ludwig-van"
-					>Beethoven</persName> die Erhabenheit des religiösen Styls in die Oper
-				hineingetragen, während <persName key="verdi.giuseppe">Verdi</persName> umgekehrt
-				den weltlichen Styl seiner Opern auch auf das „<title key="verdi.requiem" type="mus"
-					>Requiem</title>“ übertragen habe. Die Verwandtschaft von <persName
-					key="mozart.wolfgang-amadeus">Mozart’s</persName> „<title key="mozart.requiem" type="mus"
-					>Requiem</title>“ mit dem <persName key="mozart.wolfgang-amadeus"
-					>Mozart’schen</persName> Opern kann also sehr gerne zugegeben werden, sie ist
-				ebenso groß, wie die Verwandtschaft des <persName key="verdi.giuseppe"
-					>Verdi’schen</persName> „<title key="verdi.requiem" type="mus">Requiems</title>“ mit den
-				Opern dieses Componisten, nur waltet in <persName key="mozart.wolfgang-amadeus"
-					>Mozart’s</persName> Opern ein so erhabener Geist, wie in seiner religiösen
-				Musik, während ein solcher Geist in <persName key="verdi.giuseppe"
-					>Verdi’s</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“ sich ebenso
-				wenig wie in dessen Opern erkennen läßt.</p>
+				Blättern hat das „<title key="verdi.requiem" type="mus">Requiem</title>“ eine
+				Anerkennung gefunden, welche hinter dem im Hause selbst kundgegebenen Enthusiasmus
+				des Publicums nicht weit zurückstand; in den mündlichen Unterhaltungen hingegen, wo
+				ein Wort das andere gibt, wo ein übertriebenes Lob nur allzu leicht den Geist des
+				Widerspruchs aufregt und den Tadel wachruft, kann man über das „<title
+					key="verdi.requiem" type="mus">Requiem</title>“ hie und da sehr scharfe Urtheile
+				vernehmen. Die Puristen wollen es ein für alle Mal als „<title key="verdi.requiem"
+					type="mus">Requiem</title>“ gar nicht gelten lassen.</p>
+			<p>Dagegen erwiedern die Anhänger <persName key="verdi.giuseppe">Verdi’s</persName>, daß
+				auch in <persName key="mozart.wolfgang-amadeus">Mozart’s</persName> „<title
+					key="mozart.requiem" type="mus">Requiem</title>“ Stellen vorkommen, welche
+				ebenso gut im „<title key="mozart.don-giovanni" type="mus">Don Juan</title>“ einen
+				Platz hätten finden können, und selbst in der <hi rend="antiqua"><title
+						key="beethoven.missa-solemnis" type="mus">Missa solennis</title></hi> von
+					<persName key="beethoven.ludwig-van">Beethoven</persName> seien Einzelheiten,
+				die an manche Nummern des „<title key="beethoven.fidelio" type="mus"
+				>Fidelio</title>“ erinnern. Dies wird nun von der gegnerischen Seite sehr gerne
+				zugegeben, nur ziehen die Gegner eine andere Folgerung daraus, als die Freunde und
+				Anhänger. Sie meinen nämlich, es gäbe im „<title key="mozart.don-giovanni"
+					type="mus">Don Juan</title>“ ebensowohl, wie im „<title key="beethoven.fidelio"
+					type="mus">Fidelio</title>“ mehrere Stellen, <cb break="yes" n="1d"
+					type="regular"/>denen man den Charakter des religiösen Styls zugestehen könne,
+				denn sie sind ebenso erhaben, wie viele Stellen aus dem „<title key="mozart.requiem"
+					type="mus">Requiem</title>“, aus der <title key="beethoven.missa-solemnis"
+					type="mus"><hi rend="antiqua">D-dur</hi>-Messe</title>. Der Unterschied sei also
+				der, daß <persName key="mozart.wolfgang-amadeus">Mozart</persName> und <persName
+					key="beethoven.ludwig-van">Beethoven</persName> die Erhabenheit des religiösen
+				Styls in die Oper hineingetragen, während <persName key="verdi.giuseppe"
+					>Verdi</persName> umgekehrt den weltlichen Styl seiner Opern auch auf das
+					„<title key="verdi.requiem" type="mus">Requiem</title>“ übertragen habe. Die
+				Verwandtschaft von <persName key="mozart.wolfgang-amadeus">Mozart’s</persName>
+					„<title key="mozart.requiem" type="mus">Requiem</title>“ mit dem <persName
+					key="mozart.wolfgang-amadeus">Mozart’schen</persName> Opern kann also sehr gerne
+				zugegeben werden, sie ist ebenso groß, wie die Verwandtschaft des <persName
+					key="verdi.giuseppe">Verdi’schen</persName> „<title key="verdi.requiem"
+					type="mus">Requiems</title>“ mit den Opern dieses Componisten, nur waltet in
+					<persName key="mozart.wolfgang-amadeus">Mozart’s</persName> Opern ein so
+				erhabener Geist, wie in seiner religiösen Musik, während ein solcher Geist in
+					<persName key="verdi.giuseppe">Verdi’s</persName> „<title key="verdi.requiem"
+					type="mus">Requiem</title>“ sich ebenso wenig wie in dessen Opern erkennen
+				läßt.</p>
 			<p>Was mich betrifft, so habe ich schon in meinem vorigen Berichte<note resp="tr"
 					type="textLink"><ref target="dv_1875-06-15_verdis-requiem.xml" type="text">Vgl.
 						Das Vaterland (Wien), 15. Juni 1875.</ref></note> gesagt, daß man an eine
 				Vergleichung des <persName key="verdi.giuseppe">Verdi’schen</persName> „<title
-					key="verdi.requiem" type="mus">Requiems</title>“ mit den kirchlichen Compositionen von
-					<persName key="bach.johann-sebastian">Bach</persName>, <persName
+					key="verdi.requiem" type="mus">Requiems</title>“ mit den kirchlichen
+				Compositionen von <persName key="bach.johann-sebastian">Bach</persName>, <persName
 					key="mozart.wolfgang-amadeus">Mozart</persName> und <persName
 					key="beethoven.ludwig-van">Beethoven</persName> gar nicht denken dürfe, und
 				diese meine Meinung findet auch ihre Anhänger; aber unter diesen, welche, abgesehen

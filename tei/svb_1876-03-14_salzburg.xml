@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Salzburger Volksblatt, 14. März 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/svb_1876-03-14_salzburger-nachrichten.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="salzburg"/></creation>
+			<creation>
+				<placeName key="salzburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -47,19 +48,19 @@
 			<p><hi rend="bold"><persName key="verdi.giuseppe">Verdi’s</persName>
 					<title key="verdi.requiem" type="mus">Requiem</title>.</hi>
 				<rs key="salzburg.1876" type="event"><persName key="verdi.giuseppe"
-						>Verdi’s</persName> großes <title key="verdi.requiem" type="mus">Requiem</title> wird
-					unter Leitung des Herrn Mozarteums-Directors Dr. <persName key="bach.otto">O.
-							<hi rend="widespace">Bach</hi></persName> im <date when-iso="1876-04"
-						>April</date> in der großen <hi rend="antiqua"><placeName
-							key="salzburg.aula-academica">Aula academica</placeName></hi> zur
-					ersten Aufführung in <placeName key="salzburg">Salzburg</placeName>
-					gelangen.</rs> Die Soli’s haben gütigst die kunstbewährten Kräfte, die Damen:
-				Gräfin <persName key="gatterburg.hedwig">Hedwig <hi rend="widespace"
-						>Gatterburg</hi></persName> und Fräul. <hi rend="widespace"><persName
-						key="voigt.gabriele">Voigt</persName></hi>, die Herren: <persName
-					key="huber.franz">Franz <hi rend="widespace">Huber</hi></persName> und <hi
-					rend="widespace"><persName key="schuegraf.eduard">Schuegraf</persName></hi> aus
-					<placeName key="muenchen">München</placeName> übernommen. Zur Ausführung der
+						>Verdi’s</persName> großes <title key="verdi.requiem" type="mus"
+						>Requiem</title> wird unter Leitung des Herrn Mozarteums-Directors Dr.
+						<persName key="bach.otto">O. <hi rend="widespace">Bach</hi></persName> im
+						<date when-iso="1876-04">April</date> in der großen <hi rend="antiqua"
+							><placeName key="salzburg.aula-academica">Aula
+						academica</placeName></hi> zur ersten Aufführung in <placeName
+						key="salzburg">Salzburg</placeName> gelangen.</rs> Die Soli’s haben gütigst
+				die kunstbewährten Kräfte, die Damen: Gräfin <persName key="gatterburg.hedwig"
+					>Hedwig <hi rend="widespace">Gatterburg</hi></persName> und Fräul. <hi
+					rend="widespace"><persName key="voigt.gabriele">Voigt</persName></hi>, die
+				Herren: <persName key="huber.franz">Franz <hi rend="widespace">Huber</hi></persName>
+				und <hi rend="widespace"><persName key="schuegraf.eduard">Schuegraf</persName></hi>
+				aus <placeName key="muenchen">München</placeName> übernommen. Zur Ausführung der
 				großen Chöre haben ihre freundliche Mitwirkung gefälligst zugesagt: Alle Damen und
 				Herren der Salzburger Liedertafel, dann sämmtliche Gesangskräfte des k. k.
 				Gynmasiums, der Lehrer, Bildungs-Anstalt und Oberrealschule (mit bereits erfolgter
@@ -74,8 +75,8 @@
 					>Mozarteums-Kapelle</orgName> und Regimentsmusik, zu Einem größeren
 				Instrumentalkörper vereiniget bei Aufführung des <persName key="verdi.giuseppe"
 					>Verdi’schen</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> wirken. — Letztere erfolgt — wegen der
-				größeren Vorbereitungen und höheren Kosten in einem <hi rend="widespace"
+				<title key="verdi.requiem" type="mus">Requiem</title> wirken. — Letztere erfolgt —
+				wegen der größeren Vorbereitungen und höheren Kosten in einem <hi rend="widespace"
 					>außerordentlichen Concerte des Mozarteums</hi> mit mäßig erhöhten Preisen.
 				(Vormerkungen hiezu in der Mayrischen Buchhandlung.)</p>
 		</body>

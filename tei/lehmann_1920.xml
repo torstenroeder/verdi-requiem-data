@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Lilli Lehmann, Mein Weg, 1913</title>
-				<author><persName key="lehmann.lilli"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="lehmann.lilli"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/lehmann_1920_mein-weg.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="berlin"/><date when-iso="1876-04-15"/></creation>
+			<creation>
+				<placeName key="berlin"/>
+				<date when-iso="1876-04-15"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Biografik</term>
@@ -45,19 +49,19 @@
 			<p><pb break="null" facs="#f1" n="15" type="initial"/>
 				<rs key="berlin.1876.1" type="event">Der <date when-iso="1876-04-15">15. April
 						1876</date> brachte ein Ereignis für mich: <persName key="verdi.giuseppe"
-						>Verdis</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“, das wir im
-						<placeName key="berlin.hofoper">Königlichen Opernhause</placeName> dreimal
-					aufführten; <persName key="ernst.heinrich">Heinrich Ernst</persName>, <persName
-						key="betz.franz">Franz Betz</persName>, <persName key="brandt.marianne"
-						>Marianne Brandt</persName> und ich.</rs> Trotz <persName
-					key="wagner.richard">Wagners</persName> Flagge, unter der wir <placeName
-					key="bayreuth">Bayreuth</placeName> schon entgegensegelten, griff mir <persName
-					key="verdi.giuseppe">Verdis</persName> wundervolle Musik tief ins Herz. Ich
-				war’s ja gewöhnt, katholische Musik zu singen, kannte die Zeremonien, die mystische
-				Dämmerung der katholischen Kirche, die tiefe Gläubigkeit des katholischen Volkes,
-				die Macht der Musik im geweihten, weihrauchdurchschwängerten Raume und wußte mit
-				Würde wiederzugeben, was dabei in meinem eignen und dem Innern andrer vorging. So
-				oft ich auch katholische Kirchenmusik — wo und was immer — in meinem Leben sang,
+						>Verdis</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“,
+					das wir im <placeName key="berlin.hofoper">Königlichen Opernhause</placeName>
+					dreimal aufführten; <persName key="ernst.heinrich">Heinrich Ernst</persName>,
+						<persName key="betz.franz">Franz Betz</persName>, <persName
+						key="brandt.marianne">Marianne Brandt</persName> und ich.</rs> Trotz
+					<persName key="wagner.richard">Wagners</persName> Flagge, unter der wir
+					<placeName key="bayreuth">Bayreuth</placeName> schon entgegensegelten, griff mir
+					<persName key="verdi.giuseppe">Verdis</persName> wundervolle Musik tief ins
+				Herz. Ich war’s ja gewöhnt, katholische Musik zu singen, kannte die Zeremonien, die
+				mystische Dämmerung der katholischen Kirche, die tiefe Gläubigkeit des katholischen
+				Volkes, die Macht der Musik im geweihten, weihrauchdurchschwängerten Raume und wußte
+				mit Würde wiederzugeben, was dabei in meinem eignen und dem Innern andrer vorging.
+				So oft ich auch katholische Kirchenmusik — wo und was immer — in meinem Leben sang,
 				stets fühlte ich mit Bestimmtheit, daß ich die einzige Mitwirkende war, welche der
 				tief religiösen Empfindung, der Heiligkeit der Handlung im Ausdruck gerecht wurde.
 				Vielleicht lag es an meiner mir wohlbewußten italienischen Stilkenntnis. Etwas mußte
@@ -66,34 +70,33 @@
 						<persName key="ernst.heinrich">Heinrich Ernst</persName>, <persName
 						key="henschel.georg">Georg Hentschel</persName>, <persName
 						key="brandt.marianne">Marianne Brandt</persName> und ich beim Kölner
-					Musikfest <date when-iso="1877">77</date> das <title key="verdi.requiem" type="mus"
-						>Requiem</title> unter <persName key="verdi.giuseppe">Verdis</persName>
-					eigner Leitung sangen, war ich die einzige, der <persName key="verdi.giuseppe"
-						>Verdi</persName> nicht das geringste ausbesserte</rs>. Am Abend klopfte er
-				mir lächelnd auf die Schulter und sprach mir entzückt seine Befriedigung aus. Später
-				hatte er sogar seinen Wirten ausgesprochen, daß er nur mit mir zufrieden gewesen und
-				stellte meine Leistung sogar derjenigen seiner Lieblingssängerin <persName
-					key="stolz.teresa">Stolz</persName> an die Seite. <persName
-					key="verdi.giuseppe">Verdi</persName> war kein Mann von vielem Reden; es
-				verstand sich bei ihm — wie bei allen „Könnern“ — von selbst, daß man die Technik
+					Musikfest <date when-iso="1877">77</date> das <title key="verdi.requiem"
+						type="mus">Requiem</title> unter <persName key="verdi.giuseppe"
+						>Verdis</persName> eigner Leitung sangen, war ich die einzige, der <persName
+						key="verdi.giuseppe">Verdi</persName> nicht das geringste ausbesserte</rs>.
+				Am Abend klopfte er mir lächelnd auf die Schulter und sprach mir entzückt seine
+				Befriedigung aus. Später hatte er sogar seinen Wirten ausgesprochen, daß er nur mit
+				mir zufrieden gewesen und stellte meine Leistung sogar derjenigen seiner
+				Lieblingssängerin <persName key="stolz.teresa">Stolz</persName> an die Seite.
+					<persName key="verdi.giuseppe">Verdi</persName> war kein Mann von vielem Reden;
+				es verstand sich bei ihm — wie bei allen „Könnern“ — von selbst, daß man die Technik
 				der künstlerischen Aufgaben, die man übernommen, meisterte. Und ohne daß er es mir
 				sagte, wußte ich, daß er es gut fand. Als außergewöhnlicher Mensch wird <persName
-					key="verdi.giuseppe">Verdi</persName> von allen denen geschildert, die das
-				Glück hatten, ihm nähertreten zu dürfen. Ich weiß nur, daß er für mich um so größer
-				wurde, je länger ich lebte, und daß ich ihn heute zu den Größten, Höchsten rechne
-				und ihn gleich ihnen verehre und liebe. <persName key="verdi.giuseppe"
-					>Verdi</persName> war mit seiner Gattin gekommen, und mit beiden so lieben,
-				ruhigen Menschen erlebten wir, unter Führung des geistreichen, witzigen <persName
-					key="hiller.ferdinand">Ferdinand Hiller</persName> — der sich stets nur „Fasi“
-				unterschrieb und mir als Künstler sehr befreundet war — ein wundervolles Fest, das
-					<persName key="brahms.johannes">Johannes Brahms</persName> als Dritter im Bunde
-				verschönte, der damals noch glückstrahlend und heiter die ganze schöne Frauenwelt zu
-				seinen Füßen liegen sah. Als ich am dritten Abend aufs Podium stieg, um eine <title
-					key="spohr.faust" type="mus">Faustarie</title> von <persName key="spohr.louis"
-					>Spohr</persName> zu singen und <persName key="brahms.johannes"
-					>Brahms</persName> meinen Strauß zu halten gab, sah ich, wie er ihn zerpflückte,
-				jedem jungen Mädchen des Chors eine Blume daraus verabreichte und sich dabei vor
-				Lachen schüttelte.</p>
+					key="verdi.giuseppe">Verdi</persName> von allen denen geschildert, die das Glück
+				hatten, ihm nähertreten zu dürfen. Ich weiß nur, daß er für mich um so größer wurde,
+				je länger ich lebte, und daß ich ihn heute zu den Größten, Höchsten rechne und ihn
+				gleich ihnen verehre und liebe. <persName key="verdi.giuseppe">Verdi</persName> war
+				mit seiner Gattin gekommen, und mit beiden so lieben, ruhigen Menschen erlebten wir,
+				unter Führung des geistreichen, witzigen <persName key="hiller.ferdinand">Ferdinand
+					Hiller</persName> — der sich stets nur „Fasi“ unterschrieb und mir als Künstler
+				sehr befreundet war — ein wundervolles Fest, das <persName key="brahms.johannes"
+					>Johannes Brahms</persName> als Dritter im Bunde verschönte, der damals noch
+				glückstrahlend und heiter die ganze schöne Frauenwelt zu seinen Füßen liegen sah.
+				Als ich am dritten Abend aufs Podium stieg, um eine <title key="spohr.faust"
+					type="mus">Faustarie</title> von <persName key="spohr.louis">Spohr</persName> zu
+				singen und <persName key="brahms.johannes">Brahms</persName> meinen Strauß zu halten
+				gab, sah ich, wie er ihn zerpflückte, jedem jungen Mädchen des Chors eine Blume
+				daraus verabreichte und sich dabei vor Lachen schüttelte.</p>
 		</body>
 	</text>
 </TEI>

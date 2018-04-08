@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 9. Juni 1876 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-06-09_weimar.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="weimar"/></creation>
+			<creation>
+				<placeName key="weimar"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,18 +41,21 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760609&amp;seite=5"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="242b" type="initial"/>
+		<front rend="fraktur">
+			<cb n="242b"/>
 			<head rend="larger">Correspondenzen.</head>
-			<cb break="null" n="243b" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="243b"/>
 			<p rend="bold right"><placeName key="weimar">Weimar</placeName>.</p>
 			<gap resp="tr"/>
 			<p><rs key="weimar.1876.1" type="event">Von <persName key="verdi.giuseppe"><hi
 							rend="widespace">Verdi</hi>’s</persName> so schnell in die Mode
-					gekommenen <title key="verdi.requiem" type="mus">Manzoni-Requiem</title> hatten auch wir
-					eine Aufführung unter <hi rend="widespace"><persName key="mueller-hartung.carl"
-							>Müller-Hartungs</persName></hi> Leitung im <placeName
-						key="weimar.hoftheater">Hoftheater</placeName> mit Frau <hi
+					gekommenen <title key="verdi.requiem" type="mus">Manzoni-Requiem</title> hatten
+					auch wir eine Aufführung unter <hi rend="widespace"><persName
+							key="mueller-hartung.carl">Müller-Hartungs</persName></hi> Leitung im
+						<placeName key="weimar.hoftheater">Hoftheater</placeName> mit Frau <hi
 						rend="widespace"><persName key="fichtner-spohr.auguste"
 							>Fichtner-Spohr</persName></hi>, Frl. <hi rend="widespace"><persName
 							key="dotter.berta">Dotter</persName></hi>, den HH. <hi rend="widespace"

@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Bayerischer Kurier, München, 12. Dezember 1875</title>
-				<author><persName key="akronym.r"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.r"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/bk_1875-12-12_muenchen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -18,7 +19,7 @@
 					<date when-custom="sun" when-iso="1875-12-12"/>
 					<date when-custom="mon" when-iso="1875-12-13"/>
 					<biblScope unit="issue">343/344</biblScope>
-					<biblScope unit="subIssue">343/344</biblScope>
+					<biblScope unit="subIssue">Zweites Blatt</biblScope>
 					<biblScope unit="volume">19</biblScope>
 					<series>bk</series>
 					<biblScope unit="page">[1]</biblScope>
@@ -26,8 +27,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="muenchen"/><date when-custom="sat" when-iso="1875-12-11"
-				/></creation>
+			<creation>
+				<placeName key="muenchen"/>
+				<date when-custom="sat" when-iso="1875-12-11"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,76 +44,80 @@
 	</teiHeader>
 	<!--<graphic n="bk_1875-12-12_1.jpg"/>-->
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Lokales und Provinzielles.</head>
-			<head><hi rend="widespace"><placeName key="muenchen">München</placeName></hi>, <date
-					when-iso="1875-12-11">11. Dezember</date>.</head>
+		</front>
+		<body rend="fraktur">
+			<dateline><hi rend="widespace"><placeName key="muenchen">München</placeName></hi>, <date
+					when-iso="1875-12-11">11. Dezember</date>.</dateline>
 			<p><hi rend="bold"><persName key="akronym.r">— r.</persName> (Conzert.)</hi>
 				<rs key="wien.1875" type="event">Nachdem in <placeName key="wien">Wien</placeName>
 					<hi rend="widespace"><persName key="verdi.giuseppe" role="composer"
 							>Verdi’s</persName>
-						<title key="verdi.requiem" type="mus">Requiem</title></hi> unter persönlicher Leitung
-					des Componisten mit großen Erfolg aufgeführt worden</rs>, ward es für die
-				musikalische Akademie eine Ehrenpflicht, dieses bedeutende, zum Gedächtniß des auch
-				in <placeName key="deutschland">Deutschland</placeName> mit recht geschätzten und
-				berühmten Verfassers der <hi rend="antiqua">„promessi sposi“</hi> (Verlobten)
-					<persName key="manzoni.alessandro">Alessandro Manzoni</persName> komponirte
-				Werk, auch dem Münchener Publikum vorzuführen. Die Stylart dieser Composition ist
-				allerdings dazu angethan, daß der Verleger <orgName key="ricordi">Ricordi</orgName>
-				kaum erwarten darf, sie im Catalog des allgemeinen deutschen Cäcilienvereins
-				aufgenommen zu sehen, aber deswegen wird der musikalische Werth im großen Ganzen
-				nicht übersehen werden können, denn wir empfangen damit von <persName
-					key="verdi.giuseppe">Verdi</persName>, der vom Jahre <date from-iso="1839"
-					to-iso="1870">1839-70</date> 36 Opern schrieb, von denen 3 oder 4 auch die Alpen
-				überschritten, eine Composition, die vom rein musikalischen Standpunkt aus
-				betrachtet, Achtung gebietet. Macht der Componist auch von allen Mitteln, welche die
-				technische Vervollkommnung der Instrumente und orchestralen Mittel überhaupt bietet,
-				mehr als umfassenden Gebrauch, so verliert er sich doch nie ins Gebiet der
-				Unmöglichkeiten und verharrt stets auf rein musikalischen Standpunkt. Daß <persName
-					key="verdi.giuseppe">Verdi</persName> eine andere Denkungsart für den Ausdruck
-				religiösen Gefühls an den Tag legt, als dieß im schroffen Gegensatz <persName
-					key="brahms.johannes">Johannes Brahms</persName> in seinem <title
-					key="brahms.requiem" type="mus">deutschen Requiem</title> gethan, bedarf kaum des
-				Hinweises; ist es doch auffällig wie die Kirchenmusik immer unkirchlicher wird, je
-				mehr man sich dem Centralpunkt der katholischen Kirche nähert. — Wenden wir uns zum
-				Werke selbst um die einzelnen Theile zu besprechen, so begegnet uns der <title
-					key="verdi.requiem.1" type="mus">Introitus</title> als kurze, dramatische Einleitung, in
-				welcher die Textworte vom Chor in abgebrochenen fast recitativartigen Sätzen
-				vorgetragen und von einer zarten Instrumentalbegleitung gehoben werden. Der <title
-					n="te-decet-hymnus" key="verdi.requiem.1" type="mus">Psalm</title> ist ein herrlicher Satz
-				im Styl <hi rend="antiqua">a capella</hi>, dessen Harmonik gegen Ende reich und kühn
-				ist. Das sich eng anschließende <hi rend="antiqua"><title n="kyrie"
-						key="verdi.requiem.1" type="mus">Kyrie</title></hi> trägt eine mehr weltliche Färbung,
-				hier treten die ersten Sologesänge auf, an denen <persName key="verdi.giuseppe"
-					>Verdi’s</persName> Eigenthümlichkeit nicht übersehen werden kann. Der gewaltige
-				Text des <hi rend="antiqua"><title key="verdi.requiem.2" type="mus">Dies irae</title></hi>
-				forderte den Componisten zur Anwendung großartiger Effekte auf, er verschmähte es
-				selbst nicht die große Trommel anzuwenden. Für die Kirche müßten wir jedoch solche
-				Sätze ablehnen, wenn sie musikalisch noch so berechtigt sein mögen. Der ganze breit
-				ausgesponnene Satz ist voll dramatischen Lebens, entbehrt jedoch keineswegs gewisser
-				Seltsamkeiten; so begegnet uns im <hi rend="antiqua"><title n="oro-supplex"
-						key="verdi.requiem.2.confutatis" type="mus">Confutatis</title></hi> eine öfter
-				wiederholte Reihenfolge von Quinten-Parallelen für deren absichtliche Anwendung kein
-				Grund erfindlich. Die Verwendung von Trompeten im <hi rend="antiqua"><title
-						key="verdi.requiem.2.tuba-mirum" type="mus">Tuba mirum</title></hi> mit dem Echo ist
-				eine Modifizirung des von <persName key="berlioz.hector">H. Berlioz</persName> in
-				seinem <title key="berlioz.grande-messe-des-morts" type="mus">Requiem</title> verwertheten
-				Effektes; hier ist die Einschränkung wohl überlegt und gewiß nur zu billigen. Die
-				Form der ganzen Sequenz des <title key="verdi.requiem.2" type="mus">Dies irae</title> ist eine
-				sehr abgerundete und würden nicht da und dort theatralische Effekte überwiegen, so
-				würde so würde das ganze von überwältigendem Eindruck auf die Hörer sein. Das <hi
-					rend="antiqua"><title key="verdi.requiem.3" type="mus">Offertorium</title></hi> ist ein
-				großer Ensemblesatz, der eine geistvolle Combination in sich birgt und von bester
-				Wirkung ist. Nun gelangen wir unseres Erachtens zum Glanzpunkt der ganzen
-				Todtenmesse, zum <hi rend="antiqua"><title key="verdi.requiem.4" type="mus"
-					>Sanctus</title></hi>, das zwar etwas eigenthümlich auftritt; es wird aber vom
-				Beginn der zweichörigen Doppelfuge an nicht nur musikalisch interessant, sondern
-				bringt ganz der Situation gemäß die geeignete andächtige Stimmung zum Ausdruck. In
-				dem <hi rend="antiqua"><title key="verdi.requiem.4" type="mus">Sanctus</title></hi> ist das
-					<hi rend="antiqua"><title n="benedictus" key="verdi.requiem.4" type="mus"
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> unter
+					persönlicher Leitung des Componisten mit großen Erfolg aufgeführt worden</rs>,
+				ward es für die musikalische Akademie eine Ehrenpflicht, dieses bedeutende, zum
+				Gedächtniß des auch in <placeName key="deutschland">Deutschland</placeName> mit
+				recht geschätzten und berühmten Verfassers der <hi rend="antiqua">„promessi
+					sposi“</hi> (Verlobten) <persName key="manzoni.alessandro">Alessandro
+					Manzoni</persName> komponirte Werk, auch dem Münchener Publikum vorzuführen. Die
+				Stylart dieser Composition ist allerdings dazu angethan, daß der Verleger <orgName
+					key="ricordi">Ricordi</orgName> kaum erwarten darf, sie im Catalog des
+				allgemeinen deutschen Cäcilienvereins aufgenommen zu sehen, aber deswegen wird der
+				musikalische Werth im großen Ganzen nicht übersehen werden können, denn wir
+				empfangen damit von <persName key="verdi.giuseppe">Verdi</persName>, der vom Jahre
+					<date from-iso="1839" to-iso="1870">1839-70</date> 36 Opern schrieb, von denen 3
+				oder 4 auch die Alpen überschritten, eine Composition, die vom rein musikalischen
+				Standpunkt aus betrachtet, Achtung gebietet. Macht der Componist auch von allen
+				Mitteln, welche die technische Vervollkommnung der Instrumente und orchestralen
+				Mittel überhaupt bietet, mehr als umfassenden Gebrauch, so verliert er sich doch nie
+				ins Gebiet der Unmöglichkeiten und verharrt stets auf rein musikalischen Standpunkt.
+				Daß <persName key="verdi.giuseppe">Verdi</persName> eine andere Denkungsart für den
+				Ausdruck religiösen Gefühls an den Tag legt, als dieß im schroffen Gegensatz
+					<persName key="brahms.johannes">Johannes Brahms</persName> in seinem <title
+					key="brahms.requiem" type="mus">deutschen Requiem</title> gethan, bedarf kaum
+				des Hinweises; ist es doch auffällig wie die Kirchenmusik immer unkirchlicher wird,
+				je mehr man sich dem Centralpunkt der katholischen Kirche nähert. — Wenden wir uns
+				zum Werke selbst um die einzelnen Theile zu besprechen, so begegnet uns der <title
+					key="verdi.requiem.1" type="mus">Introitus</title> als kurze, dramatische
+				Einleitung, in welcher die Textworte vom Chor in abgebrochenen fast recitativartigen
+				Sätzen vorgetragen und von einer zarten Instrumentalbegleitung gehoben werden. Der
+					<title key="verdi.requiem.1" n="te-decet-hymnus" type="mus">Psalm</title> ist
+				ein herrlicher Satz im Styl <hi rend="antiqua">a capella</hi>, dessen Harmonik gegen
+				Ende reich und kühn ist. Das sich eng anschließende <hi rend="antiqua"><title
+						key="verdi.requiem.1" n="kyrie" type="mus">Kyrie</title></hi> trägt eine
+				mehr weltliche Färbung, hier treten die ersten Sologesänge auf, an denen <persName
+					key="verdi.giuseppe">Verdi’s</persName> Eigenthümlichkeit nicht übersehen werden
+				kann. Der gewaltige Text des <hi rend="antiqua"><title key="verdi.requiem.2"
+						type="mus">Dies irae</title></hi> forderte den Componisten zur Anwendung
+				großartiger Effekte auf, er verschmähte es selbst nicht die große Trommel
+				anzuwenden. Für die Kirche müßten wir jedoch solche Sätze ablehnen, wenn sie
+				musikalisch noch so berechtigt sein mögen. Der ganze breit ausgesponnene Satz ist
+				voll dramatischen Lebens, entbehrt jedoch keineswegs gewisser Seltsamkeiten; so
+				begegnet uns im <hi rend="antiqua"><title key="verdi.requiem.2.confutatis"
+						n="oro-supplex" type="mus">Confutatis</title></hi> eine öfter wiederholte
+				Reihenfolge von Quinten-Parallelen für deren absichtliche Anwendung kein Grund
+				erfindlich. Die Verwendung von Trompeten im <hi rend="antiqua"><title
+						key="verdi.requiem.2.tuba-mirum" type="mus">Tuba mirum</title></hi> mit dem
+				Echo ist eine Modifizirung des von <persName key="berlioz.hector">H.
+					Berlioz</persName> in seinem <title key="berlioz.grande-messe-des-morts"
+					type="mus">Requiem</title> verwertheten Effektes; hier ist die Einschränkung
+				wohl überlegt und gewiß nur zu billigen. Die Form der ganzen Sequenz des <title
+					key="verdi.requiem.2" type="mus">Dies irae</title> ist eine sehr abgerundete und
+				würden nicht da und dort theatralische Effekte überwiegen, so würde so würde das
+				ganze von überwältigendem Eindruck auf die Hörer sein. Das <hi rend="antiqua"><title
+						key="verdi.requiem.3" type="mus">Offertorium</title></hi> ist ein großer
+				Ensemblesatz, der eine geistvolle Combination in sich birgt und von bester Wirkung
+				ist. Nun gelangen wir unseres Erachtens zum Glanzpunkt der ganzen Todtenmesse, zum
+					<hi rend="antiqua"><title key="verdi.requiem.4" type="mus">Sanctus</title></hi>,
+				das zwar etwas eigenthümlich auftritt; es wird aber vom Beginn der zweichörigen
+				Doppelfuge an nicht nur musikalisch interessant, sondern bringt ganz der Situation
+				gemäß die geeignete andächtige Stimmung zum Ausdruck. In dem <hi rend="antiqua"
+						><title key="verdi.requiem.4" type="mus">Sanctus</title></hi> ist das <hi
+					rend="antiqua"><title key="verdi.requiem.4" n="benedictus" type="mus"
 						>Benedictus</title></hi> mit verflochten und nicht als eigener Satz
 				behandelt. Das <hi rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus
-					Dei</title></hi> beginnt mit einem längeren Solosatz in Unisono zwischen
+						Dei</title></hi> beginnt mit einem längeren Solosatz in Unisono zwischen
 					Tenor<note resp="tr" type="eventCommentary">Eigentlich Sopran und Mezzosopran,
 					jedoch könnte die Besetzung umgestellt worden sein; vgl. <ref
 						target="euterpe_1876_35-07_heilbronn.xml" type="text">Euterpe, Leipzig,
@@ -118,15 +125,16 @@
 				noch dadurch steigert, daß beim dritten Agnus die Instrumente und der Chor
 				einsetzten und die ganze etwas breit gehaltene Phrase mit einer interessanten
 				harmonischen Unterlage wiederholen. Das <hi rend="antiqua"><title
-						key="verdi.requiem.7" type="mus">Post comunio</title></hi> ist ein Satz mit Solo und
-				Chor, in dem <persName key="verdi.giuseppe">Verdi</persName> die Hauptmotive des
-				ganzen Requiem zusammenfaßt und die überwältigenden Instrumentaleffekte de<supplied
-					resp="tr">s</supplied>
+						key="verdi.requiem.7" type="mus">Post comunio</title></hi> ist ein Satz mit
+				Solo und Chor, in dem <persName key="verdi.giuseppe">Verdi</persName> die
+				Hauptmotive des ganzen Requiem zusammenfaßt und die überwältigenden
+				Instrumentaleffekte de<supplied resp="tr">s</supplied>
 				<hi rend="antiqua"><title key="verdi.requiem.2" type="mus">Dies irae</title></hi>
-				andeutungsweise wiederkehren. Im <hi rend="antiqua"><title key="verdi.requiem.7" type="mus"
-						>Libera</title></hi> begegnen wir einer trefflich gearbeiteten Fuge und sind
-				wir nicht gleicher Meinung mit dem italienischen Kritiker, es sei nicht viel mehr
-				als eine gewöhnlicher Schularbeit, wir glauben vielmehr, sie sei als die <choice>
+				andeutungsweise wiederkehren. Im <hi rend="antiqua"><title key="verdi.requiem.7"
+						type="mus">Libera</title></hi> begegnen wir einer trefflich gearbeiteten
+				Fuge und sind wir nicht gleicher Meinung mit dem italienischen Kritiker, es sei
+				nicht viel mehr als eine gewöhnlicher Schularbeit, wir glauben vielmehr, sie sei als
+				die <choice>
 					<orig>gedeigene</orig>
 					<corr resp="tr">gediegene</corr>
 				</choice> Arbeit eines tüchtigen und gewandten Contrapunktisten zu schätzen. Zudem
@@ -150,13 +158,14 @@
 					key="verdi.giuseppe">Verdi</persName>, daß er mit den einzelnen Instrumenten
 				mehr vertraut als von vielen der berühmten Instrumentatoren der Gegenwart gesagt
 				werden kann. Der Erfolg war sehr günstig und mußte das <hi rend="antiqua"><title
-						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> wiederholt werden.</p>
-			<p>Durch die <rs key="muenchen.1875.1" type="event">Aufführung</rs> hat die
-				musikalische Akademie sich ein unbestrittenes Verdienst erworben, Herrn
-				Hofkapellmeister <persName key="wuellner.franz">Wüllner</persName> gebührt für
-				seine dem Werke gewidmeten Bemühungen Dank und Anerkennung und hat er sich damit in
-				der Geschichte des <placeName key="muenchen">Münchener</placeName> Concertlebens
-				ein bleibendes Andenken gesichert.</p>
+						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> wiederholt
+				werden.</p>
+			<p>Durch die <rs key="muenchen.1875.1" type="event">Aufführung</rs> hat die musikalische
+				Akademie sich ein unbestrittenes Verdienst erworben, Herrn Hofkapellmeister
+					<persName key="wuellner.franz">Wüllner</persName> gebührt für seine dem Werke
+				gewidmeten Bemühungen Dank und Anerkennung und hat er sich damit in der Geschichte
+				des <placeName key="muenchen">Münchener</placeName> Concertlebens ein bleibendes
+				Andenken gesichert.</p>
 		</body>
 	</text>
 </TEI>

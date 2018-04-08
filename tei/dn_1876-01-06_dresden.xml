@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Dresdner Nachrichten, 6. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dn_1876-01-06_feuilleton.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="dresden"/></creation>
+			<creation>
+				<placeName key="dresden"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -36,9 +37,11 @@
 		</encodingDesc>
 	</teiHeader>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
-			<gap resp="tr"/>
+		</front>
+		<gap/>
+		<body rend="fraktur">
 			<p><g n="2020" type="DAGGER">†</g> Die Proben zu <hi rend="widespace"><persName
 						key="verdi.giuseppe">Verdi’s</persName></hi> schönem <title
 					key="verdi.requiem" type="mus">Requiem</title> sind in vollem Gange. Von einer

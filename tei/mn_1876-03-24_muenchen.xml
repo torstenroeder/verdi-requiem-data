@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Münchener Nachrichten, 24. März 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mn_1876-03-24_verdis-requiem.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="muenchen"/></creation>
+			<creation>
+				<placeName key="muenchen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -39,26 +40,27 @@
 		<body rend="fraktur">
 			<p>— <rs key="muenchen.1875.1" type="event"><hi rend="bold">(<persName
 							key="verdi.giuseppe">Verdi’s</persName>
-						<title key="verdi.requiem" type="mus">Requiem</title>)</hi> gelangte hier schon vor
-					einigen Monaten im <placeName key="muenchen.odeon">k. Odeon</placeName> zur
-					ersten Aufführung</rs>; <rs key="muenchen.1875.2" type="event">eine zweite fand
-					am <date when-iso="1876-03-21">21. März</date> im <placeName
-						key="muenchen.hoftheater">Hoftheater</placeName> statt</rs>. Das <title
-					key="verdi.requiem" type="mus">Requiem</title> ist nicht ohne große Schönheiten und gehört
-				entschieden zu den bedeutendsten musikalischen Tonschöpfungen der Gegenwart. Am
-				wirkungsvollsten ist das <hi rend="antiqua"><title key="verdi.requiem.2" type="mus">Dies irae
-						dies illa</title></hi> — ein großartiges Tongemälde, welches den Schrecken
-				des jüngsten Gerichtes Ausdruck giebt. Das <hi rend="antiqua"><title
-						key="verdi.requiem.6" type="mus">Lux aeterna luceat eis</title></hi> beweist, daß <hi
-					rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> denn doch
-				bei Meister <persName key="wagner.richard">Wagner</persName> ein wenig in die
-				Schule gegangen. — Das Opernhafte, Sinnliche der ganzen Musik mag für ein Requiem
-				nicht passen, es wirkt aber im Konzertsaale und Theater um so besser. Die Aufführung
-				kann als eine gelungene bezeichnet werden. Die Soli wurden gesungen von den Damen
-					<persName key="radecke.luise">Radecke</persName> und <persName
-					key="schefsky.josephine">Schefzky</persName>, den Herren <persName
-					key="bausewein.kaspar">Bausewein</persName> und <persName key="nachbaur.franz"
-					>Nachbaur</persName>.</p>
+						<title key="verdi.requiem" type="mus">Requiem</title>)</hi> gelangte hier
+					schon vor einigen Monaten im <placeName key="muenchen.odeon">k.
+						Odeon</placeName> zur ersten Aufführung</rs>; <rs key="muenchen.1875.2"
+					type="event">eine zweite fand am <date when-iso="1876-03-21">21. März</date> im
+						<placeName key="muenchen.hoftheater">Hoftheater</placeName> statt</rs>. Das
+					<title key="verdi.requiem" type="mus">Requiem</title> ist nicht ohne große
+				Schönheiten und gehört entschieden zu den bedeutendsten musikalischen Tonschöpfungen
+				der Gegenwart. Am wirkungsvollsten ist das <hi rend="antiqua"><title
+						key="verdi.requiem.2" type="mus">Dies irae dies illa</title></hi> — ein
+				großartiges Tongemälde, welches den Schrecken des jüngsten Gerichtes Ausdruck giebt.
+				Das <hi rend="antiqua"><title key="verdi.requiem.6" type="mus">Lux aeterna luceat
+						eis</title></hi> beweist, daß <hi rend="widespace"><persName
+						key="verdi.giuseppe">Verdi</persName></hi> denn doch bei Meister <persName
+					key="wagner.richard">Wagner</persName> ein wenig in die Schule gegangen. — Das
+				Opernhafte, Sinnliche der ganzen Musik mag für ein Requiem nicht passen, es wirkt
+				aber im Konzertsaale und Theater um so besser. Die Aufführung kann als eine
+				gelungene bezeichnet werden. Die Soli wurden gesungen von den Damen <persName
+					key="radecke.luise">Radecke</persName> und <persName key="schefsky.josephine"
+					>Schefzky</persName>, den Herren <persName key="bausewein.kaspar"
+					>Bausewein</persName> und <persName key="nachbaur.franz"
+				>Nachbaur</persName>.</p>
 			<p><persName key="ludwig-ii.bayern">Seine Majestät</persName> erschien nach acht Uhr in
 				der Königsloge und verweilte darin bis zum Schlusse.</p>
 		</body>

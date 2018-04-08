@@ -4,11 +4,10 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Zeitung, 11. Juni 1874</title>
-				<title>aus: Neue Freie Pr.</title>
-				<principal>Torsten Roeder</principal>
+				<title>aus: Neue Freie Presse</title>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1874-06-11_verdi.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,7 +16,7 @@
 					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1874-06-11"/>
 					<biblScope unit="issue">131</biblScope>
-					<biblScope unit="subIssue">131</biblScope>
+					<biblScope unit="subIssue">Abendpost</biblScope>
 					<series>wz</series>
 					<biblScope unit="page">1142</biblScope>
 					<biblScope unit="page">[2]</biblScope>
@@ -25,7 +24,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,12 +43,16 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740611&amp;seite=12"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="1142" type="initial"/>
+		<front rend="fraktur">
+			<pb n="1142"/>
+			<cb n="a"/>
 			<head rend="larger">Kleine Chronik.</head>
-			<p rend="smaller center"><hi rend="bold"><placeName key="wien">Wien</placeName>,</hi>
-				<date when-iso="1874-11-06">11. Juni</date>.</p>
-			<cb break="null" n="1142b" type="skipped"/>
+			<head rend="smaller"><hi rend="bold"><placeName key="wien">Wien</placeName>,</hi>
+				<date when-iso="1874-11-06">11. Juni</date>.</head>
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<cb n="b"/>
 			<p>(<hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi>.) Aus
 					<placeName key="paris">Paris</placeName> meldet die „<orgName
 					key="neue-freie-presse"><choice>
@@ -58,21 +63,22 @@
 						key="paris">Paris</placeName> fand am <date when-iso="1874-06-08">8. d.
 						M.</date> unter persönlicher Leitung des Componisten die Generalprobe der
 					zum Gedächtniß <persName key="manzoni.alessandro">Alessandro
-					Manzoni</persName>’s componirten <title key="verdi.requiem" type="mus">Todtenmesse</title>
-					von <hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi>
-					statt</rs>, welche kürzlich schon in <placeName key="venedig"
-					>Venedig</placeName><note resp="tr" type="eventCommentary">Falschmeldung; vgl.
-						<ref target="nfb_1874-06-11_paris.xml" type="text">Neue Freie Presse, Wien,
-						11. Juni 1874</ref>.</note> und <rs key="mailand.1874" type="event"
-						><placeName key="mailand">Mailand</placeName></rs> gehört worden ist. In
-				Wahrheit konnte man diese Generalprobe eine erste Aufführung nennen, da alle Räume
-				des Theaters von einem geladenen, aus der Kunst- und fashionablen Welt recrutirten
-				Publicum besetzt waren. Die Soli befanden sich in denselben Händen wie in Italien:
-				Frau <persName key="stolz.teresa" role="soloist.soprano">Stolz</persName> (Sopran),
-				Frau <persName key="waldmann.maria" role="soloist.mezzo">Waldmann</persName> (Alt),
-					<persName key="capponi.giuseppe" role="soloist.tenor">Capponi</persName> (Tenor)
-				und <persName key="maini.armando" role="soloist.basso">Maini</persName> (Baß); Chor
-				und Orchester waren der <placeName key="paris.grand-opera">großen</placeName>, der
+					Manzoni</persName>’s componirten <title key="verdi.requiem" type="mus"
+						>Todtenmesse</title> von <hi rend="widespace"><persName key="verdi.giuseppe"
+							>Verdi</persName></hi> statt</rs>, welche kürzlich schon in <placeName
+					key="venedig">Venedig</placeName><note resp="tr" type="eventCommentary"
+					>Falschmeldung; vgl. <ref target="nfb_1874-06-11_paris.xml" type="text">Neue
+						Freie Presse, Wien, 11. Juni 1874</ref>.</note> und <rs key="mailand.1874"
+					type="event"><placeName key="mailand">Mailand</placeName></rs> gehört worden
+				ist. In Wahrheit konnte man diese Generalprobe eine erste Aufführung nennen, da alle
+				Räume des Theaters von einem geladenen, aus der Kunst- und fashionablen Welt
+				recrutirten Publicum besetzt waren. Die Soli befanden sich in denselben Händen wie
+				in Italien: Frau <persName key="stolz.teresa" role="soloist.soprano"
+					>Stolz</persName> (Sopran), Frau <persName key="waldmann.maria"
+					role="soloist.mezzo">Waldmann</persName> (Alt), <persName key="capponi.giuseppe"
+					role="soloist.tenor">Capponi</persName> (Tenor) und <persName
+					key="maini.armando" role="soloist.basso">Maini</persName> (Baß); Chor und
+				Orchester waren der <placeName key="paris.grand-opera">großen</placeName>, der
 					<placeName key="paris.theatre-italien">italienischen</placeName> und der
 					<placeName key="paris.opera-comique">komischen Oper</placeName> entlehnt. Die
 				Zahl der Mitwirkenden betrug 200. <persName key="verdi.giuseppe">Verdi</persName>
@@ -80,17 +86,18 @@
 				Bewohner von <placeName key="paris">Paris</placeName> kein Neuling war, mit
 				begeistertem Beifall begrüßt; trotz des religiösen Charakters der Composition
 				wiederholte sich diese Kundgebung nach jeder der beiden Abtheilungen: es wurde
-				nämlich nach dem <title key="verdi.requiem.2.lacrymosa" type="mus">Lacrimosa</title> eine große
-				Pause gemacht, so daß der zweite Theil mit dem <title key="verdi.requiem.3" type="mus"
-					>Offertorium</title> begann. Der Erfolg dieses <title key="verdi.requiem" type="mus"
-					>Requiems</title> war allerdings kein unbestrittener: man fand es, wie alle
-				moderne italienische Kirchenmusik und wie z. B. auch das <hi rend="antiqua"><title
-						key="rossini.stabat-mater" type="mus">Stabat Mater</title></hi> und die <title
-					key="rossini.petite-messe-solennelle" type="mus">Messe</title> von <persName
-					key="rossini.gioachino">Rossini</persName>, zu weltlich, zu theatralisch, zu
-				materialistisch, und noch im Saale der komischen Oper hörte man das Bonmot, dieses
-				Werk sei eine Todtenmesse für ein Civilbegräbniß<note resp="tr" type="textLink">Vgl.
-						<persName key="jouvin.benoit">B. Jouvin</persName>, <ref
+				nämlich nach dem <title key="verdi.requiem.2.lacrymosa" type="mus">Lacrimosa</title>
+				eine große Pause gemacht, so daß der zweite Theil mit dem <title
+					key="verdi.requiem.3" type="mus">Offertorium</title> begann. Der Erfolg dieses
+					<title key="verdi.requiem" type="mus">Requiems</title> war allerdings kein
+				unbestrittener: man fand es, wie alle moderne italienische Kirchenmusik und wie z.
+				B. auch das <hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">Stabat
+						Mater</title></hi> und die <title key="rossini.petite-messe-solennelle"
+					type="mus">Messe</title> von <persName key="rossini.gioachino"
+					>Rossini</persName>, zu weltlich, zu theatralisch, zu materialistisch, und noch
+				im Saale der komischen Oper hörte man das Bonmot, dieses Werk sei eine Todtenmesse
+				für ein Civilbegräbniß<note resp="tr" type="textLink">Vgl. <persName
+						key="jouvin.benoit">B. Jouvin</persName>, <ref
 						target="http://gallica.bnf.fr/ark:/12148/bpt6k2752604.item" type="text">Le
 						Figaro, Paris, 10. Juni 1874, S. 1</ref>: »Une messe pour un enterrement
 					civil«.</note>. Aber auch die strengsten Kritiker konnten einigen Nummern eine

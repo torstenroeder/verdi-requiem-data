@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Zeitung, 23. Mai 1877 [1]</title>
-				<author><persName key="guckeisen.august"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="guckeisen.august"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/kz_1877-05-23_niederrheinisches-musikfest.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,14 +18,16 @@
 					<placeName key="koeln"/>
 					<date when-custom="wed" when-iso="1877-05-23"/>
 					<biblScope unit="issue">142</biblScope>
-					<biblScope unit="subIssue">142</biblScope>
+					<biblScope unit="subIssue">Zweites Blatt</biblScope>
 					<series>kz</series>
 					<biblScope unit="page">2</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,40 +48,40 @@
 			<head rend="larger">Vierundfünfzigstes Niederrheinisches Musikfest</head>
 			<head rend="smaller">unter Leitung von <hi rend="antiqua">Dr.</hi>
 				<persName key="hiller.ferdinand">Ferd. Hiller</persName>.</head>
-			<head>Gefeiert in <placeName key="koeln">Köln</placeName> am <date
-					when-iso="1877-05-20">20.</date>, <date when-iso="1877-05-21">21.</date> und
-					<date when-iso="1877-05-22">22. Mai</date>.</head>
+			<head>Gefeiert in <placeName key="koeln">Köln</placeName> am <date when-iso="1877-05-20"
+					>20.</date>, <date when-iso="1877-05-21">21.</date> und <date
+					when-iso="1877-05-22">22. Mai</date>.</head>
 			<head rend="widespace">Dritter Tag.</head>
 			<p rend="right"><hi rend="antiqua"><persName key="guckeisen.august">G</persName></hi>
 				<hi rend="bold"><placeName key="koeln">Köln</placeName></hi>, <date
 					when-iso="1877-05-23">23. Mai</date>.</p>
-			<p>Erledigen wir zunächst das <rs key="koeln.1877.musikfest.2" type="event">Programm
-					des zweiten Tages</rs>. Zu den angeführten Besonderheiten des <persName
+			<p>Erledigen wir zunächst das <rs key="koeln.1877.musikfest.2" type="event">Programm des
+					zweiten Tages</rs>. Zu den angeführten Besonderheiten des <persName
 					key="verdi.giuseppe">Verdi’schen</persName>
-				<title key="verdi.requiem" type="mus">Requiems</title> gehört auch das häufige Psalmodiren
-				nicht nur dort, wo der Blick auf die Partitur schon die Absicht erkennt, wie zu
-				Anfang des Libera me Domine, sondern auch an zahlreichen anderen Stellen, z. B. im
-					<title key="verdi.requiem.3" type="mus">Offertorium</title> die Unisonostelle der Solisten
-				fae cas Domine de morte transire ad vitam. Die Stimmen lösen sich hier ab, genau wie
-				im hohen Domchor die Psalmen hingemurmelt werden. Selbst das <title
-					n="requiem-aeternam" key="verdi.requiem.7" type="mus">Requiem aeternam</title> in der
-				Nummer <title key="verdi.requiem.6" type="mus">Lux aeterna</title> klingt unter <persName
-					key="verdi.giuseppe">Verdi</persName> ganz in der psalmodischen Manier. Man
-				sieht, daß der Componist möglichst viele Aeußerlichkeiten des katholischen
-				Trauergottesdienstes in sein Werk aufzunehmen bemüht war, so daß jedenfalls im
-				schönen Lande Italien das <title key="verdi.requiem" type="mus">Requiem</title> von <persName
-					key="verdi.giuseppe">Verdi</persName> für vollständig kirchlich gelten muß. Daß
-				wir Deutsche darüber anders denken, ändert nichts an dem Werthe der Composition an
-				und für sich betrachtet. Kurz gesagt, <persName key="verdi.giuseppe"
-					>Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title>, wie es unter des Componisten Leitung
-				erschien, ist für jeden phantasiereichen Menschen ein farbenreiches, prächtiges
-				Bild, wo der düstere Ernst, der Schauer des Schreckens dem bel canto des Arioso oder
-				der Cavatine brüderlich die Hand reicht. Aber eben der häufige Wechsel der
-				Beleuchtung läßt kaum für das erste Hören einen bestimmten packenden Gesammteindruck
-				zurück; dagegen wirkt die Erinnerung an das Einzelne lebhaft nach, und daß eben das
-				Einzelne nachher nicht aus dem Kopfe heraus will, das ist bezeichnend für die hohe
-				musicalische Bedeutung des Werkes.</p>
+				<title key="verdi.requiem" type="mus">Requiems</title> gehört auch das häufige
+				Psalmodiren nicht nur dort, wo der Blick auf die Partitur schon die Absicht erkennt,
+				wie zu Anfang des Libera me Domine, sondern auch an zahlreichen anderen Stellen, z.
+				B. im <title key="verdi.requiem.3" type="mus">Offertorium</title> die Unisonostelle
+				der Solisten fae cas Domine de morte transire ad vitam. Die Stimmen lösen sich hier
+				ab, genau wie im hohen Domchor die Psalmen hingemurmelt werden. Selbst das <title
+					key="verdi.requiem.7" n="requiem-aeternam" type="mus">Requiem aeternam</title>
+				in der Nummer <title key="verdi.requiem.6" type="mus">Lux aeterna</title> klingt
+				unter <persName key="verdi.giuseppe">Verdi</persName> ganz in der psalmodischen
+				Manier. Man sieht, daß der Componist möglichst viele Aeußerlichkeiten des
+				katholischen Trauergottesdienstes in sein Werk aufzunehmen bemüht war, so daß
+				jedenfalls im schönen Lande Italien das <title key="verdi.requiem" type="mus"
+					>Requiem</title> von <persName key="verdi.giuseppe">Verdi</persName> für
+				vollständig kirchlich gelten muß. Daß wir Deutsche darüber anders denken, ändert
+				nichts an dem Werthe der Composition an und für sich betrachtet. Kurz gesagt,
+					<persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title>, wie es unter des Componisten
+				Leitung erschien, ist für jeden phantasiereichen Menschen ein farbenreiches,
+				prächtiges Bild, wo der düstere Ernst, der Schauer des Schreckens dem bel canto des
+				Arioso oder der Cavatine brüderlich die Hand reicht. Aber eben der häufige Wechsel
+				der Beleuchtung läßt kaum für das erste Hören einen bestimmten packenden
+				Gesammteindruck zurück; dagegen wirkt die Erinnerung an das Einzelne lebhaft nach,
+				und daß eben das Einzelne nachher nicht aus dem Kopfe heraus will, das ist
+				bezeichnend für die hohe musicalische Bedeutung des Werkes.</p>
 			<p>Täusche ich mich übrigens nicht, so blieb in der Aufführung manche Nüance aus, die in
 				den Proben gut bemerkbar war. Es ist das eine jener Zufälligkeiten, von denen jede
 				Aufführung bedroht ist, und ganz besonders die musikfestlichen Aufführungen, wo
@@ -111,15 +114,15 @@
 				Meister wach halten; in uns bleibt die Erinnerung an ihn lebendig durch seine Werke!
 					<gap resp="tr"/></p>
 			<p>Der Chor konnte sich in diesem Concert etwas ausruhen; er hatte nur mit den beiden
-				Solostimmen das <title key="verdi.requiem.5" type="mus">Agnus Dei</title> aus dem <title
-					key="verdi.requiem" type="mus">Requiem</title> zu wiederholen, was zu einer erneuten
-				Ovation für <persName key="verdi.giuseppe">Verdi</persName> Veranlassung gab,
-				sodann zum Schlusse die Nationalhymne singen. Die Einführung der Nationalhymne ist
-				eine Neuerung nach englischem Muster, die man gewiß nur billigen kann. Jede
-				Gelegenheit zur Ausbildung eines Nationalgefühls muß mit Freuden ergriffen werden.
-				Von der Hymne kamen die vier Originalstrophen zum Vortrag, für Soli, Chor und
-				Orchester in recht geistreicher Weise variiert. Besser aber noch, wenn das Publicum
-				einstimmen kann. <gap resp="tr"/></p>
+				Solostimmen das <title key="verdi.requiem.5" type="mus">Agnus Dei</title> aus dem
+					<title key="verdi.requiem" type="mus">Requiem</title> zu wiederholen, was zu
+				einer erneuten Ovation für <persName key="verdi.giuseppe">Verdi</persName>
+				Veranlassung gab, sodann zum Schlusse die Nationalhymne singen. Die Einführung der
+				Nationalhymne ist eine Neuerung nach englischem Muster, die man gewiß nur billigen
+				kann. Jede Gelegenheit zur Ausbildung eines Nationalgefühls muß mit Freuden
+				ergriffen werden. Von der Hymne kamen die vier Originalstrophen zum Vortrag, für
+				Soli, Chor und Orchester in recht geistreicher Weise variiert. Besser aber noch,
+				wenn das Publicum einstimmen kann. <gap resp="tr"/></p>
 			<p>Dr. <persName key="guckeisen.august">August Guckeisen</persName>.</p>
 		</body>
 	</text>

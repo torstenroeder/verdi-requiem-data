@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Signale, Leipzig, Mai 1877/35 [2]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/signale_1877-05_35_koeln-2.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +23,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -54,41 +55,41 @@
 				<hi rend="widespace">Ueber das künstlerische Ergebnis des diesjährigen
 					Niederrheinischen Musikfestes</hi> in <placeName key="koeln">Köln</placeName>
 				lauten die Stimmen überwiegend günstig. Unter Leitung <hi rend="antiqua">Dr.</hi>
-				<hi rend="widespace"><persName key="hiller.ferdinand">Ferd.
-					Hiller’s</persName></hi> brachte der Eröffnungstag eine prächtige Aufführung von
-					<persName key="haydn.joseph">Haydn’s</persName> „<title
-					key="haydn.die-jahreszeiten" type="mus">Jahreszeiten</title>“, an der die Chöre wie die
-				gewonnenen Solisten Fräulein <hi rend="widespace"><persName key="lehmann.lilli"
-						role="soloist.soprano">Lilli Lehmann</persName></hi>, Fräulein <hi
-					rend="widespace"><persName key="assmann.adele" role="soloist.mezzo">Adele
-						Aßmann</persName></hi>, die Herren <hi rend="widespace"><persName
-						key="ernst.heinrich" role="soloist.tenor">Ernst</persName></hi> und <hi
-					rend="widespace"><persName key="henschel.georg" role="soloist.basso">Georg
-						Henschel</persName></hi> (sämmtlich aus <placeName key="berlin"
-					>Berlin</placeName>) gleich hervorragenden Antheil hatten. <rs
-					key="koeln.1877.musikfest.2" type="event">Den zweiten Festtag leitete <persName
-						key="mozart.wolfgang-amadeus">Mozart’s</persName>
-					<title key="mozart.die-zauberfloete.ouvertuere" type="mus">Zauberflöten-Ouvertüre</title>
-					ein, dann trat der Held des Festes, Maestro <persName key="verdi.giuseppe"
-						>Verdi</persName>, an das Pult, um sein <title key="verdi.requiem" type="mus"
-						>Requiem</title> persönlich zu dirigiren.</rs> Von Orchesterfanfaren und
-				stürmischem Beifall begrüßt, mußte er zuerst aus den Händen einer Dame einen vom
-				Chor verliehenen Tactstock entgegennehmen, dessen goldener Griff in einem Kranz von
-				Lorbeerblättern auf blauem Email seine Initiale, ein <hi rend="antiqua">V</hi> mit
-				Diamanten besetzt, trägt. Nach Ueberreichung dieser kostbaren Spende begann das
-				Werk, das in seinem Verlaufe die Hörer zu begeisterten Beifallsausbrüchen
-				inflammirte und am Schluß selbstverständlich in den schmeichelhaften Ovationen für
-				den Componisten, Uebergabe eines silbernen Lorbeerkranzes mit goldener Schlinge <g
-					n="204A" type="TIRONIAN_SIGN_ET">⁊</g>c. <g n="204A" type="TIRONIAN_SIGN_ET"
-					>⁊</g>c., culminirte. Ueber die Auführung selbst war der Maestro des Lobes voll,
-				namentlich wußte er sich nicht anerkennend genug über die Chor- und Orchesterkräfte
-				zu äußern. <persName key="beethoven.ludwig-van">Beethoven’s</persName>
-				<title key="beethoven.symphonie-9" type="mus">neunte Sinfonie</title> füllte den zweiten Theil
-				des Abends aus, deren Wiedergabe namentlich in den drei ersten Theilen überaus
-				gelungen war. Das sogenannte Künstlerconcert des dritten Tages <gap resp="tr"/> Das
-				chorvocale Element fand außerdem in dem <hi rend="antiqua"><title
-						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> aus <persName
-					key="verdi.giuseppe">Verdi’s</persName>
+				<hi rend="widespace"><persName key="hiller.ferdinand">Ferd. Hiller’s</persName></hi>
+				brachte der Eröffnungstag eine prächtige Aufführung von <persName key="haydn.joseph"
+					>Haydn’s</persName> „<title key="haydn.die-jahreszeiten" type="mus"
+					>Jahreszeiten</title>“, an der die Chöre wie die gewonnenen Solisten Fräulein
+					<hi rend="widespace"><persName key="lehmann.lilli" role="soloist.soprano">Lilli
+						Lehmann</persName></hi>, Fräulein <hi rend="widespace"><persName
+						key="assmann.adele" role="soloist.mezzo">Adele Aßmann</persName></hi>, die
+				Herren <hi rend="widespace"><persName key="ernst.heinrich" role="soloist.tenor"
+						>Ernst</persName></hi> und <hi rend="widespace"><persName
+						key="henschel.georg" role="soloist.basso">Georg Henschel</persName></hi>
+				(sämmtlich aus <placeName key="berlin">Berlin</placeName>) gleich hervorragenden
+				Antheil hatten. <rs key="koeln.1877.musikfest.2" type="event">Den zweiten Festtag
+					leitete <persName key="mozart.wolfgang-amadeus">Mozart’s</persName>
+					<title key="mozart.die-zauberfloete.ouvertuere" type="mus"
+						>Zauberflöten-Ouvertüre</title> ein, dann trat der Held des Festes, Maestro
+						<persName key="verdi.giuseppe">Verdi</persName>, an das Pult, um sein <title
+						key="verdi.requiem" type="mus">Requiem</title> persönlich zu dirigiren.</rs>
+				Von Orchesterfanfaren und stürmischem Beifall begrüßt, mußte er zuerst aus den
+				Händen einer Dame einen vom Chor verliehenen Tactstock entgegennehmen, dessen
+				goldener Griff in einem Kranz von Lorbeerblättern auf blauem Email seine Initiale,
+				ein <hi rend="antiqua">V</hi> mit Diamanten besetzt, trägt. Nach Ueberreichung
+				dieser kostbaren Spende begann das Werk, das in seinem Verlaufe die Hörer zu
+				begeisterten Beifallsausbrüchen inflammirte und am Schluß selbstverständlich in den
+				schmeichelhaften Ovationen für den Componisten, Uebergabe eines silbernen
+				Lorbeerkranzes mit goldener Schlinge <g n="204A" type="TIRONIAN_SIGN_ET">⁊</g>c. <g
+					n="204A" type="TIRONIAN_SIGN_ET">⁊</g>c., culminirte. Ueber die Auführung selbst
+				war der Maestro des Lobes voll, namentlich wußte er sich nicht anerkennend genug
+				über die Chor- und Orchesterkräfte zu äußern. <persName key="beethoven.ludwig-van"
+					>Beethoven’s</persName>
+				<title key="beethoven.symphonie-9" type="mus">neunte Sinfonie</title> füllte den
+				zweiten Theil des Abends aus, deren Wiedergabe namentlich in den drei ersten Theilen
+				überaus gelungen war. Das sogenannte Künstlerconcert des dritten Tages <gap
+					resp="tr"/> Das chorvocale Element fand außerdem in dem <hi rend="antiqua"
+						><title key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> aus
+					<persName key="verdi.giuseppe">Verdi’s</persName>
 				<title key="verdi.requiem" type="mus">Requiem</title> und der von <persName
 					key="hiller.ferdinand">Hiller</persName> arrangirten Nationalhymne <title
 					key="heil-dir-im-siegerkranz" type="mus">„Heil dir im Siegerkranz“</title>

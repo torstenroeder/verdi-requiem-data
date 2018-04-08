@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Zeitung, 28. Mai 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1874-05-28_mailand.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1874-05-28"/>
 					<biblScope unit="issue">120</biblScope>
-					<biblScope unit="subIssue">120</biblScope>
+					<biblScope unit="subIssue">Abendpost</biblScope>
 					<series>wz</series>
 					<biblScope unit="page">955 [3]</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -40,27 +41,33 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740528&amp;seite=11"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="954c" type="initial"/>
+		<front rend="fraktur">
+			<pb n="954"/>
+			<cb n="c"/>
 			<head rend="larger">Kleine Chronik.</head>
 			<p rend="smaller center"><hi rend="bold"><placeName key="wien">Wien</placeName>,</hi>
 				<date when-iso="1874-05-28">28. Mai</date>.</p>
-			<cb break="null" n="955b" type="skipped"/>
-			<p>(<hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title></hi>.) <rs key="mailand.1874"
-					type="event">Das von <persName key="verdi.giuseppe">Verdi</persName> componirte
-						<title key="verdi.requiem" type="mus">Requiem</title> wurde zu <placeName
-						key="mailand">Mailand</placeName> nunmehr auch im <placeName
-						key="mailand.teatro-alla-scala">Theater Scala</placeName> am <date
-						when-iso="1874-05-26">26. Mai</date> gegeben.</rs> Ein der „<orgName
-					key="gazzetta-di-venezia">Gazzetta di Venezia</orgName>“ zugegangenes Telegramm
-				meldet: „Vollständiger unbeschreiblicher Triumph. Drei Nummern wiederholt,
-				stürmischer Beifall nach jedem Stück. Das enthusiasmirte Publicum schwang Hüte und
-				Taschentücher unter dem lauten Zurufe: <hi rend="antiqua">Viva Verdi</hi>.
-				Vortreffliche Aufführung. Einnahme 18.000 Lire. <persName key="verdi.giuseppe"
-					>Verdi</persName> erhielt eine Lorbeerkrone.“ Man sieht, daß die geräuschvollen
-				Manifestationen des <persName key="wagner.richard">Wagner</persName>-Enthusiasmus
-				in <placeName key="deutschland">Deutschland</placeName> zu Ehren <persName
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<pb n="955"/>
+			<cb n="b"/>
+			<p n="3">(<hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title></hi>.) <rs
+					key="mailand.1874" type="event">Das von <persName key="verdi.giuseppe"
+						>Verdi</persName> componirte <title key="verdi.requiem" type="mus"
+						>Requiem</title> wurde zu <placeName key="mailand">Mailand</placeName>
+					nunmehr auch im <placeName key="mailand.teatro-alla-scala">Theater
+						Scala</placeName> am <date when-iso="1874-05-26">26. Mai</date>
+					gegeben.</rs> Ein der „<orgName key="gazzetta-di-venezia">Gazzetta di
+					Venezia</orgName>“ zugegangenes Telegramm meldet: „Vollständiger
+				unbeschreiblicher Triumph. Drei Nummern wiederholt, stürmischer Beifall nach jedem
+				Stück. Das enthusiasmirte Publicum schwang Hüte und Taschentücher unter dem lauten
+				Zurufe: <hi rend="antiqua">Viva Verdi</hi>. Vortreffliche Aufführung. Einnahme
+				18.000 Lire. <persName key="verdi.giuseppe">Verdi</persName> erhielt eine
+				Lorbeerkrone.“ Man sieht, daß die geräuschvollen Manifestationen des <persName
+					key="wagner.richard">Wagner</persName>-Enthusiasmus in <placeName
+					key="deutschland">Deutschland</placeName> zu Ehren <persName
 					key="verdi.giuseppe">Verdi’s</persName> ihr Gegenbild in <placeName
 					key="italien">Italien</placeName> gefunden haben und daß ihn dort, wie es
 				scheint, die musikalisch-nationale Partei den Erfolgen, welche <persName

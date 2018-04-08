@@ -17,1136 +17,1810 @@
 		<encodingDesc>
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
-		<!--
-		* vermerken, ob digitalisiert?
-		* orte vermerken
-		* umformen: in Texten: orgName => title? oder name? (braucht @ref, deshalb geht series nicht)
-		* jeweilige Digitalisate vermerken (resource!) => REF
-		* sonstige Hinweise mit BIBL
-		-->
 	</teiHeader>
 	<text xml:lang="de">
 		<body>
-			<head>Periodika</head>
-			<listBibl type="periodicals">
-				<head>Deutschsprachige Musikzeitschriften</head>
-				<bibl type="periodical.music" xml:id="admz">
-					<idno type="zdb">505313-4</idno>
-					<idno type="gnd">947263810</idno>
-					<name>Allgemeine deutsche Musikzeitung</name>
-					<name type="secondary">Wochenschrift für die Reform des Musiklebens der
-						Gegenwart</name>
-					<name type="index">Allgemeine deutsche Musikzeitung [Berlin]</name>
-					<abbr>AdMz</abbr>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1874" to="1884"/>
-						<placeName key="charlottenburg"><note>zuerst: Leipzig und
-							Kassel</note></placeName>
-					</publisher>
-					<note type="frequency">wöchentlich (jeden Freitag)</note>
-					<note type="pagination">durchlaufend</note>
-					<bibl type="de.wikipedia.org">Allgemeine_deutsche_Musikzeitung</bibl>
-					<bibl type="de.wikisource.org"
-						>Die_Musikalischen_Zeitschriften_seit_ihrer_Entstehung_bis_zur_Gegenwart</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="amz">
-					<idno type="zdb">505329-8</idno>
-					<idno type="gnd">012650633</idno>
-					<name>Allgemeine musikalische Zeitung</name>
-					<name type="index">Allgemeine musikalische Zeitung [Leipzig]</name>
-					<name type="index">Leipziger allgemeine musikalische Zeitung</name>
-					<abbr>AmZ</abbr>
-					<lang>Deutsch</lang>
-					<publisher>
-						<name>J. Rieter-Biedermann</name>
-						<date from="1798" to="1848"/>
-						<date from="1863" to="1865"/>
-						<date from="1869" to="1882"/>
-						<placeName key="leipzig"/>
-						<placeName key="winterthur"/>
-					</publisher>
-					<note type="frequency">wöchentlich (jeden Mittwoch)</note>
-					<note type="pagination">durchlaufend nach Spalten</note>
-					<bibl type="de.wikipedia.org">Allgemeine_musikalische_Zeitung</bibl>
-					<bibl type="de.wikisource.org">Allgemeine_musikalische_Zeitung</bibl>
-					<bibl type="de.wikisource.org"
-						>Die_Musikalischen_Zeitschriften_seit_ihrer_Entstehung_bis_zur_Gegenwart</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="bmze">
-					<idno type="zdb">895483-5</idno>
-					<name type="index">Berliner Musik-Zeitung Echo</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<name>Schlesinger</name>
-						<date from="1851" to="1879"/>
-						<placeName key="berlin"/>
-					</publisher>
-					<bibl type="de.wikisource.org"
-						>Die_Musikalischen_Zeitschriften_seit_ihrer_Entstehung_bis_zur_Gegenwart</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="caecilia">
-					<idno type="zdb">551812-x</idno>
-					<idno type="zdb">2169356-0</idno>
-					<idno type="gnd">947509895</idno>
-					<name>Cäcilia</name>
-					<name type="secondary">Eine Zeitschrift für die musikalische Welt</name>
-					<name type="index">Cäcilia [Mainz]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1824" to="1848"/>
-						<placeName key="mainz"/>
-					</publisher>
-				</bibl>
-				<bibl type="periodical.music" xml:id="dmz">
-					<idno type="zdb">997201-8</idno>
-					<name>Deutsche Musik-Zeitung</name>
-					<name type="secondary">Organ für Theater und Kunst</name>
-					<name type="index">Deutsche Musik-Zeitung [Wien]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<name>Steyrermühl</name>
-						<date from="1874" to="1902"/>
-						<placeName key="wien"/>
-					</publisher>
-					<bibl type="de.wikipedia.org">Deutsche_Musik-Zeitung</bibl>
-					<bibl type="anno.onb.ac.at">dmz</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="euterpe">
-					<idno type="zdb">521313-7</idno>
-					<idno type="gnd">551852216</idno>
-					<name>Euterpe</name>
-					<name type="secondary">Eine Musik-Zeitschrift für Deutschlands Volksschullehrer
-						sowie für Cantoren, Organisten, Musiklehrer und Freunde der Tonkunst
-						überhaupt</name>
-					<name type="index">Euterpe [Leipzig]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1841" to="1884"/>
-						<placeName key="leipzig"/>
-					</publisher>
-					<note type="frequency">monatlich</note>
-					<note type="pagination">durchlaufend</note>
-					<bibl type="de.wikipedia.org">Euterpe_(Musikzeitschrift)</bibl>
-					<bibl type="de.wikisource.org"
-						>Die_Musikalischen_Zeitschriften_seit_ihrer_Entstehung_bis_zur_Gegenwart</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="fbkk">
-					<idno type="zdb">551262-1</idno>
-					<name>Fliegende Blätter für katholische Kirchenmusik</name>
-					<name type="index">Fliegende Blätter für katholische Kirchenmusik
-						[Regensburg]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<name>Pustet</name>
-						<date from="1866" to="1899"/>
-						<placeName key="regensburg"/>
-					</publisher>
-				</bibl>
-				<bibl type="periodical.music" xml:id="mfmg">
-					<idno type="zdb">206475-3</idno>
-					<name>Monatshefte für Musik-Geschichte</name>
-					<name type="index">Monatshefte für Musik-Geschichte [Berlin]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<name>Trautwein / Bahn / Liepmannssohn</name>
-						<date from="1869" to="1883"/>
-						<placeName key="berlin"/>
-					</publisher>
-					<publisher>
-						<name>Breitkopf &amp; Härtel</name>
-						<date from="1884" to="1905"/>
-						<placeName key="leipzig"/>
-					</publisher>
-					<bibl type="de.wikisource.org">Monatshefte_für_Musik-Geschichte</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="mlmb">
-					<idno type="zdb">960931-3</idno>
-					<name>Musikalisch literarischer Monatsbericht</name>
-					<name type="secondary">über neue Musikalien, musikalische Schriften und
-						Abbildungen</name>
-					<name type="index">Musikalisch literarischer Monatsbericht [Leipzig]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1829" to="1947"/>
-						<placeName key="leipzig"/>
-						<persName key="hofmeister.friedrich" role="editor"/>
-					</publisher>
-					<ref target="http://www.onb.ac.at/sammlungen/musik/16615.htm">ÖNB</ref>
-					<ref target="http://www.hofmeister.rhul.ac.uk">Hofmeister XIX</ref>
-				</bibl>
-				<bibl type="periodical.music" xml:id="ms">
-					<idno type="zdb">202950-9</idno>
-					<idno type="gnd">011157852</idno>
-					<name>Musica sacra</name>
-					<name type="secondary">Beiträge zur Reform und Förderung der katholischen
-						Kirchenmusik</name>
-					<name type="index">Musica sacra [Regensburg]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1868" to="1928"/>
-						<placeName key="regensburg"/>
-					</publisher>
-					<bibl type="de.wikipedia.org">Musica_sacra_(Zeitschrift)</bibl>
-					<bibl type="opacplus.bsb-muenchen.de">869859912</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="mwb">
-					<idno type="zdb">202877-3</idno>
-					<idno type="gnd">011157283</idno>
-					<name>Musikalisches Wochenblatt</name>
-					<name type="index">Musikalisches Wochenblatt [Leipzig]</name>
-					<name type="secondary">für Tonkünstler und Musikfreunde</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<name>Ernst Wilhelm Fritzsch</name>
-						<date from="1870" to="1902"/>
-						<placeName key="leipzig"/>
-					</publisher>
-					<publisher>
-						<name>Siegel</name>
-						<date from="1903" to="1910"/>
-					</publisher>
-					<note>durchlaufend paginiert</note>
-					<bibl type="de.wikipedia.org">Musikalisches_Wochenblatt</bibl>
-					<bibl type="anno.onb.ac.at">muw</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="nbmz">
-					<idno type="zdb">530399-0</idno>
-					<name type="index">Neue Berliner Musikzeitung</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1846" to="1896"/>
-						<placeName key="berlin"/>
-						<persName key="bock.gustav" role="editor"/>
-					</publisher>
-					<bibl type="de.wikisource.org">Neue_Berliner_Musikzeitung</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="nzfm">
-					<idno type="zdb">203043-3</idno>
-					<idno type="gnd">947386947</idno>
-					<idno type="gnd">011158522</idno>
-					<name>Neue Zeitschrift für Musik</name>
-					<name type="index">Neue Zeitschrift für Musik [Leipzig]</name>
-					<name type="index">Neue Leipziger Zeitschrift für Musik</name>
-					<name type="secondary">Das Magazin für neue Töne</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<name>C. F. Kahnt</name>
-						<note>zuerst bei wechselnden Verlegern</note>
-						<date from="1834" to="1920"/>
-						<placeName key="leipzig"/>
-					</publisher>
-					<note type="pagination">durchlaufend</note>
-					<bibl type="de.wikipedia.org">Neue_Zeitschrift_für_Musik</bibl>
-					<bibl type="de.wikisource.org">Neue_Zeitschrift_für_Musik</bibl>
-					<bibl type="opacplus.bsb-muenchen.de">612086102</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="signale">
-					<idno type="zdb">513338-5</idno>
-					<idno type="gnd">012704601</idno>
-					<name>Signale für die musikalische Welt</name>
-					<name type="index">Signale für die musikalische Welt [Berlin]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1842" to="1941"/>
-						<placeName key="leipzig"/>
-						<placeName key="berlin"/>
-						<persName key="unidentified" role="editor">Barthold Senff</persName>
-						<persName key="buelow.hans-von" role="co-editor">Hans von Bülow</persName>
-						<persName key="porges.heinrich" role="co-editor">Heinrich Porges</persName>
-					</publisher>
-					<note type="frequency">wöchentlich</note>
-					<note type="pagination">durchlaufend</note>
-					<bibl type="en.wikipedia.org">Signale_für_die_musikalische_Welt</bibl>
-					<bibl type="de.wikisource.org">Signale_für_die_musikalische_Welt</bibl>
-				</bibl>
-				<bibl type="periodical.music" xml:id="siona">
-					<idno type="zdb">552780-6</idno>
-					<name>Siona</name>
-					<name type="index">Siona [Gütersloh]</name>
-					<name type="secondary">Monatsschrift für Liturgie und Kirchenmusik zur Hebung
-						des gottesdienstlichen Lebens</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1876" to="1920"/>
-						<placeName key="guetersloh"/>
-						<persName key="herold.max" role="editor"/>
-						<persName key="krueger.eduard" role="editor"/>
-					</publisher>
-				</bibl>
-				<bibl type="periodical.music" xml:id="tonkunst">
-					<idno type="zdb">986163-4</idno>
-					<name>Die Tonkunst</name>
-					<name type="secondary">Wochenschrift für den Fortschritt in der Musik</name>
-					<name type="index">Die Tonkunst [Berlin]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1876" to="1886"/>
-						<placeName key="berlin"/>
-						<placeName key="koenigsberg"/>
-					</publisher>
-					<note type="pagination">durchlaufend</note>
-				</bibl>
-			</listBibl>
+			<head>Sekundärliteratur</head>
 			<listBibl>
-				<head>Deutschsprachige Tageszeitungen</head>
-				<listBibl>
-					<head>Deutsches Reich</head>
-					<bibl type="journal" xml:id="aachener-zeitung">
-						<idno type="zdb">89121-6</idno>
-						<name type="index">Aachener Zeitung</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1849" to="1888"/>
-							<placeName key="aachen"/>
-						</publisher>
-					</bibl>
-					<bibl type="journal" xml:id="allgemeine-zeitung">
-						<idno type="zdb">243901-3</idno>
-						<name>Allgemeine Zeitung</name>
-						<name type="index">Allgemeine Zeitung [Augsburg]</name>
-						<name type="index">Augsburger allgemeine Zeitung</name>
-						<name type="index">Cotta’sche Zeitung [Augsburg]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1798" to="1803"/>
-							<placeName key="unidentified">Tübingen</placeName>
-						</publisher>
-						<publisher>
-							<date from="1807" to="1882"/>
-							<placeName key="augsburg"/>
-						</publisher>
-						<publisher>
-							<date from="1882" to="1925"/>
-							<placeName key="muenchen"/>
-						</publisher>
-						<note type="pagination">durchlaufend</note>
-						<bibl type="opacplus.bsb-muenchen.de">869859785</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="altonaer-nachrichten">
-						<idno type="zdb">291785-3</idno>
-						<name type="index">Altonaer Nachrichten</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1850" to="1855"/>
-							<date from="1864" to="1938"/>
-							<placeName key="altona"/>
-						</publisher>
-						<bibl type="theeuropeanlibrary.org">3000096105067</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="bayerischer-kurier">
-						<idno type="zdb">1367472-9</idno>
-						<name>Bayerischer Kurier</name>
-						<name type="index">Bayerischer Kurier [München]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1857" to="1893"/>
-							<date from="1922" to="1934"/>
-							<placeName key="muenchen"/>
-						</publisher>
-					</bibl>
-					<bibl type="journal" xml:id="berliner-boersen-zeitung">
-						<name type="index">Berliner Börsen-Zeitung</name>
-						<lang>Deutsch</lang>
-						<bibl type="theeuropeanlibrary.org">3000117702505</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="berliner-fremdenblatt">
-						<idno type="zdb">1127075-5</idno>
-						<name type="index">Berliner Fremdenblatt</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1837" to="1901"/>
-							<placeName key="berlin"/>
-						</publisher>
-						<note>gesichtet: April 1876</note>
-					</bibl>
-					<bibl type="journal" xml:id="berliner-tageblatt">
-						<idno type="zdb">341834-0</idno>
-						<name type="index">Berliner Tageblatt und Handels-Zeitung</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1872" to="1939"/>
-							<placeName key="berlin"/>
-						</publisher>
-						<note>gesichtet: April 1876</note>
-						<bibl type="theeuropeanlibrary.org">3000096302605</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="coburger-zeitung">
-						<idno type="zdb">1396849-x</idno>
-						<name type="index">Coburger Zeitung</name>
-						<name type="secondary">älteste nationale Tageszeitung Coburgs</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1861" to="1935"/>
-							<placeName key="coburg"/>
-						</publisher>
-						<note type="pagination">durchlaufend</note>
-						<ref
-							target="http://www.bayerische-landesbibliothek-online.de/coburger-zeitung1"
-							>BLO</ref>
-					</bibl>
-					<bibl type="journal" xml:id="deutsche-rundschau">
-						<idno type="zdb">205873-x</idno>
-						<idno type="gnd">011183136</idno>
-						<name>Deutsche Rundschau</name>
-						<name type="index">Deutsche Rundschau [Berlin]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1874" to="1964"/>
-							<placeName key="berlin"/>
-						</publisher>
-						<bibl type="de.wikipedia.org">Deutsche_Rundschau</bibl>
-						<bibl type="de.wikisource.org">Deutsche_Rundschau</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="dresdner-nachrichten">
-						<idno type="zdb">231494-0</idno>
-						<name type="index">Dresdner Nachrichten</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1856" to="1943"/>
-							<placeName key="dresden"/>
-						</publisher>
-						<note>gesichtet: Februar 1876</note>
-						<note type="pagination">einzeln</note>
-					</bibl>
-					<bibl type="journal" xml:id="echo-der-gegenwart">
-						<idno type="zdb">607163-6</idno>
-						<name>Echo der Gegenwart</name>
-						<name type="index">Echo der Gegenwart [Aachen]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1850" to="1935"/>
-							<placeName key="aachen"/>
-						</publisher>
-						<note type="pagination">unpaginiert</note>
-						<ref
-							target="http://digitale-sammlungen.ulb.uni-bonn.de/ulbbnz/periodical/titleinfo/2834587"
-							>UB Bonn</ref>
-					</bibl>
-					<bibl type="journal" xml:id="hamburger-nachrichten">
-						<idno type="zdb">622736-3</idno>
-						<name type="index">Hamburger Nachrichten</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1849" to="1939"/>
-							<placeName key="hamburg"/>
-						</publisher>
-						<bibl type="theeuropeanlibrary.org">3000117588286</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="karlsruher-nachrichten">
-						<idno type="zdb">384878-4</idno>
-						<name type="index">Karlsruher Nachrichten</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1870" to="1894"/>
-							<placeName key="karlsruhe"/>
-						</publisher>
-						<note>gesichtet: April 1878</note>
-						<note type="pagination">durchlaufend</note>
-					</bibl>
-					<bibl type="journal" xml:id="koelnische-volkszeitung">
-						<idno type="zdb">1207761-6</idno>
-						<name type="index">Kölnische Volkszeitung</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1869" to="1887"/>
-							<placeName key="koeln"/>
-						</publisher>
-						<note>gesichtet: Dezember 1875</note>
-					</bibl>
-					<bibl type="journal" xml:id="koelnische-zeitung">
-						<idno type="zdb">200760-5</idno>
-						<name type="index">Kölnische Zeitung</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1802" to="1945"/>
-							<placeName key="koeln"/>
-						</publisher>
-					</bibl>
-					<bibl type="journal" xml:id="koeniglich-privilegirte-berlinische-zeitung">
-						<idno type="zdb">748892-0</idno>
-						<name>Königlich privilegirte Berlinische Zeitung</name>
-						<name type="secondary">von Staats- und gelehrten Sachen</name>
-						<name type="index">Königlich privilegirte Berlinische Zeitung</name>
-						<name type="index">Vossische Zeitung [Berlin]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1785" to="1911"/>
-							<placeName key="berlin"/>
-						</publisher>
-						<note>gesichtet: April 1876</note>
-						<bibl type="opacplus.bsb-muenchen.de">225102298</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="leipziger-nachrichten">
-						<idno type="zdb">1385582-7</idno>
-						<name type="index">Leipziger Nachrichten</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1870" to="1892"><note>ZDB: ab 1878
-								„nachgewiesen“</note></date>
-							<placeName key="leipzig"/>
-						</publisher>
-					</bibl>
-					<bibl type="journal" xml:id="leipziger-tageblatt">
-						<idno type="zdb">1286236-8</idno>
-						<name type="index">Leipziger Tageblatt und Anzeiger</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1833" to="1905"/>
-							<placeName key="leipzig"/>
-						</publisher>
-					</bibl>
-					<bibl type="journal" xml:id="mecklenburgische-zeitung">
-						<idno type="zdb">1000532-8</idno>
-						<name>Mecklenburgische Zeitung</name>
-						<name type="index">Mecklenburgische Zeitung [Schwerin]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1848" to="1943"/>
-							<placeName key="schwerin"/>
-						</publisher>
-					</bibl>
-					<bibl type="journal" xml:id="muenchener-nachrichten">
-						<idno type="zdb">1267810-7</idno>
-						<name type="index">Münchener Nachrichten</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1874" to="1876"/>
-							<placeName key="muenchen"/>
-						</publisher>
-					</bibl>
-					<bibl type="journal" xml:id="national-zeitung">
-						<idno type="zdb">984287-1</idno>
-						<name>National-Zeitung</name>
-						<name type="index">National-Zeitung [Berlin]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1848" to="1938"><note>ZDB: 1849</note></date>
-							<placeName key="berlin"/>
-						</publisher>
-						<note>gesichtet: April 1876</note>
-						<bibl type="de.wikipedia.org">National-Zeitung_(19._Jahrhundert)</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="neue-preussische-zeitung">
-						<idno type="zdb">304140-2</idno>
-						<name>Neue Preußische Zeitung</name>
-						<name type="index">Neue Preußische Zeitung [Berlin]</name>
-						<name type="index">Kreuzzeitung [Berlin]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1848" to="1929"/>
-							<placeName key="berlin"/>
-						</publisher>
-						<note>gesichtet: April 1876</note>
-					</bibl>
-					<bibl type="journal" xml:id="neues-berliner-tageblatt">
-						<idno type="zdb">1139122-4</idno>
-						<name>Neues Berliner Tageblatt</name>
-						<name type="index">Neues Berliner Tageblatt</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1875" to="1877"/>
-							<placeName key="berlin"/>
-						</publisher>
-						<note>gesichtet: April 1876</note>
-						<note type="pagination">einzeln</note>
-					</bibl>
-					<bibl type="journal" xml:id="neueste-nachrichten">
-						<idno type="zdb">1406403-0</idno>
-						<name>Neueste Nachrichten</name>
-						<name type="index">Neueste Nachrichten [München]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1875" to="1881"/>
-							<placeName key="muenchen"/>
-						</publisher>
-					</bibl>
-					<bibl type="journal" xml:id="norddeutsche-allgemeine-zeitung">
-						<idno type="zdb">125912-x</idno>
-						<name>Norddeutsche Allgemeine Zeitung</name>
-						<name type="index">Norddeutsche Allgemeine Zeitung [Berlin]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1861" to="1918"/>
-							<placeName key="berlin"/>
-						</publisher>
-						<note>gesichtet: April 1876</note>
-					</bibl>
-					<bibl type="journal" xml:id="preussischer-volksfreund">
-						<idno type="zdb">1000212-1</idno>
-						<name>Preußischer Volksfreund</name>
-						<name type="index">Preußischer Volksfreund [Königsberg]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1799" to="1924"/>
-							<placeName key="koenigsberg"/>
-						</publisher>
-						<note>gesichtet: Mai 1876</note>
-					</bibl>
-					<bibl type="journal" xml:id="rheinischer-kurier">
-						<idno type="zdb">1474980-4</idno>
-						<name>Rheinischer Kurier</name>
-						<name type="index">Rheinischer Kurier [Wiesbaden]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1870" to="1871">
-								<note>nachweisbare Jahrgänge</note>
-							</date>
-							<placeName key="wiesbaden"/>
-						</publisher>
-					</bibl>
-					<bibl type="journal" xml:id="schlesische-volkszeitung">
-						<idno type="zdb">606447-4</idno>
-						<name>Schlesische Volkszeitung</name>
-						<name type="index">Schlesische Volkszeitung [Breslau]</name>
-						<name type="index">Breslauer Hausblätter</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1871" to="1944"/>
-							<placeName key="breslau"/>
-						</publisher>
-						<note>gesichtet: Mai 1876</note>
-					</bibl>
-					<bibl type="journal" xml:id="westpreussisches-volksblatt">
-						<idno type="zdb">1156529-9</idno>
-						<name>Westpreußisches Volksblatt</name>
-						<name type="index">Westpreußisches Volksblatt [Danzig]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1873" to="1920"/>
-							<placeName key="danzig"/>
-						</publisher>
-						<note>gesichtet: April 1876</note>
-					</bibl>
-					<bibl type="journal" xml:id="zwischenact-zeitung">
-						<idno type="zdb">2106593-7</idno>
-						<name>Zwischenact-Zeitung</name>
-						<name type="index">Zwischenact-Zeitung [Hamburg]</name>
-						<name type="secondary">officielles Theater- und Concert-Programm</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1863" to="1903"><note>1903(?)</note></date>
-							<placeName key="hamburg"/>
-						</publisher>
-					</bibl>
-				</listBibl>
-				<listBibl>
-					<head>Österreich-Ungarn</head>
-					<bibl type="journal" xml:id="bruenner-zeitung">
-						<!-- *** Tagesbote Brünn? -->
-						<name type="index">Brünner Zeitung</name>
-						<lang>Deutsch</lang>
-					</bibl>
-					<bibl type="journal" xml:id="das-vaterland">
-						<name>Das Vaterland</name>
-						<name type="index">Das Vaterland [Wien]</name>
-						<lang>Deutsch</lang>
-						<note>Einordnung nach Paupié: föderalistisch-konservativ</note>
-						<bibl type="anno.onb.ac.at">vtl</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="deutsche-zeitung">
-						<idno type="zdb">1074846-5</idno>
-						<name>Deutsche Zeitung</name>
-						<name type="index">Deutsche Zeitung [Wien]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1871" to="1907"/>
-							<placeName key="wien"/>
-						</publisher>
-						<note type="pagination">einzeln</note>
-						<note>Einordnung nach Paupié: nationalliberal (S. 157f)</note>
-						<bibl type="anno.onb.ac.at">dzg</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="die-presse">
-						<idno type="zdb">126422-9</idno>
-						<idno type="gnd">010717242</idno>
-						<name>Die Presse</name>
-						<name type="index">Die Presse [Wien]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1848" to="1896"/>
-							<placeName key="wien"/>
-						</publisher>
-						<note type="pagination">einzeln</note>
-						<note>Einordnung nach Paupié: rechtsliberal (S. 135–138)</note>
-						<bibl type="de.wikipedia.org">Die_Presse</bibl>
-						<bibl type="anno.onb.ac.at">apr</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="fremden-blatt">
-						<idno type="zdb">1060742-0</idno>
-						<name>Fremden-Blatt</name>
-						<name type="index">Fremden-Blatt [Wien]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<name>Elbemühl</name>
-							<date from="1847" to="1919"><note>falsch in ZDB: 1846</note></date>
-							<placeName key="wien"/>
-						</publisher>
-						<note>teils einzeln paginiert, teils unpaginiert</note>
-						<note>Einordnung nach Paupié: liberal</note>
-						<bibl type="anno.onb.ac.at">fdb</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="grazer-volksblatt">
-						<idno type="gnd">7600145-3</idno>
-						<name type="index">Grazer Volksblatt</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1868" to="1939"/>
-							<placeName key="graz"/>
-							<note>wechselnde Verleger</note>
-						</publisher>
-						<note>unpaginiert</note>
-						<bibl type="anno.onb.ac.at">gre</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="morgen-post">
-						<idno type="zdb">2752530-2</idno>
-						<name>Morgen-Post</name>
-						<name type="index">Morgen-Post [Wien]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1854" to="1886"/>
-							<placeName key="wien"/>
-						</publisher>
-						<note type="pagination">unpaginiert</note>
-						<note>Einordnung nach Paupié: deutschdemokratisch (S. 140–142)</note>
-						<bibl type="anno.onb.ac.at">mop</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="neue-freie-presse">
-						<idno type="zdb">972630-5</idno>
-						<idno type="zdb">821385-9</idno>
-						<name>Neue Freie Presse</name>
-						<name type="index">Neue Freie Presse [Wien]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1864" to="1939"/>
-							<note>falsch in ZDB: 1938</note>
-							<placeName key="wien"/>
-						</publisher>
-						<note type="frequency">zweimal täglich</note>
-						<note type="pagination">einzeln paginiert</note>
-						<note>Einordnung nach Paupié: liberal</note>
-						<bibl type="anno.onb.ac.at">nfp</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="neues-fremden-blatt">
-						<idno type="zdb">2699432-X</idno>
-						<name>Neues Fremden-Blatt</name>
-						<name type="index">Neues Fremden-Blatt [Wien]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1865" to="1876"/>
-							<placeName key="wien"/>
-						</publisher>
-						<note type="pagination">einzeln paginiert</note>
-						<bibl type="anno.onb.ac.at">nfb</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="neues-wiener-tagblatt">
-						<idno type="zdb">821335-5</idno>
-						<name type="index">Neues Wiener Tagblatt</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1867" to="1945"/>
-							<placeName key="wien"/>
-						</publisher>
-						<note>Einordnung nach Paupié: demokratisch</note>
-						<bibl type="anno.onb.ac.at">nwg</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="neue-zeit">
-						<!-- *** nicht: Stuttgart; Brünn? Troppau? -->
-						<name type="index">Neue Zeit [?]</name>
-						<lang>Deutsch</lang>
-						<note>unspezifischer Titel</note>
-					</bibl>
-					<bibl type="journal" xml:id="pilsner-fremdenblatt">
-						<name type="index">Pilsner Fremdenblatt</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1874" to="1876"/>
-							<placeName key="pilsen"/>
-						</publisher>
-						<bibl type="anno.onb.ac.at">pfb</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="prager-abendblatt">
-						<idno type="zdb">2799609-8</idno>
-						<name type="index">Prager Abendblatt</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1867" to="1918"/>
-							<placeName key="prag"/>
-						</publisher>
-						<note type="pagination">unpaginiert</note>
-						<bibl type="anno.onb.ac.at">pab</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="salzburger-chronik">
-						<idno type="zdb">1055668-0</idno>
-						<name type="index">Salzburger Chronik</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1873" to="1938"/>
-							<placeName key="salzburg"/>
-						</publisher>
-						<note>unpaginiert</note>
-						<bibl type="anno.onb.ac.at">sch</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="salzburger-volksblatt">
-						<idno type="zdb">1054475-6</idno>
-						<name type="index">Salzburger Volksblatt</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1871" to="1880"/>
-							<note>nachweisbare Jahrgänge</note>
-							<placeName key="salzburg"/>
-						</publisher>
-						<note type="pagination">unpaginiert</note>
-						<bibl type="anno.onb.ac.at">svb</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="tagesbote-aus-maehren-und-schlesien">
-						<idno type="zdb">821185-1</idno>
-						<name>Tagesbote aus Mähren und Schlesien</name>
-						<name type="index">Tagesbote aus Mähren und Schlesien [Brünn]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1873" to="1921"/>
-							<placeName key="bruenn"/>
-						</publisher>
-						<note type="pagination">unpaginiert</note>
-					</bibl>
-					<bibl type="journal" xml:id="volksfreund">
-						<!-- *** Brünn? -->
-						<name type="index">Volksfreund [?]</name>
-						<lang>Deutsch</lang>
-						<note>unspezifischer Titel</note>
-					</bibl>
-					<bibl type="journal" xml:id="wiener-abendpost">
-						<idno type="zdb">1041863-5</idno>
-						<name type="index">Wiener Abendpost</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1863" to="1921"/>
-							<placeName key="wien"/>
-						</publisher>
-						<note>Beilage zur <orgName key="wiener-zeitung">Wiener
-							Zeitung</orgName></note>
-						<note type="pagination">durchlaufend mit der Wiener Zeitung, ab 1875
-							separat</note>
-						<bibl type="de.wikipedia.org">Wiener_Zeitung</bibl>
-						<bibl type="anno.onb.ac.at">wrz</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="wiener-sonn-und-montags-zeitung">
-						<idno type="zdb">2799656-6</idno>
-						<name type="index">Wiener Sonn- und Montags-Zeitung</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1863" to="1936"/>
-							<placeName key="wien"/>
-						</publisher>
-						<note type="frequency">wöchentlich</note>
-						<note type="pagination">unpaginiert</note>
-						<note>Einordnung nach Paupié: linksliberal</note>
-						<bibl type="de.wikipedia.org">Wiener_Sonn-_und_Montags-Zeitung</bibl>
-						<bibl type="anno.onb.ac.at">wsz</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="wiener-zeitung">
-						<idno type="zdb">43058-4</idno>
-						<name type="index">Wiener Zeitung</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<date from="1703"/>
-							<placeName key="wien"/>
-						</publisher>
-						<note>enthält die <orgName key="wiener-abendpost">Wiener
-							Abendpost</orgName></note>
-						<note type="pagination">unpaginiert</note>
-						<bibl type="de.wikipedia.org">Wiener_Zeitung</bibl>
-						<bibl type="anno.onb.ac.at">wrz</bibl>
-					</bibl>
-				</listBibl>
-				<listBibl>
-					<head>Schweiz</head>
-					<bibl type="journal" xml:id="die-ostschweiz">
-						<name type="index">Die Ostschweiz [St. Gallen]</name>
-						<lang>Deutsch</lang>
-						<publisher>
-							<name>Moosberger</name>
-							<date from="1874" to="1997"/>
-							<placeName key="st-gallen"/>
-						</publisher>
-						<ref target="http://newspaper.archives.rero.ch/Olive/APA/SNL_DE/">Schweizer
-							Presse Online</ref>
-						<bibl type="de.wikipedia.org">Die_Ostschweiz</bibl>
-					</bibl>
-					<bibl type="journal" xml:id="st-galler-zeitung">
-						<name>St. Galler-Zeitung</name>
-						<name type="index">St. Galler-Zeitung</name>
-						<lang>Deutsch</lang>
-					</bibl>
-				</listBibl>
-			</listBibl>
-			<listBibl>
-				<head>Deutschsprachige Satireblätter und Illustrierte</head>
-				<bibl type="periodical.satire" xml:id="der-floh">
-					<idno type="zdb">1066867-6</idno>
-					<name>Der Floh</name>
-					<name type="index">Der Floh [Wien]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1869" to="1919"/>
-						<placeName key="wien"/>
-					</publisher>
-					<note type="frequency">wöchentlich</note>
-					<bibl type="anno.onb.ac.at">flo</bibl>
+				<bibl xml:id="Abbiati-1959">
+					<author>Franco Abbiati</author>
+					<title>Giuseppe Verdi</title>
+					<biblScope>Volume terzo</biblScope>
+					<pubPlace>Milano</pubPlace>
+					<publisher>Ricordi</publisher>
+					<date>1959</date>
 				</bibl>
-				<bibl type="periodical.satire" xml:id="der-ulk">
-					<idno type="gnd">4756012-5</idno>
-					<name>Der Ulk</name>
-					<name type="index">Der Ulk [Berlin]</name>
-					<lang>Deutsch</lang>
-					<note>Beilage zum <orgName key="berliner-tageblatt">Berliner Tageblatt</orgName>
-						und zur Berliner Volkszeitung</note>
-					<publisher>
-						<date from="1873" to="1933"/>
-						<placeName key="berlin"/>
-					</publisher>
-					<note>gesichtet: 1. JH 1876</note>
-					<bibl type="de.wikipedia.org">Ulk</bibl>
-					<ref target="http://www.ub.uni-heidelberg.de/helios/digi/ulkhd.html">UB
-						Heidelberg</ref>
+				<bibl xml:id="Adamski-Störmer-1991">
+					<author>Ursula Adamski-Störmer</author>
+					<title>Requiem aeternam. Tod und Trauer im Spiegel einer musikalischen
+						Gattung</title>
+					<series>Europäische Hochschulschriften, Reihe XXXVI:
+						Musikwissenschaft 66</series>
+					<pubPlace>Frankfurt am Main u. a.</pubPlace>
+					<publisher>Lang</publisher>
+					<date>1991</date>
 				</bibl>
-				<bibl type="periodical.satire" xml:id="die-bombe">
-					<idno type="zdb">330484-x</idno>
-					<name>Die Bombe</name>
-					<name type="index">Die Bombe [Wien]</name>
-					<lang>Deutsch</lang>
-					<note>
-						<date from="1871" to="1925"/>
-						<placeName key="wien"/>
-					</note>
-					<note type="frequency">wöchentlich</note>
-					<bibl type="anno.onb.ac.at">bom</bibl>
+				<bibl xml:id="Altenburg-1994">
+					<author>Detlef Altenburg</author>
+					<title>Thibauts Idee der »Reinheit der Tonkunst«</title>
+					<bibl>
+						<title>Studien zur Kirchenmusik im 19. Jahrhundert</title>
+						<series>Mainzer Studien zur Musikwissenschaft 32</series>
+						<editor>Christoph-Hellmut Mahling</editor>
+						<pubPlace>Tutzing</pubPlace>
+						<publisher>Schneider</publisher>
+						<date>1994</date>
+						<biblScope unit="page">35–47</biblScope>
+					</bibl>
 				</bibl>
-				<bibl type="periodical.satire" xml:id="figaro">
-					<idno type="zdb">820944-3</idno>
-					<name>Figaro</name>
-					<name type="index">Figaro [Wien]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1857" to="1919"/>
-						<placeName key="wien"/>
-					</publisher>
-					<note type="frequency">wöchentlich</note>
-					<bibl type="anno.onb.ac.at">fig</bibl>
+				<bibl xml:id="Angermann-1997">
+					<author>Klaus Angermann</author>
+					<title>Verdis szenisches Orchester</title>
+					<bibl>
+						<title>Verdi-Theater</title>
+						<editor>Udo Bermbach</editor>
+						<pubPlace>Stuttgart/Weimar</pubPlace>
+						<publisher>Metzler</publisher>
+						<date>1997</date>
+						<biblScope unit="page">105–116</biblScope>
+					</bibl>
 				</bibl>
-				<bibl type="periodical" xml:id="fliegende-blaetter">
-					<idno type="zdb">516021-2</idno>
-					<name>Fliegende Blätter</name>
-					<name type="index">Fliegende Blätter [München]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1845" to="1944"/>
-						<placeName key="muenchen"/>
-					</publisher>
-					<bibl type="de.wikipedia.org">Fliegende_Blätter</bibl>
-					<ref target="http://diglit.ub.uni-heidelberg.de/diglit/fb65">UB Heidelberg</ref>
+				<bibl xml:id="Bartelmus-2012">
+					<author>Rüdiger Bartelmus</author>
+					<title>Theologische Klangrede – Musikalische Resonanzen auf biblische Texte.
+						Studien zu Werken von J. S. Bach, J. Brahms, G. F. Händel,
+						F. Mendelssohn-Bartholdy und E. Pepping, sowie zu Textdichtungen von
+						Ch. Jennens, T. Morell und J. Schubring</title>
+					<pubPlace>Münster</pubPlace>
+					<publisher>LIT</publisher>
+					<date>2012</date>
 				</bibl>
-				<bibl type="periodical.illustrated" xml:id="illustrirte-zeitung">
-					<idno type="zdb">715543-8</idno>
-					<name>Illustrirte Zeitung</name>
-					<name type="index">Illustrirte Zeitung [Leipzig u. a.]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1843" to="1944"/>
-						<placeName key="leipzig"/>
-						<placeName key="berlin"/>
-						<placeName key="wien"/>
-						<placeName key="pest"/>
-						<placeName key="new-york"/>
-					</publisher>
+				<bibl xml:id="Basini-2003">
+					<author>Laura Basini</author>
+					<title>Reviving the past: Italian music history and Verdi</title>
+					<pubPlace>Berkeley</pubPlace>
+					<publisher>University of California</publisher>
+					<date>2003</date>
+					<edition>Ph. D.</edition>
 				</bibl>
-				<bibl type="periodical.illustrated" xml:id="illustrirtes-wiener-extrablatt">
-					<idno type="zdb">1069466-3</idno>
-					<name type="index">Illustrirtes Wiener Extrablatt</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1872" to="1928"/>
-						<placeName key="wien"/>
-					</publisher>
-					<bibl type="anno.onb.ac.at">iwe</bibl>
+				<bibl xml:id="Becker-1965">
+					<author>Heinz Becker</author>
+					<title>Einleitung</title>
+					<bibl>
+						<title>Beiträge zur Geschichte der Musikkritik</title>
+						<editor>Heinz Becker</editor>
+						<pubPlace>Regensburg</pubPlace>
+						<publisher>Bosse</publisher>
+						<date>1965</date>
+						<biblScope unit="page">7–10</biblScope>
+					</bibl>
 				</bibl>
-				<bibl type="periodical.satire" xml:id="kikeriki">
-					<idno type="zdb">883061-7</idno>
-					<name>Kikeriki</name>
-					<name type="index">Kikeriki [Wien]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1861" to="1933"/>
-						<placeName key="wien"/>
-					</publisher>
-					<note type="frequency">wöchentlich</note>
-					<bibl type="anno.onb.ac.at">kik</bibl>
+				<bibl xml:id="Beller-McKenna-1998">
+					<author>Daniel Beller-McKenna</author>
+					<title>How »deutsch« a Requiem? Absolute Music, Universality, and the Reception
+						of Brahms’s Ein deutsches Requiem, op. 45</title>
+					<bibl>
+						<series>19th Century Music</series>
+						<biblScope unit="issue">22/1</biblScope>
+						<date>1998</date>
+						<biblScope unit="page">3–19</biblScope>
+					</bibl>
 				</bibl>
-				<bibl type="periodical.illustrated" xml:id="ueber-land-und-meer">
-					<idno type="zdb">512953-9</idno>
-					<idno type="gnd">012701041</idno>
-					<name>Über Land und Meer</name>
-					<name type="index">Über Land und Meer [Stuttgart]</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1858" to="1922"/>
-						<placeName key="stuttgart"/>
-					</publisher>
-					<ref target="https://archive.org/stream/bub_gb_UfoN3WjRcJkC#page/n6/mode/1up"
-						>archive.org (Bd. 33)</ref>
+				<bibl xml:id="Berger-2013">
+					<author>Günther Berger</author>
+					<title>Giuseppe Verdi in Wien</title>
+					<pubPlace>Frankfurt am Main u. a.</pubPlace>
+					<publisher>Lang</publisher>
+					<date>2013</date>
 				</bibl>
-				<bibl type="periodical.illustrated" xml:id="wiener-salonblatt">
-					<idno type="zdb">1271939-0</idno>
-					<name type="index">Wiener Salonblatt</name>
-					<lang>Deutsch</lang>
-					<publisher>
-						<date from="1870" to="1938"/>
-						<placeName key="wien"/>
-					</publisher>
-					<note type="frequency">wöchentlich, ab 1919 14-tägig</note>
-					<bibl type="anno.onb.ac.at">wsb</bibl>
+				<bibl xml:id="Bitran-2001">
+					<author>Yael Bitran</author>
+					<title>Verdi y Bulow</title>
+					<bibl>
+						<series>Pauta. Cuadernos de teoria y critica musical</series>
+						<biblScope unit="issue">77</biblScope>
+						<date>2001</date>
+						<biblScope unit="page">122–133</biblScope>
+					</bibl>
 				</bibl>
-			</listBibl>
-			<listBibl>
-				<head>Zeitungen und Zeitschriften in anderen Sprachen</head>
-				<bibl type="journal" xml:id="corriere-di-milano">
-					<name type="index">Corriere di Milano</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<date from="1869" to="1874"/>
-						<placeName key="mailand"/>
-					</publisher>
-					<bibl type="it.wikipedia.org">Emilio_Treves</bibl>
+				<bibl xml:id="Blum-1971">
+					<author>Klaus Blum</author>
+					<title>Hundert Jahre »Ein deutsches Requiem« von Johannes Brahms</title>
+					<pubPlace>Tutzing</pubPlace>
+					<publisher>Schneider</publisher>
+					<date>1971</date>
 				</bibl>
-				<bibl type="journal" xml:id="gazzetta-di-venezia">
-					<name type="index">Gazzetta di Venezia</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<date from="1799" to="1945"/>
-						<placeName key="venedig"/>
-					</publisher>
-					<bibl type="it.wikipedia.org">Gazzetta_di_Venezia</bibl>
+				<bibl xml:id="Blume-2001">
+					<author>Jürgen Blume</author>
+					<title>Giuseppe Verdi. Messa da Requiem. Werkeinführung</title>
+					<bibl>
+						<title>Giuseppe Verdi. Messa da Requiem. Themenheft</title>
+						<pubPlace>Mainz/Bremen</pubPlace>
+						<publisher>EuropaChorAkademie</publisher>
+						<date>2001</date>
+						<biblScope unit="page">4–47</biblScope>
+					</bibl>
 				</bibl>
-				<bibl type="periodical.music" xml:id="gazzetta-musicale-di-milano">
-					<name type="index">Gazzetta musicale di Milano</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<date from="1842" to="1902"/>
-						<placeName key="mailand"/>
-					</publisher>
+				<bibl xml:id="Braam-Jacobshagen-2002">
+					<title>Hector Berlioz in Deutschland. Texte und Dokumente zur deutschen
+						Berlioz-Rezeption (1829–1843)</title>
+					<editor>Gunther Braam</editor>
+					<editor>Arnold Jacobshagen</editor>
+					<pubPlace>Göttingen</pubPlace>
+					<publisher>Hainholz</publisher>
+					<date>2002</date>
 				</bibl>
-				<bibl type="periodical.music" xml:id="il-mondo-artistico">
-					<name>Il mondo artistico</name>
-					<name type="index">Il mondo artistico [Mailand]</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<date from="1867" to="1914"/>
-						<placeName key="mailand"/>
-					</publisher>
+				<bibl xml:id="Brodbeck-2014">
+					<author>David Brodbeck</author>
+					<title>Defining Deutschtum. Political Ideology, German Identity, and
+						Music-Critical Discourse in Liberal Vienna</title>
+					<pubPlace>Oxford</pubPlace>
+					<publisher>University Press</publisher>
+					<date>2014</date>
 				</bibl>
-				<bibl type="journal" xml:id="il-secolo">
-					<name>Il mondo artistico</name>
-					<name type="index">Il Secolo [Mailand]</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<date from="1866" to="1927"/>
-						<placeName key="mailand"/>
-					</publisher>
-					<bibl type="it.wikipedia.org">Il_Secolo_(quotidiano)</bibl>
+				<bibl xml:id="Brooks-2003">
+					<author>Erin Brooks</author>
+					<title>The Dies Irae (»Day of Wrath«) and The Totentanz (»Dance of Death«):
+						Medieval Themes Revisited in 19th Century Music and Culture</title>
+					<bibl>
+						<series>Inquiry 4</series>
+						<date>2003</date>
+						<biblScope unit="page">10–13 (Abstract und Kommentar)</biblScope>
+						<biblScope unit="page">1–31 (Volltext)</biblScope>
+					</bibl>
+					<ref target="http://inquiry.uark.edu/issues/v04/2003a04.pdf"/>
 				</bibl>
-				<bibl type="journal" xml:id="l-opinione">
-					<name type="index">L’Opinione [Torino]</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<date from="1846" to="1900"/>
-						<placeName key="unidentified">Turin</placeName>
-					</publisher>
-					<bibl type="it.wikipedia.org">L'Opinione_(quotidiano)</bibl>
+				<bibl xml:id="Brossette-2002">
+					<author>Ursula Brossette</author>
+					<title>Die Inszenierung des Sakralen. Das theatralische Raum- und
+						Ausstattungsprogramm süddeutscher Barockkirchen in seinem liturgischen und
+						zeremoniellen Kontext</title>
+					<series>Marburger Studien zur Kunst- und Kulturgeschichte 4</series>
+					<pubPlace>Weimar</pubPlace>
+					<publisher>VDG</publisher>
+					<date>2002</date>
+					<edition>Ph. D.: Marburg, 1998</edition>
 				</bibl>
-				<bibl type="journal" xml:id="la-lombardia">
-					<name type="index">La Lombardia [Mailand]</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<placeName key="mailand"/>
-					</publisher>
+				<bibl xml:id="Budden-2000">
+					<author>Julian Budden</author>
+					<title>Verdi. Leben und Werk</title>
+					<pubPlace>Ditzingen</pubPlace>
+					<publisher>Reclam</publisher>
+					<date>2000</date>
 				</bibl>
-				<bibl type="periodical.music" xml:id="la-palestra-musicale">
-					<name type="index">La palestra musicale [Rom]</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<placeName key="rom"/>
-					</publisher>
+				<bibl xml:id="Budden-2008">
+					<author>Julian Budden</author>
+					<title>Verdi</title>
+					<pubPlace>New York</pubPlace>
+					<publisher>Oxford University Press</publisher>
+					<date>2008</date>
+					<edition>3. Auflage</edition>
 				</bibl>
-				<bibl type="periodical" xml:id="la-perseveranza">
-					<name>La Perseveranza</name>
-					<name type="index">Perseveranza [Mailand]</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<date from="1859" to="1922"/>
-						<placeName key="mailand"/>
-					</publisher>
+				<bibl xml:id="Busch-1979">
+					<author>Hans Busch</author>
+					<title>Giuseppe Verdi. Briefe</title>
+					<pubPlace>Frankfurt am Main</pubPlace>
+					<publisher>Fischer</publisher>
+					<date>1979</date>
 				</bibl>
-				<bibl type="periodical" xml:id="l-osservatore-cattolico">
-					<name>L’Osservatore Cattolico</name>
-					<name type="index">L’Osservatore Cattolico [Mailand]</name>
-					<lang>Italienisch</lang>
-					<publisher>
-						<date from="1864" to="1907"/>
-						<placeName key="mailand"/>
-					</publisher>
+				<bibl xml:id="Chase-2003">
+					<author>Robert Chase</author>
+					<title>Dies Irae. A Guide to Requiem Music</title>
+					<pubPlace>Oxford</pubPlace>
+					<publisher>Scarecrow</publisher>
+					<date>2003</date>
 				</bibl>
-				<bibl type="journal" xml:id="new-york-times">
-					<idno type="zdb">126276-2</idno>
-					<name>The New York Times</name>
-					<name type="index">New York Times, The</name>
-					<lang>Englisch</lang>
-					<publisher>
-						<date from="1857"/>
-						<placeName key="new-york"/>
-					</publisher>
-					<ref target="http://query.nytimes.com/search/advanced">TimesMachine</ref>
+				<bibl xml:id="Clyne-2000">
+					<author>Michael Clyne</author>
+					<title>Varianten des Deutschen in den Staaten mit vorwiegend deutschsprachiger
+						Bevölkerung</title>
+					<bibl>
+						<title>Sprachgeschichte. Ein Handbuch zur Geschichte der deutschen Sprache
+							und ihrer Erforschung</title>
+						<biblScope unit="volume">2</biblScope>
+						<editor>Werner Busch</editor>
+						<editor>Anne Betten</editor>
+						<editor>Oskar Reichmann</editor>
+						<editor>Stefan Sonderegger</editor>
+						<pubPlace>Berlin/New York</pubPlace>
+						<publisher>De Gruyter</publisher>
+						<date>2000</date>
+						<biblScope unit="page">2008–2016</biblScope>
+					</bibl>
 				</bibl>
-				<bibl type="journal" xml:id="journal-des-debats">
-					<idno type="zdb">125688-9</idno>
-					<name>Journal des Débats</name>
-					<name type="index">Journal des Débats [Paris]</name>
-					<lang>Französisch</lang>
-					<publisher>
-						<date from="1814" to="1944"/>
-						<placeName key="unidentified">Clermont-Ferrand</placeName>
-					</publisher>
-					<ref target="http://gallica.bnf.fr/ark:/12148/cb39294634r/date.langfr"
-						>Gallica</ref>
+				<bibl xml:id="Dahlhaus-1982">
+					<author>Carl Dahlhaus</author>
+					<title>Musikalischer Realismus. Zur Musikgeschichte des 19. Jahrhunderts</title>
+					<pubPlace>München</pubPlace>
+					<publisher>Piper</publisher>
+					<date>1982</date>
 				</bibl>
-				<bibl type="periodical" xml:id="le-monde-illustre">
-					<name>Le Monde Illustré</name>
-					<name type="index">Le Monde Illustré [Paris]</name>
-					<lang>Französisch</lang>
-					<publisher>
-						<date from="1857" to="1940"/>
-						<placeName key="paris"/>
-					</publisher>
-					<ref target="http://gallica.bnf.fr/ark:/12148/cb32818319d/date.item"
-						>Gallica</ref>
+				<bibl xml:id="Dahlhaus-1988">
+					<author>Carl Dahlhaus</author>
+					<title>Klassische und romantische Musikästhetik</title>
+					<pubPlace>Laaber</pubPlace>
+					<publisher>Laaber</publisher>
+					<date>1988</date>
 				</bibl>
-				<bibl type="journal" xml:id="revue-des-deux-mondes">
-					<name>Revue des Deux Mondes</name>
-					<name type="index">Revue des Deux Mondes [Paris]</name>
-					<lang>Französisch</lang>
-					<publisher>
-						<placeName key="paris"/>
-					</publisher>
+				<bibl xml:id="Danuser-2001">
+					<author>Hermann Danuser</author>
+					<title>»Heil’ge Deutsche Kunst«? Über den Zusammenhang von Nationalidee und
+						Kunstreligion</title>
+					<bibl>
+						<title>Deutsche Meister – böse Geister? Nationale Selbstfindung in der
+							Musik</title>
+						<editor>Hermann Danuser</editor>
+						<editor>Herfried Münkler</editor>
+						<pubPlace>Schliengen</pubPlace>
+						<publisher>Edition Argus</publisher>
+						<date>2001</date>
+						<biblScope unit="page">222–241</biblScope>
+					</bibl>
 				</bibl>
-				<bibl type="journal" xml:id="the-times-london">
-					<idno type="zdb">126280-4</idno>
-					<name>The Times London</name>
-					<name type="index">Times London, The</name>
-					<lang>Englisch</lang>
-					<publisher>
-						<date from="1788"/>
-						<placeName key="london"/>
-					</publisher>
+				<bibl xml:id="Danuser-Krummacher-1991">
+					<title>Rezeptionsästhetik und Rezeptionsgeschichte in der
+						Musikwissenschaft</title>
+					<editor>Hermann Danuser</editor>
+					<editor>Friedhelm Krummacher</editor>
+					<pubPlace>Laaber</pubPlace>
+					<publisher>Laaber</publisher>
+					<date>1991</date>
+				</bibl>
+				<bibl xml:id="De-Angelis-2013">
+					<author>Simone de Angelis</author>
+					<title>Popularisierung und Literarisierung eines Mythos</title>
+					<bibl>
+						<relatedItem target="#Gerhard-Schweikert-2013"/>
+						<biblScope unit="page">677–696</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Denzler-1994">
+					<author>Georg Denzler</author>
+					<title>Pius V</title>
+					<bibl>
+						<title>Biographisch-Bibliographisches Kirchenlexikon (BBKL)</title>
+						<biblScope>Bd. 7</biblScope>
+						<pubPlace>Herzberg</pubPlace>
+						<publisher>Bautz</publisher>
+						<date>1994</date>
+						<biblScope>Sp. 665–667</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Dümling-2003">
+					<author>Albrecht Dümling</author>
+					<title>Musik hat ihren Wert. 100 Jahre musikalische Verwertungsgesellschaft in
+						Deutschland</title>
+					<pubPlace>Regensburg</pubPlace>
+					<publisher>ConBrio</publisher>
+					<date>2003</date>
+				</bibl>
+				<bibl xml:id="Dussel-2004">
+					<author>Konrad Dussel</author>
+					<title>Deutsche Tagespresse im 19. und 20. Jahrhundert</title>
+					<pubPlace>Münster</pubPlace>
+					<publisher>Lit</publisher>
+					<date>2004</date>
+				</bibl>
+				<bibl xml:id="Eco-1973">
+					<author>Umberto Eco</author>
+					<title>Das offene Kunstwerk</title>
+					<pubPlace>Frankfurt</pubPlace>
+					<publisher>Suhrkamp</publisher>
+					<date>1973</date>
+				</bibl>
+				<bibl xml:id="Eco-1977">
+					<author>Umberto Eco</author>
+					<title>Zeichen</title>
+					<pubPlace>München</pubPlace>
+					<publisher>Suhrkamp</publisher>
+					<date>1977</date>
+				</bibl>
+				<bibl xml:id="Eco-1987">
+					<author>Umberto Eco</author>
+					<title>Nachschrift zum »Namen der Rose«</title>
+					<pubPlace>München</pubPlace>
+					<publisher>Deutscher Taschenbuchverlag</publisher>
+					<date>1987</date>
+				</bibl>
+				<bibl xml:id="Erlin-Tatlock-2014">
+					<title>Distant Readings. Topologies of German Culture in the Long Nineteenth
+						Century</title>
+					<editor>Matt Erlin</editor>
+					<editor>Lynne Tatlock</editor>
+					<pubPlace>Rochester</pubPlace>
+					<publisher>Camden House</publisher>
+					<date>2014</date>
+				</bibl>
+				<bibl xml:id="Estel-2002">
+					<author>Bernd Estel</author>
+					<title>Nation und nationale Identität. Versuch einer Rekonstruktion</title>
+					<pubPlace>Wiesbaden</pubPlace>
+					<publisher>Westdeutscher Verlag</publisher>
+					<date>2002</date>
+				</bibl>
+				<bibl xml:id="Faber-2001">
+					<author>Silke Faber</author>
+					<title>»Manzoni und Verdi! Diese beiden Männer geben mir wahrlich Stoff zum
+						Nachdenken.«</title>
+					<bibl>
+						<title>Giuseppe Verdi. Messa da Requiem. Themenheft</title>
+						<pubPlace>Mainz/Bremen</pubPlace>
+						<publisher>EuropaChorAkademie</publisher>
+						<date>2001</date>
+						<biblScope unit="page">80–86</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Federhofer-2002">
+					<author>Hellmuth Federhofer</author>
+					<title>Luigi Cherubini: Cours de Contrepoint et de Fugue in Deutschland und
+						Österreich</title>
+					<bibl>
+						<series>Acta musicologica</series>
+						<biblScope unit="issue">74/2</biblScope>
+						<date>2002</date>
+						<biblScope unit="page">129–139</biblScope>
+					</bibl>
+					<ref target="http://www.jstor.org/stable/932717"/>
+				</bibl>
+				<bibl xml:id="Fellinger-1968">
+					<author>Imogen Fellinger</author>
+					<title>Verzeichnis der Musikzeitschriften des 19. Jahrhunderts</title>
+					<series>Studien zur Musikgeschichte des 19. Jahrhunderts 10</series>
+					<pubPlace>Regensburg</pubPlace>
+					<publisher>Bosse</publisher>
+					<date>1968</date>
+				</bibl>
+				<bibl xml:id="Fellner-2002">
+					<author>Fritz Fellner</author>
+					<title>Geschichtsschreibung und nationale Identität. Probleme und Leistungen der
+						österreichischen Geschichtswissenschaft</title>
+					<pubPlace>Wien</pubPlace>
+					<publisher>Böhlau</publisher>
+					<date>2002</date>
+				</bibl>
+				<bibl xml:id="Fischer-2014">
+					<author>Michael Fischer</author>
+					<title>Religion, Nation, Krieg. Der Lutherchoral Ein feste Burg ist unser Gott
+						zwischen Befreiungskriegen und Erstem Weltkrieg</title>
+					<pubPlace>Münster</pubPlace>
+					<publisher>Waxmann</publisher>
+					<date>2014</date>
+				</bibl>
+				<bibl xml:id="Frassà-Niccolai-2013">
+					<title>Verdi reception</title>
+					<series>Studies on Italian Music History 7</series>
+					<editor>Lorenzo Frassà</editor>
+					<editor>Michela Niccolai</editor>
+					<pubPlace>Turnhout</pubPlace>
+					<publisher>Brepols</publisher>
+					<date>2013</date>
+				</bibl>
+				<bibl xml:id="Garratt-2004">
+					<author>James Garratt</author>
+					<title>Palestrina and the German romantic imagination. Interpreting historicism
+						in nineteenth-century music</title>
+					<pubPlace>Cambridge/New York</pubPlace>
+					<publisher>Cambridge University Press</publisher>
+					<date>2002</date>
+				</bibl>
+				<bibl xml:id="Gartioux-2001">
+					<author>Hervé Gartioux</author>
+					<title>La réception de Verdi en France. Anthologie de la presse
+						1845–1894</title>
+					<pubPlace>Weinsberg</pubPlace>
+					<publisher>Galland</publisher>
+					<date>2001</date>
+				</bibl>
+				<bibl xml:id="Gaspar-Nebes-2001">
+					<author>Christiane Gaspar-Nebes</author>
+					<title>Stationen der Preghiera in der italienischen Oper bis 1815</title>
+					<pubPlace>München</pubPlace>
+					<publisher>Ludwigs-Maximilians-Universität</publisher>
+					<date>2001</date>
+					<edition>Ph. D.</edition>
+				</bibl>
+				<bibl xml:id="Geck-1965">
+					<author>Martin Geck</author>
+					<title>E. T. A. Hoffmanns Anschauungen über Kirchenmusik</title>
+					<bibl>
+						<title>Beiträge zur Geschichte der Musikanschauung im
+							19. Jahrhundert</title>
+						<series>Studien zur Musikgeschichte des 19. Jahrhunderts 1</series>
+						<editor>Walter Salmen</editor>
+						<pubPlace>Regensburg</pubPlace>
+						<publisher>Bosse</publisher>
+						<date>1965</date>
+						<biblScope unit="page">61–71</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Gerhard-Schweikert-2001">
+					<title>Verdi-Handbuch</title>
+					<editor>Anselm Gerhard</editor>
+					<editor>Uwe Schweikert</editor>
+					<pubPlace>Kassel</pubPlace>
+					<publisher>Bärenreiter</publisher>
+					<pubPlace>Stuttgart/Weimar</pubPlace>
+					<publisher>Metzler</publisher>
+					<date>2001</date>
+				</bibl>
+				<bibl xml:id="Gerhard-Schweikert-2013">
+					<title>Verdi-Handbuch</title>
+					<editor>Anselm Gerhard</editor>
+					<editor>Uwe Schweikert</editor>
+					<pubPlace>Kassel</pubPlace>
+					<publisher>Bärenreiter</publisher>
+					<pubPlace>Stuttgart/Weimar</pubPlace>
+					<publisher>Metzler</publisher>
+					<date>2013</date>
+					<edition>2., überarb. und erw. Auflage</edition>
+				</bibl>
+				<bibl xml:id="Gmeiner-1991">
+					<author>Josef Gmeiner</author>
+					<title>»Denn alles Fleisch es ist wie Gras«. Requiem und Musik zur Trauer vom
+						19. Jahrhundert bis zur Gegenwart</title>
+					<bibl>
+						<title>Requiem. Wolfgang Amadeus Mozart 1791/1991. Ausstellung der
+							Musiksammlung der Österreichischen Nationalbibliothek vom 17. Mai bis
+							5. Dezember 1991</title>
+						<pubPlace>Graz</pubPlace>
+						<publisher>Akademische Druck- und Verlagsanstalt</publisher>
+						<date>1991</date>
+						<biblScope unit="page">295–320</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Götting-1992">
+					<author>Ronald Götting</author>
+					<title>E. T. A. Hoffmann und Italien</title>
+					<series>Europäische Hochschulschriften, Reihe I: Deutsche Sprache und
+						Literatur 1347</series>
+					<pubPlace>Frankfurt am Main u. a.</pubPlace>
+					<publisher>Peter Lang</publisher>
+					<date>1992</date>
+				</bibl>
+				<bibl xml:id="Gramley-2001">
+					<author>Hedda Gramley</author>
+					<title>Propheten des deutschen Nationalismus. Theologen, Historiker und
+						Nationalökonomen 1848–1880</title>
+					<pubPlace>Frankfurt am Main/New York</pubPlace>
+					<publisher>Campus Verlag</publisher>
+					<date>2001</date>
+				</bibl>
+				<bibl xml:id="Gratzer-1997">
+					<author>Wolfgang Gratzer</author>
+					<title>Perspektiven einer Geschichte abendländischen Musikhörens</title>
+					<pubPlace>Laaber</pubPlace>
+					<publisher>Laaber</publisher>
+					<date>1997</date>
+				</bibl>
+				<bibl xml:id="Gratzer-2005">
+					<author>Wolfgang Gratzer</author>
+					<title>Rezeption/Rezeptionsforschung, musikalische</title>
+					<bibl>
+						<title>Oesterreichisches Musiklexikon</title>
+						<biblScope>Bd. 4</biblScope>
+						<editor>Rudolf Flotzinger</editor>
+						<pubPlace>Wien</pubPlace>
+						<publisher>Österreichische Akademie der Wissenschaften</publisher>
+						<date>2005</date>
+						<biblScope>S. 1916f</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Grempler-2013a">
+					<author>Martina Grempler</author>
+					<title>Die Rolle der Politik</title>
+					<bibl>
+						<relatedItem target="#Gerhard-Schweikert-2013"/>
+						<biblScope unit="page">98–110</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Grempler-2013b">
+					<author>Martina Grempler</author>
+					<title>Zwischen Kirche und Staat</title>
+					<bibl>
+						<relatedItem target="#Gerhard-Schweikert-2013"/>
+						<biblScope unit="page">111–119</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Grimm-Hermand-1975">
+					<title>Realismustheorien in Literatur, Malerei, Musik und Politik</title>
+					<editor>Reinhold Grimm</editor>
+					<editor>Jost Hermand</editor>
+					<pubPlace>Stuttgart u. a.</pubPlace>
+					<publisher>Kohlhammer</publisher>
+					<date>1975</date>
+				</bibl>
+				<bibl xml:id="Guadagnolo-2001">
+					<title>Giuseppe Verdi e Alessandro Manzoni. Documenti e testimonianze</title>
+					<editor>a cura di Pasquale Guadagnolo</editor>
+					<pubPlace>Milano</pubPlace>
+					<publisher>Edizioni del Teatro alla Scala</publisher>
+					<date>2001</date>
+				</bibl>
+				<bibl xml:id="Günther-1964">
+					<author>Siegfried Günther</author>
+					<title>Das säkularisierte Requiem</title>
+					<bibl>
+						<series>Musica</series>
+						<biblScope unit="issue">18</biblScope>
+						<date>1964</date>
+						<biblScope unit="page">185–190</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Haas-2002">
+					<author>Frithjof Haas</author>
+					<title>Hans von Bülow. Leben und Wirken. Wegbereiter für Wagner, Liszt und
+						Brahms</title>
+					<pubPlace>Wilhelmshaven</pubPlace>
+					<publisher>Noetzel</publisher>
+					<date>2002</date>
+				</bibl>
+				<bibl xml:id="Hantsch-1961">
+					<author>Hugo Hantsch</author>
+					<title>Ferdinand I</title>
+					<bibl>
+						<title>Neue Deutsche Biographie 5</title>
+						<date>1961</date>
+						<biblScope unit="page">92</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Heimann-2001">
+					<author>Heinz-Dieter Heimann</author>
+					<title>Die Habsburger. Dynastie und Kaiserreiche</title>
+					<pubPlace>München</pubPlace>
+					<publisher>Beck</publisher>
+					<date>2001</date>
+				</bibl>
+				<bibl xml:id="Hein-2012">
+					<author>Hartmut Hein</author>
+					<title>Rezeption</title>
+					<bibl>
+						<title>Hugo Riemann Musik-Lexikon</title>
+						<biblScope unit="volume">2</biblScope>
+						<pubPlace>Mainz</pubPlace>
+						<publisher>Schott</publisher>
+						<date>2012</date>
+						<biblScope unit="page">309–310</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Heinemann-2001">
+					<author>Michael Heinemann</author>
+					<title>Patriotische Kirchenmusik. Verdis Requiem und die deutsche Kritik</title>
+					<bibl>
+						<series>Musica Sacra</series>
+						<biblScope unit="issue">121,3</biblScope>
+						<date>Mai/Juni 2001</date>
+						<biblScope unit="page">6–8</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Hellouin-1906">
+					<author>Frédéric Hellouin</author>
+					<title>Essai de critique de la critique musicale</title>
+					<pubPlace>Paris</pubPlace>
+					<publisher>Joanin</publisher>
+					<date>1906</date>
+					<ref target="https://archive.org/details/essaidecritiqued00hell"/>
+				</bibl>
+				<bibl xml:id="Hentschel-2006">
+					<author>Frank Hentschel</author>
+					<title>Bürgerliche Ideologie und Musik. Politik der Musikgeschichtsschreibung in
+						Deutschland 1776–1871</title>
+					<pubPlace>Frankfurt am Main/New York</pubPlace>
+					<publisher>Campus Verlag</publisher>
+					<date>2006</date>
+				</bibl>
+				<bibl xml:id="Hentschel-2009">
+					<author>Frank Hentschel</author>
+					<title>Imagination historischer Quellen. Beispiele aus der
+						Musikgeschichtsschreibung des 18. und 19. Jahrhunderts</title>
+					<bibl>
+						<series>Archiv für Kulturgeschichte 91</series>
+						<date>2009</date>
+						<biblScope unit="page">125–160</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Herbst-1992">
+					<title>Evangelischer Gottesdienst. Quellen zu seiner Geschichte</title>
+					<editor>Wolfgang Herbst</editor>
+					<pubPlace>Göttingen</pubPlace>
+					<publisher>Vandenhoek &amp; Ruprecht</publisher>
+					<date>1992</date>
+					<edition>2., völlig neu bearbeitete Auflage</edition>
+				</bibl>
+				<bibl xml:id="Herzmann-2014">
+					<author>Herbert Herzmann</author>
+					<title>Nationale Identität. Mythos und Wirklichkeit am Beispiel
+						Österreichs</title>
+					<pubPlace>Hamburg</pubPlace>
+					<publisher>Tredition</publisher>
+					<date>2014</date>
+				</bibl>
+				<bibl xml:id="Hinrichsen-1999">
+					<title>Musikalische Interpretation. Hans von Bülow</title>
+					<series>Archiv für Musikwissenschaft 46</series>
+					<pubPlace>Stuttgart</pubPlace>
+					<publisher>Franz Steiner</publisher>
+					<date>1999</date>
+				</bibl>
+				<bibl xml:id="Hofmann-2004">
+					<author>Dietmar Hofmann</author>
+					<title>Verkündigung des christlichen Glaubens durch geistliche Musik:
+						dargestellt an der Totenliturgie</title>
+					<series>Ästhetik – Theologie – Liturgik 23</series>
+					<pubPlace>Münster</pubPlace>
+					<publisher>Lit</publisher>
+					<date>2004</date>
+					<edition>Ph. D.: St. Augustin, 2002</edition>
+				</bibl>
+				<bibl xml:id="Hortschansky-1972">
+					<author>Klaus Hortschansky</author>
+					<title>Die Herausbildung eines deutschsprachigen Verdi-Repertoires im
+						19. Jahrhundert und die zeitgenössische Kritik</title>
+					<bibl>
+						<title>Colloquium »Verdi-Wagner«. Rom 1969</title>
+						<editor>Friedrich Lippmann</editor>
+						<pubPlace>Köln/Wien</pubPlace>
+						<publisher>Böhlau</publisher>
+						<date>1972</date>
+						<biblScope unit="page">140–184</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Hortschansky-1993">
+					<author>Klaus Hortschansky</author>
+					<title>Die zeitgenössische italienische Musik in der deutschen Musik-Literatur
+						der zweiten Hälfte des 19. Jahrhunderts (1850-1910)</title>
+					<bibl>
+						<title>Colloquium »Italien und Deutschland: Wechselbeziehungen in der Musik
+							seit 1850« (Rom 1988)</title>
+						<series>Analecta Musicologica 28</series>
+						<pubPlace>Laaber</pubPlace>
+						<publisher>Laaber</publisher>
+						<date>1993</date>
+						<biblScope unit="page">23–57</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Jahn-2005">
+					<author>Bruno Jahn</author>
+					<title>Die deutschsprachige Presse. Ein biographisch-bibliographisches
+						Handbuch</title>
+					<extent>2 Bände</extent>
+					<pubPlace>München</pubPlace>
+					<publisher>Saur</publisher>
+					<date>2005</date>
+				</bibl>
+				<bibl xml:id="Jaksch-1977">
+					<author>Werner Jaksch</author>
+					<title>H. I. F. Biber, Requiem à 15. Untersuchungen zur höfischen, liturgischen
+						und musikalischen Topik einer barocken Totenmesse</title>
+					<series>Beiträge zur Musikforschung 5</series>
+					<pubPlace>München/Salzburg</pubPlace>
+					<publisher>Katzbichler</publisher>
+					<date>1977</date>
+				</bibl>
+				<bibl xml:id="Jammers-1961">
+					<author>Ewald Jammers</author>
+					<title>Requiem</title>
+					<bibl>
+						<title>RGG3</title>
+						<biblScope>Bd. 5</biblScope>
+						<editor>Kurt Galling</editor>
+						<pubPlace>Tübingen</pubPlace>
+						<publisher>Mohr-Siebeck</publisher>
+						<date>1961</date>
+						<biblScope unit="page">1066f</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Jauß-1991">
+					<author>Hans Robert Jauß</author>
+					<title>Rückschau auf die Rezeptionstheorie</title>
+					<bibl>
+						<title>Rezeptionsästhetik und Rezeptionsgeschichte in der
+							Musikwissenschaft</title>
+						<editor>Hermann Danuser</editor>
+						<editor>Friedhelm Krummacher</editor>
+						<pubPlace>Laaber</pubPlace>
+						<publisher>Laaber</publisher>
+						<date>1991</date>
+						<biblScope unit="page">13–36</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Jauß-1992">
+					<author>Hans Robert Jauß</author>
+					<title>Rezeption; Rezeptionsästhetik</title>
+					<bibl>
+						<title>Historisches Wörterbuch der Philosophie</title>
+						<biblScope unit="volume">8</biblScope>
+						<editor>Joachim Ritter</editor>
+						<editor>Karlfried Gründer</editor>
+						<pubPlace>Basel</pubPlace>
+						<publisher>Schwabe</publisher>
+						<date>1992</date>
+						<biblScope unit="page">996–1004</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Jurt-2014">
+					<author>Joseph Jurt</author>
+					<title>Sprache, Literatur und nationale Identität. Die Debatten über das
+						Universelle und das Partikuläre in Frankreich und Deutschland</title>
+					<pubPlace>Berlin/Boston</pubPlace>
+					<publisher>De Gruyter</publisher>
+					<date>2014</date>
+				</bibl>
+				<bibl xml:id="Kämper-1972">
+					<author>Dietrich Kämper</author>
+					<title>Das deutsche Verdi-Schrifttum. Hauptlinien der Interpretation</title>
+					<bibl>
+						<title>Colloquium »Verdi-Wagner«. Rom 1969</title>
+						<editor>Friedrich Lippmann</editor>
+						<pubPlace>Köln/Wien</pubPlace>
+						<publisher>Böhlau</publisher>
+						<date>1972</date>
+						<biblScope unit="page">185–199</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kantner-1993">
+					<author>Leopold Kantner</author>
+					<title>Tendenzen der Kirchenmusik in Italien und Deutschland seit 1850</title>
+					<bibl>
+						<title>Colloquium »Italien und Deutschland: Wechselbeziehungen in der Musik
+							seit 1850«. Rom 1988</title>
+						<series>Analecta Musicologica 28</series>
+						<editor>Friedrich Lippmann</editor>
+						<pubPlace>Laaber</pubPlace>
+						<publisher>Laaber</publisher>
+						<date>1993</date>
+						<biblScope unit="page">191–207</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kienzl-2014">
+					<author>Lisa Kienzl</author>
+					<title>Nation, Identität und Antisemitismus. Der deutschsprachige Raum der
+						Donaumonarchie 1866 bis 1914</title>
+					<pubPlace>Göttingen</pubPlace>
+					<publisher>V&amp;R</publisher>
+					<date>2014</date>
+				</bibl>
+				<bibl xml:id="Kirsch-2013">
+					<author>Winfried Kirsch</author>
+					<title>Kirchenmusikreform, Cäcilianismus und Palestrina-Renaissance</title>
+					<bibl>
+						<title>Geschichte der Kirchenmusik</title>
+						<biblScope unit="volume">3</biblScope>
+						<editor>Wolfgang Hochstein</editor>
+						<editor>Christoph Krummacher</editor>
+						<pubPlace>Laaber</pubPlace>
+						<publisher>Laaber</publisher>
+						<date>2013</date>
+						<biblScope unit="page">56–71</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Klein-2003">
+					<author>Wolfgang Klein</author>
+					<title>Realismus/realistisch</title>
+					<bibl>
+						<title>Ästhetische Grundbegriffe</title>
+						<biblScope unit="volume">5</biblScope>
+						<editor>Karlheinz Barck</editor>
+						<pubPlace>Stuttgart/Weimar</pubPlace>
+						<publisher>Metzler</publisher>
+						<date>2003</date>
+						<biblScope unit="page">149–197</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kleinschmidt-2015">
+					<author>Melanie Kleinschmidt</author>
+					<title>»Der hebräische Kunstgeschmack«. Lüge und Wahrhaftigkeit in der
+						deutsch-jüdischen Musikkultur</title>
+					<pubPlace>Köln/Weimar</pubPlace>
+					<publisher>Böhlau</publisher>
+					<date>2015</date>
+				</bibl>
+				<bibl xml:id="Klinke-2017">
+					<author>Harald Klinke</author>
+					<title>Information Retrieval</title>
+					<bibl>
+						<title>Digital Humanities. Eine Einführung</title>
+						<editor>Fotis Jannidis</editor>
+						<editor>Hubertus Kohle</editor>
+						<editor>Malte Rehbein</editor>
+						<pubPlace>Stuttgart</pubPlace>
+						<publisher>Metzler</publisher>
+						<date>2017</date>
+						<biblScope unit="page">268–278</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Konrad-1984">
+					<author>Ulrich Konrad</author>
+					<title>Der Beitrag evangelischer Komponisten zur Messenkomposition im
+						19. Jahrhundert</title>
+					<bibl>
+						<series>Kirchenmusikalisches Jahrbuch</series>
+						<biblScope unit="issue">68</biblScope>
+						<date>1984</date>
+						<biblScope unit="page">65–92</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kotulla-2008">
+					<author>Michael Kotulla</author>
+					<title>Deutsche Verfassungsgeschichte. Vom Alten Reich bis Weimar
+						(1495–1934)</title>
+					<pubPlace>Berlin/Heidelberg</pubPlace>
+					<publisher>Springer</publisher>
+					<date>2008</date>
+				</bibl>
+				<bibl xml:id="Kramer-1997">
+					<author>Ursula Kramer</author>
+					<title>»Bier, Rheinwein und viel zu essen.« Giuseppe Verdi und seine Beziehung
+						zu Deutschland. Die Freundschaft mit Ferndinand Hiller</title>
+					<bibl>
+						<title>Festschrift Christoph-Hellmut Mahling zum 65. Geburtstag</title>
+						<series>Mainzer Studien zur Musikwissenschaft 37</series>
+						<editor>Axel Beer</editor>
+						<editor>Kristina Pfarr</editor>
+						<editor>Wolfgang Ruf</editor>
+						<pubPlace>Tutzing</pubPlace>
+						<publisher>Schneider</publisher>
+						<date>1997</date>
+						<biblScope unit="page">701–720</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kreuzer-1998">
+					<author>Gundula Kreuzer</author>
+					<title>Zurück zu Verdi: the »Verdi Renaissance« and musical culture in the
+						Weimarer Republic</title>
+					<bibl>
+						<series>Studi verdiani 13</series>
+						<pubPlace>Parma</pubPlace>
+						<publisher>Istituto nazionale di studi verdiani</publisher>
+						<date>1998</date>
+						<biblScope unit="page">117–154</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kreuzer-2005">
+					<author>Gundula Kreuzer</author>
+					<title>»Oper im Kirchengewande«? Verdi’s Requiem and the Anxieties of the Young
+						German Empire</title>
+					<bibl>
+						<series>Journal of the American Musicological Society</series>
+						<biblScope unit="issue">58,2</biblScope>
+						<date>Summer 2005</date>
+						<biblScope unit="page">399–450</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kreuzer-2010">
+					<author>Gundula Kreuzer</author>
+					<title>Verdi and the Germans</title>
+					<pubPlace>New York</pubPlace>
+					<publisher>Cambridge University Press</publisher>
+					<date>2010</date>
+				</bibl>
+				<bibl xml:id="Kreuzer-2012">
+					<author>Gundula Kreuzer</author>
+					<title>Störfaktor Leierkasten: Verdis »Requiem« und nationale Identität im
+						deutschen Kaiserreich</title>
+					<bibl>
+						<title>Musik und kulturelle Identität. Bericht über den XIII.
+							Internationalen Kongress der Gesellschaft für Musikforschung Weimar
+							2004. Band II: Symposien B</title>
+						<editor>Detlef Altenburg</editor>
+						<editor>Rainer Bayreuther</editor>
+						<pubPlace>Kassel u. a.</pubPlace>
+						<publisher>Bärenreiter</publisher>
+						<date>2012</date>
+						<biblScope unit="page">37–46</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kropfinger-2002">
+					<author>Klaus Kropfinger</author>
+					<title>Verdi-Wagner. Facetten der Rezeption</title>
+					<bibl>
+						<title>Zukunftsbilder. Richard Wagners Revolution und ihre Folgen in Kunst
+							und Politik</title>
+						<editor>Herrmann Danuser</editor>
+						<editor>Herfried Münkler</editor>
+						<pubPlace>Schliengen</pubPlace>
+						<publisher>Edition Argus</publisher>
+						<date>2002</date>
+						<biblScope unit="page">116–147</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kropfinger-2007">
+					<author>Klaus Kropfinger</author>
+					<title>Rezeptionsforschung</title>
+					<bibl>
+						<title>MGG2</title>
+						<biblScope>Bd. 8 (Sachteil)</biblScope>
+						<editor>Ludwig Finscher</editor>
+						<pubPlace>Kassel u. a.</pubPlace>
+						<publisher>Bärenreiter</publisher>
+						<date>2007</date>
+						<biblScope>Sp. 200–224</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Kuzmics-Axtmann-2000">
+					<author>Helmut Kuzmics</author>
+					<author>Roland Axtmann</author>
+					<title>Autorität, Staat und Nationalcharakter. Der Zivilisationsprozeß in
+						Österreich und England 1700–1900</title>
+					<series>Figurationen. Schriften zur Zivilisations- und Prozesstheorie 2</series>
+					<pubPlace>Opladen</pubPlace>
+					<publisher>Leske &amp; Budrich</publisher>
+					<date>2000</date>
+				</bibl>
+				<bibl xml:id="Lier-1900">
+					<author>H. A. Lier</author>
+					<title>Gleich, Ferdinand</title>
+					<bibl>
+						<series>Biographisches Jahrbuch und Deutscher Nekrolog</series>
+						<biblScope>Bd. 3</biblScope>
+						<editor>Anton Bettelheim</editor>
+						<pubPlace>Berlin</pubPlace>
+						<publisher>Reimer</publisher>
+						<date>1900</date>
+						<biblScope>S. 344f</biblScope>
+					</bibl>
+					<ref
+						target="http://www.archive.org/stream/biographischesj05bettgoog#page/n362/mode/1up"
+					/>
+				</bibl>
+				<bibl xml:id="Lodes-1998">
+					<author>Birgit Lodes</author>
+					<title>Das 19. Jahrhundert</title>
+					<bibl>
+						<title>Handbuch der musikalischen Gattungen</title>
+						<biblScope unit="volume">9</biblScope>
+						<editor>Horst Leuchtmann</editor>
+						<editor>Siegfried Mauser</editor>
+						<pubPlace>Laaber</pubPlace>
+						<publisher>Laaber</publisher>
+						<date>1998</date>
+						<biblScope unit="page">270–332</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Lutherbibel-2017">
+					<title>Die Bibel. Nach Martin Luthers Übersetzung</title>
+					<pubPlace>Stuttgart</pubPlace>
+					<publisher>Deutsche Bibelgesellschaft</publisher>
+					<date>2016</date>
+					<edition>revidiert 2017</edition>
+				</bibl>
+				<bibl xml:id="Mahrenholz-2003">
+					<author>Christhard Mahrenholz</author>
+					<title>Köstlin, Heinrich Adolf</title>
+					<bibl>
+						<title>MGG2</title>
+						<biblScope>Bd. 10 (Personenteil)</biblScope>
+						<editor>Ludwig Finscher</editor>
+						<pubPlace>Kassel u. a.</pubPlace>
+						<publisher>Bärenreiter</publisher>
+						<date>2003</date>
+						<biblScope>Sp. 555f</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Manzoni-1985">
+					<title>I promessi sposi</title>
+					<pubPlace>Milano</pubPlace>
+					<publisher>Mondadori</publisher>
+					<date>1985</date>
+					<ref target="http://www.letteraturaitaliana.net/pdf/Volume_8/t337.pdf"/>
+				</bibl>
+				<bibl xml:id="Martin-1989">
+					<author>George Martin</author>
+					<title>Aspects of Verdi</title>
+					<pubPlace>London</pubPlace>
+					<publisher>Robson Books</publisher>
+					<date>1989</date>
+				</bibl>
+				<bibl xml:id="Massenkeil-2001">
+					<author>Günther Massenkeil</author>
+					<title>Das Requiem von Giuseppe Verdi. Ein sakrales Meisterwerk</title>
+					<bibl>
+						<series>Musica Sacra</series>
+						<biblScope unit="issue">121,5</biblScope>
+						<date>2001</date>
+						<biblScope unit="page">8–10</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Mathy-1994">
+					<author>Helmut Mathy</author>
+					<title>Aspekte katholischer Kirchen- und Musikgeschichte im
+						19. Jahrhundert</title>
+					<bibl>
+						<title>Studien zur Kirchenmusik im 19. Jahrhundert</title>
+						<series>Mainzer Studien zur Musikwissenschaft 32</series>
+						<editor>Christoph-Hellmut Mahling</editor>
+						<pubPlace>Tutzing</pubPlace>
+						<publisher>Schneider</publisher>
+						<date>1994</date>
+						<biblScope unit="page">1–12</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Mautner-2000">
+					<author>Hendrikje Mautner</author>
+					<title>Aus Kitsch wird Kunst. Zur Bedeutung Franz Werfels für die deutsche
+						»Verdi-Renaissance«</title>
+					<series>Sonus. Schriften zur Musik 6</series>
+					<pubPlace>Schliengen</pubPlace>
+					<publisher>Edition Argus</publisher>
+					<date>2000</date>
+					<edition>Ph. D.: Hannover, 2000</edition>
+				</bibl>
+				<bibl xml:id="Miller-2004">
+					<author>Norbert Miller</author>
+					<title>Der verlorne Schatten und die Schatten des Parnaß. Zur künstlerischen
+						Kanonbildung in der Musik</title>
+					<bibl>
+						<title>Kunst – Fest – Kanon. Inklusion und Exklusion in Gesellschaft und
+							Kultur</title>
+						<editor>in Zusammenarbeit mit der Staatsoper Unter den Linden</editor>
+						<editor>Hermann Danuser</editor>
+						<editor>Herfried Münkler</editor>
+						<pubPlace>Schliengen</pubPlace>
+						<publisher>Edition Argus</publisher>
+						<date>2004</date>
+						<biblScope unit="page">147–161</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Moretti-2000">
+					<author>Franco Moretti</author>
+					<title>Conjectures on World Literature</title>
+					<bibl>
+						<series>New Left Review 1</series>
+						<date>Januar/Februar 2000</date>
+						<biblScope unit="page">54–68</biblScope>
+					</bibl>
+					<ref
+						target="https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature"
+					/>
+				</bibl>
+				<bibl xml:id="Moretti-2016">
+					<author>Franco Moretti</author>
+					<title>Distant Reading</title>
+					<edition>Aus dem Englischen von Christine Pries</edition>
+					<pubPlace>Konstanz</pubPlace>
+					<publisher>Konstanz University Press</publisher>
+					<date>2016</date>
+				</bibl>
+				<bibl xml:id="Moser-2000">
+					<author>Walter Moser</author>
+					<title>Barock</title>
+					<bibl>
+						<title>Ästhetische Grundbegriffe</title>
+						<biblScope unit="volume">1</biblScope>
+						<editor>Karlheinz Barck</editor>
+						<pubPlace>Stuttgart/Weimar</pubPlace>
+						<publisher>Metzler</publisher>
+						<date>2000</date>
+						<biblScope unit="page">578–618</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Niehr-2001">
+					<author>Klaus Niehr</author>
+					<title>Gotisch</title>
+					<bibl>
+						<title>Ästhetische Grundbegriffe</title>
+						<biblScope unit="volume">2</biblScope>
+						<editor>Karlheinz Barck</editor>
+						<pubPlace>Stuttgart/Weimar</pubPlace>
+						<publisher>Metzler</publisher>
+						<date>2001</date>
+						<biblScope unit="page">862–876</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Nipperdey-1990">
+					<author>Thomas Nipperdey</author>
+					<title>Deutsche Geschichte 1886–1918. Band I: Arbeitswelt und
+						Bürgergeist</title>
+					<pubPlace>München</pubPlace>
+					<publisher>Beck</publisher>
+					<date>1990</date>
+				</bibl>
+				<bibl xml:id="Nipperdey-1997">
+					<author>Thomas Nipperdey</author>
+					<title>Der Kölner Dom als Nationaldenkmal</title>
+					<bibl>
+						<title>Das 19. Jahrhundert. Ein Lesebuch zur deutschen Geschichte
+							1815–1918</title>
+						<editor>Wolfgang Piereth</editor>
+						<pubPlace>München</pubPlace>
+						<publisher>Beck</publisher>
+						<date>1997</date>
+						<edition>2. Auflage</edition>
+						<biblScope unit="page">211–219</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Nohl-1996">
+					<author>Paul-Gerhard Nohl</author>
+					<title>Lateinische Kirchenmusiktexte. Geschichte – Übersetzung –
+						Kommentar</title>
+					<pubPlace>Kassel u. a.</pubPlace>
+					<publisher>Bärenreiter</publisher>
+					<date>1996.</date>
+				</bibl>
+				<bibl xml:id="Nowak-1980">
+					<author>Adolf Nowak</author>
+					<title>Johannes Eccards Ernennung zum preußischen Palestrina durch
+						Obertribunalrat von Winterfeld</title>
+					<bibl>
+						<title>Studien zur Musikgeschichte des 19. Jahrhunderts</title>
+						<biblScope unit="volume">56</biblScope>
+						<pubPlace>Regensburg</pubPlace>
+						<publisher>Bosse</publisher>
+						<date>1980</date>
+						<biblScope unit="page">293–300</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Nowak-2001">
+					<author>Adolf Nowak</author>
+					<title>Vom »Trieb nach Vaterländischem«. Die Idee des Nationalen in der
+						Musikästhetik des 18. und 19. Jahrhunderts</title>
+					<bibl>
+						<title>Deutsche Meister – böse Geister? Nationale Selbstfindung in der
+							Musik</title>
+						<editor>Hermann Danuser</editor>
+						<editor>Herfried Münkler</editor>
+						<pubPlace>Schliengen</pubPlace>
+						<publisher>Edition Argus</publisher>
+						<date>2001</date>
+						<biblScope unit="page">151–165</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Oberdorfer-1981">
+					<title>Giuseppe Verdi. Autobiografia dalle lettere</title>
+					<editor>Aldo Oberdorfer</editor>
+					<pubPlace>Milano</pubPlace>
+					<publisher>Rizzoli</publisher>
+					<date>1981</date>
+				</bibl>
+				<bibl xml:id="Ottomano-2013">
+					<author>Vincenzina C. Ottomano</author>
+					<title>Verdi-Renaissance und die politische Vereinnahmung des Komponisten nach
+						1918</title>
+					<bibl>
+						<relatedItem target="#Gerhard-Schweikert-2013"/>
+						<biblScope unit="page">643–651</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Pabis-2010">
+					<author>Eszter Pabis</author>
+					<title>Die Schweiz als Erzählung. Nationale und narrative Identitätskonstruktion
+						in Max Frischs Stiller, Wilhelm Tell für die Schule und
+						Dienstbüchlein</title>
+					<series>Debrecener Studien zur Literatur 15</series>
+					<pubPlace>Frankfurt am Main</pubPlace>
+					<publisher>Lang</publisher>
+					<date>2010</date>
+					<edition>Ph. D.: Debrecen</edition>
+				</bibl>
+				<bibl xml:id="Pauls-1996">
+					<author>Birgit Pauls</author>
+					<title>Giuseppe Verdi und das Risorgimento. Ein politischer Mythos im Prozeß der
+						Nationenbildung</title>
+					<pubPlace>Berlin/Boston</pubPlace>
+					<publisher>De Gruyter</publisher>
+					<date>1996</date>
+				</bibl>
+				<bibl xml:id="Paupié-1960">
+					<author>Kurt Paupié</author>
+					<title>Handbuch der österreichischen Pressegeschichte 1848–1959. Band I:
+						Wien</title>
+					<pubPlace>Wien/Stuttgart</pubPlace>
+					<publisher>Braumüller</publisher>
+					<date>1960.</date>
+				</bibl>
+				<bibl xml:id="Peschke-1995">
+					<author>Michael Peschke</author>
+					<title>Signale für die Musikalische Welt 1843–1941. Teil 2: Bibliographie und
+						Indizes zur Mikrofiche-Edition</title>
+					<pubPlace>München u. a.</pubPlace>
+					<publisher>Saur</publisher>
+					<date>1995.</date>
+				</bibl>
+				<bibl xml:id="Pierazzo-2016">
+					<author>Elena Pierazzo</author>
+					<title>Textual Scholarship and Text Encoding</title>
+					<bibl>
+						<title>A New Companion to Digital Humanities</title>
+						<editor>Susan Schreibman</editor>
+						<editor>Ray Siemens</editor>
+						<editor>John Unsworth</editor>
+						<pubPlace>Chichester</pubPlace>
+						<publisher>Wiley Blackwell</publisher>
+						<date>2016</date>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Platen-1995">
+					<author>Emil Platen</author>
+					<title>Fuge</title>
+					<bibl>
+						<title>MGG2</title>
+						<biblScope>Bd. 3 (Sachteil)</biblScope>
+						<editor>Ludwig Finscher</editor>
+						<pubPlace>Kassel u. a.</pubPlace>
+						<publisher>Bärenreiter</publisher>
+						<date>1995</date>
+						<biblScope>Sp. 930–957</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Plessner-1982">
+					<author>Helmuth Plessner</author>
+					<title>Die verspätete Nation</title>
+					<series>Gesammelte Schriften VI</series>
+					<pubPlace>Frankfurt am Main</pubPlace>
+					<publisher>Suhrkamp</publisher>
+					<date>1982</date>
+				</bibl>
+				<bibl xml:id="Poppe-2007">
+					<author>Gerhard Poppe</author>
+					<title>Festhochamt, sinfonische Messe oder überkonfessionelles Bekenntnis?
+						Studien zur Rezeptionsgeschichte von Beethovens Missa solemnis</title>
+					<pubPlace>Beeskow</pubPlace>
+					<publisher>Ortus</publisher>
+					<date>2007</date>
+				</bibl>
+				<bibl xml:id="Porter-1905">
+					<author>A. P[orter].</author>
+					<title>Röder, Martin</title>
+					<bibl>
+						<title>The Jewish Encyclopedia</title>
+						<biblScope>Bd. 10</biblScope>
+						<pubPlace>New York</pubPlace>
+						<publisher>Funk and Wagnalls</publisher>
+						<date>1905</date>
+						<biblScope>S. 439f</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Prosperi-1994">
+					<author>Virgilio Prosperi</author>
+					<title>La Messa da Requiem di Giuseppe Verdi. Guida all’ascolto</title>
+					<pubPlace>Cortona</pubPlace>
+					<publisher>Calosci</publisher>
+					<date>1994</date>
+				</bibl>
+				<bibl xml:id="Räthzel-1997">
+					<author>Nora Räthzel</author>
+					<title>Gegenbilder. Nationale Identität durch Konstruktion des Anderen</title>
+					<pubPlace>Wiesbaden</pubPlace>
+					<publisher>Springer</publisher>
+					<date>1997</date>
+				</bibl>
+				<bibl xml:id="Reimer-1993">
+					<author>Erich Reimer</author>
+					<title>Nationalbewußtsein und Musikgeschichtsschreibung in Deutschland
+						1800–1850</title>
+					<bibl>
+						<series>Die Musikforschung</series>
+						<biblScope unit="issue">46</biblScope>
+						<date>1993</date>
+						<biblScope unit="page">17–31</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Riedel-2006">
+					<title>Kirchenmusik zwischen Säkularisation und Restauration</title>
+					<editor>Friedrich W. Riedel</editor>
+					<pubPlace>Sinzig</pubPlace>
+					<publisher>Studio Verlag</publisher>
+					<date>2006</date>
+				</bibl>
+				<bibl xml:id="Roberts-1989">
+					<author>Royston M. Roberts</author>
+					<title>Serendipity. Accidental Discoveries in Science</title>
+					<pubPlace>New York</pubPlace>
+					<publisher>Wiley</publisher>
+					<date>1989</date>
+				</bibl>
+				<bibl xml:id="Roeder-2012a">
+					<author>Torsten Roeder</author>
+					<title>Bericht zur Tagung »Die Universität Kiel und ihre Professorinnen und
+						Professoren oder: Wozu den Kieler Professorenkatalog?«</title>
+					<series>H-Soz-u-Kult</series>
+					<date>25.05.2012</date>
+				</bibl>
+				<bibl xml:id="Roeder-2012b">
+					<author>Torsten Roeder</author>
+					<title>Bericht zur Sektion »Datenbanken für die Mediävistik und die Renaissance
+						in Forschung und Lehre« (Historikertag 2012)</title>
+					<series>H-Soz-u-Kult</series>
+					<date>29.11.2012</date>
+				</bibl>
+				<bibl xml:id="Rosen-1994">
+					<author>David Rosen</author>
+					<title>Reprise as Resolution in Verdi’s ›Messa da Requiem‹</title>
+					<bibl>
+						<series>Theory and Practice</series>
+						<biblScope unit="issue">19</biblScope>
+						<date>1994</date>
+						<biblScope unit="page">105–120</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Rosen-1995">
+					<author>David Rosen</author>
+					<title>Verdi: Requiem</title>
+					<pubPlace>Cambridge</pubPlace>
+					<publisher>Cambridge University Press</publisher>
+					<date>1995</date>
+				</bibl>
+				<bibl xml:id="Rösing-1983">
+					<author>Helmut Rösing</author>
+					<title>Rezeptionsforschung in der Musikwissenschaft</title>
+					<pubPlace>Darmstadt</pubPlace>
+					<publisher>Wissenschaftliche Buchgesellschaft</publisher>
+					<date>1983</date>
+				</bibl>
+				<bibl xml:id="Rürup-1992">
+					<author>Reinhard Rürup</author>
+					<title>Deutschland im 19. Jahrhundert 1815–1871</title>
+					<pubPlace>Göttingen</pubPlace>
+					<publisher>Vandenhoeck &amp; Ruprecht</publisher>
+					<date>1992</date>
+					<edition>2. Auflage</edition>
+				</bibl>
+				<bibl xml:id="Scherers-1994">
+					<author>Bern Scherers</author>
+					<title>Giuseppe Verdi: Requiem</title>
+					<bibl>
+						<title>Werkanalyse in Beispielen. Große Chorwerke</title>
+						<editor>Siegmund Helms</editor>
+						<editor>Reinhard Schneider</editor>
+						<pubPlace>Kassel</pubPlace>
+						<publisher>Bosse</publisher>
+						<date>1994</date>
+						<biblScope unit="page">125–138</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Schildbach-1967">
+					<author>Martin Schildbach</author>
+					<title>Das einstimmige Agnus Dei und seine handschriftliche Überlieferung vom
+						10. bis zum 16. Jahrhundert</title>
+					<pubPlace>Erlangen/Nürnberg</pubPlace>
+					<date>1967</date>
+					<edition>Ph. D.</edition>
+				</bibl>
+				<bibl xml:id="Schlie-2013">
+					<author>Ulrich Schlie</author>
+					<title>Das Duell. Der Kampf zwischen Habsburg und Preußen um Deutschland</title>
+					<pubPlace>Berlin</pubPlace>
+					<publisher>Propyläen Verlag</publisher>
+					<date>2013</date>
+				</bibl>
+				<bibl xml:id="Schlitzer-1951">
+					<author>Franco Schlitzer</author>
+					<title>Il Requiem a Londra (1875)</title>
+					<bibl>
+						<title>Scritti raccolti in occasione delle »Celebrazioni Verdiani« dell’
+							VIII Settimana Musicale dell’Accademia Musicale Chigiana</title>
+						<pubPlace>Siena</pubPlace>
+						<publisher>Ticci</publisher>
+						<date>1951</date>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Schlossar-1904">
+					<author>Anton Schlossar</author>
+					<title>Goldhann, Ludwig</title>
+					<bibl>
+						<title>Allgemeine Deutsche Biographie</title>
+						<biblScope unit="volume">49</biblScope>
+						<pubPlace>Leipzig</pubPlace>
+						<publisher>Duncker &amp; Humblot</publisher>
+						<date>1904</date>
+						<biblScope unit="page">431–434</biblScope>
+						<ref target="https://www.deutsche-biographie.de/sfz21577.html#adbcontent"/>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Schnebel-1979">
+					<author>Dieter Schnebel</author>
+					<title>Die schwierige Wahrheit des Lebens – zu Verdis musikalischem
+						Realismus</title>
+					<bibl>
+						<series>Musik-Konzepte 10</series>
+						<date>Oktober 1979</date>
+						<editor>Heinz-Klaus Metzger</editor>
+						<editor>Rainer Riehn</editor>
+						<pubPlace>München</pubPlace>
+						<publisher>Edition Text+Kritik</publisher>
+						<biblScope unit="page">51–111</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Schöch-2013">
+					<author>Christof Schöch</author>
+					<title>Big? Smart? Clean? Messy? Data in the Humanities</title>
+					<bibl>
+						<series>Journal of Digital Humanities</series>
+						<biblScope unit="issue">2, No. 3</biblScope>
+						<date>Summer 2013</date>
+						<biblScope unit="page">2–13</biblScope>
+					</bibl>
+					<ref
+						target="http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/"
+					/>
+				</bibl>
+				<bibl xml:id="Schöch-2016">
+					<author>Christof Schöch</author>
+					<title>Ein digitales Textformat für die Literaturwissenschaft: Die Richtlinien
+						der Text Encoding Initiative und ihr Einsatz bei Textkonstitution und
+						Textanalyse</title>
+					<bibl>
+						<series>Romantische Studien 4</series>
+						<date>2016</date>
+						<biblScope unit="page">325–364</biblScope>
+					</bibl>
+					<ref target="http://www.romanischestudien.de/index.php/rst/article/view/58"/>
+				</bibl>
+				<bibl xml:id="Schrade-2011">
+					<author>Torsten Schrade</author>
+					<title>Bericht zum Workshop »Personen – Daten – Repositorien«</title>
+					<bibl>
+						<series>H-Soz-u-Kult</series>
+						<date>02.03.2011</date>
+					</bibl>
+					<ref target="http://www.hsozkult.de/conferencereport/id/tagungsberichte-3560"/>
+				</bibl>
+				<bibl xml:id="Schweikert-2001">
+					<author>Uwe Schweikert</author>
+					<title>Messa da Requiem</title>
+					<bibl>
+						<relatedItem target="#Gerhard-Schweikert-2001"/>
+						<biblScope unit="page">496–504</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Schweikert-2013a">
+					<author>Uwe Schweikert</author>
+					<title>Messa da Requiem</title>
+					<bibl>
+						<relatedItem target="#Gerhard-Schweikert-2013"/>
+						<biblScope unit="page">557–565</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Schweikert-2013b">
+					<author>Uwe Schweikert</author>
+					<title>Pezzi sacri</title>
+					<bibl>
+						<relatedItem target="#Gerhard-Schweikert-2013"/>
+						<biblScope unit="page">565–570</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Schweikert-2013c">
+					<author>Uwe Schweikert</author>
+					<title>»Schließlich ist im Leben doch alles Tod?« Verdi, die Kirche und die
+						Religion</title>
+					<bibl>
+						<series>Musik &amp; Kirche</series>
+						<biblScope unit="issue">83, Nr. 5</biblScope>
+						<date>September/Oktober 2013</date>
+						<biblScope unit="page">373–377</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Simms-2014">
+					<author>Brendan Simms</author>
+					<title>Kampf um Vorherrschaft. Eine deutsche Geschichte Europas 1453 bis
+						heute</title>
+					<edition>Aus dem Englischen von Klaus-Dieter Schmidt</edition>
+					<pubPlace>München</pubPlace>
+					<publisher>Deutsche Verlags-Anstalt</publisher>
+					<date>2014</date>
+				</bibl>
+				<bibl xml:id="Simon-2003">
+					<author>Tina Simon</author>
+					<title>Rezeptionstheorie. Einführungs- und Arbeitsbuch</title>
+					<series>Leipziger Skripten 3</series>
+					<pubPlace>Leipzig</pubPlace>
+					<publisher>Lang</publisher>
+					<date>2003</date>
+				</bibl>
+				<bibl xml:id="Sponheuer-1980">
+					<author>Bernd Sponheuer</author>
+					<title>Zur ästhetischen Dichotomie als Denkform in der ersten Hälfte des
+						19. Jahrhunderts</title>
+					<bibl>
+						<series>Archiv für Musikwissenschaft</series>
+						<biblScope unit="issue">37</biblScope>
+						<date>1980</date>
+						<biblScope unit="page">1–31</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Sponheuer-1987">
+					<author>Bernd Sponheuer</author>
+					<title>Musik als Kunst und Nicht-Kunst. Untersuchungen zur Dichotomie von
+						›hoher‹ und ›niederer‹ Musik im musikästhetischen Denken zwischen Kant und
+						Hanslick</title>
+					<series>Kieler Schriften zur Musikwissenschaft 30</series>
+					<pubPlace>Kassel u. a.</pubPlace>
+					<publisher>Bärenreiter</publisher>
+					<date>1987</date>
+				</bibl>
+				<bibl xml:id="Sponheuer-2001">
+					<author>Bernd Sponheuer</author>
+					<title>Über das ›Deutsche‹ in der Musik. Versuch einer idealtypischen
+						Rekonstruktion</title>
+					<bibl>
+						<title>Deutsche Meister – böse Geister? Nationale Selbstfindung in der
+							Musik</title>
+						<editor>Hermann Danuser</editor>
+						<editor>Herfried Münkler</editor>
+						<pubPlace>Schliengen</pubPlace>
+						<publisher>Edition Argus</publisher>
+						<date>2001</date>
+						<biblScope unit="page">123–150</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Springer-2000">
+					<author>Christian Springer</author>
+					<title>Verdi und die Interpreten seiner Zeit</title>
+					<pubPlace>Wien</pubPlace>
+					<publisher>Holzhausen</publisher>
+					<date>2000</date>
+				</bibl>
+				<bibl xml:id="Springer-2005">
+					<author>Christian Springer</author>
+					<title>Verdi-Studien</title>
+					<pubPlace>Wien</pubPlace>
+					<publisher>Edition Praesens</publisher>
+					<date>2005</date>
+				</bibl>
+				<bibl xml:id="Stachel-2002">
+					<author>Peter Stachel</author>
+					<title>Das Österreichische Bildungssystem zwischen 1749 und 1918</title>
+					<bibl>
+						<title>Kakanien Revisited</title>
+						<date>26.12.2002</date>
+						<biblScope unit="page">1–11</biblScope>
+					</bibl>
+					<ref target="http://www.kakanien-revisited.at/beitr/fallstudie/PStachel2.pdf"/>
+				</bibl>
+				<bibl xml:id="Stadler-Iletschko-Seifert-2016">
+					<author>Peter Stadler</author>
+					<author>Marcel Illetschko</author>
+					<author>Sabine Seifert</author>
+					<title>Towards a Model for Encoding Correspondence in the TEI: Developing and
+						Implementing &lt;correspDesc&gt;</title>
+					<bibl>
+						<series>Journal of the Text Encoding Initiative 9</series>
+						<date>2016</date>
+						<ref target="http://jtei.revues.org/1433"/>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Stäuble-2015">
+					<author>Urs Stäuble</author>
+					<title>Messa da Requiem</title>
+					<bibl>
+						<title>Auf dass wir klug werden. Ein Thema und acht Variationen</title>
+						<pubPlace>Norderstedt</pubPlace>
+						<publisher>Books on Demand</publisher>
+						<date>2015</date>
+						<edition>Neuauflage</edition>
+						<biblScope unit="page">204–275</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Steck-1962">
+					<author>Karl Gerhardt Steck</author>
+					<title>Vatikanum</title>
+					<bibl>
+						<title>RGG3</title>
+						<biblScope>Bd. 6</biblScope>
+						<editor>Kurt Galling</editor>
+						<pubPlace>Tübingen</pubPlace>
+						<publisher>Mohr-Siebeck</publisher>
+						<date>1962</date>
+						<biblScope>S. 1239–1245</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Storck-1910">
+					<author>Karl Storck</author>
+					<title>Musik und Musiker in Karikatur und Satire. Eine Kulturgeschichte der
+						Musik aus dem Zerrspiegel</title>
+					<pubPlace>Oldenburg</pubPlace>
+					<date>1910</date>
+					<edition>Reprint Laaber: Laaber, 1998</edition>
+				</bibl>
+				<bibl xml:id="Strasen-2008">
+					<author>Sven Strasen</author>
+					<title>Rezeptionstheorien. Literatur-, sprach- und kulturwissenschaftliche
+						Ansätze und kulturelle Modelle</title>
+					<pubPlace>Trier</pubPlace>
+					<publisher>Wissenschaftlicher Verlag Trier</publisher>
+					<date>2008</date>
+				</bibl>
+				<bibl xml:id="Strauß-1993">
+					<author>Dietmar Strauß</author>
+					<title>Vom Davidsbund zum ästhetischen Manifest. Zu Eduard Hanslicks Schriften
+						1844–1854</title>
+					<bibl>
+						<title>Eduard Hanslick, Sämtliche Schriften. Historisch-kritische
+							Ausgabe</title>
+						<biblScope unit="volume">I/1</biblScope>
+						<pubPlace>Wien u. a.</pubPlace>
+						<publisher>Böhlau</publisher>
+						<date>1993</date>
+						<biblScope unit="page">271–299</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Stumpf-1996">
+					<author>Heike Stumpf</author>
+					<title>»… wolltet mir jetzt durch die phantastisch verschlungenen Kreuzgänge
+						folgen!« Metaphorisches Sprechen in der Musikkritik der ersten Hälfte des
+						19. Jahrhunderts</title>
+					<series>Bonner Schriften zur Musikwissenschaft 2</series>
+					<pubPlace>Frankfurt am Main u. a.</pubPlace>
+					<publisher>Lang</publisher>
+					<date>1996</date>
+					<edition>Ph. D.: Bonn, 1994</edition>
+				</bibl>
+				<bibl xml:id="TEI-2016">
+					<author>Text Encoding Initiative</author>
+					<title>P5: Guidelines for Electronic Text Encoding and Interchange,
+						Version 3.1.0 (15.12.2016)</title>
+					<ref
+						target="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html-(20.02.2017)"
+					/>
+				</bibl>
+				<bibl xml:id="Toye-1962">
+					<author>Francis Toye</author>
+					<title>Verdi: His Life and Works. A re-issue of the 1931 Edition</title>
+					<pubPlace>London</pubPlace>
+					<publisher>Gollancz</publisher>
+					<date>1962</date>
+				</bibl>
+				<bibl xml:id="Ullrich-1997">
+					<author>Volker Ullrich</author>
+					<title>Die nervöse Großmacht 1871–1918. Aufstieg und Untergang des deutschen
+						Kaiserrreiches</title>
+					<pubPlace>Frankfurt am Main</pubPlace>
+					<publisher>Fischer</publisher>
+					<date>1997</date>
+				</bibl>
+				<bibl xml:id="Valle-2011">
+					<author>Nemesio Valle</author>
+					<title>A Coalescence of liturgical consensus on the chants for the mass of the
+						dead from its origins through the fourteenth century</title>
+					<pubPlace>Pittsburgh</pubPlace>
+					<date>2011</date>
+					<edition>Ph. D.</edition>
+					<ref target="http://d-scholarship.pitt.edu/7536/1/VallePhD2011.pdf"/>
+				</bibl>
+				<bibl xml:id="van-der-Vloed-2004">
+					<author>Kees van der Vloed</author>
+					<title>Requiem Survey</title>
+					<date>2004ff</date>
+					<ref target="http://www.requiemsurvey.org/"/>
+				</bibl>
+				<bibl xml:id="Vella-2014">
+					<author>Francesca Vella</author>
+					<title>Verdi Reception in Milan, 1859–1881. Memory, Progress and Italian
+						Identity</title>
+					<pubPlace>London</pubPlace>
+					<publisher>King’s College</publisher>
+					<date>2014</date>
+					<edition>Ph. D.</edition>
+				</bibl>
+				<bibl xml:id="Vellekoop-1978">
+					<author>Kees Vellekoop</author>
+					<title>Dies Irae, Dies Illa. Studien zur Frühgeschichte einer Sequenz</title>
+					<pubPlace>Bilthoven</pubPlace>
+					<publisher>Creyhgton</publisher>
+					<date>1978</date>
+				</bibl>
+				<bibl xml:id="Viglianti-2016">
+					<author>Raffaele Viglianti</author>
+					<title>The Music Addressability API: A draft specification for addressing
+						portions of music notation on the web</title>
+					<bibl>
+						<title>Proceedings of the 3rd International workshop on Digital Libraries
+							for Musicology (DLfM 2016)</title>
+						<pubPlace>New York</pubPlace>
+						<publisher>ACM</publisher>
+						<date>2016</date>
+						<biblScope unit="page">57–60</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Voss-2004">
+					<author>Egon Voss</author>
+					<title>»Oper im Kirchengewande«. Zur Rezeption von Verdis ›Requiem‹ im deutschen
+						Sprachraum</title>
+					<bibl>
+						<title>Das Bild der italienischen Oper in Deutschland</title>
+						<series>Forum Musiktheater 1</series>
+						<editor>Sebastian Werr</editor>
+						<editor>Daniel Brandenburg</editor>
+						<pubPlace>Münster</pubPlace>
+						<publisher>Lit</publisher>
+						<date>2004</date>
+						<biblScope unit="page">191–199</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Walter-2001">
+					<author>Michael Walter</author>
+					<title>Nabucodonosor</title>
+					<bibl>
+						<relatedItem target="#Gerhard-Schweikert-2001"/>
+						<biblScope unit="page">308–315</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Ward-2001">
+					<author>Brian E. Ward</author>
+					<title>The New Sounds of Mourning. The Changing Role of the Requiem in the Late
+						Nineteenth and Twentieth Centuries as Demonstrated by the Works of Giuseppe
+						Verdi, Johannes Brahms, Paul Hindemith and Benjamin Britten</title>
+					<pubPlace>Montana</pubPlace>
+					<date>2001</date>
+					<edition>M. A.</edition>
+					<ref target="http://scholarworks.umt.edu/etd/3082/"/>
+				</bibl>
+				<bibl xml:id="White-2014">
+					<author>Jennifer White</author>
+					<title>Preghiera scenes in Italian bel canto opera</title>
+					<pubPlace>Ann Arbor</pubPlace>
+					<publisher>University of Kansas</publisher>
+					<date>2014</date>
+					<edition>Ph. D.</edition>
+				</bibl>
+				<bibl xml:id="Winckler-1875">
+					<author>Johann Winckler</author>
+					<title>Die periodische Presse Oesterreichs. Eine historisch-statistische
+						Studie</title>
+					<pubPlace>Wien</pubPlace>
+					<publisher>K. K. statistische Central-Commission</publisher>
+					<date>1875</date>
+					<ref target="urn:nbn:de:bvb:12-bsb11320503-0"/>
+				</bibl>
+				<bibl xml:id="Winkler-2000">
+					<author>Heinrich August Winkler</author>
+					<title>Der lange Weg nach Westen. Deutsche Geschichte 1806–1933</title>
+					<pubPlace>München</pubPlace>
+					<publisher>Beck</publisher>
+					<date>2000</date>
+				</bibl>
+				<bibl xml:id="Wiora-1965">
+					<author>Walter Wiora</author>
+					<title>Die Musik im Weltbild der deutschen Romantik</title>
+					<bibl>
+						<title>Beiträge zur Geschichte der Musikanschauung im
+							19. Jahrhundert</title>
+						<series>Studien zur Musikgeschichte des 19. Jahrhunderts 1</series>
+						<editor>Walter Salmen</editor>
+						<pubPlace>Regensburg</pubPlace>
+						<publisher>Bosse</publisher>
+						<date>1965</date>
+						<biblScope unit="page">11–50</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Woelk-2006">
+					<author>Moritz Woelk</author>
+					<title>Gericht Gottes</title>
+					<bibl>
+						<series>Lexikon für Theologie und Kirche, Bd. 4</series>
+						<editor>Walter Kasper</editor>
+						<pubPlace>Freiburg u. a.</pubPlace>
+						<publisher>Herder</publisher>
+						<date>2006</date>
+						<biblScope>Sp. 514–522</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Zenker-1900">
+					<author>Ernst Victor Zenker</author>
+					<title>Geschichte der Journalistik in Österreich. Verfasst aus Anlass der
+						Weltausstellung Paris 1900</title>
+					<pubPlace>Wien</pubPlace>
+					<publisher>K. K. Hof- und Staatsdruckerei</publisher>
+					<date>1900</date>
+				</bibl>
+				<bibl xml:id="Zoppelli-2003">
+					<author>Luca Zoppelli</author>
+					<title>Eine Erzählung im Kirchengewande? Liturgische Struktur und
+						narratologische Perspektive in Verdis ›Messa da Requiem‹</title>
+					<bibl>
+						<series>Musiktheorie</series>
+						<biblScope unit="issue">18,1</biblScope>
+						<date>2003</date>
+						<biblScope unit="page">21–38</biblScope>
+					</bibl>
+				</bibl>
+				<bibl xml:id="Zoppelli-2013">
+					<author>Luca Zoppelli</author>
+					<title>Die Genese der Opern (II): Kompositionsprozess und
+						Editionsgeschichte</title>
+					<bibl>
+						<relatedItem target="#Gerhard-Schweikert-2013"/>
+						<biblScope unit="page">252–269</biblScope>
+					</bibl>
 				</bibl>
 			</listBibl>
 		</body>

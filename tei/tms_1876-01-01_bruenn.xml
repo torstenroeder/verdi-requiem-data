@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 1. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1876-01-01_meldungen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -39,11 +40,11 @@
 		<body rend="fraktur">
 			<p><g n="25A1" type="WHITE_SQUARE">□</g> (<persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title>.) Die jetzt — nach dem gestern zum
-				ersten Male Soli, Chor und Orchester zusammenwirkten — stattfindenden Proben nehmen
-				die volle Thätigkeit der betheiligten Künstler, sowie des Dirigenten Herrn <persName
-					key="kitzler.otto">O. <hi rend="widespace">Kitzler</hi></persName> in Anspruch.
-				Nach Allem, was darüber verlautet, soll die Wirkung eine echt poetische,
+				<title key="verdi.requiem" type="mus">Requiem</title>.) Die jetzt — nach dem gestern
+				zum ersten Male Soli, Chor und Orchester zusammenwirkten — stattfindenden Proben
+				nehmen die volle Thätigkeit der betheiligten Künstler, sowie des Dirigenten Herrn
+					<persName key="kitzler.otto">O. <hi rend="widespace">Kitzler</hi></persName> in
+				Anspruch. Nach Allem, was darüber verlautet, soll die Wirkung eine echt poetische,
 				tiefergreifende sein, uns namentlich staunen selbst die strengen Fachmusiker über
 				die Intensität, mit welcher es hier dem italienischen Maestro gelungen ist, graziöse
 				Führung der Melodie mit polyfonisch exakter Stylisirung zu vereinigen. Das Komite
@@ -53,34 +54,35 @@
 					key="verdi.requiem" type="mus">Requiems</title> der <placeName
 					key="bruenn.redouta-theater">Redoutensaal</placeName> abgeschlossen und nur in
 				den Zwischenpausen der einzelnen Nummern jeweilig geöffnet wird.</p>
-			<p><persName key="akronym.z">-z</persName> (Der Komponist des <title
-					key="verdi.requiem" type="mus">Manzoni-Requiems</title>,) <persName key="verdi.giuseppe"
-					>Josef Verdi</persName>, hat sein sechzigstes Lebensjahr überschritten, denn er
-				wurde am <date when-iso="1814-10-09">9. Oktober 1814</date> zu <placeName
-					key="roncole">Roncole</placeName>, einem Dorfe im Herzogthume <placeName
-					key="parma">Parma</placeName>, geboren. In seinem 25. Lebensjahre trat er
-				zuerstmit einer Oper vor das Publikum, es war dies <hi rend="antiqua">„<title
-						key="verdi.oberto" type="mus">Oberto di San Bonifacio</title>“</hi>, welche aber keine
+			<p><persName key="akronym.z">-z</persName> (Der Komponist des <title key="verdi.requiem"
+					type="mus">Manzoni-Requiems</title>,) <persName key="verdi.giuseppe">Josef
+					Verdi</persName>, hat sein sechzigstes Lebensjahr überschritten, denn er wurde
+				am <date when-iso="1814-10-09">9. Oktober 1814</date> zu <placeName key="roncole"
+					>Roncole</placeName>, einem Dorfe im Herzogthume <placeName key="parma"
+					>Parma</placeName>, geboren. In seinem 25. Lebensjahre trat er zuerstmit einer
+				Oper vor das Publikum, es war dies <hi rend="antiqua">„<title key="verdi.oberto"
+						type="mus">Oberto di San Bonifacio</title>“</hi>, welche aber keine
 				besonders beifällige Aufnahme fand. Nun schuf er rastlos und es dürften von ihm
 				beiläufig zwanzig Opern erschienen sein, von welchen jedoch viele die Grenzen seiner
 				Heimat nicht überschritten haben. Am <placeName key="bruenn.stadttheater">Brünner
 					Theater</placeName> wurden unseres Wissens <title key="verdi.nabucco" type="mus"
-					>Nabukkodonosor</title>, <title key="verdi.ernani" type="mus">Ernani</title>, <title
-					key="verdi.i-due-foscari" type="mus">die beiden Foskari</title>, <title
-					key="verdi.macbeth" type="mus">Macbeth</title>, <title key="verdi.rigoletto" type="mus"
-					>Rigoletto</title>, <title key="verdi.il-trovatore" type="mus">Troubadour</title>, <title
-					key="verdi.la-traviata" type="mus">Traviata</title> und <title
-					key="verdi.un-ballo-in-maschera" type="mus">Der Maskenball</title> aufgeführt. Welchen
-				Erfolg seinerzeit <title key="verdi.ernani" type="mus">Ernani</title>, <title
-					key="verdi.rigoletto" type="mus">Rigoletto</title> und <title key="verdi.il-trovatore" type="mus"
-					>Troubadour</title> errungen haben, dürfte den Theaterfreunden noch in
-				Erinnerung sein. Der <title key="verdi.il-trovatore" type="mus">Troubadour</title> besonders
-				erhält sich noch immer in der Gunst des Publikums und beinahe jeder Tenor, der in
-					<placeName key="bruenn">Brünn</placeName> debutirte, hat den <title
-					key="verdi.il-trovatore.manrico" type="mus">Manriko</title> zu einer Antrittsrolle
-				gewählt. Nun wird unter unser Publikum den beliebten Komponisten auf ganz neuem
-				musikalischen Gebiete, der Kirchenmusik, in seinem berühmt gewordenen <title
-					key="verdi.requiem" type="mus">Requiem</title> kennen lernen.</p>
+					>Nabukkodonosor</title>, <title key="verdi.ernani" type="mus">Ernani</title>,
+					<title key="verdi.i-due-foscari" type="mus">die beiden Foskari</title>, <title
+					key="verdi.macbeth" type="mus">Macbeth</title>, <title key="verdi.rigoletto"
+					type="mus">Rigoletto</title>, <title key="verdi.il-trovatore" type="mus"
+					>Troubadour</title>, <title key="verdi.la-traviata" type="mus">Traviata</title>
+				und <title key="verdi.un-ballo-in-maschera" type="mus">Der Maskenball</title>
+				aufgeführt. Welchen Erfolg seinerzeit <title key="verdi.ernani" type="mus"
+					>Ernani</title>, <title key="verdi.rigoletto" type="mus">Rigoletto</title> und
+					<title key="verdi.il-trovatore" type="mus">Troubadour</title> errungen haben,
+				dürfte den Theaterfreunden noch in Erinnerung sein. Der <title
+					key="verdi.il-trovatore" type="mus">Troubadour</title> besonders erhält sich
+				noch immer in der Gunst des Publikums und beinahe jeder Tenor, der in <placeName
+					key="bruenn">Brünn</placeName> debutirte, hat den <title
+					key="verdi.il-trovatore.manrico" type="mus">Manriko</title> zu einer
+				Antrittsrolle gewählt. Nun wird unter unser Publikum den beliebten Komponisten auf
+				ganz neuem musikalischen Gebiete, der Kirchenmusik, in seinem berühmt gewordenen
+					<title key="verdi.requiem" type="mus">Requiem</title> kennen lernen.</p>
 		</body>
 	</text>
 </TEI>

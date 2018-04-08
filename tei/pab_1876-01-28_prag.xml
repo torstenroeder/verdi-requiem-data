@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Prager Abendblatt, 28. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/pab_1876-01-28_vom-deutschen-landestheater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="prag"/></creation>
+			<creation>
+				<placeName key="prag"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -46,23 +47,23 @@
 						Landestheater</placeName>.</hi>
 				<rs key="prag.1876.1" type="event">Gestern gelangte <persName key="verdi.giuseppe"
 						>Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> zur ersten Aufführung.</rs> Den
-				Anforderungen des Meisters gemäß wurde das Werk, trotz der Verschiedenartigkeit des
-				musikalischen Bildungsgrades der vielen mitwirkenden Gesangskräfte, im bestimmten
-				Style, breit und groß, in einer weit überschauenden Höhe gehalten. Am meisten mahnte
-				an hohe Haltung, stylmäßige Würde und plastische Festigkeit Frau <persName
-					key="moser.marie">von Steinitz-Moser</persName>. Ihr Gesangstheil war so
-				gediegen und edel, wie man es von dieser Künstlerin nur erwarten kann. Mit dem
-				ganzen Nachdrucke ihrer reichen Stimmmittel sangen auch Frl. <persName
+					<title key="verdi.requiem" type="mus">Requiem</title> zur ersten
+					Aufführung.</rs> Den Anforderungen des Meisters gemäß wurde das Werk, trotz der
+				Verschiedenartigkeit des musikalischen Bildungsgrades der vielen mitwirkenden
+				Gesangskräfte, im bestimmten Style, breit und groß, in einer weit überschauenden
+				Höhe gehalten. Am meisten mahnte an hohe Haltung, stylmäßige Würde und plastische
+				Festigkeit Frau <persName key="moser.marie">von Steinitz-Moser</persName>. Ihr
+				Gesangstheil war so gediegen und edel, wie man es von dieser Künstlerin nur erwarten
+				kann. Mit dem ganzen Nachdrucke ihrer reichen Stimmmittel sangen auch Frl. <persName
 					key="burenne.henriette">Burenne </persName>und Hr. <persName
 					key="schebesta.adalbert">Schebesta</persName>, sowie Hr. <persName
 					key="hajos.siegmund">Hajos</persName>. Die Gesammtwirkung des großartigen
 				Kunstgebildes war eine mächtige und einzelne Theile desselben mußten über
 				stürmisches Ver<cb break="no" n="3b" type="regular"/>langen wiederholt werden. Hr.
-				Kapellmeister <persName key="slansky.ludwig">Slansky</persName> wurde noch
-				besonders mit reichem Beifall bedacht, <rs key="prag.1876.2" type="event">Sonntag
-					dürfte das <title key="verdi.requiem" type="mus">Requiem</title> wiederholt werden</rs>.
-					<gap resp="tr"/></p>
+				Kapellmeister <persName key="slansky.ludwig">Slansky</persName> wurde noch besonders
+				mit reichem Beifall bedacht, <rs key="prag.1876.2" type="event">Sonntag dürfte das
+						<title key="verdi.requiem" type="mus">Requiem</title> wiederholt
+				werden</rs>. <gap resp="tr"/></p>
 		</body>
 	</text>
 </TEI>

@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 15. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1876-01-15_ertrag.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -41,14 +42,14 @@
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>
 			<p> (<hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title></hi>.) Aus dem Erträgniß der <rs
-					key="bruenn.1876" type="event">zweimaligen Aufführung des <persName
+					<title key="verdi.requiem" type="mus">Requiem</title></hi>.) Aus dem Erträgniß
+				der <rs key="bruenn.1876" type="event">zweimaligen Aufführung des <persName
 						key="verdi.giuseppe">Verdi’schen</persName>
 					<title key="verdi.requiem" type="mus">Requiems</title></rs> sind dem hiesigen
 				evangelischen Frauenvereine durch gütige Vermittlung der Frau <persName
-					key="gompertz-bettelheim.karoline-von">von Gomperz-Bettelheim</persName> 250
-				fl. übergeben worden, für welche hochherzige Spende dieser Verein dem
-				veranstaltenden Komite den verbindlichen Dank ausspricht.</p>
+					key="gompertz-bettelheim.karoline-von">von Gomperz-Bettelheim</persName> 250 fl.
+				übergeben worden, für welche hochherzige Spende dieser Verein dem veranstaltenden
+				Komite den verbindlichen Dank ausspricht.</p>
 		</body>
 	</text>
 </TEI>

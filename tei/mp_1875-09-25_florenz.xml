@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Morgen-Post, Wien, 25. September 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mp_1875-09-25_florenz.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="florenz"/></creation>
+			<creation>
+				<placeName key="florenz"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -37,9 +38,12 @@
 	</teiHeader>
 	<!--<graphic n="mp_1875-09-25_2.jpg"/>-->
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Theater, Kunst und Literatur.</head>
-			<cb break="null" n="4c" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<cb n="4c"/>
 			<p><g n="002A" type="ASTERISK">*</g>
 				<rs key="florenz.1875.1" type="event">Wie der „<orgName key="gazzetta-di-venezia"
 						>Gazzetta di Venezia</orgName>“ unterm <date when-iso="1875-09-19">19. d.
@@ -48,13 +52,14 @@
 					Theater „<placeName key="florenz.teatro-principe-umberto">Principe
 						Umberto</placeName>“ <persName key="verdi.giuseppe"><hi rend="widespace"
 							>Verdi</hi>’s</persName> schon längst angekündigte „<title
-						key="verdi.requiem" type="mus">Messa Requiem</title>“ in Gegenwart von mehr als
-					zweitausend Zuhörern zur Aufführung gelangt</rs> und war der Erfolg, wie es sich
-				leicht voraussehen ließ, ein glänzender. Das „<hi rend="widespace"><title
-						key="verdi.requiem.2.tuba-mirum" type="mus">Tuba mirum</title></hi>“, das „<hi
-					rend="widespace"><title key="verdi.requiem.4" type="mus">Sanctus</title></hi>“ und das
-					„<hi rend="widespace"><title key="verdi.requiem.5" type="mus">Agnus Dei</title></hi>“
-				mußten auf allgemeines Verlangen wiederholt werden.</p>
+						key="verdi.requiem" type="mus">Messa Requiem</title>“ in Gegenwart von mehr
+					als zweitausend Zuhörern zur Aufführung gelangt</rs> und war der Erfolg, wie es
+				sich leicht voraussehen ließ, ein glänzender. Das „<hi rend="widespace"><title
+						key="verdi.requiem.2.tuba-mirum" type="mus">Tuba mirum</title></hi>“, das
+					„<hi rend="widespace"><title key="verdi.requiem.4" type="mus"
+					>Sanctus</title></hi>“ und das „<hi rend="widespace"><title
+						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi>“ mußten auf
+				allgemeines Verlangen wiederholt werden.</p>
 		</body>
 	</text>
 </TEI>

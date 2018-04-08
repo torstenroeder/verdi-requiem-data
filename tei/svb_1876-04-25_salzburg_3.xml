@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Salzburger Volksblatt, 25. April 1876 [3]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/svb_1876-04-25_dank.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="salzburg"/></creation>
+			<creation>
+				<placeName key="salzburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -46,15 +47,15 @@
 			<p>Die Vorstehung des <hi rend="widespace"><orgName key="salzburg.dommusikverein"
 						>Dommusik-Vereines</orgName></hi> und <hi rend="widespace">Mozarteums</hi>
 				fühlt sich verpflichtet, hiemit allen geehrten Mitwirkenden bei der <rs
-					key="salzburg.1876.1" type="event">Aufführung des <persName
-						key="verdi.giuseppe"><hi rend="bold">Verdi</hi>’schen</persName>
-					<hi rend="bold"><title key="verdi.requiem" type="mus">Requiems</title></hi></rs>, sowie
-				Allen, welche das Unternehmen durch thatkräftige Unterstützung ermöglichten und
-				förderten, insbesondere der Frau Gräfin <hi rend="widespace"><persName
-						key="gatterburg.hedwig">Gatterburg</persName></hi>, Frln. <hi
-					rend="widespace"><persName key="voigt.gabriele">Voigt</persName></hi>, Hrn.
-				Oberst <hi rend="widespace"><persName key="latterer.josef">v.
-					Latterer</persName></hi> und der verehrlichen <hi rend="widespace"
+					key="salzburg.1876.1" type="event">Aufführung des <persName key="verdi.giuseppe"
+							><hi rend="bold">Verdi</hi>’schen</persName>
+					<hi rend="bold"><title key="verdi.requiem" type="mus"
+				>Requiems</title></hi></rs>, sowie Allen, welche das Unternehmen durch thatkräftige
+				Unterstützung ermöglichten und förderten, insbesondere der Frau Gräfin <hi
+					rend="widespace"><persName key="gatterburg.hedwig">Gatterburg</persName></hi>,
+				Frln. <hi rend="widespace"><persName key="voigt.gabriele">Voigt</persName></hi>,
+				Hrn. Oberst <hi rend="widespace"><persName key="latterer.josef">v.
+						Latterer</persName></hi> und der verehrlichen <hi rend="widespace"
 					>Liedertafel</hi> den tiefgefühlten Dank öffentlich auszudrücken, und verbindet
 				damit das freundliche Ersuchen an alle <hi rend="antiqua">P. T.</hi> Mitwirkenden,
 				zur <rs key="salzburg.1876.2" type="event">zweiten Aufführung</rs>, welche <date

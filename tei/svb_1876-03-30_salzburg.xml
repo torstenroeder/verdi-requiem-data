@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Salzburger Volksblatt, 30. März 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/svb_1876-03-30_salzburger-nachrichten.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="salzburg"/></creation>
+			<creation>
+				<placeName key="salzburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -40,10 +41,13 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=svb&amp;datum=18760330&amp;seite=3"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="2c" type="initial"/>
+		<front rend="fraktur">
+			<cb n="2c"/>
 			<head rend="larger">Salzburger Nachrichten.</head>
-			<pb break="null" n="3" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<pb n="3"/>
 			<p><pb break="yes" n="3" type="regular"/><hi rend="bold"><g n="002A" type="ASTERISK"
 						>*</g>
 					<rs key="salzburg.1876" type="event"><persName key="verdi.giuseppe"

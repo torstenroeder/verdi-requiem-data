@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 7. Juli 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nfp_1875-07-07_kirchenmusik.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-iso="1875-07-07"/>
 					<biblScope unit="issue">3902</biblScope>
-					<biblScope unit="subIssue">3902</biblScope>
+					<biblScope unit="subIssue">Morgenblatt</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">4</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -40,10 +41,13 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750707&amp;seite=4"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="4b" type="initial"/>
+		<front rend="fraktur">
+			<cb n="4b"/>
 			<head rend="larger">Kleine Chronik.</head>
-			<cb break="null" n="4c" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="4c"/>
 			<p rend="smaller">[<hi rend="widespace">Kirchenmusik</hi>.] Bei dem anläßlich des
 				Ablebens Sr. Majestät Kaiser <persName key="ferdinand-i.oesterreich"
 					>Ferdinand’s</persName> in der altkatholischen <placeName
@@ -51,20 +55,21 @@
 				<date when-custom="thu" when-iso="1875-07-09">übermorgen Donnerstag um 10 Uhr</date>
 				stattfindenden feierlichen Trauergottesdienste<!--*EVENT Wien--> bringt Chordirector
 					<persName key="wosahlo.a-c">A. C. Wosahlo</persName> zur Aufführung: „<title
-					key="richter.ewige-ruhe" type="mus">Ewige Ruhe</title>“, Trauermotette (neu) für Chor und
-				Orgel von <persName key="richter.paul">Paul Richter</persName>; ferner aus der
-					<title key="verdi.requiem" type="mus">Todtenmesse</title> von <persName
+					key="richter.ewige-ruhe" type="mus">Ewige Ruhe</title>“, Trauermotette (neu) für
+				Chor und Orgel von <persName key="richter.paul">Paul Richter</persName>; ferner aus
+				der <title key="verdi.requiem" type="mus">Todtenmesse</title> von <persName
 					key="verdi.giuseppe">Giuseppe Verdi</persName>: <title
-					key="verdi.requiem.2.liber-scriptus" type="mus">„Ein geschrieben Buch“, Mezzo-Sopransolo
-					und Chor</title>; <title key="verdi.requiem.2.recordare" type="mus">„Ach gedenke!“ Sopran-
-					und Mezzosopransolo</title>; <title key="verdi.requiem.2.confutatis" type="mus">„Wenn
-					Verfluchte“, Baßsolo</title>; <title key="verdi.requiem.7" type="mus">„Befreie mich“,
-					Sopransolo und Chor</title>; <title key="verdi-lebeau.requiem" type="mus"
-					>Orgel-Transcription (neu) über das „Agnus Dei“</title> von <persName
-					key="lebeau.alfred">Alfred Lebeau</persName>. Die Soli singen Fräulein
-					<persName key="ofner.xxx">Ofner</persName> (Sopran), Frau <persName
-					key="wosahlo.hermine">Wohsahlo</persName> (Alt), Herr <persName
-					key="lewis.xxx">Lewis</persName> (Baß).</p>
+					key="verdi.requiem.2.liber-scriptus" type="mus">„Ein geschrieben Buch“,
+					Mezzo-Sopransolo und Chor</title>; <title key="verdi.requiem.2.recordare"
+					type="mus">„Ach gedenke!“ Sopran- und Mezzosopransolo</title>; <title
+					key="verdi.requiem.2.confutatis" type="mus">„Wenn Verfluchte“, Baßsolo</title>;
+					<title key="verdi.requiem.7" type="mus">„Befreie mich“, Sopransolo und
+					Chor</title>; <title key="verdi-lebeau.requiem" type="mus">Orgel-Transcription
+					(neu) über das „Agnus Dei“</title> von <persName key="lebeau.alfred">Alfred
+					Lebeau</persName>. Die Soli singen Fräulein <persName key="ofner.xxx"
+					>Ofner</persName> (Sopran), Frau <persName key="wosahlo.hermine"
+					>Wohsahlo</persName> (Alt), Herr <persName key="lewis.xxx">Lewis</persName>
+				(Baß).</p>
 		</body>
 	</text>
 </TEI>

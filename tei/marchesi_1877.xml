@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Mathilde Marchesi, Erinnerungen, 1877</title>
-				<author><persName key="marchesi.mathilde"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="marchesi.mathilde"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/marchesi_1877_erinnerungen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +24,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/><date when-iso="1875-06-00"/></creation>
+			<creation>
+				<placeName key="wien"/>
+				<date when-iso="1875-06-00"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Biografik</term>
@@ -43,49 +47,51 @@
 			<p>Im <date when-iso="1875-06">Juni des Jahres 1875</date> ward es mir endlich vergönnt,
 				den hochgefeierten Meister <persName key="verdi.giuseppe">Verdi</persName>
 				persönlich kennen zu lernen. Derselbe kam nach <placeName key="wien"
-					>Wien</placeName>, um seine Oper <title key="verdi.aida" type="mus">„Aida“</title>, <rs
-					key="wien.1875" type="event">sowie sein schönes und jetzt allgemein anerkanntes
-						<title key="verdi.requiem" type="mus">„Requiem“</title> zu dirigiren</rs>. Es war das
-				zweite Mal, daß <persName key="verdi.giuseppe">Verdi</persName>
+					>Wien</placeName>, um seine Oper <title key="verdi.aida" type="mus"
+					>„Aida“</title>, <rs key="wien.1875" type="event">sowie sein schönes und jetzt
+					allgemein anerkanntes <title key="verdi.requiem" type="mus">„Requiem“</title> zu
+					dirigiren</rs>. Es war das zweite Mal, daß <persName key="verdi.giuseppe"
+					>Verdi</persName>
 				<placeName key="wien">Wien</placeName> besuchte. Er war noch sehr jung, als er das
-				erste Mal hierher kam um seine Oper „<title key="verdi.nabucco" type="mus">Nabucco</title>“,
-				welche in der <placeName key="mailand.teatro-alla-scala">Scala</placeName> in
-					<placeName key="mailand">Mailand</placeName> schon mit größtem Erfolge gegeben
-				worden war, persönlich zu dirigiren. Obgleich die meisten Familien der glühenden
-				Hitze halber <placeName key="wien">Wien</placeName> verlassen hatten, so wirkte
-				doch der Name <hi rend="widespace"><persName key="verdi.giuseppe"
-					>Verdi</persName></hi> elektrisch genug, um die Land-, Thal- und Bergbewohner
-				wieder in die Stadt zu locken. Schaarenweise drängte man sich an die Casse, um einen
-				Platz zu erhaschen und allabendlich waren die Räume des Opernhauses dicht besetzt.
-				Das <title key="verdi.requiem" type="mus">Requiem</title> wirkte begeisternd auf das Publicum.
-				Die Hauptpartien waren durch die Damen <persName key="stolz.teresa"
-					>Stolz</persName> und <persName key="waldmann.maria">Waldmann</persName>, sowie
-				durch die Herren <persName key="masini.angelo">Masini</persName> und <persName
-					key="medini.paolo">Medini</persName> ganz vortrefflich besetzt, und die Chöre,
-				welche durch den <orgName key="wien.akademischer-gesangverein">akademischen
-					Gesangverein</orgName> verstärkt worden waren, sowie das Orchester, leisteten
-				unter <persName key="verdi.giuseppe">Verdi’s</persName>
+				erste Mal hierher kam um seine Oper „<title key="verdi.nabucco" type="mus"
+					>Nabucco</title>“, welche in der <placeName key="mailand.teatro-alla-scala"
+					>Scala</placeName> in <placeName key="mailand">Mailand</placeName> schon mit
+				größtem Erfolge gegeben worden war, persönlich zu dirigiren. Obgleich die meisten
+				Familien der glühenden Hitze halber <placeName key="wien">Wien</placeName> verlassen
+				hatten, so wirkte doch der Name <hi rend="widespace"><persName key="verdi.giuseppe"
+						>Verdi</persName></hi> elektrisch genug, um die Land-, Thal- und
+				Bergbewohner wieder in die Stadt zu locken. Schaarenweise drängte man sich an die
+				Casse, um einen Platz zu erhaschen und allabendlich waren die Räume des Opernhauses
+				dicht besetzt. Das <title key="verdi.requiem" type="mus">Requiem</title> wirkte
+				begeisternd auf das Publicum. Die Hauptpartien waren durch die Damen <persName
+					key="stolz.teresa">Stolz</persName> und <persName key="waldmann.maria"
+					>Waldmann</persName>, sowie durch die Herren <persName key="masini.angelo"
+					>Masini</persName> und <persName key="medini.paolo">Medini</persName> ganz
+				vortrefflich besetzt, und die Chöre, welche durch den <orgName
+					key="wien.akademischer-gesangverein">akademischen Gesangverein</orgName>
+				verstärkt worden waren, sowie das Orchester, leisteten unter <persName
+					key="verdi.giuseppe">Verdi’s</persName>
 				<pb break="yes" n="75" type="regular"/> Zauberstab Außergewöhnliches. Der Meister
 				seinerseits äußerte zu wiederholten Malen, daß es ein hoher Genuß für ihn sei, ein
 				so vortreffliches Orchester und so ausgezeichnete Chöre dirigiren zu können.</p>
-			<p>Am Abend nach der ersten Aufführung des <title key="verdi.requiem" type="mus">Requiem</title>
-				war <persName key="verdi.giuseppe">Verdi</persName> im Begriff, das Theater zu
-				verlassen und seinen Wagen zu besteigen, als er sich plötzlich von einer Schaar
-				Studenten umringt sah, welche ihm enthusiastisch zujubelten. Der Meister, dessen
-				einfacher Sinn sich von jeher gegen solche stürmische Ovationen sträubte, flüchtete
-				rasch in den nahestehenden Wagen, jedoch bemerkend, daß die jungen Hitzköpfe Miene
-				machten, die Pferde auszuspannen, sprang er eben so schnell auf der anderen Seite
-				des Wagens heraus und lief mit Blitzesschnelle zu Fuß in sein Hotel. Die
-				darauffolgenden Abende verließ <persName key="verdi.giuseppe">Verdi</persName> das
-				Theater nur dann, wenn er mit Bestimmtheit wußte, daß Niemand in- oder außerhalb
-				desselben ihn erwartete.</p>
+			<p>Am Abend nach der ersten Aufführung des <title key="verdi.requiem" type="mus"
+					>Requiem</title> war <persName key="verdi.giuseppe">Verdi</persName> im Begriff,
+				das Theater zu verlassen und seinen Wagen zu besteigen, als er sich plötzlich von
+				einer Schaar Studenten umringt sah, welche ihm enthusiastisch zujubelten. Der
+				Meister, dessen einfacher Sinn sich von jeher gegen solche stürmische Ovationen
+				sträubte, flüchtete rasch in den nahestehenden Wagen, jedoch bemerkend, daß die
+				jungen Hitzköpfe Miene machten, die Pferde auszuspannen, sprang er eben so schnell
+				auf der anderen Seite des Wagens heraus und lief mit Blitzesschnelle zu Fuß in sein
+				Hotel. Die darauffolgenden Abende verließ <persName key="verdi.giuseppe"
+					>Verdi</persName> das Theater nur dann, wenn er mit Bestimmtheit wußte, daß
+				Niemand in- oder außerhalb desselben ihn erwartete.</p>
 			<p>Der Meister war so liebenswürdig einige Tacte aus dem wundervollen Tenorsolo (in <hi
-					rend="antiqua">C-Dur</hi>) aus dem vierstimmigen <title key="verdi.requiem.3" type="mus"
-					>Offertorium</title> seines <title key="verdi.requiem" type="mus">Requiems</title>, <title
-					n="domine-jesu" key="verdi.requiem.3" type="mus">„Domine Jesu“</title>, in mein Album zu
-				schreiben. Es war von ganz besonderem Interesse für mich, die Oper <hi
-					rend="widespace"><title key="verdi.aida" type="mus">Aïda</title></hi>, welche in der
-					<placeName key="wien">Wiener</placeName>
+					rend="antiqua">C-Dur</hi>) aus dem vierstimmigen <title key="verdi.requiem.3"
+					type="mus">Offertorium</title> seines <title key="verdi.requiem" type="mus"
+					>Requiems</title>, <title key="verdi.requiem.3" n="domine-jesu" type="mus"
+					>„Domine Jesu“</title>, in mein Album zu schreiben. Es war von ganz besonderem
+				Interesse für mich, die Oper <hi rend="widespace"><title key="verdi.aida" type="mus"
+						>Aïda</title></hi>, welche in der <placeName key="wien">Wiener</placeName>
 				<placeName key="wien.hof-operntheater">Hof-Oper</placeName> schon früher gegeben
 				worden war, nun von italienischen Sängern und unter des Componisten persönlicher
 				Leitung zu hören. Ich konnte mich von Neuem überzeugen, wie sehr die deutschen

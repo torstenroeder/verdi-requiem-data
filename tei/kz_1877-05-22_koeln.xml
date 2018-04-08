@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Zeitung, 22. Mai 1877</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/kz_1877-05-22_niederrheinisches-musikfest.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="koeln"/>
 					<date when-custom="tue" when-iso="1877-05-22"/>
 					<biblScope unit="issue">141</biblScope>
-					<biblScope unit="subIssue">141</biblScope>
+					<biblScope unit="subIssue">Zweites Blatt</biblScope>
 					<series>kz</series>
 					<biblScope unit="page">2</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -54,11 +55,11 @@
 				Hunderte mußten unverrichteter Sache umkehren. Ob die Person des berühmten Maëstro
 				oder sein Werk diese Anziehungskraft ausgeübt, ist gleichgültig. Wir beschränken uns
 				darauf, die Thatsache zu constatiren. <gap resp="tr"/></p>
-			<p>Nachdem das <title key="verdi.requiem" type="mus">Requiem</title> beinahe in allen <placeName
-					key="rheinland">Rheinstädten</placeName> mit größtem Beifall zur Aufführung
-				gelangt war, lag der Gedanke nahe, dasselbe mit imposanten Mitteln und Kräften auf
-				dem Musikfeste aufzuführen und den Schöpfer zur Leitung seines Werkes einzuladen.
-					<persName key="verdi.giuseppe">Verdi</persName> gehört nicht zu jenen
+			<p>Nachdem das <title key="verdi.requiem" type="mus">Requiem</title> beinahe in allen
+					<placeName key="rheinland">Rheinstädten</placeName> mit größtem Beifall zur
+				Aufführung gelangt war, lag der Gedanke nahe, dasselbe mit imposanten Mitteln und
+				Kräften auf dem Musikfeste aufzuführen und den Schöpfer zur Leitung seines Werkes
+				einzuladen. <persName key="verdi.giuseppe">Verdi</persName> gehört nicht zu jenen
 				wandernden Musikern, die gleich dem ewigen Juden das ganze Jahr auf der Landstraße
 				liegen und an jedem Orte und Flecken auftauchen, wo man ein Stückchen ihrer Muse
 				singt oder geigt. Der Maëstro ist in dieser Beziehung etwas schwer zugänglich und
@@ -68,19 +69,19 @@
 				Wasser zu bleiben. So fehlte es ja dies Mal nicht an allerlei Fährnissen: daß zwei
 				Solisten vor Thor-Schluß oder vielmehr Cassa-Eröffnung absagen <gap resp="tr"/></p>
 			<p>Als jetzt <persName key="verdi.giuseppe">Verdi</persName> auf der Tribüne erschien,
-				um das <title key="verdi.requiem" type="mus">Requiem</title> zu dirigiren, erhob sich ein
-				orkanartiger Beifallssturm. Nachdem einige Ruhe eingetreten, überreichte eine junge
-				Dame dem Maëstro einen silbernen — und nicht, wie wir früher irrthümlich berichtet,
-				einen goldenen — Tactirstock. Dieses Ehrengeschenk war von den mitwirkenden Damen
-				des Chores gestiftet. Diese Ovation war natürlich von neuem Jubel begleitet. Als
-				sich die hochgehenden Wogen der Begeisterung allmälig geglättet, ergriff <persName
-					key="verdi.giuseppe">Verdi</persName> die Battuta — ob die gestiftete silberne
-				oder die übliche ebenhölzerne, das konnten wir nicht sehen — und unter lautloser
-				Stille ertönten die ersten sanften A-moll-Klänge des Requiems. Gelegentlich der
-				früheren Aufführung haben wir uns bemüht, das Werk eingehend zu würdigen. Es kann
-				sich daher heute nur darum handeln, die Wirkung zu constatiren, welche das Werk
-				unter persönlicher Leitung des Componisten und mit solch imposanten Mitteln
-				hervorbrachte.</p>
+				um das <title key="verdi.requiem" type="mus">Requiem</title> zu dirigiren, erhob
+				sich ein orkanartiger Beifallssturm. Nachdem einige Ruhe eingetreten, überreichte
+				eine junge Dame dem Maëstro einen silbernen — und nicht, wie wir früher irrthümlich
+				berichtet, einen goldenen — Tactirstock. Dieses Ehrengeschenk war von den
+				mitwirkenden Damen des Chores gestiftet. Diese Ovation war natürlich von neuem Jubel
+				begleitet. Als sich die hochgehenden Wogen der Begeisterung allmälig geglättet,
+				ergriff <persName key="verdi.giuseppe">Verdi</persName> die Battuta — ob die
+				gestiftete silberne oder die übliche ebenhölzerne, das konnten wir nicht sehen — und
+				unter lautloser Stille ertönten die ersten sanften A-moll-Klänge des Requiems.
+				Gelegentlich der früheren Aufführung haben wir uns bemüht, das Werk eingehend zu
+				würdigen. Es kann sich daher heute nur darum handeln, die Wirkung zu constatiren,
+				welche das Werk unter persönlicher Leitung des Componisten und mit solch imposanten
+				Mitteln hervorbrachte.</p>
 			<p>Unsere Notenschrift ist so wenig im Stande, die innersten und letzten Gedanken des
 				Componisten auszudrücken, daß etwas von der Kunst der alten Zeichendeuter
 				erforderlich ist, um aus den ein-, zwei- und dreigeschwänzten schwarzen und weißen
@@ -88,26 +89,27 @@
 				interessantesten musikalischen Vorkommnissen, einen Componisten, und dazu noch einen
 				Autor von solch glühendem Temperament, sein Werk selbst studiren und interpretiren
 				zu hören und zu sehen. Daher boten denn auch die Proben, in welchen der Maëstro das
-					<title key="verdi.requiem" type="mus">Requiem</title> einstudirte, für den Fachmann und
-				für Jedermann außerordentlich viel Belehrendes. So vortrefflich das Werk einstudirt
-				war, so erhielt es doch unter den Händen <persName key="verdi.giuseppe"
-					>Verdi’s</persName> allmälig erst die richtige Beleuchtung, erstand es in seiner
-				ganzen Ton- und Farbenpracht. Was wir bisher gehört, stand dazu etwa in demselben
-				Verhältnisse wie ein meisterhafter Kupferstich zu dem Gemälde selbst. Wir erinnern
-				hier noch ein Mal daran, daß das Werk nicht kirchlich, sondern dramatisch gedacht
-				ist. Alle Empfindungen des menschlichen Herzens finden daher in demselben ihren
-				prägnantesten Ausdruck. Und jedem Gefühle wußte der Meister die bestimmteste
-				Vortragsweise zu verleihen. Wie schön kam beispielsweise die kaum gehauchte Bitte:
-					„<title n="requiem-aeternam" key="verdi.requiem.1" type="mus">Requiem aeternam dona
-					eis</title>!“, dann die Hoffnung athmenden Worte: „<title n="et-lux"
-					key="verdi.requiem.1" type="mus">et lux perpetua luceat eis</title>“ zum Ausdruck. Wie
-				gestaltete sich dann das „<title n="kyrie-eleison" key="verdi.requiem.1" type="mus">Kyrie
-					eleison</title>“ in seiner breiten Cantilene zu innigstem Flehen, welches stets
-				dringender sich zu seinem großartigen Ensemble aufbaut, um endlich mit dem: „<title
-					n="christe-eleison" key="verdi.requiem.1" type="mus">Christe eleison</title>“ sanft zu
-				verhallen. Da wir die Unmöglichkeit einsehen, die einzelnen Schönheiten aufzuzählen,
-				so wollen wir nur noch des donnerähnlichen „<title key="verdi.requiem.2.dies-irae" type="mus"
-					>Dies irae</title>“ gedenken.</p>
+					<title key="verdi.requiem" type="mus">Requiem</title> einstudirte, für den
+				Fachmann und für Jedermann außerordentlich viel Belehrendes. So vortrefflich das
+				Werk einstudirt war, so erhielt es doch unter den Händen <persName
+					key="verdi.giuseppe">Verdi’s</persName> allmälig erst die richtige Beleuchtung,
+				erstand es in seiner ganzen Ton- und Farbenpracht. Was wir bisher gehört, stand dazu
+				etwa in demselben Verhältnisse wie ein meisterhafter Kupferstich zu dem Gemälde
+				selbst. Wir erinnern hier noch ein Mal daran, daß das Werk nicht kirchlich, sondern
+				dramatisch gedacht ist. Alle Empfindungen des menschlichen Herzens finden daher in
+				demselben ihren prägnantesten Ausdruck. Und jedem Gefühle wußte der Meister die
+				bestimmteste Vortragsweise zu verleihen. Wie schön kam beispielsweise die kaum
+				gehauchte Bitte: „<title key="verdi.requiem.1" n="requiem-aeternam" type="mus"
+					>Requiem aeternam dona eis</title>!“, dann die Hoffnung athmenden Worte: „<title
+					key="verdi.requiem.1" n="et-lux" type="mus">et lux perpetua luceat eis</title>“
+				zum Ausdruck. Wie gestaltete sich dann das „<title key="verdi.requiem.1"
+					n="kyrie-eleison" type="mus">Kyrie eleison</title>“ in seiner breiten Cantilene
+				zu innigstem Flehen, welches stets dringender sich zu seinem großartigen Ensemble
+				aufbaut, um endlich mit dem: „<title key="verdi.requiem.1" n="christe-eleison"
+					type="mus">Christe eleison</title>“ sanft zu verhallen. Da wir die Unmöglichkeit
+				einsehen, die einzelnen Schönheiten aufzuzählen, so wollen wir nur noch des
+				donnerähnlichen „<title key="verdi.requiem.2.dies-irae" type="mus">Dies
+				irae</title>“ gedenken.</p>
 			<p>Die Aufführung war nach unsern Begriffen eine vorzügliche, von Begeisterung
 				getragene. Nach jedem Satze gab die Zuhörerschaft ihrer Bewunderung mit beinahe
 				südlicher Lebhaftigkeit Ausdruck. Es fragt sich nun, ob unser Gast seine Intentionen
@@ -122,8 +124,8 @@
 				schwerlich zu finden gewesen sein. Wenn der Geist die Materie überragt, so dürfte
 				sich der Maëstro also hier für vollständig befriedigt erachten. Die Zuhörer waren
 				über alle Maßen entzückt, ja hingerissen. Eine Art von Fanatismus erregte auch
-				dieses Mal dieser der Vortrag des Duetts „<title key="verdi.requiem.2.recordare" type="mus"
-					>Recordare</title>“ durch die Damen <persName key="lehmann.lilli"
+				dieses Mal dieser der Vortrag des Duetts „<title key="verdi.requiem.2.recordare"
+					type="mus">Recordare</title>“ durch die Damen <persName key="lehmann.lilli"
 					>Lehmann</persName> und <persName key="assmann.adele">Aßmann</persName>. Die
 				Leistungen des durch <persName key="verdi.giuseppe">Verdi</persName> trefflich
 				instruirten Chores waren unübertrefflich und werden ihm bis auf den Schluß-Chor wohl
@@ -134,20 +136,20 @@
 				schmilzt. Abgesehen hiervon aber hat sich der Chor mit Ruhm bedeckt. An dem
 				Orchester wird <persName key="verdi.giuseppe">Verdi</persName> seine Freude gehabt
 				haben, namentlich an dem trefflichen Streich-Quartett. War das eine Lust und Pracht,
-				diese rapiden Läufe im „<title key="verdi.requiem.2" type="mus">Dies irae</title>“, die
-				schmelzenden Cantilenen, die gewaltigen Steigerungen, die lispelnden Tremoli, die
-				verhauchenden Nachspiele zu hören. Auch die Holzbläser leisteten Vorzügliches. Nicht
-				auf gleicher Höhe standen die Blech-Instrumente. Namentlich waren die hier so
+				diese rapiden Läufe im „<title key="verdi.requiem.2" type="mus">Dies irae</title>“,
+				die schmelzenden Cantilenen, die gewaltigen Steigerungen, die lispelnden Tremoli,
+				die verhauchenden Nachspiele zu hören. Auch die Holzbläser leisteten Vorzügliches.
+				Nicht auf gleicher Höhe standen die Blech-Instrumente. Namentlich waren die hier so
 				wichtigen trompeten nicht so vertreten, wie es wohl zu wünschen gewesen wäre.</p>
 			<p>Wir müssen leider hier abbrechen, um auch dem Reste unserer Pflichten genügen zu
 				können. Der Erfolg war ein großartiger und wird die Erinnerung an diese Aufführung
 				den Zuhörern wohl unvergeßlich sein. Nachdem die letzten Töne des <title
-					key="verdi.requiem" type="mus">Requiem</title>, gleich wie aus einer andern Welt klingend,
-				verhallt waren, wurde dem Gefeierten durch eine junge Dame ein silberner
+					key="verdi.requiem" type="mus">Requiem</title>, gleich wie aus einer andern Welt
+				klingend, verhallt waren, wurde dem Gefeierten durch eine junge Dame ein silberner
 				Lorbeerkranz (und nicht ein goldener, wie wir früher bemerkt) überreicht. Unter
-				endlosen Beifallsbezeugungen verließ <persName key="verdi.giuseppe"
-					>Verdi</persName> die Tribüne und fand hiermit der erste Theil der Aufführung
-				einen glänzenden Abschluß. <gap resp="tr"/></p>
+				endlosen Beifallsbezeugungen verließ <persName key="verdi.giuseppe">Verdi</persName>
+				die Tribüne und fand hiermit der erste Theil der Aufführung einen glänzenden
+				Abschluß. <gap resp="tr"/></p>
 		</body>
 	</text>
 </TEI>

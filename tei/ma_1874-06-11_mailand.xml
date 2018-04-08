@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Il mondo artistico, Mailand, 11. Juni 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/ma_1874-06-11_dies-irae.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Illustration</term>

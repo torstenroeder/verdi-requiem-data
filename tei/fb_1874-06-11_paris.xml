@@ -5,10 +5,9 @@
 			<titleStmt>
 				<title>Fremden-Blatt, Wien, 11. Juni 1874</title>
 				<title corresp="nfp_1874-06-11_paris.xml">aus: Neue Freie Pr., 11.6.</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/fb_1874-06-11_paris.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,7 +16,7 @@
 					<placeName key="wien"/>
 					<date when-iso="1874-06-11"/>
 					<biblScope unit="issue">159</biblScope>
-					<biblScope unit="subIssue">159</biblScope>
+					<biblScope unit="subIssue">Abend-Blatt</biblScope>
 					<biblScope unit="volume">28</biblScope>
 					<series>fb</series>
 					<biblScope unit="page">3</biblScope>
@@ -25,7 +24,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="paris"/></creation>
+			<creation>
+				<placeName key="paris"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -43,11 +44,13 @@
 			xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" facs="#f1" n="2" type="initial"/>
+		<front rend="fraktur">
+			<pb facs="#f1" n="2"/>
 			<head rend="larger">Tagesneuigkeiten.</head>
-			<p rend="right"><hi rend="bold"><placeName key="wien">Wien</placeName></hi>, <date
-					when-iso="1874-06-11">11. Juni</date>.</p>
+		</front>
+		<body rend="fraktur">
+			<dateline rend="right"><hi rend="bold"><placeName key="wien">Wien</placeName></hi>,
+					<date when-iso="1874-06-11">11. Juni</date>.</dateline>
 			<cb break="null" n="3b" type="skipped"/>
 			<p rend="smaller">— In der <hi rend="widespace"><placeName key="paris.opera-comique"
 						>Komischen Oper</placeName></hi> in <hi rend="widespace"><placeName
@@ -55,9 +58,9 @@
 				Komponisten die <rs key="paris.1874.gp" type="event">Generalprobe</rs> der zum
 				Gedächtniß <hi rend="widespace"><title key="verdi.requiem" type="mus">Alessandro
 						Manzoni’s</title></hi> komponirten <hi rend="widespace"><title
-						key="verdi.requiem" type="mus">Todtenmesse</title></hi> von <hi rend="widespace"
-						><persName key="verdi.giuseppe">Verdi</persName></hi> statt, welche kürzlich
-				schon in <placeName key="venedig">Venedig</placeName><note resp="tr"
+						key="verdi.requiem" type="mus">Todtenmesse</title></hi> von <hi
+					rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> statt,
+				welche kürzlich schon in <placeName key="venedig">Venedig</placeName><note resp="tr"
 					type="eventCommentary">Falschmeldung; vgl. <ref
 						target="nfp_1874-06-11_ein-requiem-von-verdi.xml" type="text">Neue Freie
 						Presse, Wien, 11. Juni 1874</ref>.</note> und <rs key="mailand.1874"
@@ -81,18 +84,18 @@
 					key="paris">Paris</placeName> kein Neuling war, mit begeistertem Beifall
 				begrüßt; trotz des religiösen Charakters der Komposition wiederholte sich diese
 				Kundgebung nach jeder der beiden Abtheilungen; es wurde nämlich nach dem „<title
-					key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title>“ eine große Pause gemacht, so
-				daß der zweite Theil mit dem „<title key="verdi.requiem.3" type="mus">Offertorium</title>“
-				begann. Der Erfolg dieses <title key="verdi.requiem" type="mus">Requiems</title> bei den
-				Kennern war allerdings kein unbestrittener; man fand es, wie alle moderne
-				italienische Kirchenmusiken, und wie z. B. auch das „<title
-					key="rossini.stabat-mater" type="mus">Stabat mater</title>“ und die <title
-					key="rossini.petite-messe-solennelle" type="mus">Messe</title> von <persName
-					key="rossini.gioachino">Rossini</persName>, zu weltlich, zu theatralisch, zu
-				materialistisch, und noch im Saale der <placeName key="paris.opera-comique"
-					>Komischen Oper</placeName> hörte man das Bonmot, dieses Werk sei eine
-				Todtenmesse für ein Zivilbegräbniß<note resp="tr" type="textLink">Vgl. <persName
-						key="jouvin.benoit">B. Jouvin</persName>, <ref
+					key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title>“ eine große Pause
+				gemacht, so daß der zweite Theil mit dem „<title key="verdi.requiem.3" type="mus"
+					>Offertorium</title>“ begann. Der Erfolg dieses <title key="verdi.requiem"
+					type="mus">Requiems</title> bei den Kennern war allerdings kein unbestrittener;
+				man fand es, wie alle moderne italienische Kirchenmusiken, und wie z. B. auch das
+					„<title key="rossini.stabat-mater" type="mus">Stabat mater</title>“ und die
+					<title key="rossini.petite-messe-solennelle" type="mus">Messe</title> von
+					<persName key="rossini.gioachino">Rossini</persName>, zu weltlich, zu
+				theatralisch, zu materialistisch, und noch im Saale der <placeName
+					key="paris.opera-comique">Komischen Oper</placeName> hörte man das Bonmot,
+				dieses Werk sei eine Todtenmesse für ein Zivilbegräbniß<note resp="tr"
+					type="textLink">Vgl. <persName key="jouvin.benoit">B. Jouvin</persName>, <ref
 						target="http://gallica.bnf.fr/ark:/12148/bpt6k2752604.item" type="text">Le
 						Figaro, Paris, 10. Juni 1874, S. 1</ref>: »Une messe pour un enterrement
 					civil«.</note>. Aber auch die strengsten Kritiker konnten einigen Nummern eine

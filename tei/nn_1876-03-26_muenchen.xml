@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neueste Nachrichten, München, 26. März 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nn_1876-03-26_verdis-requiem.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="muenchen"/></creation>
+			<creation>
+				<placeName key="muenchen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -39,9 +40,9 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<p><hi rend="bold">(<persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title>.)</hi> Es bleibt immer ein gewagter
-				Versuch eine Konzertmusik in die Räume des Theaters überzutragen und dort, wo sonst
-				in erster Reihe das Auge berufen ist, die Wahrnehmung dem inneren Sinne zu
+					<title key="verdi.requiem" type="mus">Requiem</title>.)</hi> Es bleibt immer ein
+				gewagter Versuch eine Konzertmusik in die Räume des Theaters überzutragen und dort,
+				wo sonst in erster Reihe das Auge berufen ist, die Wahrnehmung dem inneren Sinne zu
 				vermitteln, nur das Ohr mit diesem Geschäfte zu betrauen. Der Konzertsaal setzt
 				Seitens des Auditoriums größere Sammlung und Hingabe an das vorgeführte Werk voraus
 				als das Theater und wenn im letzteren das Auge nicht beschäftigt wird, liegt die
@@ -50,8 +51,8 @@
 				bestraft sich an dem Werke selbst. Das fühlten wir neulich, als <rs
 					key="muenchen.1875.2" type="event"><hi rend="widespace"><persName
 							key="verdi.giuseppe">Verdi’s</persName></hi>
-					<hi rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi> im
-						<placeName key="muenchen.hoftheater">Hoftheater</placeName></rs> aufgeführt
+					<hi rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi>
+					im <placeName key="muenchen.hoftheater">Hoftheater</placeName></rs> aufgeführt
 				wurde, wieder recht deutlich. <rs key="muenchen.1875" type="event">So sehr wir uns
 					freuten, daß das schöne Werk wiederholt wurde, so fanden wir doch den Eindruck,
 					den es im <placeName key="muenchen.odeon">Odeonsaale</placeName> machte, viel

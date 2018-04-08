@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Zeitung, 2. Juni 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1874-06-02_mailand-paris.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1874-06-02"/>
 					<biblScope unit="issue">124</biblScope>
-					<biblScope unit="subIssue">124</biblScope>
+					<biblScope unit="subIssue">Abendpost</biblScope>
 					<series>wz</series>
 					<biblScope unit="page">987 [3]</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -40,18 +41,22 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740602&amp;seite=17"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="986" type="initial"/>
+		<front rend="fraktur">
+			<pb n="986"/>
 			<head rend="larger">Kleine Chronik.</head>
 			<p rend="smaller center"><placeName key="wien">Wien</placeName>, <date
 					when-iso="1874-06-02">2. Juni</date>.</p>
-			<cb break="null" n="987b" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<pb n="987"/>
+			<cb n="a"/>
 			<p rend="smaller">(<hi rend="widespace">Musikalisches aus <placeName key="italien"
 						>Italien</placeName></hi>.) <persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> ist soeben in elegantem Klavierauszug
-				bei <orgName key="ricordi">Ricordi</orgName> in <placeName key="mailand"
-					>Mailand</placeName> erschienen. Ueber die <rs key="mailand.1874.1"
+				<title key="verdi.requiem" type="mus">Requiem</title> ist soeben in elegantem
+				Klavierauszug bei <orgName key="ricordi">Ricordi</orgName> in <placeName
+					key="mailand">Mailand</placeName> erschienen. Ueber die <rs key="mailand.1874.1"
 					type="event">Aufführung, welche am <date when-iso="1874-05-25">25<supplied
 							resp="tr">.</supplied> Mai</date> im <placeName
 						key="mailand.teatro-alla-scala">Scala-Theater</placeName> stattfand</rs>,
@@ -66,21 +71,21 @@
 				Silber und Gold und mit einem Stern von Brillanten<supplied resp="tr">.</supplied>
 				<persName key="buelow.hans-von">Hans von Bülow</persName> war <hi rend="widespace"
 					>nicht</hi>, wie die Zeitungen gemeldet, unter den Gästen, er dementirte die
-				bezügliche Zeitungsnotiz, was ihm die „<orgName key="l-opinione"
-				>Opinione</orgName>“ sehr übel nimmt: „<hi rend="antiqua">un pianista tedesco, certo
-					Signor <persName key="buelow.hans-von">Haus <hi rend="fraktur">(so!)</hi> de
-						Bulow <hi rend="fraktur">(so!)</hi></persName></hi>“, sagt sie, „ein
-				deutscher Pianist, ein gewisser <persName key="buelow.hans-von">Hans von
-					Bülow</persName>“. Der „gewisse“ <persName key="buelow.hans-von">Hans oder Haus
-					von Bülow oder Bulow</persName> war einige Jahre lang in <placeName
-					key="italien">Italien</placeName> für deutsche Musik bekanntlich einfrig und
-				mit Erfolg bemüht und so etwas verdient Strafe. Zunächst reist <persName
-					key="verdi.giuseppe">Verdi</persName> mit den vier Solisten nach <placeName
-					key="paris">Paris</placeName>, wo sein <title key="verdi.requiem" type="mus"
+				bezügliche Zeitungsnotiz, was ihm die „<orgName key="l-opinione">Opinione</orgName>“
+				sehr übel nimmt: „<hi rend="antiqua">un pianista tedesco, certo Signor <persName
+						key="buelow.hans-von">Haus <hi rend="fraktur">(so!)</hi> de Bulow <hi
+							rend="fraktur">(so!)</hi></persName></hi>“, sagt sie, „ein deutscher
+				Pianist, ein gewisser <persName key="buelow.hans-von">Hans von Bülow</persName>“.
+				Der „gewisse“ <persName key="buelow.hans-von">Hans oder Haus von Bülow oder
+					Bulow</persName> war einige Jahre lang in <placeName key="italien"
+					>Italien</placeName> für deutsche Musik bekanntlich einfrig und mit Erfolg
+				bemüht und so etwas verdient Strafe. Zunächst reist <persName key="verdi.giuseppe"
+					>Verdi</persName> mit den vier Solisten nach <placeName key="paris"
+					>Paris</placeName>, wo sein <title key="verdi.requiem" type="mus"
 					>Requiem</title> sechs Mal in der komischen Oper aufgeführt werden soll — für
-				ein „<title key="verdi.requiem" type="mus">Requiem</title>“ ein wunderlich gewähltes Local!
-				„Der Erfolg“, sagt die „<orgName key="l-opinione">Opinione</orgName>“, „ist, Dank
-				den enthusiastischen Kritiken, bereits gesichert, es sind bereits Briefe von
+				ein „<title key="verdi.requiem" type="mus">Requiem</title>“ ein wunderlich gewähltes
+				Local! „Der Erfolg“, sagt die „<orgName key="l-opinione">Opinione</orgName>“, „ist,
+				Dank den enthusiastischen Kritiken, bereits gesichert, es sind bereits Briefe von
 				Personen eingetroffen, welche sich um Plätze bewerben, weil beinahe schon Alles
 				vergriffen ist.“ Vielleicht wäre es Zeit, einmal auch den Vers <persName
 					key="juvenal">Juvenals</persName> in Musik zu setzen: „<hi rend="antiqua"

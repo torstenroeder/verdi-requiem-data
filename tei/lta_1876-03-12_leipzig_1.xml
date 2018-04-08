@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Leipziger Tageblatt und Anzeiger, 12. März 1876 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/lta_1876-03-12_anzeige.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -44,17 +45,17 @@
 					>Besten des Orchester-Pensions-Fonds</hi> und des <hi rend="bold"
 					>Orchester-Wittwen-Fonds</hi> eine Wiederholung statt</p>
 			<p rend="center">vom<lb break="yes"/>
-				<hi rend="larger"><title key="verdi.requiem" type="mus">Requiem</title></hi><lb break="yes"/>
-				für Soli, Chor und Orchester<lb break="yes"/>
+				<hi rend="larger"><title key="verdi.requiem" type="mus">Requiem</title></hi><lb
+					break="yes"/> für Soli, Chor und Orchester<lb break="yes"/>
 				<hi rend="smaller">von</hi><lb break="yes"/>
 				<persName key="verdi.giuseppe">Giuseppe Verdi</persName>. </p>
-			<p>Die Soli gesungen von Frau <hi rend="widespace"><persName
-						key="peschka-leutner.minna">Peschka-Leutner</persName></hi>, Fräulein <hi
-					rend="widespace"><persName key="nanitz.minna">Nanitz</persName></hi>, Königl.
-				Hofopernsängerin aus <placeName key="dresden">Dresden</placeName>, Herrn <hi
-					rend="widespace"><persName key="pielke.walter">Pielke</persName></hi> und Herrn
-					<hi rend="widespace"><persName key="koehler.hans">Köhler</persName></hi>,
-				Königl. Hofopernsänger in <placeName key="dresden">Dresden</placeName>.</p>
+			<p>Die Soli gesungen von Frau <hi rend="widespace"><persName key="peschka-leutner.minna"
+						>Peschka-Leutner</persName></hi>, Fräulein <hi rend="widespace"><persName
+						key="nanitz.minna">Nanitz</persName></hi>, Königl. Hofopernsängerin aus
+					<placeName key="dresden">Dresden</placeName>, Herrn <hi rend="widespace"
+						><persName key="pielke.walter">Pielke</persName></hi> und Herrn <hi
+					rend="widespace"><persName key="koehler.hans">Köhler</persName></hi>, Königl.
+				Hofopernsänger in <placeName key="dresden">Dresden</placeName>.</p>
 			<p>Billets à 3 M, Sperrsitze à 4 M sind im Bureau der Concert-Cirection zu haben. Den
 				Abonnenten der Gewandhaus-Concerte werden ihre Plätze bis Montag den 13. März,
 				Vormittags 9 Uhr, vorbehalten.</p>

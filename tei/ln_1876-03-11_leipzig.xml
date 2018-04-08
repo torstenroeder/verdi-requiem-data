@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Leipziger Nachrichten, 11. März 1876</title>
-				<author><persName key="doerffel.alfred"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="doerffel.alfred"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/ln_1876-03-11_gewandhausconcert.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,61 +45,61 @@
 		<body rend="fraktur">
 			<head>Gewandhausconcert 19,</head>
 			<head>am <date when-iso="1876-03-09">9. März</date>.</head>
-			<p><rs key="leipzig.1876.1" type="event">Es brachte die erstmalige Aufführung des
-						<title key="verdi.requiem" type="mus">Requi<supplied resp="tr">e</supplied>m</title>
-					für Soli, Chor und Orchester von <persName key="verdi.giuseppe">Giuseppe
-						Verdi</persName>, eines Werkes, das in letzter Zeit viel besprochen und
-					gerühmt worden, und dadurch auch in <placeName key="deutschland"
-						>Deutschland</placeName> in die Mode gekommen ist.</rs> Natürlich hatte man
-				sich alsbald nach dem öffentlichen Erscheinen desselben, jetzt bald zwei Jahre her,
-				mit Verwunderung gefragt, wie <persName key="verdi.giuseppe">Verdi</persName>, der
-				doch nur auf der Bühne seine musikalische Heimath besitze, der seit seinem ersten
-				Hervortreten im Jahre <date when-iso="1839">1839</date> bisher nur für das Theater
-				thätig gewesen, dazu gekommen sei, ein „<title key="verdi.requiem" type="mus">Requiem</title>“
-				zu schreiben. Und mit geschäftiger Zunge wurde die Antwort gegeben, es sei vor
-				mehreren Jahren bereits von einer „<title key="messa-per-rossini" type="mus">Messe</title>“
-				die Rede gewesen, „die zum Andenken <persName key="rossini.gioachino"
-					>Rossini’s</persName> († <date when-iso="1868">1868</date>) von allen
-				bedeutenderen italienischen Componisten vereint geschrieben werden sollte“ und
-					<persName key="verdi.giuseppe">Verdi</persName> habe dazu das Finale
-				verfertigt, der Plan sei jedoch wegen des Kriegsgetöses nicht zur Aufführung
-				gekommen; dann sei im <date when-iso="1873-05">Mai 1873</date> der in <placeName
-					key="italien">Italien</placeName> überaus beliebte und berühmte Dichter
-					<persName key="manzoni.alessandro">Manzoni</persName> gestorben und so wäre
-				denn der thätige Meister <persName key="verdi.giuseppe">Verdi</persName> sofort
-				an’s Werk gegangen, sein Finale nach vorne zu ergänzen, so daß schon am ersten
-				Jahrestage des Todes jenes, das <title key="verdi.requiem" type="mus">Requiem</title> in der
-					<placeName key="mailand.san-marco">Marcuskirche</placeName>, zu <placeName
-					key="mailand">Mailand</placeName> habe zur Aufführung gelangen können. Der
-				Umstand also, daß das Werk „zum Andenken <persName key="manzoni.alessandro"
-					>Alessandro Manzoni’s</persName> componirt“ worden, componirt von dem derzeit in
-					<placeName key="italien">Italien</placeName> berühmtesten und übrigens einem
-				steinreichen Componisten *), brachte dem Werke in <placeName key="italien"
-					>Italien</placeName> die günstigte Meinung entgegen. Die Wirkung desselben wurde
-				als außerordentlich großartig geschildert. In das Feuer des Enthusiasmus darüber goß
-					<persName key="buelow.hans-von">Hans von Bülow</persName>, der, ohne es gehört
-				zu haben, wegwerfende Aeußerungen über dessen Werth sich erlaubt haben sollte, ein
-				gehörigen Quantum Oel<note resp="tr" type="textLink">Vgl. <ref
+			<p><rs key="leipzig.1876.1" type="event">Es brachte die erstmalige Aufführung des <title
+						key="verdi.requiem" type="mus">Requi<supplied resp="tr"
+						>e</supplied>m</title> für Soli, Chor und Orchester von <persName
+						key="verdi.giuseppe">Giuseppe Verdi</persName>, eines Werkes, das in letzter
+					Zeit viel besprochen und gerühmt worden, und dadurch auch in <placeName
+						key="deutschland">Deutschland</placeName> in die Mode gekommen ist.</rs>
+				Natürlich hatte man sich alsbald nach dem öffentlichen Erscheinen desselben, jetzt
+				bald zwei Jahre her, mit Verwunderung gefragt, wie <persName key="verdi.giuseppe"
+					>Verdi</persName>, der doch nur auf der Bühne seine musikalische Heimath
+				besitze, der seit seinem ersten Hervortreten im Jahre <date when-iso="1839"
+					>1839</date> bisher nur für das Theater thätig gewesen, dazu gekommen sei, ein
+					„<title key="verdi.requiem" type="mus">Requiem</title>“ zu schreiben. Und mit
+				geschäftiger Zunge wurde die Antwort gegeben, es sei vor mehreren Jahren bereits von
+				einer „<title key="messa-per-rossini" type="mus">Messe</title>“ die Rede gewesen,
+				„die zum Andenken <persName key="rossini.gioachino">Rossini’s</persName> († <date
+					when-iso="1868">1868</date>) von allen bedeutenderen italienischen Componisten
+				vereint geschrieben werden sollte“ und <persName key="verdi.giuseppe"
+					>Verdi</persName> habe dazu das Finale verfertigt, der Plan sei jedoch wegen des
+				Kriegsgetöses nicht zur Aufführung gekommen; dann sei im <date when-iso="1873-05"
+					>Mai 1873</date> der in <placeName key="italien">Italien</placeName> überaus
+				beliebte und berühmte Dichter <persName key="manzoni.alessandro">Manzoni</persName>
+				gestorben und so wäre denn der thätige Meister <persName key="verdi.giuseppe"
+					>Verdi</persName> sofort an’s Werk gegangen, sein Finale nach vorne zu ergänzen,
+				so daß schon am ersten Jahrestage des Todes jenes, das <title key="verdi.requiem"
+					type="mus">Requiem</title> in der <placeName key="mailand.san-marco"
+					>Marcuskirche</placeName>, zu <placeName key="mailand">Mailand</placeName> habe
+				zur Aufführung gelangen können. Der Umstand also, daß das Werk „zum Andenken
+					<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName> componirt“
+				worden, componirt von dem derzeit in <placeName key="italien">Italien</placeName>
+				berühmtesten und übrigens einem steinreichen Componisten *), brachte dem Werke in
+					<placeName key="italien">Italien</placeName> die günstigte Meinung entgegen. Die
+				Wirkung desselben wurde als außerordentlich großartig geschildert. In das Feuer des
+				Enthusiasmus darüber goß <persName key="buelow.hans-von">Hans von Bülow</persName>,
+				der, ohne es gehört zu haben, wegwerfende Aeußerungen über dessen Werth sich erlaubt
+				haben sollte, ein gehörigen Quantum Oel<note resp="tr" type="textLink">Vgl. <ref
 						target="az_1874-05-28_mailand.xml" type="text">Allgemeine Zeitung, Augsburg,
 						28. Mai 1874</ref>.</note>. <rs key="paris.1874" type="event"><placeName
 						key="paris">Paris</placeName></rs> und <rs key="wien.1875" type="event"
-						><placeName key="wien">Wien</placeName></rs> veranstalteten Aufführungen
-				des Werkes, darauf hat <rs key="muenchen.1875" type="event"><placeName
-						key="muenchen">München</placeName></rs> „sich das große Verdienst erworben,
-				es zuerst im deutschen Reiche und zwar am <date when-iso="1875-12-07">7. December
-					vor. J.</date> eingeführt zu haben.“ <note resp="tr" type="textLink">Vgl. <ref
+						><placeName key="wien">Wien</placeName></rs> veranstalteten Aufführungen des
+				Werkes, darauf hat <rs key="muenchen.1875" type="event"><placeName key="muenchen"
+						>München</placeName></rs> „sich das große Verdienst erworben, es zuerst im
+				deutschen Reiche und zwar am <date when-iso="1875-12-07">7. December vor. J.</date>
+				eingeführt zu haben.“ <note resp="tr" type="textLink">Vgl. <ref
 						target="amz_1876-02-09_muenchen.xml" type="text">AmZ, Leipzig, 9.
 						Februar–1.März 1876</ref>.</note> Zuletzt ertönten aus unserer Nachbarstadt
 					<rs key="dresden.1876" type="event"><placeName key="dresden"
-						>Dresden</placeName></rs> ebenfalls große Lobpreisungen über seinen
-				Werth.</p>
+					>Dresden</placeName></rs> ebenfalls große Lobpreisungen über seinen Werth.</p>
 			<p>Hiernach begreift sich, daß auch wir in <placeName key="leipzig">Leipzig</placeName>
 				mit hochgespannten Erwartungen dem Tagesereigniß der Aufführung dieses <title
 					key="verdi.requiem" type="mus">Requiem</title> entgegensahen. Von <persName
 					key="verdi.giuseppe">Verdi’s</persName> Opern, deren Zahl sich auf mindestens
 				vierundzwanzig beläuft, haben wir hier durch die Bühnenaufführungen kennen gelernt:
 				den <title key="verdi.nabucco" type="mus">Nebukadnezar</title>
-				<date when-iso="1855">1855</date>, die <title key="verdi.ernani" type="mus">Hernani</title>
+				<date when-iso="1855">1855</date>, die <title key="verdi.ernani" type="mus"
+					>Hernani</title>
 				<date when-iso="1858">1858</date>, den <title key="verdi.il-trovatore" type="mus"
 					>Troubadour</title>
 				<date when-iso="1862">1862</date>, zuletzt <choice>
@@ -161,32 +164,33 @@
 					<orig>Tonmolos</orig>
 					<corr resp="tr">Tremolos</corr>
 				</choice> ganz, wie wir es gewohnt worden sind <note resp="tr" type="musicLink">Vgl.
-						<title key="verdi.requiem.6" type="mus">Lux aeterna</title>.</note>; beim „<title
-					n="mors-stupebit" key="verdi.requiem.2.tuba-mirum" type="mus">mors</title>“ stockte das
-				Athmen des Tonkörpers, wie es handgreiflicher gar nicht zu machen war; überall
-				drängte sich die Absicht der Darstellung in den Vordergrund. Wer das genial findet,
-				mag das <title key="verdi.requiem" type="mus">Requiem</title> als Ausfluß des Genies ansehen:
-				uns war es nur ein Abfluß. Wie ganz anders doch erschien und neulich <persName
-					key="rubinstein.anton">Rubinstein</persName> in seinem „<title
-					key="rubinstein.das-verlorene-paradies" type="mus">verlorenen Paradies</title>“! Von
-				letzterem Werke kannten wir vorher gerade so wenig eine Note, wie von dem <title
-					key="verdi.requiem" type="mus">Requiem</title>. Von ihm hatten wir einen erhebenden, von
-				diesem einen gegentheiligen Gesammteindruck. Wir tragen keine Verlangen danach, das
-					<title key="verdi.requiem" type="mus">Requiem</title> wieder zu hören.</p>
+						<title key="verdi.requiem.6" type="mus">Lux aeterna</title>.</note>; beim
+					„<title key="verdi.requiem.2.tuba-mirum" n="mors-stupebit" type="mus"
+					>mors</title>“ stockte das Athmen des Tonkörpers, wie es handgreiflicher gar
+				nicht zu machen war; überall drängte sich die Absicht der Darstellung in den
+				Vordergrund. Wer das genial findet, mag das <title key="verdi.requiem" type="mus"
+					>Requiem</title> als Ausfluß des Genies ansehen: uns war es nur ein Abfluß. Wie
+				ganz anders doch erschien und neulich <persName key="rubinstein.anton"
+					>Rubinstein</persName> in seinem „<title key="rubinstein.das-verlorene-paradies"
+					type="mus">verlorenen Paradies</title>“! Von letzterem Werke kannten wir vorher
+				gerade so wenig eine Note, wie von dem <title key="verdi.requiem" type="mus"
+					>Requiem</title>. Von ihm hatten wir einen erhebenden, von diesem einen
+				gegentheiligen Gesammteindruck. Wir tragen keine Verlangen danach, das <title
+					key="verdi.requiem" type="mus">Requiem</title> wieder zu hören.</p>
 			<p>Seine Wirkung auf die Zuhörer war auch bei weitem nicht die des <persName
 					key="rubinstein.anton">Rubinstein’schen</persName> Werkes. Man spendete wohl
 				öfters Beifall, auch lebhaften, aber wir setzen diesen auf Rechnung der Ausführung.
 				Giebt man uns hierin nicht recht, so sei es. In zwei, drei Jahren wird
-				wahrscheinlich Niemand mehr um das <title key="verdi.requiem" type="mus">Requiem</title> sich
-				kümmern. Bei dieser Meinung verbleiben wir. Unterdessen mag es seine Runde
-				fortmachen.</p>
+				wahrscheinlich Niemand mehr um das <title key="verdi.requiem" type="mus"
+					>Requiem</title> sich kümmern. Bei dieser Meinung verbleiben wir. Unterdessen
+				mag es seine Runde fortmachen.</p>
 			<p rend="right"><persName key="doerffel.alfred">A. <hi rend="widespace"
 					>Dörffel</hi></persName>.</p>
 			<p>*) <persName key="fetis.francois-joseph">Fetis</persName> schreibt <date
 					when-iso="1865">1865</date>: „<persName key="verdi.giuseppe">Verdi</persName>
 				hat jetzt große Einkünfte und einen Grundbesitz, den sein Verleger und Freund, Herr
-					<persName key="escudier.leon">Leon Escudier</persName>, auf zwei Meilen
-				(lieues) im Umfange schätzt.“<note resp="tr" type="literatureLink">Vgl. <persName
+					<persName key="escudier.leon">Leon Escudier</persName>, auf zwei Meilen (lieues)
+				im Umfange schätzt.“<note resp="tr" type="literatureLink">Vgl. <persName
 						key="fetis.francois-joseph">François Joseph Fétis</persName>, <ref
 						target="https://archive.org/stream/biographieunive18ftgoog#page/n333/mode/1up"
 						type="text">Biographie universelle des musiciens, Bd. 8 (1865), S.
@@ -199,9 +203,9 @@
 					>Busseto</placeName>, einige Stunden von <placeName key="parma"
 					>Parma</placeName>. An demselben Tage übrigens wie in <placeName key="muenchen"
 					>München</placeName>, fand auch in <placeName key="koeln">Cöln</placeName> eine
-				Aufführung des <title key="verdi.requiem" type="mus">Requiem</title> statt. Es giebt demnach
-				zwei „erste“ Aufführungen desselben im <placeName key="deutschland">deutschen
-					Reiche</placeName>.</p>
+				Aufführung des <title key="verdi.requiem" type="mus">Requiem</title> statt. Es giebt
+				demnach zwei „erste“ Aufführungen desselben im <placeName key="deutschland"
+					>deutschen Reiche</placeName>.</p>
 		</body>
 	</text>
 </TEI>

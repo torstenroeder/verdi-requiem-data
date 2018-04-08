@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 24. März 1876</title>
-				<author><persName key="kipke.carl"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="kipke.carl"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1876-03-24_leipzig.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +24,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -44,10 +47,12 @@
 			xml:id="f2"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
+		<front rend="antiqua">
 			<pb facs="#f1" n="159"/>
 			<head rend="antiqua widespace larger">Tagesgeschichte.</head>
 			<head rend="lineale bold">Berichte.</head>
+		</front>
+		<body rend="antiqua">
 			<p><hi rend="bold"><placeName key="leipzig">Leipzig</placeName>.</hi> Die Zahl der
 				während der letzten beiden Wochen stattgehabten Concerte, denen ich zum Zwecke
 				nachheriger Berichterstattung über dieselben anwohnte, beträgt nicht weniger als
@@ -57,48 +62,48 @@
 					hier in Frage kommenden musikalischen Aufführungen war jedenfalls das 19.
 					Gewandhausconcert (<date when-iso="1876-03-09">9. März</date>, in welchem
 						<persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> zur für hier erstmaligen Vorführung
-					gelangte.</rs> Die Aufführung des allgemein mit Spannung erwarteten Werkes, an
-				welcher sich bezügl. des vocalen Theiles ausser dem durch die „Pauliner“ etc.
-				verstärkten Gewandhauschor die Solisten Frau <persName key="peschka-leutner.minna"
-					>Peschka-Leutner</persName> und Hr. <persName key="pielke.walter"
-					>Pielke</persName> von hier und Frl. <persName key="nanitz.minna"
-					>Nanitz</persName> und Hr. <persName key="koehler.hans">Köhler</persName> von
-				der <placeName key="dresden">Dresdner</placeName>
+					<title key="verdi.requiem" type="mus">Requiem</title> zur für hier erstmaligen
+					Vorführung gelangte.</rs> Die Aufführung des allgemein mit Spannung erwarteten
+				Werkes, an welcher sich bezügl. des vocalen Theiles ausser dem durch die „Pauliner“
+				etc. verstärkten Gewandhauschor die Solisten Frau <persName
+					key="peschka-leutner.minna">Peschka-Leutner</persName> und Hr. <persName
+					key="pielke.walter">Pielke</persName> von hier und Frl. <persName
+					key="nanitz.minna">Nanitz</persName> und Hr. <persName key="koehler.hans"
+					>Köhler</persName> von der <placeName key="dresden">Dresdner</placeName>
 				<placeName key="dresden.hoftheater">Hofoper</placeName> betheiligten, war von Hrn.
 				Capellmeister <persName key="reinecke.carl">Reinecke</persName> mit unverkennbarer
 				Sorgfalt vorbereitet und in ihrem Verlauf vortrefflich gelungen: Dirigent, Solisten,
 				Chor und Orchester setzten mit ersichtlicher Lust und Liebe ihre besten Kräfte ein,
-				um dem <title key="verdi.requiem" type="mus">Requiem</title> eine den Intentionen des
-				Componisten möglichst entsprechende Reproduction angedeihen zu lassen. So konnte man
-				denn das Ganze ungestört auf sich einwirken lassen und hatte nicht nöthig, von der
-					<emph rend="widespace">thatsächlichen</emph> auf die bei makelloser Wiedergabe
+				um dem <title key="verdi.requiem" type="mus">Requiem</title> eine den Intentionen
+				des Componisten möglichst entsprechende Reproduction angedeihen zu lassen. So konnte
+				man denn das Ganze ungestört auf sich einwirken lassen und hatte nicht nöthig, von
+				der <emph rend="widespace">thatsächlichen</emph> auf die bei makelloser Wiedergabe
 				vielleicht „<emph rend="widespace">mögliche</emph>“ Wirkung rückschliessend, erst
 				auf Umwegen sich ein Urtheil über das Werk zu bilden. Die Eindrücke nun, die
 					<persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Todtenmesse</title> bei ihrer ersten hiesigen Aufführung
-				bei den Hörern hinterliess, waren <emph rend="widespace">sehr</emph> verschieden:
-				die divergirendsten Urtheile und Meinungen wurden laut. Während die Einen (und unter
-				ihnen eine Anzahl unserer namhaftesten Musiker) überschwänglichen Lobes voll waren,
-				nahmen die Anderen (auch unter diesen befinden sich mehrere unserer gewiegtesten
-				Fachmänner) eine schroff ablehnende Haltung an. Diese weit auseinandergehenden
-				(sogar nachträglich noch in diversen „Eingesandt“ in den hiesigen Tagesblättern mit
-				einer gewissen Gereiztheit verfochtenen) Meinungsverschiedenheiten bei Beurtheilung
-				eines schliesslich doch nichts weniger als <emph rend="widespace">schwer
-					zugänglichen</emph> Werkes haben etwas Auffallendes, Ueberraschendes, dürften
-				aber ihre theilweise Erklärung wohl in dem Umstande finden, dass das Requiem in <hi
-					rend="widespace"><placeName key="leipzig">Leipzig</placeName></hi> erst
-				ziemlich <emph rend="widespace">spät</emph> zur Vorführung gelangte. In einer sehr
-				beträchtlichen Anzahl deutscher und ausserdeutscher Städte war das <title
-					key="verdi.requiem" type="mus">Requiem</title> bereits, und zum Theil in mehrfachen
-				Wiederholungen vorgeführt worden; die allerersten (italienischen) Aufführungen des
-				Werkes fanden unter besonders günstigen Umständen statt und wurden (vom Verleger) zu
-				entsprechender Reclame ausgebeutet: die ansprechende Melodik, der Glanz der äusseren
-				Gewandung und der immerhin auffällige Abstand des <title key="verdi.requiem" type="mus"
-					>Requiems</title> von den früheren <persName key="verdi.giuseppe"
-					>Verdi’schen</persName> Lärmopern verhalf dem Werk zunächst in <placeName
-					key="sueddeutschland">Süddeutschland</placeName> und <placeName
-					key="oesterreich">Österreich</placeName>, später auch in <placeName
+				<title key="verdi.requiem" type="mus">Todtenmesse</title> bei ihrer ersten hiesigen
+				Aufführung bei den Hörern hinterliess, waren <emph rend="widespace">sehr</emph>
+				verschieden: die divergirendsten Urtheile und Meinungen wurden laut. Während die
+				Einen (und unter ihnen eine Anzahl unserer namhaftesten Musiker) überschwänglichen
+				Lobes voll waren, nahmen die Anderen (auch unter diesen befinden sich mehrere
+				unserer gewiegtesten Fachmänner) eine schroff ablehnende Haltung an. Diese weit
+				auseinandergehenden (sogar nachträglich noch in diversen „Eingesandt“ in den
+				hiesigen Tagesblättern mit einer gewissen Gereiztheit verfochtenen)
+				Meinungsverschiedenheiten bei Beurtheilung eines schliesslich doch nichts weniger
+				als <emph rend="widespace">schwer zugänglichen</emph> Werkes haben etwas
+				Auffallendes, Ueberraschendes, dürften aber ihre theilweise Erklärung wohl in dem
+				Umstande finden, dass das Requiem in <hi rend="widespace"><placeName key="leipzig"
+						>Leipzig</placeName></hi> erst ziemlich <emph rend="widespace">spät</emph>
+				zur Vorführung gelangte. In einer sehr beträchtlichen Anzahl deutscher und
+				ausserdeutscher Städte war das <title key="verdi.requiem" type="mus">Requiem</title>
+				bereits, und zum Theil in mehrfachen Wiederholungen vorgeführt worden; die
+				allerersten (italienischen) Aufführungen des Werkes fanden unter besonders günstigen
+				Umständen statt und wurden (vom Verleger) zu entsprechender Reclame ausgebeutet: die
+				ansprechende Melodik, der Glanz der äusseren Gewandung und der immerhin auffällige
+				Abstand des <title key="verdi.requiem" type="mus">Requiems</title> von den früheren
+					<persName key="verdi.giuseppe">Verdi’schen</persName> Lärmopern verhalf dem Werk
+				zunächst in <placeName key="sueddeutschland">Süddeutschland</placeName> und
+					<placeName key="oesterreich">Österreich</placeName>, später auch in <placeName
 					key="norddeutschland">Norddeutschland</placeName> zu beträchtlichen, sich
 				steigernden Erfolgen bei der grossen Menge, denen auch die Majorität der Tagespresse
 				entschieden das Wort redete; noch manche andere Umstände, deren Erörterung hier zu
@@ -107,48 +112,49 @@
 					<placeName key="leipzig">Leipzig</placeName> nun, wo man „Novitäten“ gewöhnlich
 				erst vorzufahren pflegt, wenn sie in anderen Städten längst dem Publicum vertraut
 				geworden sind, mögen die inzwischen hier bekannt gewordenen auswärtigen, meist Lobes
-				übervollen Berichte über das <title key="verdi.requiem" type="mus">Requiem</title> einem sehr
-				beträchtlichen Theile des Musikpublicums die nöthige Unbefangenheit des Urtheils
-				geraubt oder doch abgeschwächt haben. <rs key="leipzig.1876.1" type="event">Als nun
-					am <date when-iso="1876-03-09">9. März</date> das <title key="verdi.requiem" type="mus"
-						>Requiem</title> hier endlich zur Aufführung gelangte,</rs> da mögen nun
-				wohl die Einen gar Manches in das Werk <emph rend="widespace">hinein</emph>gehört
-				haben, was sie, auf Grund der vorgefassten günstigen Meinung, darin zu finden
-				erhofften resp. wünschten, während die Anderen, zu kühl-reflectiv herantretend oder
-				wohl gar in irgend welche einseitige Kunstrichtung verfahren, sich in ihren
-				ungebührlich heraufgeschraubten Erwartungen getäuscht sahen und dann dieser
-				selbstverschuldeten Enttäuschung in bitteren Worten Luft machten. Ich selbst vermag
-				mich keiner der beiden extremen Parteien völlig anzuschliessen. Einen hervorragenden
-				und <emph rend="widespace">dauernden absoluten</emph> Kunstwerth vermag ich dem
-					<title key="verdi.requiem" type="mus">Requiem</title> nicht anzuerkennen; dagegen gestehe
-				ich offen, dass ich die <emph rend="widespace">relative</emph> Bedeutung des Werkes
-				ziemlich hoch anschlage. <persName key="verdi.giuseppe">Verdi</persName> ist z. Z.
-				so recht eigentlich der Repräsentant der italienischen Oper und als solcher eine —
-				gleichviel ob in gutem oder bösem Sinne — sehr beachtenswerthe Persönlichkeit, deren
-				Einfluss weit über die Grenzen seines Vaterlandes hinaus fühlbar geworden ist.
-				Verlässt ein solcher Mann in seinem späten Lebensalter die von ihm seither
-				eingehaltene Bahn des Strebens nach rohem Masseneffect und grobem Sinnenkitzel, um
-				seine unleugbare Begabung an würdigeren Zielen zu erproben, so ist das — denke ich —
-				nicht nur ruhmenswerth, sondern es muss diese Wendung zum Besseren, dieses
-				Desavourieren seiner früheren Richtungen selbst dann noch in den der Einwirkung
-					<persName key="verdi.giuseppe">Verdi’s</persName> unterlegenen Kreisen günstige
-				Folgen nach sich ziehen, wenn das von <persName key="verdi.giuseppe"
-					>Verdi</persName> in seinen späteren Werken <emph rend="widespace"
-					>Erstrebte</emph> mit dem factisch <emph rend="widespace">Erreichten</emph>
-				nicht immer völlig in Einklang zu bringen ist. Mit dem <title key="verdi.requiem" type="mus"
-					>Requiem</title> betrat <persName key="verdi.giuseppe">Verdi</persName> ein von
-				ihm seither noch nicht cultivirtes Gebiet (einige Jugendarbeiten kommen hier
-				natürlich nicht in Frage) und hat unter Zusammenraffung seines besten Wissens und
-				Könnens ein Werk geschrieben, das ich nicht anstehe, <emph rend="widespace">das
-					Beste</emph> zu nennen, was <persName key="verdi.giuseppe">Verdi</persName>
-				schuf (seine „<title key="verdi.aida" type="mus">Aida</title>“ blieb mir leider noch
-				unbekannt), und das ich auch für das weitaus Beste halte, was die Italiener speciell
-				auf dem Gebiete der Kirchenmusik seit mehr als fünf Decennien überhaupt geleistet
-				haben. Man bleibe nur stets eingedenk, dass <persName key="verdi.giuseppe"
-					>Verdi</persName> ein Vollblutitaliener ist und dass er zunächst nur für
-				Italiener schrieb. Mag uns <emph rend="widespace">Deutschen</emph> auch gar mancher
-				Theil des Requiems, z. B. das „<title key="verdi.requiem.2" type="mus">Dies irae</title>“, mit
-				zu brennenden Farben colorirt, mit zu grellen Contrasten ausgestattet, kurz zu <emph
+				übervollen Berichte über das <title key="verdi.requiem" type="mus">Requiem</title>
+				einem sehr beträchtlichen Theile des Musikpublicums die nöthige Unbefangenheit des
+				Urtheils geraubt oder doch abgeschwächt haben. <rs key="leipzig.1876.1" type="event"
+					>Als nun am <date when-iso="1876-03-09">9. März</date> das <title
+						key="verdi.requiem" type="mus">Requiem</title> hier endlich zur Aufführung
+					gelangte,</rs> da mögen nun wohl die Einen gar Manches in das Werk <emph
+					rend="widespace">hinein</emph>gehört haben, was sie, auf Grund der vorgefassten
+				günstigen Meinung, darin zu finden erhofften resp. wünschten, während die Anderen,
+				zu kühl-reflectiv herantretend oder wohl gar in irgend welche einseitige
+				Kunstrichtung verfahren, sich in ihren ungebührlich heraufgeschraubten Erwartungen
+				getäuscht sahen und dann dieser selbstverschuldeten Enttäuschung in bitteren Worten
+				Luft machten. Ich selbst vermag mich keiner der beiden extremen Parteien völlig
+				anzuschliessen. Einen hervorragenden und <emph rend="widespace">dauernden
+					absoluten</emph> Kunstwerth vermag ich dem <title key="verdi.requiem" type="mus"
+					>Requiem</title> nicht anzuerkennen; dagegen gestehe ich offen, dass ich die
+					<emph rend="widespace">relative</emph> Bedeutung des Werkes ziemlich hoch
+				anschlage. <persName key="verdi.giuseppe">Verdi</persName> ist z. Z. so recht
+				eigentlich der Repräsentant der italienischen Oper und als solcher eine — gleichviel
+				ob in gutem oder bösem Sinne — sehr beachtenswerthe Persönlichkeit, deren Einfluss
+				weit über die Grenzen seines Vaterlandes hinaus fühlbar geworden ist. Verlässt ein
+				solcher Mann in seinem späten Lebensalter die von ihm seither eingehaltene Bahn des
+				Strebens nach rohem Masseneffect und grobem Sinnenkitzel, um seine unleugbare
+				Begabung an würdigeren Zielen zu erproben, so ist das — denke ich — nicht nur
+				ruhmenswerth, sondern es muss diese Wendung zum Besseren, dieses Desavourieren
+				seiner früheren Richtungen selbst dann noch in den der Einwirkung <persName
+					key="verdi.giuseppe">Verdi’s</persName> unterlegenen Kreisen günstige Folgen
+				nach sich ziehen, wenn das von <persName key="verdi.giuseppe">Verdi</persName> in
+				seinen späteren Werken <emph rend="widespace">Erstrebte</emph> mit dem factisch
+					<emph rend="widespace">Erreichten</emph> nicht immer völlig in Einklang zu
+				bringen ist. Mit dem <title key="verdi.requiem" type="mus">Requiem</title> betrat
+					<persName key="verdi.giuseppe">Verdi</persName> ein von ihm seither noch nicht
+				cultivirtes Gebiet (einige Jugendarbeiten kommen hier natürlich nicht in Frage) und
+				hat unter Zusammenraffung seines besten Wissens und Könnens ein Werk geschrieben,
+				das ich nicht anstehe, <emph rend="widespace">das Beste</emph> zu nennen, was
+					<persName key="verdi.giuseppe">Verdi</persName> schuf (seine „<title
+					key="verdi.aida" type="mus">Aida</title>“ blieb mir leider noch unbekannt), und
+				das ich auch für das weitaus Beste halte, was die Italiener speciell auf dem Gebiete
+				der Kirchenmusik seit mehr als fünf Decennien überhaupt geleistet haben. Man bleibe
+				nur stets eingedenk, dass <persName key="verdi.giuseppe">Verdi</persName> ein
+				Vollblutitaliener ist und dass er zunächst nur für Italiener schrieb. Mag uns <emph
+					rend="widespace">Deutschen</emph> auch gar mancher Theil des Requiems, z. B. das
+					„<title key="verdi.requiem.2" type="mus">Dies irae</title>“, mit zu brennenden
+				Farben colorirt, mit zu grellen Contrasten ausgestattet, kurz zu <emph
 					rend="widespace">realistisch</emph>*) aufgefasst erscheinen, — der <emph
 					rend="widespace">Italiener</emph> denkt und fühlt eben <emph rend="widespace"
 					>anders</emph> als wir. Ihm erscheint noch Manches als natur- und sachgemässe
@@ -162,8 +168,8 @@
 					rend="italic"><term key="suum-cuique">Suum cuique!</term></hi> Und halten wir
 				diesen Grundsatz stets im Auge, dann werden wir auch dem <persName
 					key="verdi.giuseppe">Verdi’schen</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> unsere Achtung nicht versagen können.
-				Wir werden dem sittlichen Ernst, dem edlen Streben, das aus dem Werke zu uns
+				<title key="verdi.requiem" type="mus">Requiem</title> unsere Achtung nicht versagen
+				können. Wir werden dem sittlichen Ernst, dem edlen Streben, das aus dem Werke zu uns
 				spricht, Gerechtigkeit widerfahren lassen und den relativen Werth des Letzteren
 				nicht in Abrede stellen. Wenn ich oben der Messe einen absoluten, dauernden Werth
 					<emph rend="widespace">nicht</emph> zuerkannte, so geschah dies im Hinblick auf
@@ -174,23 +180,20 @@
 				frühere Werke reich sind, ist hier Wenig oder Nichts zu finden; kleine, zum Theil
 				ziemlich verbrauchte Phrasen und Floskeln sind an ihre Stelle getreten. Die äussere
 				Wirkungsfähigkeit, welche dem Ganzen innewohnt, dankt es allein dem
-				ausserordentlichen Geschick, mit dem <persName key="verdi.giuseppe"
-					>Verdi</persName> jenes an sich wenig bedeutsame Material zu verwerthen und zum
-				Aufbau geschlossener, trefflich abgerundeter Tonstücke zu verwenden wusste. Die
-				Factur des Werkes ist, ganz abgesehen von der geradezu meisterhaften
-				Instrumentation, fast durchweg trefflich, und die sinnliche Klangwirkung oft von
-				hoher Schönheit. Für all das vorstehend Gesagte könnte ich schon auf Grund des mir
-				vorliegenden Clavierauszuges unschwer Belege beibringen, wenn nicht die diesem
-				Berichte gesteckten Grenzen mich hieran, sowie an dem Eingehen auf Einzelheiten
-				hinderten.</p>
+				ausserordentlichen Geschick, mit dem <persName key="verdi.giuseppe">Verdi</persName>
+				jenes an sich wenig bedeutsame Material zu verwerthen und zum Aufbau geschlossener,
+				trefflich abgerundeter Tonstücke zu verwenden wusste. Die Factur des Werkes ist,
+				ganz abgesehen von der geradezu meisterhaften Instrumentation, fast durchweg
+				trefflich, und die sinnliche Klangwirkung oft von hoher Schönheit. Für all das
+				vorstehend Gesagte könnte ich schon auf Grund des mir vorliegenden Clavierauszuges
+				unschwer Belege beibringen, wenn nicht die diesem Berichte gesteckten Grenzen mich
+				hieran, sowie an dem Eingehen auf Einzelheiten hinderten.</p>
 			<p rend="smaller">*) „Opernhaft“ beliebte man diese Partien zu nennen und suchte durch
 				dies leichtfertig herbeigeholte billige Schlagwort sich und seinen
 				Gesinnungsgenossen die Begründung des oberflächlichen, absprechenden Urtheils über
 				das Requiem zu erleichtern oder ganz zu ersparen.</p>
 			<pb break="null" n="161" type="skipped"/>
-			<p rend="right">
-				<persName key="kipke.carl">C. K.</persName>
-			</p>
+			<signed rend="right"><persName key="kipke.carl">C. K.</persName></signed>
 		</body>
 	</text>
 </TEI>

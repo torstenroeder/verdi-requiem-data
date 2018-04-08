@@ -5,11 +5,12 @@
 			<titleStmt>
 				<title>Signale, Leipzig, Juli 1875/33</title>
 				<title corresp="nfp_1875-06-29_wien.xml">aus: Neue Freie Pr., 29.6.</title>
-				<author><persName key="anonyma.eine-schauspielerin"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="anonyma.eine-schauspielerin"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/signale_1875-07_33_ein-ausflug-ins-musikalische.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -25,7 +26,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Biografik</term>
@@ -93,60 +96,61 @@
 					>Verdi</persName> hat mich schon durch sein bescheidenes Auftreten für sich
 				eingenommen. Er betrat so schüchtern die Bühne und blickte so erwartungsvoll ins
 				Parterre, als ob er soeben erfahren hätte, daß alle seine Opern sammt dem <title
-					key="verdi.requiem" type="mus">Requiem</title> nicht von ihm, sondern von mehreren Leuten
-				da unten geschrieben worden wären und man ihm heute die Erlaubniß gegeben hätte,
-				Einiges davon anzuhören. Wie anders betritt <persName key="wagner.richard"
-					>Wagner</persName> sein Podium! Als ich ihn zum erstenmal in einem Concert
-				dirigiren sah, als sein souveräner Blick auf die Schaar seiner Getreuen fiel und
-				sein durchdringendes Auge wie inquisitorisch auf die Menge traf, da erschrak ich,
-				die zufällig in der ersten Bank ganz nahe dem gefürchteten Meister saß, gar heftig.
-				Und als er dann den Tactirstock ergriff und ihn erst ein wenig bedrohlich schwenkte,
-				als gedenke er uns vorher alle anderen Harmonien aus den Köpfen zu jagen, da wollte
-				ich in meiner Angst ausrufen: Gnade, großer <persName key="wagner.richard"
-					>Richard</persName>, ich habe erst heute Früh etwas von <persName
-					key="mendelssohn-bartholdy.felix">Mendelssohn</persName> gespielt — aber es soll
-				gewiß nicht mehr geschehen — ich bin noch so jung, und das Lied war so schön —
-				Gnade! Ein donnernder Paukenschlag, den meine Begleiterin, eine Wagnerianerin, für
-				ein wunderbares Piano erklärte, kündigte die Ouvertüre an. Dann verlor ich die
-				Besinnung, und als ich wieder erwachte, stand <persName key="wagner.richard"
-					>Wagner</persName> noch auf dem Podium und winkte uns wohlwollend mit dem Kopfe
-				zu, als wolle er sagen: „Schon gut, schon gut! Ich halte mich eurer Ergebenheit
-				versichert, meine lieben Unterthanen; zahlt auch ferner die Steuern pünktlich
-				weiter, und ich werde allergnädigst noch einmal concertiren.“ Worauf sich der alte
-				Musik-Landesvater mit einer huldvollen Handbewegung zurückzog. Ich verstehe nichts
-				davon, ob <persName key="wagner.richard">Wagner</persName> oder <persName
-					key="verdi.giuseppe">Verdi</persName> länger leben werde; aber ich weiß, daß der
-				Italiener auch ohne Begeisterungs-Quartiermacher in unser Herz aufgenommen wurde,
-				und daß er für den rauschendsten Beifall so bescheiden quittirt, als ob er morgen
-				oder längstens übermorgen ins Reich des Vergessens abreisen müßte, wähend Se.
-				Majestät <persName key="wagner.richard">Richard I.</persName> immer gleich als
-				Unsterblicher auftritt und mit jedesmal den Eindruck macht, als ob er seine eigene
-				Marmorstatue vorstellen wollte. Von dem wunderschönen <title key="verdi.requiem" type="mus"
-					>Requiem</title> habe ich nach zweimaligem Anhören gleich die herrlichsten
-				Stellen auswendig gewußt, ohne lateinischen Text natürlich. Es hat mir immer sehr
-				gut gefallen, daß in der Kirche nur der Herr Pfarrer und der liebe Gott Lateinisch
-				wissen, und wie sich die andächtigen Menschen darauf verlassen, daß die Beiden schon
-				das Rechte treffen werden. Ich war einmal gefährlich krank, und da wurde von meinem
-				Hausarzte der berühmteste Professor aus der Stadt an mein <pb break="yes" n="515"
-					type="regular"/>Bett geholt. Der berühmte Mann sah mich gütig an und ergriff
-				meine fieberheiße Hand, und dann redeten sie wol eine Viertelstunde Lateinisch mit
-				einander, worauf ich bald wieder gesund wurde. Sie müssen vortreffliche Dinge mit
-				einander gesprochen haben, sonst hätte es mit nicht so schnell geholfen. Es soll
-				auch Leute geben, die nach einem solchen lateinischen Consilium sterben, und dann
-				ist es gewiß gut, daß die leidenden Menschen nicht verstanden haben, was mit ihnen
-				vorgegangen ist. Die Protestanten reden allerdings Deutsch mit ihrem Gotte, dafür
-				aber haben sie keine so prächtige Musik zu den Messen, und wenn sie in den Himmel
-				kommen, sind sie so unmusikalisch, daß man ihnen kein Solo im Hallelujah anvertrauen
-				darf und sie in den Chor stecken muß, wo man nichts merkt, wenn sie einen Gickser in
-				den Sphärenklängen machen. Das <title key="verdi.requiem" type="mus">Requiem</title> von
-					<persName key="verdi.giuseppe">Verdi</persName> mit seinen heiligen
-				Jenseitsworten und seinen süßen Diesseitsmelodien hat mir eine lebhafte Vorstellung
-				davon gegeben, wie es aussehen muß, wenn sie im Himmel nach vielen ernsten <persName
+					key="verdi.requiem" type="mus">Requiem</title> nicht von ihm, sondern von
+				mehreren Leuten da unten geschrieben worden wären und man ihm heute die Erlaubniß
+				gegeben hätte, Einiges davon anzuhören. Wie anders betritt <persName
+					key="wagner.richard">Wagner</persName> sein Podium! Als ich ihn zum erstenmal in
+				einem Concert dirigiren sah, als sein souveräner Blick auf die Schaar seiner
+				Getreuen fiel und sein durchdringendes Auge wie inquisitorisch auf die Menge traf,
+				da erschrak ich, die zufällig in der ersten Bank ganz nahe dem gefürchteten Meister
+				saß, gar heftig. Und als er dann den Tactirstock ergriff und ihn erst ein wenig
+				bedrohlich schwenkte, als gedenke er uns vorher alle anderen Harmonien aus den
+				Köpfen zu jagen, da wollte ich in meiner Angst ausrufen: Gnade, großer <persName
+					key="wagner.richard">Richard</persName>, ich habe erst heute Früh etwas von
+					<persName key="mendelssohn-bartholdy.felix">Mendelssohn</persName> gespielt —
+				aber es soll gewiß nicht mehr geschehen — ich bin noch so jung, und das Lied war so
+				schön — Gnade! Ein donnernder Paukenschlag, den meine Begleiterin, eine
+				Wagnerianerin, für ein wunderbares Piano erklärte, kündigte die Ouvertüre an. Dann
+				verlor ich die Besinnung, und als ich wieder erwachte, stand <persName
+					key="wagner.richard">Wagner</persName> noch auf dem Podium und winkte uns
+				wohlwollend mit dem Kopfe zu, als wolle er sagen: „Schon gut, schon gut! Ich halte
+				mich eurer Ergebenheit versichert, meine lieben Unterthanen; zahlt auch ferner die
+				Steuern pünktlich weiter, und ich werde allergnädigst noch einmal concertiren.“
+				Worauf sich der alte Musik-Landesvater mit einer huldvollen Handbewegung zurückzog.
+				Ich verstehe nichts davon, ob <persName key="wagner.richard">Wagner</persName> oder
+					<persName key="verdi.giuseppe">Verdi</persName> länger leben werde; aber ich
+				weiß, daß der Italiener auch ohne Begeisterungs-Quartiermacher in unser Herz
+				aufgenommen wurde, und daß er für den rauschendsten Beifall so bescheiden quittirt,
+				als ob er morgen oder längstens übermorgen ins Reich des Vergessens abreisen müßte,
+				wähend Se. Majestät <persName key="wagner.richard">Richard I.</persName> immer
+				gleich als Unsterblicher auftritt und mit jedesmal den Eindruck macht, als ob er
+				seine eigene Marmorstatue vorstellen wollte. Von dem wunderschönen <title
+					key="verdi.requiem" type="mus">Requiem</title> habe ich nach zweimaligem Anhören
+				gleich die herrlichsten Stellen auswendig gewußt, ohne lateinischen Text natürlich.
+				Es hat mir immer sehr gut gefallen, daß in der Kirche nur der Herr Pfarrer und der
+				liebe Gott Lateinisch wissen, und wie sich die andächtigen Menschen darauf
+				verlassen, daß die Beiden schon das Rechte treffen werden. Ich war einmal gefährlich
+				krank, und da wurde von meinem Hausarzte der berühmteste Professor aus der Stadt an
+				mein <pb break="yes" n="515" type="regular"/>Bett geholt. Der berühmte Mann sah mich
+				gütig an und ergriff meine fieberheiße Hand, und dann redeten sie wol eine
+				Viertelstunde Lateinisch mit einander, worauf ich bald wieder gesund wurde. Sie
+				müssen vortreffliche Dinge mit einander gesprochen haben, sonst hätte es mit nicht
+				so schnell geholfen. Es soll auch Leute geben, die nach einem solchen lateinischen
+				Consilium sterben, und dann ist es gewiß gut, daß die leidenden Menschen nicht
+				verstanden haben, was mit ihnen vorgegangen ist. Die Protestanten reden allerdings
+				Deutsch mit ihrem Gotte, dafür aber haben sie keine so prächtige Musik zu den
+				Messen, und wenn sie in den Himmel kommen, sind sie so unmusikalisch, daß man ihnen
+				kein Solo im Hallelujah anvertrauen darf und sie in den Chor stecken muß, wo man
+				nichts merkt, wenn sie einen Gickser in den Sphärenklängen machen. Das <title
+					key="verdi.requiem" type="mus">Requiem</title> von <persName
+					key="verdi.giuseppe">Verdi</persName> mit seinen heiligen Jenseitsworten und
+				seinen süßen Diesseitsmelodien hat mir eine lebhafte Vorstellung davon gegeben, wie
+				es aussehen muß, wenn sie im Himmel nach vielen ernsten <persName
 					key="bach.johann-sebastian">Bach-</persName> und <persName
 					key="haendel.georg-friedrich">Händel</persName>-Concerten einmal eine fromme
-				Oper aufführen wollen. Da nehmen sie das <title key="verdi.requiem" type="mus">Requiem</title>
-				von <persName key="verdi.giuseppe">Verdi</persName>, weil das doch am Ende
-				Kirchenmusik ist, und der gute <persName key="mozart.wolfgang-amadeus"
+				Oper aufführen wollen. Da nehmen sie das <title key="verdi.requiem" type="mus"
+					>Requiem</title> von <persName key="verdi.giuseppe">Verdi</persName>, weil das
+				doch am Ende Kirchenmusik ist, und der gute <persName key="mozart.wolfgang-amadeus"
 					>Mozart</persName> oder sonst ein liebenswürdiger Capellmeister übernimmt aus
 				Gefälligkeit das Digiriren. Auf der Centralsonne wird die Oper durch
 				hunderttausendmeilenlange Anschlagzettel angezeigt, und vom Sirius, Uranus, vom
@@ -156,59 +160,59 @@
 				aufstehen, damit der alte Herr auch eine Freude hat) fröhlich von statten. Die
 				vorzüglichen Sänger aus allen Himmelsgegenden wirken mit, und die geschultesten
 				Engels-Chöre und Orchesterkräfte musiciren auch dabei. Das brillante <title
-					key="verdi.requiem.2.recordare" type="mus">Recordare</title> wie das wundersame <title
-					key="verdi.requiem.5" type="mus">Agnus Dei</title> müssen natürlich wiederholt werden, und
-				alle Welt jubelt darüber, wieder einmal etwas herzerfreuend Weltliches gehört zu
-				haben. Und ist die letzte Note verklungen, so ruft Alles: „<persName
-					key="verdi.giuseppe">Verdi</persName>! <persName key="verdi.giuseppe"
+					key="verdi.requiem.2.recordare" type="mus">Recordare</title> wie das wundersame
+					<title key="verdi.requiem.5" type="mus">Agnus Dei</title> müssen natürlich
+				wiederholt werden, und alle Welt jubelt darüber, wieder einmal etwas herzerfreuend
+				Weltliches gehört zu haben. Und ist die letzte Note verklungen, so ruft Alles:
+					„<persName key="verdi.giuseppe">Verdi</persName>! <persName key="verdi.giuseppe"
 					>Verdi</persName>! soll draußen bleiben, so lange es ihm gefällt — <hi
 					rend="widespace">er lebe</hi>, und zwar hoch!“</p>
 			<p>Siehst du, so kommt ein Weltkind auf die närrischesten Ideen, wenn es einmal zu einer
 				kirchlichen Aufführung in die Oper geht; aber ich schäme mich noch nicht, zu
 				wiederholen, daß ich allen meinen Freundinnen seit einer Woche <title
-					key="verdi.requiem" type="mus">Requiem</title>-Fragmente so begeistert als möglich
-				vorsinge. Das soll zwar nicht classisch sein, was man sich gleich merkt, aber ich
-				halte es in der Musik durchaus nicht mit dem ungarischen Magnaten, der wüthend
-				wurde, weil seine Schnürhosen paßten; „wenn ich hineinkomme, nehme ich sie nicht,“
-				schrie er heftig, und da alle Ungarn solche classische Hosen — Pardon Beinkleider
-				tragen, so hatte der Mann vollkommen Recht. Ich muß in die Musik hineinkönnen, sonst
-				bin ich verloren und verstehe kein Wort. Es gibt auch gottlob noch sehr viele schöne
-				und edle Musik, die man innig genießen kann, ohne Harmonielehre studirt zu haben.
-				Contrapunctum, Streusand drauf!</p>
-			<p>Beim <title key="verdi.requiem" type="mus">Requiem</title> war mit das Herz aufgegangen, und bei
-					<title key="verdi.aida" type="mus">„Aida“</title> wäre es bald vor Freude zersprungen. Man
-				muß einen Menschen und eine Oper in ihrer eigenen Muttersprache hören, um sie ganz
-				würdigen zu können. Ich glaube einmal gelesen zu haben, daß jede und auch die beste
-				Uebersetzung uns höchstens das rückwärtige Muster einer schönen Teppichstickerei
-				vorstellen kann; es sind dieselben Linien und Farben, und <pb break="yes" n="516"
-					type="regular"/>es ist doch beiweitem nicht dasselbe. <persName
-					key="verdi.giuseppe">Verdi’s</persName> Sängerinnen liebe ich schon aus
-				patriotischer Freude darüber, daß diese beiden Italienierinnen Oesterreicherinnen
-				sind. Die Luftveränderung scheint den Sängerinnen sehr wohl gethan zu haben, und
-				viele einheimische Damen haben erklärt, jetzt nach <placeName key="italien"
-					>Italien</placeName> reisen zu wollen, um zu sehen, ob dort vielleicht ihre
-				Stimme irgendwo vergraben liege. Ich glaube aber, man findet im Süden nur eine
-				schöne Stimme, wenn man in der Kehle schon ein Stückchen Italien von Feuer und Gold
-				mitbringt. Wir lassen uns in <placeName key="wien">Wien</placeName> zwar auch nicht
-				spotten, aber dieses wunderbare Ineinanderklingen von Alt und Sopran haben wir schon
-				lange nicht erlebt, und wie feurig diese Oesterreicherinnen als Amneris und Aïda
-				sich die heftigsten italienischen Sturm-Arien ins Gesicht sangen! Und wenn man erst
-				bedenkt, daß Sklavin und Prinzessin am Pharaonenhofe, nachdem sie sich mit glühender
-				Leidenschaft italienisch gestritten, hinter der Scene sich begegnen und zugleich
-				lebhaft ausrufen: „Gut is heut’ gangen, aber die Hitz!“ Es ist davon gesprochen
-				worden, daß die Waldmann für theures Geld Wien wiedergewonnen werden soll. Wäre es
-				da nicht gerathen, wenn unsere Directoren, welche immer weite Entdeckungsreisen
-				antreten, einmal einen verläßlichen Bädeker für <placeName key="wien"
-					>Wien</placeName> zu Hand nehmen würden und ein gutes Fernglas, mit dem man bis
-				über das engherzige „Es gibt keine Propheten im Vaterlande“<note resp="tr"
-					type="bibleLink">Vgl. Mt 13,57: »Jesus aber sprach zu ihnen: Ein Prophet gilt
-					nirgends weniger als in seinem Vaterland und in seinem Hause.«</note>
-				hinaussehen kann? Mich haben sie auch noch nicht entdeckt, aber wenn wieder so ein
-				Director in die Fremde reist, stelle ich mich auf den Perron des Bahnhofes und rufe
-				ihm zu: „Nehmen Sie jedenfalls ein Retourbillet, Herr Director, es kommt billiger!“
-				Lerne nur fleißig Italienisch, liebe Freundin, so ein Bißchen <hi rend="antiqua"
-					>„Mille grazie!“</hi> klingt wunderschön und <hi rend="antiqua">Addio mia cara,
-					tuissima</hi>.</p>
+					key="verdi.requiem" type="mus">Requiem</title>-Fragmente so begeistert als
+				möglich vorsinge. Das soll zwar nicht classisch sein, was man sich gleich merkt,
+				aber ich halte es in der Musik durchaus nicht mit dem ungarischen Magnaten, der
+				wüthend wurde, weil seine Schnürhosen paßten; „wenn ich hineinkomme, nehme ich sie
+				nicht,“ schrie er heftig, und da alle Ungarn solche classische Hosen — Pardon
+				Beinkleider tragen, so hatte der Mann vollkommen Recht. Ich muß in die Musik
+				hineinkönnen, sonst bin ich verloren und verstehe kein Wort. Es gibt auch gottlob
+				noch sehr viele schöne und edle Musik, die man innig genießen kann, ohne
+				Harmonielehre studirt zu haben. Contrapunctum, Streusand drauf!</p>
+			<p>Beim <title key="verdi.requiem" type="mus">Requiem</title> war mit das Herz
+				aufgegangen, und bei <title key="verdi.aida" type="mus">„Aida“</title> wäre es bald
+				vor Freude zersprungen. Man muß einen Menschen und eine Oper in ihrer eigenen
+				Muttersprache hören, um sie ganz würdigen zu können. Ich glaube einmal gelesen zu
+				haben, daß jede und auch die beste Uebersetzung uns höchstens das rückwärtige Muster
+				einer schönen Teppichstickerei vorstellen kann; es sind dieselben Linien und Farben,
+				und <pb break="yes" n="516" type="regular"/>es ist doch beiweitem nicht dasselbe.
+					<persName key="verdi.giuseppe">Verdi’s</persName> Sängerinnen liebe ich schon
+				aus patriotischer Freude darüber, daß diese beiden Italienierinnen
+				Oesterreicherinnen sind. Die Luftveränderung scheint den Sängerinnen sehr wohl
+				gethan zu haben, und viele einheimische Damen haben erklärt, jetzt nach <placeName
+					key="italien">Italien</placeName> reisen zu wollen, um zu sehen, ob dort
+				vielleicht ihre Stimme irgendwo vergraben liege. Ich glaube aber, man findet im
+				Süden nur eine schöne Stimme, wenn man in der Kehle schon ein Stückchen Italien von
+				Feuer und Gold mitbringt. Wir lassen uns in <placeName key="wien">Wien</placeName>
+				zwar auch nicht spotten, aber dieses wunderbare Ineinanderklingen von Alt und Sopran
+				haben wir schon lange nicht erlebt, und wie feurig diese Oesterreicherinnen als
+				Amneris und Aïda sich die heftigsten italienischen Sturm-Arien ins Gesicht sangen!
+				Und wenn man erst bedenkt, daß Sklavin und Prinzessin am Pharaonenhofe, nachdem sie
+				sich mit glühender Leidenschaft italienisch gestritten, hinter der Scene sich
+				begegnen und zugleich lebhaft ausrufen: „Gut is heut’ gangen, aber die Hitz!“ Es ist
+				davon gesprochen worden, daß die Waldmann für theures Geld Wien wiedergewonnen
+				werden soll. Wäre es da nicht gerathen, wenn unsere Directoren, welche immer weite
+				Entdeckungsreisen antreten, einmal einen verläßlichen Bädeker für <placeName
+					key="wien">Wien</placeName> zu Hand nehmen würden und ein gutes Fernglas, mit
+				dem man bis über das engherzige „Es gibt keine Propheten im Vaterlande“<note
+					resp="tr" type="bibleLink">Vgl. Mt 13,57: »Jesus aber sprach zu ihnen: Ein
+					Prophet gilt nirgends weniger als in seinem Vaterland und in seinem
+					Hause.«</note> hinaussehen kann? Mich haben sie auch noch nicht entdeckt, aber
+				wenn wieder so ein Director in die Fremde reist, stelle ich mich auf den Perron des
+				Bahnhofes und rufe ihm zu: „Nehmen Sie jedenfalls ein Retourbillet, Herr Director,
+				es kommt billiger!“ Lerne nur fleißig Italienisch, liebe Freundin, so ein Bißchen
+					<hi rend="antiqua">„Mille grazie!“</hi> klingt wunderschön und <hi
+					rend="antiqua">Addio mia cara, tuissima</hi>.</p>
 			<p>(<orgName key="neue-freie-presse">Neue Freie Presse</orgName>.)<note resp="tr"
 					type="textLink">Vgl. <ref
 						target="nfp_1875-06-29_ein-ausflug-ins-musikalische.xml" type="text">Neue

@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Tonkunst, Berlin, 20. Mai 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tonkunst_1876-05-20_berlin.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="berlin"/></creation>
+			<creation>
+				<placeName key="berlin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -38,25 +39,29 @@
 	<!--<graphic n="tonkunst_1876-05-20_283.png"/>-->
 	<!--<graphic n="tonkunst_1876-05-20_284.png"/>-->
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<pb n="281"/>
 			<head>Musikpflege.</head>
-			<pb n="283" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<pb n="283"/>
 			<p><rs key="berlin.1876.4" type="event"><hi rend="bold kanzlei"><persName
 							key="verdi.giuseppe">Verdi’s</persName>
 						<title key="verdi.requiem" type="mus">Requiem</title></hi> kam in <placeName
 						key="berlin">Berlin</placeName> am <date when-iso="1876-05-10"
 						>Bußtage</date> zum 4. Male zur Aufführung</rs>, und hat sich also als den
-				hiesigen Ansprüchen gewachsen erwiesen. Wie in der Oper <title key="verdi.aida" type="mus"
-					>Aïda</title> ist <persName key="verdi.giuseppe">Verdi</persName> auch hier ein
-				Anderer geworden, und das <title key="verdi.requiem" type="mus">Requiem</title> unterscheidet
-				sich sehr von <persName key="rossini.gioachino">Rossini’s</persName>
+				hiesigen Ansprüchen gewachsen erwiesen. Wie in der Oper <title key="verdi.aida"
+					type="mus">Aïda</title> ist <persName key="verdi.giuseppe">Verdi</persName> auch
+				hier ein Anderer geworden, und das <title key="verdi.requiem" type="mus"
+					>Requiem</title> unterscheidet sich sehr von <persName key="rossini.gioachino"
+					>Rossini’s</persName>
 				<title key="rossini.stabat-mater" type="mus">Stabat mater</title>. Dass <persName
 					key="rossini.gioachino">Rossini</persName> noch eine <title
-					key="rossini.petite-messe-solennelle" type="mus">„feierliche Messe”</title> geschrieben,
-				die wohl nur deshalb so wenig Aufsehen erregte, weil sie erst nach dem Tode des
-				Komponisten zur Aufführung kam, vergisst man dabei. Man wundert sich so viel
-				darüber, dass diese heutige italienische Musik nicht mehr so italienisch
+					key="rossini.petite-messe-solennelle" type="mus">„feierliche Messe”</title>
+				geschrieben, die wohl nur deshalb so wenig Aufsehen erregte, weil sie erst nach dem
+				Tode des Komponisten zur Aufführung kam, vergisst man dabei. Man wundert sich so
+				viel darüber, dass diese heutige italienische Musik nicht mehr so italienisch
 				ausgefallen, und doch ist der Zusammenhang nur ein ganz naturgemäßer. „Dieselbe“
 				kann die Musik nicht bleiben, denn einen Stillstand giebt es in ihrer Geschichte
 				auch nicht, und so kennt auch die heutige italienische Musik nicht mehr jene
@@ -75,26 +80,26 @@
 				der deutschen Kritiker auch nicht. Man lese im Salon nach, was er über <persName
 					key="rossini.gioachino">Rossini’s</persName>
 				<title key="rossini.stabat-mater" type="mus">Stabat mater</title> schrieb! <orgName
-					key="tonkunst">Die Tonkunst</orgName> macht sich auch nicht zum Nachbeter
-				irgend welcher Partei, sondern will nur der Wahrheit dienen. Da ist <persName
+					key="tonkunst">Die Tonkunst</orgName> macht sich auch nicht zum Nachbeter irgend
+				welcher Partei, sondern will nur der Wahrheit dienen. Da ist <persName
 					key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Todtenmesse</title> nun doch immer echt italische Musik.
-				Die Formen sind plastisch, die melodischen Themen reliefartig hervortretend, die
-				Instrumentation tief gesättigt; kurz, die Vorzüge unserer südländischen Nachbarmusik
-				zeigen sich im vollsten Lichte. Dagegen muss dem Deutschen stets das Fremdländische
-				fühlbar bleiben, und das ist gut so. Da <persName key="gounod.charles"
-					>Gounod</persName> ebenfalls eine <title
-					key="gounod.messe-breve-pour-les-morts" type="mus">Messe</title> zur Aufführung brachte,
-				so liegt ein Vergleich nahe. Ein solcher soll den Lesern auch gebracht werden, und
-				wird deshalb heute auf ein näheres Eingehen verzichtet. Gesagt sei nur, dass eine
-				große Anzahl von höchst originellen und schönen Zügen das widerwillige Publikum
-					<placeName key="berlin">Berlins</placeName> bezwangen, und der Erfolg, getragen
-				durch die treffliche Ausführung der Kgl. Oper und deren Sänger (Frl. <persName
-					key="lehmann.lilli">Lehmann</persName> und <persName key="brandt.marianne"
-					>Brandt</persName>, HH. <persName key="ernst.heinrich">Ernst</persName> und
-					<persName key="betz.franz">Betz</persName>), unter Direktion <persName
-					key="radecke.robert">Radecke’s</persName> ein günstiger genannt werden
-				muss.</p>
+				<title key="verdi.requiem" type="mus">Todtenmesse</title> nun doch immer echt
+				italische Musik. Die Formen sind plastisch, die melodischen Themen reliefartig
+				hervortretend, die Instrumentation tief gesättigt; kurz, die Vorzüge unserer
+				südländischen Nachbarmusik zeigen sich im vollsten Lichte. Dagegen muss dem
+				Deutschen stets das Fremdländische fühlbar bleiben, und das ist gut so. Da <persName
+					key="gounod.charles">Gounod</persName> ebenfalls eine <title
+					key="gounod.messe-breve-pour-les-morts" type="mus">Messe</title> zur Aufführung
+				brachte, so liegt ein Vergleich nahe. Ein solcher soll den Lesern auch gebracht
+				werden, und wird deshalb heute auf ein näheres Eingehen verzichtet. Gesagt sei nur,
+				dass eine große Anzahl von höchst originellen und schönen Zügen das widerwillige
+				Publikum <placeName key="berlin">Berlins</placeName> bezwangen, und der Erfolg,
+				getragen durch die treffliche Ausführung der Kgl. Oper und deren Sänger (Frl.
+					<persName key="lehmann.lilli">Lehmann</persName> und <persName
+					key="brandt.marianne">Brandt</persName>, HH. <persName key="ernst.heinrich"
+					>Ernst</persName> und <persName key="betz.franz">Betz</persName>), unter
+				Direktion <persName key="radecke.robert">Radecke’s</persName> ein günstiger genannt
+				werden muss.</p>
 		</body>
 	</text>
 </TEI>

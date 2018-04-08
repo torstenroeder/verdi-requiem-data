@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Giuseppina Verdi, Brief an Cesare Vigna, Wien, 12. Juni 1875</title>
-				<author><persName key="verdi.giuseppina"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="verdi.giuseppina"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/verdi-giuseppina_1875-06-12_brief-an-vigna.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -27,7 +28,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/><date when-iso="1875-06-12"/></creation>
+			<creation>
+				<placeName key="wien"/>
+				<date when-iso="1875-06-12"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -47,17 +51,17 @@
 						Imperiale</placeName> di <placeName key="wien">Vienna</placeName>.</rs> Il
 				successo è salito ad un grao<!--TEXT fehlendes Zeichen?--> di zona torrida, ed è
 				molto per questa razza teutonica. <rs key="venedig.1875" type="event">Voi riavrete
-					questa <title key="verdi.requiem" type="mus">Messa</title> a <placeName key="venedig"
-						>Venezia</placeName> nel venturo mese</rs>, e colla stessa compagnia che
-				l'eseguisce in questo momento. Sarei desiderosissima che, con comodo, me ne
-				scriveste la vostra opinione.</p>
+					questa <title key="verdi.requiem" type="mus">Messa</title> a <placeName
+						key="venedig">Venezia</placeName> nel venturo mese</rs>, e colla stessa
+				compagnia che l'eseguisce in questo momento. Sarei desiderosissima che, con comodo,
+				me ne scriveste la vostra opinione.</p>
 			<p>Hanno parlato molto dello spirito più o meno religioso di questa musica sacra, del
 				non aver seguito l'idea tipo di <persName key="mozart.wolfgang-amadeus"
-					>Mozart</persName>, di <persName key="cherubini.luigi">Cherubini</persName>
-				etc. etc. Io dico che un uomo come <persName key="verdi.giuseppe">Verdi</persName>,
-				deve scrivere come <persName key="verdi.giuseppe">Verdi</persName>, cioè secondo il
-				suo modo di sentire ed interpretare i testi. Poi se le Religioni hanno un principio,
-				uno sviluppo, delle modificazioni o trasformazioni etc. secondo i tempi e secondo i
+					>Mozart</persName>, di <persName key="cherubini.luigi">Cherubini</persName> etc.
+				etc. Io dico che un uomo come <persName key="verdi.giuseppe">Verdi</persName>, deve
+				scrivere come <persName key="verdi.giuseppe">Verdi</persName>, cioè secondo il suo
+				modo di sentire ed interpretare i testi. Poi se le Religioni hanno un principio, uno
+				sviluppo, delle modificazioni o trasformazioni etc. secondo i tempi e secondo i
 				popoli, evidentemente lo spirito religioso e le opere che lo esprimono devono
 				portare l'impronta dell'epoca e (se permette) dell'individualità. Io avrei per così
 				dire rinnegata una Messa di <persName key="verdi.giuseppe">Verdi</persName>, che

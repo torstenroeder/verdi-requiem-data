@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Dresdner Nachrichten, 13. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dn_1876-01-13_feuilleton.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="dresden"/></creation>
+			<creation>
+				<placeName key="dresden"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -36,21 +37,23 @@
 		</encodingDesc>
 	</teiHeader>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
+		</front>
+		<body rend="fraktur">
 			<p><rs key="dresden.1876.2" type="event"><hi rend="widespace"><placeName
 							key="dresden.hoftheater">Königliches Hoftheater</placeName></hi>. <hi
-						rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi> für
-						<persName key="manzoni.alessandro">A. Manzoni</persName> von <persName
+						rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi>
+					für <persName key="manzoni.alessandro">A. Manzoni</persName> von <persName
 						key="verdi.giuseppe">G. <hi rend="widespace">Verdi</hi></persName>, <hi
 						rend="widespace">zweite Aufführung</hi>.</rs> Die wundervolle Schönheit
 				dieser Musik läßt sich nicht <hi rend="widespace">beschreiben</hi>, sie läßt sich
 				nur <hi rend="widespace">empfinden</hi>. <hi rend="widespace">Dringend</hi> sei
 				allen Musikfreunden die nächstbevorstehende drittmalige Aufführung empfohlen. Nach
-				Art des Contracts mit dem Eigenthümer des Werkes, <orgName key="ricordi"
-						>Ric<surplus resp="tr">c</surplus>ordi</orgName> in <placeName
-					key="mailand">Mailand</placeName>, steht das Aufführungsrecht dem <placeName
-					key="dresden">Dresdner</placeName>
+				Art des Contracts mit dem Eigenthümer des Werkes, <orgName key="ricordi">Ric<surplus
+						resp="tr">c</surplus>ordi</orgName> in <placeName key="mailand"
+					>Mailand</placeName>, steht das Aufführungsrecht dem <placeName key="dresden"
+					>Dresdner</placeName>
 				<placeName key="dresden.hoftheater">Hoftheater</placeName> nur auf eine bestimmte
 				Zeit zu und ist es also gefehlt die Bekanntschaft mit dieser Musik im Glauben an
 				spätere Gelegenheiten zu verschieben. Und noch Eins. Wer als <hi rend="widespace"
@@ -91,11 +94,11 @@
 				Stimme etwa weniger besitzt als Andere, ersetzt sie durch wunderschöne
 				Tonbehandlung, durch absolute Reinheit und Sicherheit. Frl. <hi rend="widespace"
 						><persName key="nanitz.minna">Nanitz</persName></hi> und Herr <hi
-					rend="widespace"><persName key="koehler.hans">Köhler</persName></hi>
-				bestätigten durchaus das ihnen neulich gespendere Lob. Ueberdies ist diese „<hi
-					rend="widespace">italienische</hi>“ Musik nicht mit der Coloraturrichtung z. B.
-					<persName key="rossini.gioachino">Rossini’s</persName> zu verwechseln. Gerade
-				deutsche Empfindungstiefe und musikalische Durchbildung kommt den <persName
+					rend="widespace"><persName key="koehler.hans">Köhler</persName></hi> bestätigten
+				durchaus das ihnen neulich gespendere Lob. Ueberdies ist diese „<hi rend="widespace"
+					>italienische</hi>“ Musik nicht mit der Coloraturrichtung z. B. <persName
+					key="rossini.gioachino">Rossini’s</persName> zu verwechseln. Gerade deutsche
+				Empfindungstiefe und musikalische Durchbildung kommt den <persName
 					key="verdi.giuseppe">Verdi’schen</persName> breitangelegten, seelenvollen
 				Melodien prächtig zu statten. Und wie die Namen <hi rend="widespace"><persName
 						key="stolz.teresa">Stol<surplus resp="tr">t</surplus>z</persName></hi> und
@@ -103,21 +106,21 @@
 				ihre <hi rend="widespace">deutschen</hi> Kehlen der ersten <placeName key="mailand"
 					>Mailänder</placeName>, <placeName key="paris">Pariser</placeName> und
 					<placeName key="wien">Wiener</placeName> Aufführung mit unvergeßlichem Erfolg
-				widmeten, so ist unsere <placeName key="dresden">Dresdner</placeName> Aufführung
-				des <title key="verdi.requiem" type="mus">Manzoni-Requiems</title> zu einem Triumph für die
-				deutsche Musikbehandlung geworden.</p>
+				widmeten, so ist unsere <placeName key="dresden">Dresdner</placeName> Aufführung des
+					<title key="verdi.requiem" type="mus">Manzoni-Requiems</title> zu einem Triumph
+				für die deutsche Musikbehandlung geworden.</p>
 			<p>Der Aufführung wohnte <persName key="albert.sachsen">Se. Maj. der <hi
 						rend="widespace">König</hi></persName> und <persName
 					key="carola.wasa-holstein-gottorp">I. Maj. die <hi rend="widespace"
-						>Königin</hi></persName> in der Hofloge bei. Die Musik begann 5 Min. nach ½8
-				Uhr mit dem Eintritt <persName key="albert.sachsen">Sr. Maj.</persName>, welcher
-				von auswärts eigens in der Residenz eintraf, um <persName key="verdi.giuseppe"
+					>Königin</hi></persName> in der Hofloge bei. Die Musik begann 5 Min. nach ½8 Uhr
+				mit dem Eintritt <persName key="albert.sachsen">Sr. Maj.</persName>, welcher von
+				auswärts eigens in der Residenz eintraf, um <persName key="verdi.giuseppe"
 					>Verdi’s</persName> vielbesprochenens Werk kennen zu lernen. Das Haus war wieder
 				glänzend gefüllt und — kein kleinster Beweis für das Interesse der Musik — die
 				Herren Recensenten, diese vielgeplagten Leute, wohnten freiwillig auch der zweiten
 				Aufführung, wie vielleicht noch mancher späteren, bei.</p>
-			<p rend="right"><hi rend="widespace"><persName key="hartmann.ludwig">Ludwig
-						Hartmann</persName></hi>.</p>
+			<signed rend="right"><hi rend="widespace"><persName key="hartmann.ludwig">Ludwig
+						Hartmann</persName></hi>.</signed>
 		</body>
 	</text>
 </TEI>

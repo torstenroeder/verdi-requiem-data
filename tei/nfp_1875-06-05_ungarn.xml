@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 5. Juni 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nfp_1875-06-05_ungarn.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,7 +15,7 @@
 					<placeName key="wien"/>
 					<date when-custom="sat" when-iso="1875-06-05"/>
 					<biblScope unit="issue">3870</biblScope>
-					<biblScope unit="subIssue">3870</biblScope>
+					<biblScope unit="subIssue">Morgenblatt</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">6</biblScope>
 				</bibl>
@@ -47,11 +46,11 @@
 			<p>— Ein Bevollmächtigter des ungarischen National-Theaters in <placeName key="pest"
 					>Pest</placeName> hat sich nach <placeName key="wien">Wien</placeName> begeben,
 				um <persName key="verdi.giuseppe">Verdi</persName> und die mit ihm hier weilenden
-				Künstler einzuladen, das <title key="verdi.requiem" type="mus">Requiem</title> des Maestro wie
-				auch die Oper „<title key="verdi.aida" type="mus">Aïda</title>“ an der genannten Bühne
-				aufzuführen. Die <placeName key="pest">Pester</placeName> Blätter hoffen, daß
-					<persName key="verdi.giuseppe">Verdi</persName> der Einladung folgen und dem
-				dortigen Publicum zwei interessante Theaterabende verschaffen werde.</p>
+				Künstler einzuladen, das <title key="verdi.requiem" type="mus">Requiem</title> des
+				Maestro wie auch die Oper „<title key="verdi.aida" type="mus">Aïda</title>“ an der
+				genannten Bühne aufzuführen. Die <placeName key="pest">Pester</placeName> Blätter
+				hoffen, daß <persName key="verdi.giuseppe">Verdi</persName> der Einladung folgen und
+				dem dortigen Publicum zwei interessante Theaterabende verschaffen werde.</p>
 		</body>
 	</text>
 </TEI>

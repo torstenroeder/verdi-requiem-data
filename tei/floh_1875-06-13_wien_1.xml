@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Der Floh, Wien, 13. Juni 1875 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/floh_1875-06-13_giuseppe-verdi-1.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>

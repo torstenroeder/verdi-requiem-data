@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 25. Juni 1875 [2]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1875-06-25_kaiser-von-oestreich.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -46,13 +47,13 @@
 			<p><g n="002A|2014|002A" type="ASTERISK|EM_DASH|ASTERISK">*—*</g> Der <persName
 					key="franz-joseph-i.habsburg">Kaiser von Oestreich</persName> hat <hi
 					rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> bei
-				Aufführung seiner <title key="verdi.aida" type="mus">„Aida“</title> das Comthurkreuz des Franz
-				Josephord. m. d. Stern und dem Verleger <persName key="ricordi.giulio">Ric<surplus
-						resp="tr">c</surplus>ordi</persName> das Ritterkreuz verliehen sowie dem
-				Orchester und Chor seine besondere Anerkennung für ihre Leistungen bei <rs
+				Aufführung seiner <title key="verdi.aida" type="mus">„Aida“</title> das Comthurkreuz
+				des Franz Josephord. m. d. Stern und dem Verleger <persName key="ricordi.giulio"
+						>Ric<surplus resp="tr">c</surplus>ordi</persName> das Ritterkreuz verliehen
+				sowie dem Orchester und Chor seine besondere Anerkennung für ihre Leistungen bei <rs
 					key="wien.1875" type="event"><persName key="verdi.giuseppe">Verdi’s</persName>
-					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi></rs> und
-				Oper aussprechen lassen. —</p>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus"
+					>Requiem</title></hi></rs> und Oper aussprechen lassen. —</p>
 		</body>
 	</text>
 </TEI>

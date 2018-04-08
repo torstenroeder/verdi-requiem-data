@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 5. Januar 1877</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1877-01-05_breslau.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="breslau"/><date when-iso="1876-12"/></creation>
+			<creation>
+				<placeName key="breslau"/>
+				<date when-iso="1876-12"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -44,9 +46,12 @@
 			xml:id="f2"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
+		<front rend="antiqua">
 			<pb break="null" facs="#f1" n="20" type="initial"/>
 			<head rend="larger widespace">Tagesgeschichte.</head>
+		</front>
+		<!-- nogap -->
+		<body rend="antiqua">
 			<head rend="lineale bold">Musikbrief.</head>
 			<p rend="right"><hi rend="bold"><placeName key="breslau">Breslau</placeName>,</hi> im
 					<date when-iso="1877-12-00">December</date>.</p>
@@ -80,29 +85,30 @@
 					rend="italic">bonam partem</hi>, aber auch kopfschüttelnd mit der <hi
 					rend="italic">in malam</hi>. Das <persName key="verdi.giuseppe"
 					>Verdi’sche</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> ist bereits eingehend in diesen Blättern
-				besprochen worden, also dass ich mich einer erschöpfenden Analyse füglich enthalten
-				kann. Ja, es bleibt merkwürdig, der Mann der Coulissen geht auf einmal in sich und
-				zu den Compositeurs des ernsten <hi rend="italic">genre religieux:</hi>
+				<title key="verdi.requiem" type="mus">Requiem</title> ist bereits eingehend in
+				diesen Blättern besprochen worden, also dass ich mich einer erschöpfenden Analyse
+				füglich enthalten kann. Ja, es bleibt merkwürdig, der Mann der Coulissen geht auf
+				einmal in sich und zu den Compositeurs des ernsten <hi rend="italic">genre
+					religieux:</hi>
 				<persName key="verdi.giuseppe">Verdi</persName>, der profane Opernfabrikant <hi
 					rend="italic">par excellence</hi>, schafft auf düster-kirchlichen Textesworten
 				eine Todtenmesse. Ich habe in meinem Urtheil nach Kenntnissnahme des <title
-					key="verdi.requiem" type="mus">Requiem</title> nicht geschwankt. Nach meiner ansicht trägt
-				es entschieden die Signatur des Talentes, der Intelligenz, vor Allem des
-				künstlerischen Ernstes, die <title key="verdi.requiem" type="mus">Manzoni-Messe</title> ist
-				das Product einer concentrirten schöpferischen Kraft und als solches von den
-				engbrüstigen Wechselbälgen des italienischen Maëstro dramatischer Muse durch die
-				weite Kluft getrennt, die die Wirkungskreise des berufenen und des schnöden Lohnes
-				halber thätigen Arbeiters scheidet. Aber freilich nach den Keimen einer
-				Lebensfähigkeit, die alle zeitlichen Schranken bricht, suche ich auch bei dem neuen
-				Werke vergebens. Es fehlt ihm das <hi rend="italic">perpetuum mobile</hi> eines
-				kräftigen Pulsschlages, der das Leben bedeutet. Wir gewahren das Walten
-				zusammengehaltener, eminent schaffensfähiger Kräfte, aber nicht frei und losgelöst
-				von jeglichem Selbstzweck, nicht durchaus im Dienste der Idee. Das <title
-					key="verdi.requiem" type="mus">Requiem</title> ist hochbedeutend, wenn es in Beziehung zu
-				seinem Autor gesetzt, nicht aber, wenn es isolirt, ohne Rücksicht auf die
-				Titelvignette, beurtheilt wird. Indessen, der deutsche Musiker vergisst gern über
-				der ersten Betrachtungsweise die strenge letztere. Ist es doch etwas gar
+					key="verdi.requiem" type="mus">Requiem</title> nicht geschwankt. Nach meiner
+				ansicht trägt es entschieden die Signatur des Talentes, der Intelligenz, vor Allem
+				des künstlerischen Ernstes, die <title key="verdi.requiem" type="mus"
+					>Manzoni-Messe</title> ist das Product einer concentrirten schöpferischen Kraft
+				und als solches von den engbrüstigen Wechselbälgen des italienischen Maëstro
+				dramatischer Muse durch die weite Kluft getrennt, die die Wirkungskreise des
+				berufenen und des schnöden Lohnes halber thätigen Arbeiters scheidet. Aber freilich
+				nach den Keimen einer Lebensfähigkeit, die alle zeitlichen Schranken bricht, suche
+				ich auch bei dem neuen Werke vergebens. Es fehlt ihm das <hi rend="italic">perpetuum
+					mobile</hi> eines kräftigen Pulsschlages, der das Leben bedeutet. Wir gewahren
+				das Walten zusammengehaltener, eminent schaffensfähiger Kräfte, aber nicht frei und
+				losgelöst von jeglichem Selbstzweck, nicht durchaus im Dienste der Idee. Das <title
+					key="verdi.requiem" type="mus">Requiem</title> ist hochbedeutend, wenn es in
+				Beziehung zu seinem Autor gesetzt, nicht aber, wenn es isolirt, ohne Rücksicht auf
+				die Titelvignette, beurtheilt wird. Indessen, der deutsche Musiker vergisst gern
+				über der ersten Betrachtungsweise die strenge letztere. Ist es doch etwas gar
 				Erfreuliches um den Anblick, wie ein Mann, der den blendenden Fond ausgeprägter
 				musikalischer Begabung seither in puffendem Feuerwerk versprühte, aus dem alten,
 				tiefgefahrenen Geleise in neue Bahnen einlenkt, die nach edleren Zeiten hinleiten.
@@ -112,8 +118,8 @@
 				thun, um dem Herankommenden vollends ans Land zu helfen: ist er ihnen nur erst so
 				nahe, dass sie seine Hand zu fassen vermögen. —</p>
 			<pb break="null" facs="#f2" n="38" type="skipped"/>
-			<p rend="right"><hi rend="widespace"><persName key="weiss.albert">Albert
-						Weiss</persName></hi>.</p>
+			<signed rend="right"><hi rend="widespace"><persName key="weiss.albert">Albert
+						Weiss</persName></hi>.</signed>
 		</body>
 	</text>
 </TEI>

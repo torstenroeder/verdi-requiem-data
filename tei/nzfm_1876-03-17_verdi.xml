@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 17. März 1876 [2]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-03-17_verdi.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -40,16 +41,18 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760317&amp;seite=9"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="123b" type="initial"/>
+		<front rend="fraktur">
+			<cb n="123b"/>
 			<head rend="larger">Tagesgeschichte.</head>
-			<cb break="null" n="125b" type="skipped"/>
+			<cb n="125b" type="skipped"/>
 			<head rend="bold">Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
 			<gap resp="tr"/>
+		</front>
+		<body rend="fraktur">
 			<p rend="hanging"><rs key="leipzig.1876" type="event"><persName key="verdi.giuseppe"
-						>Verdi, G.</persName>, <hi rend="antiqua"><title key="verdi.requiem" type="mus"
-							>Requiem</title></hi>. <placeName key="leipzig">Leipzig</placeName>,
-					19. Gewandhausconcert (2mal).</rs></p>
+						>Verdi, G.</persName>, <hi rend="antiqua"><title key="verdi.requiem"
+							type="mus">Requiem</title></hi>. <placeName key="leipzig"
+						>Leipzig</placeName>, 19. Gewandhausconcert (2mal).</rs></p>
 		</body>
 	</text>
 </TEI>

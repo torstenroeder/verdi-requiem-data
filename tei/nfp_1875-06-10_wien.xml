@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 10. Juni 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nfp_1875-06-10_hofoperntheater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1875-06-10"/>
 					<biblScope unit="issue">3875</biblScope>
-					<biblScope unit="subIssue">3875</biblScope>
+					<biblScope unit="subIssue">Morgenblatt</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">6</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -50,8 +51,8 @@
 				/></p>
 			<p>— <rs key="wien.1875.gp" type="event">Nach Beendigung der heute im <placeName
 						key="wien.hof-operntheater">Hofoperntheater</placeName> vor einer Anzahl
-					geladener Gäste abgehaltenen Generalprobe der <title key="verdi.requiem" type="mus"
-						>Manzoni-Messe</title></rs> drückte <persName key="verdi.giuseppe"
+					geladener Gäste abgehaltenen Generalprobe der <title key="verdi.requiem"
+						type="mus">Manzoni-Messe</title></rs> drückte <persName key="verdi.giuseppe"
 					>Verdi</persName> den Vorständen seine vollste Anerkennung und Bewunderung über
 				die Leistungen des Orchester und Chors aus und ersuchte, dies den Mitwirkenden
 				bekanntzugeben.</p>

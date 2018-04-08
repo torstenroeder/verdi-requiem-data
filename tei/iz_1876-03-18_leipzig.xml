@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Illustrirte Zeitung, Leipzig, 18. März 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/iz_1876-03-18_leipzig.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -35,13 +36,15 @@
 		</encodingDesc>
 	</teiHeader>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Theater und Musik.</head>
+		</front>
+		<body rend="fraktur">
 			<p><gap resp="tr"/> — <rs key="leipzig.1876.1" type="event">Im 19. Gewandhausconcert zu
 						<placeName key="leipzig">Leipzig</placeName> wurde <persName
 						key="verdi.giuseppe">Verdi’s</persName> schnell berühmt gewordenes <title
-						key="verdi.requiem" type="mus">„Requiem“</title> zu Gehör gebracht, und zwar in
-					vorzüglicher Weise. Die Solopartien waren in den Händen der Damen <persName
+						key="verdi.requiem" type="mus">„Requiem“</title> zu Gehör gebracht, und zwar
+					in vorzüglicher Weise. Die Solopartien waren in den Händen der Damen <persName
 						key="peschka-leutner.minna">Peschka-Leutner</persName> und <persName
 						key="nanitz.minna">Nanitz</persName>, der Herren <persName
 						key="pielke.walter">Pielke</persName> und <persName key="koehler.hans"

@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Prager Abendblatt, 27. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/pab_1876-01-27_deutsches-koenigliches-landestheater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="prag"/></creation>
+			<creation>
+				<placeName key="prag"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -46,9 +47,10 @@
 			<p rend="noIndent">Den <date when-iso="1876-01-27">27. Jäner</date>. Bei aufgehobenem
 				Abonnement.</p>
 			<p rend="noIndent">Zum ersten Male:</p>
-			<p rend="center"><rs key="prag.1876.1" type="event"><title key="verdi.requiem" type="mus"
-						>Requiem</title><lb break="yes"/>von <persName key="verdi.giuseppe"
-						>Giuseppe Verdi</persName> für Soli Chor und Orchester.</rs></p>
+			<p rend="center"><rs key="prag.1876.1" type="event"><title key="verdi.requiem"
+						type="mus">Requiem</title><lb break="yes"/>von <persName
+						key="verdi.giuseppe">Giuseppe Verdi</persName> für Soli Chor und
+					Orchester.</rs></p>
 			<p rend="noIndent">Soli: Frau <persName key="moser.marie">von Moser</persName>, Frl.
 					<persName key="burenne.henriette">Burenne</persName>, Herr <persName
 					key="hajos.siegmund">Hajos</persName>, Herr <persName key="schebesta.adalbert"

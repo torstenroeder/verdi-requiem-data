@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Signale, Leipzig, Mai 1877/35 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/signale_1877-05_35_koeln-1.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +23,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -56,9 +57,9 @@
 					<placeName key="koeln">Köln</placeName> weilte, ist daselbst Gegenstand
 				vielfacher Ovationen gewesen. Das Comité des Musikfestes machte ihm ein
 				Ehrengeschenk mit dem neuen Rhein-Album von Professor <persName
-					key="scheuren.caspar">Caspar Scheuren</persName> in <placeName
-					key="duesseldorf">Düsseldorf</placeName>.<note resp="tr" type="literatureLink"
-					>Vgl. <persName key="scheuren.caspar">Caspar Scheuren</persName>, <ref
+					key="scheuren.caspar">Caspar Scheuren</persName> in <placeName key="duesseldorf"
+					>Düsseldorf</placeName>.<note resp="tr" type="literatureLink">Vgl. <persName
+						key="scheuren.caspar">Caspar Scheuren</persName>, <ref
 						target="http://nbn-resolving.de/urn:nbn:de:hbz:061:2-1456" type="text">Vom
 						deutschen Rhein. Mit landschaftlichen u. architektonischen Ansichten nebst
 						Illustrationen zu rheinischen Dichtungen, in 50 Blättern. Düsseldorf:
@@ -70,10 +71,10 @@
 					key="scheuren.caspar">Scheuren’scher</persName> Aquarelle, dazwischen und
 				darüber das Bild <persName key="verdi.giuseppe">Verdi’s</persName> mit Inschrift
 				seines Namens, seines Geburtsortes und Geburtsjahres, darunter drei Bilder, in der
-				Mitte eines, welches sich auf das „<title key="verdi.requiem" type="mus">Requiem</title>“
-				bezieht, links ein kleines, welches die letzte Scene aus „<title key="verdi.aida" type="mus"
-					>Aïda</title>“ darstellt, und rechts eines bezüglich auf ein <title
-					key="verdi.quartetto" type="mus">Streichquartett</title>
+				Mitte eines, welches sich auf das „<title key="verdi.requiem" type="mus"
+					>Requiem</title>“ bezieht, links ein kleines, welches die letzte Scene aus
+					„<title key="verdi.aida" type="mus">Aïda</title>“ darstellt, und rechts eines
+				bezüglich auf ein <title key="verdi.quartetto" type="mus">Streichquartett</title>
 				<persName key="verdi.giuseppe"
 				>Verdi’s</persName>.<!--REFERENZ Aquarell nicht gefunden--> Lichte Blumen-Arabesken,
 				worin musicirende Kinder, umrahmen das Blatt. Das zweite Titelblatt enthält die

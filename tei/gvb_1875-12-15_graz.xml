@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Grazer Volksblatt, 15. Dezember 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/gvb_1875-12-15_graz.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="graz"/></creation>
+			<creation>
+				<placeName key="graz"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -45,10 +46,10 @@
 			<cb facs="#f1" n="4c"/>
 			<head rend="larger"><placeName key="graz.stadt-theater">Stadt-Theater</placeName> in
 					<placeName key="graz">Graz</placeName>.</head>
-			<p rend="center"><rs key="graz.1875.4" type="event"><date when-iso="1875-12-15"
-						>Mittwoch den 15. Dezember 1875</date>.<lb break="yes"/>
-					<hi rend="lineale larger"><title key="verdi.requiem" type="mus">Requiem</title> von
-							<persName key="verdi.giuseppe">Verdi</persName>.</hi></rs></p>
+			<p rend="center"><rs key="graz.1875.4" type="event"><date when-iso="1875-12-15">Mittwoch
+						den 15. Dezember 1875</date>.<lb break="yes"/>
+					<hi rend="lineale larger"><title key="verdi.requiem" type="mus">Requiem</title>
+						von <persName key="verdi.giuseppe">Verdi</persName>.</hi></rs></p>
 		</body>
 	</text>
 </TEI>

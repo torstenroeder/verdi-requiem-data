@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AdMz, Leipzig, 3. März 1876</title>
-				<author><persName key="akronym.lb"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.lb"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/admz_1876-03-03_hamburg.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="hamburg"/><date when-iso="1876-01-29"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+				<date when-iso="1876-01-29"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -38,10 +42,13 @@
 	</teiHeader>
 	<!--FACS AdmZ: kein Digitalisat; Kopie vorhanden-->
 	<text xml:lang="de">
-		<body rend="antiqua">
+		<front rend="antiqua">
 			<pb n="74"/>
 			<head rend="widespace larger">Korrespondenzen.</head>
-			<pb break="null" n="76a" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="antiqua">
+			<pb break="null" n="76a"/>
 			<p><hi rend="bold"><placeName key="hamburg">Hamburg</placeName>,</hi>
 				<date when-iso="1876-01-29">29. Januar</date>. Dank der Opferwilligkeit und Umsicht
 				unserer Stadttheater-Direktion, haben auch wir Hamburger Gelegenheit bekommen, das
@@ -117,9 +124,9 @@
 				haben wir ein gelungenes künstlerisches Unternehmen unseres Opern-Instituts zu
 				verzeichnen.</p>
 			<pb break="null" n="77a" type="skipped"/>
-			<p rend="right">
+			<signed rend="right">
 				<persName key="akronym.lb">L. B.</persName>
-			</p>
+			</signed>
 		</body>
 	</text>
 </TEI>

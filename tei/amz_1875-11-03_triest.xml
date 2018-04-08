@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AmZ, Leipzig, 3. November 1875</title>
-				<author><persName key="bix.eduard"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="bix.eduard"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/amz_1875-11-03_triest.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="triest"/><date when-iso="1875-10-19"/></creation>
+			<creation>
+				<placeName key="triest"/>
+				<date when-iso="1875-10-19"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,21 +45,23 @@
 			url="https://archive.org/stream/bub_gb_tVAfAAAAMAAJ#page/n346/mode/1up" xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
-			<cb break="null" facs="#f1" n="702" type="initial"/>
+		<front rend="antiqua">
+			<cb facs="#f1" n="702"/>
 			<head rend="larger bold egypt">Berichte. Nachrichten und Bemerkungen.</head>
-			<gap resp="tr"/>
-			<head><hi rend="bold"><placeName key="triest">Triest</placeName>,</hi>
-				<date when-iso="1875-10-19">19. October</date>.</head>
+		</front>
+		<gap/>
+		<body rend="antiqua">
+			<dateline rend="center"><hi rend="bold"><placeName key="triest">Triest</placeName>,</hi>
+				<date when-iso="1875-10-19">19. October</date>.</dateline>
 			<p><hi rend="italic"><persName key="bix.eduard">E. B.</persName></hi> Die diesjährige
 				Opern-Saison des hiesigen städtischen Theaters, welche mit »<hi rend="widespace"
-						><title key="verdi.aida" type="mus">Aïda</title></hi>« begonnen hatte, brachte uns <rs
-					key="triest.1875.1" type="event">am <date when-iso="1875-10-16">16. Oct.</date>
-					als interessante Novität das <hi rend="widespace"><persName
+						><title key="verdi.aida" type="mus">Aïda</title></hi>« begonnen hatte,
+				brachte uns <rs key="triest.1875.1" type="event">am <date when-iso="1875-10-16">16.
+						Oct.</date> als interessante Novität das <hi rend="widespace"><persName
 							key="verdi.giuseppe">Verdi’sche</persName>
-						<title key="verdi.requiem" type="mus">Requiem</title></hi></rs>. Es ist in der letzten
-				Zeit, fast zum Ueberdruss viel, von diesem Werke, — welches bisher, Dank einigen
-				schönen »packenden« Momenten, sowie des riesigen Apparates, der zu seiner
+						<title key="verdi.requiem" type="mus">Requiem</title></hi></rs>. Es ist in
+				der letzten Zeit, fast zum Ueberdruss viel, von diesem Werke, — welches bisher, Dank
+				einigen schönen »packenden« Momenten, sowie des riesigen Apparates, der zu seiner
 				jedesmaligen Vorführung und zur ausgiebigsten Reclame vorher, in Bewegung gesetzt
 				worden ist, überall einen durchschlagenden Erfolg errang, — die Rede gewesen, wir
 				wollen uns hier daher nur mit der Ausführung, die uns in Triest geboten wurde,
@@ -64,36 +70,36 @@
 					key="mailand">Mailand</placeName> vor zwei Jahren die Direction übernahm, ein
 				neuer Geist gefahren zu sein. Damals dirigirte <hi rend="widespace"><persName
 						key="faccio.franco">Faccio</persName></hi> die <hi rend="widespace"><title
-						key="verdi.aida" type="mus">Aïda</title></hi> zum ersten Male, dieses Jahr noch das
-					<hi rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi> und eine
-					<title key="ponchielli.i-lituani" type="mus">neue Oper</title> von <hi rend="widespace"
-						><persName key="ponchielli.amilcare"><choice>
+						key="verdi.aida" type="mus">Aïda</title></hi> zum ersten Male, dieses Jahr
+				noch das <hi rend="widespace"><title key="verdi.requiem" type="mus"
+					>Requiem</title></hi> und eine <title key="ponchielli.i-lituani" type="mus">neue
+					Oper</title> von <hi rend="widespace"><persName key="ponchielli.amilcare"><choice>
 							<orig>Ponepielli</orig>
 							<corr resp="tr">Ponchielli</corr>
 						</choice></persName></hi>, der der Ruf einer tüchtigen, ernsten Arbeit
-				vorangeht. <hi rend="widespace"><persName key="faccio.franco"
-					>Faccio</persName></hi> hat eine bedeutende Verstärkung des Orchesters bewirkt
-				und erzielt nun Resultate, die für unsere musikalischen Verhältnisse ausgezeichnet
-				zu nennen sind. Auch der Chor hat sich seitdem tüchtig herangebildet. Beide,
-				Orchester und Chor, errangen im <hi rend="widespace"><title key="verdi.requiem" type="mus"
-						>Requiem</title></hi> wohlverdiente Lorbeeren. Unter den Solisten muss als
-				die weitaus Vorzüglichste <persName key="stolz.teresa">Frau <hi rend="widespace"
-						>Stolz</hi></persName> genannt werden, sie zeigte sich in Allem und Jedem
-				was sie sang, als eine echte, eine grosse Künstlerin. Neben ihr wirkte Fräul. <hi
-					rend="widespace"><persName key="sanz.elena">Sanz</persName></hi>. Mit hübschen
-				Stimmmitteln begabt, werden der jungen Dame schöne Erfolge nicht ausbleiben, wenn
-				ihre Stimme mehr Ausgeglichenheit erlangt haben wird. Jetzt aber steht sie noch
-				gegen eine Partnerin wie Frau <hi rend="widespace"><persName key="stolz.teresa"
-						>Stolz</persName></hi> sehr zurück. Unser Tenor, Herr <hi rend="widespace"
-						><persName key="patierno.filippo">Patierno</persName></hi>, gefiel sich in
-				sehr unkünstlerischen Uebertreibungen, ewigem Forciren der Stimme, Tremoliren —
-				errang aber trotzdem (oder vielleicht deshalb) stürmischen Beifall. Der Basso, Herr
-					<hi rend="widespace"><persName key="maini.armando">Maini</persName></hi>,
-				schien sich im Frack unbehaglich zu singen, vielleicht wundert er sich — mit uns —
-				warum aus diesem Requiem nicht lieber eine Oper gemacht worden ist. Das <title
-					key="verdi.requiem" type="mus">Requiem</title> wurde mit Enthusiasmus aufgenommen und
-				besonders der hochverdiente Dirigent, <hi rend="widespace"><persName
-						key="faccio.franco">Faccio</persName></hi>, ausgezeichnet.</p>
+				vorangeht. <hi rend="widespace"><persName key="faccio.franco">Faccio</persName></hi>
+				hat eine bedeutende Verstärkung des Orchesters bewirkt und erzielt nun Resultate,
+				die für unsere musikalischen Verhältnisse ausgezeichnet zu nennen sind. Auch der
+				Chor hat sich seitdem tüchtig herangebildet. Beide, Orchester und Chor, errangen im
+					<hi rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi>
+				wohlverdiente Lorbeeren. Unter den Solisten muss als die weitaus Vorzüglichste
+					<persName key="stolz.teresa">Frau <hi rend="widespace">Stolz</hi></persName>
+				genannt werden, sie zeigte sich in Allem und Jedem was sie sang, als eine echte,
+				eine grosse Künstlerin. Neben ihr wirkte Fräul. <hi rend="widespace"><persName
+						key="sanz.elena">Sanz</persName></hi>. Mit hübschen Stimmmitteln begabt,
+				werden der jungen Dame schöne Erfolge nicht ausbleiben, wenn ihre Stimme mehr
+				Ausgeglichenheit erlangt haben wird. Jetzt aber steht sie noch gegen eine Partnerin
+				wie Frau <hi rend="widespace"><persName key="stolz.teresa">Stolz</persName></hi>
+				sehr zurück. Unser Tenor, Herr <hi rend="widespace"><persName key="patierno.filippo"
+						>Patierno</persName></hi>, gefiel sich in sehr unkünstlerischen
+				Uebertreibungen, ewigem Forciren der Stimme, Tremoliren — errang aber trotzdem (oder
+				vielleicht deshalb) stürmischen Beifall. Der Basso, Herr <hi rend="widespace"
+						><persName key="maini.armando">Maini</persName></hi>, schien sich im Frack
+				unbehaglich zu singen, vielleicht wundert er sich — mit uns — warum aus diesem
+				Requiem nicht lieber eine Oper gemacht worden ist. Das <title key="verdi.requiem"
+					type="mus">Requiem</title> wurde mit Enthusiasmus aufgenommen und besonders der
+				hochverdiente Dirigent, <hi rend="widespace"><persName key="faccio.franco"
+						>Faccio</persName></hi>, ausgezeichnet.</p>
 		</body>
 	</text>
 </TEI>

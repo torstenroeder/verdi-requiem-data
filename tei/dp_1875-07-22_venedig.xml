@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Presse, Wien, 22. Juli 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dp_1875-07-22_venedig.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="venedig"/></creation>
+			<creation>
+				<placeName key="venedig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -41,25 +42,26 @@
 			xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" facs="#f1" n="11b" type="initial"/>
+		<front rend="fraktur">
+			<cb facs="#f1" n="11b"/>
 			<head rend="larger">Theater- und Kunstnachrichten.</head>
-			<gap resp="tr"/>
+		</front>
+		<gap/>
+		<body rend="fraktur">
 			<p>— Die <rs key="venedig.1875.4" type="event">vierte Aufführung des <persName
 						key="verdi.giuseppe">Verdi’schen</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> in <placeName key="venedig"
-						>Venedig</placeName></rs> hat so großen Beifall und noch so bedeutende
-				Theilnahme gefunden, daß sich der Director des <placeName
+					<title key="verdi.requiem" type="mus">Requiem</title> in <placeName
+						key="venedig">Venedig</placeName></rs> hat so großen Beifall und noch so
+				bedeutende Theilnahme gefunden, daß sich der Director des <placeName
 					key="venedig.teatro-malibran">Malibran-Theaters</placeName>, <persName
 					key="gallo.antonio">Anton Gallo</persName>, an Signora <persName
-					key="stolz.teresa">Stolz</persName> mit der Bitte wendete, durch ihre
-				Mitwirkung noch eine fünfte und Schlußaufführung des Werkes zu ermöglichen. Signora
-					<persName key="stolz.teresa">Stolz</persName> erklärte aus Freundlichste ihre
+					key="stolz.teresa">Stolz</persName> mit der Bitte wendete, durch ihre Mitwirkung
+				noch eine fünfte und Schlußaufführung des Werkes zu ermöglichen. Signora <persName
+					key="stolz.teresa">Stolz</persName> erklärte aus Freundlichste ihre
 				Bereitwilligkeit, obschon ih Contract zu Ende war und widmete von dem entfallenden
 				Honorar 600 Lire für einen wohlthätigen Zweck. Da auch die übrigen Künstler sich
 				bereit erklärten, bei dieser Vorstellung mitzuwirken, so fand dieselbe gestern im
-					<placeName key="venedig.teatro-malibran">Malibran-Theater</placeName>
-				statt.</p>
+					<placeName key="venedig.teatro-malibran">Malibran-Theater</placeName> statt.</p>
 		</body>
 	</text>
 </TEI>

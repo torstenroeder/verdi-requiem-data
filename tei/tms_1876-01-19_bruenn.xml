@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 19. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1876-01-19_st-josefs-frauenverein.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>

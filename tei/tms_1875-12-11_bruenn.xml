@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 11. Dezember 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1875-12-11_meldung.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -40,8 +41,7 @@
 			<pb n="4a"/>
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>
-			<p><g n="002B" type="PLUS_SIGN">+</g> (<persName key="verdi.giuseppe"
-					>Verdi’s</persName>
+			<p><g n="002B" type="PLUS_SIGN">+</g> (<persName key="verdi.giuseppe">Verdi’s</persName>
 				<title key="verdi.requiem" type="mus">Requiem</title>.) Nach Ueberwindung zahlloser
 				Schwierigkeiten ist es nunmehr dem betreffenden Komite gelungen, die (von uns
 				neulich erwähnte) <rs key="bruenn.1876" type="event">Aufführung des <persName

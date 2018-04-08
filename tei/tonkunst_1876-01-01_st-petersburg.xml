@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Tonkunst, Berlin, 1. Januar 1876 [2]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tonkunst_1876-01-01_verdis-requiem.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="st-petersburg"/></creation>
+			<creation>
+				<placeName key="st-petersburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,29 +42,29 @@
 			<pb n="19"/>
 			<gap/>
 			<p><hi rend="bold kanzlei"><persName key="verdi.giuseppe">Verdi’s</persName></hi>
-				<title key="verdi.requiem" type="mus">Requiem</title> ist diesen Winter an einer großen Anzahl
-				unserer ersten Musikstätten aufgeführt worden, so in <rs key="wien.1875a"
-					type="event"><placeName key="wien">Wien</placeName></rs>, <rs key="koeln.1875"
-					type="event"><placeName key="koeln">Cöln</placeName></rs>, <rs
+				<title key="verdi.requiem" type="mus">Requiem</title> ist diesen Winter an einer
+				großen Anzahl unserer ersten Musikstätten aufgeführt worden, so in <rs
+					key="wien.1875a" type="event"><placeName key="wien">Wien</placeName></rs>, <rs
+					key="koeln.1875" type="event"><placeName key="koeln">Cöln</placeName></rs>, <rs
 					key="bruenn.1876" type="event"><placeName key="bruenn">Brünn</placeName></rs>,
 					<rs key="st-petersburg.1876" type="event"><placeName key="st-petersburg"
 						>Petersburg</placeName></rs> etc. Auffällig ist, daß in der letztgenannten
 				Stadt <persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> eines großen Erfolges sich erfreute,
-				während desselben Oper <title key="verdi.aida" type="mus">Aïda</title> dort in Gegensatz zu
-				allen anderen Orten auf Opposition stieß. Diese Thatsache ist nicht bloß dem Zufalle
-				zur Last zu legen, sondern verdient doch berücksichtigt zu werden. Das russische
-				Publicum ist nicht der Art, daß dessen Votum gar nicht zu beachten wäre. <placeName
-					key="st-petersburg">Petersburg</placeName> namentlich begreift eine Fülle
-				musikalischer Lebens-Erscheinungen in sich, welche, protegirt vom Hofe her,
-				patronisirt vom Adel und getragen von der dort concentrirten Bildung, einen
-				Knotenpunkt der Tonkunst darstellen; <placeName key="moskau">Moskau</placeName>
-				aber rivalisirt mit seiner nordischen Rivalin. Sind doch auch aus Rußland seiner
-				Zeit die anregendsten Schriften über <persName key="mozart.wolfgang-amadeus"
-					>Mozart</persName> (<persName key="ulibischeff.alexander"
-					>Ulibischeff</persName>) und <persName key="beethoven.ludwig-van"
-					>Beethoven</persName> (<persName key="lenz.wilhelm-von">von Lenz</persName>)
-				erschienen.</p>
+				<title key="verdi.requiem" type="mus">Requiem</title> eines großen Erfolges sich
+				erfreute, während desselben Oper <title key="verdi.aida" type="mus">Aïda</title>
+				dort in Gegensatz zu allen anderen Orten auf Opposition stieß. Diese Thatsache ist
+				nicht bloß dem Zufalle zur Last zu legen, sondern verdient doch berücksichtigt zu
+				werden. Das russische Publicum ist nicht der Art, daß dessen Votum gar nicht zu
+				beachten wäre. <placeName key="st-petersburg">Petersburg</placeName> namentlich
+				begreift eine Fülle musikalischer Lebens-Erscheinungen in sich, welche, protegirt
+				vom Hofe her, patronisirt vom Adel und getragen von der dort concentrirten Bildung,
+				einen Knotenpunkt der Tonkunst darstellen; <placeName key="moskau"
+					>Moskau</placeName> aber rivalisirt mit seiner nordischen Rivalin. Sind doch
+				auch aus Rußland seiner Zeit die anregendsten Schriften über <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName> (<persName
+					key="ulibischeff.alexander">Ulibischeff</persName>) und <persName
+					key="beethoven.ludwig-van">Beethoven</persName> (<persName
+					key="lenz.wilhelm-von">von Lenz</persName>) erschienen.</p>
 		</body>
 	</text>
 </TEI>

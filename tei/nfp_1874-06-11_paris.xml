@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 11. Juni 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nfp_1874-06-11_ein-requiem-von-verdi.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="paris"/></creation>
+			<creation>
+				<placeName key="paris"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -37,50 +38,50 @@
 	<!--*FACS kein Digitalisat: Neue Freie Presse, 11.06.1874; richtige Ausgabe?-->
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p>[Ein <title key="verdi.requiem" type="mus">Requiem</title> von <persName key="verdi.giuseppe"
-					>Verdi</persName>.] <rs key="paris.1874.gp" type="event">In der <placeName
-						key="paris.opera-comique">Komischen Oper</placeName> zu <placeName
-						key="paris">Paris</placeName> fand am <date when-iso="1875-06-08">8.
-						d.</date> unter persönlicher Leitung des Componisten die Generalprobe der
-					zum Gedächtnisse <title key="verdi.requiem" type="mus">Manzoni’s</title> componirten
-					Todtenmesse von <persName key="verdi.giuseppe">Verdi</persName> statt</rs>,
-				welche kürzlich schon in <placeName key="venedig">Venedig</placeName> und <rs
-					key="mailand.1874" type="event"><placeName key="mailand"
-					>Mailand</placeName></rs> zu Gehör gebrachten worden ist.<note resp="tr"
-					type="eventCommentary">In Venedig fand im Jahr 1874 keine Aufführung der Messa
-					da Requiem statt. Ursache dieser Falschmeldung könnte eine Verwechslung der
-					Mailänder Kirche San Marco mit dem Markusdom in Venedig sein, oder auch eine
-					Meldung über die Uraufführung, die von Venedig aus verbreitet wurde (vgl. <ref
-						target="wz_1874-05-28_mailand.xml" type="text">Wiener Zeitung, 28. Mai
-						1874</ref>).</note> In Wahrheit konnte man diese Generalprobe eine erste
-				Aufführung nennen, da alle Räume des Theaters von einem geladenen, aus der Kunst-
-				und fashionablen Welt recrutirten Publicum besetzt waren. Die Soli befanden sich in
-				denselben Händen wie in Italien: Frau <persName key="stolz.teresa"
+			<p>[Ein <title key="verdi.requiem" type="mus">Requiem</title> von <persName
+					key="verdi.giuseppe">Verdi</persName>.] <rs key="paris.1874.gp" type="event">In
+					der <placeName key="paris.opera-comique">Komischen Oper</placeName> zu
+						<placeName key="paris">Paris</placeName> fand am <date when-iso="1875-06-08"
+						>8. d.</date> unter persönlicher Leitung des Componisten die Generalprobe
+					der zum Gedächtnisse <title key="verdi.requiem" type="mus">Manzoni’s</title>
+					componirten Todtenmesse von <persName key="verdi.giuseppe">Verdi</persName>
+					statt</rs>, welche kürzlich schon in <placeName key="venedig"
+					>Venedig</placeName> und <rs key="mailand.1874" type="event"><placeName
+						key="mailand">Mailand</placeName></rs> zu Gehör gebrachten worden ist.<note
+					resp="tr" type="eventCommentary">In Venedig fand im Jahr 1874 keine Aufführung
+					der Messa da Requiem statt. Ursache dieser Falschmeldung könnte eine
+					Verwechslung der Mailänder Kirche San Marco mit dem Markusdom in Venedig sein,
+					oder auch eine Meldung über die Uraufführung, die von Venedig aus verbreitet
+					wurde (vgl. <ref target="wz_1874-05-28_mailand.xml" type="text">Wiener Zeitung,
+						28. Mai 1874</ref>).</note> In Wahrheit konnte man diese Generalprobe eine
+				erste Aufführung nennen, da alle Räume des Theaters von einem geladenen, aus der
+				Kunst- und fashionablen Welt recrutirten Publicum besetzt waren. Die Soli befanden
+				sich in denselben Händen wie in Italien: Frau <persName key="stolz.teresa"
 					role="soloist.soprano">Stol<surplus resp="tr">t</surplus>z</persName> (Sopran),
 				Frau <persName key="waldmann.maria" role="soloist.mezzo">Waldmann</persName> (Alt)
-					<persName key="capponi.giuseppe" role="soloist.tenor">Capponi</persName>
-				(Tenor) und <persName key="maini.armando" role="soloist.basso">Maini</persName>
-				(Baß); Chor und Orchester waren der <placeName key="paris.grand-opera"
-					>Großen</placeName>, der <placeName key="paris.theatre-italien"
-					>Italienischen</placeName> und der <placeName key="paris.opera-comique"
-					>Komischen Oper</placeName> entlehnt. Die Zahl der Mitwirkenden betrug
-				zweihundert. <persName key="verdi.giuseppe">Verdi</persName> wurde, als er an dem
-				Dirigentenpulte erschien, vom Publikum, dem er als langjähriger Bewohner von
-					<placeName key="paris">Paris</placeName> kein Neuling war, mit begeistertem
-				Beifall begrüßt; trotz des religiösen Charakters der Composition wiederholte sich
-				diese Kundgebung nach jeder der beiden Abtheilungen; es wurde nämlich nach dem
-					<title key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title> eine größere Pause
-				gemacht, so daß der zweite Theil mit dem <title key="verdi.requiem.3" type="mus"
-					>Offertorium</title> begann. Der Erfolg dieses <title key="verdi.requiem" type="mus"
-					>Requiems</title> bei den Kennern war allerdings kein unbestrittener: man fand
-				es, wie alle moderne italienische Kirchenmusiken, und wie z. B. auch das <title
-					key="rossini.stabat-mater" type="mus">Stabat mater</title> und die <title
-					key="rossini.petite-messe-solennelle" type="mus">Messe</title> von <persName
-					key="rossini.gioachino">Rossini</persName>, zu weltlich, zu theatralisch, zu
-				materialistisch; und noch im Saale der <placeName key="paris.opera-comique"
-					>Komischen Oper</placeName> hörte man das Bonmot, dieses Werk sei eine
-				Todtenmesse für ein Civilbegräbniß<note resp="tr" type="textLink">Vgl. <persName
-						key="jouvin.benoit">B. Jouvin</persName>, <ref
+					<persName key="capponi.giuseppe" role="soloist.tenor">Capponi</persName> (Tenor)
+				und <persName key="maini.armando" role="soloist.basso">Maini</persName> (Baß); Chor
+				und Orchester waren der <placeName key="paris.grand-opera">Großen</placeName>, der
+					<placeName key="paris.theatre-italien">Italienischen</placeName> und der
+					<placeName key="paris.opera-comique">Komischen Oper</placeName> entlehnt. Die
+				Zahl der Mitwirkenden betrug zweihundert. <persName key="verdi.giuseppe"
+					>Verdi</persName> wurde, als er an dem Dirigentenpulte erschien, vom Publikum,
+				dem er als langjähriger Bewohner von <placeName key="paris">Paris</placeName> kein
+				Neuling war, mit begeistertem Beifall begrüßt; trotz des religiösen Charakters der
+				Composition wiederholte sich diese Kundgebung nach jeder der beiden Abtheilungen; es
+				wurde nämlich nach dem <title key="verdi.requiem.2.lacrymosa" type="mus"
+					>Lacrymosa</title> eine größere Pause gemacht, so daß der zweite Theil mit dem
+					<title key="verdi.requiem.3" type="mus">Offertorium</title> begann. Der Erfolg
+				dieses <title key="verdi.requiem" type="mus">Requiems</title> bei den Kennern war
+				allerdings kein unbestrittener: man fand es, wie alle moderne italienische
+				Kirchenmusiken, und wie z. B. auch das <title key="rossini.stabat-mater" type="mus"
+					>Stabat mater</title> und die <title key="rossini.petite-messe-solennelle"
+					type="mus">Messe</title> von <persName key="rossini.gioachino"
+					>Rossini</persName>, zu weltlich, zu theatralisch, zu materialistisch; und noch
+				im Saale der <placeName key="paris.opera-comique">Komischen Oper</placeName> hörte
+				man das Bonmot, dieses Werk sei eine Todtenmesse für ein Civilbegräbniß<note
+					resp="tr" type="textLink">Vgl. <persName key="jouvin.benoit">B.
+						Jouvin</persName>, <ref
 						target="http://gallica.bnf.fr/ark:/12148/bpt6k2752604.item" type="text">Le
 						Figaro, Paris, 10. Juni 1874, S. 1</ref>: »Une messe pour un enterrement
 					civil«.</note>. Aber auch die strengsten Kritiker konnten einigen Nummern eine
@@ -94,16 +95,16 @@
 				bekannte Persönlichkeiten von <placeName key="paris">Paris</placeName>, darunter
 					<persName key="thomas.ambroise">Ambroise Thomas</persName>, <persName
 					key="dumas.alexandre.fils">Alexander Dumas</persName>, <persName
-					key="girardin.emile-de">Girardin</persName>, <persName key="about.edmond"
-					>Edmont About</persName>, <persName key="delibes.leo">Léo Delibes</persName>,
-					<persName key="jonas.emile">Jonas</persName> und die gesammte musikalische
-				Kritik von <placeName key="paris">Paris</placeName> wohnten dieser Aufführung bei.
-				Man hörte übrigens nach der Aufführung auch ein „Evviva Verdi“. Dieser Ruf war einst
-				in <placeName key="neapel">Neapel</placeName>, als noch <persName
+					key="girardin.emile-de">Girardin</persName>, <persName key="about.edmond">Edmont
+					About</persName>, <persName key="delibes.leo">Léo Delibes</persName>, <persName
+					key="jonas.emile">Jonas</persName> und die gesammte musikalische Kritik von
+					<placeName key="paris">Paris</placeName> wohnten dieser Aufführung bei. Man
+				hörte übrigens nach der Aufführung auch ein „Evviva Verdi“. Dieser Ruf war einst in
+					<placeName key="neapel">Neapel</placeName>, als noch <persName
 					key="franz-ii.sizilien">Franz II.</persName> dort regirte, streng verpönt, denn
 				er galt allgemein als eine maskirte Huldigung für <persName
-					key="vittorio-emanuele-ii.savoyen">Victor Emanuel</persName>. Die Buchstaben
-				des Namens <persName key="verdi.giuseppe">Verdi</persName> geben nämlich: <persName
+					key="vittorio-emanuele-ii.savoyen">Victor Emanuel</persName>. Die Buchstaben des
+				Namens <persName key="verdi.giuseppe">Verdi</persName> geben nämlich: <persName
 					key="vittorio-emanuele-ii.savoyen">Vittorio Emmanuele</persName> Re
 				d’Italia“.</p>
 		</body>

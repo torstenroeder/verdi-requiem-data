@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Signale, Leipzig, Januar 1876/7</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/signale_1876-01_07_wien.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +23,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -43,22 +44,26 @@
 			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=112"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="101" type="initial"/>
+		<front rend="fraktur">
+			<pb n="101"/>
 			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
-			<pb break="null" n="104" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<pb n="104"/>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
 				<hi rend="widespace">In <placeName key="wien">Wien</placeName></hi> fanden im
 					<placeName key="wien.hof-operntheater">Hofoperntheater</placeName> in den 365
 				Tagen des Jahres <date when-iso="1875">1875</date> 294 Vorstellungen statt. An
 				Novitäten wurde gegeben: <gap resp="tr"/>
 				<rs key="wien.1875.1" type="event">am <date when-iso="1875-06-11">11. Juni</date>
-					zum ersten Male: „<title key="verdi.requiem" type="mus">Requiem</title>“ (Manzoni-Messe)
-					unter persönlicher Leitung <persName key="verdi.giuseppe">Verdi’s</persName>
-					und Mitwirkung der Damen <persName key="stolz.teresa">Therese Stolz</persName>
-					und <persName key="waldmann.maria">Marie Waldmann</persName> und der Herren
-						<persName key="masini.angelo">Angelo Masini</persName> und <persName
-						key="medini.paolo">Paolo Medini</persName></rs>; <gap resp="tr"/></p>
+					zum ersten Male: „<title key="verdi.requiem" type="mus">Requiem</title>“
+					(Manzoni-Messe) unter persönlicher Leitung <persName key="verdi.giuseppe"
+						>Verdi’s</persName> und Mitwirkung der Damen <persName key="stolz.teresa"
+						>Therese Stolz</persName> und <persName key="waldmann.maria">Marie
+						Waldmann</persName> und der Herren <persName key="masini.angelo">Angelo
+						Masini</persName> und <persName key="medini.paolo">Paolo
+					Medini</persName></rs>; <gap resp="tr"/></p>
 		</body>
 	</text>
 </TEI>

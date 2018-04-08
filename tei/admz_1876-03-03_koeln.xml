@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AdMz, Leipzig, 3. März 1876</title>
-				<author><persName key="akronym.ok"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.ok"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/admz_1876-03-03_koeln.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/><date when-iso="1876-02-20"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+				<date when-iso="1876-02-20"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -38,39 +42,41 @@
 	</teiHeader>
 	<!--FACS AdmZ: kein Digitalisat; Kopie vorhanden-->
 	<text xml:lang="de">
-		<body rend="antiqua">
-			<pb break="null" n="74" type="initial"/>
+		<front rend="antiqua">
+			<pb break="null" n="74"/>
 			<head rend="widespace larger">Korrespondenzen.</head>
-			<cb break="null" n="75b" type="skipped"/>
+		</front>
+		<body rend="antiqua">
+			<cb break="null" n="75b"/>
 			<p><hi rend="bold"><placeName key="hamburg">Cöln</placeName>,</hi>
 				<date when-iso="1876-02-20">20. Februar</date>. Das <rs key="koeln.1875.2"
 					type="event">achte Gürzenichkonzert</rs> brachte eine Wiederholung des <hi
 					rend="widespace"><persName key="verdi.giuseppe">Verdi’schen</persName>
-					<title key="verdi.requiem" type="mus">Requiems</title></hi>, dessen erste Aufführung
-				bereits im <rs key="koeln.1875.1" type="event">vierten Konzert</rs> stattgefunden,
-				von uns jedoch damals nicht hatte besprochen werden können. Der durchschlagende
-				Erfolg, welchen das Werk auch diesmal wieder errang, durfte im Ganzen ein
-				berechtigter sein. Im Ganzen, denn im Einzelnen ließe sich der Komposition doch
-				manches anhaben. Da es den Raum eines Konzertberichtes weit übersteigen würde,
-				wollen wir uns auf die vielen Schönheiten und Schwächen des Werkes näher einlassen,
-				so begnügen wir uns damit, unser Urtheil kurz zusammenzufassen. Das, was wir an dem
-				Werke schön finden, sondert sich auf einzelne Nummern, von denen die erste, das
-					<title key="verdi.requiem.4" type="mus">Sanctus</title> und die <title
-					key="verdi.requiem.7" type="mus">letzte</title> und die hervorragendsten sind. Hier hat
-				der Komponist eine Musik geschaffen, die dem religiösen Stoffe gemäß concipirt und
-				mit entsprechenden Mitteln ausgeführt ist. Auch das <hi rend="antiqua"><title
-						key="verdi.requiem.2" type="mus">Dies irae</title></hi>, welches selbstverständlich
-				einen größeren Aufwand von Mitteln verlangt, ist in den Hauptpartien als gelungen zu
-				betrachten, d. h. seiner Großartigkeit zwar mit Effekten reich bedacht, <pb
-					break="yes" n="76" type="regular"/>aber doch nicht über die aesthetischen
-				Grenzen, die natürlich bei dieser Nummer weiter zu ziehen sind, hinausgehend. An
-				vielen anderen Stellen jedoch ist zwar immer höchst wirkungsvolle Musik zu finden,
-				aber von einer Kongruenz derselben mit ihrer textlichen Unterlage keine Rede. Wenn
-				wir daher mit den Stellen, die sich in ihrer musikalischen Behandlung den
-				Opernhaften nähern und die wir nicht näher zu bezeichnen brauchen, uns nicht
-				befreunden können, so wollen wir uns des guten und Schönen, welches das Werk
-				enthält, desto mehr freuen und nicht verkennen, daß die Requiemliteratur durch
-				dasselbe immerhin eine namhafte <choice>
+					<title key="verdi.requiem" type="mus">Requiems</title></hi>, dessen erste
+				Aufführung bereits im <rs key="koeln.1875.1" type="event">vierten Konzert</rs>
+				stattgefunden, von uns jedoch damals nicht hatte besprochen werden können. Der
+				durchschlagende Erfolg, welchen das Werk auch diesmal wieder errang, durfte im
+				Ganzen ein berechtigter sein. Im Ganzen, denn im Einzelnen ließe sich der
+				Komposition doch manches anhaben. Da es den Raum eines Konzertberichtes weit
+				übersteigen würde, wollen wir uns auf die vielen Schönheiten und Schwächen des
+				Werkes näher einlassen, so begnügen wir uns damit, unser Urtheil kurz
+				zusammenzufassen. Das, was wir an dem Werke schön finden, sondert sich auf einzelne
+				Nummern, von denen die erste, das <title key="verdi.requiem.4" type="mus"
+					>Sanctus</title> und die <title key="verdi.requiem.7" type="mus">letzte</title>
+				und die hervorragendsten sind. Hier hat der Komponist eine Musik geschaffen, die dem
+				religiösen Stoffe gemäß concipirt und mit entsprechenden Mitteln ausgeführt ist.
+				Auch das <hi rend="antiqua"><title key="verdi.requiem.2" type="mus">Dies
+						irae</title></hi>, welches selbstverständlich einen größeren Aufwand von
+				Mitteln verlangt, ist in den Hauptpartien als gelungen zu betrachten, d. h. seiner
+				Großartigkeit zwar mit Effekten reich bedacht, <pb break="yes" n="76" type="regular"
+				/>aber doch nicht über die aesthetischen Grenzen, die natürlich bei dieser Nummer
+				weiter zu ziehen sind, hinausgehend. An vielen anderen Stellen jedoch ist zwar immer
+				höchst wirkungsvolle Musik zu finden, aber von einer Kongruenz derselben mit ihrer
+				textlichen Unterlage keine Rede. Wenn wir daher mit den Stellen, die sich in ihrer
+				musikalischen Behandlung den Opernhaften nähern und die wir nicht näher zu
+				bezeichnen brauchen, uns nicht befreunden können, so wollen wir uns des guten und
+				Schönen, welches das Werk enthält, desto mehr freuen und nicht verkennen, daß die
+				Requiemliteratur durch dasselbe immerhin eine namhafte <choice>
 					<orig>Bereicherund</orig>
 					<corr resp="tr">Bereicherung</corr>
 				</choice> erfahren hat. Ueber die Aufführung können wir bez. des Chores und
@@ -86,8 +92,8 @@
 				hinein einem aus vernünftiger Ueberlegung hervorgehenden Beifall Platz machen, nur
 				dann kann überhaupt von einem Zweck und Nutzen desselben die Rede sein.</p>
 			<gap resp="tr"/>
-			<p rend="right"><hi rend="antiqua">Dr.</hi>
-				<persName key="akronym.ok" role="author">O. K.</persName></p>
+			<signed rend="right"><hi rend="antiqua">Dr.</hi>
+				<persName key="akronym.ok" role="author">O. K.</persName></signed>
 		</body>
 	</text>
 </TEI>

@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Tonkunst, Berlin, 11. März 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tonkunst_1876-03-11_utrecht.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="utrecht"/></creation>
+			<creation>
+				<placeName key="utrecht"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -38,15 +39,17 @@
 	<!--<graphic n="tonkunst_1876-03-11_117.png"/>-->
 	<!--<graphic n="tonkunst_1876-03-11_118.png"/>-->
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<pb n="117"/>
 			<head>Musikpflege.</head>
 			<gap/>
+		</front>
+		<body rend="fraktur">
 			<p><hi rend="bold kanzlei">Concerte.</hi>
 				<pb n="118" type="skipped"/>
 				<rs key="utrecht.1876" type="event"><placeName key="utrecht">Utrecht</placeName>.
-						<persName key="hol.richard">Rich. Hol</persName>, <title
-						key="verdi.requiem" type="mus">Verdi-Messe</title>.</rs></p>
+						<persName key="hol.richard">Rich. Hol</persName>, <title key="verdi.requiem"
+						type="mus">Verdi-Messe</title>.</rs></p>
 		</body>
 	</text>
 </TEI>

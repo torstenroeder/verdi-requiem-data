@@ -5,10 +5,9 @@
 			<titleStmt>
 				<title>Signale, Leipzig, Januar 1876/7</title>
 				<title corresp="btb_1876-01-11_hamburg.xml">aus: Berliner Tagebl., 11.1.</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/signale_1876-01_07_hamburg.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -27,7 +26,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="hamburg"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -46,25 +47,28 @@
 			url="http://anno.onb.ac.at/cgi-content/anno-plus?aid=smw&amp;datum=1876&amp;page=112"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="101" type="initial"/>
+		<front rend="fraktur">
+			<pb n="101"/>
 			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
-			<pb break="null" n="104" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<pb n="104"/>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
 				<rs key="hamburg.1876.1" type="event"><hi rend="widespace">Am <placeName
 							key="hamburg.stadt-theater">Hamburger Stadttheater</placeName></hi> ist
 						<persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> mit großer Begeisterung aufgenommen
-					worden.</rs> Das scenische Arrangement war von Herrn Oberregisseur <persName
-					key="hock.wilhelm" role="stage-director">Hock</persName> besorgt. Die Scene
-				stellte das Innere einer katholischen Kirche dar, die Mitwirkenden, der auf mehr als
-				100 Mann verstärkte Chor und das aus ca. 70 Personen bestehende Orchester, sämmtlich
-				in eleganter Gesellschafts-Toilette, die Damen in Weiß, mit weißen Camelien im Haar
-				und, dem Charakter der Todtenmesse entsprechend, mit schwarzem Schleier, waren in
-				weitem aufsteigendem Halbkreise postirt, in der Mitte desselben der Dirigent, Herr
-					<persName key="fuchs.johann-nepomuk">Fuchs</persName>, dessen Pult theilweise
-				durch lebende Gewächse verdeckt war. Das Ganze machte einen sehr feierlichen
-				Eindruck.</p>
+					<title key="verdi.requiem" type="mus">Requiem</title> mit großer Begeisterung
+					aufgenommen worden.</rs> Das scenische Arrangement war von Herrn Oberregisseur
+					<persName key="hock.wilhelm" role="stage-director">Hock</persName> besorgt. Die
+				Scene stellte das Innere einer katholischen Kirche dar, die Mitwirkenden, der auf
+				mehr als 100 Mann verstärkte Chor und das aus ca. 70 Personen bestehende Orchester,
+				sämmtlich in eleganter Gesellschafts-Toilette, die Damen in Weiß, mit weißen
+				Camelien im Haar und, dem Charakter der Todtenmesse entsprechend, mit schwarzem
+				Schleier, waren in weitem aufsteigendem Halbkreise postirt, in der Mitte desselben
+				der Dirigent, Herr <persName key="fuchs.johann-nepomuk">Fuchs</persName>, dessen
+				Pult theilweise durch lebende Gewächse verdeckt war. Das Ganze machte einen sehr
+				feierlichen Eindruck.</p>
 		</body>
 	</text>
 </TEI>

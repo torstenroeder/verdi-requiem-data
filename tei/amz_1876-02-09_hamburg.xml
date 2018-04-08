@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AmZ, Leipzig, 9. Februar 1876</title>
-				<author><persName key="krause.emil"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="krause.emil"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/amz_1876-02-09_hamburg.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><date when-iso="1876-02-01"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+				<date when-iso="1876-02-01"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,16 +46,19 @@
 		/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
-			<cb break="null" n="92" type="initial"/>
+		<front rend="antiqua">
+			<cb n="92"/>
 			<head rend="larger bold egypt">Berichte.</head>
-			<cb break="null" facs="#f1" n="93" type="skipped"/>
-			<head><hi rend="bold"><placeName key="hamburg">Hamburg</placeName></hi>, <date
-					when-iso="1876-02-01">1. Februar</date>.</head>
+			<gap/>
+		</front>
+		<body rend="antiqua">
+			<cb facs="#f1" n="93"/>
+			<dateline><hi rend="bold"><placeName key="hamburg">Hamburg</placeName></hi>, <date
+					when-iso="1876-02-01">1. Februar</date>.</dateline>
 			<p><hi rend="italic"><persName key="krause.emil">E. K.</persName></hi> Das wichtigste
 				musikalische Ereigniss des verflossenen Monats war die <rs key="hamburg.1876"
-					type="event">Aufführung des <hi rend="widespace"><title key="verdi.requiem" type="mus"
-							>Requiem</title></hi> von <hi rend="widespace"><persName
+					type="event">Aufführung des <hi rend="widespace"><title key="verdi.requiem"
+							type="mus">Requiem</title></hi> von <hi rend="widespace"><persName
 							key="verdi.giuseppe">Verdi</persName></hi> im hiesigen <placeName
 						key="hamburg.stadt-theater">Stadttheater</placeName></rs>. Herrn Director
 					<persName key="pollini.bernhard">Pollini</persName> haben wir die Bekanntschaft
@@ -59,18 +66,19 @@
 				sich wohl in kürzester Zeit an diese Novität gemacht? — Der Eindruck der Composition
 				war, trotz aller und zum Theil wohl gerechtfertigter Bedenken, dennoch in seiner
 				Totalität überraschend. Der Schöpfer des »<title key="verdi.rigoletto" type="mus"
-					>Rigoletto</title>«, »<title key="verdi.il-trovatore" type="mus">Troubadour</title>« etc.
-				zeigt in diesem Werk der Welt, was er im Stande ist Gediegenes zu gestalten, mehr
-				dies, als dasjenige was er glaubt, denn eine innerste religiöse Ueberzeugung spricht
-				sich nicht in dem <title key="verdi.requiem" type="mus">Requiem</title> aus. Neben den
-				grossartigsten Sätzen enthält die Composition manches Opernhafte und sogar Triviale,
-				es mangelt daher die Einheit des Stils. Begreiflicherweise darf man nicht etwas
-					<persName key="mozart.wolfgang-amadeus">Mozart</persName> oder <persName
+					>Rigoletto</title>«, »<title key="verdi.il-trovatore" type="mus"
+					>Troubadour</title>« etc. zeigt in diesem Werk der Welt, was er im Stande ist
+				Gediegenes zu gestalten, mehr dies, als dasjenige was er glaubt, denn eine innerste
+				religiöse Ueberzeugung spricht sich nicht in dem <title key="verdi.requiem"
+					type="mus">Requiem</title> aus. Neben den grossartigsten Sätzen enthält die
+				Composition manches Opernhafte und sogar Triviale, es mangelt daher die Einheit des
+				Stils. Begreiflicherweise darf man nicht etwas <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName> oder <persName
 					key="cherubini.luigi">Cherubini</persName> Gleichbedeutendes beanspruchen, denn
-				wie wäre wohl ein <persName key="verdi.giuseppe">Verdi</persName> im Stande
-				gewesen, den herrlichen Text, der so oft die edelste Interpretation in Tönen
-				gefunden, in gleich idealer Weise zu componiren, aber eine ausserordentliche That
-				bleibt sein <title key="verdi.requiem" type="mus">Requiem</title> dennoch. Die Aufführung,
+				wie wäre wohl ein <persName key="verdi.giuseppe">Verdi</persName> im Stande gewesen,
+				den herrlichen Text, der so oft die edelste Interpretation in Tönen gefunden, in
+				gleich idealer Weise zu componiren, aber eine ausserordentliche That bleibt sein
+					<title key="verdi.requiem" type="mus">Requiem</title> dennoch. Die Aufführung,
 				welche Herr Kapellmeister <persName key="fuchs.johann-nepomuk">Fuchs</persName> mit
 				grosser Sorgfalt und Sachkenntniss vorbereitet hatte, war eine recht gute. Chor und
 				Orchester waren durch manche schätzbare Kraft verstärkt, um so mehr konnte ein

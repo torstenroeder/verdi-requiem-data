@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Mecklenburgische Zeitung, Schwerin, 13. April 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mz_1876-04-13_schwerin.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="schwerin"/></creation>
+			<creation>
+				<placeName key="schwerin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -43,21 +44,20 @@
 						Bühne des <placeName key="schwerin.hoftheater">Großherzoglichen
 							Schauspielhauses</placeName>:</hi><lb break="yes"/><hi
 						rend="larger bold antiqua"><title key="verdi.requiem" type="mus"
-						>Requiem</title></hi><lb break="yes"/>von <hi rend="bold antiqua"><persName
-							key="verdi.giuseppe">Giuseppe Verdi</persName>.</hi></rs><lb
+							>Requiem</title></hi><lb break="yes"/>von <hi rend="bold antiqua"
+							><persName key="verdi.giuseppe">Giuseppe Verdi</persName>.</hi></rs><lb
 					break="yes"/>(Zum Todestage <hi rend="bold antiqua"><persName
-						key="manzoni.alessandro">Alessandro Manzoni’s</persName></hi>
-					componirt.)<lb break="yes"/> Soli:<lb break="yes"/>Frl. <hi rend="bold"
-						><persName key="gungl.virginia">Gung’l</persName></hi> (Sopran),<lb
-					break="yes"/>Frl. <hi rend="bold"><persName key="schwencke.anna"
-						>Schwencke</persName></hi> (Alt),<lb break="yes"/>Herr <hi rend="bold"
-						><persName key="candidus.william">Candidus</persName></hi> vom <placeName
-					key="hamburg.stadt-theater">Stadttheater</placeName> zu <placeName
-					key="hamburg">Hamburg</placeName> (Tenor),<lb break="yes"/> Herr <hi
-					rend="bold"><persName key="hill.karl">Hill</persName></hi> (Baß).<lb
-					break="yes"/>Chor: Hoftheaterchor, unter gefälliger Mitwirkung hiesiger
-					Dilettanten.<lb break="yes"/><hi rend="bold">Mittelpreise.</hi><lb break="yes"
-					/><hi rend="bold">Anfang 7 Uhr.</hi></p>
+						key="manzoni.alessandro">Alessandro Manzoni’s</persName></hi> componirt.)<lb
+					break="yes"/> Soli:<lb break="yes"/>Frl. <hi rend="bold"><persName
+						key="gungl.virginia">Gung’l</persName></hi> (Sopran),<lb break="yes"/>Frl.
+					<hi rend="bold"><persName key="schwencke.anna">Schwencke</persName></hi>
+					(Alt),<lb break="yes"/>Herr <hi rend="bold"><persName key="candidus.william"
+						>Candidus</persName></hi> vom <placeName key="hamburg.stadt-theater"
+					>Stadttheater</placeName> zu <placeName key="hamburg">Hamburg</placeName>
+					(Tenor),<lb break="yes"/> Herr <hi rend="bold"><persName key="hill.karl"
+						>Hill</persName></hi> (Baß).<lb break="yes"/>Chor: Hoftheaterchor, unter
+				gefälliger Mitwirkung hiesiger Dilettanten.<lb break="yes"/><hi rend="bold"
+					>Mittelpreise.</hi><lb break="yes"/><hi rend="bold">Anfang 7 Uhr.</hi></p>
 		</body>
 	</text>
 </TEI>

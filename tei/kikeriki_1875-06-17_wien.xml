@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kikeriki, Wien, 17. Juni 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/kikeriki_1875-06-17_musikalische-verwirrungen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -49,8 +50,8 @@
 			</figure>
 			<p rend="noIndent">
 				<l>— Was gibt’s denn heute im <hi rend="bold">Opernhause?</hi></l>
-				<l>— <rs key="wien.1875" type="event">Ein <hi rend="bold"><title
-								key="verdi.requiem" type="mus">Requiem</title>.</hi></rs></l>
+				<l>— <rs key="wien.1875" type="event">Ein <hi rend="bold"><title key="verdi.requiem"
+								type="mus">Requiem</title>.</hi></rs></l>
 			</p>
 			<figure>
 				<graphic url="kikeriki_1875-06-17_3b.png"/>

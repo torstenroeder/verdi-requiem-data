@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 14. Januar 1876 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-01-14_muenchen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="muenchen"/></creation>
+			<creation>
+				<placeName key="muenchen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -40,24 +41,27 @@
 		/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="24" type="initial"/>
+		<front rend="fraktur">
+			<pb n="24"/>
 			<head rend="larger">Correspondenzen.</head>
-			<pb break="null" n="25" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<pb n="25"/>
 			<p rend="right"><hi rend="bold"><placeName key="muenchen">München</placeName>.</hi></p>
-			<cb break="null" n="25b" type="skipped"/>
+			<cb n="25b" type="skipped"/>
 			<p><rs key="muenchen.1875.1" type="event">Nach Abgang m. letzten Ber. gab die
 					„Musikakademie“ noch zwei Concerte, in ersterem das <hi rend="antiqua"><title
-							key="verdi.requiem" type="mus">Requiem</title></hi> von <hi rend="widespace"
-							><persName key="verdi.giuseppe">Verdi</persName></hi></rs>, in
-				letzterem <persName key="beethoven.ludwig-van">Beethoven’s</persName>
-				<title key="beethoven.symphonie-7" type="mus">siebente Symph</title>. In diesem hörte das
-				Publikum auch Ihre Primadonna Frau <hi rend="widespace"><persName
+							key="verdi.requiem" type="mus">Requiem</title></hi> von <hi
+						rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi></rs>,
+				in letzterem <persName key="beethoven.ludwig-van">Beethoven’s</persName>
+				<title key="beethoven.symphonie-7" type="mus">siebente Symph</title>. In diesem
+				hörte das Publikum auch Ihre Primadonna Frau <hi rend="widespace"><persName
 						key="peschka-leutner.minna">Peschka-Leutner</persName></hi>. Ich selbst war
 				leider verhindert, das Concert zu besuchen. Einen Bericht über <persName
 					key="verdi.giuseppe">Verdi’s</persName>
-				<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> will ich
-				verschieben*), bis das Werk zum zweiten Male gegeben worden ist.</p>
+				<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> will
+				ich verschieben*), bis das Werk zum zweiten Male gegeben worden ist.</p>
 			<p rend="smaller">*) Sehr zu billigen, denn es sind so viele Beurtheilungen dieser
 					<persName key="verdi.giuseppe"><hi rend="widespace">Verdi</hi>’schen</persName>
 				Musik in Sicht, daß, da wir unseren Lesern unmöglich mehr wie 2- bis 3mal <hi

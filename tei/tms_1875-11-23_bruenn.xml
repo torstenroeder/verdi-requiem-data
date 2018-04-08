@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 23. November 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1875-11-23_ankuendigung.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -36,14 +37,18 @@
 		</encodingDesc>
 	</teiHeader>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<cb n="3b"/>
 			<head rend="larger bold">Brünner Chronik.</head>
-			<cb n="3c" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="3c"/>
 			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title>.) <rs key="bruenn.1876" type="event"
-					>Wie wir vernehmen, soll das <title key="verdi.requiem" type="mus">Requiem</title>
+				<title key="verdi.requiem" type="mus">Requiem</title>.) <rs key="bruenn.1876"
+					type="event">Wie wir vernehmen, soll das <title key="verdi.requiem" type="mus"
+						>Requiem</title>
 					<persName key="verdi.giuseppe">Verdi’s</persName> zweimal und zwar an zwei bald
 					aufeinanderfolgenden Tagen zur Aufführung gelangen.</rs> Das Komite beabsichtigt
 				daher auch Abonnements-Karten für beide Produktionen zu ermäßigten Preisen

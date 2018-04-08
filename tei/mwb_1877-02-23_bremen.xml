@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 23. Februar 1877</title>
-				<author><persName key="spanuth.august"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="spanuth.august"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1877-02-23_bremen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +24,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bremen"/><date when-iso="1876-02"/></creation>
+			<creation>
+				<placeName key="bremen"/>
+				<date when-iso="1876-02"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,13 +49,12 @@
 			<pb n="129"/>
 			<p><hi rend="bold"><placeName key="bremen">Bremen</placeName>,</hi>
 				<date when-iso="1876-02">im Februar</date>. <gap resp="tr"/> Das bis jetzt
-				interessanteste Ereigniss dieser Saison waren die <rs key="bremen.1876"
-					type="event">Aufführungen des <persName key="verdi.giuseppe"
-						>Verdi’schen</persName>
-					<title key="verdi.requiem" type="mus">Requiems</title></rs>. Das Werk machte schon bei der
-				ersten hiesigen Aufführung eine bedeutende Wirkung. Ja, nach dem raffinirten „<title
-					key="verdi.requiem.2" type="mus">dies irae</title>“ vergass sich unser kühles Publicum so
-				weit, dass es stürmisch applaudirte. <gap resp="tr"/></p>
+				interessanteste Ereigniss dieser Saison waren die <rs key="bremen.1876" type="event"
+					>Aufführungen des <persName key="verdi.giuseppe">Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Requiems</title></rs>. Das Werk machte
+				schon bei der ersten hiesigen Aufführung eine bedeutende Wirkung. Ja, nach dem
+				raffinirten „<title key="verdi.requiem.2" type="mus">dies irae</title>“ vergass sich
+				unser kühles Publicum so weit, dass es stürmisch applaudirte. <gap resp="tr"/></p>
 			<p rend="right"><persName key="spanuth.august">A. Sp.</persName></p>
 		</body>
 	</text>

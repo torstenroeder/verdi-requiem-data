@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>National-Zeitung, Berlin, 19. April 1876</title>
-				<author><persName key="akronym.ag"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.ag"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nz_1876-04-19_berlin.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,7 +18,7 @@
 					<placeName key="berlin"/>
 					<date when-custom="wed" when-iso="1876-04-19"/>
 					<biblScope unit="issue">181</biblScope>
-					<biblScope unit="subIssue">181</biblScope>
+					<biblScope unit="subIssue">Morgen-Ausgabe</biblScope>
 					<biblScope unit="volume">29</biblScope>
 					<series>nz</series>
 					<biblScope unit="part">Erstes Beiblatt</biblScope>
@@ -26,7 +27,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="berlin"/></creation>
+			<creation>
+				<placeName key="berlin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -44,27 +47,27 @@
 			<head rend="larger"><placeName key="berlin.hofoper">Königliches
 				Opernhaus</placeName>.</head>
 			<p><rs key="berlin.1876.1" type="event">Die Aufführung von <persName
-						key="verdi.giuseppe">Verdi’s</persName> „<title key="verdi.requiem" type="mus"
-						>Requiem</title>“ im <placeName key="berlin">Berliner</placeName>
-					<placeName key="berlin.hofoper">Opernhause</placeName> ist ein
-					kunsthistorisches Ereigniß, welches man wohl mit den Versuchen in gleiche Linie
-					stellen kann, die in <placeName key="paris">Paris</placeName> und <placeName
-						key="bologna">Bologna</placeName> mit der Einführung <persName
-						key="wagner.richard">Wagner’scher</persName> Opern gemacht wurde.</rs> Aber
-				der universelle Geschmack des deutschen Publikums hat auch bei dieser Veranlassung
-				wieder einen glänzenden Beweis seiner Ueberlegenheit gegeben. In <rs
-					key="wien.1875" type="event"><placeName key="wien">Wien</placeName></rs> und
-				dem ganzen katholischen <placeName key="sueddeutschland"
-				>Süddeutschland</placeName>, selbst noch in <rs key="dresden.1876" type="event"
-						><placeName key="dresden">Dresden</placeName></rs> könnten andere
-				Strömungen mitgewirkt haben; der Erfolg, den das bedeutende Werk hier in <placeName
-					key="berlin">Berlin</placeName> gehabt hat, kommt ausschließlich auf Rechnung
-				seines unverkennbaren Werthes, der Fülle edler musikalischer Gedanken, der wirksamen
-				Durcharbeitung der Motive und allerdings auch jener einschmeichelnden Manier, die zu
-				allen Zeiten den italienischen Komponisten charakterisirt. Daß dies Alles aber mit
-				der vollen Empfänglichkeit aufgenommen und gewürdigt wurde, ist das Resultat jener
-				oft mit Unrecht geschmähten Freiheit von nationalen Vorurtheilen in Sachen der
-				Kunst, wie sie vorzugsweise in den Oratorien <persName key="bach.johann-sebastian"
+						key="verdi.giuseppe">Verdi’s</persName> „<title key="verdi.requiem"
+						type="mus">Requiem</title>“ im <placeName key="berlin">Berliner</placeName>
+					<placeName key="berlin.hofoper">Opernhause</placeName> ist ein kunsthistorisches
+					Ereigniß, welches man wohl mit den Versuchen in gleiche Linie stellen kann, die
+					in <placeName key="paris">Paris</placeName> und <placeName key="bologna"
+						>Bologna</placeName> mit der Einführung <persName key="wagner.richard"
+						>Wagner’scher</persName> Opern gemacht wurde.</rs> Aber der universelle
+				Geschmack des deutschen Publikums hat auch bei dieser Veranlassung wieder einen
+				glänzenden Beweis seiner Ueberlegenheit gegeben. In <rs key="wien.1875" type="event"
+						><placeName key="wien">Wien</placeName></rs> und dem ganzen katholischen
+					<placeName key="sueddeutschland">Süddeutschland</placeName>, selbst noch in <rs
+					key="dresden.1876" type="event"><placeName key="dresden"
+					>Dresden</placeName></rs> könnten andere Strömungen mitgewirkt haben; der
+				Erfolg, den das bedeutende Werk hier in <placeName key="berlin">Berlin</placeName>
+				gehabt hat, kommt ausschließlich auf Rechnung seines unverkennbaren Werthes, der
+				Fülle edler musikalischer Gedanken, der wirksamen Durcharbeitung der Motive und
+				allerdings auch jener einschmeichelnden Manier, die zu allen Zeiten den
+				italienischen Komponisten charakterisirt. Daß dies Alles aber mit der vollen
+				Empfänglichkeit aufgenommen und gewürdigt wurde, ist das Resultat jener oft mit
+				Unrecht geschmähten Freiheit von nationalen Vorurtheilen in Sachen der Kunst, wie
+				sie vorzugsweise in den Oratorien <persName key="bach.johann-sebastian"
 					>Bach’s</persName> und <persName key="haendel.georg-friedrich"
 					>Händel’s</persName> den Geschmack in dieser Richtung geläutert und gekräftigt
 				hat, ist das Urtheil in Bezug auf kirchliche Kompositionen doppelt maßgebend und die
@@ -90,51 +93,53 @@
 				ebenso vortrefflich zusammen, wie es ihm gelang, die feinen Schattirungen in den
 				einzelnen vokalen und instrumentalen Nummern mit richtigem künstlerischen Gefühle
 				hervorzuheben. Man darf nur an die hinreißende Wirkung des anmuthigen <title
-					key="verdi.requiem.5" type="mus">Agnus Dei</title> erinnern, um zugleich der Sorgfalt in
-				der Einstudirung die höchste Anerkennung zollen zu können. Hier war eine Klarheit
-				und Innigkeit des Ausdrucks erzielt, wie sie nicht vollendeter gedacht werden
-				können.</p>
+					key="verdi.requiem.5" type="mus">Agnus Dei</title> erinnern, um zugleich der
+				Sorgfalt in der Einstudirung die höchste Anerkennung zollen zu können. Hier war eine
+				Klarheit und Innigkeit des Ausdrucks erzielt, wie sie nicht vollendeter gedacht
+				werden können.</p>
 			<p><persName key="verdi.giuseppe">Verdi</persName> hätten seine Nationalität verleugnen
-				müssen, wenn die Wirkung seines <title key="verdi.requiem" type="mus">Requiem</title> nicht in
-				vielen Theilen eine opernhafte, mehr sinnlich erregende, als geistig erhebende wäre.
-				Dies macht sich namentlich in der zweiten Hälfte geltend, wo z. B. gleich der Schluß
-				des <title key="verdi.requiem.3" type="mus">Offertoriums</title> in vielen Einzelheiten an
-					<persName key="meyerbeer.giacomo">Meyerbeer’s</persName> Richtung erinnert. In
-				einem Lande, wo die übliche Kirchenmusik zum guten Theile aus Opernfragmenten
-				besteht, ist es nicht hoch genug anzuschlagen, wenn ein Komponist von <persName
+				müssen, wenn die Wirkung seines <title key="verdi.requiem" type="mus"
+					>Requiem</title> nicht in vielen Theilen eine opernhafte, mehr sinnlich
+				erregende, als geistig erhebende wäre. Dies macht sich namentlich in der zweiten
+				Hälfte geltend, wo z. B. gleich der Schluß des <title key="verdi.requiem.3"
+					type="mus">Offertoriums</title> in vielen Einzelheiten an <persName
+					key="meyerbeer.giacomo">Meyerbeer’s</persName> Richtung erinnert. In einem
+				Lande, wo die übliche Kirchenmusik zum guten Theile aus Opernfragmenten besteht, ist
+				es nicht hoch genug anzuschlagen, wenn ein Komponist von <persName
 					key="verdi.giuseppe">Verdi’s</persName> sinnlichem Feuer sich der ernsten,
 				gehaltenen Richtung deutscher Musik so weit nähert, wie dies in seinem <title
-					key="verdi.requiem" type="mus">Requiem</title> geschieht. Wird doch außerdem auch bei
-				diesem Werke der Mangel wahrhaft tiefer Religiosität durch den Impuls ersetzt, dem
-				es seine Entstehung verdankt; durch die Trauer der Nation um einen edlen Toten, um
-				den Mailänder <persName key="manzoni.alessandro">Alessandro Manzoni</persName>, den
-				Dichter der „promessi sposi“. Dieser Zug adelt <persName key="verdi.giuseppe"
-					>Verdi’s</persName> Schöpfung von vornherein. Um so höher müssen wir aber auch
-				die weihevolle Aufführung im <placeName key="berlin.hofoper">Opernhause</placeName>
-				stellen. Das Duett „<title key="verdi.requiem.2.recordare" type="mus">recordare, Jesu
-					pie</title>“, von Frl. <persName key="brandt.marianne" role="soloist.mezzo"
-					>Brandt</persName> und Frl. <persName key="lehmann.lilli"
-					role="soloist.soprano">Lehmann</persName> gesungen, war wohl geeignet, eine
-				religiöse Stimmung in den Hörern zu erwecken, und in gleicher Weise erhob sich das
-					„<title key="verdi.requiem.6" type="mus">lux aeterna<surplus resp="tr"
-				>e</surplus></title>“ gegen den Schluß zu einer mächtig ergreifenden Wirkung. Auch
-				hier war es der Mezzosopran des Frl. <persName key="brandt.marianne"
-					role="soloist.mezzo">Brandt</persName>, der in Verbindung mit der Klangfülle des
-					<persName key="betz.franz" role="soloist.basso">Betz’schen</persName> Bariton
-				und dem schönen Vortrag des Frl. <persName key="lehmann.lilli"
-					role="soloist.soprano">Lehmann</persName> und des Herrn <persName
-					key="ernst.heinrich" role="soloist.tenor">Ernst</persName> eine innerlich
-				befriedigende Stimmung gewährte. Dem Sopran ist ein ziemlich beträchtlicher Antheil
-				an der Gesammtarbeit zugewiesen und Frl. <persName key="lehmann.lilli"
-					role="soloist.soprano">Lehmann</persName> entledigte sich derselben mit
-				gewohnter Sicherheit, der vielleicht hier und da etwas größere Vorsicht einen noch
-				höheren Glanz hätte verleihen, wie auch die Wärme des ausdrucks mitunter stärker
-				hätte ausstrahlen können. Das Duett „<title key="verdi.requiem.2.recordare" type="mus"
-					>recordare</title>“ und das „<title key="verdi.requiem.5" type="mus">agnus dei</title>“
-				waren für die beiden Damen ebenso lichte Höhepunkte, wie das „<title
-					key="verdi.requiem.2.confutatis" type="mus">confutatis maledictis</title>“ für Herrn
-					<persName key="betz.franz" role="soloist.basso">Betz</persName>, der hier seine
-				edle Tonbildung zur vollsten Geltung bringen konnte.</p>
+					key="verdi.requiem" type="mus">Requiem</title> geschieht. Wird doch außerdem
+				auch bei diesem Werke der Mangel wahrhaft tiefer Religiosität durch den Impuls
+				ersetzt, dem es seine Entstehung verdankt; durch die Trauer der Nation um einen
+				edlen Toten, um den Mailänder <persName key="manzoni.alessandro">Alessandro
+					Manzoni</persName>, den Dichter der „promessi sposi“. Dieser Zug adelt <persName
+					key="verdi.giuseppe">Verdi’s</persName> Schöpfung von vornherein. Um so höher
+				müssen wir aber auch die weihevolle Aufführung im <placeName key="berlin.hofoper"
+					>Opernhause</placeName> stellen. Das Duett „<title
+					key="verdi.requiem.2.recordare" type="mus">recordare, Jesu pie</title>“, von
+				Frl. <persName key="brandt.marianne" role="soloist.mezzo">Brandt</persName> und Frl.
+					<persName key="lehmann.lilli" role="soloist.soprano">Lehmann</persName>
+				gesungen, war wohl geeignet, eine religiöse Stimmung in den Hörern zu erwecken, und
+				in gleicher Weise erhob sich das „<title key="verdi.requiem.6" type="mus">lux
+						aeterna<surplus resp="tr">e</surplus></title>“ gegen den Schluß zu einer
+				mächtig ergreifenden Wirkung. Auch hier war es der Mezzosopran des Frl. <persName
+					key="brandt.marianne" role="soloist.mezzo">Brandt</persName>, der in Verbindung
+				mit der Klangfülle des <persName key="betz.franz" role="soloist.basso"
+					>Betz’schen</persName> Bariton und dem schönen Vortrag des Frl. <persName
+					key="lehmann.lilli" role="soloist.soprano">Lehmann</persName> und des Herrn
+					<persName key="ernst.heinrich" role="soloist.tenor">Ernst</persName> eine
+				innerlich befriedigende Stimmung gewährte. Dem Sopran ist ein ziemlich
+				beträchtlicher Antheil an der Gesammtarbeit zugewiesen und Frl. <persName
+					key="lehmann.lilli" role="soloist.soprano">Lehmann</persName> entledigte sich
+				derselben mit gewohnter Sicherheit, der vielleicht hier und da etwas größere
+				Vorsicht einen noch höheren Glanz hätte verleihen, wie auch die Wärme des ausdrucks
+				mitunter stärker hätte ausstrahlen können. Das Duett „<title
+					key="verdi.requiem.2.recordare" type="mus">recordare</title>“ und das „<title
+					key="verdi.requiem.5" type="mus">agnus dei</title>“ waren für die beiden Damen
+				ebenso lichte Höhepunkte, wie das „<title key="verdi.requiem.2.confutatis"
+					type="mus">confutatis maledictis</title>“ für Herrn <persName key="betz.franz"
+					role="soloist.basso">Betz</persName>, der hier seine edle Tonbildung zur
+				vollsten Geltung bringen konnte.</p>
 			<p>Ganz besonders aber war es auch der Tüchtigkeit der Chöre zuzuschreiben, daß das Werk
 				in vokaler Beziehung einen so durchaus günstigen Eindruck gewährte. Die Damen
 					<persName key="lammert.minna">Lammert</persName>, <persName key="horina.luise"
@@ -144,24 +149,25 @@
 				mochte. Gerade die Chöre sind allerdings einfach durch grelle Orchesterwirkungen
 				illustrirt, aber andererseits zeigt sich in ihnen doch auch auffallend der große
 				Unterschied zwischen <persName key="rossini.gioachino">Rossini’s</persName>
-				<title key="rossini.stabat-mater" type="mus">Stabat mater</title>, wo der opernhafte Charakter
-				viel mehr hervortritt; namentlich bei dem „<title n="domine-jesu"
-					key="verdi.requiem.3" type="mus">Domine Jesu Christe</title>“ im Beginn des <title
+				<title key="rossini.stabat-mater" type="mus">Stabat mater</title>, wo der opernhafte
+				Charakter viel mehr hervortritt; namentlich bei dem „<title key="verdi.requiem.3"
+					n="domine-jesu" type="mus">Domine Jesu Christe</title>“ im Beginn des <title
 					key="verdi.requiem.3" type="mus">Offertoriums</title> erreicht bei <persName
 					key="verdi.giuseppe">Verdi</persName> die Wirkung eine vollkommen erhabene
 				Bedeutung, die allerdings weder an die gläubige Innigkeit <persName
 					key="mozart.wolfgang-amadeus">Mozart’s</persName> noch an die Tiefe <persName
-					key="beethoven.ludwig-van">Beethoven’s</persName> heranreicht, aber immerhin
-				das Bestreben zu erkennen giebt, dem Charakter deutscher Musik nahe zu treten. Wie
-				schon in der erwähnten vortrefflichen Abhandlung über die Dresdener Aufführung
-				ausgesprochen wurde, ist der gesuchte Effekt des „<title n="mors-stupebit"
-					key="verdi.requiem.2.tuba-mirum" type="mus">mors stupebit</title>“, wobei der
-				Solo-Baßsänger das Wort mors vereinzelt ertönen läßt und die große Trommel mit
-				dumpfem Schlage antwortet, gar zu äußerlich und auf leicht entzündbare italienische
-				Gemüther berechnet; ebenso blieb die etwas zu deutliche Reminiscenz beim „<title
-					key="verdi.requiem.5" type="mus">agnus dei</title>“, welches sonst von großer Schönheit im
-				Gesammteindruck war, nicht unbemerkt und wohl jeder Hörer wurde dabei an das Gebet
-				in der „<title key="auber.la-muette-de-portici" type="mus">Stummen von Portici</title>“
+					key="beethoven.ludwig-van">Beethoven’s</persName> heranreicht, aber immerhin das
+				Bestreben zu erkennen giebt, dem Charakter deutscher Musik nahe zu treten. Wie schon
+				in der erwähnten vortrefflichen Abhandlung über die Dresdener Aufführung
+				ausgesprochen wurde, ist der gesuchte Effekt des „<title
+					key="verdi.requiem.2.tuba-mirum" n="mors-stupebit" type="mus">mors
+					stupebit</title>“, wobei der Solo-Baßsänger das Wort mors vereinzelt ertönen
+				läßt und die große Trommel mit dumpfem Schlage antwortet, gar zu äußerlich und auf
+				leicht entzündbare italienische Gemüther berechnet; ebenso blieb die etwas zu
+				deutliche Reminiscenz beim „<title key="verdi.requiem.5" type="mus">agnus
+					dei</title>“, welches sonst von großer Schönheit im Gesammteindruck war, nicht
+				unbemerkt und wohl jeder Hörer wurde dabei an das Gebet in der „<title
+					key="auber.la-muette-de-portici" type="mus">Stummen von Portici</title>“
 				erinnert. Manche Aufstellungen, welche durch die Dresdener Aufführung hervorgerufen
 				wurden, dürften sich hier vielleicht etwas modifiziren lassen, da es nicht
 				ausbleiben kann, daß die Behandlung einzelner Theile aus verschiedenen

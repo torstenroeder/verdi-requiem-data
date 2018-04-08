@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Gazzetta musicale di Milano, 21. Juni 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/gmm_1874-06-21_san-marco.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Illustration</term>
@@ -50,10 +51,11 @@
 					key="mailand">MILANO</placeName> — <date when-iso="1874-05-22">22 MAGGIO
 					1874</date></p>
 			<p rend="italic"><rs key="mailand.1874.1" type="event">Prima esecuzione della <hi
-						rend="straight"><title key="verdi.requiem" type="mus">MESSA DA REQUIEM</title></hi> di
-						<hi rend="straight"><persName key="verdi.giuseppe">VERDI</persName></hi>
-					per l’anniversario della morte di <hi rend="straight"><persName
-							key="manzoni.alessandro">ALESSANDRO MANZONI</persName></hi>.</rs></p>
+						rend="straight"><title key="verdi.requiem" type="mus">MESSA DA
+							REQUIEM</title></hi> di <hi rend="straight"><persName
+							key="verdi.giuseppe">VERDI</persName></hi> per l’anniversario della
+					morte di <hi rend="straight"><persName key="manzoni.alessandro">ALESSANDRO
+							MANZONI</persName></hi>.</rs></p>
 		</body>
 	</text>
 </TEI>

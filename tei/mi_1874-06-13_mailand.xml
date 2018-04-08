@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Le Monde Illustré, Paris, 13. Juni 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mi_1874-06-13.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Illustration</term>
@@ -46,12 +47,12 @@
 			</figure>
 			<p><rs key="mailand.1874.1" type="event"><placeName key="mailand">MILAN</placeName>.
 					Ecécution de la <title key="verdi.requiem" type="mus">messe du <hi rend="italic"
-							>Requiem</hi></title> de <persName key="verdi.giuseppe"
-						>Verdi</persName> dans <placeName key="mailand.san-marco">l’église San
-						Marco</placeName> à l’occasion de l’anniversaire de la mort de <persName
-						key="manzoni.alessandro">Manzoni</persName>.</rs> — D’apres le croquis de
-				M. <persName key="snevel.oswald">Snevel</persName>. (Voir la Chronique musicale,
-				page 371.)</p>
+							>Requiem</hi></title> de <persName key="verdi.giuseppe">Verdi</persName>
+					dans <placeName key="mailand.san-marco">l’église San Marco</placeName> à
+					l’occasion de l’anniversaire de la mort de <persName key="manzoni.alessandro"
+						>Manzoni</persName>.</rs> — D’apres le croquis de M. <persName
+					key="snevel.oswald">Snevel</persName>. (Voir la Chronique musicale, page
+				371.)</p>
 		</body>
 	</text>
 </TEI>

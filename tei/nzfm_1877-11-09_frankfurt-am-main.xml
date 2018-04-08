@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 9. November 1877</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1877-11-09_frankfurt-am-main.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="frankfurt-am-main"/></creation>
+			<creation>
+				<placeName key="frankfurt-am-main"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -40,11 +41,14 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18771109&amp;seite=6"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="490" type="initial"/>
+		<front rend="fraktur">
+			<pb n="490"/>
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
-			<cb break="null" n="490b" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="490b"/>
 			<p><rs key="frankfurt-am-main.1877.1" type="event"><hi rend="widespace"><placeName
 							key="frankfurt-am-main">Frankfurt a/M.</placeName></hi>
 					<gap resp="tr"/> Am <date when-iso="1876-10-26">26. October</date> zweites
@@ -55,10 +59,9 @@
 						key="darmstadt">Darmstadt</placeName> und <hi rend="antiqua">Dr.</hi>
 					<persName key="krauss.emil">Emil Krauß</persName> aus <placeName key="wien"
 						>Wien</placeName> sowie dem <orgName key="frankfurt.caecilienverein"
-						>Cäcilienverein</orgName>: <persName key="verdi.giuseppe"
-						>Verdi’s</persName>
-					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> und
-						<persName key="schumann.robert">Schumann’s</persName>
+						>Cäcilienverein</orgName>: <persName key="verdi.giuseppe">Verdi’s</persName>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>
+					und <persName key="schumann.robert">Schumann’s</persName>
 					<title key="schumann.symphonie-4" type="mus">Dmollsymphonie</title>.</rs>
 				<gap resp="tr"/></p>
 		</body>

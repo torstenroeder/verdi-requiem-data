@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Revue des Deux Mondes, Paris, 15. Juni 1874</title>
-				<author><persName key="blaze.henri"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="blaze.henri"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/rddm_1874-06-15.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="paris"/></creation>
+			<creation>
+				<placeName key="paris"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -248,7 +251,7 @@
 				chef-d’oeuvre, et pour nous avoir appris que les belles voix sont encore de ce
 				monde.</p>
 			<pb break="null" n="955" type="skipped"/>
-			<p rend="right">F. DE LAGENEVAIS.</p>
+			<signed rend="right">F. DE LAGENEVAIS.</signed>
 		</body>
 	</text>
 </TEI>

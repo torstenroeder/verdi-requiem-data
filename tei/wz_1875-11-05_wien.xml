@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Zeitung, 5. November 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1875-11-05_theater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -39,21 +40,28 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18751105&amp;seite=6"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
+			<pb n="430"/>
+			<cb n="a"/>
 			<head rend="larger">Kleine Chronik.</head>
-			<gap resp="tr"/>
-			<p>(<hi rend="widespace">Theater</hi>.) <rs key="wien.1875a.3" type="event"><date
-						when-iso="1875-11-07"><hi rend="widespace">Sonntag</hi>, den 7. d.
-					M.</date>, gelangt im <hi rend="widespace"><placeName
+			<head rend="smaller"><hi rend="bold"><placeName key="wien">Wien</placeName>,</hi>
+				<date when-iso="1875-11-04">4. November</date></head>
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<cb n="b"/>
+			<p rend="smaller">(<hi rend="widespace">Theater</hi>.) <rs key="wien.1875a.3"
+					type="event"><date when-iso="1875-11-07"><hi rend="widespace">Sonntag</hi>, den
+						7. d. M.</date>, gelangt im <hi rend="widespace"><placeName
 							key="wien.hof-operntheater">k. k. Hofoperntheater</placeName></hi>
 					<persName key="verdi.giuseppe">Verdi’s</persName> „<hi rend="widespace"><title
-							key="verdi.requiem" type="mus">Requiem</title></hi>“ in dieser Saison zum letzten
-					Male zur Aufführung.</rs> Da <rs key="wien.1875a.1 wien.1875a.2" type="event"
-					>die beiden ersten Aufführungen</rs> dieses Werkes bei gänzlich ausverkauftem
-				Hause stattfanden und der Andrang zur Vormerkung von Sitzplätzen ungewöhnlich
-				bedeutend ist, so sieht sich die Direction veranlaßt, für <rs key="wien.1875a.3"
-					type="event">diese dritte und letzte Vorstellung</rs> das Abonnement
-				aufzuheben.</p>
+							key="verdi.requiem" type="mus">Requiem</title></hi>“ in dieser Saison
+					zum letzten Male zur Aufführung.</rs> Da <rs key="wien.1875a.1 wien.1875a.2"
+					type="event">die beiden ersten Aufführungen</rs> dieses Werkes bei gänzlich
+				ausverkauftem Hause stattfanden und der Andrang zur Vormerkung von Sitzplätzen
+				ungewöhnlich bedeutend ist, so sieht sich die Direction veranlaßt, für <rs
+					key="wien.1875a.3" type="event">diese dritte und letzte Vorstellung</rs> das
+				Abonnement aufzuheben.</p>
 		</body>
 	</text>
 </TEI>

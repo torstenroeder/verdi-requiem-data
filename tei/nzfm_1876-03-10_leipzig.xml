@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 10. März 1876 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-03-10_leipzig.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -40,23 +41,27 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760310&amp;seite=6"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="113b" type="initial"/>
+		<front rend="fraktur">
+			<cb n="113b"/>
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
-			<pb break="null" n="114" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<pb n="114"/>
 			<p><rs key="leipzig.1876.1" type="event"><placeName key="leipzig">Leipzig</placeName>.
 						<gap resp="tr"/> Am <date when-iso="1876-03-09">9.</date> im neunzehnten
 						Gewandhaus<supplied resp="tr">concert</supplied> mit Frau <hi
 						rend="widespace"><persName key="peschka-leutner.minna"
 						>Peschka</persName></hi>, Frl. <hi rend="widespace"><persName
 							key="nanitz.minna">Nanitz</persName></hi> aus <placeName key="dresden"
-						>Dresden</placeName>, HH. <hi rend="widespace"><persName
-							key="pielke.walter">W. Pielke</persName></hi> und <hi rend="widespace"
-							><persName key="koehler.hans">Köhler</persName></hi> aus <placeName
-						key="dresden">Dresden</placeName>: <hi rend="widespace"><persName
-							key="verdi.giuseppe">Verdi’s</persName></hi>
-					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>.</rs> —</p>
+						>Dresden</placeName>, HH. <hi rend="widespace"><persName key="pielke.walter"
+							>W. Pielke</persName></hi> und <hi rend="widespace"><persName
+							key="koehler.hans">Köhler</persName></hi> aus <placeName key="dresden"
+						>Dresden</placeName>: <hi rend="widespace"><persName key="verdi.giuseppe"
+							>Verdi’s</persName></hi>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus"
+					>Requiem</title></hi>.</rs> —</p>
 		</body>
 	</text>
 </TEI>

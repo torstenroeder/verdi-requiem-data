@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Illustrierte Musikgeschichte, 1885</title>
-				<author><persName key="naumann.emil"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="naumann.emil"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/naumann_1885_musikgeschichte.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -34,10 +35,10 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="antiqua">
-			<p>Im Jahre <date when-iso="1874">1874</date> überraschte <persName
-					key="verdi.giuseppe">Verdi</persName> die musikalische Welt, die ihn nur als
-				dramatischen Komponisten zu feiern gewohnt war, durch ein dem Gebiet der
-				Kirchenmusik angehörendes Werk: durch sein großes „<title key="verdi.requiem" type="mus"
+			<p>Im Jahre <date when-iso="1874">1874</date> überraschte <persName key="verdi.giuseppe"
+					>Verdi</persName> die musikalische Welt, die ihn nur als dramatischen
+				Komponisten zu feiern gewohnt war, durch ein dem Gebiet der Kirchenmusik
+				angehörendes Werk: durch sein großes „<title key="verdi.requiem" type="mus"
 					>Requiem</title>“, eine in erhabenem Stil komponierte und von ergreifendem
 				Ausdruck und jugendlichem Feuer erfüllte Tondichtung, die umsomehr Zeugnis für die
 				seltene Begabung ihres Schöpfers ablegt, als er sie in seinem 61. Jahre schrieb.</p>

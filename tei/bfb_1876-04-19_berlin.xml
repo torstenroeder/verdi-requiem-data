@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Berliner Fremdenblatt, 19. April 1876</title>
-				<author><persName key="breslaur.emil"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="breslaur.emil"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/bfb_1876-04-19_berlin.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,14 +18,16 @@
 					<placeName key="berlin"/>
 					<date when-custom="wed" when-iso="1876-04-19"/>
 					<biblScope unit="issue">91</biblScope>
-					<biblScope unit="subIssue">91</biblScope>
+					<biblScope unit="subIssue">Erstes Blatt</biblScope>
 					<series>bfb</series>
 					<biblScope unit="page">1</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="berlin"/></creation>
+			<creation>
+				<placeName key="berlin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -45,35 +48,35 @@
 					<title key="verdi.requiem" type="mus">Requiem</title> gelangte am <date
 						when-iso="1876-04-15">15. d. M.</date> auch im hiesigen <placeName
 						key="berlin.hofoper">Opernhause</placeName> zur Aufführung</rs>, nachdem es
-				bereits auf den Hofbühnen von <rs key="wien.1875" type="event"><placeName
-						key="wien">Wien</placeName></rs> und <rs key="dresden.1876" type="event"
-						><placeName key="dresden">Dresden</placeName></rs>, in <rs
-					key="mailand.1874" type="event"><placeName key="mailand"
-					>Mailand</placeName></rs>, <rs key="florenz.1875" type="event"><placeName
-						key="florenz">Florenz</placeName></rs> und andern Orten mit Erfolg gesungen
-				worden ist. Das Werk wurde zum Todestage <persName key="manzoni.alessandro"
-					>Alessandro Manzoni’s</persName>, des auch in <placeName key="deutschland"
+				bereits auf den Hofbühnen von <rs key="wien.1875" type="event"><placeName key="wien"
+						>Wien</placeName></rs> und <rs key="dresden.1876" type="event"><placeName
+						key="dresden">Dresden</placeName></rs>, in <rs key="mailand.1874"
+					type="event"><placeName key="mailand">Mailand</placeName></rs>, <rs
+					key="florenz.1875" type="event"><placeName key="florenz"
+					>Florenz</placeName></rs> und andern Orten mit Erfolg gesungen worden ist. Das
+				Werk wurde zum Todestage <persName key="manzoni.alessandro">Alessandro
+					Manzoni’s</persName>, des auch in <placeName key="deutschland"
 					>Deutschland</placeName>, am meisten wohl durch seine »Verlobten« bekannten
 				Dichters, komponirt. Hätte <persName key="verdi.giuseppe">Verdi</persName> sein
 					<title key="verdi.requiem" type="mus">Requiem</title> vielleicht nach dem <title
 					key="verdi.rigoletto" type="mus">Rigoletto</title> oder der <title
-					key="verdi.la-traviata" type="mus">Traviata</title> komponirt, jene Opern, welche sich
-				durch die materielle Natur der herausfordernden Effekte, durch Flachheit und
-				Trivialität der Melodien, durch sorglose, leichtfertige Arbeit auszeichnen, kein
+					key="verdi.la-traviata" type="mus">Traviata</title> komponirt, jene Opern,
+				welche sich durch die materielle Natur der herausfordernden Effekte, durch Flachheit
+				und Trivialität der Melodien, durch sorglose, leichtfertige Arbeit auszeichnen, kein
 				Deutscher hätte sich um das Werk bekümmert, ja man hätte es wohl gar einer
 				Blasphemie gleich erachtet, daß ein Komponist wie <persName key="verdi.giuseppe"
 					>V.</persName> es gewagt, seine Hand nach einem so heiligen Texte auszustrecken.
 				Aber nach dem Erfolge seiner <title key="verdi.aida" type="mus">A<hi rend="antiqua"
-					>ï</hi>da</title>, einer Oper, die sich durch Gewissenhaftigkeit und Fleiß,
+						>ï</hi>da</title>, einer Oper, die sich durch Gewissenhaftigkeit und Fleiß,
 				durch eine Ausführung alles Technischen wie durch Einheitlichkeit des Styls
 				vortheilhaft von Allem abhebt, was <persName key="verdi.giuseppe">V.</persName>
-				jemals geschrieben, durfte auch das <title key="verdi.requiem" type="mus">Requiem</title>
-				einer freundlichen Aufnahme sicher sein; der Erfolg der <title key="verdi.aida" type="mus"
-						>A<hi rend="antiqua">ï</hi>da</title> hat ihm den Weg in die Concertsäle,
-				sogar in die Opernhäuser geebnet. Noch in höherem Maße als die <title
-					key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title> ist in dem <title
-					key="verdi.requiem" type="mus">Requiem</title> ein vollständiger Bruch mit der
-				musikalischen Vergangenheit des Komponisten zu bemerken. Die frühere
+				jemals geschrieben, durfte auch das <title key="verdi.requiem" type="mus"
+					>Requiem</title> einer freundlichen Aufnahme sicher sein; der Erfolg der <title
+					key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title> hat ihm den Weg
+				in die Concertsäle, sogar in die Opernhäuser geebnet. Noch in höherem Maße als die
+					<title key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title> ist in
+				dem <title key="verdi.requiem" type="mus">Requiem</title> ein vollständiger Bruch
+				mit der musikalischen Vergangenheit des Komponisten zu bemerken. Die frühere
 				Leichtfertigkeit und Oberflächlichkeit ist dem Ernst und dem Streben nach Vertiefung
 				gewichen, die süßlichen, charakterlosen Melodien, die rohen dramatischen Effekte
 				sind, Dank dem Einfluß der großen französischen und deutschen Meister, denen
@@ -81,10 +84,10 @@
 				verschwunden, um ausdrucksvollen <cb break="yes" n="1b" type="regular"/>Melodien und
 				einer, jeder Uebertreibung fremden, wahrhaft dramatischen Ausdrucksart Platz zu
 				machen. Die Instrumentation ist fein, durchdacht und stets wirksam. In dem <title
-					key="verdi.requiem" type="mus">Requiem</title> ist auch der Einfluß, welchen deutsche
-				kirchliche Musik auf den Komponisten ausgeübt, unverkennbar, aber mehr der Einfluß
-				von Werken <persName key="mozart.wolfgang-amadeus">Mozarts</persName> und <persName
-					key="beethoven.ludwig-van">Beethovens</persName>, als <persName
+					key="verdi.requiem" type="mus">Requiem</title> ist auch der Einfluß, welchen
+				deutsche kirchliche Musik auf den Komponisten ausgeübt, unverkennbar, aber mehr der
+				Einfluß von Werken <persName key="mozart.wolfgang-amadeus">Mozarts</persName> und
+					<persName key="beethoven.ludwig-van">Beethovens</persName>, als <persName
 					key="bach.johann-sebastian">Bachs</persName>, <persName
 					key="haendel.georg-friedrich">Händels</persName> und der Neueren. Die Werke
 				jener, so künstlerisch bedeutsam sie auch sind, können doch auf die Bezeichnung
@@ -93,8 +96,8 @@
 					key="zelter.carl-friedrich">Zelter</persName> aus diesem Grunde die
 				Zusammenstellung der schönen Musik mit dem Text in <persName
 					key="beethoven.ludwig-van">Beethovens</persName> Oratorium »<title
-					key="beethoven.christus-am-oelberge" type="mus">Christus am Oelberge</title>« eine
-				Unkeuschheit. — <persName key="spohr.louis">Spohr</persName> erzählt in seiner
+					key="beethoven.christus-am-oelberge" type="mus">Christus am Oelberge</title>«
+				eine Unkeuschheit. — <persName key="spohr.louis">Spohr</persName> erzählt in seiner
 				Selbstbiographie, daß, bevor er an die Komposition seiner ersten großen geistlichen
 				Werke ging, er monatelang ernste Studien im einfachen und doppelten Contrapunkt
 				machte und sich in den Styl der geistlichen Werke der alten Meister einzuleben
@@ -114,36 +117,37 @@
 				Styl und die Ausdrucksart der großen Oper. Heben wir vorerst die Stellen hervor,
 				welche durch Wahrheit, Würde und Poesie des Ausdrucks hervorragen und eine wahrhaft
 				fromme Stimmung erzeugen. Da ist das <hi rend="antiqua">»<title
-						key="verdi.requiem.2.quid-sum-miser" type="mus">quid sum miser</title>«</hi> und das
-				darauf folgende <hi rend="antiqua">»<title n="qui-salvandos"
-						key="verdi.requiem.2.rex-tremendae" type="mus">qui salvandos</title>«</hi>, letzteres
-				zwar etwas weltlich, aber von süßestem Wohllaut. Dann das den zweiten Theil des
-				Werkes eröffnende <hi rend="antiqua">»<title n="domine-jesu" key="verdi.requiem.3" type="mus"
-						>domine Jesu Christe</title>«</hi>, das sich durch die edel und melodiös
-				gehaltene Selbständigkeit der vier Stimmen auszeichnet, bis zu der Stelle, wo die
-				Geigen, ganz leise beginnend, hinzutreten und den schönen Eindruck durch opernhaftes
-				Gebahren fast wieder zerstören. Als beste Nummer des Werkes rühmen wir das <hi
-					rend="antiqua">»<title n="hostias" key="verdi.requiem.3" type="mus">hostias et preces
+						key="verdi.requiem.2.quid-sum-miser" type="mus">quid sum miser</title>«</hi>
+				und das darauf folgende <hi rend="antiqua">»<title
+						key="verdi.requiem.2.rex-tremendae" n="qui-salvandos" type="mus">qui
+						salvandos</title>«</hi>, letzteres zwar etwas weltlich, aber von süßestem
+				Wohllaut. Dann das den zweiten Theil des Werkes eröffnende <hi rend="antiqua"
+						>»<title key="verdi.requiem.3" n="domine-jesu" type="mus">domine Jesu
+						Christe</title>«</hi>, das sich durch die edel und melodiös gehaltene
+				Selbständigkeit der vier Stimmen auszeichnet, bis zu der Stelle, wo die Geigen, ganz
+				leise beginnend, hinzutreten und den schönen Eindruck durch opernhaftes Gebahren
+				fast wieder zerstören. Als beste Nummer des Werkes rühmen wir das <hi rend="antiqua"
+						>»<title key="verdi.requiem.3" n="hostias" type="mus">hostias et preces
 						tibi</title>«</hi>, das von ergreifender Wirkung ist. Die Melodie des Tenor,
 				welcher beginnt, ist überaus rührend und ihm schließen sich klagend die andern
 				Stimmen nach und nach an. Das Unisono des Chores auf ein und demselben Tone, womit
-				das <title key="verdi.requiem.7" type="mus">Finale</title> beginnt, hat zwar etwas von einem
-				Operneffekt, wirkt aber nicht gerade abstoßend, obgleich es im strengen Style nicht
-				zur Nachahmung empfohlen werden dürfte. Es macht den Eindruck eines halb leise von
-				einer Gemeinde im Takte gesprochenen Gebetes. In der Fuge des Schlußchors <hi
-					rend="antiqua">»<title n="libera-me.fuga" key="verdi.requiem.7" type="mus">libera me
-						domine</title>«</hi> begegnen wir einem sehr charakteristischen Thema, das
-				geschickt und wirkungsvoll behandelt wird; sowohl im Aufbau wie in der Stimmung
-				zeigt sich hier der Einfluß unserer großen Kirchen-Komponisten. Leider bleibt die
-				Stimmung nicht bis zu Ende. Das <cb break="yes" n="1d" type="regular"/><hi
-					rend="antiqua">crescendo</hi> bis <hi rend="antiqua">»sunt et«</hi> mit dem
-				plötzlichen <hi rend="antiqua">piano</hi> auf dem unmittelbar folgenden <hi
+				das <title key="verdi.requiem.7" type="mus">Finale</title> beginnt, hat zwar etwas
+				von einem Operneffekt, wirkt aber nicht gerade abstoßend, obgleich es im strengen
+				Style nicht zur Nachahmung empfohlen werden dürfte. Es macht den Eindruck eines halb
+				leise von einer Gemeinde im Takte gesprochenen Gebetes. In der Fuge des Schlußchors
+					<hi rend="antiqua">»<title key="verdi.requiem.7" n="libera-me.fuga" type="mus"
+						>libera me domine</title>«</hi> begegnen wir einem sehr charakteristischen
+				Thema, das geschickt und wirkungsvoll behandelt wird; sowohl im Aufbau wie in der
+				Stimmung zeigt sich hier der Einfluß unserer großen Kirchen-Komponisten. Leider
+				bleibt die Stimmung nicht bis zu Ende. Das <cb break="yes" n="1d" type="regular"
+					/><hi rend="antiqua">crescendo</hi> bis <hi rend="antiqua">»sunt et«</hi> mit
+				dem plötzlichen <hi rend="antiqua">piano</hi> auf dem unmittelbar folgenden <hi
 					rend="antiqua">»terra«</hi>, so wie der hüpfende Rhythmus des Chores und
 				Orchesters lassen uns nicht zu ungetheiltem Genuß des großartig angelegten Satzes
 				kommen. Herrscht in dem, was wir bisher erwähnten, zumeist ein würdiger Ton, so
 				haben wir in dem Uebrigen fast nur einen Zwiespalt zwischen Wort und Ton, eine
-				Vergewaltigung der Textworte zu beklagen. Gleich im <title n="requiem-aeternam"
-					key="verdi.requiem.1" type="mus">ersten Chore</title>, der begleitet von
+				Vergewaltigung der Textworte zu beklagen. Gleich im <title key="verdi.requiem.1"
+					n="requiem-aeternam" type="mus">ersten Chore</title>, der begleitet von
 				Streichinstrumenten <hi rend="antiqua">con sordini</hi> vielversprechend und
 				stimmungsvoll anhebt, treffen wir auf eine durchaus widersinnige Textzerreißung.
 				Zwischen <hi rend="antiqua">aeternam</hi> und <hi rend="antiqua">dona</hi>, zwischen
@@ -153,28 +157,29 @@
 				Chor, und die Pause wird durch kurze Instrumental-Zwischenspiele ausgefüllt. Man
 				würde jeden deutschen Requiem-Komponisten bittre Vorwürfe machen, wenn er sich je so
 				etwas zu Schulden kommen ließe. Das wilde <hi rend="antiqua">»<title
-						key="verdi.requiem.2.dies-irae" type="mus">dies irae</title>«</hi> bis zu <hi
-					rend="antiqua">»<title n="quantus-tremor" key="verdi.requiem.2.dies-irae" type="mus"
-						>quando judex</title>«</hi> würde als Hunnenchor in der Oper »<title
-					key="verdi.attila" type="mus">Attila</title>« desselben Komponisten gewiß sehr wirksam
-				sein. Die rasenden Gänge der Violinen, die Aufwendung der Blas- und
-				Schlag-Instrumente, die mit voller Kraft eintreten, lassen eher die orchestrale
+						key="verdi.requiem.2.dies-irae" type="mus">dies irae</title>«</hi> bis zu
+					<hi rend="antiqua">»<title key="verdi.requiem.2.dies-irae" n="quantus-tremor"
+						type="mus">quando judex</title>«</hi> würde als Hunnenchor in der Oper
+					»<title key="verdi.attila" type="mus">Attila</title>« desselben Komponisten
+				gewiß sehr wirksam sein. Die rasenden Gänge der Violinen, die Aufwendung der Blas-
+				und Schlag-Instrumente, die mit voller Kraft eintreten, lassen eher die orchestrale
 				Schilderung der wilden Jagd, als die Begleitung zu einem <hi rend="antiqua">»dies
 					irae«</hi> vermuthen. In dem nächsten Chore <hi rend="antiqua">»<title
-						key="verdi.requiem.2.tuba-mirum" type="mus">tuba mirum</title>«</hi>, in dem sich aber
-				der Komponist nicht der Posaune, sondern statt ihrer iniger Trompeten bedient, wirkt
-				das viermal wiederkehrende <hi rend="antiqua">»<title n="mors-stupebit"
-						key="verdi.requiem.2.tuba-mirum" type="mus">mors</title>«</hi> mit dem Schlage der
-				großen Trommel nach jeder Wiederholung nahezu komisch. Ebenso wild und rauschend wie
-				das <hi rend="antiqua">»<title key="verdi.requiem.2.dies-irae" type="mus">dies
-					irae</title>«</hi> ist der Chor <hi rend="antiqua">»<title
-						key="verdi.requiem.2.lacrymosa" type="mus">lacrymosa dies illa</title>«</hi> gehalten,
-				hier kommen noch Becken, Posaunen und große Trommel zu <cb break="yes" n="1e"
-					type="regular"/>der ohnehin starken Instrumentalbegleitung. Mit ganz besonderem
-				Ernst geht ein deutscher Komponist, der ein Requiem schreibt, an die Komposition des
-					<hi rend="antiqua">»<title key="verdi.requiem.4" type="mus">sanctus</title>«</hi>. Da
-				hinein sucht er das Frömmste und Erhabenste zu legen, was sein Herz bewegt. Das <hi
-					rend="antiqua">»<title key="verdi.requiem.4" type="mus">sanctus</title>«</hi> in dem
+						key="verdi.requiem.2.tuba-mirum" type="mus">tuba mirum</title>«</hi>, in dem
+				sich aber der Komponist nicht der Posaune, sondern statt ihrer iniger Trompeten
+				bedient, wirkt das viermal wiederkehrende <hi rend="antiqua">»<title
+						key="verdi.requiem.2.tuba-mirum" n="mors-stupebit" type="mus"
+					>mors</title>«</hi> mit dem Schlage der großen Trommel nach jeder Wiederholung
+				nahezu komisch. Ebenso wild und rauschend wie das <hi rend="antiqua">»<title
+						key="verdi.requiem.2.dies-irae" type="mus">dies irae</title>«</hi> ist der
+				Chor <hi rend="antiqua">»<title key="verdi.requiem.2.lacrymosa" type="mus">lacrymosa
+						dies illa</title>«</hi> gehalten, hier kommen noch Becken, Posaunen und
+				große Trommel zu <cb break="yes" n="1e" type="regular"/>der ohnehin starken
+				Instrumentalbegleitung. Mit ganz besonderem Ernst geht ein deutscher Komponist, der
+				ein Requiem schreibt, an die Komposition des <hi rend="antiqua">»<title
+						key="verdi.requiem.4" type="mus">sanctus</title>«</hi>. Da hinein sucht er
+				das Frömmste und Erhabenste zu legen, was sein Herz bewegt. Das <hi rend="antiqua"
+						>»<title key="verdi.requiem.4" type="mus">sanctus</title>«</hi> in dem
 					<persName key="verdi.giuseppe">Verdi’schen</persName> Werke aber erscheint fast
 				wie eine Blasphemie. Die Figuration der Geigen zu dem Chore klingt wie Balletmusik
 				zu einem Tanzchor, den etwa Landleute in der Oper singen. — Nach alledem wird es
@@ -191,16 +196,16 @@
 					rend="widespace"><persName key="betz.franz">Betz</persName></hi> und <hi
 					rend="widespace"><persName key="ernst.heinrich">Ernst</persName></hi> als
 				Solisten war durch den Herrn Kapellmeister <hi rend="widespace"><persName
-						key="radecke.robert">Radecke</persName></hi>, der auch dirigirte,
-				sorgfältig vorbereitet. Von Vortheil wäre es gewesen, entweder den Chor zu
-				verstärken, oder das Orchester zu verringern, denn die Macht des Letzteren war
-				zuweilen so gewaltig, daß der Chor fast erdrückt wurde. So sehr wir uns auch an der
-				edlen Art erfreuten, in der Herr <persName key="betz.franz">Betz</persName> seine
-				Baßparthie zur Geltung brachte, wir hätten sie doch lieber von einer tieferen Stimme
-				mit ausgesprochenem Baßtimbre, vielleicht von der der Herren <persName
-					key="fricke.august-ludwig">Fricke</persName> oder <persName key="krolop.franz"
-					>Krolop</persName>, gehört. Ein wuchtigeres Fundament hätte auch den
-				Soloquartetten einen noch größeren Reiz verliehen.</p>
+						key="radecke.robert">Radecke</persName></hi>, der auch dirigirte, sorgfältig
+				vorbereitet. Von Vortheil wäre es gewesen, entweder den Chor zu verstärken, oder das
+				Orchester zu verringern, denn die Macht des Letzteren war zuweilen so gewaltig, daß
+				der Chor fast erdrückt wurde. So sehr wir uns auch an der edlen Art erfreuten, in
+				der Herr <persName key="betz.franz">Betz</persName> seine Baßparthie zur Geltung
+				brachte, wir hätten sie doch lieber von einer tieferen Stimme mit ausgesprochenem
+				Baßtimbre, vielleicht von der der Herren <persName key="fricke.august-ludwig"
+					>Fricke</persName> oder <persName key="krolop.franz">Krolop</persName>, gehört.
+				Ein wuchtigeres Fundament hätte auch den Soloquartetten einen noch größeren Reiz
+				verliehen.</p>
 			<p rend="right"><hi rend="widespace"><persName key="breslaur.emil">Emil
 						Breslaur</persName></hi>.</p>
 		</body>

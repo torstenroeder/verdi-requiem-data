@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Hamburger Nachrichten, 8. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/hn_1876-01-08_stadt-theater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="hamburg"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -53,9 +54,10 @@
 					<hi rend="widespace">Zweite Vorstellung</hi><lb break="yes"/> mit gänzlich
 					aufgehobenem Abonnement.<lb break="yes"/> Zum 1. Male:<lb break="yes"/>
 					<hi rend="widespace bold antiqua"><title key="verdi.requiem" type="mus"
-						>Requiem</title></hi><lb break="yes"/> von <persName key="verdi.giuseppe"
-						>Giuseppe Verdi</persName>.</rs><lb break="yes"/> (Zum Todestag <persName
-					key="manzoni.alessandro">Alessandro Manzoni’s</persName> componirt.)</p>
+							>Requiem</title></hi><lb break="yes"/> von <persName
+						key="verdi.giuseppe">Giuseppe Verdi</persName>.</rs><lb break="yes"/> (Zum
+				Todestag <persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>
+				componirt.)</p>
 			<p><hi rend="bold">Soli:</hi> Fräulein <hi rend="bold"><persName key="froehlich.xxx"
 						role="soloist.soprano">Fröhlich</persName></hi> (Sopran), Fräulein <hi
 					rend="bold"><persName key="boree.minna" role="soloist.mezzo"

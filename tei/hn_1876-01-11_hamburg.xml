@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Hamburger Nachrichten, 11. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/hn_1876-01-11_hamburg.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="hamburg"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -73,27 +74,27 @@
 				überkommende Ernst trieb ihn zu Versuchen auf dem von ihm früher nie begangenen
 				Gebiete der Kirchenmusik. Er schrieb neben manchen kleineren Dingen das <title
 					key="rossini.stabat-mater" type="mus">Stabat mater</title> und die große <title
-					key="rossini.petite-messe-solennelle" type="mus">Messe</title>, die beide selbst oder
-				vermöge der geschäftigen Vertreibung dieser Werke durch den bescheidenen, sich
+					key="rossini.petite-messe-solennelle" type="mus">Messe</title>, die beide selbst
+				oder vermöge der geschäftigen Vertreibung dieser Werke durch den bescheidenen, sich
 				selbst richtig schätzenden Meister, sondern durch die glücklichen Compatrioten, die
 				in ihm den alten Ruhm kirchlicher Tonkunst wieder aufblühen sahen, oder durch
 				eifrige ambulirende Kunstunternehmer, die mit dem Speck der großen Namen ihre Mäuse
 				zu fangen verstehen. Die schönen, süßen, salon-frommen Arien und Duetten des <title
-					key="rossini.stabat-mater" type="mus">Stabat mater</title> sind außerhalb Italiens und der
-				specifisch katholischen Länder heute verklungen; mit der <title
-					key="rossini.petite-messe-solennelle" type="mus">Messe</title> machten die Impresarii ein
-				zweifelhaftes Geschäft. Der alte Lebemann <persName key="rossini.gioachino"
-					>Rossini</persName> geberdete sich nur in der ihm eigenen eleganten Weise als
-				Frommer; er überzeugte nicht die Strengen, die seine Theaterlaufbahn ihm nie
-				vergaben und in seiner Kirchenmusik unheilige Klänge entdeckten. Er wollte auch
-				wirklich nur die Frömmigkeit in ihrer schönen sinnlichen Erscheinung, ohne ihre
-				herbe Vertiefung und ohne die Märtyrerkrone der Askese. <persName
-					key="rossini.gioachino">Rossini</persName> war abgethan, als er starb und
-					<placeName key="italien">Italien</placeName> hatte also immer noch keinen
-				großen Kirchencomponisten. Da auf einmal erschallt die wunderbare Kunde: Maestro
-					<persName key="verdi.giuseppe">Verdi</persName>, der Beherrscher der Oper, der
-				ganzen romanischen Welt (auch der germanischen?) ist ins fromme Lager übergetreten,
-				er hat ein <title key="verdi.requiem" type="mus">Requiem</title> geschrieben als wirklicher
+					key="rossini.stabat-mater" type="mus">Stabat mater</title> sind außerhalb
+				Italiens und der specifisch katholischen Länder heute verklungen; mit der <title
+					key="rossini.petite-messe-solennelle" type="mus">Messe</title> machten die
+				Impresarii ein zweifelhaftes Geschäft. Der alte Lebemann <persName
+					key="rossini.gioachino">Rossini</persName> geberdete sich nur in der ihm eigenen
+				eleganten Weise als Frommer; er überzeugte nicht die Strengen, die seine
+				Theaterlaufbahn ihm nie vergaben und in seiner Kirchenmusik unheilige Klänge
+				entdeckten. Er wollte auch wirklich nur die Frömmigkeit in ihrer schönen sinnlichen
+				Erscheinung, ohne ihre herbe Vertiefung und ohne die Märtyrerkrone der Askese.
+					<persName key="rossini.gioachino">Rossini</persName> war abgethan, als er starb
+				und <placeName key="italien">Italien</placeName> hatte also immer noch keinen großen
+				Kirchencomponisten. Da auf einmal erschallt die wunderbare Kunde: Maestro <persName
+					key="verdi.giuseppe">Verdi</persName>, der Beherrscher der Oper, der ganzen
+				romanischen Welt (auch der germanischen?) ist ins fromme Lager übergetreten, er hat
+				ein <title key="verdi.requiem" type="mus">Requiem</title> geschrieben als wirklicher
 				berufener Nachfolger berühmter Vorfahren und als Messias der Italiener in
 				kirchlicher Tonkunst. Man erstaunte, denn <persName key="verdi.giuseppe"
 					>Verdi</persName> hatte sich bisher nur als ein mächtiges, mit allen großen und
@@ -109,13 +110,13 @@
 				sich so ziemlich der Berufung an den Geschmack der rohen Massen; sie zeigten
 				vielfach Spuren von Vertiefung und das Streben, den besten Meistern, sogar den
 				deutschen, <cb break="yes" n="2b" type="regular"/> nachzufolgen. <persName
-					key="verdi.giuseppe">Verdi</persName> war allmälig selbstbewußt geworden und
-				der ihm angeborene, selbst aus den scheinbar leichtfertigst gearbeiteten Werken
+					key="verdi.giuseppe">Verdi</persName> war allmälig selbstbewußt geworden und der
+				ihm angeborene, selbst aus den scheinbar leichtfertigst gearbeiteten Werken
 				herausscheinende Ernst kam zum Durchbruch; er ist heute nicht mehr der spezifische
 				Musiker, sondern der denkende Künstler überhaupt, er scheint auch ein großer Mensch
 				zu sein, das bezeugen zunächst manche tiefe und geniale Auffassungen der Worte des
-					<title key="verdi.requiem" type="mus">Requiem</title>, noch mehr deutet darauf hin sein
-				Verhalten in den politischen Angelegenheiten seines Vaterlandes. Er ist
+					<title key="verdi.requiem" type="mus">Requiem</title>, noch mehr deutet darauf
+				hin sein Verhalten in den politischen Angelegenheiten seines Vaterlandes. Er ist
 				Italianissimo (nicht allein in der Musik, denn das wäre ein kleiner Ruhm für einen
 				großen Menschen) in der besten und vollsten Bedeutung des Wortes, darum gehaßt von
 				den inneren Feinden seines Vaterlandes, geliebt von den die Größe und Ehre
@@ -144,20 +145,20 @@
 				der brüderlichen Liebe ohne confessionelle Vorurtheile erst walten wird, kann die
 				Kunst den gleichmäßigen Ausdruck für die geistige und sittliche Erbauung gewinnen,
 				er ist auch schon versucht worden, man erinnert sich nur an <persName
-					key="brahms.johannes">Brahm’s</persName> schönes <title key="brahms.requiem" type="mus"
-					>deutsches Requiem</title>, das alle Schlacken der Schule und des Vorurtheils so
-				glücklich vermeidet. Es lassen sich über dieses Capitel weite Gedanken ausspinnen,
-				aber sie müssen jetzt fallen, um den Rückweg zu dem vorliegenden Thema wieder zu
-				finden.</p>
+					key="brahms.johannes">Brahm’s</persName> schönes <title key="brahms.requiem"
+					type="mus">deutsches Requiem</title>, das alle Schlacken der Schule und des
+				Vorurtheils so glücklich vermeidet. Es lassen sich über dieses Capitel weite
+				Gedanken ausspinnen, aber sie müssen jetzt fallen, um den Rückweg zu dem
+				vorliegenden Thema wieder zu finden.</p>
 			<p><persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> ist noch nicht auf diesen Standpunkt der
-				Befreiung gehoben, aber dennoch ist es groß innerhalb der Schranken, in denen es
-				sich bewegt. Die Schranken sind der Italianismus, d. h. das Nachgeben an die dieser
-				Nation eigenthümlichen Art Musik zu empfinden, zu denken und zu erfinden; der
-				Katholicismus, d. h. die Erfassung der Göttlichkeit und der überirdischen Dinge nach
-				den Vorschriften und den Traditionen dieser Kirche; zuletzt die Musikschule, d. h.
-				die Befolgung des hergebrachten Stiles und der in Ueblichkeit versteinerten Formen
-				der sogenannten kirchlichen Tonkunst. Keiner dieser drei Factoren tritt
+				<title key="verdi.requiem" type="mus">Requiem</title> ist noch nicht auf diesen
+				Standpunkt der Befreiung gehoben, aber dennoch ist es groß innerhalb der Schranken,
+				in denen es sich bewegt. Die Schranken sind der Italianismus, d. h. das Nachgeben an
+				die dieser Nation eigenthümlichen Art Musik zu empfinden, zu denken und zu erfinden;
+				der Katholicismus, d. h. die Erfassung der Göttlichkeit und der überirdischen Dinge
+				nach den Vorschriften und den Traditionen dieser Kirche; zuletzt die Musikschule, d.
+				h. die Befolgung des hergebrachten Stiles und der in Ueblichkeit versteinerten
+				Formen der sogenannten kirchlichen Tonkunst. Keiner dieser drei Factoren tritt
 				glücklicherweise <cb break="yes" n="2c" type="regular"/> in Pedantismus und in
 				Einseitigkeit in den Vordergrund. Der Italiener <persName key="verdi.giuseppe"
 					>Verdi</persName> singt manchmal herrliche Melodien, er wird nur dann
@@ -167,54 +168,54 @@
 				(die bildende Kunst und die Musik bezeugen es) und gerade das wunderbare Gedicht des
 				Requiem, eines der schönsten Erzeugnisse lateinischer Reimpoesie des Mittelalters,
 				mußte ein so glühendes Herz und so eine lebhafte Einbildungskraft, wie <persName
-					key="verdi.giuseppe">Verdi</persName> besitzt, zu innigsten
-				Gefühlsausströmungen und zu lebensvollen Tonbildern anregen. Der sanctionirte
-				Kirchenstil ist für den in den Schranken einer Confession sich haltenden und
-				denkenden Tonkünstler unvermeidliches Gebot: durch die Formen desselben wirkt er
-				sicher auf die Gemüther und es ist wahr, daß die Würde derselben ein ebenso
-				unumgängliches ästhetisches Gebot ist, wie die einfache schmucklose Redeweise des
-				Gebetes. Leider ist an die Stelle der Würde die Künstelei getreten und kunstreiche
-				Imitationen, Canons und Fugen sind fast immer nur der Inhalt der frommen Musik.
-					<persName key="verdi.giuseppe">Verdi</persName> hat diesem Zwange der Schule
-				nachgegeben, vielleicht trieb ihn auch der Ehrgeiz der Welt zu zeigen, daß er nicht
-				blos der Empiriker der Bühne, sondern ein wohldressirter Musikus ist. Außer den
-				reichen Imitationen, die allen Chorsätzen namentlich anhaften, sind auch zwei Fugen
-				da: das <title key="verdi.requiem.4" type="mus">Sanctus</title>, zweichörig, mit Doppelfuge
-				und die Schlußfuge des <title key="verdi.requiem.7" type="mus">Libera me</title>, beide keine
-				hohen Zeugnisse der Kunstfertigkeit, denn das Gegenthema der Doppelfuge ist nur eine
-				contrapunktische Nebenstimme; das Hauptthema der Schlußfuge wird zu voller
-				Ausbeutung durch überweitem Umfang und übermäßige Länge unverwendbar und Führer und
-					Gefährte<note resp="tr" type="glossaryLink">Hier gemeint: »Dux« und
-					»Comes«.</note> schließen sich nicht correct aneinander, auch schweifen die
-				Modulationen auf Irrfahrten durch alle Tonarten des Quintenzirkels. Nur die
-				Anfangstacte des Thema werden reichlich ausgebeutet zu Engführungen und was es sonst
-				in der Fuge zu beobachten giebt. Diese Kunstferigkeiten sind aber Nebensächliches im
-				ganzen Werke, sie waren sogar nicht nothwendig. <persName key="verdi.giuseppe"
-					>Verdi’s</persName> großes Verdienst liegt nicht in ihnen, das beruht in dem
-				Adel der Empfindung, in dem reichen üppigen Walten der Fantasie, die namentlich im
-					<title key="verdi.requiem.2" type="mus">Dies irae</title> so mächtig sich ausweitet, wie
-				in <persName key="alighieri.dante">Dante’s</persName> Inferno oder in <persName
-					key="buonarroti.michelangelo">Michel Angelo’s</persName> Bildern vom
-				Weltgericht, in der glühenden Farbenpracht, die sich in geläuterter Sinnlichkeit
-				über das ganze Werk, über alle Sätze namentlich durch die Orchestrirung ergießt.
-				Neben dieser Schönheit des Ganzen übersieht man nicht die wunderbaren Einzelheiten
-				in der Darstellung mancher wichtiger, inhaltsvoller Phrasen, den nicht verwerflichen
-				dramatischen Schwung, denn die Kirche verleiht ihren Musikern nicht minder eine
-				dramatische und sinnenberückende Lebendigkeit und warum soll der Pomp am Altare
-				nicht vom Chore in Tönen wiederhallen? Also auch dafür gäbe es eine ausreichende
-				Entschuldigung, wie für die andern Schwächen, welche der Rigorismus der Schule oder
-				der Confession dem Werke nachsagen möchten. Doch begeben wir uns lieber solcher
-				Kleinigkeiten und ehren wir das Verdienst und die Größe und freuen und auch unserer
-				Bekehrung zur Anerkennung von Vorzügen eines Mannes, der uns wegen seiner
+					key="verdi.giuseppe">Verdi</persName> besitzt, zu innigsten Gefühlsausströmungen
+				und zu lebensvollen Tonbildern anregen. Der sanctionirte Kirchenstil ist für den in
+				den Schranken einer Confession sich haltenden und denkenden Tonkünstler
+				unvermeidliches Gebot: durch die Formen desselben wirkt er sicher auf die Gemüther
+				und es ist wahr, daß die Würde derselben ein ebenso unumgängliches ästhetisches
+				Gebot ist, wie die einfache schmucklose Redeweise des Gebetes. Leider ist an die
+				Stelle der Würde die Künstelei getreten und kunstreiche Imitationen, Canons und
+				Fugen sind fast immer nur der Inhalt der frommen Musik. <persName
+					key="verdi.giuseppe">Verdi</persName> hat diesem Zwange der Schule nachgegeben,
+				vielleicht trieb ihn auch der Ehrgeiz der Welt zu zeigen, daß er nicht blos der
+				Empiriker der Bühne, sondern ein wohldressirter Musikus ist. Außer den reichen
+				Imitationen, die allen Chorsätzen namentlich anhaften, sind auch zwei Fugen da: das
+					<title key="verdi.requiem.4" type="mus">Sanctus</title>, zweichörig, mit
+				Doppelfuge und die Schlußfuge des <title key="verdi.requiem.7" type="mus">Libera
+					me</title>, beide keine hohen Zeugnisse der Kunstfertigkeit, denn das Gegenthema
+				der Doppelfuge ist nur eine contrapunktische Nebenstimme; das Hauptthema der
+				Schlußfuge wird zu voller Ausbeutung durch überweitem Umfang und übermäßige Länge
+				unverwendbar und Führer und Gefährte<note resp="tr" type="glossaryLink">Hier
+					gemeint: »Dux« und »Comes«.</note> schließen sich nicht correct aneinander, auch
+				schweifen die Modulationen auf Irrfahrten durch alle Tonarten des Quintenzirkels.
+				Nur die Anfangstacte des Thema werden reichlich ausgebeutet zu Engführungen und was
+				es sonst in der Fuge zu beobachten giebt. Diese Kunstferigkeiten sind aber
+				Nebensächliches im ganzen Werke, sie waren sogar nicht nothwendig. <persName
+					key="verdi.giuseppe">Verdi’s</persName> großes Verdienst liegt nicht in ihnen,
+				das beruht in dem Adel der Empfindung, in dem reichen üppigen Walten der Fantasie,
+				die namentlich im <title key="verdi.requiem.2" type="mus">Dies irae</title> so
+				mächtig sich ausweitet, wie in <persName key="alighieri.dante">Dante’s</persName>
+				Inferno oder in <persName key="buonarroti.michelangelo">Michel Angelo’s</persName>
+				Bildern vom Weltgericht, in der glühenden Farbenpracht, die sich in geläuterter
+				Sinnlichkeit über das ganze Werk, über alle Sätze namentlich durch die Orchestrirung
+				ergießt. Neben dieser Schönheit des Ganzen übersieht man nicht die wunderbaren
+				Einzelheiten in der Darstellung mancher wichtiger, inhaltsvoller Phrasen, den nicht
+				verwerflichen dramatischen Schwung, denn die Kirche verleiht ihren Musikern nicht
+				minder eine dramatische und sinnenberückende Lebendigkeit und warum soll der Pomp am
+				Altare nicht vom Chore in Tönen wiederhallen? Also auch dafür gäbe es eine
+				ausreichende Entschuldigung, wie für die andern Schwächen, welche der Rigorismus der
+				Schule oder der Confession dem Werke nachsagen möchten. Doch begeben wir uns lieber
+				solcher Kleinigkeiten und ehren wir das Verdienst und die Größe und freuen und auch
+				unserer Bekehrung zur Anerkennung von Vorzügen eines Mannes, der uns wegen seiner
 				musikalischen Unbändigkeit und Rücksichtslosigkeit früher fast wie ein Dämon <cb
 					break="yes" n="2d" type="regular"/> erschien, dem jeder ehrbare Künstler aus dem
 				Wege gehen müsse.</p>
 			<p><rs key="wien.1875" type="event">In <placeName key="wien">Wien</placeName> führte
 						<persName key="verdi.giuseppe">Verdi</persName> sein <title
-						key="verdi.requiem" type="mus">Requiem</title> in eigener Leitung vor; der darüber
-					ausbrechende Enthusiasmus ist durch die Presse bekannt geworden.</rs> Der
-				Katholicismus und die Empfänglichkeit der Wiener steigerten den Erfolg; es halfen
-				dazu auch die in <persName key="verdi.giuseppe">Verdi’s</persName> Gefolge
+						key="verdi.requiem" type="mus">Requiem</title> in eigener Leitung vor; der
+					darüber ausbrechende Enthusiasmus ist durch die Presse bekannt geworden.</rs>
+				Der Katholicismus und die Empfänglichkeit der Wiener steigerten den Erfolg; es
+				halfen dazu auch die in <persName key="verdi.giuseppe">Verdi’s</persName> Gefolge
 				befindlichen ausgezeichneten Gesangskünstler. <rs key="koeln.1875" type="event"
 						><placeName key="koeln">Cöln</placeName> folgte vor einigen Wochen nach;
 						<persName key="hiller.ferdinand">Ferdinand Hiller</persName> führte das
@@ -222,15 +223,14 @@
 						key="koeln.guerzenich">Gürzenichsaale</placeName> unter glücklichstem
 					Verlaufe vor;</rs> es wirkten hier ohngefähr dieselben Ursachen wie in
 					<placeName key="wien">Wien</placeName>, doch sangen nur einheimische Künstler.
-					<rs key="hamburg.1876" type="event"><placeName key="hamburg"
-						>Hamburg</placeName> ist der zweite Ort im Reiche, wo das <title
-						key="verdi.requiem" type="mus">Requiem</title> erklingt;<note resp="tr"
-						type="eventCommentary">Tatsächlich der vierte, nach Köln, München und
-						Dresden.</note> der Director <persName key="pollini.bernhard"
-						>Pollini</persName> erwarb es sich für sein Theater mit
-					Eigenthumsrecht.</rs> Es ist ihm dafür zu danken, denn es bleibt zweifelhaft ob
-				dem Werke eine andere Gelegenheit des Erscheinens hier geboten worden wäre, obgleich
-				seine Unehre sich daran knüpft, wie das Vorgehens <placeName key="dresden"
+					<rs key="hamburg.1876" type="event"><placeName key="hamburg">Hamburg</placeName>
+					ist der zweite Ort im Reiche, wo das <title key="verdi.requiem" type="mus"
+						>Requiem</title> erklingt;<note resp="tr" type="eventCommentary">Tatsächlich
+						der vierte, nach Köln, München und Dresden.</note> der Director <persName
+						key="pollini.bernhard">Pollini</persName> erwarb es sich für sein Theater
+					mit Eigenthumsrecht.</rs> Es ist ihm dafür zu danken, denn es bleibt zweifelhaft
+				ob dem Werke eine andere Gelegenheit des Erscheinens hier geboten worden wäre,
+				obgleich seine Unehre sich daran knüpft, wie das Vorgehens <placeName key="dresden"
 					>Dresdens</placeName> beweist, dessen Hofcapelle vorigen Sonnabend sich damit in
 				einer <rs key="dresden.1876.1" type="event">öffentlichen Aufführung</rs> befaßte.
 				Auch in <placeName key="hamburg">Hamburg</placeName>, der ausdrücklich
@@ -271,14 +271,13 @@
 				Beurtheilung war geboten denn wenn das <placeName key="hamburg.stadt-theater"
 					>Stadt-Theater</placeName> dieselben Ziele wie das philharmonische Concert sich
 				setzt, muß es auch denselben Ernst der Prüfung tragen können.</p>
-			<p><rs key="hamburg.1876.2" type="event">Die Wiederholung des <title
-						key="verdi.requiem" type="mus">Requiem</title> am Mittwoch geschieht zum Besten des
-					Orchesters vom <placeName key="hamburg.stadt-theater"
-					>Stadt-Theater</placeName>.</rs> Die Mitglieder desselben werden sich glücklich
-				schätzen, wenn der zahlreiche Besuch ihnen ein Zeugnis ausstellt, daß ihre
-				anstrengende und pflichttreue Thätigkeit allgemeine Anerkennung findet. Die
-				materielle Zubuße ist den überaus beschäftigten Künstlern als eine wohlerworbene
-				Entschädigung zu gönnen.</p>
+			<p><rs key="hamburg.1876.2" type="event">Die Wiederholung des <title key="verdi.requiem"
+						type="mus">Requiem</title> am Mittwoch geschieht zum Besten des Orchesters
+					vom <placeName key="hamburg.stadt-theater">Stadt-Theater</placeName>.</rs> Die
+				Mitglieder desselben werden sich glücklich schätzen, wenn der zahlreiche Besuch
+				ihnen ein Zeugnis ausstellt, daß ihre anstrengende und pflichttreue Thätigkeit
+				allgemeine Anerkennung findet. Die materielle Zubuße ist den überaus beschäftigten
+				Künstlern als eine wohlerworbene Entschädigung zu gönnen.</p>
 		</body>
 	</text>
 </TEI>

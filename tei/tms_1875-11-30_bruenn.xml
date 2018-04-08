@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 30. November 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1875-11-30_meldungen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -41,18 +42,20 @@
 			<head rend="larger bold">Brünner Chronik.</head>
 			<gap resp="tr"/>
 			<p>(<persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title>.) <rs key="bruenn.1876" type="event">Es
-					ist zweifelhaft, ob <persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> nicht doch anstatt im <placeName
-						key="bruenn.redouta-theater">Redoutensaale</placeName> im <placeName
-						key="bruenn.stadttheater">städtischen Theater</placeName> aufgeführt werden
-					wird.</rs> Es sprechen manche beherzigenswerthe Umstände für den letztern Ort.
-				Das betreffende Komite wird heute darüber die Entscheidung treffen. — Die
-				Gesangsproben zu <persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> haben bereits Mittwoch begonnen und
-				werden allwöchentlich zweimal zugleich mit jenen zu <persName
+				<title key="verdi.requiem" type="mus">Requiem</title>.) <rs key="bruenn.1876"
+					type="event">Es ist zweifelhaft, ob <persName key="verdi.giuseppe"
+						>Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> nicht doch anstatt im
+						<placeName key="bruenn.redouta-theater">Redoutensaale</placeName> im
+						<placeName key="bruenn.stadttheater">städtischen Theater</placeName>
+					aufgeführt werden wird.</rs> Es sprechen manche beherzigenswerthe Umstände für
+				den letztern Ort. Das betreffende Komite wird heute darüber die Entscheidung
+				treffen. — Die Gesangsproben zu <persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> haben bereits Mittwoch
+				begonnen und werden allwöchentlich zweimal zugleich mit jenen zu <persName
 					key="beethoven.ludwig-van">Beethoven’s</persName> „<title
-					key="beethoven.die-ruinen-von-athen" type="mus">Ruinen von Athen</title>“ abgehalten.</p>
+					key="beethoven.die-ruinen-von-athen" type="mus">Ruinen von Athen</title>“
+				abgehalten.</p>
 		</body>
 	</text>
 </TEI>

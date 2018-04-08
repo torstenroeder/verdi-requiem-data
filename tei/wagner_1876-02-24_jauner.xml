@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Richard Wagner, Brief an Franz Jauner, 24. Februar 1876</title>
-				<author><persName key="wagner.richard"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="wagner.richard"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wagner_1876-02-24_brief-an-jauner.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +23,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/><date when-iso="1876-02-24"/></creation>
+			<creation>
+				<placeName key="wien"/>
+				<date when-iso="1876-02-24"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>

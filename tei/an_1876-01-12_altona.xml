@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Altonaer Nachrichten, 12. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/an_1876-01-12_stadt-theater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="hamburg"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -50,7 +51,7 @@
 			<p rend="center"><hi rend="bold">Zum Besten des Orchesterpersonals.</hi></p>
 			<p rend="center">Zum zweiten Male:<lb break="yes"/><hi
 					rend="widespace bold antiqua larger"><title key="verdi.requiem" type="mus"
-					>Requiem</title></hi><lb break="yes"/>von <persName key="verdi.giuseppe"
+						>Requiem</title></hi><lb break="yes"/>von <persName key="verdi.giuseppe"
 						><sic>Guiseppe</sic> Verdi</persName>.<lb break="yes"/>(Zum Todestage
 					<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>
 				componirt.)</p>
@@ -66,21 +67,21 @@
 				Stadttheaters.</p>
 			<p><hi rend="widespace">Dirigent</hi>: Herr Capellmeister <hi rend="antiqua"><persName
 						key="fuchs.johann-nepomuk">Fuchs</persName></hi>.</p>
-			<p>Vorher: 1) <title key="weber.euryanthe.ouvertuere" type="mus">Ouverture aus <hi rend="bold"
-						>Euryanthe</hi></title>, von <persName key="weber.carl-maria-von"
+			<p>Vorher: 1) <title key="weber.euryanthe.ouvertuere" type="mus">Ouverture aus <hi
+						rend="bold">Euryanthe</hi></title>, von <persName key="weber.carl-maria-von"
 					role="composer">C. M. von Weber </persName>. 2) <title
-					key="hiller.die-zerstoerung-jerusalems" type="mus">Duett aus: <hi rend="bold">Die
-						Zerstörung Jerusalems</hi></title> von <persName key="hiller.ferdinand"
+					key="hiller.die-zerstoerung-jerusalems" type="mus">Duett aus: <hi rend="bold"
+						>Die Zerstörung Jerusalems</hi></title> von <persName key="hiller.ferdinand"
 					role="composer">Hiller</persName>. (Ach wär mein Haupt eine Wasserquelle,
 				gesungen von Frl. <persName key="boree.minna" role="soloist">Bor<hi rend="antiqua"
 						>é</hi>e</persName> u. Herrn <persName key="mathias.xxx" role="soloist"
-					>Mathias</persName>.) 3) <title key="schumann.ritornelle-in-canonischen-weisen" type="mus"
-						><hi rend="bold">Drei Ritornelle,</hi> für mehrstimmigen
+					>Mathias</persName>.) 3) <title key="schumann.ritornelle-in-canonischen-weisen"
+					type="mus"><hi rend="bold">Drei Ritornelle,</hi> für mehrstimmigen
 					Männergesang</title>, v. <persName key="schumann.robert" role="composer"
 					>Schumann</persName>
 				<gap resp="tr"/>. 4) Duett aus dem 3. Theil: <hi rend="bold"><title
-						key="haydn.die-schoepfung" type="mus">Die Schöpfung</title></hi>, von <persName
-					key="haydn.joseph">Haydn</persName>, gesungen von Fr. <persName
+						key="haydn.die-schoepfung" type="mus">Die Schöpfung</title></hi>, von
+					<persName key="haydn.joseph">Haydn</persName>, gesungen von Fr. <persName
 					key="otto-alvsleben.melitta" role="soloist">Otto-Alvsleben</persName> (Eva) und
 				Herrn <persName key="krueckl.franz" role="soloist">Krückl</persName> (Adam).</p>
 			<p rend="center">Große Preise. Anfang 7 Uhr.</p>

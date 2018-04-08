@@ -5,10 +5,9 @@
 			<titleStmt>
 				<title>Signale, Leipzig, April 1876/31</title>
 				<title corresp="bfb_1876-04-19_berlin.xml">aus: Berliner Fremdenbl., 19.4.</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/signale_1876-04_31_berlin.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -25,7 +24,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="berlin"/></creation>
+			<creation>
+				<placeName key="berlin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -52,15 +53,16 @@
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
 				<rs key="berlin.1876.1" type="event"><hi rend="widespace"><persName
 							key="verdi.giuseppe">Verdi’s</persName>
-						<title key="verdi.requiem" type="mus">Requiem</title></hi> ist nun auch in <placeName
-						key="berlin">Berlin</placeName> im <placeName key="berlin.hofoper">königl.
-						Opernhause</placeName> am <date when-iso="1876-04-15">15. April</date> zur
-					Aufführung gekommen.</rs> Der Eindruck war ein getheilter. „Der größere Theil
-				des Werkes“ — schreibt das ‚Berliner Fremdenblatt‘ — „ist voll greller, dramatischer
-				Effecte ohne Kenntnis des kirchlichen Styles, ohne erwärmende Wahrheit und beseelte
-				Ueberzeugung geschrieben. Man fühlt sich von dem opernhaften Flitterstaat, mit dem
-				der fromme ergreifende Text behängt ist, abgestoßen, wir erhalten den Eindruck einer
-				mater dolorosa im Schleppkleid mit <choice>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> ist nun auch in
+						<placeName key="berlin">Berlin</placeName> im <placeName
+						key="berlin.hofoper">königl. Opernhause</placeName> am <date
+						when-iso="1876-04-15">15. April</date> zur Aufführung gekommen.</rs> Der
+				Eindruck war ein getheilter. „Der größere Theil des Werkes“ — schreibt das ‚Berliner
+				Fremdenblatt‘ — „ist voll greller, dramatischer Effecte ohne Kenntnis des
+				kirchlichen Styles, ohne erwärmende Wahrheit und beseelte Ueberzeugung geschrieben.
+				Man fühlt sich von dem opernhaften Flitterstaat, mit dem der fromme ergreifende Text
+				behängt ist, abgestoßen, wir erhalten den Eindruck einer mater dolorosa im
+				Schleppkleid mit <choice>
 					<orig>Chignin</orig>
 					<corr resp="tr">Chignon</corr>
 				</choice> und Panzertaille.“<note resp="tr" type="textLink">Vgl. <ref

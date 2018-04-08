@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 9. Juli 1869</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1869-07-09_requiem-fuer-rossini.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bologna"/></creation>
+			<creation>
+				<placeName key="bologna"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -44,9 +45,9 @@
 			<cb break="null" n="235a" type="initial"/>
 			<head rend="larger">Vermischtes.</head>
 			<p><g n="002A|2014|002A" type="ASTERISK|EM_DASH|ASTERISK">*—*</g> Das Project <persName
-					key="verdi.giuseppe"><hi rend="widespace">Verdi</hi>’s</persName>, ein von
-				allen besseren italienischen Componisten zu verfasendes <title
-					key="messa-per-rossini" type="mus">Requiem</title> für <hi rend="widespace"><persName
+					key="verdi.giuseppe"><hi rend="widespace">Verdi</hi>’s</persName>, ein von allen
+				besseren italienischen Componisten zu verfasendes <title key="messa-per-rossini"
+					type="mus">Requiem</title> für <hi rend="widespace"><persName
 						key="rossini.gioachino">Rossini</persName></hi> zu veranlassen, <cb
 					break="yes" n="235b" type="regular"/>liegt bereits in greifbarer Gestalt vor.
 				Die Austheilung ist folgende: 1. <hi rend="widespace"><persName

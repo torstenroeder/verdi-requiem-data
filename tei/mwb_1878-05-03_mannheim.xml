@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 3. Mai 1878</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1878-05-03_mannheim.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mannheim"/><date when-iso="1878-04"/></creation>
+			<creation>
+				<placeName key="mannheim"/>
+				<date when-iso="1878-04"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -41,21 +43,24 @@
 			xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
-			<pb break="null" n="234" type="initial"/>
+		<front rend="antiqua">
+			<pb n="234"/>
 			<head rend="lineale bold">Concertumschau.</head>
-			<cb break="null" facs="#f1" n="235b" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="antiqua">
+			<cb facs="#f1" n="235b"/>
 			<p><hi rend="bold"><placeName key="mannheim">Mannheim</placeName>.</hi>
 				<gap resp="tr"/>
 				<rs key="mannheim.1878.1" type="event">Am <date when-iso="1878-04-19">19.
 						April</date> Aufführ. v. <persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> durch den Musikverein unt. solist.
-					Mitwirk. v. Frau <persName key="possart.anna">Possart</persName> a. <placeName
-						key="muenchen">München</placeName>, Frl. <persName key="steinbach.emma"
-						>Steinbach</persName> a. <placeName key="karlsruhe">Carlsruhe</placeName>
-					u. HH. <persName key="wolff.josef">Wolff</persName> a. <placeName key="speyer"
-						>Speyer</placeName> u. <persName key="lindeck.wilhelm"
-					>Lindeck</persName>.</rs></p>
+					<title key="verdi.requiem" type="mus">Requiem</title> durch den Musikverein unt.
+					solist. Mitwirk. v. Frau <persName key="possart.anna">Possart</persName> a.
+						<placeName key="muenchen">München</placeName>, Frl. <persName
+						key="steinbach.emma">Steinbach</persName> a. <placeName key="karlsruhe"
+						>Carlsruhe</placeName> u. HH. <persName key="wolff.josef">Wolff</persName>
+					a. <placeName key="speyer">Speyer</placeName> u. <persName key="lindeck.wilhelm"
+						>Lindeck</persName>.</rs></p>
 		</body>
 	</text>
 </TEI>

@@ -5,10 +5,9 @@
 			<titleStmt>
 				<title>AmZ, Leipzig, 21. Juli 1875</title>
 				<title>aus: Hamburger Nachr., 27.6.</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/amz_1875-07-21_wien.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +23,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,56 +42,59 @@
 			url="https://archive.org/stream/bub_gb_tVAfAAAAMAAJ#page/n227/mode/2up" xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
-			<cb break="null" facs="#f1" n="461" type="initial"/>
+		<front rend="antiqua">
+			<cb facs="#f1" n="461"/>
 			<head rend="bold larger egypt">Berichte. Nachrichten und Bemerkungen.</head>
-			<p><hi rend="bold">* <placeName key="wien">Wien</placeName>.</hi> Angenehmeren Verlauf,
-				als die der eigentlichen Saison, nahmen die Kunstverhältnisse der Nachsaison. Des
-				Hangens und Bangens war es aber auch genug gewesen und gefestigte Verhältnisse waren
-				dringend am Platze. Vor allem triumphirte der neue Geist, der merkwürdiger Weise
-				seit dem Abtritte des alten Directors <persName key="herbeck.johann-von"
-					>Herbeck</persName> im <placeName key="wien.hof-operntheater"
-					>Operntheater</placeName> herrscht. Es gab viel Nasenrümpfen und Kopfschütteln
-				auf die blosse Kunde hin, dass <persName key="jauner.franz-von">Jauner</persName>
-				auf den freigegebenen Directorenstuhl gehoben werden solle, und der gewichtigsten
-				Gründe einer war der, dass <persName key="jauner.franz-von">Jauner</persName>
-				selbst nur mit grosser Reserve von seinem musikalischen Wissen zu sprechen wagte.
-				Man prophezeite einen Rückgang der an diesem Institute hangenden Kunstinteressen —
-				obschon dies nach dem ungeschickten Regiment des früheren Directors kaum mehr
-				möglich war; — doch siehe da, statt dessen entwickelte der neue Director eine
-				Vielseitigkeit, die, von einigem Glück begünstigt, unserem Hofoperntheater eine
-				glanzvolle Zukunft in Aussicht stellt. Der denkbar glücklichste Griff, den der neue
-				Director gethan, war die Acquirirung der <rs key="wien.1875" type="event"><persName
-						key="verdi.giuseppe">Verdi’schen</persName>
+			<!--nogap-->
+		</front>
+		<body rend="antiqua">
+			<p><hi rend="bold"><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
+					<placeName key="wien">Wien</placeName>.</hi> Angenehmeren Verlauf, als die der
+				eigentlichen Saison, nahmen die Kunstverhältnisse der Nachsaison. Des Hangens und
+				Bangens war es aber auch genug gewesen und gefestigte Verhältnisse waren dringend am
+				Platze. Vor allem triumphirte der neue Geist, der merkwürdiger Weise seit dem
+				Abtritte des alten Directors <persName key="herbeck.johann-von">Herbeck</persName>
+				im <placeName key="wien.hof-operntheater">Operntheater</placeName> herrscht. Es gab
+				viel Nasenrümpfen und Kopfschütteln auf die blosse Kunde hin, dass <persName
+					key="jauner.franz-von">Jauner</persName> auf den freigegebenen Directorenstuhl
+				gehoben werden solle, und der gewichtigsten Gründe einer war der, dass <persName
+					key="jauner.franz-von">Jauner</persName> selbst nur mit grosser Reserve von
+				seinem musikalischen Wissen zu sprechen wagte. Man prophezeite einen Rückgang der an
+				diesem Institute hangenden Kunstinteressen — obschon dies nach dem ungeschickten
+				Regiment des früheren Directors kaum mehr möglich war; — doch siehe da, statt dessen
+				entwickelte der neue Director eine Vielseitigkeit, die, von einigem Glück
+				begünstigt, unserem Hofoperntheater eine glanzvolle Zukunft in Aussicht stellt. Der
+				denkbar glücklichste Griff, den der neue Director gethan, war die Acquirirung der
+					<rs key="wien.1875" type="event"><persName key="verdi.giuseppe"
+						>Verdi’schen</persName>
 					<title key="verdi.requiem" type="mus">Manzoni-Messe</title>, deren viermalige
 					Aufführung</rs> im Vereine mit den unter der Leitung des Componisten
-				vorgenommenen Reprisen der Oper <title key="verdi.aida" type="mus">Aïda</title> der Casse eine
-				Einnahme von 40,000 Gulden brachte. Ganz apparte Erscheinungen auf dem Gebiete der
-				künstlerischen Vollendung sind die beiden mit dem Componisten hier zu Gaste
-				weilenden Damen <persName key="stolz.teresa">Stolz</persName> und <persName
-					key="waldmann.maria">Waldmann</persName>. Wer da weiss, wie schwer es
-				angehenden Sängerinnen wird, in <placeName key="italien">Italien</placeName>
-				Carrière machen, wer da die vielen heimlichen und offenen Feinde kennt, die dort
-				junge, <cb break="yes" n="462" type="regular"/>aufstrebende Talente belauern und
-				bekämpfen, wird zugeben müssen, dass die genannten Damen, welche Beide
-				Deutschösterreicherinnen sind, trotz ihrer grossartigen Anlagen von einem
-				aussergewöhnlichen Zusammentreffen besonderer Glücksumstände begünstigt sein
-				mussten, um jene Habe erreichen zu können, welche sie jetzt, allen gefeierten
-				Sängerinnen voraus, zu Königinnen des Gesanges stempelt. Und solch’ ein
-				aussergewöhnlicher Glücksumstand war gewiss die Protection des Componisten <persName
-					key="verdi.giuseppe">Verdi</persName>, dessen Freundschaft ersichtlich von
-				weniger stimmenmörderischen Folgen begleitet ist, als dies bei den Schützlingen
-					<persName key="wagner.richard">Wagner’s</persName> der Fall zu sein pflegt.
-					<placeName key="italien">Italien</placeName> hat lange aufgehört, Sangesgrössen
-				zu zeugen und nirgends werden so wenige Sänger zu Künstlern herangebildet, wie in
-				jenem Lande. Die vornehmsten Ursachen dieser Erscheinung sind zuerst in der
-				Ungezogenheit eines Theiles des italienischen Theaterpublikums zu suchen, das neben
-				den Vorgängen auf der Bühne immer seine kleinen Privatspässe im Zuhörerraum nebenher
-				laufen lässt. Ferner in der Gewissenlosigkeit, mit der die Mehrzahl der
-				italienischen Theaterdirectoren ihre Stellung auszubeuten weiss. Eine angehende
-				Sängerin ohne eigenes, dem Director zur Verfügung gestelltes Vermögen, oder einen
-				»Protector«, der für sie die Kosten der ersten Engagementsjahre trägt — während
-				welcher sie keine Gage bezieht — ist in <placeName key="italien"
+				vorgenommenen Reprisen der Oper <title key="verdi.aida" type="mus">Aïda</title> der
+				Casse eine Einnahme von 40,000 Gulden brachte. Ganz apparte Erscheinungen auf dem
+				Gebiete der künstlerischen Vollendung sind die beiden mit dem Componisten hier zu
+				Gaste weilenden Damen <persName key="stolz.teresa">Stolz</persName> und <persName
+					key="waldmann.maria">Waldmann</persName>. Wer da weiss, wie schwer es angehenden
+				Sängerinnen wird, in <placeName key="italien">Italien</placeName> Carrière machen,
+				wer da die vielen heimlichen und offenen Feinde kennt, die dort junge, <cb
+					break="yes" n="462" type="regular"/>aufstrebende Talente belauern und bekämpfen,
+				wird zugeben müssen, dass die genannten Damen, welche Beide Deutschösterreicherinnen
+				sind, trotz ihrer grossartigen Anlagen von einem aussergewöhnlichen Zusammentreffen
+				besonderer Glücksumstände begünstigt sein mussten, um jene Habe erreichen zu können,
+				welche sie jetzt, allen gefeierten Sängerinnen voraus, zu Königinnen des Gesanges
+				stempelt. Und solch’ ein aussergewöhnlicher Glücksumstand war gewiss die Protection
+				des Componisten <persName key="verdi.giuseppe">Verdi</persName>, dessen Freundschaft
+				ersichtlich von weniger stimmenmörderischen Folgen begleitet ist, als dies bei den
+				Schützlingen <persName key="wagner.richard">Wagner’s</persName> der Fall zu sein
+				pflegt. <placeName key="italien">Italien</placeName> hat lange aufgehört,
+				Sangesgrössen zu zeugen und nirgends werden so wenige Sänger zu Künstlern
+				herangebildet, wie in jenem Lande. Die vornehmsten Ursachen dieser Erscheinung sind
+				zuerst in der Ungezogenheit eines Theiles des italienischen Theaterpublikums zu
+				suchen, das neben den Vorgängen auf der Bühne immer seine kleinen Privatspässe im
+				Zuhörerraum nebenher laufen lässt. Ferner in der Gewissenlosigkeit, mit der die
+				Mehrzahl der italienischen Theaterdirectoren ihre Stellung auszubeuten weiss. Eine
+				angehende Sängerin ohne eigenes, dem Director zur Verfügung gestelltes Vermögen,
+				oder einen »Protector«, der für sie die Kosten der ersten Engagementsjahre trägt —
+				während welcher sie keine Gage bezieht — ist in <placeName key="italien"
 					>Italien</placeName> ein Ding der Unmöglichkeit. Dafür kann die Sängerin, wenn
 				sie sich der gebührenden Unterstützung erfreut, sich in einem Jahre an allen ihr nur
 				beliebigen Rollen zu Tode schreien oder ihre Stimme an die halsbrecherischsten
@@ -101,10 +105,10 @@
 				findet. Um so höher freilich geht die Freude, wenn man ein paar Geretteter ansichtig
 				wird, zumal solcher, wie sie unsere Landsmänninnen sind, die übrigens um ihrer
 				deutschen Namen willen, die sie nicht italienisiren gewollt, von den Italienern —
-				wie ich gelegentlich der ersten <title key="verdi.aida" type="mus">Aïda</title>-Aufführung im
-					<placeName key="neapel.teatro-san-carlo">San Carlo-Theater</placeName> zu
-					<placeName key="neapel">Neapel</placeName> selbst gesehen — noch manche
-				Kränkung zu erdulden haben. (Indem wir diese den <orgName
+				wie ich gelegentlich der ersten <title key="verdi.aida" type="mus"
+				>Aïda</title>-Aufführung im <placeName key="neapel.teatro-san-carlo">San
+					Carlo-Theater</placeName> zu <placeName key="neapel">Neapel</placeName> selbst
+				gesehen — noch manche Kränkung zu erdulden haben. (Indem wir diese den <orgName
 					key="hamburger-nachrichten">Hamb. Nachr.</orgName><note resp="tr"
 					type="textLink">Vgl. <ref
 						target="http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000126342946"

@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 25. Juni 1875 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1875-06-25_wien.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,39 +43,43 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18750625&amp;seite=9"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="264" type="initial"/>
+		<front rend="fraktur">
+			<pb n="264"/>
 			<head rend="larger">Tagesgeschichte.</head>
 			<head rend="bold">Aufführungen.</head>
-			<cb break="null" n="264b" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="264b"/>
 			<p><rs key="wien.1875.1 wien.1875.2" type="event"><hi rend="widespace"><placeName
 							key="wien">Wien</placeName></hi>. Am <date when-iso="1875-06-11"
 						>11.</date> und <date when-iso="1875-06-12">12.</date> Aufführungen von <hi
 						rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName></hi>
-					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> unter
-					Leitung des Componisten im <placeName key="wien.hof-operntheater"
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>
+					unter Leitung des Componisten im <placeName key="wien.hof-operntheater"
 						>Hofoperntheater</placeName> bei überfüllten Häusern mit ächt Wienerischem
 					Enthusiasmus</rs>. Im musikalischen Werthe möchten wir das <hi rend="antiqua"
-						><title key="verdi.requiem" type="mus">Requiem</title></hi> seiner <hi rend="antiqua"
-						><title key="verdi.aida" type="mus">Aida</title></hi> gleichstellen. Das Werk entbehrt
-				allerdings der kirchlichen Weihe und Einfachheit, doch ist es in großem Style
-				angelegt und mit <persName key="verdi.giuseppe">Verdi’s</persName> Reichthum an
-				Melodien und packenden Effekten durchgeführt. Von großer Wirkung <pb break="yes"
-					n="265" type="regular"/>ist das <hi rend="antiqua"><title key="verdi.requiem.5" type="mus"
-						>Agnus Dei</title></hi>. Sopran und Alt führen rein vocal in der Oktave
-				einen ganzen musikalischen Gedanken durch, welchen der Chor ebenfalls vocal <hi
-					rend="antiqua">piano</hi> wiederholt, schließlich fällt das Orchester ein, wo
-				dann in mächtigem <hi rend="antiqua">Tutti</hi> der erste Gedanke durchgeführt wird.
-				Wirkliche Achtung verdient eine große Fuge im <hi rend="antiqua"><title
-						key="verdi.requiem.7" type="mus">Libera</title></hi> für Sopran mit Chor. Das <hi
-					rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus</title></hi>, <hi
-					rend="antiqua"><title key="verdi.requiem.2" type="mus">Dies irae</title></hi> und <hi
-					rend="antiqua"><title key="verdi.requiem.3" type="mus">Offertorium</title></hi> werden von
-				den Wienern stürmisch zur Wiederholung verlangt. Was die Ausführung anbelangt, so
-				wissen wir wahrlich nicht, wem die Palme zuerst gereicht werden soll. Sind wir von
-				dem Orchester unserer Philharmoniker an das vollendetste gewöhnt, so hat uns der
-				Chor unserer Hofoper durch Feuer, Feinheit und Piano’s überrascht und noch nie hat
-				sich dieser Körper in solcher Vollendung bewährt als unter <persName
+						><title key="verdi.requiem" type="mus">Requiem</title></hi> seiner <hi
+					rend="antiqua"><title key="verdi.aida" type="mus">Aida</title></hi>
+				gleichstellen. Das Werk entbehrt allerdings der kirchlichen Weihe und Einfachheit,
+				doch ist es in großem Style angelegt und mit <persName key="verdi.giuseppe"
+					>Verdi’s</persName> Reichthum an Melodien und packenden Effekten durchgeführt.
+				Von großer Wirkung <pb break="yes" n="265" type="regular"/>ist das <hi
+					rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus Dei</title></hi>.
+				Sopran und Alt führen rein vocal in der Oktave einen ganzen musikalischen Gedanken
+				durch, welchen der Chor ebenfalls vocal <hi rend="antiqua">piano</hi> wiederholt,
+				schließlich fällt das Orchester ein, wo dann in mächtigem <hi rend="antiqua"
+					>Tutti</hi> der erste Gedanke durchgeführt wird. Wirkliche Achtung verdient eine
+				große Fuge im <hi rend="antiqua"><title key="verdi.requiem.7" type="mus"
+						>Libera</title></hi> für Sopran mit Chor. Das <hi rend="antiqua"><title
+						key="verdi.requiem.5" type="mus">Agnus</title></hi>, <hi rend="antiqua"
+						><title key="verdi.requiem.2" type="mus">Dies irae</title></hi> und <hi
+					rend="antiqua"><title key="verdi.requiem.3" type="mus">Offertorium</title></hi>
+				werden von den Wienern stürmisch zur Wiederholung verlangt. Was die Ausführung
+				anbelangt, so wissen wir wahrlich nicht, wem die Palme zuerst gereicht werden soll.
+				Sind wir von dem Orchester unserer Philharmoniker an das vollendetste gewöhnt, so
+				hat uns der Chor unserer Hofoper durch Feuer, Feinheit und Piano’s überrascht und
+				noch nie hat sich dieser Körper in solcher Vollendung bewährt als unter <persName
 					key="verdi.giuseppe">Verdi’s</persName> Direktion. Das Soloquartett bestand aus
 				Gästen: Frl. <persName key="stolz.teresa" role="soloist.soprano">Stolz</persName>,
 				Frl. <persName key="waldmann.maria" role="soloist.mezzo">Waldmann</persName>, den

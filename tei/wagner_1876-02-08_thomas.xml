@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Richard Wagner, Brief an Theodore Thomas, 8. Februar 1876</title>
-				<author><persName key="wagner.richard"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="wagner.richard"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wagner_1876-02-08_brief-an-thomas.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +23,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/><date when-iso="1876-02-08"/></creation>
+			<creation>
+				<placeName key="wien"/>
+				<date when-iso="1876-02-08"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -61,12 +65,12 @@
 				geboten wurden, welche übrigens ausser aller Beziehung zu einer nationalen Festfeier
 				gestanden haben würde. Herr <hi rend="underlined"><persName key="verdi.giuseppe"
 						>Verdi</persName></hi> hat von seinem Verleger <sic>Riccordi</sic> für das
-				unbedingte Aufführungs- und Eigenthumsrecht seines <title key="verdi.requiem" type="mus"
-					>Requiem</title> circa eine halbe Million Francs erhalten; somit darf es mir
-				erlaubt sein, einen Schluss auf den Werth der Composition eines jetzt berühmten
-				Autors zu ziehen. In diesem Betreff habe ich aber grosse Aufmerksamkeit auf die
-				Verwerthung meiner noch unverschleuderten Arbeiten zu nehmen, da ich bisher von den
-				Einkünften derselben mir noch keinen Heller ersparen konnte.</p>
+				unbedingte Aufführungs- und Eigenthumsrecht seines <title key="verdi.requiem"
+					type="mus">Requiem</title> circa eine halbe Million Francs erhalten; somit darf
+				es mir erlaubt sein, einen Schluss auf den Werth der Composition eines jetzt
+				berühmten Autors zu ziehen. In diesem Betreff habe ich aber grosse Aufmerksamkeit
+				auf die Verwerthung meiner noch unverschleuderten Arbeiten zu nehmen, da ich bisher
+				von den Einkünften derselben mir noch keinen Heller ersparen konnte.</p>
 			<p>Ich ersuche Sie demnach mir durch ein Telegramm alsbald die Annahme meiner
 				Bedingungen zu melden, für welchen Fall ich Sie autorisire die Kosten des
 				Telegrammes von meinem Honorar in Abzug zu bringen. Oder — wenn ich diess Telegramm

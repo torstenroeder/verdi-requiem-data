@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Berliner Tageblatt, 11. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/btb_1876-01-11_hamburg.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="hamburg"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -41,12 +42,12 @@
 				<rs key="hamburg.1876.1" type="event">Am <placeName key="hamburg.stadt-theater"
 						>Hamburger Stadttheater</placeName> ist am <date>Sonnabend</date>
 					<persName key="verdi.giuseppe" role="composer">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> mit großer Begeisterung aufgenommen
-					worden.</rs> Das szenische Arrangement war von Her<supplied resp="tr"
-					>r</supplied>n Oberregisseur <persName key="hock.wilhelm">Hock</persName>
-				besorgt. Die Szene stellte das Innere einer katholischen Kirche dar, die
-				Mitwirkenden, der auf mehr als 100 Mann verstärkte Chor und das aus circa 70
-				Personen bestehende Orchester, sämmtlich in eleganter Gesellschafts-Toilette, die
+					<title key="verdi.requiem" type="mus">Requiem</title> mit großer Begeisterung
+					aufgenommen worden.</rs> Das szenische Arrangement war von Her<supplied
+					resp="tr">r</supplied>n Oberregisseur <persName key="hock.wilhelm"
+					>Hock</persName> besorgt. Die Szene stellte das Innere einer katholischen Kirche
+				dar, die Mitwirkenden, der auf mehr als 100 Mann verstärkte Chor und das aus circa
+				70 Personen bestehende Orchester, sämmtlich in eleganter Gesellschafts-Toilette, die
 				Damen in Weiß, mit weißen Kamelien im Haar und, dem Charakter der Todtenmesse
 				entsprechend, mit schwarzem Schleier, waren in weitem aufsteigenden Halbkreise
 				postiert, in der Mitte desselben der Dirigent Herr <persName

@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 3. März 1876 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-03-03_berlin.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="berlin"/></creation>
+			<creation>
+				<placeName key="berlin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,24 +43,28 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760303&amp;seite=9"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="103" type="initial"/>
+		<front rend="fraktur">
+			<pb n="103"/>
 			<head rend="larger">Tagesgeschichte.</head>
-			<cb break="null" n="104b" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="104b"/>
 			<head>Neue und neueinstudirte Opern</head>
-			<p>Von „<title key="wagner.tristan-und-isolde" type="mus">Tristan und Isolde</title>“ kann an der
-					<placeName key="berlin.hofoper">Berliner Hofoper</placeName> die erste
+			<p>Von „<title key="wagner.tristan-und-isolde" type="mus">Tristan und Isolde</title>“
+				kann an der <placeName key="berlin.hofoper">Berliner Hofoper</placeName> die erste
 				Vorstellung erst <date when-iso="1876-03">Mitte März</date> erfolgen. Die
 				zahlreichen Proben hierzu unter <persName key="eckert.karl-anton"
 					>Eckert’s</persName> Leitung beschäftigen die künstlerischen Kräfte namentlich
 				des Orchesters dergestalt, daß es noch zweifelhaft ist, ob sich „<title
-					key="goetz.der-widerspenstigen-zaehmung" type="mus">Der Widerspänstigen Zähmung</title>“
-				von <persName key="goetz.hermann">Götz</persName> noch in <pb break="yes" n="105"
-					type="regular"/>dieser Saison ermöglichen lassen wird, um so mehr, als anstatt
-				für diese deutsche Oper für eine <rs key="berlin.1876" type="event"
-					>Opernhausaufführung von <persName key="verdi.giuseppe">Verdi’s</persName>
-					ital. <title key="verdi.requiem" type="mus">Requiem</title></rs> an maßgebender Stelle
-				überhaupt viel größere Sympathie vorherrscht. —</p>
+					key="goetz.der-widerspenstigen-zaehmung" type="mus">Der Widerspänstigen
+					Zähmung</title>“ von <persName key="goetz.hermann">Götz</persName> noch in <pb
+					break="yes" n="105" type="regular"/>dieser Saison ermöglichen lassen wird, um so
+				mehr, als anstatt für diese deutsche Oper für eine <rs key="berlin.1876"
+					type="event">Opernhausaufführung von <persName key="verdi.giuseppe"
+						>Verdi’s</persName> ital. <title key="verdi.requiem" type="mus"
+						>Requiem</title></rs> an maßgebender Stelle überhaupt viel größere Sympathie
+				vorherrscht. —</p>
 		</body>
 	</text>
 </TEI>

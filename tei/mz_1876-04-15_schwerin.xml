@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Mecklenburgische Zeitung, Schwerin, 15. April 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mz_1876-04-15_schwerin.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="schwerin"/></creation>
+			<creation>
+				<placeName key="schwerin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -44,9 +45,9 @@
 							break="yes"/><rs key="schwerin.1876.gp" type="event"><hi
 								rend="bold larger">Generalprobe</hi><lb break="yes"/>vom<lb
 								break="yes"/><hi rend="bold antiqua larger"><title
-									key="verdi.requiem" type="mus">Requiem</title></hi></rs><lb break="yes"
-						/>ist dem Publikum der Einlaß zum <hi rend="antiqua">I.</hi> Rang und
-						Parquet gegen <hi rend="bold">1 Mark</hi> Eintrittsgeld pro Billet
+									key="verdi.requiem" type="mus">Requiem</title></hi></rs><lb
+							break="yes"/>ist dem Publikum der Einlaß zum <hi rend="antiqua">I.</hi>
+						Rang und Parquet gegen <hi rend="bold">1 Mark</hi> Eintrittsgeld pro Billet
 							gestattet.<lb break="yes"/><hi rend="bold">Kassenöffnung 5 Uhr.</hi><lb
 							break="yes"/>Großherzogl. Hoftheater-Intendantur.</p>
 				</body>

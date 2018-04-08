@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Zeitung, 24. August 1875</title>
-				<author><persName key="hiller.ferdinand"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="hiller.ferdinand"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/kz_1875-08-24_requiem.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,7 +18,7 @@
 					<placeName key="koeln"/>
 					<date when-iso="1875-08-24"/>
 					<biblScope unit="issue">234</biblScope>
-					<biblScope unit="subIssue">234</biblScope>
+					<biblScope unit="subIssue">Erstes Blatt</biblScope>
 					<series>kz</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
@@ -43,29 +44,29 @@
 			<head><g n="2736" type="SIX_POINTED_BLACK_STAR">✶</g>
 				<persName key="verdi.giuseppe">Verdi’s</persName>
 				<title key="verdi.requiem" type="mus">Requiem</title>.</head>
-			<p>Dieses Tonwerk, welches der populäre Componist des <title key="verdi.il-trovatore" type="mus"
-					>Trovatore</title> zur Feier des <date when-iso="1873-04-22">Todestages</date>
+			<p>Dieses Tonwerk, welches der populäre Componist des <title key="verdi.il-trovatore"
+					type="mus">Trovatore</title> zur Feier des <date when-iso="1873-04-22"
+					>Todestages</date>
 				<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName> geschrieben (<rs
 					key="mailand.1874.1" type="event">es wurde am <date when-iso="1874-05-22">22.
 						Mai 1874</date> zum ersten Mal aufgeführt</rs>), hat seitdem in <rs
-					key="paris.1874" type="event"><placeName key="paris">Paris</placeName></rs>,
-					<rs key="london.1875" type="event"><placeName key="london"
-					>London</placeName></rs> und <rs key="wien.1875" type="event"><placeName
-						key="wien">Wien</placeName></rs>, wo es unter der persönlichen Leitung
-					<persName key="verdi.giuseppe">Verdi’s</persName> zu wiederholten Malen gegeben
-				worden, großes Aufsehen erregt. Hier zu Lande müssen wir uns vorläufig gedulden. Der
-				große Verleger <orgName key="ricordi">Ricordi</orgName> in <placeName
-					key="mailand">Mailand</placeName> hat freilich Partitur und Stimmen gestochen —
-				aber er hat sich das Recht vorbehalten, die Aufführung nur da und nur unter den
-				Umständen zu erlauben, die ihm (oder <persName key="verdi.giuseppe"
-					>Verdi</persName>?) genehm sind. Vielleicht vereinigt er den vollständigen
-				Apparat von Chor, Orchester und Solisten und unternimmt eine Requiems-Rundreise —
-				wer weiß, ob es sich nicht lohnen würde? Wie dem nun sei — wir müssen uns für jetzt
-				damit begnügen, das Werk (jedenfalls bei Weitem das bedeutendste <persName
-					key="verdi.giuseppe">Verdi’s</persName>) aus dem Clavierauszug kennen zu lernen
-				— eine Bekanntschaft, die zu den interessantesten und wohlthuendsten gehört, die
-				seit lange<supplied resp="tr">m</supplied> auf dem Gebiete der höheren Vokalmusik zu
-				machen sich Gelegenheit geboten.</p>
+					key="paris.1874" type="event"><placeName key="paris">Paris</placeName></rs>, <rs
+					key="london.1875" type="event"><placeName key="london">London</placeName></rs>
+				und <rs key="wien.1875" type="event"><placeName key="wien">Wien</placeName></rs>, wo
+				es unter der persönlichen Leitung <persName key="verdi.giuseppe">Verdi’s</persName>
+				zu wiederholten Malen gegeben worden, großes Aufsehen erregt. Hier zu Lande müssen
+				wir uns vorläufig gedulden. Der große Verleger <orgName key="ricordi"
+					>Ricordi</orgName> in <placeName key="mailand">Mailand</placeName> hat freilich
+				Partitur und Stimmen gestochen — aber er hat sich das Recht vorbehalten, die
+				Aufführung nur da und nur unter den Umständen zu erlauben, die ihm (oder <persName
+					key="verdi.giuseppe">Verdi</persName>?) genehm sind. Vielleicht vereinigt er den
+				vollständigen Apparat von Chor, Orchester und Solisten und unternimmt eine
+				Requiems-Rundreise — wer weiß, ob es sich nicht lohnen würde? Wie dem nun sei — wir
+				müssen uns für jetzt damit begnügen, das Werk (jedenfalls bei Weitem das
+				bedeutendste <persName key="verdi.giuseppe">Verdi’s</persName>) aus dem
+				Clavierauszug kennen zu lernen — eine Bekanntschaft, die zu den interessantesten und
+				wohlthuendsten gehört, die seit lange<supplied resp="tr">m</supplied> auf dem
+				Gebiete der höheren Vokalmusik zu machen sich Gelegenheit geboten.</p>
 			<p>„Ein Requiem von <persName key="verdi.giuseppe">Verdi</persName>?“ werden viele
 				meiner verehrten Collegen mit ungläubigem Kopfschütteln ausrufen — aber ich denke,
 				gar mancher wird mir schließlich doch zustimmen. Wohlthuend ist es, in dem Werke
@@ -82,9 +83,9 @@
 				der Gang der Harmonie ist, so wüßte ich doch kein Werk zu nennen, aus welchem man
 				eine Idee seiner Eigenthümlichkeit gewinnen könnte. Mit <persName
 					key="rossini.gioachino">Rossini’s</persName>
-				<hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">Stabat mater</title></hi>,
-				dessen glänzende Eigenschaften jeder unbefangene Musiker gelten lassen muß, hat das
-					<persName key="verdi.giuseppe">Verdi’sche</persName>
+				<hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">Stabat
+					mater</title></hi>, dessen glänzende Eigenschaften jeder unbefangene Musiker
+				gelten lassen muß, hat das <persName key="verdi.giuseppe">Verdi’sche</persName>
 				<title key="verdi.requiem" type="mus">Werk</title> doch nur die allgemeinsten Züge
 				italienischer Melodik gemein — es steht, in Beziehung auf Stimmung, Ausdruck,
 				vollends aber auf breite Anlage, Originalität der Form, Behandlung des Chores und
@@ -100,10 +101,10 @@
 				getrieben, die vielleicht über jene Linie hinausgeht, welche in einem derartigen
 				Werke der geläuterte Geschmack innegehalten sehen möchte, so kann man doch nicht
 				sagen, daß es im schlimmen Sinne theatralisch sei. Dies ist vielleicht nur da der
-				Fall, wo der Componist (im <title key="verdi.requiem.7" type="mus">Libera</title>) zu einer
-				Nachahmung kirchlichen Psalmodierens gegriffen hat — die Vorführung des äußerlich
-				Kirchlichen bekommt stets etwas Dekoratives. Viele Gesänge sind sogar von großer
-				Innerlichkeit — wenige nur streifen ans Gewöhnliche — ausdrucksvoll kann man
+				Fall, wo der Componist (im <title key="verdi.requiem.7" type="mus">Libera</title>)
+				zu einer Nachahmung kirchlichen Psalmodierens gegriffen hat — die Vorführung des
+				äußerlich Kirchlichen bekommt stets etwas Dekoratives. Viele Gesänge sind sogar von
+				großer Innerlichkeit — wenige nur streifen ans Gewöhnliche — ausdrucksvoll kann man
 				eigentlich Alles nennen. Als eminenter Meister zeigt sich <persName
 					key="verdi.giuseppe">Verdi</persName> in den vielfachen Verschlingungen seines
 				Chores mit den Solostimmen. Die ungeheure Erfahrung seiner langen Theaterlaufbahn
@@ -114,10 +115,11 @@
 				Meister, auch in denjenigen Stücken, in welchen er den strengen polyphonen Formen
 				seinen Tribut bezahlt, weiß er sich mit einer Gewandtheit zu bewegen, die eben so
 				natürlich ist, als entfernt von schulmeisterlichen Tintenklecksen. Die <title
-					key="verdi.requiem.4" type="mus">Sanctus-Fuge</title> für Doppelchor und das vierstimmige
-				Fugato im <hi rend="antiqua">„<title n="libera-me.fuga" key="verdi.requiem.7" type="mus"
-						>Libera me</title>“</hi> können manchem Contrepunktisten <hi rend="antiqua"
-						><term key="ex-professo">ex professo</term></hi> zu denken geben.</p>
+					key="verdi.requiem.4" type="mus">Sanctus-Fuge</title> für Doppelchor und das
+				vierstimmige Fugato im <hi rend="antiqua">„<title key="verdi.requiem.7"
+						n="libera-me.fuga" type="mus">Libera me</title>“</hi> können manchem
+				Contrepunktisten <hi rend="antiqua"><term key="ex-professo">ex professo</term></hi>
+				zu denken geben.</p>
 			<p>Man wird auch nach dem Clavierauszug keinen Augenblick im Zweifel darüber bleiben,
 				daß <persName key="verdi.giuseppe">Verdi</persName> sein Orchester zur vollsten
 				Wirkung bringt: es auch an modernen, picanten, aparten, glänzenden

@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 22. August 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nfp_1874-08-22_bologna.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,17 @@
 					<placeName key="wien"/>
 					<date when-custom="sat" when-iso="1874-08-22"/>
 					<biblScope unit="issue">3587</biblScope>
-					<biblScope unit="subIssue">3587</biblScope>
+					<biblScope unit="subIssue">Morgenblatt</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">7</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bologna"/><placeName key="ferrara"/></creation>
+			<creation>
+				<placeName key="bologna"/>
+				<placeName key="ferrara"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,22 +42,25 @@
 		/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="7b" type="initial"/>
+		<front rend="fraktur">
+			<cb n="7b"/>
 			<head rend="larger">Theater- und Kunstnachrichten.</head>
 			<p rend="right"><hi rend="widespace"><placeName key="wien">Wien</placeName></hi>, <date
 					when-iso="1874-08-21">21. August</date>.</p>
-			<cb break="null" n="7c" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="7c"/>
 			<p>— Die italienischen Blätter veröffentlichen nachstehenden Brief des Maestro <persName
 					key="verdi.giuseppe">Verdi</persName>:</p>
 			<p rend="smaller">Liebster <persName key="ricordi.tito">Titus
 					<sic>Ricardi</sic></persName>!*) Mit tiefster Entrüstung vernehme ich, daß von
 				einer Musikbande in einer Arena zu <hi rend="widespace"><placeName key="ferrara"
-						>Ferrara</placeName></hi> die <title key="verdi.requiem" type="mus">Messe</title>
-				aufgespielt wurde, die ich für <hi rend="widespace"><persName
+						>Ferrara</placeName></hi> die <title key="verdi.requiem" type="mus"
+					>Messe</title> aufgespielt wurde, die ich für <hi rend="widespace"><persName
 						key="manzoni.alessandro">Manzoni</persName></hi> schrieb! <persName
-					key="manzoni.alessandro">Manzoni</persName>, <title key="verdi.requiem" type="mus"
-					>Requiem-Messe</title>, Arena, Musikbande — welche ein Gemenge (<hi
+					key="manzoni.alessandro">Manzoni</persName>, <title key="verdi.requiem"
+					type="mus">Requiem-Messe</title>, Arena, Musikbande — welche ein Gemenge (<hi
 					rend="antiqua">amalgama</hi>) von Namen und Dingen! Und ich höre sogar, daß man
 				diese arme Messe zu <hi rend="widespace"><placeName key="bologna"
 						>Bologna</placeName></hi> in einer Bearbeitung für Clavier aufzuführen
@@ -65,10 +70,10 @@
 				Entweihung (<hi rend="antiqua">profanazione</hi>) hergeben? Ich sage: Entweihung,
 				nicht meinetwegen, sondern um der Kunst willen. Und Solches geschieht in dem schönen
 				lande, welches sie das Land der Kunst und des Genius nennen! Und Solches geschieht
-				in einer Stadt wie <placeName key="bologna">Bologna</placeName>, unter den Augen
-				des Municipiums, welches den Ruf hat, unsere Kunst zu beschützen! Und dann spricht
-				man noch vom Verfall der Kunst; dann beurtheilt man noch die Werke der Componisten,
-				wenn die dem Publicum in einer so barbarischen Verballhornung vorgeführt werden! Und
+				in einer Stadt wie <placeName key="bologna">Bologna</placeName>, unter den Augen des
+				Municipiums, welches den Ruf hat, unsere Kunst zu beschützen! Und dann spricht man
+				noch vom Verfall der Kunst; dann beurtheilt man noch die Werke der Componisten, wenn
+				die dem Publicum in einer so barbarischen Verballhornung vorgeführt werden! Und
 				selbst wenn diese Messe stofflich (<hi rend="antiqua">materialmente</hi>) gut
 				aufgeführt wurde: der Ausdruck und die Färbung könnten nimmermehr dem entsprechen,
 				was mir vorschwebte, der Geist wäre nicht mehr der meinige! Ich weiß nicht, ob das

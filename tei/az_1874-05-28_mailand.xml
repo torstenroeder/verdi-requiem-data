@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Allgemeine Zeitung, Augsburg, 28. Mai/1. Juni 1874</title>
-				<author><persName key="buelow.hans-von"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="buelow.hans-von"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/az_1874-05-28_mailand.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,7 +18,7 @@
 					<placeName key="augsburg"/>
 					<date when-iso="1874-05-28"/>
 					<biblScope unit="issue">148</biblScope>
-					<biblScope unit="subIssue">148</biblScope>
+					<biblScope unit="subIssue">Beilage</biblScope>
 					<biblScope unit="page">2293–2294</biblScope>
 					<biblScope unit="page">1–2</biblScope>
 				</bibl>
@@ -35,7 +36,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -52,9 +55,9 @@
 			<pb break="null" n="1" type="initial"/>
 			<head rend="bold larger">Musikalisches aus <placeName key="italien"
 				>Italien</placeName>.</head>
-			<head>Von <hi rend="widespace"><persName key="buelow.hans-von">Hans v.
-					Bülow</persName></hi>.</head>
-			<head><hi rend="antiqua">I.</hi></head>
+			<byline>Von <hi rend="widespace"><persName key="buelow.hans-von">Hans v.
+						Bülow</persName></hi>.</byline>
+			<label><hi rend="antiqua">I.</hi></label>
 			<p><hi rend="bold"><g n="002A" type="ASTERISK">*</g>
 					<placeName key="mailand">Mailand</placeName>,</hi>
 				<date when-iso="1874-05-21">21. Mai</date>. Die rasche Aufeinanderfolge zweier
@@ -71,30 +74,30 @@
 				interessantere, war gestern Abend in dem neuen, der behaglichen Ausbreitung der
 				Besucher mehr als der der Schallwellen günstigen, <placeName
 					key="mailand.teatro-dal-verme">Teatro dal Verme</placeName> die erstmalige
-				Aufführung der russischen Nationaloper „<title
-					key="glinka.ein-leben-fuer-den-zaren" type="mus">Das Leben für den Zar</title>“ von
-					<persName key="glinka.michael">Michael Glinka</persName> in italienischer
-				Sprache, zugleich auch die erste Aufführung dieses hochbedeutenden, in seiner Art
-				classischen Werkes außerhalb der Gränzen des <placeName key="russland">russischen
-					Reiches</placeName>, in dessen sämmtlichen operfähigen Städten es sich seit 35
-				Jahren mit Recht einer Popularität erfreut der in Deutschland nur die von <persName
-					key="weber.carl-maria-von">Webers</persName> „<title key="weber.freischuetz" type="mus"
-					>Freischütz</title>“ an die Seite gestellt werden kann. <rs
-					key="mailand.1874.1" type="event">Das zweite wird die morgen Vormittags in der
-					hierfür theatralisch hergerichteten Kirche <placeName key="mailand.san-marco"
-						>San Marco</placeName> vom Autor, Senator <persName key="verdi.giuseppe"
-						>Giuseppe Verdi</persName>, ausnahmsweise selbst geleitete
-					Monstre-Aufführung seines im Auftrage der Stadtbehörden zur Feier der ersten
-					Wiederkehr von <persName key="manzoni.alessandro">Alessandro
-						Manzoni’s</persName> Sterbetag (<date when-iso="1873-05-22">22 Mai
-						1873</date>) componirten <title key="verdi.requiem" type="mus">Requiem</title>
-					sein</rs>, mit welchem der allgegenwärtige Verderber des italienischen
-				Kunstgeschmacks und Beherrscher dieses von ihm verdorbenen vermuthlich den letzten
-				seinem Ehrgeiz unbequemen Rest von <persName key="rossini.gioachino"
-					>Rossini’s</persName> Unsterblichkeit hinwegzuräumen hofft. Bekanntlich besteht
-				dieser letzte Rest in <placeName key="italien">Italien</placeName> eigentlich nur
-				noch in seiner Kirchenmusik, dem <title key="rossini.stabat-mater" type="mus">Stabat</title>
-				und der <title key="rossini.petite-messe-solennelle" type="mus">Festmesse</title>, so selten
+				Aufführung der russischen Nationaloper „<title key="glinka.ein-leben-fuer-den-zaren"
+					type="mus">Das Leben für den Zar</title>“ von <persName key="glinka.michael"
+					>Michael Glinka</persName> in italienischer Sprache, zugleich auch die erste
+				Aufführung dieses hochbedeutenden, in seiner Art classischen Werkes außerhalb der
+				Gränzen des <placeName key="russland">russischen Reiches</placeName>, in dessen
+				sämmtlichen operfähigen Städten es sich seit 35 Jahren mit Recht einer Popularität
+				erfreut der in Deutschland nur die von <persName key="weber.carl-maria-von"
+					>Webers</persName> „<title key="weber.freischuetz" type="mus"
+				>Freischütz</title>“ an die Seite gestellt werden kann. <rs key="mailand.1874.1"
+					type="event">Das zweite wird die morgen Vormittags in der hierfür theatralisch
+					hergerichteten Kirche <placeName key="mailand.san-marco">San Marco</placeName>
+					vom Autor, Senator <persName key="verdi.giuseppe">Giuseppe Verdi</persName>,
+					ausnahmsweise selbst geleitete Monstre-Aufführung seines im Auftrage der
+					Stadtbehörden zur Feier der ersten Wiederkehr von <persName
+						key="manzoni.alessandro">Alessandro Manzoni’s</persName> Sterbetag (<date
+						when-iso="1873-05-22">22 Mai 1873</date>) componirten <title
+						key="verdi.requiem" type="mus">Requiem</title> sein</rs>, mit welchem der
+				allgegenwärtige Verderber des italienischen Kunstgeschmacks und Beherrscher dieses
+				von ihm verdorbenen vermuthlich den letzten seinem Ehrgeiz unbequemen Rest von
+					<persName key="rossini.gioachino">Rossini’s</persName> Unsterblichkeit
+				hinwegzuräumen hofft. Bekanntlich besteht dieser letzte Rest in <placeName
+					key="italien">Italien</placeName> eigentlich nur noch in seiner Kirchenmusik,
+				dem <title key="rossini.stabat-mater" type="mus">Stabat</title> und der <title
+					key="rossini.petite-messe-solennelle" type="mus">Festmesse</title>, so selten
 				diese Werke seinen Landsleuten auch zu Gehör gebracht werden. Für die
 				Nichtmehrausführbarkeit <persName key="rossini.gioachino">Rossini’scher</persName>
 				Opern, wie <title key="rossini.guillaume-tell" type="mus">Tell</title>, <title
@@ -110,20 +113,21 @@
 				ihm eigens dressirten Solosänger die Wanderung nach <placeName key="paris"
 					>Paris</placeName>, zur Krönung des Werkes in diesem ästhetischen Rom der
 				Italiener, angetreten werden soll. Verstohlene Einblicke in die neueste Offenbarung
-				des Componisten von <title key="verdi.il-trovatore" type="mus">Trovatore</title> und <title
-					key="verdi.la-traviata" type="mus">Traviata</title> haben uns nicht eben lüstern nach dem
-				Genusse dieses „Festival“ gemacht, obwohl wir den Maestro das Zeugniß nicht versagen
-				können daß er’s sich diesmal hat weidlich sauer werden lassen. So ist unter anderem
-				die <title key="verdi.requiem.7" type="mus">Schlußfuge</title>, trotz vieler
-				Schülerhaftigkeiten, Abgeschmacktheiten und Häßlichkeiten, eine so fleißige Arbeit,
-				daß mancher deutsche Musiker eine große Ueberraschung daran erleben wird. Im
-				allgemeinen herrscht aber der Styl seiner neuesten Periode, wie ihn <placeName
-					key="berlin">Berlin</placeName> und <placeName key="wien">Wien</placeName>
-				durch die „<title key="verdi.aida" type="mus">Aïda</title>“ kennen gelernt haben, vor, jener
-				Styl über den ein witziger Gesanglehrer an der Donau äußerte: daß „derselbe sich
-				sehr zu seinem Nachtheil verbessert habe.“<note resp="tr" type="textLink">Vgl.
-						<persName key="kulke.eduard">Eduard Kulke</persName>, Besprechung der
-						<title key="verdi.aida" type="mus">Aida</title>, <ref
+				des Componisten von <title key="verdi.il-trovatore" type="mus">Trovatore</title> und
+					<title key="verdi.la-traviata" type="mus">Traviata</title> haben uns nicht eben
+				lüstern nach dem Genusse dieses „Festival“ gemacht, obwohl wir den Maestro das
+				Zeugniß nicht versagen können daß er’s sich diesmal hat weidlich sauer werden
+				lassen. So ist unter anderem die <title key="verdi.requiem.7" type="mus"
+					>Schlußfuge</title>, trotz vieler Schülerhaftigkeiten, Abgeschmacktheiten und
+				Häßlichkeiten, eine so fleißige Arbeit, daß mancher deutsche Musiker eine große
+				Ueberraschung daran erleben wird. Im allgemeinen herrscht aber der Styl seiner
+				neuesten Periode, wie ihn <placeName key="berlin">Berlin</placeName> und <placeName
+					key="wien">Wien</placeName> durch die „<title key="verdi.aida" type="mus"
+					>Aïda</title>“ kennen gelernt haben, vor, jener Styl über den ein witziger
+				Gesanglehrer an der Donau äußerte: daß „derselbe sich sehr zu seinem Nachtheil
+				verbessert habe.“<note resp="tr" type="textLink">Vgl. <persName key="kulke.eduard"
+						>Eduard Kulke</persName>, Besprechung der <title key="verdi.aida" type="mus"
+						>Aida</title>, <ref
 						target="http://anno.onb.ac.at/cgi-content/anno?aid=vtl&amp;datum=18740501&amp;seite=1"
 						type="text">Das Vaterland, Wien, 1. Mai 1874, S. 1–2</ref>: »Verdi hat hier
 					wirklich eine neue Bahn betreten, ob zu seinem Vortheil oder Nachtheil, dies

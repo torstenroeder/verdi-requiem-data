@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 20. November 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1875-11-20_ankuendigung.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -42,15 +43,15 @@
 			<gap resp="tr"/>
 			<p><g n="2715" type="MULTIPLICATION_X">✕</g> (<persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title>.) Den Brünnern steht ein besonderer
-				künstlerischer Genuß bevor. <rs key="bruenn.1876.1" type="event">Am <date
+				<title key="verdi.requiem" type="mus">Requiem</title>.) Den Brünnern steht ein
+				besonderer künstlerischer Genuß bevor. <rs key="bruenn.1876.1" type="event">Am <date
 						when-iso="1876-01-02">2. Jänner</date> soll uns das <title
-						key="verdi.requiem" type="mus">Requiem</title> von <persName key="verdi.giuseppe"
-						>Verdi</persName> unter gefälliger Mitwirkung der Frau <persName
-						key="gompertz-bettelheim.karoline-von">Gomperz-Bettelheim</persName>
-					vorgeführt werden.</rs> Frau <persName key="gompertz-bettelheim.karoline-von"
-					>v. Gomperz</persName> ist stets am Platze, wo es gilt, künstlerische Interessen
-				zu fördern.</p>
+						key="verdi.requiem" type="mus">Requiem</title> von <persName
+						key="verdi.giuseppe">Verdi</persName> unter gefälliger Mitwirkung der Frau
+						<persName key="gompertz-bettelheim.karoline-von"
+						>Gomperz-Bettelheim</persName> vorgeführt werden.</rs> Frau <persName
+					key="gompertz-bettelheim.karoline-von">v. Gomperz</persName> ist stets am
+				Platze, wo es gilt, künstlerische Interessen zu fördern.</p>
 		</body>
 	</text>
 </TEI>

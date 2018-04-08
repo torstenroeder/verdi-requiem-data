@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 8. Dezember 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1876-12-08_bristol.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bristol"/><date when-iso="1876-07"/></creation>
+			<creation>
+				<placeName key="bristol"/>
+				<date when-iso="1876-07"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -44,10 +46,13 @@
 			xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
-			<pb n="712" type="initial"/>
+		<front rend="antiqua">
+			<pb n="712"/>
 			<head rend="lineale bold">Aufgeführte Novitäten.</head>
-			<pb break="null" facs="#f1" n="713" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="antiqua">
+			<pb facs="#f1" n="713"/>
 			<p rend="hanging"><persName key="verdi.giuseppe"><hi rend="widespace">Verdi</hi>
 					(G.)</persName>, <title key="verdi.requiem" type="mus">Requiem</title>. (<rs
 					key="bristol.1876" type="event"><placeName key="bristol">Bristol</placeName>,

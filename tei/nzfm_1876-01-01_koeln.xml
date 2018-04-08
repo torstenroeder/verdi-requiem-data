@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 1. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-01-01_guerzenichkonzert.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,35 +41,39 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760101&amp;seite=7"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="4b" type="initial"/>
+		<front rend="fraktur">
+			<cb n="4b"/>
 			<head rend="larger">Correspondenzen.</head>
-			<cb break="null" n="6b" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="6b"/>
 			<p rend="right"><hi rend="bold"><placeName key="koeln">Cöln</placeName>.</hi></p>
-			<pb break="null" n="7" type="skipped"/>
+			<pb n="7" type="skipped"/>
 			<p><rs key="koeln.1875.1" type="event">Das <hi rend="widespace">vierte
 						Gürzenichconcert</hi> brachte das von vielen Seiten mit Spannung erwartete
-						<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> von <hi
-						rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi>, dem
-						<persName key="svendsen.johan">Svendsen’s</persName> „<hi rend="widespace"
-							><title key="svendsen.sigurd-slembe" type="mus">Sigurd Slembe</title></hi>“,
+						<hi rend="antiqua"><title key="verdi.requiem" type="mus"
+						>Requiem</title></hi> von <hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi</persName></hi>, dem <persName
+						key="svendsen.johan">Svendsen’s</persName> „<hi rend="widespace"><title
+							key="svendsen.sigurd-slembe" type="mus">Sigurd Slembe</title></hi>“,
 					symphonische Einleitung zu <persName key="bjoernson.bjoernstjerne">Björne
 						Björnsons</persName> gleichnamigem Drama) vorherging</rs>. Die Wahl dieser
 				Composition des talentvollen nordischen Componisten unmittelbar vor dem <hi
-					rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> des Italieners
-				mag Einiges gegen sich haben, trotzdem hätte die Vorführung des charakteristischen
-				Werkes mehr Beifall Seitens des Publikums verdient, welches an diesem Abend vor
-				Ungeduld nach <persName key="verdi.giuseppe">Verdi’s</persName> vielbesprochener
-				Schöpfung für alles Andere unempfänglich schien. Die Ungeduld, mit der man einem
-				Werke entgegensah, welches äußerlich wenigstens als epochemachend zu bezeichnen ist
-				und welches in <placeName key="wien">Wien</placeName>, der Metropole der Musik,
-				einen sensationellen Erfolg gehabt, ist eine sehr begreifliche und wird noch
-				begreiflicher, wenn man bedenkt, daß der nun 60jährige Componist mit dem <title
-					key="verdi.requiem" type="mus">Requiem</title> sich auf ein Gebiet wagte, welches er, da
-				es seiner Natur mindestens fern liegt, bis jetzt geflissentlich gemieden hatte.
-				Tritt man mit diesem Bewußtsein und hiernach modificirten Ansprüchen an das Werk
-				heran, so wird die Wirkung desselben jedenfalls die gehegten Erwartungen weit
-				übertreffen, ja es werden sich Stellen finden, die dazu herausfordern, mit dem
+					rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> des
+				Italieners mag Einiges gegen sich haben, trotzdem hätte die Vorführung des
+				charakteristischen Werkes mehr Beifall Seitens des Publikums verdient, welches an
+				diesem Abend vor Ungeduld nach <persName key="verdi.giuseppe">Verdi’s</persName>
+				vielbesprochener Schöpfung für alles Andere unempfänglich schien. Die Ungeduld, mit
+				der man einem Werke entgegensah, welches äußerlich wenigstens als epochemachend zu
+				bezeichnen ist und welches in <placeName key="wien">Wien</placeName>, der Metropole
+				der Musik, einen sensationellen Erfolg gehabt, ist eine sehr begreifliche und wird
+				noch begreiflicher, wenn man bedenkt, daß der nun 60jährige Componist mit dem <title
+					key="verdi.requiem" type="mus">Requiem</title> sich auf ein Gebiet wagte,
+				welches er, da es seiner Natur mindestens fern liegt, bis jetzt geflissentlich
+				gemieden hatte. Tritt man mit diesem Bewußtsein und hiernach modificirten Ansprüchen
+				an das Werk heran, so wird die Wirkung desselben jedenfalls die gehegten Erwartungen
+				weit übertreffen, ja es werden sich Stellen finden, die dazu herausfordern, mit dem
 				höchsten musikalischen Maßstabe gemessen zu werden, und in der That auch der
 				strengsten Kritik getrost in’s Auge schauen dürfen. Es sind dies die Stellen, in
 				denen der Comp. dem Effect die Concession entzogen, und sei es mit Benutzung
@@ -76,73 +81,75 @@
 				formelle Anklänge an den kirchlichen Ritus eine Musik geschaffen hat, die bei
 				individueller Physiognomie den Geist der Textesworte mit einem ihm entsprechenden
 				Gewande umkleidete. Ich denke hierbei an die Nrn. <hi rend="antiqua"><title
-						key="verdi.requiem.1" type="mus">I (Requiem aeternam)</title></hi>, <hi rend="antiqua"
-						><title key="verdi.requiem.4" type="mus">IV (Sanctus)</title></hi>, zum Theil Nr. <hi
-					rend="antiqua"><title key="verdi.requiem.2" type="mus">II (Dies irae)</title></hi> und <hi
-					rend="antiqua"><title key="verdi.requiem.7" type="mus">VII (Libera me)</title></hi> und
-				einige andere kürzere Partien. In jedem von diesen Stücken herrscht vor allem eine
-				einheitliche Stimmung, die durch mannigfache specifisch musikalische Schönheiten
-				auch einem verwöhnten Geschmack genußreiche Momente in Fülle bietet. Je größeren
-				Ansprüchen diese Stellen aber genügen, desto begründeter erscheint das Recht,
-				denselben Maßstab an jede Nr., an das Werk in seiner Totalität zu legen. Und da
-				findet sich freilich Manches, was nicht nur die Probe nicht aushält sondern in einem
-					<hi rend="antiqua">Requiem</hi> von vornherein als künstlerisch unsittlich
-				verworfen werden muß. Dies sind diejenigen Stellen, in denen der Kirchencomponist
-				vom Operncomponist überwu<cb break="no" n="7[2]" type="regular"/>chert, in denen die
-				innere Uebereinstimmung der Musik und des Textes hintenangelegt und der <hi
-					rend="widespace">Effekt</hi> auf den Schild erhoben wird. Dergleichen Partien
-				nehmen doch im Ganzen einen zu großen Raum ein, als daß die Schönheiten des Werkes
-				nicht darunter leiden müßten. Daß sich unter diesen Effecten, die im Ganzen auf den
-					<persName key="wagner.richard">Wagner</persName>-<persName key="liszt.franz"
-					>Liszt’schen</persName> Errungenschaften basiren, manche neue und höchst
-				originelle finden, soll nicht geläugnet werden, nur ist die Frage, ob sie hier am
-				Platze, deshalb nichts destoweniger mit mit Nein zu beantworten. So wirkt namentlich
-				das zu häufig verwendete hohe Tremolo der Geigen, (welches gänzlich zu verbannen
-				natürlich unbillig wäre) mit der Zeit peinigend, und wenn dann an einer Stelle auch
-				noch eine von <persName key="wagner.richard">Wagner</persName> zuerst oder mit
-				Vorliebe gebrauchte Modulation hinzutritt, so erwartet man jeden Augenblick den Ruf:
-				„Der Schwan, der Schwan!“<note resp="tr" type="musicLink">Vgl. <title
-						key="wagner.lohengrin" type="mus">Lohengrin, Dritter Aufzug</title>; der Ausruf steht
-					stets auf einem vollverminderten Septakkord, ungefähr vergleichbar mit dem
-					Beginn des <title key="verdi.requiem.7" type="mus">Libera me</title>.</note> zu hören, ein
-				Umstand, der dem beabsichtigten Eindruck der betreffenden Stelle natürlich nicht
-				förderlich ist. Eine zu häufig verwandte Schlußformel (Dominantseptimenaccord mit
-				vorgehaltener Sexte unter einer Fermate)<note resp="tr" type="musicLink">Vgl. z. B.
-						<title key="verdi.requiem.3" type="mus"
+						key="verdi.requiem.1" type="mus">I (Requiem aeternam)</title></hi>, <hi
+					rend="antiqua"><title key="verdi.requiem.4" type="mus">IV
+				(Sanctus)</title></hi>, zum Theil Nr. <hi rend="antiqua"><title
+						key="verdi.requiem.2" type="mus">II (Dies irae)</title></hi> und <hi
+					rend="antiqua"><title key="verdi.requiem.7" type="mus">VII (Libera
+					me)</title></hi> und einige andere kürzere Partien. In jedem von diesen Stücken
+				herrscht vor allem eine einheitliche Stimmung, die durch mannigfache specifisch
+				musikalische Schönheiten auch einem verwöhnten Geschmack genußreiche Momente in
+				Fülle bietet. Je größeren Ansprüchen diese Stellen aber genügen, desto begründeter
+				erscheint das Recht, denselben Maßstab an jede Nr., an das Werk in seiner Totalität
+				zu legen. Und da findet sich freilich Manches, was nicht nur die Probe nicht aushält
+				sondern in einem <hi rend="antiqua">Requiem</hi> von vornherein als künstlerisch
+				unsittlich verworfen werden muß. Dies sind diejenigen Stellen, in denen der
+				Kirchencomponist vom Operncomponist überwu<cb break="no" n="7[2]" type="regular"
+				/>chert, in denen die innere Uebereinstimmung der Musik und des Textes
+				hintenangelegt und der <hi rend="widespace">Effekt</hi> auf den Schild erhoben wird.
+				Dergleichen Partien nehmen doch im Ganzen einen zu großen Raum ein, als daß die
+				Schönheiten des Werkes nicht darunter leiden müßten. Daß sich unter diesen Effecten,
+				die im Ganzen auf den <persName key="wagner.richard">Wagner</persName>-<persName
+					key="liszt.franz">Liszt’schen</persName> Errungenschaften basiren, manche neue
+				und höchst originelle finden, soll nicht geläugnet werden, nur ist die Frage, ob sie
+				hier am Platze, deshalb nichts destoweniger mit mit Nein zu beantworten. So wirkt
+				namentlich das zu häufig verwendete hohe Tremolo der Geigen, (welches gänzlich zu
+				verbannen natürlich unbillig wäre) mit der Zeit peinigend, und wenn dann an einer
+				Stelle auch noch eine von <persName key="wagner.richard">Wagner</persName> zuerst
+				oder mit Vorliebe gebrauchte Modulation hinzutritt, so erwartet man jeden Augenblick
+				den Ruf: „Der Schwan, der Schwan!“<note resp="tr" type="musicLink">Vgl. <title
+						key="wagner.lohengrin" type="mus">Lohengrin, Dritter Aufzug</title>; der
+					Ausruf steht stets auf einem vollverminderten Septakkord, ungefähr vergleichbar
+					mit dem Beginn des <title key="verdi.requiem.7" type="mus">Libera
+					me</title>.</note> zu hören, ein Umstand, der dem beabsichtigten Eindruck der
+				betreffenden Stelle natürlich nicht förderlich ist. Eine zu häufig verwandte
+				Schlußformel (Dominantseptimenaccord mit vorgehaltener Sexte unter einer
+					Fermate)<note resp="tr" type="musicLink">Vgl. z. B. <title key="verdi.requiem.3"
+						type="mus"
 					>Offertorio</title>.<!--*REFERENZ genaue Stelle im Offertorio?--></note>, die,
 				wenn sie nicht sparsam verwandt wird, trotz <persName key="wagner.richard"
 					>Wagner</persName> etwas Triviales an sich hat, berührt ebenfalls mit der Zeit
 				unangenehm, wie denn die in den Solonrn. fast durchgängig hervortretende Neigung,
 				den Haupteffect gegen den Sinn des Textes in den Schluß der musikalischen Periode zu
 				legen, etwas entschieden Opernhaftes an sich trägt. Eine eigenthümliche Behandlung
-				hat das <hi rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus dei</title></hi>
-				erfahren, welches (abgesehen von einigen Intermezzo’s des Chors von zwei Solostimmen
-				(Sopran und Alt) in Octaven vorgetragen wird. Die Altstimme nimmt durch diesen
-				Contrast eine ausgesprochen männliche Färbung an, ein Effect, den ich nichts weniger
-				als schön finden kann, wenn ich auch überzeugt bin, daß ein großer Theil der Hörer
-				einen besonderen Reiz erblicken wird. Unschön ist auch die Fanfareneinleitung zum
-					<hi rend="antiqua"><title key="verdi.requiem.2.tuba-mirum" type="mus">Tuba
-					mirum</title></hi> durch 8 Solotrompeten, die zum Theil im Orchester, zum Theil
-				aus der Entfernung einen ganz amüsanten Ohrenschmaus bereiten aber doch mehr an den
-				Circus erinnern als an das jüngste Gericht. Immerhin bietet jedoch dieses Requiem
-				trotz aller Mängel des Schönen und Großartigen so Viel, daß es als eine wirkliche
-				Bereicherung der Literatur angesehen werden kann, wenn es sich auch mit unseren
-				ersten deutschen Schöpfungen auf kirchlichem Gebiete nicht messen darf. Man muß es
-				als ein besonderes Verdienst unserer Concertdirection bezeichnen, daß sie es sich
-				hat angelegen sein lassen, die erste Aufführung dieses Werkes im deutschen Reich zu
-				veranstalten. Durch die besondere Liebe und Gründlichkeit, welche <persName
-					key="hiller.ferdinand">Hiller</persName> den Proben angedeihen ließ, wurde eine
-				Aufführung erzielt, die bez. des Orchesters und Chores den Intentionen des
-				Componisten im besten Sinne gerecht wurde. Von den Solisten hätte sich Frl. <hi
+				hat das <hi rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus
+					dei</title></hi> erfahren, welches (abgesehen von einigen Intermezzo’s des Chors
+				von zwei Solostimmen (Sopran und Alt) in Octaven vorgetragen wird. Die Altstimme
+				nimmt durch diesen Contrast eine ausgesprochen männliche Färbung an, ein Effect, den
+				ich nichts weniger als schön finden kann, wenn ich auch überzeugt bin, daß ein
+				großer Theil der Hörer einen besonderen Reiz erblicken wird. Unschön ist auch die
+				Fanfareneinleitung zum <hi rend="antiqua"><title key="verdi.requiem.2.tuba-mirum"
+						type="mus">Tuba mirum</title></hi> durch 8 Solotrompeten, die zum Theil im
+				Orchester, zum Theil aus der Entfernung einen ganz amüsanten Ohrenschmaus bereiten
+				aber doch mehr an den Circus erinnern als an das jüngste Gericht. Immerhin bietet
+				jedoch dieses Requiem trotz aller Mängel des Schönen und Großartigen so Viel, daß es
+				als eine wirkliche Bereicherung der Literatur angesehen werden kann, wenn es sich
+				auch mit unseren ersten deutschen Schöpfungen auf kirchlichem Gebiete nicht messen
+				darf. Man muß es als ein besonderes Verdienst unserer Concertdirection bezeichnen,
+				daß sie es sich hat angelegen sein lassen, die erste Aufführung dieses Werkes im
+				deutschen Reich zu veranstalten. Durch die besondere Liebe und Gründlichkeit, welche
+					<persName key="hiller.ferdinand">Hiller</persName> den Proben angedeihen ließ,
+				wurde eine Aufführung erzielt, die bez. des Orchesters und Chores den Intentionen
+				des Componisten im besten Sinne gerecht wurde. Von den Solisten hätte sich Frl. <hi
 					rend="widespace"><persName key="lehmann.marie">Lehmann</persName></hi> und
 				stellenweise auch Frl. <hi rend="widespace"><persName key="keller.elsa"
 						>Keller</persName></hi> reinerer Intonationen befleißigen können. Im
 				Uebrigen reihten auch sie sich nebst den HH. <hi rend="widespace"><persName
-						key="diener.franz">Diener</persName></hi> und <hi rend="widespace"
-						><persName key="schelper.otto">Schelper</persName></hi><supplied resp="tr"
-					>)</supplied> dem Ganzen würdig ein. Das Werk wurde vom Publikum mit größter
-				Aufmerksamkeit verfolgt und, wenn auch nicht immer an den richtigen Stellen, durch
-				lebhaften Beifall ausgezeichnet. —</p>
+						key="diener.franz">Diener</persName></hi> und <hi rend="widespace"><persName
+						key="schelper.otto">Schelper</persName></hi><supplied resp="tr">)</supplied>
+				dem Ganzen würdig ein. Das Werk wurde vom Publikum mit größter Aufmerksamkeit
+				verfolgt und, wenn auch nicht immer an den richtigen Stellen, durch lebhaften
+				Beifall ausgezeichnet. —</p>
 		</body>
 	</text>
 </TEI>

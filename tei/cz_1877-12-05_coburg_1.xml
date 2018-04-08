@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Coburger Zeitung, 5. Dezember 1877 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/cz_1877-12-05_kunstnotiz.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="coburg"/></creation>
+			<creation>
+				<placeName key="coburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -49,8 +50,8 @@
 			<p><rs key="coburg.1877.1" type="event">Ueber das am <date>nächsten Freitag, den 7.
 						December</date>, Abends, <placeName key="coburg.hoftheater">im Herzoglichen
 							<pb break="yes" n="1153" type="regular"/>Hoftheater</placeName> zur
-					Aufführung gelangende „<hi rend="widespace"><title key="verdi.requiem" type="mus"
-							>Requiem</title></hi>“ von <hi rend="widespace"><persName
+					Aufführung gelangende „<hi rend="widespace"><title key="verdi.requiem"
+							type="mus">Requiem</title></hi>“ von <hi rend="widespace"><persName
 							key="verdi.giuseppe">Verdi</persName></hi> bemerken wir Folgendes</rs>:
 				Die höchst interessante und eigenartige Todtenmesse wurde von <persName
 					key="verdi.giuseppe">Verdi</persName> zum Todestage <persName
@@ -63,49 +64,51 @@
 					<corr resp="tr">119</corr>
 				</choice> unserer Zeitung vom <date when-iso="1877-05-25">25. Mai</date>.)</p>
 			<p>Gleich die erste Nr. Soloquartett und Chor <hi rend="antiqua"><title
-						key="verdi.requiem.1" type="mus">„Requiem aeternam“</title></hi> (Ewige Ruhe gib
-				ihnen) ist von tief ergreifender Wirkung. <hi rend="antiqua"><title
-						key="verdi.requiem.2.dies-irae" type="mus">„Dies irae“</title></hi> ist ein durch
-				überraschende Modulationen gehobener, kräftiger, feuriger, ganz den Worten „Tag des
-				Schreckens“ entsprechender Chorgesang. Im <hi rend="antiqua"><title
-						key="verdi.requiem.2.tuba-mirum" type="mus">„Tuba mirum“</title></hi> behaupten die
-				Blechinstrumente selbstverständlich das Feld und das Musikstück schließt sich an das
-				höchst originelle Baß-Solo <hi rend="antiqua"><title n="mors-stupebit"
-						key="verdi.requiem.2.tuba-mirum" type="mus">„Mors stupebit“</title></hi> mit
-				Solobegleitung der großen Trommel an. — Als Gegensatz zu den lärmenden Musikstücken
-				bietet das <title key="verdi.requiem" type="mus">Requiem</title> aber auch viel Zartes und
-				Duftiges, wie z. B. das Terzett <hi rend="antiqua"><title
-						key="verdi.requiem.2.quid-sum-miser" type="mus">„Quid sum miser tunc
-					dicturus“</title></hi> für Sopran, Alt und Tenorstimmen, das berühmte Duett <hi
-					rend="antiqua"><title key="verdi.requiem.2.recordare" type="mus">„Recordare, Jesu
-						pie“</title></hi> für Sopran und Alt und die Arien <hi rend="antiqua"><title
-						n="qui-mariam" key="verdi.requiem.2.ingemisco" type="mus">„Qui Mariam
+						key="verdi.requiem.1" type="mus">„Requiem aeternam“</title></hi> (Ewige Ruhe
+				gib ihnen) ist von tief ergreifender Wirkung. <hi rend="antiqua"><title
+						key="verdi.requiem.2.dies-irae" type="mus">„Dies irae“</title></hi> ist ein
+				durch überraschende Modulationen gehobener, kräftiger, feuriger, ganz den Worten
+				„Tag des Schreckens“ entsprechender Chorgesang. Im <hi rend="antiqua"><title
+						key="verdi.requiem.2.tuba-mirum" type="mus">„Tuba mirum“</title></hi>
+				behaupten die Blechinstrumente selbstverständlich das Feld und das Musikstück
+				schließt sich an das höchst originelle Baß-Solo <hi rend="antiqua"><title
+						key="verdi.requiem.2.tuba-mirum" n="mors-stupebit" type="mus">„Mors
+						stupebit“</title></hi> mit Solobegleitung der großen Trommel an. — Als
+				Gegensatz zu den lärmenden Musikstücken bietet das <title key="verdi.requiem"
+					type="mus">Requiem</title> aber auch viel Zartes und Duftiges, wie z. B. das
+				Terzett <hi rend="antiqua"><title key="verdi.requiem.2.quid-sum-miser" type="mus"
+						>„Quid sum miser tunc dicturus“</title></hi> für Sopran, Alt und
+				Tenorstimmen, das berühmte Duett <hi rend="antiqua"><title
+						key="verdi.requiem.2.recordare" type="mus">„Recordare, Jesu
+					pie“</title></hi> für Sopran und Alt und die Arien <hi rend="antiqua"><title
+						key="verdi.requiem.2.ingemisco" n="qui-mariam" type="mus">„Qui Mariam
 						absolvisti“</title></hi> für Tenor und <hi rend="antiqua"><title
-						key="verdi.requiem.2.confutatis" type="mus">„Confutatis“</title></hi> für Baß. <hi
-					rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus">„Lacrymosa“,</title></hi>
-				ein zartes, Andacht erregendes Quartett für Sologesang, in welches stellenweise der
-				Chorgesang eintritt, ist eine der wirksamsten Nummern der ganzen Tondichtung. <hi
-					rend="antiqua"><title n="domine-jesu" key="verdi.requiem.3" type="mus">„Domine
-						Jesu“,</title></hi>
-				<hi rend="antiqua"><title key="verdi.requiem.6" type="mus">„Lux aeterna“</title></hi> und <hi
-					rend="antiqua"><title key="verdi.requiem.5" type="mus">„Agnus Dei“</title></hi> sind sehr
-				melodiöse, ausdrucksvolle Tonstücke, deren Wirkung erhebend und rührend ist. <hi
-					rend="antiqua"><title key="verdi.requiem.4" type="mus">„Sanctus“</title></hi> Fuge und
-				Doppelchor ist ein compacter Tonsatz, in welchem <persName key="verdi.giuseppe"
+						key="verdi.requiem.2.confutatis" type="mus">„Confutatis“</title></hi> für
+				Baß. <hi rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus"
+						>„Lacrymosa“,</title></hi> ein zartes, Andacht erregendes Quartett für
+				Sologesang, in welches stellenweise der Chorgesang eintritt, ist eine der
+				wirksamsten Nummern der ganzen Tondichtung. <hi rend="antiqua"><title
+						key="verdi.requiem.3" n="domine-jesu" type="mus">„Domine Jesu“,</title></hi>
+				<hi rend="antiqua"><title key="verdi.requiem.6" type="mus">„Lux
+					aeterna“</title></hi> und <hi rend="antiqua"><title key="verdi.requiem.5"
+						type="mus">„Agnus Dei“</title></hi> sind sehr melodiöse, ausdrucksvolle
+				Tonstücke, deren Wirkung erhebend und rührend ist. <hi rend="antiqua"><title
+						key="verdi.requiem.4" type="mus">„Sanctus“</title></hi> Fuge und Doppelchor
+				ist ein compacter Tonsatz, in welchem <persName key="verdi.giuseppe"
 					>Verdi</persName>, wie in der Schlußfuge <hi rend="antiqua"><title
-						key="verdi.requiem.7" type="mus">„Libera me Domine“,</title></hi> bewiesen hat, daß er
-				auch in contrapunctischen Wendungen zu Hause ist. Schließlich muß noch des
-				herrlichen Chorgesangs mit Sopransolis a capella, welcher von weihevoller Erfindung
-				ist, gedacht werden.</p>
+						key="verdi.requiem.7" type="mus">„Libera me Domine“,</title></hi> bewiesen
+				hat, daß er auch in contrapunctischen Wendungen zu Hause ist. Schließlich muß noch
+				des herrlichen Chorgesangs mit Sopransolis a capella, welcher von weihevoller
+				Erfindung ist, gedacht werden.</p>
 			<p>Die Chöre werden, außer vom Hoftheater-Chor, von den Mitgliedern des hiesigen
 				Sängerkranzes ausgeführt. Die Soloparthien sind in den Händen der Fräulein <hi
 					rend="widespace"><persName key="gerl.helene" role="soloist.soprano"
 						>Gerl</persName></hi> und <hi rend="widespace"><persName key="stirl.helene"
 						role="soloist.mezzo">Stirl</persName></hi>, sowie der Herren <hi
 					rend="widespace"><persName key="eilers.ludwig-albert" role="soloist.tenor"
-						>Eilers</persName></hi> und <hi rend="widespace"><persName
-						key="buerger.max" role="soloist.basso">Bürger</persName></hi> — Namen,
-				welche für die Vortrefflichkeit ihrer Leistungen einstehen.</p>
+						>Eilers</persName></hi> und <hi rend="widespace"><persName key="buerger.max"
+						role="soloist.basso">Bürger</persName></hi> — Namen, welche für die
+				Vortrefflichkeit ihrer Leistungen einstehen.</p>
 		</body>
 	</text>
 </TEI>

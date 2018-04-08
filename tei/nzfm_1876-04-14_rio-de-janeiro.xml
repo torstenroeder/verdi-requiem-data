@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 14. April 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-04-14_rio-de-janeiro.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="rio-de-janeiro"/></creation>
+			<creation>
+				<placeName key="rio-de-janeiro"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,17 +41,20 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760414&amp;seite=6"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="165" type="initial"/>
+		<front rend="fraktur">
+			<pb n="165"/>
 			<head rend="larger">Tagesgeschichte.</head>
 			<head>Aufführungen.</head>
-			<pb break="null" n="166" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<pb n="166"/>
 			<p><rs key="rio-de-janeiro.1876" type="event"><hi rend="widespace"><placeName
 							key="rio-de-janeiro">Rio de Janeiro</placeName></hi>. Auch die
 					Hauptstadt <placeName key="brasilien">Brasiliens</placeName> hat bereits ihre
 					Aufführung von <persName key="verdi.giuseppe">Verdi’s</persName>
-					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> unter großem
-					Furore gehabt.</rs> —</p>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>
+					unter großem Furore gehabt.</rs> —</p>
 		</body>
 	</text>
 </TEI>

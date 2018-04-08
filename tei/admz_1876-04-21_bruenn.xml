@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AdMz, Leipzig, 21. April 1876</title>
-				<author><persName key="goldhann.ludwig"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="goldhann.ludwig"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/admz_1876-04-21_bruenn.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +24,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -37,9 +40,12 @@
 	</teiHeader>
 	<!--<graphic n="admz_1876-04-21_127.png"/>-->
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="127b" type="initial"/>
+		<front rend="fraktur">
+			<cb break="null" n="127b"/>
 			<head rend="widespace larger">Correspondenzen.</head>
+			<!--nogap-->
+		</front>
+		<body rend="fraktur">
 			<p><hi rend="bold"><placeName key="bruenn">Brünn</placeName>.</hi> Das Musikleben
 				unserer Stadt bot im abgelaufenen ersten Viertel des Jahres so wenig hervorstehende
 				Momente, daß die Aufgabe des Berichterstatters eine sehr leichte wird. Der schwere
@@ -51,8 +57,8 @@
 					key="bruenn.1876" type="event">die (wiederholte) Aufführung von <hi
 						rend="widespace"><persName key="verdi.giuseppe" role="composer"
 							>Verdi’s</persName>
-						<title key="verdi.requiem" type="mus">Requiem</title></hi>, unter Mitwirkung der <hi
-						rend="widespace">köngl. Kammersängerin Frl. <persName
+						<title key="verdi.requiem" type="mus">Requiem</title></hi>, unter Mitwirkung
+					der <hi rend="widespace">köngl. Kammersängerin Frl. <persName
 							key="gompertz-bettelheim.karoline-von"><choice>
 								<orig>Gompery-Bettelprinz</orig>
 								<corr resp="tr">Gompertz-Bettelheim</corr>

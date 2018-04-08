@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 4. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1876-01-04_kritik.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,12 +41,12 @@
 			<head rend="larger">Konzert.</head>
 			<p><rs key="bruenn.1876.1" type="event"><persName key="verdi.giuseppe"
 						>Verdi’s</persName> „<hi rend="widespace">Requiem</hi>“ gelangte
-						<date>Sonntag am 2. Jänner</date> im <placeName
-						key="bruenn.redouta-theater">Redoutensaale</placeName> zur ersten
-					Aufführung.</rs> Der Erfolg war ein glänzender in jeder Beziehung, was bei dem
-				sorgfältigen Studium und der Mitwirkung so vorzüglicher Kräfte zu erwarten war.</p>
-			<p>Wir haben der „<title key="verdi.requiem" type="mus">Todtenmesse</title>“ bereits eine
-				ausführliche Besprechung gewidmet und es bleibt uns nach dem Anhören des Werkes
+						<date>Sonntag am 2. Jänner</date> im <placeName key="bruenn.redouta-theater"
+						>Redoutensaale</placeName> zur ersten Aufführung.</rs> Der Erfolg war ein
+				glänzender in jeder Beziehung, was bei dem sorgfältigen Studium und der Mitwirkung
+				so vorzüglicher Kräfte zu erwarten war.</p>
+			<p>Wir haben der „<title key="verdi.requiem" type="mus">Todtenmesse</title>“ bereits
+				eine ausführliche Besprechung gewidmet und es bleibt uns nach dem Anhören des Werkes
 				wenig mehr zu sagen übrig. Nur fanden wir unsere Ansicht, daß der Italiener
 					<persName key="verdi.giuseppe">Verdi</persName> sein Naturell nicht verläugnet
 				hat, noch schärfer bestätigt, als wir es gegen den Ausspruch vieler kritischer
@@ -87,13 +88,14 @@
 				hervor. Wir haben der geehrten Künstlerin schon so viele Genüsse zu verdanken, daß
 				wir beinahe um Worte des Lobes verlegen werden. Die Macht ihres wunderbaren Organs,
 				der echt künstlerisch weihevolle Vortrag übte seinen Zauber, besonders im <hi
-					rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title></hi>
-				und <hi rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> aus.
-				Letztere Nummer wurde auf stürmisches Verlangen wiederholt.</p>
+					rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus"
+						>Lacrymosa</title></hi> und <hi rend="antiqua"><title key="verdi.requiem.5"
+						type="mus">Agnus Dei</title></hi> aus. Letztere Nummer wurde auf stürmisches
+				Verlangen wiederholt.</p>
 			<p>Mit voller Anerkennung nennen wir Fräul. <hi rend="widespace"><persName
-						key="will.julie">Will</persName></hi>, welche den schwierigen,
-				anstrengenden Sopranpart vollkommen bewältigte und im Vortrage einen gefühlvollen
-				Ausdruck entwickelte.</p>
+						key="will.julie">Will</persName></hi>, welche den schwierigen, anstrengenden
+				Sopranpart vollkommen bewältigte und im Vortrage einen gefühlvollen Ausdruck
+				entwickelte.</p>
 			<p>Auch die Herren <hi rend="widespace"><persName key="curiel.xxx"
 					>Curiel</persName></hi> und <hi rend="widespace"><persName
 						key="krejci.friedrich">Krejczy</persName></hi> haben Recht auf

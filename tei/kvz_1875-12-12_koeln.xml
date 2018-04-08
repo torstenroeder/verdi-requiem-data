@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Volkszeitung, 12. Dezember 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/kvz_1875-12-12_viertes-abonnements-concert.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="koeln"/>
 					<date when-custom="sun" when-iso="1875-12-12"/>
 					<biblScope unit="issue">342</biblScope>
-					<biblScope unit="subIssue">342</biblScope>
+					<biblScope unit="subIssue">Zweites Blatt</biblScope>
 					<series>kvz</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -39,49 +40,48 @@
 		<body rend="fraktur">
 			<cb break="null" n="3b" type="initial"/>
 			<head rend="larger"><g n="2021" type="DOUBLE_DAGGER">‡</g>
-				<rs key="koeln.1875.1" type="event">Viertes Abonnements-Concert im großen
-						<placeName key="koeln.guerzenich">Gürzenich-Saale</placeName>.</rs></head>
+				<rs key="koeln.1875.1" type="event">Viertes Abonnements-Concert im großen <placeName
+						key="koeln.guerzenich">Gürzenich-Saale</placeName>.</rs></head>
 			<head rend="plain"><date when-iso="1875-12-07">Dinstag, den 7. December
 				1875</date>.</head>
 			<p>Der jüngste Concert-Abend brachte nur zwei Werke; um des einheitlichen Eindrucks
 				willen wäre indeß zu wünschen gewesen, wenn es bei dem Einen, nämlich <persName
 					key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title>, geblieben wäre. Die beiden Musikstücke
-				stimmen so wenig zu einander, wie die beiden Heimathländer der Componisten,
-					<placeName key="skandinavien">Scandinavien</placeName> und <placeName
-					key="italien">Italien</placeName>; sie haben nur das miteinander gemein, daß
-				sie ein gleich feuriges Temperament zeigen. Die Schöpfung des Nordländers, <persName
+				<title key="verdi.requiem" type="mus">Requiem</title>, geblieben wäre. Die beiden
+				Musikstücke stimmen so wenig zu einander, wie die beiden Heimathländer der
+				Componisten, <placeName key="skandinavien">Scandinavien</placeName> und <placeName
+					key="italien">Italien</placeName>; sie haben nur das miteinander gemein, daß sie
+				ein gleich feuriges Temperament zeigen. Die Schöpfung des Nordländers, <persName
 					key="svendsen.johan"><choice>
 						<orig>S.</orig>
 						<corr resp="tr">J.</corr>
 					</choice>
 					<hi rend="widespace">Swendsen</hi></persName>, ist eine <title
-					key="svendsen.sigurd-slembe" type="mus">sinfonische Einleitung</title> zu <persName
-					key="bjoernson.bjoernstjerne">Björnsterne Björnson’s</persName> Drama „Sigurd
-				Slembe“. Der Dichter ist in letzterer Zeit auch in Deutschland bekannt geworden
-				durch das von den nomadisirenden Meininger Hofschauspielern aufgeführte Schauspiel
-				„Zwischen den Schlechten“ und das eben im Wiener Stadt-Theater aufgetauchte
-				„Fallissement“. Die genannten Dramen sind uns nicht unbekannt, „Sigurd Slembe“ ist
-				uns aber ganz fremd und so können wir uns nur an die Musik halten. Der tonische
-				Gehalt zeigt auch in diesem Stücke die hervorragenden Eigenschaften, welche dem
-				Componisten in <placeName key="deutschland">Deutschland</placeName> so allgemeine
-				Anerkennung errangen. Die Form ist frei, die Ausdrucksweise lebhaft, das Colorit
-				glänzend, zuweilen herbe scharf, man möchte sagen schroff. Das Haupt-Thema erinnert
-				auffallend an dasjenige der <persName key="hiller.ferdinand"
+					key="svendsen.sigurd-slembe" type="mus">sinfonische Einleitung</title> zu
+					<persName key="bjoernson.bjoernstjerne">Björnsterne Björnson’s</persName> Drama
+				„Sigurd Slembe“. Der Dichter ist in letzterer Zeit auch in Deutschland bekannt
+				geworden durch das von den nomadisirenden Meininger Hofschauspielern aufgeführte
+				Schauspiel „Zwischen den Schlechten“ und das eben im Wiener Stadt-Theater
+				aufgetauchte „Fallissement“. Die genannten Dramen sind uns nicht unbekannt, „Sigurd
+				Slembe“ ist uns aber ganz fremd und so können wir uns nur an die Musik halten. Der
+				tonische Gehalt zeigt auch in diesem Stücke die hervorragenden Eigenschaften, welche
+				dem Componisten in <placeName key="deutschland">Deutschland</placeName> so
+				allgemeine Anerkennung errangen. Die Form ist frei, die Ausdrucksweise lebhaft, das
+				Colorit glänzend, zuweilen herbe scharf, man möchte sagen schroff. Das Haupt-Thema
+				erinnert auffallend an dasjenige der <persName key="hiller.ferdinand"
 					>Hiller’schen</persName>
 				<title key="hiller.symphonie-e-moll" type="mus"><hi rend="antiqua"
 					>E-moll</hi>-Sinfonie</title>: „Es muß doch Frühling werden“. Trotz der sehr
 				exacten und belebten Wiedergabe ließ die Composition doch gänzlich kalt; das erklärt
 				sich aber wohl aus dem Umstande, daß die Zuhörer derselben nur geringe
-				Aufmerksamkeit schenkten, weil Alles auf das nun folgende <title
-					key="verdi.requiem" type="mus">Requiem</title> gespannt war.</p>
+				Aufmerksamkeit schenkten, weil Alles auf das nun folgende <title key="verdi.requiem"
+					type="mus">Requiem</title> gespannt war.</p>
 			<p><hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title></hi> ist geschrieben zu Ehren des
-				berühmten Dichters der <hi rend="antiqua">„Promessi sposi“</hi>, <persName
-					key="manzoni.alessandro">Alessandro Manzoni</persName>, <rs
-					key="mailand.1874.1" type="event">und wurde am <date when-iso="1874-05-22">22.
-						Mai 1874</date>, dem ersten Jahrestage seines Todes, <placeName
-						key="mailand.dom mailand.san-marco"><choice>
+					<title key="verdi.requiem" type="mus">Requiem</title></hi> ist geschrieben zu
+				Ehren des berühmten Dichters der <hi rend="antiqua">„Promessi sposi“</hi>, <persName
+					key="manzoni.alessandro">Alessandro Manzoni</persName>, <rs key="mailand.1874.1"
+					type="event">und wurde am <date when-iso="1874-05-22">22. Mai 1874</date>, dem
+					ersten Jahrestage seines Todes, <placeName key="mailand.dom mailand.san-marco"><choice>
 							<orig>im Dome</orig>
 							<corr resp="tr">in der Kirche San Marco</corr>
 						</choice></placeName> zu <placeName key="mailand">Mailand</placeName>
@@ -94,113 +94,118 @@
 				Kirche in den Concert-Saal, und da hat ihn sein Gefühl richtig geleitet. Bezüglich
 				der Wandlung von <persName key="verdi.giuseppe">Verdi’s</persName> Schreibart,
 				welche auch in diesem Werke zu Tage tritt, läßt sich ungefähr dasselbe sagen wie
-				über die Oper <title key="verdi.aida" type="mus">Aïda</title>. Indeß ergeht es dem Componisten
-				mit dem Kirchenstil gerade wie mit dem veränderten Opernstil: er kann ihn nicht
-				festhalten. Die neue Weise entschlüpft ihm unter den Händen und unvermerkt und oft
-				unvermittelt sehen wir plötzlich den alten <persName key="verdi.giuseppe"
+				über die Oper <title key="verdi.aida" type="mus">Aïda</title>. Indeß ergeht es dem
+				Componisten mit dem Kirchenstil gerade wie mit dem veränderten Opernstil: er kann
+				ihn nicht festhalten. Die neue Weise entschlüpft ihm unter den Händen und unvermerkt
+				und oft unvermittelt sehen wir plötzlich den alten <persName key="verdi.giuseppe"
 					>Verdi</persName> vor uns. Der Componist hat bis zu seinem 60. Jahre Opern
-				geschrieben, das kann er auch in dem <title key="verdi.requiem" type="mus">Requiem</title>
-				nicht verleugnen. Immerhin aber muß man zugestehen, daß das Werk seinem Schöpfer zu
-				höchster Ehre gereicht; es ist in der That ein seltenes Schauspiel, wenn ein
-				Künstler, der auf der Höhe seines Ruhmes steht und in glänzenden Verhältnissen lebt,
-				noch in seinem Alter nochmal zu studiren beginnt. Wenn Talente von dem Range eines
-					<persName key="verdi.giuseppe">Verdi</persName> indeß studiren, so kann man im
-				voraus versichert sein, daß die Früchte solcher Studien übergewöhnlich sind. Reicht
-					<persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> auch nicht an die Höhe des <title
-					key="brahms.requiem" type="mus">Brahms’schen</title>, so ist es doch ein Werk, welches
-				aller Orten durch seine bestechenden Eigenschaften gefallen muß, und als eine
-				Bereicherung des Repertoire’s anzusehen ist.</p>
+				geschrieben, das kann er auch in dem <title key="verdi.requiem" type="mus"
+					>Requiem</title> nicht verleugnen. Immerhin aber muß man zugestehen, daß das
+				Werk seinem Schöpfer zu höchster Ehre gereicht; es ist in der That ein seltenes
+				Schauspiel, wenn ein Künstler, der auf der Höhe seines Ruhmes steht und in
+				glänzenden Verhältnissen lebt, noch in seinem Alter nochmal zu studiren beginnt.
+				Wenn Talente von dem Range eines <persName key="verdi.giuseppe">Verdi</persName>
+				indeß studiren, so kann man im voraus versichert sein, daß die Früchte solcher
+				Studien übergewöhnlich sind. Reicht <persName key="verdi.giuseppe"
+					>Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> auch nicht an die Höhe des
+					<title key="brahms.requiem" type="mus">Brahms’schen</title>, so ist es doch ein
+				Werk, welches aller Orten durch seine bestechenden Eigenschaften gefallen muß, und
+				als eine Bereicherung des Repertoire’s anzusehen ist.</p>
 			<p>Bei der weihevollen Bedeutung des Werkes dürfte es sich aber auch der Mühe lohnen,
 				auf die einzelnen Theile desselben näher einzugehen. In dem ersten Satze (<hi
-					rend="antiqua"><title key="verdi.requiem.1" type="mus">Requiem aeternam</title></hi>) <hi
-					rend="antiqua">A-moll</hi>, <hi rend="superscript">4</hi>/<hi rend="subscript"
-					>4</hi>, gibt zunächst das Orchester dem Gefühle des Schmerzes und sanfter
-				Wehmuth Ausdruck, der Chor singt die Worte fast „Parlando“ dazwischen. Vor diesem
-				ernsten Hintergrunde hebt sich dann das helle <hi rend="antiqua">A-dur</hi> des „<hi
-					rend="antiqua"><title n="et-lux" key="verdi.requiem.1" type="mus">Et lux
-					perpetua</title></hi>“ wie ein milder Lichtschein ungemein wirkungsvoll ab. Das
-				Orchester sowie das Solo-Quartett könnten etwas mehr hervortreten. Zu dem „<hi
-					rend="antiqua"><title key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title></hi>“
-				hat <persName key="verdi.giuseppe">Verdi</persName> die Farben etwas theatralisch,
+					rend="antiqua"><title key="verdi.requiem.1" type="mus">Requiem
+					aeternam</title></hi>) <hi rend="antiqua">A-moll</hi>, <hi rend="superscript"
+					>4</hi>/<hi rend="subscript">4</hi>, gibt zunächst das Orchester dem Gefühle des
+				Schmerzes und sanfter Wehmuth Ausdruck, der Chor singt die Worte fast „Parlando“
+				dazwischen. Vor diesem ernsten Hintergrunde hebt sich dann das helle <hi
+					rend="antiqua">A-dur</hi> des „<hi rend="antiqua"><title key="verdi.requiem.1"
+						n="et-lux" type="mus">Et lux perpetua</title></hi>“ wie ein milder
+				Lichtschein ungemein wirkungsvoll ab. Das Orchester sowie das Solo-Quartett könnten
+				etwas mehr hervortreten. Zu dem „<hi rend="antiqua"><title
+						key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title></hi>“ hat
+					<persName key="verdi.giuseppe">Verdi</persName> die Farben etwas theatralisch,
 				jedoch äußerst effectvoll gemischt. Donnerähnliche Klänge versinnbildlichen uns alle
 				Schrecken des Tages des Zornes. Der Posaunensatz in dem <persName
-					key="mozart.wolfgang-amadeus">Mozart’schen</persName> „<hi rend="antiqua"
-						><title key="mozart.requiem.3.2-tuba-mirum" type="mus">Tuba mirum</title></hi>“ ist
+					key="mozart.wolfgang-amadeus">Mozart’schen</persName> „<hi rend="antiqua"><title
+						key="mozart.requiem.3.2-tuba-mirum" type="mus">Tuba mirum</title></hi>“ ist
 				bekannt, er bildet eines der beliebtesten Citate der musikalischen Erklärer.
 					<persName key="verdi.giuseppe">Verdi</persName> schwebte, wenn der dasselbe
 				Instrument anwendete, in Gefahr, sich eines Plagiats schul<cb break="no" n="3c"
 					type="regular"/>dig zu machen, und so ließ er durch eine ganze Schaar
 				himmlischer Boten den Ruf erschallen. In derselben Art, nur mit Aufbietung ganz
-				enormer Kräfte (vier Orchester, acht paar Pauken) hat <persName
-					key="berlioz.hector">Berlioz</persName> in seinem <title
-					key="berlioz.grande-messe-des-morts" type="mus">Requiem</title> dieses Moment zu malen
-				versucht. Der Trompeten-Effect bei <persName key="verdi.giuseppe">Verdi</persName>
-				kam nicht zur vollen Wirkung; wenigstens glauben wir nicht, daß <persName
-					key="verdi.giuseppe">Verdi</persName>, der Meister der Effecte, sich die
-				Wirkung derart gedacht, wie sie hier zu Gehör gebracht wurde. Es sollen diese
-				Fanfaren nach <persName key="verdi.giuseppe">Verdi’s</persName> Angabe bald aus der
-				Nähe, bald aus größter Entfernung erklingen, während sie hier nur aus nächster Nähe
-				erklangen. „<hi rend="antiqua"><title n="mors-stupebit"
-						key="verdi.requiem.2.tuba-mirum" type="mus">Mors stupebit</title></hi>“ ist als
-				Baß-Solo behandelt und wurde von Hrn. <hi rend="widespace"><persName
-						key="schelper.otto">Schelper</persName></hi> sehr stilvoll wiedergegeben.
-					„<hi rend="antiqua"><title key="verdi.requiem.2.liber-scriptus" type="mus">Liber
-						scriptus</title></hi>“, dem Mezzo-Sopran zugetheilt, erhielt durch Frl. <hi
+				enormer Kräfte (vier Orchester, acht paar Pauken) hat <persName key="berlioz.hector"
+					>Berlioz</persName> in seinem <title key="berlioz.grande-messe-des-morts"
+					type="mus">Requiem</title> dieses Moment zu malen versucht. Der Trompeten-Effect
+				bei <persName key="verdi.giuseppe">Verdi</persName> kam nicht zur vollen Wirkung;
+				wenigstens glauben wir nicht, daß <persName key="verdi.giuseppe">Verdi</persName>,
+				der Meister der Effecte, sich die Wirkung derart gedacht, wie sie hier zu Gehör
+				gebracht wurde. Es sollen diese Fanfaren nach <persName key="verdi.giuseppe"
+					>Verdi’s</persName> Angabe bald aus der Nähe, bald aus größter Entfernung
+				erklingen, während sie hier nur aus nächster Nähe erklangen. „<hi rend="antiqua"
+						><title key="verdi.requiem.2.tuba-mirum" n="mors-stupebit" type="mus">Mors
+						stupebit</title></hi>“ ist als Baß-Solo behandelt und wurde von Hrn. <hi
+					rend="widespace"><persName key="schelper.otto">Schelper</persName></hi> sehr
+				stilvoll wiedergegeben. „<hi rend="antiqua"><title
+						key="verdi.requiem.2.liber-scriptus" type="mus">Liber
+				scriptus</title></hi>“, dem Mezzo-Sopran zugetheilt, erhielt durch Frl. <hi
 					rend="widespace"><persName key="keller.elsa">Keller</persName></hi> den
-				entsprechenden Ausdruck. Von „<title key="verdi.requiem.2.rex-tremendae" type="mus">Rex
-					tremendae majestatis</title>“, welches wiederum effectvoll, aber etwas
+				entsprechenden Ausdruck. Von „<title key="verdi.requiem.2.rex-tremendae" type="mus"
+					>Rex tremendae majestatis</title>“, welches wiederum effectvoll, aber etwas
 				theatralisch gehalten ist, hebt sich sehr wirkungsvoll das tief empfundene „<hi
-					rend="antiqua"><title n="salva-me" key="verdi.requiem.2.rex-tremendae" type="mus"><choice>
+					rend="antiqua"><title key="verdi.requiem.2.rex-tremendae" n="salva-me"
+						type="mus"><choice>
 							<orig>Salve</orig>
 							<corr resp="tr">Salva</corr>
 						</choice> me</title></hi>“ ab. Eine Glanz-Nummer von großer Klangschönheit,
 				jedoch ebenfalls von etwas Opernkunst angehaucht, ist das „<hi rend="antiqua"><title
-						key="verdi.requiem.2.recordare" type="mus">Recordare</title></hi>“, welches, als Duett
-				behandelt, von den Damen <hi rend="widespace"><persName key="lehmann.lilli"
-						>Lehmann</persName></hi> und <hi rend="widespace"><persName
-						key="keller.elsa">Keller</persName></hi> vortrefflich gesungen wurde. Dem
-				Tenor ist das „<hi rend="antiqua"><title key="verdi.requiem.2.ingemisco" type="mus"
-						>Ingemisco</title></hi>“ (<hi rend="antiqua">Es-Dur</hi>) zugetheilt; Hr.
-					<hi rend="widespace"><persName key="diener.franz">Diener</persName></hi>
-				brachte dasselbe zu schöner Wirkung. Die verschiedenen Quinten erinnern
-				unwillkürlich an <title key="verdi.aida" type="mus">Aida</title>: dieselben einst so schwer
-				verpönten Intervalle begegnen uns auch wieder in dem folgenden Baß-Solo „<hi
-					rend="antiqua"><title key="verdi.requiem.2.confutatis" type="mus"
-				>Confutatis</title></hi>“. Von besonders schöner Wirkung ist das <title
-					key="verdi.requiem.3" type="mus">Offertorium</title> „<hi rend="antiqua"><title
-						n="domine-jesu" key="verdi.requiem.3" type="mus">Domine Jesu Christe</title></hi>“ und
-				darin das als Mittelsatz behandelte „<hi rend="antiqua"><title n="quam-olim-abrahae"
-						key="verdi.requiem.3" type="mus">Quam olim Abrahae</title></hi>“. Die ausführenden
-				vier Solisten verdienten vollkommen den dieser Nummer folgenden Beifall. Die
-				Doppelfuge „<hi rend="antiqua"><title key="verdi.requiem.4" type="mus">Sanctus</title></hi>“
-				ist besser als ihr Ruf: wenn sie auch kein Meisterwerk ist, so kann man ihr doch
-				großen Wohlklang und Durchsichtigkeit nachrühmen, Eigenschaften, die man sonst bei
-				Fugen oft schmerzlich vermißt. „<hi rend="antiqua"><title key="verdi.requiem.5" type="mus"
+						key="verdi.requiem.2.recordare" type="mus">Recordare</title></hi>“, welches,
+				als Duett behandelt, von den Damen <hi rend="widespace"><persName
+						key="lehmann.lilli">Lehmann</persName></hi> und <hi rend="widespace"
+						><persName key="keller.elsa">Keller</persName></hi> vortrefflich gesungen
+				wurde. Dem Tenor ist das „<hi rend="antiqua"><title key="verdi.requiem.2.ingemisco"
+						type="mus">Ingemisco</title></hi>“ (<hi rend="antiqua">Es-Dur</hi>)
+				zugetheilt; Hr. <hi rend="widespace"><persName key="diener.franz"
+					>Diener</persName></hi> brachte dasselbe zu schöner Wirkung. Die verschiedenen
+				Quinten erinnern unwillkürlich an <title key="verdi.aida" type="mus">Aida</title>:
+				dieselben einst so schwer verpönten Intervalle begegnen uns auch wieder in dem
+				folgenden Baß-Solo „<hi rend="antiqua"><title key="verdi.requiem.2.confutatis"
+						type="mus">Confutatis</title></hi>“. Von besonders schöner Wirkung ist das
+					<title key="verdi.requiem.3" type="mus">Offertorium</title> „<hi rend="antiqua"
+						><title key="verdi.requiem.3" n="domine-jesu" type="mus">Domine Jesu
+						Christe</title></hi>“ und darin das als Mittelsatz behandelte „<hi
+					rend="antiqua"><title key="verdi.requiem.3" n="quam-olim-abrahae" type="mus"
+						>Quam olim Abrahae</title></hi>“. Die ausführenden vier Solisten verdienten
+				vollkommen den dieser Nummer folgenden Beifall. Die Doppelfuge „<hi rend="antiqua"
+						><title key="verdi.requiem.4" type="mus">Sanctus</title></hi>“ ist besser
+				als ihr Ruf: wenn sie auch kein Meisterwerk ist, so kann man ihr doch großen
+				Wohlklang und Durchsichtigkeit nachrühmen, Eigenschaften, die man sonst bei Fugen
+				oft schmerzlich vermißt. „<hi rend="antiqua"><title key="verdi.requiem.5" type="mus"
 						>Agnus Dei</title></hi>“, vom Sopran unisono vorgetragen, erinnert an den
-					<title key="mozart.die-zauberfloete.gesang-der-geharnischten-maenner" type="mus">Gesang
-					der gehar<supplied resp="tr">n</supplied>ischten Männer</title> in der <title
-					key="mozart.die-zauberfloete" type="mus">Zauberflöte</title>. In dem „<hi rend="antiqua"
-						><title key="verdi.requiem.6" type="mus">Lux aeterna</title></hi>“, welches von dem
-				Solo-Terzett gesungen wird, machen die vier Fagotte eine ganz eigenthümliche
-				Wirkung. Das „<hi rend="antiqua"><title key="verdi.requiem.7" type="mus">Libera
-					me</title></hi>“, für Sopran-Solo und Chor, ist theilweise im Psalmen-Tone
-				gehalten, und verlangt deshalb eine prosodisch richtige und doch freie Declamation,
-				welche nur theilweise gelang. Das ganze Werk klingt sehr andächtig mit dem „<hi
-					rend="antiqua"><title n="libera-me" key="verdi.requiem.7" type="mus">Libera</title></hi>“
-				aus. Auf den schönen Schluß war ausdrücklich aufmerksam gemacht worden, und so
-				verließ denn auch Niemand vorzeitig das Concert.</p>
+					<title key="mozart.die-zauberfloete.gesang-der-geharnischten-maenner" type="mus"
+					>Gesang der gehar<supplied resp="tr">n</supplied>ischten Männer</title> in der
+					<title key="mozart.die-zauberfloete" type="mus">Zauberflöte</title>. In dem „<hi
+					rend="antiqua"><title key="verdi.requiem.6" type="mus">Lux
+				aeterna</title></hi>“, welches von dem Solo-Terzett gesungen wird, machen die vier
+				Fagotte eine ganz eigenthümliche Wirkung. Das „<hi rend="antiqua"><title
+						key="verdi.requiem.7" type="mus">Libera me</title></hi>“, für Sopran-Solo
+				und Chor, ist theilweise im Psalmen-Tone gehalten, und verlangt deshalb eine
+				prosodisch richtige und doch freie Declamation, welche nur theilweise gelang. Das
+				ganze Werk klingt sehr andächtig mit dem „<hi rend="antiqua"><title
+						key="verdi.requiem.7" n="libera-me" type="mus">Libera</title></hi>“ aus. Auf
+				den schönen Schluß war ausdrücklich aufmerksam gemacht worden, und so verließ denn
+				auch Niemand vorzeitig das Concert.</p>
 			<p>Die ganze Aufführung war in allen Theilen höchst sorgsam und mit wirklicher Hingabe
 				vorbereitet. Für Einzelnes würde <persName key="verdi.giuseppe">Verdi</persName>
 				sich vielleicht noch eine gesteigerte Ausdrucksweise gewünscht, manche Contraste
 				würde er noch greller hervorgehoben haben; allein die Solisten sowie der Chor thaten
 				alles, was deutsche Sänger nur vermögen, wenn sie italienische Musik zu Gehör
-				bringen. Schade, daß Frl. <persName key="lehmann.lilli">Lehmann</persName> nicht
-				gut disponirt war; es würde sonst kein Schatten die ganze Aufführung getrübt haben.
+				bringen. Schade, daß Frl. <persName key="lehmann.lilli">Lehmann</persName> nicht gut
+				disponirt war; es würde sonst kein Schatten die ganze Aufführung getrübt haben.
 					<persName key="verdi.giuseppe">Verdi</persName> würde in <placeName
-					key="deutschland">Deutschland</placeName> sein Werk schwerlich besser hören,
-				als dies hier der Fall war. Wie man vernimmt, wird das Werk nächstens wiederholt
-				werden, und damit einem allgemeinen Wunsche entsprochen werden.</p>
+					key="deutschland">Deutschland</placeName> sein Werk schwerlich besser hören, als
+				dies hier der Fall war. Wie man vernimmt, wird das Werk nächstens wiederholt werden,
+				und damit einem allgemeinen Wunsche entsprochen werden.</p>
 		</body>
 	</text>
 </TEI>

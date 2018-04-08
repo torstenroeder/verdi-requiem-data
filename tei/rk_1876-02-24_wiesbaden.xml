@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Rheinischer Kurier, Wiesbaden, 24. Februar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/rk_1876-02-24_wiesbaden.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -21,7 +20,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wiesbaden"/></creation>
+			<creation>
+				<placeName key="wiesbaden"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,18 +42,18 @@
 				<rs key="wiesbaden.1876.1" type="event"><hi rend="bold"><placeName key="wiesbaden"
 							>Wiesbaden</placeName>,</hi>
 					<date when-iso="1876-02-23">23. Febr.</date> (<hi rend="widespace"
-					>Theater</hi>.) Die gestrige erste Aufführung des <persName
-						key="verdi.giuseppe">Verdi’schen</persName>
-					<title key="verdi.requiem" type="mus">Requiems</title> fiel glänzend aus und wurde mit
-					großem Beifalle aufgenommen.</rs>
+					>Theater</hi>.) Die gestrige erste Aufführung des <persName key="verdi.giuseppe"
+						>Verdi’schen</persName>
+					<title key="verdi.requiem" type="mus">Requiems</title> fiel glänzend aus und
+					wurde mit großem Beifalle aufgenommen.</rs>
 				<rs key="wiesbaden.1876.2" type="event">Das nächste Symphonie-Concert findet
 						<date>Freitag den 25. Februar d. J.</date> statt. Statt der ursprünglich in
 					Aussicht genommenen <persName key="beethoven.ludwig-van"
 						>Beethoven’schen</persName>
 					<hi rend="antiqua"><title key="beethoven.missa-solemnis" type="mus">Missa
-						solemnis</title></hi>, deren Aufführung sich unüberwindliche Hindernisse
-					entgegenstellten, wird das <title key="verdi.requiem" type="mus">Requiem</title> von
-						<persName key="verdi.giuseppe">Verdi</persName> wiederholt werden.</rs> Da
+							solemnis</title></hi>, deren Aufführung sich unüberwindliche Hindernisse
+					entgegenstellten, wird das <title key="verdi.requiem" type="mus">Requiem</title>
+					von <persName key="verdi.giuseppe">Verdi</persName> wiederholt werden.</rs> Da
 				ferner dem Umstande, daß in den diesjährigen Symphonie-Concerten mehr fremde
 				Künstler herangezogen wurden, als dies bei Aufstellung des Programms beabsichtigt
 				war, einige Orchesternummern nicht zur Aufführung kommen konnten, an deren
@@ -61,12 +62,12 @@
 				Concertabonnenten ihre <sic>Giltigkeit</sic> behalten, so daß also den Abonnenten
 				der Symphonie-Concerte noch eine Gratis-Aufführung zu Theil wird. Es sollen in
 				diesem 7. Concerte namentlich die berühmt gewordenen <title
-					key="brahms.variationen-ueber-ein-thema-von-haydn" type="mus">Variationen</title> von
-					<persName key="brahms.johannes">Brahms</persName>, die reizende <title
-					key="volkmann.serenaden" type="mus">Serenade</title> von <persName key="volkmann.robert"
-					>Volkmann</persName> und <persName key="schumann.robert">Schumanns</persName>
-				prächtige <title key="schumann.symphonie-4" type="mus"><hi rend="antiqua"
-					>D-moll</hi>-Symphonie</title> zur Aufführung kommen.</p>
+					key="brahms.variationen-ueber-ein-thema-von-haydn" type="mus"
+					>Variationen</title> von <persName key="brahms.johannes">Brahms</persName>, die
+				reizende <title key="volkmann.serenaden" type="mus">Serenade</title> von <persName
+					key="volkmann.robert">Volkmann</persName> und <persName key="schumann.robert"
+					>Schumanns</persName> prächtige <title key="schumann.symphonie-4" type="mus"><hi
+						rend="antiqua">D-moll</hi>-Symphonie</title> zur Aufführung kommen.</p>
 		</body>
 	</text>
 </TEI>

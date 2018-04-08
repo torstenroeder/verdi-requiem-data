@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 16. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1876-01-16_danksagung.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -66,8 +67,8 @@
 					rend="widespace"><persName key="philippovich.franz">Franz Freih. v.
 						Philippovich</persName></hi>, sowie den Herren k. k. <hi rend="widespace"
 					>Obersten <persName key="slott.xxx">van der Slott</persName></hi> und <hi
-					rend="widespace"><persName key="latterer.josef">Latterer R. v<supplied
-							resp="tr">.</supplied> Lindenburg</persName></hi> für die Gestattung der
+					rend="widespace"><persName key="latterer.josef">Latterer R. v<supplied resp="tr"
+							>.</supplied> Lindenburg</persName></hi> für die Gestattung der
 				Mitwirkung mehrerer Musiker von k. k. Militärkapellen; der löblichen <hi
 					rend="widespace">Direktion des <orgName key="bruenn.musikverein">Brünner
 						Musikvereines</orgName></hi> für die Ueberlassung ihres Schullokales, sowie

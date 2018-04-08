@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Illustrirtes Wiener Extrablatt, 10. Juni 1875</title>
-				<author><persName key="manussi-von-montesole.ferdinand"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="manussi-von-montesole.ferdinand"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/iwe_1875-06-10_die-manzoni-messe-verdis.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -47,9 +50,9 @@
 				<persName key="verdi.giuseppe">Verdi’s</persName>.</head>
 			<p>Wenn <persName key="wagner.richard">Richard <hi rend="widespace"
 					>Wagner</hi></persName> Geld braucht und zu Absiedezwecken in <placeName
-					key="wien">Wien</placeName> erscheint, steht der Wagner-Kultus immer in
-				höchster Blüthe; die Wagnerfexe gerathen in Verzückung, geberden sich wie Irrsinnige
-				und werden sich vor dem Vergötterten in den Staub, um nur ja einen herablassenden
+					key="wien">Wien</placeName> erscheint, steht der Wagner-Kultus immer in höchster
+				Blüthe; die Wagnerfexe gerathen in Verzückung, geberden sich wie Irrsinnige und
+				werden sich vor dem Vergötterten in den Staub, um nur ja einen herablassenden
 				Fußtritt von dem prätentiös auftretenden Meister zu erhalten. Wenn er in einem
 				Gasthause ein <term key="gulyas">„Gulyas“</term> ißt, so wird dies zu einer
 				begeisternden That aufgebläht und auf dem Wege der Reklame der staunenden Mitwelt in
@@ -61,14 +64,14 @@
 				Notiz bezüglich seiner Anwesenheit von Seite der Direktion unserer Oper versendet
 				würde.</p>
 			<p><hi rend="widespace"><persName key="wagner.richard">Wagner</persName></hi>, von dem
-				noch kein Mensch sprach, als der Duft der Blüthen des <persName
-					key="verdi.giuseppe"><hi rend="widespace">Verdi</hi>’schen</persName>
-				Melodiengartens schon die <hi rend="widespace">ganze Welt</hi> erfüllte, wird als
-				dem Messias der Musik <hi rend="widespace">göttliche</hi> Verehrung zu Theil, weil
-				er sich selbst in Weihrauchwolken zu hüllen versteht, und dem Schöpfer so vieler
-				Hunderte von Melodien, welche durch das Ohr den Eingang in die Herzen der Menschen
-				gefunden haben, kommt man bei uns mit jener kühlen Höflichkeit entgegen, welche man
-				für jeden talentirten — Kapellmeister in Bereitschaft hat.</p>
+				noch kein Mensch sprach, als der Duft der Blüthen des <persName key="verdi.giuseppe"
+						><hi rend="widespace">Verdi</hi>’schen</persName> Melodiengartens schon die
+					<hi rend="widespace">ganze Welt</hi> erfüllte, wird als dem Messias der Musik
+					<hi rend="widespace">göttliche</hi> Verehrung zu Theil, weil er sich selbst in
+				Weihrauchwolken zu hüllen versteht, und dem Schöpfer so vieler Hunderte von
+				Melodien, welche durch das Ohr den Eingang in die Herzen der Menschen gefunden
+				haben, kommt man bei uns mit jener kühlen Höflichkeit entgegen, welche man für jeden
+				talentirten — Kapellmeister in Bereitschaft hat.</p>
 			<p>Die minder künstliche Art, die weniger gesuchte und minder schwierige Verschlingung,
 				Schürzung und Lösung musikalischer Knoten, die Einfachheit wurde ihm — und zum
 				großen Theile nicht mit Unrecht — zum Vorwurf gemacht; er machte sich das Schaffen
@@ -81,25 +84,26 @@
 				verlangen die künstliche Form, das musikalische Pathos, die möglichste Complication.
 				Aber auch ihnen wird <hi rend="widespace"><persName key="verdi.giuseppe"
 						>Verdi</persName></hi> in seinen neuesten Schöpfungen, in seiner „<hi
-					rend="widespace"><title key="verdi.aida" type="mus">Aida</title></hi>“ und in der <title
-					key="verdi.requiem" type="mus">Manzoni-Messe</title> gerecht; in diesen Werken hat er
-				gesühnt, was der übermüthige junge Schwan, dessen Brust von Liedern überströmte, an
-				der Form, ab den „guten Geschmack“, in der <hi rend="antiqua">Sancta musica</hi>
-				gesündigt; er hat gezeigt, daß die Genialität der Erfindung mit dem künstlerischen
-				Formen-Zwang Hand in Hand gehen kann und daß man ob der Form das charakteristische
-				und liebenswürdigste Element der Musik — die <hi rend="widespace">Melodie</hi> nicht
-				zu vergessen, nicht zu <hi rend="widespace">vermeiden</hi> braucht.</p>
-			<p>Wir kommen direkt von der <rs key="wien.1875.gp" type="event">Generalprobe der
-						<title key="verdi.requiem" type="mus">Manzoni-Messe</title>, welche gestern unter des
-					Komponisten persönlicher Leitung stattfand</rs> und wir gestehen es gerne, wir
-					<supplied resp="tr">k</supplied>ommen begeistert von dem großen Genusse in die
+					rend="widespace"><title key="verdi.aida" type="mus">Aida</title></hi>“ und in
+				der <title key="verdi.requiem" type="mus">Manzoni-Messe</title> gerecht; in diesen
+				Werken hat er gesühnt, was der übermüthige junge Schwan, dessen Brust von Liedern
+				überströmte, an der Form, ab den „guten Geschmack“, in der <hi rend="antiqua">Sancta
+					musica</hi> gesündigt; er hat gezeigt, daß die Genialität der Erfindung mit dem
+				künstlerischen Formen-Zwang Hand in Hand gehen kann und daß man ob der Form das
+				charakteristische und liebenswürdigste Element der Musik — die <hi rend="widespace"
+					>Melodie</hi> nicht zu vergessen, nicht zu <hi rend="widespace">vermeiden</hi>
+				braucht.</p>
+			<p>Wir kommen direkt von der <rs key="wien.1875.gp" type="event">Generalprobe der <title
+						key="verdi.requiem" type="mus">Manzoni-Messe</title>, welche gestern unter
+					des Komponisten persönlicher Leitung stattfand</rs> und wir gestehen es gerne,
+				wir <supplied resp="tr">k</supplied>ommen begeistert von dem großen Genusse in die
 					stille<surplus resp="tr">,</surplus>
 				<cb break="yes" n="4b" type="regular"/> Arbeitsklause zurück, um die Eindrücke
 				wieder zu geben welche wir von diesem Werke empfangen haben.</p>
 			<p>Die <persName key="verdi.giuseppe"><hi rend="widespace">Verdi</hi>’sche</persName>
-				<title key="verdi.requiem" type="mus">Messe</title> ist eine der größten, wenn nicht die
-				allergrößte Musikschöpfung des Jahrhunderts, überwältigend in der Gesammtwirkung und
-				bewundernswürdig in den Details, von welchem einige, ja <hi rend="widespace"
+				<title key="verdi.requiem" type="mus">Messe</title> ist eine der größten, wenn nicht
+				die allergrößte Musikschöpfung des Jahrhunderts, überwältigend in der Gesammtwirkung
+				und bewundernswürdig in den Details, von welchem einige, ja <hi rend="widespace"
 					>viele</hi> sogar, von blendender Großartigkeit sind.</p>
 			<p><hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> hat eine —
 				wenn wir uns so ausdrücken dürfen — „dramatische Messe“ geschrieben; er hat mit den
@@ -107,25 +111,25 @@
 				großen Todten überkommen und die Empfindung verdolmetscht uns bei jedem einzelnen
 				Satze die Absicht des Meisters.</p>
 			<p>Mit einem großen, markerschütternden Schmerzens-Schrei, als fordere man die Gottheit
-				für die Abberufung des Verblichenen heraus, beginnt der <title
-					key="verdi.requiem.2" type="mus">zweite Satz</title> nach dem stimmungsvollen <hi
-					rend="antiqua"><title key="verdi.requiem.1" type="mus">Kyrie</title></hi> von reizender
+				für die Abberufung des Verblichenen heraus, beginnt der <title key="verdi.requiem.2"
+					type="mus">zweite Satz</title> nach dem stimmungsvollen <hi rend="antiqua"
+						><title key="verdi.requiem.1" type="mus">Kyrie</title></hi> von reizender
 				und wirkungsvoller Harmonie. Wehmuthsvoll, in klingenden Accorden setzen die <title
-					key="verdi.requiem.2.tuba-mirum" type="mus">Posaunen</title> ein, welche auf mehreren
-				Plätzen auf der Bühne vertheilt sind und wunderbare Wirkung erzielen.</p>
+					key="verdi.requiem.2.tuba-mirum" type="mus">Posaunen</title> ein, welche auf
+				mehreren Plätzen auf der Bühne vertheilt sind und wunderbare Wirkung erzielen.</p>
 			<p>Die außerordentlich geschickte Verwendung des liturgischen Elementes, das uns die
 				Ceremonie der Todtenfeier und die Gebete der Gläubigen versinnlicht, macht
 				besonderen und ganz überraschenden Eindruck.</p>
-			<p><hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> erdrückt
-				in seiner <title key="verdi.requiem" type="mus">Messe</title> die Zuhörer durch die Macht und
-				den Wechsel der verschiedensten Klangwirkungen und zeigt sich als der auserlesenste
-				Meister der Harmonie, welche man jetzt neuerdings als nationales Charakteristikon
-				für die deutschen Komponisten hinzustellen sucht.</p>
-			<p>Zwei Duette — eines davon im <hi rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus
-						dei</title></hi> — welche die Damen <hi rend="widespace"><persName
-						key="stolz.teresa">Stolz</persName></hi> und <hi rend="widespace"><persName
-						key="waldmann.maria">Waldmann</persName></hi> zu Gehör brachten, sind von
-				hinreißender Wirkung und werden das Publikum gewiß zu enthusiastischen
+			<p><hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> erdrückt in
+				seiner <title key="verdi.requiem" type="mus">Messe</title> die Zuhörer durch die
+				Macht und den Wechsel der verschiedensten Klangwirkungen und zeigt sich als der
+				auserlesenste Meister der Harmonie, welche man jetzt neuerdings als nationales
+				Charakteristikon für die deutschen Komponisten hinzustellen sucht.</p>
+			<p>Zwei Duette — eines davon im <hi rend="antiqua"><title key="verdi.requiem.5"
+						type="mus">Agnus dei</title></hi> — welche die Damen <hi rend="widespace"
+						><persName key="stolz.teresa">Stolz</persName></hi> und <hi rend="widespace"
+						><persName key="waldmann.maria">Waldmann</persName></hi> zu Gehör brachten,
+				sind von hinreißender Wirkung und werden das Publikum gewiß zu enthusiastischen
 				Beifallsbezeugungen begeistern.</p>
 			<p>Wir können heute nach einmaligem Hören nicht in die Details der großen Tonschöpfung
 				eingehen, wir stehen noch zu sehr unter dem Gesammteindrucke, um aus der Masse der
@@ -138,9 +142,9 @@
 			<p>Die Interpretation des Werkes seht durchaus auf der Höhe ihrer Aufgabe, und wenn
 				unsere Hofopernsänger und Sängerinnen, die sämmtlich der gestrigen General-Probe
 				beiwohnten, aufmerksam zuhorchten, so haben sie jedesfalls was gelernt.</p>
-			<p><hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> hat sich
-				da ein Soloquartette zusammenestellt, wie es vollendeter nicht gedacht werden kann.
-				Es ist ein wahrer, ein echter Genuß, dem Gesange desselben zu lauschen; durchwegs
+			<p><hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> hat sich da
+				ein Soloquartette zusammenestellt, wie es vollendeter nicht gedacht werden kann. Es
+				ist ein wahrer, ein echter Genuß, dem Gesange desselben zu lauschen; durchwegs
 				gleich große und gleich wohllautende Stimmen, durchaus gleich geebnete Register und
 				die gleiche Gesangsmanier; man denke sich die Wirkung!!</p>
 			<cb break="yes" n="4c" type="regular"/>
@@ -148,24 +152,24 @@
 				klingt das Quartett, als wäre es ein einziger Mensch mit unbegrenztem Umfang, so
 				klänge eine Skala, welche Signor <hi rend="widespace"><persName key="medini.paolo"
 						>Medini</persName></hi> mit dem <hi rend="antiqua">contra-C</hi> beginnen
-				und Frau <hi rend="widespace"><persName key="stolz.teresa">Stolz</persName></hi>
-				mit dem hohen <hi rend="antiqua">F</hi> enden könnte. Die Stimmen fließen in
-				einander, wie Milch und Honig. Ein unnennbarer Reiz!</p>
+				und Frau <hi rend="widespace"><persName key="stolz.teresa">Stolz</persName></hi> mit
+				dem hohen <hi rend="antiqua">F</hi> enden könnte. Die Stimmen fließen in einander,
+				wie Milch und Honig. Ein unnennbarer Reiz!</p>
 			<p>Frau <hi rend="widespace"><persName key="stolz.teresa">Stolz</persName></hi>, die
 				Primadonna, eine Schülerin des <placeName key="prag">Prager</placeName>
-				<placeName key="prag.konservatorium">Konservatoriums</placeName>, verfügt über
-				einen Umfang der Stimme, welcher selbst jenen der einst so gefeierten <persName
+				<placeName key="prag.konservatorium">Konservatoriums</placeName>, verfügt über einen
+				Umfang der Stimme, welcher selbst jenen der einst so gefeierten <persName
 					key="csillag.rosa">Csillag</persName> übertrifft; wie fließendes Gold quellen
 				die Töne über ihre Lippen, mit einem zum Herzen dringenden Schmelz und dabei mit
 				einer Kraft, gegen welche es keine Orchestermacht gibt: Ton für Ton klingt aus <hi
 					rend="antiqua">fortissime</hi> des Riesenorchesters und des verstärkten Chors
-				(z. B. im „<hi rend="antiqua"><title key="verdi.requiem.7" type="mus">libera me</title></hi>“)
-				hervor, wie das elektrische Licht siegreich aus einem Meer von Alltagslichtern
-				hervorbricht. Ihr Athmen ist geradezu bewundernswerth, sie läßt Töne des höchsten
-				Registers mehrere Takte lang anschwellen und wieder absterben, als wäre dies ein
-				Kinderspiel.</p>
+				(z. B. im „<hi rend="antiqua"><title key="verdi.requiem.7" type="mus">libera
+						me</title></hi>“) hervor, wie das elektrische Licht siegreich aus einem Meer
+				von Alltagslichtern hervorbricht. Ihr Athmen ist geradezu bewundernswerth, sie läßt
+				Töne des höchsten Registers mehrere Takte lang anschwellen und wieder absterben, als
+				wäre dies ein Kinderspiel.</p>
 			<p>Fräulein <hi rend="widespace"><persName key="waldmann.maria"
-					>Waldmann</persName></hi>, eine blonde Wienerin und Schülerin des <placeName
+				>Waldmann</persName></hi>, eine blonde Wienerin und Schülerin des <placeName
 					key="wien">Wiener</placeName>
 				<placeName key="wien.konservatorium">Konservatoriums</placeName>, verfügt über
 				ebenso hübsche und ebenso kräftige Mittel, sie sind mit Ausdruck, Bravour und vielem
@@ -194,9 +198,9 @@
 					rend="widespace"><persName key="jauner.franz-von">Jauner</persName></hi>
 				besonders gratuliren.</p>
 			<p>Zum Schlusse können wir die Bemerkung nicht unterdrücken, daß wir uns von der
-				Aufführung der „<title key="verdi.aida" type="mus">A<hi rend="antiqua">i</hi>da</title>“ mit
-				den eben nur flüchtig gewürdigten Kräften einen ganz besonderen Genuß
-				versprechen.</p>
+				Aufführung der „<title key="verdi.aida" type="mus">A<hi rend="antiqua"
+					>i</hi>da</title>“ mit den eben nur flüchtig gewürdigten Kräften einen ganz
+				besonderen Genuß versprechen.</p>
 			<p rend="right"><hi rend="antiqua"><persName key="manussi-von-montesole.ferdinand">F.
 						M.</persName></hi></p>
 		</body>

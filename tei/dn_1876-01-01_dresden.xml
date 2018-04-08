@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Dresdner Nachrichten, 1. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dn_1876-01-01_feuilleton.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="dresden"/></creation>
+			<creation>
+				<placeName key="dresden"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -36,14 +37,17 @@
 		</encodingDesc>
 	</teiHeader>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
-			<cb break="null" n="3b" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<cb n="3b"/>
 			<p><g n="2020" type="DAGGER">†</g>
 				<rs key="dresden.1876.1" type="event"><persName key="verdi.giuseppe"
 						>Verdi’s</persName>
-					<hi rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi> wird
-					nicht, wie man aus akustischen Gründen bezweckte, im <placeName
+					<hi rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi>
+					wird nicht, wie man aus akustischen Gründen bezweckte, im <placeName
 						key="dresden.neustaedter-hoftheater">Neustädter Hoftheater</placeName>,
 					sondern im <placeName key="dresden.hoftheater">Altstädter
 						Interimstheater</placeName> erstmalig zur Aufführung gelangen und zwar <date

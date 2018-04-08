@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Presse, Wien, 3. November 1875</title>
-				<author><persName key="schelle.eduard"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="schelle.eduard"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dp_1875-11-03_hofoperntheater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -51,19 +54,19 @@
 			<p>(<hi rend="widespace"><placeName key="wien.hof-operntheater"
 						>Hofoperntheater</placeName></hi>.) <rs key="wien.1875a" type="event">Zur
 					Allerseelenfeier hatte diesmal die Direction statt einer Opernvorstellung eine
-					Aufführung des „<title key="verdi.requiem" type="mus">Requiem</title>“ von <persName
-						key="verdi.giuseppe">Verdi</persName> veranstaltet.</rs> Es entspricht auch
-				der Bedeutung dieser Tage ein <title key="verdi.requiem" type="mus">Requiem</title> ungleich
-				besser als eine Oper, und die Schöpfung <persName key="verdi.giuseppe"
-					>Verdi’s</persName> eignet sich schon deßhalb vorzüglich für derartige Zwecke,
-				weil die Composition bei dem mehr oder weniger theatralischen Charakter der Musik
-				sich mit den Räumen eines Theaters ganz wohl verträgt. In Betreff der äußerlichen
-				Einrichtung und Ausstattung war die im Sommer unter der Leitung <persName
-					key="verdi.giuseppe">Verdi’s</persName> stattgehabte Aufführung dieses <title
-					key="verdi.requiem" type="mus">Requiems</title> zum Muster genommen und die musikalische
-				Qiedergabe zeugte von dem Willen und Streben, das Werk bei dieser Gelegenheit auch
-				ohne die Beihilfe eines so eminenten Virtuosen-Quartetts, wie es <persName
-					key="verdi.giuseppe">Verdi</persName> mit sich führte, in möglichst
+					Aufführung des „<title key="verdi.requiem" type="mus">Requiem</title>“ von
+						<persName key="verdi.giuseppe">Verdi</persName> veranstaltet.</rs> Es
+				entspricht auch der Bedeutung dieser Tage ein <title key="verdi.requiem" type="mus"
+					>Requiem</title> ungleich besser als eine Oper, und die Schöpfung <persName
+					key="verdi.giuseppe">Verdi’s</persName> eignet sich schon deßhalb vorzüglich für
+				derartige Zwecke, weil die Composition bei dem mehr oder weniger theatralischen
+				Charakter der Musik sich mit den Räumen eines Theaters ganz wohl verträgt. In
+				Betreff der äußerlichen Einrichtung und Ausstattung war die im Sommer unter der
+				Leitung <persName key="verdi.giuseppe">Verdi’s</persName> stattgehabte Aufführung
+				dieses <title key="verdi.requiem" type="mus">Requiems</title> zum Muster genommen
+				und die musikalische Qiedergabe zeugte von dem Willen und Streben, das Werk bei
+				dieser Gelegenheit auch ohne die Beihilfe eines so eminenten Virtuosen-Quartetts,
+				wie es <persName key="verdi.giuseppe">Verdi</persName> mit sich führte, in möglichst
 				wirkungsvoller Weise zur Geltung zu bringen. Die Chöre wie die Solopartien waren
 				trefflich einstudirt. Die letzteren zum größten Theile den hervorragendsten Kräften
 				unseres Opernpersonals anvertraut. Frau <persName key="wilt.marie">Wilt</persName>
@@ -74,43 +77,45 @@
 				Mezzosopran-Partie zugefallen war, unverhältnismäßig zurück; doch bewährte sich die
 				genannte Künstlerin immer noch besser, als wir es erwarten könnten. Im Ganzen und
 				Großen hatte man alle Ursache, sich mit dem Gebotenen zufriedenzustellen. Leider
-				aber klingt uns noch die Wiedergabe des <title key="verdi.requiem" type="mus">Requiems</title>
-				unter der persönlichen Führung des Componisten zu sehr in den Ohren, als daß wir den
-				Vergleich abwehren könnten, und gegen diese verhielt sich allerdings die jetzige
-				Aufführung fast wie die Nacht zum Tage. Man vermißte vor Allem an den Solovorträgen
-				den seinen, dabei stylvollen Schliff, den jene italienischen Sänger so sehr in ihrer
-				Macht haben; man vermißte ferner das warme, reiche Colorit der Nuancen, auf welches
-				sich der Effect dieser Musik stützt, den harmonischen Ausgleich der Stimmen beim
-				Zusammenwirken der Solisten und überhaupt das spontane Leben, das jene Aufführung
-				athmete, während diese zu sehr die Zucht des Tactstockes verrieth. Nur Einer unter
-				den Mitwirkenden, Herr <persName key="rokitansky.hans">Rokitansky</persName>, war
-				seiner Aufgabe vollständig gewachsen und kennzeichnete sich in der Vortragsweise als
-				einen wahren Virtuosen aus der guten italienischen Schule. Die Stimme der Frau
-					<persName key="wilt.marie">Wilt</persName> ist in der Höhe wol ausgiebiger als
-				die Stimme des Fräulein <persName key="stolz.teresa">Stolz</persName>, von welcher
-				wir im Sommer die Partie hörten. Frau <persName key="wilt.marie">Wilt’s</persName>
-				Stimme trat aber in diesen Registern viel zu stark, ja zu aufdringlich hervor,
-				während sie in den tieferen Lagen für den Effect zu wenig Klangkraft entfaltete. Das
-				Organ des Fräuleins <persName key="tremel.wilhelmine">Tremel</persName> versagt
-				fast gänzlich in der <pb break="yes" facs="#f2" n="9" type="regular"/>Mittellage. In
-				Folge dessen gingen einzelne Partien, wie zum Beispiel das „<title
-					key="verdi.requiem.2.liber-scriptus" type="mus">liber scriptus</title>“ vollständig
-				verloren. Herr <persName key="walter.gustav">Walter</persName> sang zwar sehr
-				geschmackvoll, ließ aber in der Vertheilung von Licht und Schatten, in der
+				aber klingt uns noch die Wiedergabe des <title key="verdi.requiem" type="mus"
+					>Requiems</title> unter der persönlichen Führung des Componisten zu sehr in den
+				Ohren, als daß wir den Vergleich abwehren könnten, und gegen diese verhielt sich
+				allerdings die jetzige Aufführung fast wie die Nacht zum Tage. Man vermißte vor
+				Allem an den Solovorträgen den seinen, dabei stylvollen Schliff, den jene
+				italienischen Sänger so sehr in ihrer Macht haben; man vermißte ferner das warme,
+				reiche Colorit der Nuancen, auf welches sich der Effect dieser Musik stützt, den
+				harmonischen Ausgleich der Stimmen beim Zusammenwirken der Solisten und überhaupt
+				das spontane Leben, das jene Aufführung athmete, während diese zu sehr die Zucht des
+				Tactstockes verrieth. Nur Einer unter den Mitwirkenden, Herr <persName
+					key="rokitansky.hans">Rokitansky</persName>, war seiner Aufgabe vollständig
+				gewachsen und kennzeichnete sich in der Vortragsweise als einen wahren Virtuosen aus
+				der guten italienischen Schule. Die Stimme der Frau <persName key="wilt.marie"
+					>Wilt</persName> ist in der Höhe wol ausgiebiger als die Stimme des Fräulein
+					<persName key="stolz.teresa">Stolz</persName>, von welcher wir im Sommer die
+				Partie hörten. Frau <persName key="wilt.marie">Wilt’s</persName> Stimme trat aber in
+				diesen Registern viel zu stark, ja zu aufdringlich hervor, während sie in den
+				tieferen Lagen für den Effect zu wenig Klangkraft entfaltete. Das Organ des
+				Fräuleins <persName key="tremel.wilhelmine">Tremel</persName> versagt fast gänzlich
+				in der <pb break="yes" facs="#f2" n="9" type="regular"/>Mittellage. In Folge dessen
+				gingen einzelne Partien, wie zum Beispiel das „<title
+					key="verdi.requiem.2.liber-scriptus" type="mus">liber scriptus</title>“
+				vollständig verloren. Herr <persName key="walter.gustav">Walter</persName> sang zwar
+				sehr geschmackvoll, ließ aber in der Vertheilung von Licht und Schatten, in der
 				Verwendung der Accente, wie sie <persName key="verdi.giuseppe">Verdi</persName>
 				fordert, sehr Vieles zu wünschen übrig. So gebührte also der Preis des Abends
 				eigentlich nur Herrn <persName key="rokitansky.hans">Rokitansky</persName>, der
 				sogar seinen italienischen Vorgänger, Herrn <persName key="medini.paolo"
 					>Medini</persName>, weit überragte. Im Weitern waren auch die Tempi nicht immer
 				die ganz richtigen, sie mußten zum Theile belebter sein. Die Chöre wurden übrigens
-				mit Sicherheit ausgeführt; nur die letzte Fuge „<title n="libera-me"
-					key="verdi.requiem.7" type="mus">Libera me</title>“ war etwas verwischt. Es spricht jedoch
-				für das Werk, daß es auch bei solchen, größtentheils durch die Mittel bedungenen
-				Schwächen der Ausführung eine zündende Kraft bewiesen hat. Einzelne Nummern, unter
-				Anderm das „<title key="verdi.requiem.5" type="mus">Agnus Dei</title>“ mußten auf stürmisches
-				Verlangen wiederholt werden. Ueberhaupt bewies sich das Publicum sehr empfänglich
-				für die Leistungen der Solisten sowol wie der Chöre und zeichnete sie aufs
-				Reichlichste durch Beifall aus. <persName key="schelle.eduard">E. S.</persName></p>
+				mit Sicherheit ausgeführt; nur die letzte Fuge „<title key="verdi.requiem.7"
+					n="libera-me" type="mus">Libera me</title>“ war etwas verwischt. Es spricht
+				jedoch für das Werk, daß es auch bei solchen, größtentheils durch die Mittel
+				bedungenen Schwächen der Ausführung eine zündende Kraft bewiesen hat. Einzelne
+				Nummern, unter Anderm das „<title key="verdi.requiem.5" type="mus">Agnus
+				Dei</title>“ mußten auf stürmisches Verlangen wiederholt werden. Ueberhaupt bewies
+				sich das Publicum sehr empfänglich für die Leistungen der Solisten sowol wie der
+				Chöre und zeichnete sie aufs Reichlichste durch Beifall aus. <persName
+					key="schelle.eduard">E. S.</persName></p>
 		</body>
 	</text>
 </TEI>

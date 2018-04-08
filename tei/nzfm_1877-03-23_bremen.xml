@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 23. März 1877</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1877-03-23_bremen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bremen"/></creation>
+			<creation>
+				<placeName key="bremen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -40,20 +41,23 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18770323&amp;seite=6"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="136" type="initial"/>
+		<front rend="fraktur">
+			<pb n="136"/>
 			<head rend="larger widespace">Correspondenzen.</head>
-			<pb break="null" n="138" type="skipped"/>
+			<pb n="138"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
 			<p rend="right"><placeName key="bremen">Bremen</placeName>.</p>
 			<cb break="null" n="138b" type="skipped"/>
 			<p>Außerdem haben wir 3 Abonnementconcerte, wie die „Privatconcerte“ unter <persName
 					key="reinthaler.karl">R<surplus resp="tr">h</surplus>einthaler’s</persName>
 				Leitung, in denen auch einiges Neue aufgeführt wird. <rs key="bremen.1876.1"
 					type="event">Im ersten kam <persName key="verdi.giuseppe">Verdi’s</persName>
-					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> an die
-					Reihe</rs>, über welches bereits so viel geschrieben worden ist, daß ein Mehr
-				wohl überflüssig scheint. <rs key="bremen.1876.2" type="event">Es wurde in einem
-					„Privatconcert“ wiederholt.</rs> —</p>
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> an
+					die Reihe</rs>, über welches bereits so viel geschrieben worden ist, daß ein
+				Mehr wohl überflüssig scheint. <rs key="bremen.1876.2" type="event">Es wurde in
+					einem „Privatconcert“ wiederholt.</rs> —</p>
 		</body>
 	</text>
 </TEI>

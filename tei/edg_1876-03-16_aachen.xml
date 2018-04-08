@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Echo der Gegenwart, Aachen, 16. März 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/edg_1876-03-16_abonnementconcert.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="aachen"/>
 					<date when-custom="thu" when-iso="1876-03-16"/>
 					<biblScope unit="issue">76</biblScope>
-					<biblScope unit="subIssue">76</biblScope>
+					<biblScope unit="subIssue">Erstes Blatt</biblScope>
 					<series>edg</series>
 					<biblScope unit="page">[3]</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="aachen"/></creation>
+			<creation>
+				<placeName key="aachen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -45,25 +46,24 @@
 			<head rend="larger"><date when-custom="thu" when-iso="1876-03-16">Donnerstag den 16.
 					März</date>:<lb break="yes"/>
 				<hi rend="lineale"><rs key="aachen.1876.1" type="event">VI.
-						Abbonementsconcert,</rs></hi><lb break="yes"/> im großen Kurhaussaale,
-					unter<lb break="yes"/> Leitung des städtischen Musik<lb break="no"/>direktors
-				Herrn <persName key="breunung.ferdinand">Breunung</persName>.</head>
+					Abbonementsconcert,</rs></hi><lb break="yes"/> im großen Kurhaussaale, unter<lb
+					break="yes"/> Leitung des städtischen Musik<lb break="no"/>direktors Herrn
+					<persName key="breunung.ferdinand">Breunung</persName>.</head>
 			<lg>
 				<head rend="widespace">Programm:</head>
-				<l rend="hanging">1. <title key="gluck.iphigenie-en-aulide.ouverture" type="mus">Ouverture zu
-						Iphigenie in Aulis</title> von <persName key="gluck.christoph-willibald"
-						>Gluck</persName>.</l>
-				<l rend="hanging">2. <title key="verdi.requiem" type="mus">Requiem</title> für Solostimmen,
-					Chor und Orchester von <persName key="verdi.giuseppe">G. Verdi</persName> (zum
-					1. Mal)</l>
+				<l rend="hanging">1. <title key="gluck.iphigenie-en-aulide.ouverture" type="mus"
+						>Ouverture zu Iphigenie in Aulis</title> von <persName
+						key="gluck.christoph-willibald">Gluck</persName>.</l>
+				<l rend="hanging">2. <title key="verdi.requiem" type="mus">Requiem</title> für
+					Solostimmen, Chor und Orchester von <persName key="verdi.giuseppe">G.
+						Verdi</persName> (zum 1. Mal)</l>
 				<l><hi rend="widespace">Solisten:</hi></l>
 				<l rend="hanging">1. Frau <persName key="lederer-ubrich.asminde">Asminde
 						Lederer-Ubrich</persName>, Königl. Kammersängerin, Sopran,</l>
 				<l rend="hanging">2. Frl. <persName key="keller.elsa">Elsa Keller</persName>,
 					Opernsängerin aus <placeName key="koeln">Köln</placeName>, Mezzo-Sopran,</l>
 				<l rend="hanging">3. Herr Professor <persName key="schneider.carl">Carl
-						Schneider</persName> aus <placeName key="koeln">Cöln</placeName>,
-					Tenor,</l>
+						Schneider</persName> aus <placeName key="koeln">Cöln</placeName>, Tenor,</l>
 				<l rend="hanging">4. Herr <persName key="pfeiffer.xxx">H. Pfeiffer</persName>,
 					Opernsänger aus <placeName key="duesseldorf">Düsseldorf</placeName>, Baß.</l>
 				<l>Einzelkarten à 4 Mark sind Abends an der Kasse zu haben.</l>

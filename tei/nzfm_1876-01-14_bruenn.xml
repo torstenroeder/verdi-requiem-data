@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 14. Januar 1876 [2]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-01-14_bruenn.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -48,8 +49,8 @@
 			<p><rs key="bruenn.1876.1" type="event"><hi rend="widespace"><placeName key="bruenn"
 							>Brünn</placeName></hi>. Am <date when-iso="1876-01-02">2.</date>
 					<persName key="verdi.giuseppe">Verdi’s</persName>
-					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi> durch den
-						<orgName key="bruenn.musikverein">Musikverein</orgName> mit Frau <hi
+					<hi rend="antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>
+					durch den <orgName key="bruenn.musikverein">Musikverein</orgName> mit Frau <hi
 						rend="widespace"><persName key="gompertz-bettelheim.karoline-von"
 							>Gomperz-Bettelheim</persName></hi>, Frl. <hi rend="widespace"><persName
 							key="will.julie">Will</persName></hi>, den HH. <hi rend="widespace"
@@ -61,7 +62,7 @@
 					Lobes über die in jeder Beziehung glänzende Aufführung.</rs> — <rs
 					key="bruenn.1876.2" type="event">Am <date when-iso="1876-01-06">6.</date>
 					Wiederholung des <hi rend="antiqua"><title key="verdi.requiem" type="mus"
-						>Requiems</title></hi> von <hi rend="widespace"><persName
+							>Requiems</title></hi> von <hi rend="widespace"><persName
 							key="verdi.giuseppe">Verdi</persName></hi> mit gleicher Besetzung,
 					welche als noch abgerundeter wie die erste hervorgehoben wird.</rs></p>
 		</body>

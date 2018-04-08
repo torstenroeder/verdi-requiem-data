@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Presse, Wien, 3. September 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dp_1875-09-03_kleine-chronik.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,7 +15,7 @@
 					<placeName key="wien"/>
 					<date when-custom="fri" when-iso="1875-09-03"/>
 					<biblScope unit="issue">244</biblScope>
-					<biblScope unit="subIssue">244</biblScope>
+					<biblScope unit="subIssue">Abendblatt</biblScope>
 					<biblScope unit="volume">28</biblScope>
 					<series>dp</series>
 					<biblScope unit="page">3</biblScope>
@@ -24,7 +23,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="florenz"/></creation>
+			<creation>
+				<placeName key="florenz"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -42,17 +43,20 @@
 			xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Kleine Chronik.</head>
-			<cb break="null" n="3b" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<cb n="3b"/>
 			<p>[Das Programm zur <persName key="buonarroti.michelangelo"
 				>Michelangelo</persName>-Feier], „um <persName key="buonarroti.michelangelo"
 					>Michelangelo</persName> durch <persName key="buonarroti.michelangelo"
 					>Michelangelo</persName> zu ehren“, enthält in seiner Vollständigkeit folgende
 				Punkte: <gap resp="tr"/>
-				<rs key="florenz.1875" type="event">Am <date when-iso="1875-09-19">19.</date>,
-						<date when-iso="1875-09-20">20.</date>, <date when-iso="1875-09-22"
-						>22.</date> und <date when-iso="1875-09-24">24.</date> wird das <persName
+				<rs key="florenz.1875" type="event">Am <date when-iso="1875-09-19">19.</date>, <date
+						when-iso="1875-09-20">20.</date>, <date when-iso="1875-09-22">22.</date> und
+						<date when-iso="1875-09-24">24.</date> wird das <persName
 						key="verdi.giuseppe">Verdi’sche</persName>
 					<title key="verdi.requiem" type="mus">Requiem</title> aufgeführt werden.</rs>
 				<gap resp="tr"/></p>

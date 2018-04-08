@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Richard Wagner, Brief an Franz Jauner, 22. Februar 1876</title>
-				<author><persName key="wagner.richard"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="wagner.richard"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wagner_1876-02-22_brief-an-jauner.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +23,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/><date when-iso="1876-02-22"/></creation>
+			<creation>
+				<placeName key="wien"/>
+				<date when-iso="1876-02-22"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -64,13 +68,13 @@
 				Aufrichtig gesagt, ich ver fiel sofort auf den Gedanken, jedem Choristen fl. 20 aus
 				meiner Tasche zu schenken, und mir so die ganz unverhältnissmässige, von mir jetzt
 				so sehr gefürchtete Anstrengung der Musikdirection einer solchen Oper, wie <title
-					key="wagner.lohengrin" type="mus">Lohengrin</title>, zu ersparen. Leider kann ich aber
-				gerade dieses Jahr unmöglich soviel Geld verschenken! Viel leicht könnte ich aber
-				ein Concert geben, welches, meinen vorjährigen Erfahrungen gemäss, mindestens das
-				Doppelte für den Chor abgeworfen hätte. Doch muss ich auch diess für unpassend, und
-				in einem gewissen Sinne für unschicklich halten, und ich glaube mich somit auch
-				diesmal wieder in die Lage der Dinge ergeben zu müssen, und — wie diess schon nun
-				wiederholt der Fall war — mit Unmuth, ohne Lust und Freude mich fügen!</p>
+					key="wagner.lohengrin" type="mus">Lohengrin</title>, zu ersparen. Leider kann
+				ich aber gerade dieses Jahr unmöglich soviel Geld verschenken! Viel leicht könnte
+				ich aber ein Concert geben, welches, meinen vorjährigen Erfahrungen gemäss,
+				mindestens das Doppelte für den Chor abgeworfen hätte. Doch muss ich auch diess für
+				unpassend, und in einem gewissen Sinne für unschicklich halten, und ich glaube mich
+				somit auch diesmal wieder in die Lage der Dinge ergeben zu müssen, und — wie diess
+				schon nun wiederholt der Fall war — mit Unmuth, ohne Lust und Freude mich fügen!</p>
 			<p>Ich vermuthe nach Allem, dass bei Ihnen in Wien jetzt grosse Calamität herrscht, und
 				dass die Direction nicht minder übel daran ist, wie die Anderen. Vielleicht ist es
 				also jetzt überhaupt die Zeit nicht, auf üppige Unternehmungen, hohe Preise u.s.w.

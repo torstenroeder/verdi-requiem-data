@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Über Land und Meer, Stuttgart, [10. Oktober] 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/uelm_1875_35-02_musik.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +23,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -36,14 +37,22 @@
 			<p>see http://verdi-requiem.de for a detailed description</p>
 		</encodingDesc>
 	</teiHeader>
-	<!--FACS Über Land und Meer: kein Digitalisat; Kopie vorhanden-->
+	<!--FACS Über Land und Meer 1875/II: kein Digitalisat; Kopie vorhanden-->
 	<text xml:lang="de">
+		<pb n="27"/>
+		<cb n="a"/>
+		<front rend="fraktur">
+			<head rend="widespace bold larger kanzlei">Notiz-Blätter.</head>
+		</front>
+		<gap/>
+		<cb n="b"/>
 		<body rend="fraktur">
-			<head rend="larger">Musik.</head>
-			<gap resp="tr"/>
+			<head rend="bold gotisch">Musik.</head>
+			<gap/>
 			<p>— <rs key="wien.1875a" type="event"><hi rend="bold"><persName key="verdi.giuseppe"
-							>Verdi’s</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“ soll
-						in deutscher Sprache im <placeName key="wien">wiener</placeName></hi>
+							>Verdi’s</persName> „<title key="verdi.requiem" type="mus"
+							>Requiem</title>“ soll in deutscher Sprache im <placeName key="wien"
+							>wiener</placeName></hi>
 					<placeName key="wien.hof-operntheater">Hofoperntheater</placeName> zur
 					Aufführung kommen.</rs></p>
 		</body>

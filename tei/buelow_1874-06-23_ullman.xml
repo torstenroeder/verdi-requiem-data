@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Hans von Bülow, Brief an Bernard Ullman, München, 23. Juni 1874</title>
-				<author><persName key="buelow.hans-von"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="buelow.hans-von"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/buelow_1874-06-23_ullman.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -25,7 +26,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="muenchen"/><date when-iso="1874-06-23"/></creation>
+			<creation>
+				<placeName key="muenchen"/>
+				<date when-iso="1874-06-23"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -47,8 +51,8 @@
 	</facsimile>
 	<text xml:lang="fr">
 		<body rend="antiqua">
-			<p><placeName key="muenchen">Munich</placeName>, ce <date when-iso="1874-06-23">23 juin
-					1874</date></p>
+			<dateline><placeName key="muenchen">Munich</placeName>, ce <date when-iso="1874-06-23"
+					>23 juin 1874</date></dateline>
 			<p>Les fameux articles de la <orgName key="allgemeine-zeitung">Allgemeine
 					Zeitung</orgName> — je les ai déjà remia à mon ami <persName
 					key="spitzweg.eugen">Spitzweg</persName> (bon et honnête garçon) pour Vous être

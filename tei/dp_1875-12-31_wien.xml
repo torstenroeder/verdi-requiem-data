@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Presse, Wien, 31. Dezember 1875</title>
-				<author><persName key="schelle.eduard"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="schelle.eduard"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dp_1875-12-31_musik-revue.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -66,26 +69,27 @@
 					key="wagner.richard">Wagner</persName>, hatten sich in Person hier eingestellt.
 				Schon vor Anbruch des Frühlings gab uns <persName key="wagner.richard"
 					>Wagner</persName> im großen Musikvereinssaale Bruchstücke aus seinem letzten
-				Werke: „<title key="wagner.goetterdaemmerung" type="mus">Götterdämmerung</title>“ zu kosten
-				und jüngst noch führte er seinen „<title key="wagner.tannhaeuser" type="mus"
-					>Tannhäuser</title>“ und „<title key="wagner.lohengrin" type="mus">Lohengrin</title>“ in
-				einer ganz neuen Gewandung auf unsere Bühne; <rs key="wien.1875" type="event">im
-					Sommer erschien <persName key="verdi.giuseppe">Verdi</persName>, um uns mit
-					seiner letzten Schöpfung, dem „<title key="verdi.requiem" type="mus">Requiem</title>“
-					bekannt zu machen</rs> und durch seine mitgeführten Sänger uns zu überzeugen,
-				daß die Traditionen des Belcanto noch nicht gänzlich erloschen seien.</p>
+				Werke: „<title key="wagner.goetterdaemmerung" type="mus">Götterdämmerung</title>“ zu
+				kosten und jüngst noch führte er seinen „<title key="wagner.tannhaeuser" type="mus"
+					>Tannhäuser</title>“ und „<title key="wagner.lohengrin" type="mus"
+					>Lohengrin</title>“ in einer ganz neuen Gewandung auf unsere Bühne; <rs
+					key="wien.1875" type="event">im Sommer erschien <persName key="verdi.giuseppe"
+						>Verdi</persName>, um uns mit seiner letzten Schöpfung, dem „<title
+						key="verdi.requiem" type="mus">Requiem</title>“ bekannt zu machen</rs> und
+				durch seine mitgeführten Sänger uns zu überzeugen, daß die Traditionen des Belcanto
+				noch nicht gänzlich erloschen seien.</p>
 			<pb break="yes" n="8" type="skipped"/>
 			<p>Die Festwoche füllten die Aufführungen des „<title key="schumann.manfred" type="mus"
 					>Manfred</title>“ von <persName key="byron.george-gordon">Byron</persName> mit
 				der Musik von <persName key="schumann.robert">Schumann</persName> und <rs
-					key="wien.1875a" type="event">das „<title key="verdi.requiem" type="mus">Requiem</title>“
-					von <persName key="verdi.giuseppe">Verdi</persName> in der <placeName
-						key="wien.hof-operntheater">Oper</placeName></rs> aus, deren Ertrag dem
-				Pensions-Institute dieses Hoftheaters zugute kam. <cb break="yes" n="3"
+					key="wien.1875a" type="event">das „<title key="verdi.requiem" type="mus"
+						>Requiem</title>“ von <persName key="verdi.giuseppe">Verdi</persName> in der
+						<placeName key="wien.hof-operntheater">Oper</placeName></rs> aus, deren
+				Ertrag dem Pensions-Institute dieses Hoftheaters zugute kam. <cb break="yes" n="3"
 					type="skipped"/> Die Besetzung von <persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> wies keine Aenderung auf. Die Aufführung
-				war im Ganzen recht gelungen und hinterließ sogar einen einheitlicheren
+				<title key="verdi.requiem" type="mus">Requiem</title> wies keine Aenderung auf. Die
+				Aufführung war im Ganzen recht gelungen und hinterließ sogar einen einheitlicheren
 				Totaleindruck, als die letzte von Seite unserer einheimischen Künstler.</p>
 			<p><gap resp="tr"/>
 				<persName key="schelle.eduard">E. Schelle</persName>.</p>

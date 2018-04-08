@@ -5,10 +5,9 @@
 			<titleStmt>
 				<title>Über Land und Meer, Stuttgart, [18. Juli] 1875</title>
 				<title corresp="nfb_1875-06-13_wien.xml">aus: Neue Freie Pr., 13.6.</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/uelm_1875_34-42_musik.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -27,7 +26,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -43,8 +44,14 @@
 		<graphic url="https://archive.org/stream/bub_gb_UfoN3WjRcJkC#page/n842/mode/1up"/>
 	</facsimile>
 	<text xml:lang="de">
+		<pb n="830"/>
+		<front rend="fraktur">
+			<head rend="widespace bold larger kanzlei">Notiz-Blätter.</head>
+		</front>
+		<gap/>
+		<pb n="831"/>
 		<body rend="fraktur">
-			<head rend="larger">Musik.</head>
+			<head rend="gotisch bold">Musik.</head>
 			<p>— <rs key="wien.1875" type="event"><hi rend="bold">Die beiden Aufführungen des
 							„<title key="verdi.requiem" type="mus">Requiem</title>“ von <persName
 							key="verdi.giuseppe">Verdi</persName> im</hi>
@@ -56,20 +63,21 @@
 				war, erlebte man Beifallsstürme von einer Intensität und Ausdauer, wie sie nur bei
 				den außerordentlichsten Anlässen auszubrechen pflegen. Der <title
 					key="verdi.requiem.3" n="hostias" type="mus">zweite Theil</title> des <title
-					key="verdi.requiem.3" type="mus">Offertoriums</title> und das <title key="verdi.requiem.5" type="mus"
-					>Agnus Dei</title> wurden wiederholt. Das Publikum wollte zwar fast alle Sätze
-				wiederholen lassen; allein der Kompositeur nahm Rücksicht auf die ohnedieß stark in
-				Anspruch genommenen Sänger und gab nur wenige Repetitionen. Es ist überflüssig, zu
-				sagen, daß <persName key="verdi.giuseppe">Verdi</persName> unzählige Male
-				hervorgerufen wurde, und daß auch die Damen <persName key="stolz.teresa"
-					>Stolz</persName> und <persName key="waldmann.maria">Waldmann</persName> gleich
-				den Herren <persName key="masini.angelo">Masini</persName> und <persName
-					key="medini.paolo">Medini</persName> reichsten Beifall fanden.<note resp="tr"
-					type="textLink">Bis hier identisch mit: <ref
-						target="nfp_1875-06-13_wien-zweite-auffuehrung.xml" type="text">Neue Freie
-						Presse, Wien, 13. Juni 1875</ref>.</note> Die ersten ausführlichen
-				Besprechungen des Werkes tragen dem Erfolg Rechnung, doch merkt man heraus, daß
-				nicht allen Kritikern bei ihren „Enthusiasmus“ wohl zu Muthe ist.</p>
+					key="verdi.requiem.3" type="mus">Offertoriums</title> und das <hi rend="antiqua"
+						><title key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> wurden
+				wiederholt. Das Publikum wollte zwar fast alle Sätze wiederholen lassen; allein der
+				Kompositeur nahm Rücksicht auf die ohnedieß stark in Anspruch genommenen Sänger und
+				gab nur wenige Repetitionen. Es ist überflüssig, zu sagen, daß <persName
+					key="verdi.giuseppe">Verdi</persName> unzählige Male hervorgerufen wurde, und
+				daß auch die Damen <persName key="stolz.teresa">Stolz</persName> und <persName
+					key="waldmann.maria">Waldmann</persName> gleich den Herren <persName
+					key="masini.angelo">Masini</persName> und <persName key="medini.paolo"
+					>Medini</persName> reichsten Beifall fanden.<note resp="tr" type="textLink">Bis
+					hier identisch mit: <ref target="nfp_1875-06-13_wien-zweite-auffuehrung.xml"
+						type="text">Neue Freie Presse, Wien, 13. Juni 1875</ref>.</note> Die ersten
+				ausführlichen Besprechungen<!--welche??--> des Werkes tragen dem Erfolg Rechnung,
+				doch merkt man heraus, daß nicht allen Kritikern bei ihren „Enthusiasmus“ wohl zu
+				Muthe ist.</p>
 		</body>
 	</text>
 </TEI>

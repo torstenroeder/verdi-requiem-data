@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Sonn- und Montags-Zeitung, 13. Juni 1875</title>
-				<author><persName key="woerz.johann-georg"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="woerz.johann-georg"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wsmz_1875-06-13_verdis-requiem.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -45,195 +48,209 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=wsz&amp;datum=18750613&amp;seite=4"/>
 	</facsimile>
 	<text xml:lang="de">
+		<front rend="fraktur">
+			<pb n="1"/>
+			<cb n="a"/>
+			<head rend="larger gotisch">Feuilleton.</head>
+		</front>
+		<gap/>
 		<body rend="fraktur">
-			<cb break="null" n="2b" type="initial"/>
-			<head rend="larger"><persName key="verdi.giuseppe">Verdi’s</persName>
+			<pb n="2"/>
+			<cb n="b"/>
+			<head rend="bold gotisch"><persName key="verdi.giuseppe">Verdi’s</persName>
 				<title key="verdi.requiem" type="mus">Requiem</title>.</head>
 			<p rend="smaller"><rs key="wien.1875.1 wien.1875.2" type="event">(Aufgeführt unter der
 					Leitung des Componisten im <placeName key="wien.hof-operntheater">k. k.
 						Hofoperntheater</placeName> am <date when-iso="1875-06-11">11.</date> und
 						<date when-iso="1875-06-12">12. d. M.</date>)</rs></p>
-			<p>Wenn der Tondichter der „<title key="verdi.aida" type="mus">Aida</title>“ dem Andenken seines
-				Freundes <persName key="manzoni.alessandro">Manzoni</persName>, des Dichters der
-					„<hi rend="antiqua">promessi sposi</hi>“, eine Todtenmesse widmet, so muß das
-				schon etwas zu bedeuten haben. <persName key="verdi.giuseppe">Verdi’s</persName>
-				Ruhm ist durch die künstlerische Läute<cb break="no" n="2c" type="regular"/>rung,
-				die sich in ihm als Operncomponisten vollzogen, zu einem neuen Zenithpunkte
-				emporgestiegen, und in dem Momente, wo er sich entschloß, den Manen seines großen
-				Landsmannes vor den Augen der ganzen Welt ein feierliches Opfer darzubringen, zu
-				seiner Ehre den ernsten Gesang des katholischen Todtencultus anzustimmen, da wußte
-				er genau, was er der Verherrlichung des Todten, aber auch was er seinem eigenen
-				Namen, dem Vaterlande und der Kunst schuldig sei. Sagen wir es rund heraus, daß die
-					„<title key="verdi.requiem" type="mus">Manzoni-Messe</title>“ <persName
-					key="verdi.giuseppe">Josef Verdi’s</persName> die Hoffnungen Aller, die ihm
-				nicht in blinder Anbetung ergeben sind, überflügelt hat, daß sie die Herzen seiner
-				Verehrer diesseits der Alpen wir jenseits mit Stolz erfüllen kann. Es gibt freilich
-				Leute, in deren Augen neben dem <title key="mozart.requiem" type="mus">Mozart’schen
-					Requiem</title> kein anderes Gnade findet; diese können sich füglich die Mühe
-				ersparen, den künstlerischen Bestrebungen der Gegenwart irgend welche Aufmerksamkeit
-				zu schenken, denn <persName key="mozart.wolfgang-amadeus">Mozart</persName> ist nun
-				einman leider schon seit geraumer Zeit begraben, ohne bisher einen Erben seines
-				unerreichten Genies gefunden zu haben, und für die bloßen Nachahmer ist in den
-				Blättern der Kunstgeschichte kein Folium eröffnet. <persName key="verdi.giuseppe"
-					>Verdi</persName> aber darf ein solches für sich in Anspruch nehmen, und daß er
-				seiner Individualität auch im <title key="verdi.requiem" type="mus">Requiem</title> einen
-				unverfälschten Ausdruck verliehen hat, das sichert diesem Werke von vornherein Werth
-				und Bedeutsamkeit. Wer glaubte, daß sich der welsche Meister nicht lossagen könne
-				von jenen grellen Effectmitteln, die ihm in der Opernwelt so oft ihren guten Dienst
-				geleistet, der wird bekennen müssen, daß die <title key="verdi.requiem" type="mus"
-					>Manzoni-Messe</title> solches Vorurtheil widerlegt. Dies ist freilich nicht in
-				dem Sinne zu verstehen, als ob <persName key="verdi.giuseppe">Verdi</persName>
-				diesmal starke Wirkungen verschmäht habe; es gibt im <title key="verdi.requiem" type="mus"
-					>Requiem</title> Stellen genug, wo alle Kraft der Menschenstimme, die ganze
-				Wucht des Orchesters, wo die in Rhythmus und Harmonik liegenden Behelfe dramatischen
-				Ausdruckes angewendet werden, um die Schrecken „jenes Tages des Zornes“ zu malen.
-				Aber die Mittel, deren sich der Componist bedient, sind durchaus künstlerischer
-				Natur und von der Herrschaft des Blechs ist ebensowenig die Rede, wie von der
-				Aufdringlichkeit der <pb break="yes" n="3a" type="regular"/>Lungenkraft, vom <term
-					key="stentor">Stentorgeschrei</term> der Menschenstimme. Diese ganze Musik
-				trägt den Stempel des Adels, der Würde, der tiefen Empfindung, und versichert sich
-				hiedurch der lebendigen Theilnahme auch solcher Hörer, auf welche das Requiem als
-				kirchlicher Act und der Sinn des liturgischen Textes keinen Eindruck zu machen
-				vermag. Wo aber der Tondichter die sanften Register des Seelenorganums spielen läßt,
-				da überfluthet uns echt italienischer Wohllaut, ein süßer Schmelz der Melodie, weise
-				gemildert und vor jeder Trivialität sichergestellt durch treues Festhalten an den
-				Grenzen der artistischen Schönheit. Wie ergreifend flüstern die Sänger das <hi
-					rend="antiqua"><title n="requiem-aeternam" key="verdi.requiem.1" type="mus">„requiem
+			<p>Wenn der Tondichter der „<title key="verdi.aida" type="mus">Aida</title>“ dem
+				Andenken seines Freundes <persName key="manzoni.alessandro">Manzoni</persName>, des
+				Dichters der „<hi rend="antiqua">promessi sposi</hi>“, eine Todtenmesse widmet, so
+				muß das schon etwas zu bedeuten haben. <persName key="verdi.giuseppe"
+					>Verdi’s</persName> Ruhm ist durch die künstlerische Läute<cb break="no" n="2c"
+					type="regular"/>rung, die sich in ihm als Operncomponisten vollzogen, zu einem
+				neuen Zenithpunkte emporgestiegen, und in dem Momente, wo er sich entschloß, den
+				Manen seines großen Landsmannes vor den Augen der ganzen Welt ein feierliches Opfer
+				darzubringen, zu seiner Ehre den ernsten Gesang des katholischen Todtencultus
+				anzustimmen, da wußte er genau, was er der Verherrlichung des Todten, aber auch was
+				er seinem eigenen Namen, dem Vaterlande und der Kunst schuldig sei. Sagen wir es
+				rund heraus, daß die „<title key="verdi.requiem" type="mus">Manzoni-Messe</title>“
+					<persName key="verdi.giuseppe">Josef Verdi’s</persName> die Hoffnungen Aller,
+				die ihm nicht in blinder Anbetung ergeben sind, überflügelt hat, daß sie die Herzen
+				seiner Verehrer diesseits der Alpen wir jenseits mit Stolz erfüllen kann. Es gibt
+				freilich Leute, in deren Augen neben dem <title key="mozart.requiem" type="mus"
+					>Mozart’schen Requiem</title> kein anderes Gnade findet; diese können sich
+				füglich die Mühe ersparen, den künstlerischen Bestrebungen der Gegenwart irgend
+				welche Aufmerksamkeit zu schenken, denn <persName key="mozart.wolfgang-amadeus"
+					>Mozart</persName> ist nun einman leider schon seit geraumer Zeit begraben, ohne
+				bisher einen Erben seines unerreichten Genies gefunden zu haben, und für die bloßen
+				Nachahmer ist in den Blättern der Kunstgeschichte kein Folium eröffnet. <persName
+					key="verdi.giuseppe">Verdi</persName> aber darf ein solches für sich in Anspruch
+				nehmen, und daß er seiner Individualität auch im <title key="verdi.requiem"
+					type="mus">Requiem</title> einen unverfälschten Ausdruck verliehen hat, das
+				sichert diesem Werke von vornherein Werth und Bedeutsamkeit. Wer glaubte, daß sich
+				der welsche Meister nicht lossagen könne von jenen grellen Effectmitteln, die ihm in
+				der Opernwelt so oft ihren guten Dienst geleistet, der wird bekennen müssen, daß die
+					<title key="verdi.requiem" type="mus">Manzoni-Messe</title> solches Vorurtheil
+				widerlegt. Dies ist freilich nicht in dem Sinne zu verstehen, als ob <persName
+					key="verdi.giuseppe">Verdi</persName> diesmal starke Wirkungen verschmäht habe;
+				es gibt im <title key="verdi.requiem" type="mus">Requiem</title> Stellen genug, wo
+				alle Kraft der Menschenstimme, die ganze Wucht des Orchesters, wo die in Rhythmus
+				und Harmonik liegenden Behelfe dramatischen Ausdruckes angewendet werden, um die
+				Schrecken „jenes Tages des Zornes“ zu malen. Aber die Mittel, deren sich der
+				Componist bedient, sind durchaus künstlerischer Natur und von der Herrschaft des
+				Blechs ist ebensowenig die Rede, wie von der Aufdringlichkeit der <pb break="yes"
+					n="3a" type="regular"/>Lungenkraft, vom <term key="stentor"
+					>Stentorgeschrei</term> der Menschenstimme. Diese ganze Musik trägt den Stempel
+				des Adels, der Würde, der tiefen Empfindung, und versichert sich hiedurch der
+				lebendigen Theilnahme auch solcher Hörer, auf welche das Requiem als kirchlicher Act
+				und der Sinn des liturgischen Textes keinen Eindruck zu machen vermag. Wo aber der
+				Tondichter die sanften Register des Seelenorganums spielen läßt, da überfluthet uns
+				echt italienischer Wohllaut, ein süßer Schmelz der Melodie, weise gemildert und vor
+				jeder Trivialität sichergestellt durch treues Festhalten an den Grenzen der
+				artistischen Schönheit. Wie ergreifend flüstern die Sänger das <hi rend="antiqua"
+						><title key="verdi.requiem.1" n="requiem-aeternam" type="mus">„requiem
 						aeternam“</title></hi> (<hi rend="antiqua">A-moll</hi>); wie wohlthuend
 				kräftig hebt sich dagegen der kurze Vocalsatz <hi rend="antiqua"><title
-						n="te-decet-hymnus" key="verdi.requiem.1" type="mus">„te decet hymnus“</title></hi>
-				ab, bis sich im darauf folgenden <hi rend="antiqua"><title n="kyrie"
-						key="verdi.requiem.1" type="mus">„Kyrie“</title></hi> das Soloquartett mit dem Chore
-				vereinigt und aus den feinen Verschlingungen edler Tonlinien ein Ganzes entsteht,
-				dessen erhebender Wirkung sich selbst die strengste Kritik nicht zu entziehen im
-				Stande ist. Wir möchten den ersten Satz der <title key="verdi.requiem" type="mus"
-					>Manzonimesse</title>, der sich im Schlußsatze (<hi rend="antiqua"><title
-						key="verdi.requiem.7" type="mus">„Libera“</title></hi>) theilweise wiederholt, für die
-				vollendetste Parthie des Werkes halten. Das <hi rend="antiqua"><title
-						key="verdi.requiem.2" type="mus">„Dies irae“</title></hi> ist eine sehr umfangreiche
-				Composition, deren einzelne Theile durch das mehrmalige Eingreifen des energischen
-				Hauptthemas (in <hi rend="antiqua">G-moll</hi>) innerlich und äußerlich miteinander
-				in Verbindung gebracht sind. Als die bedeutsamsten Stellen des <hi rend="antiqua"
-						><title key="verdi.requiem.2" type="mus">„Dies irae“</title></hi> wären hervorzuheben:
-				das ergreifende <hi rend="antiqua"><title key="verdi.requiem.2.liber-scriptus" type="mus"
-						>„liber scriptus“</title></hi> (Solo für Mezzosopran) und das rührend schöne
-				Frauenduett <hi rend="antiqua"><title key="verdi.requiem.2.recordare" type="mus"
+						key="verdi.requiem.1" n="te-decet-hymnus" type="mus">„te decet
+						hymnus“</title></hi> ab, bis sich im darauf folgenden <hi rend="antiqua"
+						><title key="verdi.requiem.1" n="kyrie" type="mus">„Kyrie“</title></hi> das
+				Soloquartett mit dem Chore vereinigt und aus den feinen Verschlingungen edler
+				Tonlinien ein Ganzes entsteht, dessen erhebender Wirkung sich selbst die strengste
+				Kritik nicht zu entziehen im Stande ist. Wir möchten den ersten Satz der <title
+					key="verdi.requiem" type="mus">Manzonimesse</title>, der sich im Schlußsatze
+					(<hi rend="antiqua"><title key="verdi.requiem.7" type="mus"
+					>„Libera“</title></hi>) theilweise wiederholt, für die vollendetste Parthie des
+				Werkes halten. Das <hi rend="antiqua"><title key="verdi.requiem.2" type="mus">„Dies
+						irae“</title></hi> ist eine sehr umfangreiche Composition, deren einzelne
+				Theile durch das mehrmalige Eingreifen des energischen Hauptthemas (in <hi
+					rend="antiqua">G-moll</hi>) innerlich und äußerlich miteinander in Verbindung
+				gebracht sind. Als die bedeutsamsten Stellen des <hi rend="antiqua"><title
+						key="verdi.requiem.2" type="mus">„Dies irae“</title></hi> wären
+				hervorzuheben: das ergreifende <hi rend="antiqua"><title
+						key="verdi.requiem.2.liber-scriptus" type="mus">„liber
+					scriptus“</title></hi> (Solo für Mezzosopran) und das rührend schöne Frauenduett
+					<hi rend="antiqua"><title key="verdi.requiem.2.recordare" type="mus"
 						>„Recordare“</title></hi> (<hi rend="antiqua">F-dur</hi>), endlich noch das
 					<hi rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus"
-					>„lacrymosa“</title></hi>, mit welchem der lange, an Contrasten reiche zweite
-				Satz der Messe einen stimmungsvollen elegischen Abschluß findet. Wenn jedoch
+						>„lacrymosa“</title></hi>, mit welchem der lange, an Contrasten reiche
+				zweite Satz der Messe einen stimmungsvollen elegischen Abschluß findet. Wenn jedoch
 					<persName key="verdi.giuseppe">Verdi</persName> aus dem <hi rend="antiqua"
-						><title key="verdi.requiem.2.tuba-mirum" type="mus">„tuba mirum“</title></hi> ein
-				förmliches Trompetenstück als <term key="reveille">Reveille</term> für den jüngsten
-				Tag macht, und wenn er bei der Stelle <hi rend="antiqua"><title n="mors-stupebit"
-						key="verdi.requiem.2.tuba-mirum" type="mus">„mors stupebit“</title></hi> den
-				leibhaftigen Tod vor lauter Schrecken fast sprachlos dastehen läßt, so steht eine
-				derartig übertriebene Tonmalerei jedenfalls nicht im richtigen Verhältnisse zu
-				Charakter der Messe,<cb break="yes" n="3b" type="regular"/>selbst wenn diese nicht
-				unmittelbar den kirchlichen Zwecken dienen soll.</p>
-			<p>Das <title key="verdi.requiem.3" type="mus">Offertorium</title> und das <hi rend="antiqua"
-						><title key="verdi.requiem.4" type="mus">Sanctus</title></hi> darf man
-					<sic>ohneweiters</sic> als die schwächsten Nummern der Partitur bezeichnen,
+						><title key="verdi.requiem.2.tuba-mirum" type="mus">„tuba
+					mirum“</title></hi> ein förmliches Trompetenstück als <term key="reveille"
+					>Reveille</term> für den jüngsten Tag macht, und wenn er bei der Stelle <hi
+					rend="antiqua"><title key="verdi.requiem.2.tuba-mirum" n="mors-stupebit"
+						type="mus">„mors stupebit“</title></hi> den leibhaftigen Tod vor lauter
+				Schrecken fast sprachlos dastehen läßt, so steht eine derartig übertriebene
+				Tonmalerei jedenfalls nicht im richtigen Verhältnisse zu Charakter der Messe,<cb
+					break="yes" n="3b" type="regular"/>selbst wenn diese nicht unmittelbar den
+				kirchlichen Zwecken dienen soll.</p>
+			<p>Das <title key="verdi.requiem.3" type="mus">Offertorium</title> und das <hi
+					rend="antiqua"><title key="verdi.requiem.4" type="mus">Sanctus</title></hi> darf
+				man <sic>ohneweiters</sic> als die schwächsten Nummern der Partitur bezeichnen,
 				einerseits mit Rücksicht auf das theatralisch zugeschnittene und trotzdem nicht
-				interessante Quartett <hi rend="antiqua"><title n="domine-jesu"
-						key="verdi.requiem.3" type="mus">„Domine Jesu,“</title></hi> anderseits wegen der
+				interessante Quartett <hi rend="antiqua"><title key="verdi.requiem.3"
+						n="domine-jesu" type="mus">„Domine Jesu,“</title></hi> anderseits wegen der
 				ziemlich unfruchtbaren Versuche im fugirten Styl; um so wohlthuender berührt uns das
-					<hi rend="antiqua"><title key="verdi.requiem.5" type="mus">„Agnus Dei,“</title></hi> ein
-				Frauen-Duett mit Chor, ein originelles und wirkungsvolles Stück, welches eine
-				eigenthümliche, fast mysteriöse Färbung durch den Umstand erhält, daß die beiden
-				Solostimmen in strenger Beobachtung der Octaven-Distanz miteinander fortschreiten. —
-				Den Schluß des <title key="verdi.requiem" type="mus">Requiem</title> bildet nicht — wie
-				gewöhnlich — das <hi rend="antiqua"><title key="verdi.requiem.6" type="mus">„lux
-						aeterna,“</title></hi> sondern das <hi rend="antiqua"><title
-						key="verdi.requiem.7" type="mus">„libera,“</title></hi> welches <persName
-					key="verdi.giuseppe">Verdi</persName> zur Messe hinzucomponirt hat. Es ist dies
-				zwar einer der effectvollsten Theile des Ganzen, aber auch unverkennbar stark auf
-				den Effect berechnet und könnte ohne Schwierigkeit als Opernscene verwendet werden;
-				doch hebt sich der Satz, indem er allmäßig zu den ersten Gedanken des Requiem
-				zurückkehrt, wieder zu idealen Höhen empor, und entläßt die Zuhörer mit jenem tiefen
-				Eindrucke, den nur ein trotz vielfacher Schwächen bedeutsames, ernstgemeintes und
-				aus der Hand eines dem Geistesleben unserer Zeit nahestehenden Meisters der Töne
-				hervorgegangenes Kunstwerk auf uns ausüben kann.</p>
+					<hi rend="antiqua"><title key="verdi.requiem.5" type="mus">„Agnus
+					Dei,“</title></hi> ein Frauen-Duett mit Chor, ein originelles und wirkungsvolles
+				Stück, welches eine eigenthümliche, fast mysteriöse Färbung durch den Umstand
+				erhält, daß die beiden Solostimmen in strenger Beobachtung der Octaven-Distanz
+				miteinander fortschreiten. — Den Schluß des <title key="verdi.requiem" type="mus"
+					>Requiem</title> bildet nicht — wie gewöhnlich — das <hi rend="antiqua"><title
+						key="verdi.requiem.6" type="mus">„lux aeterna,“</title></hi> sondern das <hi
+					rend="antiqua"><title key="verdi.requiem.7" type="mus">„libera,“</title></hi>
+				welches <persName key="verdi.giuseppe">Verdi</persName> zur Messe hinzucomponirt
+				hat. Es ist dies zwar einer der effectvollsten Theile des Ganzen, aber auch
+				unverkennbar stark auf den Effect berechnet und könnte ohne Schwierigkeit als
+				Opernscene verwendet werden; doch hebt sich der Satz, indem er allmäßig zu den
+				ersten Gedanken des Requiem zurückkehrt, wieder zu idealen Höhen empor, und entläßt
+				die Zuhörer mit jenem tiefen Eindrucke, den nur ein trotz vielfacher Schwächen
+				bedeutsames, ernstgemeintes und aus der Hand eines dem Geistesleben unserer Zeit
+				nahestehenden Meisters der Töne hervorgegangenes Kunstwerk auf uns ausüben kann.</p>
 			<p>Frägt man übrigens, ob das <persName key="verdi.giuseppe">Verdi’sche</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> wegen seiner mehrfachen Anklänge an den
-				Opernstyl wirklich auf die Opernbühne gehöre, auf der es sich seit der ersten
-				Aufführung, die in der <placeName key="mailand">Mailänder</placeName> Kirche
-					<placeName key="mailand.san-marco">S. Marco</placeName> vor sich ging,
+				<title key="verdi.requiem" type="mus">Requiem</title> wegen seiner mehrfachen
+				Anklänge an den Opernstyl wirklich auf die Opernbühne gehöre, auf der es sich seit
+				der ersten Aufführung, die in der <placeName key="mailand">Mailänder</placeName>
+				Kirche <placeName key="mailand.san-marco">S. Marco</placeName> vor sich ging,
 				festgesetzt zu haben scheint, so gibt es darauf die einzige Antwort: <hi
 					rend="widespace">Nein</hi>! Es ist zwar schwer zu sagen, ob <persName
-					key="verdi.giuseppe">Verdi</persName> die Töne seines <title
-					key="verdi.requiem" type="mus">Requiems</title> „aus der Kirche heraus- oder hineinsingt“,
-				und jedenfalls darf man behaupten, daß die <title key="verdi.requiem" type="mus"
+					key="verdi.giuseppe">Verdi</persName> die Töne seines <title key="verdi.requiem"
+					type="mus">Requiems</title> „aus der Kirche heraus- oder hineinsingt“, und
+				jedenfalls darf man behaupten, daß die <title key="verdi.requiem" type="mus"
 					>Manzoni-Messe</title> nicht aus dem Geiste der <hi rend="widespace"
 					>deutschen</hi> Kirchenmusik entsprungen ist. Aber dafür glauben wir einstehen
 				zu dürfen, daß der Maestro diese Todtenmesse aus <cb break="yes" n="3c"
 					type="regular"/>seinem <hi rend="widespace">Herzen</hi> herausgesprungen und daß
 				er als Italiener der kunstgeschichtlichen Bedeutung seiner That vollkommen bewußt
 				war, indem er dieses Werk weder, wie <persName key="rossini.gioachino"
-					>Rossini</persName> von seiner <title key="rossini.petite-messe-solennelle" type="mus"
-					>Messe</title> gesagt hat, „für den lieben Gott“<note resp="tr"
+					>Rossini</persName> von seiner <title key="rossini.petite-messe-solennelle"
+					type="mus">Messe</title> gesagt hat, „für den lieben Gott“<note resp="tr"
 					type="literatureLink">»Lieber Gott - voilà, nun ist diese arme kleine Messe
 					beendet. Ist es wirklich heilige Musik [musique sacrée], die ich gemacht habe
 					oder ist es vermaledeite Musik [sacrée musique]? Ich wurde für die Opera buffa
 					geboren, das weißt Du wohl! Wenig Wissen, ein bißchen Herz, das ist alles. Sei
 					also gepriesen und gewähre mir das Paradies.« – nach Klaus Döge.</note>, noch
 				wie <persName key="mozart.wolfgang-amadeus">Mozart</persName> von seinem <title
-					key="mozart.requiem" type="mus">Requiem</title> geahnt hat, „für sich selbst“ componirte,
-				sondern die <title key="verdi.requiem" type="mus">Manzoni-Messe</title> nannte. Der Stempel
-				individueller Wahrheit, welchen <persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> trägt, und der zugleich der Stempel
-				einer bedeutsamen Künstlerschaft genannt werden muß, ist allerdings derselbst, der
-				auch die „<title key="verdi.aida" type="mus">Aida</title>“ bezeichnet. Aber das genügt doch
-				nicht, um <persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Messe</title> aus der Kirche, für deren religiöse Feier
-				sie bestimmt wurde, hinauszudecretiren und mit dem Schlagworte „Opernmusik“ abthun
-				zu können. Manche glauben wohl, es wäre nicht so viel Absonderliches daran, wenn auf
-				dem Theater, wo sich ja doch bekanntlich bereits das <title
-					key="gounod.faust.4.3.szene-in-der-kirche" type="mus">Requiem</title> in <persName
-					key="gounod.charles">Gounod’s</persName> „<title key="gounod.faust" type="mus"
-					>Faust</title>“ u. dgl. eingebürgert hat, nun einmal eine complete Todtenmesse
-				mit allen dazu gehörigen „Decorationen“ zur Aufführung käme. Die Bühne stellt dann
-				natürlich einen gothischen Dom dar, in dessen Mitte sich ein <hi rend="antiqua"
-						><term key="castrum-doloris">Castrum doloris</term></hi>, von brennenden
-				Fackeln umgeben, erhebt; zur rechten und zur linken Seite ist der Sängerchor
-				postirt, die Damen tragen die schon von <placeName key="paris">Paris</placeName>
-				her signalisirten weißen Kleider mit schwarzen Schleiern, die Orchestermitglieder
-				jedoch und der Dirigent nehmen die ihnen bei jeder Opernvorstellung zugewiesenen
-				Plätze ein. Es fehlt dann nur noch die <term key="clerisei">Clerisei</term> in
-				ihrem Ornate, um die Allianz der Kirchenmusik mit dem Theater „auf’s Würdigste“ in
-				Scene zu setzen. Leider sind die auf solches Komödienspiel gerichteten Hoffnungen
-				schwärmerischer Schöngeister bei uns nicht in Erfüllung gegangen, denn <persName
-					key="verdi.giuseppe">Verdi</persName> begnügte sich damit, die <title
-					key="verdi.requiem" type="mus">Messe</title> in Concertform vor’s Publikum zu bringen. Die
-				Bühne bildet einen mit Gas beleuchteten Saal, in dessen Vordergrunde sich statt des
-					<term key="catafalk">Catafalkes</term> das Dirigentenpult befindet: links davon
-				das Orchester, rechts der Chor. Nur mit den weißen Gewändern und Trauerschleiern hat
-				es seine Richtigkeit; der Platz der Solisten ist — wie gewöhnlich bei Concerten —
-				unmittelbar an der Seite <pb break="yes" n="4a" type="regular"/> des Dirigenten.
-				Sicherlich hat sich <persName key="verdi.giuseppe">Verdi</persName> nicht durch
-				künstlerische, im Wesen der Sache liegende Gründe, sondern durch irgend welche
-				äußere Rücksichten bestimmen lassen, zum Zwecke dieser Production das Opernhaus dem
-				Concertsaale vorzuziehen, und da, wie wir gezeigt haben, das Theater in einem ganz
-				indifferenten Verhältnisse zur <title key="verdi.requiem" type="mus">Manzonimesse</title>
-				steht, so sollten die Verfechter der Rechte der Kirchenmusik in diesem Falle
-				billigerweise Reciprocität gelten lassen und sich der Theaterbühne gegenüber ebenso
-				neutral verhalten. Wir wollen getreulich zu einander stehen und kein Princip
-				preisgeben, uns aber einstweilen aufrichtig freuen, <persName key="verdi.giuseppe"
+					key="mozart.requiem" type="mus">Requiem</title> geahnt hat, „für sich selbst“
+				componirte, sondern die <title key="verdi.requiem" type="mus">Manzoni-Messe</title>
+				nannte. Der Stempel individueller Wahrheit, welchen <persName key="verdi.giuseppe"
 					>Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> gehört zu haben, gleichviel an welchem
-				Orte.</p>
+				<title key="verdi.requiem" type="mus">Requiem</title> trägt, und der zugleich der
+				Stempel einer bedeutsamen Künstlerschaft genannt werden muß, ist allerdings
+				derselbst, der auch die „<title key="verdi.aida" type="mus">Aida</title>“
+				bezeichnet. Aber das genügt doch nicht, um <persName key="verdi.giuseppe"
+					>Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Messe</title> aus der Kirche, für deren
+				religiöse Feier sie bestimmt wurde, hinauszudecretiren und mit dem Schlagworte
+				„Opernmusik“ abthun zu können. Manche glauben wohl, es wäre nicht so viel
+				Absonderliches daran, wenn auf dem Theater, wo sich ja doch bekanntlich bereits das
+					<title key="gounod.faust.4.3.szene-in-der-kirche" type="mus">Requiem</title> in
+					<persName key="gounod.charles">Gounod’s</persName> „<title key="gounod.faust"
+					type="mus">Faust</title>“ u. dgl. eingebürgert hat, nun einmal eine complete
+				Todtenmesse mit allen dazu gehörigen „Decorationen“ zur Aufführung käme. Die Bühne
+				stellt dann natürlich einen gothischen Dom dar, in dessen Mitte sich ein <hi
+					rend="antiqua"><term key="castrum-doloris">Castrum doloris</term></hi>, von
+				brennenden Fackeln umgeben, erhebt; zur rechten und zur linken Seite ist der
+				Sängerchor postirt, die Damen tragen die schon von <placeName key="paris"
+					>Paris</placeName> her signalisirten weißen Kleider mit schwarzen Schleiern, die
+				Orchestermitglieder jedoch und der Dirigent nehmen die ihnen bei jeder
+				Opernvorstellung zugewiesenen Plätze ein. Es fehlt dann nur noch die <term
+					key="clerisei">Clerisei</term> in ihrem Ornate, um die Allianz der Kirchenmusik
+				mit dem Theater „auf’s Würdigste“ in Scene zu setzen. Leider sind die auf solches
+				Komödienspiel gerichteten Hoffnungen schwärmerischer Schöngeister bei uns nicht in
+				Erfüllung gegangen, denn <persName key="verdi.giuseppe">Verdi</persName> begnügte
+				sich damit, die <title key="verdi.requiem" type="mus">Messe</title> in Concertform
+				vor’s Publikum zu bringen. Die Bühne bildet einen mit Gas beleuchteten Saal, in
+				dessen Vordergrunde sich statt des <term key="catafalk">Catafalkes</term> das
+				Dirigentenpult befindet: links davon das Orchester, rechts der Chor. Nur mit den
+				weißen Gewändern und Trauerschleiern hat es seine Richtigkeit; der Platz der
+				Solisten ist — wie gewöhnlich bei Concerten — unmittelbar an der Seite <pb
+					break="yes" n="4a" type="regular"/> des Dirigenten. Sicherlich hat sich
+					<persName key="verdi.giuseppe">Verdi</persName> nicht durch künstlerische, im
+				Wesen der Sache liegende Gründe, sondern durch irgend welche äußere Rücksichten
+				bestimmen lassen, zum Zwecke dieser Production das Opernhaus dem Concertsaale
+				vorzuziehen, und da, wie wir gezeigt haben, das Theater in einem ganz indifferenten
+				Verhältnisse zur <title key="verdi.requiem" type="mus">Manzonimesse</title> steht,
+				so sollten die Verfechter der Rechte der Kirchenmusik in diesem Falle billigerweise
+				Reciprocität gelten lassen und sich der Theaterbühne gegenüber ebenso neutral
+				verhalten. Wir wollen getreulich zu einander stehen und kein Princip preisgeben, uns
+				aber einstweilen aufrichtig freuen, <persName key="verdi.giuseppe"
+					>Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> gehört zu haben, gleichviel an
+				welchem Orte.</p>
 			<p>Die Gelegenheit zu solchem Genusse dürfte vorderhand nicht allzu häufig eintreten,
 				nachdem sich der Verleger des Werkes, <persName key="ricordi.tito">Tito
-					Ricordi</persName> in <placeName key="mailand">Mailand</placeName>,
-				ausdrücklich den directen Verkauf der Partitur und der Orchesterstimmen „zur
-				etwaigen Aufführung des <title key="verdi.requiem" type="mus">Requiem</title>“ vorbehalten
-				hat, derzeit also, solange der Componist dasselbe an den wichtigsten Musikorten in
-				eigener Person produciren und dirigiren will, seine Preise ohne Zweifel darnach
-				einrichten wird, um das bessere Geschäft nicht zu verderben. Im Uebrigen ist Herr
-					<persName key="ricordi.tito">Ricordi</persName> auf’s Eifrigste bemüht, für
-				seinen interessanten Verlagsartikel, der sich zu öffentlichen Productionen freilich
-				nur im Orchesterkleide eignet, auf buchhändlerischem Wege so viel als möglich
-				Propaganda zu machen. Die <title key="verdi.requiem" type="mus">Manzonimesse</title> erschien
+					Ricordi</persName> in <placeName key="mailand">Mailand</placeName>, ausdrücklich
+				den directen Verkauf der Partitur und der Orchesterstimmen „zur etwaigen Aufführung
+				des <title key="verdi.requiem" type="mus">Requiem</title>“ vorbehalten hat, derzeit
+				also, solange der Componist dasselbe an den wichtigsten Musikorten in eigener Person
+				produciren und dirigiren will, seine Preise ohne Zweifel darnach einrichten wird, um
+				das bessere Geschäft nicht zu verderben. Im Uebrigen ist Herr <persName
+					key="ricordi.tito">Ricordi</persName> auf’s Eifrigste bemüht, für seinen
+				interessanten Verlagsartikel, der sich zu öffentlichen Productionen freilich nur im
+				Orchesterkleide eignet, auf buchhändlerischem Wege so viel als möglich Propaganda zu
+				machen. Die <title key="verdi.requiem" type="mus">Manzonimesse</title> erschien
 				binnen Jahresfrist in nicht weniger als sieben verschiedenen Ausgaben, für Orgel und
 				Harmonium, für Clavier zu zwei und vier Händen, ohne Text oder mit deutschem,
 				lateinischem und englischem Text. Diese Ausgaben werden zu sehr mäßigen Preisen
@@ -252,67 +269,68 @@
 				weithin leuchtendes Beispiel künstlerischen Ernstes volle Bewunderung verdient,
 				hatte seit dem Erscheinen seines <title key="verdi.nabucco" type="mus"
 					>„Nabuchodonosor“</title> den Boden Wien’s nicht wieder betreten. Was ist
-				unserer Generation dieser <title key="verdi.nabucco" type="mus">Nabuchodonosor</title>? Aber
-				den Tondichter des <title key="verdi.il-trovatore" type="mus">„Trovatore“</title>, des <title
-					key="verdi.rigoletto" type="mus">„Rigoletto“</title>, des <hi rend="antiqua"><title
-						key="verdi.un-ballo-in-maschera" type="mus">„ballo in maschera“</title></hi> und der
-					<title key="verdi.la-traviata" type="mus">„Traviata“</title> hätte gewiß Jeder schon
-				längst gerne von Angesicht zu Angesicht kennen gelernt und nach den Triumphzügen der
-					<title key="verdi.aida" type="mus">„Aida“</title> gehörte es zu den sehnsüchtigen Wünschen
-				unserer ganzen Kunstwelt, die persönliche Bekanntschaft des merkwürdigen Mannes zu
-				machen, von dessen Eigenthümlichkeit die Zeitungen Manches zu erzählen wußten. Wir
-				unsererseits kümmern uns um <persName key="verdi.giuseppe">Verdi’s</persName>
-				Schöpfungen, aber nicht um jene Anecdoten, wir suchen <persName
-					key="verdi.giuseppe">Verdi’s</persName> Bild in seinen Werken und sind wenig
-				geübt im Zeichnen von „Charakterköpfen“ oder „Porträtskizzen“. Doch können wir
+				unserer Generation dieser <title key="verdi.nabucco" type="mus"
+					>Nabuchodonosor</title>? Aber den Tondichter des <title key="verdi.il-trovatore"
+					type="mus">„Trovatore“</title>, des <title key="verdi.rigoletto" type="mus"
+					>„Rigoletto“</title>, des <hi rend="antiqua"><title
+						key="verdi.un-ballo-in-maschera" type="mus">„ballo in maschera“</title></hi>
+				und der <title key="verdi.la-traviata" type="mus">„Traviata“</title> hätte gewiß
+				Jeder schon längst gerne von Angesicht zu Angesicht kennen gelernt und nach den
+				Triumphzügen der <title key="verdi.aida" type="mus">„Aida“</title> gehörte es zu den
+				sehnsüchtigen Wünschen unserer ganzen Kunstwelt, die persönliche Bekanntschaft des
+				merkwürdigen Mannes zu machen, von dessen Eigenthümlichkeit die Zeitungen Manches zu
+				erzählen wußten. Wir unsererseits kümmern uns um <persName key="verdi.giuseppe"
+					>Verdi’s</persName> Schöpfungen, aber nicht um jene Anecdoten, wir suchen
+					<persName key="verdi.giuseppe">Verdi’s</persName> Bild in seinen Werken und sind
+				wenig geübt im Zeichnen von „Charakterköpfen“ oder „Porträtskizzen“. Doch können wir
 				versichern, daß jenes Bild des Meisters, welches dem Clavierauszuge des <title
-					key="verdi.requiem" type="mus">Requiem</title> beigegeben ist, die Züge des Originals mit
-				Treue und Wahrheit festhält. Die Art und Weise, wie er den Commandostab des
-				Dirigenten handhabt, macht durch Einfachheit und Gelassenheit einen günstigen
-				Eindruck. Freilich verfügte er in Wien über ausführende Kräfte von seltenster
-				Auserlesenheit und die erste Production des <title key="verdi.requiem" type="mus"
-					>Requiem</title> gehörte in Hinsicht auf gerundete, poetische Darstellung zu den
-				vollendetsten Musikaufführungen, deren wir uns zu erinnern vermögen. Daß die
-				Solosänger, welche den Componisten auf seiner Kunstreise begleiten, nämlich die
-				Damen <hi rend="widespace"><persName key="stolz.teresa" role="soloist.soprano"
-						>Stolz</persName></hi> und <hi rend="widespace"><persName
-						key="waldmann.maria" role="soloist.mezzo">Waldmann</persName></hi>, die
-				Herren <hi rend="widespace"><persName key="masini.angelo" role="soloist.tenor"
-						>Masini</persName></hi> und <hi rend="widespace"><persName
-						key="medini.paolo" role="soloist.basso">Medini</persName></hi>, hiebei in
-				erster Linie <cb break="yes" n="4c" type="regular"/>in Betracht kommen, versteht
-				sich von selbst. Der Baß <persName key="medini.paolo" role="soloist.basso"
-					>Medini’s</persName> tönt zwar nicht mehr mit jugendlicher Frische, sondern
-				ziemlich hohl, aber aus dem Zusammenklange der vier Stimmen ergibt sich doch ein
-				außerordentlicher Wohllaut, und was die Organe der beiden Damen, sowie des
-				Tenoristen <persName key="masini.angelo" role="soloist.tenor">Masini</persName>
-				anbelangt, so erfreut sich auch jedes einzelne derselben einer bemerkenswerthen
-				Schönheit, die freilich durch den dramatisch gefärbten Vortrag ein besonderes Relief
-				erhält. Nur schlägt das „Dramatische“ ihrer Gesangsweise öfter als uns lieb ist,
-				in’s entschieden „Theatralische“ über und interpretirt somit die Absichten des
-				Componisten nicht selten in einer Weise, welche mit dem Charakter einer Todtenmesse,
-				selbst wenn sie im Theater aufgeführt wird, schlechterdings unvereinbar
-				erscheint.</p>
+					key="verdi.requiem" type="mus">Requiem</title> beigegeben ist, die Züge des
+				Originals mit Treue und Wahrheit festhält. Die Art und Weise, wie er den
+				Commandostab des Dirigenten handhabt, macht durch Einfachheit und Gelassenheit einen
+				günstigen Eindruck. Freilich verfügte er in Wien über ausführende Kräfte von
+				seltenster Auserlesenheit und die erste Production des <title key="verdi.requiem"
+					type="mus">Requiem</title> gehörte in Hinsicht auf gerundete, poetische
+				Darstellung zu den vollendetsten Musikaufführungen, deren wir uns zu erinnern
+				vermögen. Daß die Solosänger, welche den Componisten auf seiner Kunstreise
+				begleiten, nämlich die Damen <hi rend="widespace"><persName key="stolz.teresa"
+						role="soloist.soprano">Stolz</persName></hi> und <hi rend="widespace"
+						><persName key="waldmann.maria" role="soloist.mezzo"
+					>Waldmann</persName></hi>, die Herren <hi rend="widespace"><persName
+						key="masini.angelo" role="soloist.tenor">Masini</persName></hi> und <hi
+					rend="widespace"><persName key="medini.paolo" role="soloist.basso"
+						>Medini</persName></hi>, hiebei in erster Linie <cb break="yes" n="4c"
+					type="regular"/>in Betracht kommen, versteht sich von selbst. Der Baß <persName
+					key="medini.paolo" role="soloist.basso">Medini’s</persName> tönt zwar nicht mehr
+				mit jugendlicher Frische, sondern ziemlich hohl, aber aus dem Zusammenklange der
+				vier Stimmen ergibt sich doch ein außerordentlicher Wohllaut, und was die Organe der
+				beiden Damen, sowie des Tenoristen <persName key="masini.angelo"
+					role="soloist.tenor">Masini</persName> anbelangt, so erfreut sich auch jedes
+				einzelne derselben einer bemerkenswerthen Schönheit, die freilich durch den
+				dramatisch gefärbten Vortrag ein besonderes Relief erhält. Nur schlägt das
+				„Dramatische“ ihrer Gesangsweise öfter als uns lieb ist, in’s entschieden
+				„Theatralische“ über und interpretirt somit die Absichten des Componisten nicht
+				selten in einer Weise, welche mit dem Charakter einer Todtenmesse, selbst wenn sie
+				im Theater aufgeführt wird, schlechterdings unvereinbar erscheint.</p>
 			<p>Das Publikum faßte jedoch offenbar mehr den Ort der Production als den kirchlichen
 				Charakter derselben in’s Auge, und belohnte die Leistungen der Solisten mit dem
 				rauschendsten Beifalle, den wir dem Chore wie dem Orchester ohne jede Einschränkung
 				zu spenden Ursache haben. Daß das Soloquartett übrigens zu dem großartigen Erfolge
 				der Novität mächtig beigetragen hat, und daß es insbesondere dem begeisterten
 				Vortrage der beiden Damen zu danken ist, wenn (wie es bei der ersten Aufführung der
-				Fall war) nicht nur das <hi rend="antiqua"><title key="verdi.requiem.2.recordare" type="mus"
-						>Recordare</title></hi> und das <hi rend="antiqua"><title
-						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi>, sondern auch ein Theil des
-					<title key="verdi.requiem.3" type="mus">Offertoriums</title> (<hi rend="antiqua"><title
-						n="hostias" key="verdi.requiem.3" type="mus">„Hostias“</title></hi>) wiederholt werden
-				mußte, das wollen und dürfen wir nicht verschweigen, und freuen uns ganz
-				außerordentlich auf die nächste Vorstellung der <title key="verdi.aida" type="mus"
-					>„Aida,“</title> wo wir die hochgeschätzten Gäste an dem Platze finden werden,
-				der zweifelsohne im besten Sinne des Wortes der ihrige ist. Die Jubelsbezeugungen,
-				deren Gegenstand die Person <persName key="verdi.giuseppe">Verdi’s</persName>
-				selbst gewesen, lassen sich mit Worten nicht beschreiben, das muß man erleben, und
-				es gereicht uns zur hohen Befriedigung, ein solches Fest gerade in einer
-				musikalischen Metropolis vom Range <placeName key="wien">Wiens</placeName> erlebt
-				zu haben.</p>
+				Fall war) nicht nur das <hi rend="antiqua"><title key="verdi.requiem.2.recordare"
+						type="mus">Recordare</title></hi> und das <hi rend="antiqua"><title
+						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi>, sondern auch ein
+				Theil des <title key="verdi.requiem.3" type="mus">Offertoriums</title> (<hi
+					rend="antiqua"><title key="verdi.requiem.3" n="hostias" type="mus"
+						>„Hostias“</title></hi>) wiederholt werden mußte, das wollen und dürfen wir
+				nicht verschweigen, und freuen uns ganz außerordentlich auf die nächste Vorstellung
+				der <title key="verdi.aida" type="mus">„Aida,“</title> wo wir die hochgeschätzten
+				Gäste an dem Platze finden werden, der zweifelsohne im besten Sinne des Wortes der
+				ihrige ist. Die Jubelsbezeugungen, deren Gegenstand die Person <persName
+					key="verdi.giuseppe">Verdi’s</persName> selbst gewesen, lassen sich mit Worten
+				nicht beschreiben, das muß man erleben, und es gereicht uns zur hohen Befriedigung,
+				ein solches Fest gerade in einer musikalischen Metropolis vom Range <placeName
+					key="wien">Wiens</placeName> erlebt zu haben.</p>
 			<p rend="right"><hi rend="widespace"><persName key="woerz.johann-georg"
 						>Florestan</persName></hi>.</p>
 		</body>

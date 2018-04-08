@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Leipziger Tageblatt und Anzeiger, 9. März 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/lta_1876-03-09_anzeige.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -43,8 +44,8 @@
 				<hi rend="smaller">im</hi><lb break="yes"/> Saale des Gewandhauses zu <placeName
 					key="leipzig">Leipzig</placeName><lb break="yes"/>
 				<date when-iso="1876-03-09">Donnerstag den 9. März 1876</date><lb break="yes"/>
-				<hi rend="larger"><title key="verdi.requiem" type="mus">Requiem</title></hi><lb break="yes"/>
-				für Soli, Chor und Orchester<lb break="yes"/>
+				<hi rend="larger"><title key="verdi.requiem" type="mus">Requiem</title></hi><lb
+					break="yes"/> für Soli, Chor und Orchester<lb break="yes"/>
 				<hi rend="smaller">von</hi><lb break="yes"/>
 				<persName key="verdi.giuseppe">Giuseppe Verdi</persName>.<lb break="yes"/>
 				<hi rend="smaller">(Zum ersten Male)</hi></p>

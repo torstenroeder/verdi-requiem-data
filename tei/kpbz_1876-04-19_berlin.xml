@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Königlich privilegirte Berlinische Zeitung, 19. April 1876</title>
-				<author><persName key="akronym.gg"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.gg"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/kpbz_1876-04-19_berlin.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,14 +18,16 @@
 					<placeName key="berlin"/>
 					<date when-custom="wed" when-iso="1876-04-19"/>
 					<biblScope unit="issue">91</biblScope>
-					<biblScope unit="subIssue">91</biblScope>
+					<biblScope unit="subIssue">Erste Beilage</biblScope>
 					<series>kpbz</series>
 					<biblScope unit="page">2</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="berlin"/></creation>
+			<creation>
+				<placeName key="berlin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -38,15 +41,15 @@
 	</teiHeader>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<head><title key="verdi.requiem" type="mus">Requiem</title> von <persName key="verdi.giuseppe"
-					>Verdi</persName>.</head>
+			<head><title key="verdi.requiem" type="mus">Requiem</title> von <persName
+					key="verdi.giuseppe">Verdi</persName>.</head>
 			<p><rs key="mailand.1874.1" type="event"><hi rend="widespace"><persName
 							key="verdi.giuseppe">Verdi’s</persName></hi>
-					<title key="verdi.requiem" type="mus">Requiem</title> gelangte zum ersten Mal am <date
-						when-iso="1874-05-22">22. Mai 1874</date>, am ersten Jahrestage des Todes
-						<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>, zu
-						<placeName key="mailand">Mailand</placeName> an die Oeffentlichkeit.</rs>
-				Es ist seitdem in <rs key="wien.1875" type="event"><placeName key="wien"
+					<title key="verdi.requiem" type="mus">Requiem</title> gelangte zum ersten Mal am
+						<date when-iso="1874-05-22">22. Mai 1874</date>, am ersten Jahrestage des
+					Todes <persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>, zu
+						<placeName key="mailand">Mailand</placeName> an die Oeffentlichkeit.</rs> Es
+				ist seitdem in <rs key="wien.1875" type="event"><placeName key="wien"
 						>Wien</placeName></rs> und <rs key="paris.1874" type="event"><placeName
 						key="paris">Paris</placeName></rs>, in <rs key="dresden.1876" type="event"
 						><placeName key="dresden">Dresden</placeName></rs>, <rs key="hamburg.1876"
@@ -61,38 +64,39 @@
 				grelle dramatische Contraste seinen Ruhm sich erworben hat, sich zu einem Requiem
 				entschließt, so ist alle Welt mehr neugierig gespannt, als künstlerisch
 				erwartungsvoll; ist doch schon die Umwandlung in der Wahl des Gegenstandes, der
-				Sprung von einem <title key="verdi.rigoletto" type="mus">Rigoletto</title> oder <title
-					key="verdi.il-trovatore" type="mus">Trovatore</title> zum <title key="verdi.requiem" type="mus"
-					>Requiem</title> gewissermaßen ein dramatischer Effekt, und man fragt sich
-				verwundert, wie diese neue Contrastwirkung dem Schöpfer gelingen sollte; billiger
-				wäre es, <persName key="rossini.gioachino">Rossini’s</persName>
-				<hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">Stabat mater</title></hi>,
-				welches einstmals dem musikalischen Publikum eine ähnliche Ueberraschung bereitete,
-				zur Vergleichung herbeizuziehen; denn von einem Italiener, von einem Beherrscher der
-				Bühne sollte man nicht voraussetzen, daß er sich plötzlich der deutschen Anschauung,
-				der tiefsinnigen Versenkung in die stille Innerlichkeit des religiösen Gemüths
-				anschließen werde. Der Streit über die Berechtigung moderner italienischer
-				Kirchenmusik führt im Grunde auf dieselben Principien zurück, die in dem Kampf über
-				die Verschiedenheit der Religionsformen zu Tage treten. Die Verfechter der strengen
-				Richtung täuschen sich aber in vielen Fällen über die letzten nothwendigen
-				Consequenzen, weil sie entweder selber nicht in dem religiösen Entwickelungsprozeß
-				den letzten Schritt gethan haben, oder weil sie von den künstlerischen Folgen dieses
-				Schrittes nicht die richtige Vorstellung besitzen. Alle Religion beruht auf der
-				Vermischung eines persönlichen Elements mit dem Unendlichen, Absoluten, das über die
-				Schranken des Raums und der Zeit erhaben ist; nur dann, wenn dies Unendliche als
-				Person vorgestellt wird, zu welcher nun auch die menschliche Persönlichkeit in ein
-				persönliches Verhältniß tritt, ist Religion vorhanden — Religion wenigstens in dem
-				Sinne eines Cultus, einer Andacht-Uebung. Das Geheimnis der Religion besteht in der
-				geschickten Vermittelung dieser beiden Seiten; tritt das persönliche Element
-				allzusehr in den Vordergrund, so wird die Seite der Erhabenheit beschädigt und es
-				stellt sich das Gefühl der Unwürdigkeit ein; wird die Erhabenheit allzu entschieden
-				betont, so verliert die Religion ihre lebendige Wärme, sie ist im Begriff, sich in
-				Philosophie zu verwandeln. Im Wesentlichen beruht darauf der Gegensatz des
-				Katholocismus und des Protestantismus, und wir werden wohl nicht irren, wenn wir den
-				Gegensatz katholischer und protestantischer Kirchenmusik auf ähnliche Weise
-				erklären. Doch ist dabei nicht zu übersehen, daß, durch die Reformation
-				hervorgerufen, das Streben nach innerer Reinigung auch die katholische Kirche eine
-				Zeit lang beseelte; daraus entstand der <persName
+				Sprung von einem <title key="verdi.rigoletto" type="mus">Rigoletto</title> oder
+					<title key="verdi.il-trovatore" type="mus">Trovatore</title> zum <title
+					key="verdi.requiem" type="mus">Requiem</title> gewissermaßen ein dramatischer
+				Effekt, und man fragt sich verwundert, wie diese neue Contrastwirkung dem Schöpfer
+				gelingen sollte; billiger wäre es, <persName key="rossini.gioachino"
+					>Rossini’s</persName>
+				<hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">Stabat
+					mater</title></hi>, welches einstmals dem musikalischen Publikum eine ähnliche
+				Ueberraschung bereitete, zur Vergleichung herbeizuziehen; denn von einem Italiener,
+				von einem Beherrscher der Bühne sollte man nicht voraussetzen, daß er sich plötzlich
+				der deutschen Anschauung, der tiefsinnigen Versenkung in die stille Innerlichkeit
+				des religiösen Gemüths anschließen werde. Der Streit über die Berechtigung moderner
+				italienischer Kirchenmusik führt im Grunde auf dieselben Principien zurück, die in
+				dem Kampf über die Verschiedenheit der Religionsformen zu Tage treten. Die
+				Verfechter der strengen Richtung täuschen sich aber in vielen Fällen über die
+				letzten nothwendigen Consequenzen, weil sie entweder selber nicht in dem religiösen
+				Entwickelungsprozeß den letzten Schritt gethan haben, oder weil sie von den
+				künstlerischen Folgen dieses Schrittes nicht die richtige Vorstellung besitzen. Alle
+				Religion beruht auf der Vermischung eines persönlichen Elements mit dem Unendlichen,
+				Absoluten, das über die Schranken des Raums und der Zeit erhaben ist; nur dann, wenn
+				dies Unendliche als Person vorgestellt wird, zu welcher nun auch die menschliche
+				Persönlichkeit in ein persönliches Verhältniß tritt, ist Religion vorhanden —
+				Religion wenigstens in dem Sinne eines Cultus, einer Andacht-Uebung. Das Geheimnis
+				der Religion besteht in der geschickten Vermittelung dieser beiden Seiten; tritt das
+				persönliche Element allzusehr in den Vordergrund, so wird die Seite der Erhabenheit
+				beschädigt und es stellt sich das Gefühl der Unwürdigkeit ein; wird die Erhabenheit
+				allzu entschieden betont, so verliert die Religion ihre lebendige Wärme, sie ist im
+				Begriff, sich in Philosophie zu verwandeln. Im Wesentlichen beruht darauf der
+				Gegensatz des Katholocismus und des Protestantismus, und wir werden wohl nicht
+				irren, wenn wir den Gegensatz katholischer und protestantischer Kirchenmusik auf
+				ähnliche Weise erklären. Doch ist dabei nicht zu übersehen, daß, durch die
+				Reformation hervorgerufen, das Streben nach innerer Reinigung auch die katholische
+				Kirche eine Zeit lang beseelte; daraus entstand der <persName
 					key="palestrina.giovanni-pierluigi">Palestrina</persName>-Styl, die
 				vollkommenste musikalische Versinnlichung der Gottes-Vorstellung nach der Seite
 				ihrer unendlichen Erhabenheit, die wir überhaupt kennen. Als das einzig richtige
@@ -114,35 +118,36 @@
 				die protestantische Anschauung der philosophischen näher liegt, und dies begründet
 				ihr höheres Recht. — Gehen wir nun nach diesen Vorbemerkungen näher an <persName
 					key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> heran, so erinnern wir zunächst daran,
-				daß <persName key="verdi.giuseppe">Verdi</persName> als Operncomponist — ganz im
-				Gegensatz zu <persName key="rossini.gioachino">Rossini</persName> und <persName
-					key="donizetti.gaetano">Donizetti</persName> — ausschließlich der tragischen
-				Muse gehuldigt, somit von jeher eine besondere Vorliebe für die ernste Seite der
-				Kunst bekundet hat, zweitens möchten wir hervorheben, daß er fast vom Anfang seiner
-				Laufbahn an unter dem entschiedenen Einfluß <persName key="meyerbeer.giacomo"
-					>Meyerbeer’s</persName> und damit theils des französischen, theils des deutschen
-				Nationalcharakters stand. Am auffälligsten trat bekanntlich dieser Einfluß
-				neuerdings in der <title key="verdi.aida" type="mus">A<hi rend="antiqua">ï</hi>da</title>
-				hervor. In seinem <title key="verdi.requiem" type="mus">Requiem</title> ist nun <persName
-					key="verdi.giuseppe">Verdi</persName> noch einen Schritt weiter gegangen und
-				hat sich der deutschen Kunstauffassung noch beträchtlicher genähert, ohne daß er
+				<title key="verdi.requiem" type="mus">Requiem</title> heran, so erinnern wir
+				zunächst daran, daß <persName key="verdi.giuseppe">Verdi</persName> als
+				Operncomponist — ganz im Gegensatz zu <persName key="rossini.gioachino"
+					>Rossini</persName> und <persName key="donizetti.gaetano">Donizetti</persName> —
+				ausschließlich der tragischen Muse gehuldigt, somit von jeher eine besondere
+				Vorliebe für die ernste Seite der Kunst bekundet hat, zweitens möchten wir
+				hervorheben, daß er fast vom Anfang seiner Laufbahn an unter dem entschiedenen
+				Einfluß <persName key="meyerbeer.giacomo">Meyerbeer’s</persName> und damit theils
+				des französischen, theils des deutschen Nationalcharakters stand. Am auffälligsten
+				trat bekanntlich dieser Einfluß neuerdings in der <title key="verdi.aida" type="mus"
+						>A<hi rend="antiqua">ï</hi>da</title> hervor. In seinem <title
+					key="verdi.requiem" type="mus">Requiem</title> ist nun <persName
+					key="verdi.giuseppe">Verdi</persName> noch einen Schritt weiter gegangen und hat
+				sich der deutschen Kunstauffassung noch beträchtlicher genähert, ohne daß er
 				freilich darum ganz aufgehört hätte, Italiener zu sein. In weit höherem Maße, als
 					<persName key="rossini.gioachino">Rossini’s</persName>
-				<hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">Stabat mater</title>,</hi>
-				kann daher <persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> den Anspruch erheben, religiöse Stimmung
-				zu erwecken; in der nähern Art und Weise aber, wie dies geschieht, möchten wir doch
-				mehr die Schöpfung eines Mannes erkennen, der sich lebendig vorzustellen weiß, wie
-				Andere religiösen Cultus treiben, als eines solchen, der selbst mit seinem ganzen
-				Herzen dabei ist; in diesem Sinne haftet also dem <title key="verdi.requiem" type="mus"
-					>Requiem</title> von <persName key="verdi.giuseppe">Verdi</persName> ein
-				theatralisches Element an. Man würde nicht ganz fehl gehen, wenn man den Keim dieses
-				Werkes in der Kirchenscene des <persName key="meyerbeer.giacomo"
-					>Meyerbeer’schen</persName>
-				<title key="meyerbeer.le-prophete" type="mus">Propheten</title> finden wollte. Hier singen
-				vier Männerstimmen hinter der Scene in weihevollen, kunstgerechten Harmonien das Lob
-				des Herrn, während die Schaar der Gläubigen vorn auf der Bühne dazwischen
+				<hi rend="antiqua"><title key="rossini.stabat-mater" type="mus">Stabat
+					mater</title>,</hi> kann daher <persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> den Anspruch erheben,
+				religiöse Stimmung zu erwecken; in der nähern Art und Weise aber, wie dies
+				geschieht, möchten wir doch mehr die Schöpfung eines Mannes erkennen, der sich
+				lebendig vorzustellen weiß, wie Andere religiösen Cultus treiben, als eines solchen,
+				der selbst mit seinem ganzen Herzen dabei ist; in diesem Sinne haftet also dem
+					<title key="verdi.requiem" type="mus">Requiem</title> von <persName
+					key="verdi.giuseppe">Verdi</persName> ein theatralisches Element an. Man würde
+				nicht ganz fehl gehen, wenn man den Keim dieses Werkes in der Kirchenscene des
+					<persName key="meyerbeer.giacomo">Meyerbeer’schen</persName>
+				<title key="meyerbeer.le-prophete" type="mus">Propheten</title> finden wollte. Hier
+				singen vier Männerstimmen hinter der Scene in weihevollen, kunstgerechten Harmonien
+				das Lob des Herrn, während die Schaar der Gläubigen vorn auf der Bühne dazwischen
 				psalmodirende Weisen ertönen läßt, mit freiem Rhythmus und stetem Verweilen auf
 				einem und demselben Dreiklang. Dieser Contrast ist von großer dramatischer Wirkung;
 				auf der einen Seite die Klänge dumpfer Ergebung, ja denen alle Willensfreiheit des
@@ -152,41 +157,42 @@
 				Wesen das Beste und Edelste darzubringen, was Menschen besitzen. Eben dieser
 				Contrast zieht sich durch das ganze <persName key="verdi.giuseppe"
 					>Verdi’sche</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title>; er ist das ihm charakteristisch
-				Eigenthümliche, auf ihm beruhen die ergreifendsten Wirkungen, die sich im Lauf des
-				Werkes finden. Das ist aber streng genommen, wenn es auch eine Art von religiöser
-				Stimmung erweckt, dennoch theatralisch zu nennen. Im Charakter des eben erwähnten
-				psalmodirenden Harmonien verwandt ist auch jene alterthümlich klingende, zuerst von
-				Alt und Sopran ohne alle Begleitung vorgetragene Weise, die dem ergreifenden <hi
-					rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> zu Grunde
-				liegt; eintönig, bald <cb break="yes" n="b" type="regular"/>den Solostimmen, das dem
-				Chor zugewiesen, wechselnd in Dur und Moll, hin und wieder in bald leichtere, bald
-				tiefsinnigere Harmonie gehüllt, ahmt sie den Hilferuf der leidenden Menschheit gar
-				täuschend nach; aber daß sie aus der eigenen religiösen Empfindung eines heutigen
-				Menschen hervorgegangen sei, wird schwer glaubhaft zu machen sein. Am Anfang und am
-				Schluß des Werkes und vielfach im Verlauf desselben sind es die Psalmodien, welche
-				das Gemüth seltsam bestricken; wir sehen die Betenden vor uns auf den Knieen liegen,
-				aber wir können nicht mit ihnen beten. Eine mehrfach im Verlauf des Werkes
-				wiederkehrende Kette von Motiven findet sich beim <hi rend="antiqua"><title
-						key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title></hi>; Gluth und Gewalt
-				ist diesem Abschnitt des Werkes nicht abzusprechen, aber die Malerei ist allzu
-				realistisch. In den Psalmodien und in den Motives des <hi rend="antiqua"><title
-						key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title></hi> sind die
-				musikalischen Grundpfeiler des Werkes enthalten; daran schließen sich nun die
-				mannigfaltigsten Kunstgestaltungen, von sehr verschiedenartigem Werth in der
-				melodischen Erfindung sowohl als in der Durchführung. Im Ganzen gereicht es dem Werk
-				zum Vortheil, daß es nicht in zu viele vollständig für sich abgeschlossene einzelne
-				Nummern zerfällt; wir wenigstens geben der Methode, welche z. B. das <hi
-					rend="antiqua"><title key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title></hi>
-				bis zum <hi rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus"
-					>Lacrymosa</title></hi> als ein zusammenhängendes Ganze behandelt, den Vorzug.
-				Denn je weniger das Einzelne als solches hervortritt, um so mehr wird der Eindruck
-				des Unendlichen, des Erhabenen in dem Zuhörer hervorgerufen; nur die Unfaßlichkeit,
-				die Formlosigkeit soll vermieden werden. Auch dies ist dem Geist der religiösen
-				Musik angemessen, daß die Solostimmen bei weitem nicht so selbstständig, wie z. B.
-				bei <persName key="rossini.gioachino">Rossini</persName>, sich von dem Chor
-				abheben; sie wachsen aus demselben hervor und entfalten sich dann wohl mitunter zu
-				erheblicher Bedeutung, mit dem Glanz ihrer Stimmen das Ganze überstrahlend, oder
+				<title key="verdi.requiem" type="mus">Requiem</title>; er ist das ihm
+				charakteristisch Eigenthümliche, auf ihm beruhen die ergreifendsten Wirkungen, die
+				sich im Lauf des Werkes finden. Das ist aber streng genommen, wenn es auch eine Art
+				von religiöser Stimmung erweckt, dennoch theatralisch zu nennen. Im Charakter des
+				eben erwähnten psalmodirenden Harmonien verwandt ist auch jene alterthümlich
+				klingende, zuerst von Alt und Sopran ohne alle Begleitung vorgetragene Weise, die
+				dem ergreifenden <hi rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus
+						Dei</title></hi> zu Grunde liegt; eintönig, bald <cb break="yes" n="b"
+					type="regular"/>den Solostimmen, das dem Chor zugewiesen, wechselnd in Dur und
+				Moll, hin und wieder in bald leichtere, bald tiefsinnigere Harmonie gehüllt, ahmt
+				sie den Hilferuf der leidenden Menschheit gar täuschend nach; aber daß sie aus der
+				eigenen religiösen Empfindung eines heutigen Menschen hervorgegangen sei, wird
+				schwer glaubhaft zu machen sein. Am Anfang und am Schluß des Werkes und vielfach im
+				Verlauf desselben sind es die Psalmodien, welche das Gemüth seltsam bestricken; wir
+				sehen die Betenden vor uns auf den Knieen liegen, aber wir können nicht mit ihnen
+				beten. Eine mehrfach im Verlauf des Werkes wiederkehrende Kette von Motiven findet
+				sich beim <hi rend="antiqua"><title key="verdi.requiem.2.dies-irae" type="mus">Dies
+						irae</title></hi>; Gluth und Gewalt ist diesem Abschnitt des Werkes nicht
+				abzusprechen, aber die Malerei ist allzu realistisch. In den Psalmodien und in den
+				Motives des <hi rend="antiqua"><title key="verdi.requiem.2.dies-irae" type="mus"
+						>Dies irae</title></hi> sind die musikalischen Grundpfeiler des Werkes
+				enthalten; daran schließen sich nun die mannigfaltigsten Kunstgestaltungen, von sehr
+				verschiedenartigem Werth in der melodischen Erfindung sowohl als in der
+				Durchführung. Im Ganzen gereicht es dem Werk zum Vortheil, daß es nicht in zu viele
+				vollständig für sich abgeschlossene einzelne Nummern zerfällt; wir wenigstens geben
+				der Methode, welche z. B. das <hi rend="antiqua"><title
+						key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title></hi> bis zum
+					<hi rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus"
+						>Lacrymosa</title></hi> als ein zusammenhängendes Ganze behandelt, den
+				Vorzug. Denn je weniger das Einzelne als solches hervortritt, um so mehr wird der
+				Eindruck des Unendlichen, des Erhabenen in dem Zuhörer hervorgerufen; nur die
+				Unfaßlichkeit, die Formlosigkeit soll vermieden werden. Auch dies ist dem Geist der
+				religiösen Musik angemessen, daß die Solostimmen bei weitem nicht so selbstständig,
+				wie z. B. bei <persName key="rossini.gioachino">Rossini</persName>, sich von dem
+				Chor abheben; sie wachsen aus demselben hervor und entfalten sich dann wohl mitunter
+				zu erheblicher Bedeutung, mit dem Glanz ihrer Stimmen das Ganze überstrahlend, oder
 				durch empfindungsvolle Melodik das Gemüth des Hörers umwerfend; aber sie lösen sich
 				kaum jemals vollständig von dem chorischen Hintergrunde ab, mindestens bleiben sie
 				in steter gegenseitiger Wechselbeziehung. Dem melodischen Element ist, wie es bei
@@ -195,48 +201,49 @@
 				auf der Durchführung bestimmter Motive beruht, <persName key="verdi.giuseppe"
 					>Verdi</persName> eine für einen heutigen Italiener überraschende Gewandtheit.
 				Zwar kommt es nur zweimal zu einem ausgeführteren Fugensatz, und die erste dieser
-				Fugen, das <hi rend="antiqua"><title key="verdi.requiem.4" type="mus">Sanctus</title>,</hi>
-				ist durch ihr etwas triviales Thema nicht dazu angethan, die Zustimmung deutscher
-				Musiker zu gewinnen; die zweite dagegen, das <hi rend="antiqua"><title
-						n="libera-me.fuga" key="verdi.requiem.7" type="mus">Libera me</title>,</hi> ist wohl
-				geeignet, auch strengere Ansprüche zu befriedigen. Abgesehen aber von dieser
-				strengsten aller Kunstformen finden wir durchweg ein kunstvolles Stimmengewebe von
-				einer reichen und lebendigen, mitunter allerdings dem modernen Streben nach greller
-				Farbengebung allzu viel huldigenden Behandlung des Orchesters getragen; überall
-				finden wir Wohlklang, lebendigen Ausdruck der Worte und jenen Wechsel von Hebung und
-				Senkung, der so recht das eigentliche Wesen der Musik, als der Kunst der Bewegung,
-				ausmacht. Um noch bei Einzelnem zu verweilen, so bekennen wir unsere Vorliebe für
-				den milden, lieblich frommen <title n="introitus" key="verdi.requiem.1" type="mus"
-					>Eingangschor</title>, für das Soloterzett <hi rend="antiqua">„<title
-						key="verdi.requiem.2.quid-sum-miser" type="mus">quid sum miser runc
-					dicturus</title>“</hi> mit seiner innigen Melodie und seinen klagenden
-				Begleitungsfiguren, für das machtvoll sich steigernde <hi rend="antiqua"><title
-						key="verdi.requiem.2.rex-tremendae" type="mus">Rex tremendae majestatis</title></hi>
-				mit den herzerschütternden Rufen des Chors und der Solostimmen <hi rend="antiqua"
-						>„<title n="salva-me" key="verdi.requiem.2.rex-tremendae" type="mus">salva me fons
-						pietatis</title>“,</hi> für das wunderbar rührende <hi rend="antiqua"><title
-						n="hostias" key="verdi.requiem.3" type="mus">hostias</title>;</hi> ja auch von dem <hi
-					rend="antiqua"><title key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title>,</hi>
-				das sich aber in seinem weiteren Verlauf in theatralischem Realismus verliert, will
-				uns die zu Grunde liegende Melodie eben so edel, als stimmungsvoll erscheinen. Das
-					<hi rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus Dei</title>,</hi> das <hi
-					rend="antiqua"><title key="verdi.requiem.7" type="mus">Libera me</title></hi> und <hi
-					rend="antiqua"><title key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title></hi>
-				wurde bereits oben erwähnt. Andere Züge kommen uns dagegen verfehlt oder kleinlich
-				vor, so z. B. die lange <title key="verdi.requiem.2.tuba-mirum" type="mus"
-					>Trompeten-Einleitung</title>, welche den Klang der Tuba des jüngsten Gerichts
-				versinnlichen soll, oder die nachschlagende Pauke bei dem <hi rend="antiqua"><title
-						n="mors-stupebit" key="verdi.requiem.2.tuba-mirum" type="mus">mors
-					stupebit</title>.</hi> Als ein Curiosum mögen die absichtlichen falschen Quinten
-				bei dem <hi rend="antiqua"><title n="oro-supplex" key="verdi.requiem.2.confutatis" type="mus"
-						>Oro supplex et acclinis</title></hi> erwähnt werden — wollte <persName
-					key="verdi.giuseppe">Verdi</persName> die Unbehilflichkeit des Bittenden damit
-				ausdrücken? — ferner die ungewöhnliche Steigerung der vorgeschriebenen
-				Vortragsnüancen. Man bezeichnet <hi rend="antiqua">pianissimo</hi> bekanntlich durch
-					<hi rend="antiqua">pp;</hi> als Jemand zum ersten Male <hi rend="antiqua"
-					>ppp</hi> vorschrieb, wurde das bereits seltsam gefunden. Heute ist <hi
-					rend="antiqua">ppp</hi> allgemein gebräuchlich, aber <persName
-					key="verdi.giuseppe">Verdi</persName> schreibt auch <hi rend="antiqua"
+				Fugen, das <hi rend="antiqua"><title key="verdi.requiem.4" type="mus"
+						>Sanctus</title>,</hi> ist durch ihr etwas triviales Thema nicht dazu
+				angethan, die Zustimmung deutscher Musiker zu gewinnen; die zweite dagegen, das <hi
+					rend="antiqua"><title key="verdi.requiem.7" n="libera-me.fuga" type="mus">Libera
+						me</title>,</hi> ist wohl geeignet, auch strengere Ansprüche zu befriedigen.
+				Abgesehen aber von dieser strengsten aller Kunstformen finden wir durchweg ein
+				kunstvolles Stimmengewebe von einer reichen und lebendigen, mitunter allerdings dem
+				modernen Streben nach greller Farbengebung allzu viel huldigenden Behandlung des
+				Orchesters getragen; überall finden wir Wohlklang, lebendigen Ausdruck der Worte und
+				jenen Wechsel von Hebung und Senkung, der so recht das eigentliche Wesen der Musik,
+				als der Kunst der Bewegung, ausmacht. Um noch bei Einzelnem zu verweilen, so
+				bekennen wir unsere Vorliebe für den milden, lieblich frommen <title
+					key="verdi.requiem.1" n="introitus" type="mus">Eingangschor</title>, für das
+				Soloterzett <hi rend="antiqua">„<title key="verdi.requiem.2.quid-sum-miser"
+						type="mus">quid sum miser runc dicturus</title>“</hi> mit seiner innigen
+				Melodie und seinen klagenden Begleitungsfiguren, für das machtvoll sich steigernde
+					<hi rend="antiqua"><title key="verdi.requiem.2.rex-tremendae" type="mus">Rex
+						tremendae majestatis</title></hi> mit den herzerschütternden Rufen des Chors
+				und der Solostimmen <hi rend="antiqua">„<title key="verdi.requiem.2.rex-tremendae"
+						n="salva-me" type="mus">salva me fons pietatis</title>“,</hi> für das
+				wunderbar rührende <hi rend="antiqua"><title key="verdi.requiem.3" n="hostias"
+						type="mus">hostias</title>;</hi> ja auch von dem <hi rend="antiqua"><title
+						key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title>,</hi> das sich
+				aber in seinem weiteren Verlauf in theatralischem Realismus verliert, will uns die
+				zu Grunde liegende Melodie eben so edel, als stimmungsvoll erscheinen. Das <hi
+					rend="antiqua"><title key="verdi.requiem.5" type="mus">Agnus Dei</title>,</hi>
+				das <hi rend="antiqua"><title key="verdi.requiem.7" type="mus">Libera
+					me</title></hi> und <hi rend="antiqua"><title key="verdi.requiem.2.dies-irae"
+						type="mus">Dies irae</title></hi> wurde bereits oben erwähnt. Andere Züge
+				kommen uns dagegen verfehlt oder kleinlich vor, so z. B. die lange <title
+					key="verdi.requiem.2.tuba-mirum" type="mus">Trompeten-Einleitung</title>, welche
+				den Klang der Tuba des jüngsten Gerichts versinnlichen soll, oder die nachschlagende
+				Pauke bei dem <hi rend="antiqua"><title key="verdi.requiem.2.tuba-mirum"
+						n="mors-stupebit" type="mus">mors stupebit</title>.</hi> Als ein Curiosum
+				mögen die absichtlichen falschen Quinten bei dem <hi rend="antiqua"><title
+						key="verdi.requiem.2.confutatis" n="oro-supplex" type="mus">Oro supplex et
+						acclinis</title></hi> erwähnt werden — wollte <persName key="verdi.giuseppe"
+					>Verdi</persName> die Unbehilflichkeit des Bittenden damit ausdrücken? — ferner
+				die ungewöhnliche Steigerung der vorgeschriebenen Vortragsnüancen. Man bezeichnet
+					<hi rend="antiqua">pianissimo</hi> bekanntlich durch <hi rend="antiqua">pp;</hi>
+				als Jemand zum ersten Male <hi rend="antiqua">ppp</hi> vorschrieb, wurde das bereits
+				seltsam gefunden. Heute ist <hi rend="antiqua">ppp</hi> allgemein gebräuchlich, aber
+					<persName key="verdi.giuseppe">Verdi</persName> schreibt auch <hi rend="antiqua"
 					>pppp,</hi>
 				<hi rend="antiqua">ppppp,</hi> ja sogar (Seite 176. des Clavierauszugs<supplied
 					resp="tr">)</supplied>
@@ -245,46 +252,46 @@
 					rend="antiqua">forte</hi> unterlassen, sonst würden wohl viele Trommelfelle
 				gesprungen sein. Daß wir aber das <hi rend="antiqua">pppppp</hi> von der Stimme des
 				Frl. <persName key="lehmann.lilli">Lehmann</persName>, die es zu singen hatte, noch
-				gehört haben, können wir bezeugen. — Die Aufführung des <title key="verdi.requiem" type="mus"
-					>Requiem</title>, weche am <date when-iso="1876-04-15">Sonnabend Abends</date>
-				durch die Chor- und Solokräfte der königlichen Bühne und unter Leitung des
-				Kapellmeisters <hi rend="widespace"><persName key="radecke.robert"
+				gehört haben, können wir bezeugen. — Die Aufführung des <title key="verdi.requiem"
+					type="mus">Requiem</title>, weche am <date when-iso="1876-04-15">Sonnabend
+					Abends</date> durch die Chor- und Solokräfte der königlichen Bühne und unter
+				Leitung des Kapellmeisters <hi rend="widespace"><persName key="radecke.robert"
 						>Radecke</persName></hi> im <placeName key="berlin.hofoper">königl.
 					Opernhause</placeName> stattfand, hatte nicht das ganze Haus gefüllt. Wie das
 				Werk dem Publikum gefallen, ist bei der hier herrschenden Sitte, in Aufführungen
 				dieser Art nicht zu applaudiren, nicht festzustellen. Wenigstens möchten wir daraus,
 				daß der erstere größere Applaus erst nach dem <hi rend="antiqua"><title
-						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> und dann am Schluß des Ganzen
-				erfolgte, nicht den Schluß ziehen, daß die Zuhörer bis dahin unbefriedigt gewesen
-				seien. Allerdings wissen wir, daß in Norddeutschland scharf bestimmte religiöse und
-				musikalische Grundsätze dem Erfolg des <persName key="verdi.giuseppe"
+						key="verdi.requiem.5" type="mus">Agnus Dei</title></hi> und dann am Schluß
+				des Ganzen erfolgte, nicht den Schluß ziehen, daß die Zuhörer bis dahin unbefriedigt
+				gewesen seien. Allerdings wissen wir, daß in Norddeutschland scharf bestimmte
+				religiöse und musikalische Grundsätze dem Erfolg des <persName key="verdi.giuseppe"
 					>Verdi’schen</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> entgegenstreben und das Publikum daran
-				hindern, das Schöne und Wohlthuende, das dieses Werk in sich enthält, einfach in
-				sich aufzunehmen und auf sich wirken zu lassen; aber es giebt auch unabhängigere
-				Gemüther, die ein Kunstwerk als das nehmen, was es ist, und es nicht darum schon
-				verurtheilen, weil es etwa dem Titel, den es sich gewählt, nicht vollständig
-				entsprechen sollte. Die Aufführung war eine sehr befriedigende. Der Theaterchor hat
-				uns durch seine Sicherheit und Klangkraft, durch seine feine Nüancirung und sein
-				wohlklingendes <hi rend="antiqua">pianissimo</hi> überrascht. An einzelnen Stellen,
-				z. B. bei dem Einsatz <hi rend="antiqua">„<title n="te-decet-hymnus"
-						key="verdi.requiem.1" type="mus">te decet hymnus</title>“</hi> konnte das <hi
-					rend="antiqua">forte</hi> von etwas edlerer Klangfarbe sein. Die Frls. <hi
-					rend="widespace"><persName key="lehmann.lilli">Lehmann</persName></hi> und <hi
-					rend="widespace"><persName key="brandt.marianne">Brandt</persName></hi>, sowie
-				die Herren <hi rend="widespace"><persName key="ernst.heinrich"
-					>Ernst</persName></hi> und <hi rend="widespace"><persName key="betz.franz"
-						>Betz</persName></hi>, die Träger der Solopartieen, erreichten zwar nur in
-				verschiedenem Maße der Annäherung den runden Klang des cantable Legato italienischer
-				Stimmen, lösten aber ihre Aufgaben, vom deutschen Standpunkt aus betrachtet, in
-				durchaus würdiger Weise. Die königliche Kapelle begleitete musterhaft. Einzelne
-				Solosänger — wir nennen die Frls. <hi rend="widespace"><persName key="horina.luise"
-						>Horina</persName></hi> und <hi rend="widespace"><persName
-						key="lammert.minna">Lammert</persName></hi> — verstärkten und veredelten
-				den Chor durch ihre Mitwirkung. Herrn Kapellmeister <hi rend="widespace"><persName
-						key="radecke.robert">Radecke</persName></hi> gebührt besondere Anerkennung
-				für die einsichtige und sorgsame Einstudirung des <title key="verdi.requiem" type="mus"
-					>Requiem</title>.</p>
+				<title key="verdi.requiem" type="mus">Requiem</title> entgegenstreben und das
+				Publikum daran hindern, das Schöne und Wohlthuende, das dieses Werk in sich enthält,
+				einfach in sich aufzunehmen und auf sich wirken zu lassen; aber es giebt auch
+				unabhängigere Gemüther, die ein Kunstwerk als das nehmen, was es ist, und es nicht
+				darum schon verurtheilen, weil es etwa dem Titel, den es sich gewählt, nicht
+				vollständig entsprechen sollte. Die Aufführung war eine sehr befriedigende. Der
+				Theaterchor hat uns durch seine Sicherheit und Klangkraft, durch seine feine
+				Nüancirung und sein wohlklingendes <hi rend="antiqua">pianissimo</hi> überrascht. An
+				einzelnen Stellen, z. B. bei dem Einsatz <hi rend="antiqua">„<title
+						key="verdi.requiem.1" n="te-decet-hymnus" type="mus">te decet
+					hymnus</title>“</hi> konnte das <hi rend="antiqua">forte</hi> von etwas edlerer
+				Klangfarbe sein. Die Frls. <hi rend="widespace"><persName key="lehmann.lilli"
+						>Lehmann</persName></hi> und <hi rend="widespace"><persName
+						key="brandt.marianne">Brandt</persName></hi>, sowie die Herren <hi
+					rend="widespace"><persName key="ernst.heinrich">Ernst</persName></hi> und <hi
+					rend="widespace"><persName key="betz.franz">Betz</persName></hi>, die Träger der
+				Solopartieen, erreichten zwar nur in verschiedenem Maße der Annäherung den runden
+				Klang des cantable Legato italienischer Stimmen, lösten aber ihre Aufgaben, vom
+				deutschen Standpunkt aus betrachtet, in durchaus würdiger Weise. Die königliche
+				Kapelle begleitete musterhaft. Einzelne Solosänger — wir nennen die Frls. <hi
+					rend="widespace"><persName key="horina.luise">Horina</persName></hi> und <hi
+					rend="widespace"><persName key="lammert.minna">Lammert</persName></hi> —
+				verstärkten und veredelten den Chor durch ihre Mitwirkung. Herrn Kapellmeister <hi
+					rend="widespace"><persName key="radecke.robert">Radecke</persName></hi> gebührt
+				besondere Anerkennung für die einsichtige und sorgsame Einstudirung des <title
+					key="verdi.requiem" type="mus">Requiem</title>.</p>
 			<p rend="right"><persName key="akronym.gg">G. G.</persName></p>
 		</body>
 	</text>

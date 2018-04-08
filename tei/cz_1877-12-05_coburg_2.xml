@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Coburger Zeitung, 5. Dezember 1877 [2]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/cz_1877-12-05_coburg.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="coburg"/></creation>
+			<creation>
+				<placeName key="coburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -44,22 +45,22 @@
 		<body rend="fraktur">
 			<head rend="larger"><placeName key="coburg.hoftheater">Herzogl. Sächs.
 					Hoftheater</placeName> in <placeName key="coburg">Coburg</placeName>.</head>
-			<p><gap resp="tr"/>
-				<rs key="coburg.1877.1" type="event"><date><hi rend="widespace">Freitag</hi>, den
-						7. December</date>. Zum ersten Male: <hi rend="bold"><title
-							key="verdi.requiem" type="mus">Requiem</title></hi> von <hi rend="widespace"
-							><persName key="verdi.giuseppe">Verdi</persName></hi> (zum Todestage
-						<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>
-					componirt) — ausgeführt von der Herzogl. Hofcapelle, dem Chorpersonal des
-					Herzogl. Hoftheaters und unter freundlicher Mitwirkung des „Sängerkranzes“. Die
-					Soli’s gesungen von den Damen <persName key="gerl.helene">Gerl</persName> und
-						<persName key="stirl.helene"><choice>
+			<p><gap/>
+				<rs key="coburg.1877.1" type="event"><date><hi rend="widespace">Freitag</hi>, den 7.
+						December</date>. Zum ersten Male: <hi rend="bold"><title key="verdi.requiem"
+							type="mus">Requiem</title></hi> von <hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi</persName></hi> (zum Todestage <persName
+						key="manzoni.alessandro">Alessandro Manzoni’s</persName> componirt) —
+					ausgeführt von der Herzogl. Hofcapelle, dem Chorpersonal des Herzogl.
+					Hoftheaters und unter freundlicher Mitwirkung des „Sängerkranzes“. Die Soli’s
+					gesungen von den Damen <persName key="gerl.helene">Gerl</persName> und <persName
+						key="stirl.helene"><choice>
 							<orig>Stiel</orig>
 							<corr resp="tr">Stirl</corr>
 						</choice></persName> und den Herren <persName key="eilers.ludwig-albert"
 						>Eilers</persName> und <persName key="buerger.max">Bürger</persName>.
 					Dirigent: Herr Hofcapellemister <persName key="lampert.ernst"
-						>Lampert</persName>. — Mittelpreise. — Anfang 7 Uhr.</rs></p>
+					>Lampert</persName>. — Mittelpreise. — Anfang 7 Uhr.</rs></p>
 		</body>
 	</text>
 </TEI>

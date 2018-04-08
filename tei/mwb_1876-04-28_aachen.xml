@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 28. April 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1876-04-28_aachen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="aachen"/></creation>
+			<creation>
+				<placeName key="aachen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -48,17 +49,17 @@
 							>Aachen</placeName>.</hi> 6. Abonn-Conc. unt. Leit. des Musikdirectors
 					Hrn. <persName key="breunung.ferdinand">F. Breunung</persName> am <date
 						when-iso="1876-03-16">16. März</date>: <title
-						key="gluck.iphigenie-en-aulide.ouverture" type="mus">„Iphigenien“-Ouvert.</title> v.
-						<persName key="gluck.christoph-willibald">Gluck</persName>, <title
-						key="verdi.requiem" type="mus">Requiem</title> v. <hi rend="widespace"><persName
-							key="verdi.giuseppe">Verdi</persName></hi>. Solisten: Frau <persName
-						key="lederer-ubrich.asminde">A. Lederer-Ubrich</persName> a. <placeName
-						key="aachen">Aachen</placeName>, Frl. <persName key="keller.elsa">Elsa
-						Keller</persName> a. <placeName key="koeln">Cöln</placeName>, Hr. Prof.
-						<persName key="schneider.carl">Carl Schneider</persName> a. <placeName
-						key="koeln">Cöln</placeName> und Hr. <persName key="pfeiffer.xxx">L.
-						Pfeiffer</persName> a. <placeName key="duesseldorf"
-					>Düsseldorf</placeName>.</rs></p>
+						key="gluck.iphigenie-en-aulide.ouverture" type="mus"
+						>„Iphigenien“-Ouvert.</title> v. <persName key="gluck.christoph-willibald"
+						>Gluck</persName>, <title key="verdi.requiem" type="mus">Requiem</title> v.
+						<hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi>.
+					Solisten: Frau <persName key="lederer-ubrich.asminde">A.
+						Lederer-Ubrich</persName> a. <placeName key="aachen">Aachen</placeName>,
+					Frl. <persName key="keller.elsa">Elsa Keller</persName> a. <placeName
+						key="koeln">Cöln</placeName>, Hr. Prof. <persName key="schneider.carl">Carl
+						Schneider</persName> a. <placeName key="koeln">Cöln</placeName> und Hr.
+						<persName key="pfeiffer.xxx">L. Pfeiffer</persName> a. <placeName
+						key="duesseldorf">Düsseldorf</placeName>.</rs></p>
 		</body>
 	</text>
 </TEI>

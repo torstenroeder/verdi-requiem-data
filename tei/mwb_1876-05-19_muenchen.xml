@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 19. Mai 1876 [1]</title>
-				<author><persName key="symbol.b"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="symbol.b"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1876-05-19_muenchen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="muenchen"/><date when-iso="1876-04-11"/></creation>
+			<creation>
+				<placeName key="muenchen"/>
+				<date when-iso="1876-04-11"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -51,13 +55,15 @@
 			xml:id="f4"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
+		<front rend="antiqua">
 			<pb n="273"/>
 			<head rend="widespace larger">Tagesgeschichte.</head>
+		</front>
+		<body rend="antiqua">
 			<head rend="lineale bold">Musikbrief.</head>
 			<p rend="right"><hi rend="bold"><placeName key="muenchen">München</placeName>,</hi>
 				<date when-iso="1876-04-11">11. April</date>.</p>
-			<pb n="274" type="skipped"/>
+			<pb n="274"/>
 			<p><gap resp="tr"/>
 				<rs key="muenchen.1875.2" type="event"><persName key="verdi.giuseppe"
 						>Verdi’s</persName>
@@ -70,16 +76,16 @@
 				kann, wir zugleich aber auch sehr gern die Pflicht erfüllen, anzuerkennen, dass die
 				diesmalige Aufführung eine unvergleichlich bessere, charakteristischere war: manche
 				unserer damaligen Aussetzungen mochten dem verständigen <persName
-					key="wuellner.franz">Capellmeister</persName> wohl ebenso aufgefallen sein,
-				denn diesmal waren besonders die Tempi, sowie die Schwankungen im Takt anders,
+					key="wuellner.franz">Capellmeister</persName> wohl ebenso aufgefallen sein, denn
+				diesmal waren besonders die Tempi, sowie die Schwankungen im Takt anders,
 				italienischer geworden. Dagegen stellte sich ein grosser Fehler heraus in dem
 				Arangement von Chor und Orchester, da Letzteres fortwährend, und besonders bei allen
 					<hi rend="italic">piano</hi>-Stellen, den auf der Bühne aufgestellten Chor
 				bedeutend übertönte, — was bei künftigen derartigen Aufführungen im Theater
 				ernstlich zu beherzigen sein dürfte.</p>
 			<pb break="null" n="285" type="skipped"/>
-			<p rend="right"><persName key="symbol.b"><g n="266D" type="MUSIC_FLAT_SIGN"
-					>♭</g></persName></p>
+			<signed rend="right"><persName key="symbol.b"><g n="266D" type="MUSIC_FLAT_SIGN"
+					>♭</g></persName></signed>
 		</body>
 	</text>
 </TEI>

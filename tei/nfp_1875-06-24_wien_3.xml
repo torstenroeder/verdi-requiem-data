@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 24. Juni 1875 [3]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nfp_1875-06-24_verdi-bueste.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1875-06-24"/>
 					<biblScope unit="issue">3889</biblScope>
-					<biblScope unit="subIssue">3889</biblScope>
+					<biblScope unit="subIssue">Morgenblatt</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">6</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -46,15 +47,15 @@
 			<p rend="right"><hi rend="widespace"><placeName key="wien">Wien</placeName></hi>, <date
 					when-iso="1875-06-23">23. Juni</date>.</p>
 			<p>— <rs key="wien.1875.4" type="event">Der heutigen letzten Aufführung des <title
-						key="verdi.requiem" type="mus">Requiems</title> von <persName key="verdi.giuseppe"
-						>Verdi</persName> wohnten der <persName key="franz-joseph-i.habsburg"
-						>Kaiser</persName> und mehrere Prinzen bei.</rs><note resp="tr"
-					type="eventCommentary">Zugegen waren Erzherzog <persName
-						key="karl-ludwig.oesterreich">Karl Ludwig</persName>, Erzherzog <persName
-						key="wilhelm.oesterreich">Wilhelm</persName>, Erzherzogin <persName
-						key="marie-therese.oesterreich-este">Maria Theresia</persName>, <persName
-						key="wilhelm.braunschweig">Herzog von Braunschweig</persName> und Prinz
-						<persName key="ernst-august.hannover">Ernst August von
+						key="verdi.requiem" type="mus">Requiems</title> von <persName
+						key="verdi.giuseppe">Verdi</persName> wohnten der <persName
+						key="franz-joseph-i.habsburg">Kaiser</persName> und mehrere Prinzen
+					bei.</rs><note resp="tr" type="eventCommentary">Zugegen waren Erzherzog
+						<persName key="karl-ludwig.oesterreich">Karl Ludwig</persName>, Erzherzog
+						<persName key="wilhelm.oesterreich">Wilhelm</persName>, Erzherzogin
+						<persName key="marie-therese.oesterreich-este">Maria Theresia</persName>,
+						<persName key="wilhelm.braunschweig">Herzog von Braunschweig</persName> und
+					Prinz <persName key="ernst-august.hannover">Ernst August von
 					Hannover</persName>.</note> Das <placeName key="wien.hof-operntheater"
 					>Theater</placeName> war bis auf den letzten Platz gefüllt. — Die Direction des
 					<placeName key="wien.hof-operntheater">Hofoperntheaters</placeName> hat den

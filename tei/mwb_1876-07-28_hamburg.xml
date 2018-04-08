@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 28. Juli 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1876-07-28_hamburg.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="hamburg"/><date when-iso="1876-07"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+				<date when-iso="1876-07"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -58,13 +60,14 @@
 					key="pollini.bernhard">Pollini</persName> nur Dank sagen, dem Publicum die
 				Bekanntschaft mancher interessanten Novität verschafft zu haben <gap resp="tr"/>
 				<persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.aida" type="mus">Aïda</title> gefiel derartig, dass sie eine richtige
-				Repertoireoper zu werden verspricht. In der That, des Bewunders ist kein Ende über
-				den musikalischen Umschwung bei dem Italiener, der uns ausser in seiner <title
-					key="verdi.aida" type="mus">Aïda</title> auch in dem „<title key="verdi.requiem" type="mus"
-					>Requiem</title>“ zur erbaulichsten Betrachtung zwingt. <rs key="hamburg.1876"
-					type="event">Fünf Mal wurde das „<title key="verdi.requiem" type="mus">Requiem</title>“
-					unter stets wachsender Begeisterung der Zuhörerschaft aufgeführt.</rs>
+				<title key="verdi.aida" type="mus">Aïda</title> gefiel derartig, dass sie eine
+				richtige Repertoireoper zu werden verspricht. In der That, des Bewunders ist kein
+				Ende über den musikalischen Umschwung bei dem Italiener, der uns ausser in seiner
+					<title key="verdi.aida" type="mus">Aïda</title> auch in dem „<title
+					key="verdi.requiem" type="mus">Requiem</title>“ zur erbaulichsten Betrachtung
+				zwingt. <rs key="hamburg.1876" type="event">Fünf Mal wurde das „<title
+						key="verdi.requiem" type="mus">Requiem</title>“ unter stets wachsender
+					Begeisterung der Zuhörerschaft aufgeführt.</rs>
 				<gap resp="tr"/></p>
 		</body>
 	</text>

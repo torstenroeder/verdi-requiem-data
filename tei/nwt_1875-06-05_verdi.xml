@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neues Wiener Tagblatt, 5. Juni 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nwt_1875-06-05_verdi.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -47,31 +48,32 @@
 				<persName key="verdi.giuseppe">Verdi</persName> ist, wie mir bereits gemeldet, in
 				Wien angekommen und die <rs key="wien.1875" type="event">Aufführungen der <title
 						key="verdi.requiem" type="mus">Manzoni-Messe</title></rs> und der „<title
-					key="verdi.aida" type="mus">Aida</title>“ unter des Komponisten persönlicher Leitung
-				stehen vor der Thüre. Auch die gelben Plakate sind bereits erschienen, die sich mit
-				den Preisen zu den Messeabenden beschäftigten; aber sagen wir es ganz offen, diese
-				Tarifplakate haben auch jenen kleinen Rest des städtischen Publikums, der noch die
-				Mittel und den Muth hat, sich für künstlerische Gourmandise zu interessiren, einen
-				befremdenden, ja verblüffenden Eindruck hervorgebracht. Auf eine solche
-				Ueberraschung war man nicht gefaßt, auf eine Maßregel, die gerade im diametralen
-				Gegensatz zu der ganzen öffentlichen Strömung steht und zu den chronischen
-				Defizitverhältnissen fast jedes Einzelnen. Es gibt zwar ein Raisonnement, das da
-				behauptet, auch ein Hofinstitut müsse von daher das Geld holen, wo es sich gerade
-				findet, auch ein artistisches Hofinstitut dürfe die Spekulation nicht verachten,
-				wenn nur diese Spekulation Aussichten auf starke Erträgnisse eröffne, und so viel
-				sich solchen Raisonnements gegenüber einwenden läßt, man ist angesichts der
-				Lombardeinlage unseres Opernhauses zu jedem Kompromiß geneigt und opfert die Würde
-				dem — Koupon. Anders aber stellt sich die Frage, ob es denn klug und fachmännisch
-				war, in einer Zeit die Preise unserer Opernlogen und Opernsitze bis hinauf in die
-				letzten Regionen um 30, 40, 50 und 100 Perzent zu erhöhen, die nur blutwenig Geld zu
-				auserlesenen Genüssen hat und in welcher wir wohl Fremde erwarten, aber keine sehen.
-				Wir rechnen der Direktion des Opernhauses nicht nach und glauben gerne, daß ihr das
-				Verdi-Experiment mannigfache und hohe Kosten verursacht, selbst wenn man die Spesen
-				für die Mitwirkung des <orgName key="wien.akademischer-gesangverein">akademischen
-					Gesangvereins</orgName>, die mit Stücken <hi rend="antiqua">in natura</hi>, d.
-				h. mit Sitzen zu den Opernvorstellungen befriedigt wird, gar nicht in Rechnung
-				zieht, aber wenn eben die zwei Abende der <title key="verdi.requiem" type="mus">Messe</title>
-				und die zwei der „<title key="verdi.aida" type="mus">Aida</title>“ nur vom Gesichtspunkte der
+					key="verdi.aida" type="mus">Aida</title>“ unter des Komponisten persönlicher
+				Leitung stehen vor der Thüre. Auch die gelben Plakate sind bereits erschienen, die
+				sich mit den Preisen zu den Messeabenden beschäftigten; aber sagen wir es ganz
+				offen, diese Tarifplakate haben auch jenen kleinen Rest des städtischen Publikums,
+				der noch die Mittel und den Muth hat, sich für künstlerische Gourmandise zu
+				interessiren, einen befremdenden, ja verblüffenden Eindruck hervorgebracht. Auf eine
+				solche Ueberraschung war man nicht gefaßt, auf eine Maßregel, die gerade im
+				diametralen Gegensatz zu der ganzen öffentlichen Strömung steht und zu den
+				chronischen Defizitverhältnissen fast jedes Einzelnen. Es gibt zwar ein
+				Raisonnement, das da behauptet, auch ein Hofinstitut müsse von daher das Geld holen,
+				wo es sich gerade findet, auch ein artistisches Hofinstitut dürfe die Spekulation
+				nicht verachten, wenn nur diese Spekulation Aussichten auf starke Erträgnisse
+				eröffne, und so viel sich solchen Raisonnements gegenüber einwenden läßt, man ist
+				angesichts der Lombardeinlage unseres Opernhauses zu jedem Kompromiß geneigt und
+				opfert die Würde dem — Koupon. Anders aber stellt sich die Frage, ob es denn klug
+				und fachmännisch war, in einer Zeit die Preise unserer Opernlogen und Opernsitze bis
+				hinauf in die letzten Regionen um 30, 40, 50 und 100 Perzent zu erhöhen, die nur
+				blutwenig Geld zu auserlesenen Genüssen hat und in welcher wir wohl Fremde erwarten,
+				aber keine sehen. Wir rechnen der Direktion des Opernhauses nicht nach und glauben
+				gerne, daß ihr das Verdi-Experiment mannigfache und hohe Kosten verursacht, selbst
+				wenn man die Spesen für die Mitwirkung des <orgName
+					key="wien.akademischer-gesangverein">akademischen Gesangvereins</orgName>, die
+				mit Stücken <hi rend="antiqua">in natura</hi>, d. h. mit Sitzen zu den
+				Opernvorstellungen befriedigt wird, gar nicht in Rechnung zieht, aber wenn eben die
+				zwei Abende der <title key="verdi.requiem" type="mus">Messe</title> und die zwei der
+					„<title key="verdi.aida" type="mus">Aida</title>“ nur vom Gesichtspunkte der
 				Spekulation aus in Szene gesetzt wurden, so hat man wohl auch gewiß das mögliche
 				Risiko in den Voranschlag aufgenommen. Es ist nämlich noch gar nicht ausgemacht, ob
 				das Wiener Publikum auf den Messetarif unserer Opernverwaltung eingehe, ja nach den

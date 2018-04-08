@@ -5,11 +5,12 @@
 			<titleStmt>
 				<title>AmZ, Leipzig, 22. Juli 1874</title>
 				<title corresp="az_1874-06-30_paris.xml">aus: Allgemeine Ztg., 30.6.</title>
-				<author><persName key="anonymus.ein-pariser-berichterstatter"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="anonymus.ein-pariser-berichterstatter"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/amz_1874-07-22_paris.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="paris"/></creation>
+			<creation>
+				<placeName key="paris"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -45,20 +48,25 @@
 			url="http://reader.digitale-sammlungen.de/object/bsb11179879_00247.svg" xml:id="f2"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
-			<cb facs="#f0" n="458" type="initial"/>
+		<front rend="antiqua">
+			<cb facs="#f0" n="458"/>
 			<head rend="bold larger egypt">Berichte. Nachrichten und Bemerkungen.</head>
-			<cb break="null" facs="#f1" n="459" type="skipped"/>
-			<p><hi rend="bold">* <placeName key="paris">Paris</placeName>.</hi> [»<hi
-					rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Todtenmesse</title> zum Andenken an <persName
-						key="manzoni.alessandro">Manzoni</persName></hi>«.] Der in der <orgName
-					key="allgemeine-zeitung">Augsburger Allgemeinen Zeitung</orgName> vom <date
-					when-iso="1874-06-30">30. Juni</date> veröffentlichten »Pariser Chronik«<note
-					resp="tr" type="textLink">Vgl. <ref target="az_1874-06-30_pariser-chronik.xml"
-						type="text">Allgemeine Zeitung (Augsburg), 30. Juni 1874</ref>.</note>
-				entnehmen wir Nachfolgendes über die <rs key="paris.1874" type="event">Aufführung
-					der <title key="verdi.requiem" type="mus">Todtenmesse</title>
+			<gap/>
+		</front>
+		<body rend="antiqua">
+			<cb break="null" facs="#f1" n="459"/>
+			<p><hi rend="bold"><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
+					<placeName key="paris">Paris</placeName>.</hi> [»<hi rend="widespace"><persName
+						key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Todtenmesse</title> zum Andenken an
+						<persName key="manzoni.alessandro">Manzoni</persName></hi>«.] Der in der
+					<orgName key="allgemeine-zeitung">Augsburger Allgemeinen Zeitung</orgName> vom
+					<date when-iso="1874-06-30">30. Juni</date> veröffentlichten »Pariser
+					Chronik«<note resp="tr" type="textLink">Vgl. <ref
+						target="az_1874-06-30_pariser-chronik.xml" type="text">Allgemeine Zeitung
+						(Augsburg), 30. Juni 1874</ref>.</note> entnehmen wir Nachfolgendes über die
+					<rs key="paris.1874" type="event">Aufführung der <title key="verdi.requiem"
+						type="mus">Todtenmesse</title>
 					<persName key="verdi.giuseppe">Verdi’s</persName></rs> daselbst. »Des Meisters
 					<persName key="verdi.giuseppe">Giuseppe Verdi</persName> »<title
 					key="verdi.requiem" type="mus">Todtenmesse</title> zum Andenken an <persName
@@ -81,111 +89,114 @@
 				Pariser Luft (sic!) habe bei <persName key="rossini.gioachino">Rossini</persName>,
 					<persName key="meyerbeer.giacomo">Meyerbeer</persName> u. A. die Vollendung
 				ihres Genies bewirkt; so auch sei <persName key="verdi.giuseppe">Verdi</persName>
-				hier vor einem Jahre auf den Gedanken gekommen, das <title key="verdi.requiem" type="mus"
-					>Requiem</title> zu verfassen, das uns der Director der <placeName
+				hier vor einem Jahre auf den Gedanken gekommen, das <title key="verdi.requiem"
+					type="mus">Requiem</title> zu verfassen, das uns der Director der <placeName
 					key="paris.opera-comique">Komischen Oper</placeName>, Herr <persName
 					key="locle.camille-du">du Locle</persName> (Mitdichter des Textes zu <persName
-					key="verdi.giuseppe">Verdi’s</persName> »<title key="verdi.aida" type="mus">Aïda</title>«)
-				zu so hohen Eintrittspreisen zum Besten gegeben. — Der Zweck dieser neuesten
-					<persName key="verdi.giuseppe">Verdi’schen</persName> Composition ging natürlich
-				für das Pariser Publikum verloren, dessen grosse Mehrzahl wohl nie vom <persName
-					key="manzoni.alessandro">Dichter</persName> der »Verlobten« gehört hatte; trotz
-				dem war der Enthusiasmus in der <placeName key="mailand">Geburtsstadt</placeName>
-				des populären Autors schwerlich lärmender als hier. Ich wohnte der einzigen
-				Abendvorstellung, der letzten bei, die gleich den am Tage vorgeführten bei
-				ausverkauftem Hause stattfand. <persName key="verdi.giuseppe">Verdi</persName>
-				dirigirte selbst. Ich hatte ihn seit vielen Jahren nicht gesehen. Zur Zeit der
-				ersten Aufführung in der »<placeName key="venedig.teatro-la-fenice"
-					>Fenice</placeName>« seines besten Werks <title key="verdi.rigoletto" type="mus"
-					>Rigoletto</title> (zu dem er, ohne den Dichter zu befragen, <persName
-					key="hugo.victor">Victor Hugo’s</persName> »Le roi s’amuse« vom italienischen
-				Librettisten stibizen liess), sah ich den noch jungen Meister oft an der
-				Gasthofstafel in <placeName key="venedig">Venedig</placeName>, da er dasselbe Hôtel
-				bewohnte. Sein Haupt- und Barthaar ist, bei den vielen theatralischen Erfolgen, die
-				er seitdem erlebt, ergraut; üppig umschattet es noch immer die markanten Züge seines
-				im Verhältniss zum Körper grossen Kopfes. <persName key="verdi.giuseppe"
-					>Verdi</persName> ist ein glücklicher Mann. Des bekanntesten, bedeutendsten,
-				beliebtesten der lebenden Componisten Italiens leidenschaftliche Musik galt dereinst
-				als Kampfesmelodie für das Einheits- und Freiheitsstreben der Italiener. Selbst im
-				Anagramm seines Namens lag der Hoffnungsschrei des wollenden Volkes. Der Ruf: Evviva
-				Verdi! war darum verpönt; denn VERDI bedeutete <persName
-					key="vittorio-emanuele-ii.savoyen">Vittorio Emmanuele Rè D’Italia</persName>!
-				Das hatte die Polizei bald heraus. Einen Theil seiner Popularität hat <persName
-					key="verdi.giuseppe">Verdi</persName> gewiss diesem Zufall zu danken, der einem
-				leicht <cb break="yes" n="460" type="regular"/>entzündbaren Volk eine Prophezeiung
-				war. — Hier ging ihm zudem der Ruf voraus, dass er stets treulich zu <placeName
-					key="frankreich">Frankreich</placeName> gestanden. Lauter Nebendinge, wenn es
-				sich um den Werth eines Kunstwerkes handelt, das allein für sich stehen oder fallen
-				muss. Wirklich hat sich die ernste Kritik von alle dem nicht bethören lassen. Sie
-				war auf das <title key="verdi.requiem" type="mus">Requiem</title> selbst gespannt. Viel Musik
-				hat <persName key="verdi.giuseppe">Verdi</persName> nicht zum alten Text verfasst.
-				Eine ganz kurze Einleitung zu Chören und Gesängen, kaum ein kurzes Zwischenstück; im
-				übrigen sind die Gebete von der Strophe »Requiem aeternam« bis zum »Libera me,
-				Domine de morte aeterna«, mit geringer Wiederholung der Worte, nur in Musik gesetzt.
-				— Ehre sei vor allem den trefflichen Künstlern, denen die Solopartien anvertraut
-				waren! <persName key="stolz.teresa" role="soloist.soprano">Therese Stolz</persName>:
-				Sopran, <persName key="waldmann.maria" role="soloist.mezzo">Maria
-					Waldmann</persName>: Mezzo-Sopran (als Oesterreicherinnen entschuldigte
-				Deutsche) und <persName key="capponi.giuseppe" role="soloist.tenor"
-					>Capponi</persName>: Tenor, <persName key="maini.armando" role="soloist.basso"
-					>Maini</persName>: Bass, sind ausgezeichnete Virtuosen. Die beiden Damen zumal
-				erregten Erstaunen und entzückten ein Publikum, das seit vielen Jahren an
-				ausgesungene Stimmen und Sängerinnen ohne Methode, Stil und Schule gewöhnt ist.
-				Ihnen wurde reichster Beifall, ebenso dem kraftvoll klingenden Organ der beiden
-				Sänger; selbst ein schlechtes Werk hatte bei so vollendeter Auslegung Interesse
-				erregt. Ein solches ist <persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Messe</title> sicherlich nicht, aber den ungeheuren Jubel
-				verdient sie keineswegs als musikalisches Werk. — Wie in <persName
+					key="verdi.giuseppe">Verdi’s</persName> »<title key="verdi.aida" type="mus"
+					>Aïda</title>«) zu so hohen Eintrittspreisen zum Besten gegeben. — Der Zweck
+				dieser neuesten <persName key="verdi.giuseppe">Verdi’schen</persName> Composition
+				ging natürlich für das Pariser Publikum verloren, dessen grosse Mehrzahl wohl nie
+				vom <persName key="manzoni.alessandro">Dichter</persName> der »Verlobten« gehört
+				hatte; trotz dem war der Enthusiasmus in der <placeName key="mailand"
+					>Geburtsstadt</placeName> des populären Autors schwerlich lärmender als hier.
+				Ich wohnte der einzigen Abendvorstellung, der letzten bei, die gleich den am Tage
+				vorgeführten bei ausverkauftem Hause stattfand. <persName key="verdi.giuseppe"
+					>Verdi</persName> dirigirte selbst. Ich hatte ihn seit vielen Jahren nicht
+				gesehen. Zur Zeit der ersten Aufführung in der »<placeName
+					key="venedig.teatro-la-fenice">Fenice</placeName>« seines besten Werks <title
+					key="verdi.rigoletto" type="mus">Rigoletto</title> (zu dem er, ohne den Dichter
+				zu befragen, <persName key="hugo.victor">Victor Hugo’s</persName> »Le roi s’amuse«
+				vom italienischen Librettisten stibizen liess), sah ich den noch jungen Meister oft
+				an der Gasthofstafel in <placeName key="venedig">Venedig</placeName>, da er dasselbe
+				Hôtel bewohnte. Sein Haupt- und Barthaar ist, bei den vielen theatralischen
+				Erfolgen, die er seitdem erlebt, ergraut; üppig umschattet es noch immer die
+				markanten Züge seines im Verhältniss zum Körper grossen Kopfes. <persName
+					key="verdi.giuseppe">Verdi</persName> ist ein glücklicher Mann. Des
+				bekanntesten, bedeutendsten, beliebtesten der lebenden Componisten Italiens
+				leidenschaftliche Musik galt dereinst als Kampfesmelodie für das Einheits- und
+				Freiheitsstreben der Italiener. Selbst im Anagramm seines Namens lag der
+				Hoffnungsschrei des wollenden Volkes. Der Ruf: Evviva Verdi! war darum verpönt; denn
+				VERDI bedeutete <persName key="vittorio-emanuele-ii.savoyen">Vittorio Emmanuele Rè
+					D’Italia</persName>! Das hatte die Polizei bald heraus. Einen Theil seiner
+				Popularität hat <persName key="verdi.giuseppe">Verdi</persName> gewiss diesem Zufall
+				zu danken, der einem leicht <cb break="yes" n="460" type="regular"/>entzündbaren
+				Volk eine Prophezeiung war. — Hier ging ihm zudem der Ruf voraus, dass er stets
+				treulich zu <placeName key="frankreich">Frankreich</placeName> gestanden. Lauter
+				Nebendinge, wenn es sich um den Werth eines Kunstwerkes handelt, das allein für sich
+				stehen oder fallen muss. Wirklich hat sich die ernste Kritik von alle dem nicht
+				bethören lassen. Sie war auf das <title key="verdi.requiem" type="mus"
+					>Requiem</title> selbst gespannt. Viel Musik hat <persName key="verdi.giuseppe"
+					>Verdi</persName> nicht zum alten Text verfasst. Eine ganz kurze Einleitung zu
+				Chören und Gesängen, kaum ein kurzes Zwischenstück; im übrigen sind die Gebete von
+				der Strophe »Requiem aeternam« bis zum »Libera me, Domine de morte aeterna«, mit
+				geringer Wiederholung der Worte, nur in Musik gesetzt. — Ehre sei vor allem den
+				trefflichen Künstlern, denen die Solopartien anvertraut waren! <persName
+					key="stolz.teresa" role="soloist.soprano">Therese Stolz</persName>: Sopran,
+					<persName key="waldmann.maria" role="soloist.mezzo">Maria Waldmann</persName>:
+				Mezzo-Sopran (als Oesterreicherinnen entschuldigte Deutsche) und <persName
+					key="capponi.giuseppe" role="soloist.tenor">Capponi</persName>: Tenor, <persName
+					key="maini.armando" role="soloist.basso">Maini</persName>: Bass, sind
+				ausgezeichnete Virtuosen. Die beiden Damen zumal erregten Erstaunen und entzückten
+				ein Publikum, das seit vielen Jahren an ausgesungene Stimmen und Sängerinnen ohne
+				Methode, Stil und Schule gewöhnt ist. Ihnen wurde reichster Beifall, ebenso dem
+				kraftvoll klingenden Organ der beiden Sänger; selbst ein schlechtes Werk hatte bei
+				so vollendeter Auslegung Interesse erregt. Ein solches ist <persName
+					key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Messe</title> sicherlich nicht, aber den
+				ungeheuren Jubel verdient sie keineswegs als musikalisches Werk. — Wie in <persName
 					key="verdi.giuseppe">Verdis</persName> Opern, zeigt sich auch in ihr die
 				Ungleichheit der Arbeit, das Schöne, Edle, neben dem Flachen, Gemeinen. Ohne Pause,
 				ohne Einhalt springt ein hochgehaltener Satz ins Triviale über, endet eine
 				ergreifende Phrase mit einer Tanzmelodie, die mit dem Todtenamte doch gewiss nichts
 				zu schaffen hat. Der Beginn <hi rend="italic">piano</hi> in schönem Rhythmus hat
-				nichts Markantes bis zum <title key="verdi.requiem.1" n="kyrie" type="mus">Quartett mit
-					Chor</title>, das durch die herrlichen Solistinnen einen grossen Eindruck
-				machte. — »<title key="verdi.requiem.2" type="mus">Dies irae</title>« wird von einer Fuge der
-				Trompeten wirksam eingeleitet. »Der Tag des Zorns, an dem die Welt in Funken
-				zerstieben soll«, ist kräftig geschildert, und die Partitur des ganzen Satzes
+				nichts Markantes bis zum <title key="verdi.requiem.1" n="kyrie" type="mus">Quartett
+					mit Chor</title>, das durch die herrlichen Solistinnen einen grossen Eindruck
+				machte. — »<title key="verdi.requiem.2" type="mus">Dies irae</title>« wird von einer
+				Fuge der Trompeten wirksam eingeleitet. »Der Tag des Zorns, an dem die Welt in
+				Funken zerstieben soll«, ist kräftig geschildert, und die Partitur des ganzen Satzes
 				enthält manchen Funken von genialer Erfindung. Der Satz »<title
-					key="verdi.requiem.2.liber-scriptus" type="mus">liber scriptus proferetur</title>«, Chor
-				mit Fuge, leitet ein Quartett ein, bei dem die Basspartie besonders schön
-				hervortritt. Dass die Melodie dabei jedem Worte des Textes entspricht, will ich
-				nicht behaupten, da mir — ich gestehe es offen — überhaupt wenig an diesem liegt.
-				Die Gnadenrufe »<title key="verdi.requiem.2.recordare" type="mus">Recordare Jesu pie</title>«
-				u. s. f. sind den Frauenstimmen, dann dem Tenor zugetheilt, und sind reizend schön
-				gesungen worden. Das folgende Recitativ mit Tremolo-Begleitung ist leicht und
-				seicht. Beim »<title key="verdi.requiem.2.lacrymosa" type="mus">Lacrimosa</title>« ist die
+					key="verdi.requiem.2.liber-scriptus" type="mus">liber scriptus
+					proferetur</title>«, Chor mit Fuge, leitet ein Quartett ein, bei dem die
+				Basspartie besonders schön hervortritt. Dass die Melodie dabei jedem Worte des
+				Textes entspricht, will ich nicht behaupten, da mir — ich gestehe es offen —
+				überhaupt wenig an diesem liegt. Die Gnadenrufe »<title
+					key="verdi.requiem.2.recordare" type="mus">Recordare Jesu pie</title>« u. s. f.
+				sind den Frauenstimmen, dann dem Tenor zugetheilt, und sind reizend schön gesungen
+				worden. Das folgende Recitativ mit Tremolo-Begleitung ist leicht und seicht. Beim
+					»<title key="verdi.requiem.2.lacrymosa" type="mus">Lacrimosa</title>« ist die
 				Instrumentirung, wenn nicht originell, doch sorgfältig erdacht, und die schneidenden
 				Klagetöne der Saiten werden wirkungsvoll durch das Einfallen der Hörner gehoben. Das
 				Finale dieses ersten Abschnittes ist aber weniger ergreifend. — Die Fuge mit
-				Doppelchor des »<title key="verdi.requiem.4" type="mus">Sanctus</title>« gefiel weniger als die
-				erste, dagegen erhielt das »<title key="verdi.requiem.5" type="mus">Agnus Dei</title>« grossen
-				ungetheilten Beifall. Die schönste Nummer des Werkes erinnert zu deutlich an die
-				symphonische Einleitung zum 5. Act der <title key="meyerbeer.l-africaine" type="mus"
-					>Afrikanerin</title>, als dass nicht jeder Hörer es merkte, wo <persName
-					key="verdi.giuseppe">Verdi</persName> sich seine Inspiration zu dem Satze geholt
-				hat. Verändert ist wohl die Melodie, verarbeitet ist sie auch, aber <persName
-					key="verdi.giuseppe">Verdi</persName> hat sie nicht urwüchsig aus sich selbst
-				geschaffen. Frau <persName key="stolz.teresa">Stolz</persName> trug die Stelle ganz
-				reizend vor. — Der Schluss »<title key="verdi.requiem.7" type="mus">Libera me Domine</title>«
-				für Sopran und Chor ist dramatisch, wenn nicht kirchlich, und würde noch besseren
-				Effect in einer grausigen Oper machen, wo Dolche blitzen und Scheiterhaufen flammen;
-				hier hat der Maestro viele Contrapunkte angebracht, deren Wiederholung die Wirkung
-				nicht erhöht. Einzelne Stellen sind darunter von edlem Ausdruck, so die Seufzer und
-				die Klage der Sopranstimme, denen Trompetentöne antworten, an die sich wieder das
-				Orchester mit vorherrschenden Blasinstrumenten anschmiegt; aber das Hauptfinale ist
-				weder erhaben noch ergreifend, sondern geräuschvoll, lärmendes Durcheinander einer
-				ihrer alten Gewohnheit überlassenen Muse. — Wäre es <persName key="verdi.giuseppe"
+				Doppelchor des »<title key="verdi.requiem.4" type="mus">Sanctus</title>« gefiel
+				weniger als die erste, dagegen erhielt das »<title key="verdi.requiem.5" type="mus"
+					>Agnus Dei</title>« grossen ungetheilten Beifall. Die schönste Nummer des Werkes
+				erinnert zu deutlich an die symphonische Einleitung zum 5. Act der <title
+					key="meyerbeer.l-africaine" type="mus">Afrikanerin</title>, als dass nicht jeder
+				Hörer es merkte, wo <persName key="verdi.giuseppe">Verdi</persName> sich seine
+				Inspiration zu dem Satze geholt hat. Verändert ist wohl die Melodie, verarbeitet ist
+				sie auch, aber <persName key="verdi.giuseppe">Verdi</persName> hat sie nicht
+				urwüchsig aus sich selbst geschaffen. Frau <persName key="stolz.teresa"
+					>Stolz</persName> trug die Stelle ganz reizend vor. — Der Schluss »<title
+					key="verdi.requiem.7" type="mus">Libera me Domine</title>« für Sopran und Chor
+				ist dramatisch, wenn nicht kirchlich, und würde noch besseren Effect in einer
+				grausigen Oper machen, wo Dolche blitzen und Scheiterhaufen flammen; hier hat der
+				Maestro viele Contrapunkte angebracht, deren Wiederholung die Wirkung nicht erhöht.
+				Einzelne Stellen sind darunter von edlem Ausdruck, so die Seufzer und die Klage der
+				Sopranstimme, denen Trompetentöne antworten, an die sich wieder das Orchester mit
+				vorherrschenden Blasinstrumenten anschmiegt; aber das Hauptfinale ist weder erhaben
+				noch ergreifend, sondern geräuschvoll, lärmendes Durcheinander einer ihrer alten
+				Gewohnheit überlassenen Muse. — Wäre es <persName key="verdi.giuseppe"
 					>Verdi</persName>, hätte der Theaterdirector die kleine Presse nicht voraus dem
-				Unternehmen gewonnen, wäre das <title key="verdi.requiem" type="mus">Requiem</title> von einem
-				tüchtig gebildeten französischen jungen Componisten, so hätte es weder solchen
-				Cassenerfolg, noch solchen Beifall erzielt. Trotz der Uebertreibung hört man aber
-				doch mit Vergnügen ein Werk an, das uns so prächtige Stimmen, so vortreffliche
+				Unternehmen gewonnen, wäre das <title key="verdi.requiem" type="mus">Requiem</title>
+				von einem tüchtig gebildeten französischen jungen Componisten, so hätte es weder
+				solchen Cassenerfolg, noch solchen Beifall erzielt. Trotz der Uebertreibung hört man
+				aber doch mit Vergnügen ein Werk an, das uns so prächtige Stimmen, so vortreffliche
 				Künstler hören lässt. — Der arme <persName key="berlioz.hector">Berlioz</persName>
-				hat auch <title key="berlioz.grande-messe-des-morts" type="mus">ein bedeutendes Requiem</title>
-				geschrieben — <persName key="verdi.giuseppe">Verdi</persName> soll es wohl studirt
-				haben, sagen, die es kennen — und man hat ihm niemals in seinem Leben auch nur
-				mittelmässige Künstler dafür gewährt. Der junge Componist <persName
+				hat auch <title key="berlioz.grande-messe-des-morts" type="mus">ein bedeutendes
+					Requiem</title> geschrieben — <persName key="verdi.giuseppe">Verdi</persName>
+				soll es wohl studirt haben, sagen, die es kennen — und man hat ihm niemals in seinem
+				Leben auch nur mittelmässige Künstler dafür gewährt. Der junge Componist <persName
 					key="massenet.jules">Massenet</persName> hat jüngst ein ernstes schönes Werk,
 				ein religiöses Drama, geschaffen, und man gab ihm eine ungenügende Aufführung.
 				Nichts fehlte zur Ehre <persName key="verdi.giuseppe">Verdi’s</persName>. Grosse
@@ -201,36 +212,37 @@
 					>Verdi’s</persName> Leistung als Dirigent ist keine bedeutende. Er rührt den
 				Taktstock ohne Feuer; man würde schwerlich den leidenschaftlichen Verfasser des
 					<title key="verdi.il-trovatore" type="mus">Trouvadore</title>, der <title
-					key="verdi.la-traviata" type="mus">Traviata</title>, des <title key="verdi.rigoletto" type="mus"
-					>Rigoletto</title> im Kapellmeister <persName key="verdi.giuseppe"
-					>Verdi</persName> erkennen. Selten nur blickt er in die Partitur, die er nach so
-				häufigen Proben und Aufführungen natürlich bis auf jede Note auswendig weiss.
-				Sonderbar ist ausser der fast genirten Haltung seine Gewohnheit das Pult zu
-				verlassen und einige Schritte den Chören und Solisten näher zu treten, als wolle er
-				voraus bezeichnen, wer nun an die Reihe kommt. Das ist unschön, es hat’s ihm sicher
-				kein Freund gesagt. — Warum hat nun eigentlich der begabte <persName
-					key="verdi.giuseppe">Verdi</persName> so viel dramatischen Opernstoff auf ein
-				Kirchen-Requiem vergeudet, das bereits so ganz unvergleichliche Componisten
-				beschäftigt hat? Musste <persName key="manzoni.alessandro">Manzoni</persName> mit
-				neuer Musik gefeiert werden? Genügten <persName key="pergolesi.giovanni-battista"
-					>Pergolesi</persName>, <persName key="mozart.wolfgang-amadeus"
-				>Mozart</persName>, <persName key="cherubini.luigi">Cherubini</persName> nicht, und
-				auch <persName key="berlioz.hector">Berlioz</persName>, da ihn <persName
-					key="verdi.giuseppe">Verdi’s</persName> Fugen wieder ins Gedächtniss riefen?
-				Warum will <persName key="verdi.giuseppe">Verdi</persName> absolut Anderes schaffen,
-				als was seinem speciellen Talent am nächsten liegt? — Es heisst: der Schlusssatz sei
-				schon lange fertig gewesen, da vor mehreren Jahren bereits von einer <title
-					key="messa-per-rossini" type="mus">Messe</title> die Rede war, die zum Andenken <persName
-					key="rossini.gioachino">Rossini’s</persName> von allen lebenden italienischen
-				Componisten vereint gefertigt werden sollte. <persName key="verdi.giuseppe"
-					>Verdi</persName> hatte dazu jenes Finale geschrieben. Da kam der Krieg
-				dazwischen, und das Kriegsgetöse liess die Musik beiseite liegen. Dann starb
-					<persName key="manzoni.alessandro">Manzoni</persName>. Sofort ging der thätige
-				Meister ans Werk, und während seine »<title key="verdi.aida" type="mus">Aïda</title>« wieder
-				überall von ihm reden machte, hatte er schon am ersten Jahrestage des Todes von
-					<persName key="manzoni.alessandro">Manzoni</persName> sein <title
-					key="verdi.requiem" type="mus">Requiem</title> bereit.<note resp="tr" type="commentary">Der
-					letzte Absatz des ursprünglichen Textes („Verdi wird Garibaldi […]“) fehlt.
+					key="verdi.la-traviata" type="mus">Traviata</title>, des <title
+					key="verdi.rigoletto" type="mus">Rigoletto</title> im Kapellmeister <persName
+					key="verdi.giuseppe">Verdi</persName> erkennen. Selten nur blickt er in die
+				Partitur, die er nach so häufigen Proben und Aufführungen natürlich bis auf jede
+				Note auswendig weiss. Sonderbar ist ausser der fast genirten Haltung seine
+				Gewohnheit das Pult zu verlassen und einige Schritte den Chören und Solisten näher
+				zu treten, als wolle er voraus bezeichnen, wer nun an die Reihe kommt. Das ist
+				unschön, es hat’s ihm sicher kein Freund gesagt. — Warum hat nun eigentlich der
+				begabte <persName key="verdi.giuseppe">Verdi</persName> so viel dramatischen
+				Opernstoff auf ein Kirchen-Requiem vergeudet, das bereits so ganz unvergleichliche
+				Componisten beschäftigt hat? Musste <persName key="manzoni.alessandro"
+					>Manzoni</persName> mit neuer Musik gefeiert werden? Genügten <persName
+					key="pergolesi.giovanni-battista">Pergolesi</persName>, <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName>, <persName key="cherubini.luigi"
+					>Cherubini</persName> nicht, und auch <persName key="berlioz.hector"
+					>Berlioz</persName>, da ihn <persName key="verdi.giuseppe">Verdi’s</persName>
+				Fugen wieder ins Gedächtniss riefen? Warum will <persName key="verdi.giuseppe"
+					>Verdi</persName> absolut Anderes schaffen, als was seinem speciellen Talent am
+				nächsten liegt? — Es heisst: der Schlusssatz sei schon lange fertig gewesen, da vor
+				mehreren Jahren bereits von einer <title key="messa-per-rossini" type="mus"
+					>Messe</title> die Rede war, die zum Andenken <persName key="rossini.gioachino"
+					>Rossini’s</persName> von allen lebenden italienischen Componisten vereint
+				gefertigt werden sollte. <persName key="verdi.giuseppe">Verdi</persName> hatte dazu
+				jenes Finale geschrieben. Da kam der Krieg dazwischen, und das Kriegsgetöse liess
+				die Musik beiseite liegen. Dann starb <persName key="manzoni.alessandro"
+					>Manzoni</persName>. Sofort ging der thätige Meister ans Werk, und während seine
+					»<title key="verdi.aida" type="mus">Aïda</title>« wieder überall von ihm reden
+				machte, hatte er schon am ersten Jahrestage des Todes von <persName
+					key="manzoni.alessandro">Manzoni</persName> sein <title key="verdi.requiem"
+					type="mus">Requiem</title> bereit.<note resp="tr" type="commentary">Der letzte
+					Absatz des ursprünglichen Textes („Verdi wird Garibaldi […]“) fehlt.
 					Möglicherweise wurde er bei der Übertragung wegen des Spaltenumbruchs
 					übersehen.</note></p>
 		</body>

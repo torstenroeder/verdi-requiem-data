@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Tonkunst, Berlin, 29. April 1876 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tonkunst_1876-04-29_gounod-requiem.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="paris"/></creation>
+			<creation>
+				<placeName key="paris"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -41,13 +42,13 @@
 			<pb n="239"/>
 			<head rend="larger">Musikpflege.</head>
 			<p><hi rend="bold kanzlei">Erste Aufführungen.</hi>
-				<title key="gounod.messe-breve-pour-les-morts" type="mus">Gounod-Requiem</title> (Volksconcert
-				v. <orgName key="paris.orchestre-pasdeloup">Pasdeloup</orgName>, <placeName
-					key="paris">Paris</placeName>. Die Lorbeeren <persName key="verdi.giuseppe"
-					>Verdi’s</persName>, so scheint’s, ließen <persName key="gounod.charles"
-					>Gounod</persName> nicht ruhen! — <persName key="gounod.charles"
-					>Gounod</persName> dirigierte persönlich und empfing die grössten
-				Huldigungen.)</p>
+				<title key="gounod.messe-breve-pour-les-morts" type="mus">Gounod-Requiem</title>
+				(Volksconcert v. <orgName key="paris.orchestre-pasdeloup">Pasdeloup</orgName>,
+					<placeName key="paris">Paris</placeName>. Die Lorbeeren <persName
+					key="verdi.giuseppe">Verdi’s</persName>, so scheint’s, ließen <persName
+					key="gounod.charles">Gounod</persName> nicht ruhen! — <persName
+					key="gounod.charles">Gounod</persName> dirigierte persönlich und empfing die
+				grössten Huldigungen.)</p>
 		</body>
 	</text>
 </TEI>

@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 10. März 1876</title>
-				<author><persName key="guckeisen.august"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="guckeisen.august"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1876-03-10_coeln.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/><date when-iso="1876-02-28"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+				<date when-iso="1876-02-28"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,46 +49,48 @@
 			xml:id="f2"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
+		<front rend="antiqua">
 			<head rend="antiqua widespace larger">Tagesgeschichte.</head>
 			<head rend="lineale bold">Berichte.</head>
-			<pb break="null" facs="#f1" n="137" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="antiqua">
+			<pb facs="#f1" n="137"/>
 			<p><hi rend="bold"><placeName key="koeln">Cöln</placeName></hi>, <date
 					when-iso="1876-02-28">28. Febr.</date>
 				<rs key="koeln.1875.1" type="event">Im 4. Gürzenichkonzert (<date
 						when-iso="1875-12-07">7. Dec. 1875</date>) kam <persName
 						key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> zur Aufführung</rs>; es war die <hi
-					rend="widespace">erste</hi> Aufführung in Deutschland.<note resp="tr"
+					<title key="verdi.requiem" type="mus">Requiem</title> zur Aufführung</rs>; es
+				war die <hi rend="widespace">erste</hi> Aufführung in Deutschland.<note resp="tr"
 					type="eventCommentary">Am gleichen Tag hatte auch eine Aufführung in <placeName
 						key="muenchen">München</placeName> stattgefunden.</note> Mit gespannter
 				Erwartung hatte man dem Werke entgegengesehen — die Musikfreunde des ganzen
 				Rheinlandes gedachten der Cölner Aufführung beizuwohnen. Leider verhinderte eine
 				aussergewöhnliche Kälte den Zuzug der Fremden. Dieser Umstand gab die Idee, das
-					<title key="verdi.requiem" type="mus">Requiem</title> im Laufe der Saison, für welche das
-				Aufführungsrecht dauerte, noch einmal zu executiren, eine Idee, womit auch
-				diejenigen, welche das Werk schon gehört hatten, vollständig einverstanden waren.
-					<rs key="koeln.1875.2" type="event">Die Wiederholung geschah im 8. Concert
+					<title key="verdi.requiem" type="mus">Requiem</title> im Laufe der Saison, für
+				welche das Aufführungsrecht dauerte, noch einmal zu executiren, eine Idee, womit
+				auch diejenigen, welche das Werk schon gehört hatten, vollständig einverstanden
+				waren. <rs key="koeln.1875.2" type="event">Die Wiederholung geschah im 8. Concert
 						(<date when-iso="1876-02-15">15. Febr.</date>)</rs> vor ausverkauftem Hause,
 				ein Beweis, dass der günstige Eindruck der ersten Aufführung sich rund gesprochen.
 					<persName key="verdi.giuseppe">Verdi</persName> ist durch sein <title
-					key="verdi.requiem" type="mus">Requiem</title> unter den deutschen Musikern zu Ehren
-				gekommen, das mitleidige Achselzucken, womit man auf seine Opern herabsah, hat
+					key="verdi.requiem" type="mus">Requiem</title> unter den deutschen Musikern zu
+				Ehren gekommen, das mitleidige Achselzucken, womit man auf seine Opern herabsah, hat
 				aufgehört — und warum? weil <persName key="verdi.giuseppe">Verdi</persName>
 				einigermaassen die Form geändert, das Kleid gewechselt. Die neudeutsche, durch
-					<persName key="wagner.richard">Wagner</persName> vertretene dramatische
-				Richtung hat auch auf <persName key="verdi.giuseppe">Verdi</persName> gewirkt, er
-				arbeitet nach anderen Gesichtspuncten, obgleich er in Hinsicht der
-				musikalisch-dramatischen Begabung ganz derselbe geblieben ist. Es gibt edle Formen,
-				die doch kalt lassen; wenn das bei <persName key="verdi.giuseppe"
-					>Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> entschieden nicht der Fall ist, so liegt
-				darin nur der Beweis, dass <persName key="verdi.giuseppe">Verdi</persName> in
-				seiner Wesenheit eine reiche musikalische <pb break="yes" facs="#f2" n="138"
-					type="regular"/>Ader besitzt, dass man folglich ihn früher — ganz falsch
-				beurtheilt hat. Auch jetzt makelt man in sonderbarer Weise an ihm herum. <persName
-					key="verdi.giuseppe">Verdi</persName> ist doch, wie manniglich bekannt, ein
-				Italiener; was will es nun heissen, wenn Vergleiche mit <persName
+					<persName key="wagner.richard">Wagner</persName> vertretene dramatische Richtung
+				hat auch auf <persName key="verdi.giuseppe">Verdi</persName> gewirkt, er arbeitet
+				nach anderen Gesichtspuncten, obgleich er in Hinsicht der musikalisch-dramatischen
+				Begabung ganz derselbe geblieben ist. Es gibt edle Formen, die doch kalt lassen;
+				wenn das bei <persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> entschieden nicht der Fall
+				ist, so liegt darin nur der Beweis, dass <persName key="verdi.giuseppe"
+					>Verdi</persName> in seiner Wesenheit eine reiche musikalische <pb break="yes"
+					facs="#f2" n="138" type="regular"/>Ader besitzt, dass man folglich ihn früher —
+				ganz falsch beurtheilt hat. Auch jetzt makelt man in sonderbarer Weise an ihm herum.
+					<persName key="verdi.giuseppe">Verdi</persName> ist doch, wie manniglich
+				bekannt, ein Italiener; was will es nun heissen, wenn Vergleiche mit <persName
 					key="mozart.wolfgang-amadeus">Mozart</persName> oder <persName
 					key="brahms.johannes">Joh. Brahms</persName> angestellt werden, und zwar nicht
 				in dem Sinne, um die charakteristischen Unterschiede klar zu legen — das liesse sich
@@ -94,34 +100,35 @@
 				deutscher Art geschaffen — sein Werk ist mehr eine Traueroper für scenische und
 				decorative Ausstattung — eine richtige Illustration zu dem Prunk des
 				Trauergottesdienstes in den romanischen Ländern. Von diesem Gesichtspuncte aus muss
-				man sein <title key="verdi.requiem" type="mus">Requiem</title> fassen, nicht etwa specifisch
-				Deutsches, was ja der Italiener nicht geben konnte, darin suchen wollen. Manche
-				seiner Effecte — z. B. im <title key="verdi.requiem.2" type="mus">Dies irae</title>: „Mors
-				stupebit“ erfordern geradezu scenischen Apparat, um zu ihrer beabsichtigten Wirkung
-				zu gelangen — so trocken und nüchtern im Concertsaale mit brillanter Beleuchtung
-				ausgehört, streift die Stelle — und neben ihr noch viele andere — hart an der Grenze
-				des Lächerlichen, weil nicht in Harmonie mit der Umgebung. Dagegen sind andere
-				Nummern auch wieder wahre Perlen — von jedwedem nationalen Standpuncte betrachtet —
-				namentlich die Nummer „<title key="verdi.requiem.1" type="mus">Requiem aeternam</title>“. Für
-				die Ausführung muss bemerkt werden, dass <persName key="verdi.giuseppe"
-					>Verdi’s</persName> Musik selbst als Requiem noch immer nicht im deutschen
-				Oratorientempo zu nehmen ist, wie es hier der Fall war — durch schleppende Tempi
-				versündigt man sich am <title key="verdi.requiem" type="mus">Requiem</title> noch ebensogut,
-				als unsere Theatercapellmeister an <persName key="verdi.giuseppe"
-					>Verdi’s</persName> Opern. Von diesem Mangel abgesehen, der sich mir allerdings
-				erst bei der Wiederholung besonders fühlbar machte, war unsere Aufführung ganz
-				vortrefflich. Der Chor leistete vorzügliches, und auch die Solisten, sämmtlich vom
-				hiesigen Stadttheater, standen durchweg auf der Höhe ihrer Aufgabe. Das gilt
-				besonders von den Herren <persName key="diener.franz">Diener</persName> und
-					<persName key="schelper.otto">Schelper</persName>, während Frl. <persName
-					key="lehmann.marie">Lehmann</persName> (Sopran) nicht immer rein intonirte,
-				auch bei gewissen Stellen nicht ausreichend kraftvoll wirkte — ebenso wie Frl.
-					<persName key="keller.elsa">Keller</persName> (Mezzosopran) in der pathetischen
+				man sein <title key="verdi.requiem" type="mus">Requiem</title> fassen, nicht etwa
+				specifisch Deutsches, was ja der Italiener nicht geben konnte, darin suchen wollen.
+				Manche seiner Effecte — z. B. im <title key="verdi.requiem.2" type="mus">Dies
+					irae</title>: „Mors stupebit“ erfordern geradezu scenischen Apparat, um zu ihrer
+				beabsichtigten Wirkung zu gelangen — so trocken und nüchtern im Concertsaale mit
+				brillanter Beleuchtung ausgehört, streift die Stelle — und neben ihr noch viele
+				andere — hart an der Grenze des Lächerlichen, weil nicht in Harmonie mit der
+				Umgebung. Dagegen sind andere Nummern auch wieder wahre Perlen — von jedwedem
+				nationalen Standpuncte betrachtet — namentlich die Nummer „<title
+					key="verdi.requiem.1" type="mus">Requiem aeternam</title>“. Für die Ausführung
+				muss bemerkt werden, dass <persName key="verdi.giuseppe">Verdi’s</persName> Musik
+				selbst als Requiem noch immer nicht im deutschen Oratorientempo zu nehmen ist, wie
+				es hier der Fall war — durch schleppende Tempi versündigt man sich am <title
+					key="verdi.requiem" type="mus">Requiem</title> noch ebensogut, als unsere
+				Theatercapellmeister an <persName key="verdi.giuseppe">Verdi’s</persName> Opern. Von
+				diesem Mangel abgesehen, der sich mir allerdings erst bei der Wiederholung besonders
+				fühlbar machte, war unsere Aufführung ganz vortrefflich. Der Chor leistete
+				vorzügliches, und auch die Solisten, sämmtlich vom hiesigen Stadttheater, standen
+				durchweg auf der Höhe ihrer Aufgabe. Das gilt besonders von den Herren <persName
+					key="diener.franz">Diener</persName> und <persName key="schelper.otto"
+					>Schelper</persName>, während Frl. <persName key="lehmann.marie"
+					>Lehmann</persName> (Sopran) nicht immer rein intonirte, auch bei gewissen
+				Stellen nicht ausreichend kraftvoll wirkte — ebenso wie Frl. <persName
+					key="keller.elsa">Keller</persName> (Mezzosopran) in der pathetischen
 				Declamation vielfach gegen den guten musikalischen Geschmack in Bezug auf
 				Stimmtechnik sündigte. Dafür gewahrten aber wieder beide Damen durch ganz andere
 				brillante Stellen reichlichen Ersatz, sodass im Ganzen nur ein günstiger Eindruck
-				resultiren konnte. Der Erfolg des <title key="verdi.requiem" type="mus">Requiem</title> war
-				nach allgemeinster Stimmung grossartig.</p>
+				resultiren konnte. Der Erfolg des <title key="verdi.requiem" type="mus"
+					>Requiem</title> war nach allgemeinster Stimmung grossartig.</p>
 			<gap resp="tr"/>
 			<p rend="right">Dr. <persName key="guckeisen.august">A. G.</persName></p>
 		</body>

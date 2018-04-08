@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 9. Juni 1875 [1]</title>
-				<author><persName key="anonymus.ein-freund-verdis"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="anonymus.ein-freund-verdis"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nfp_1875-06-09_verdi-in-wien.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,14 +18,16 @@
 					<placeName key="wien"/>
 					<date when-custom="wed" when-iso="1875-06-09"/>
 					<biblScope unit="issue">3874</biblScope>
-					<biblScope unit="subIssue">3874</biblScope>
+					<biblScope unit="subIssue">Abendblatt</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">1</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Biografik</term>
@@ -41,10 +44,13 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750609&amp;seite=13"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="1" type="initial"/>
+		<front rend="fraktur">
+			<pb n="1"/>
 			<head rend="larger">Kleine Chronik.</head>
-			<cb break="null" n="1c" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="1c"/>
 			<p>[<persName key="verdi.giuseppe">Verdi</persName> in <placeName key="wien"
 					>Wien</placeName>.] Ein <persName key="anonymus.ein-freund-verdis">persönlicher
 					Freund</persName> des Componisten schickt uns über ihn folgende Zeilen: Es ist
@@ -52,34 +58,34 @@
 				Jahres in seiner bescheidenen Villa in <placeName key="busseto">Bus<supplied
 						resp="tr">s</supplied>eto</placeName> verlebt; zu dem Hause gehören
 				ausgedehnte Ländereien, die er selbst bewirthschaftet. Die Winterzeit bringt
-					<persName key="verdi.giuseppe">Verdi</persName> in einer gemietheten Wohnung
-				des <placeName key="genua.palazzo-doria">Palastes Doria</placeName> in <placeName
+					<persName key="verdi.giuseppe">Verdi</persName> in einer gemietheten Wohnung des
+					<placeName key="genua.palazzo-doria">Palastes Doria</placeName> in <placeName
 					key="genua">Genua</placeName> zu. Auf seinen Reisen begleitet ihn stets seine
 				Frau, die ehemals gefeierte Sängerin <persName key="verdi.giuseppina"
 					>Strepponi</persName>, welche besonders in seinen ersteren Werken häufig
 				auftrat. <persName key="verdi.giuseppe">Verdi</persName> kam zum erstenmale nach
 					<placeName key="wien">Wien</placeName> im Jahre <date when-iso="1843"
 					>1843</date>, wo er am <date when-iso="1843-04-04">4.</date> und <date
-					when-iso="1843-04-05">5. April</date> seine Oper „<title key="verdi.nabucco" type="mus"
-					>Nabucco</title>“ im <placeName key="wien.kaerntnertor-theater"
+					when-iso="1843-04-05">5. April</date> seine Oper „<title key="verdi.nabucco"
+					type="mus">Nabucco</title>“ im <placeName key="wien.kaerntnertor-theater"
 					>Kärntnerthor-Theater</placeName> digirirte. Mit Freude erinnert er sich noch
 				jener Zeit, wo ihm, der noch nicht 29 Jahre alt war, die schmeichelhaftesten Ehren
 				erwiesen wurden. <persName key="donizetti.gaetano">Donizetti</persName> dirigirte
-				zur selben Zeit „<title key="donizetti.linda-di-chamounix" type="mus">Linda</title>“ und
-					„<title key="donizetti.maria-di-rohan" type="mus">Maria von Rohan</title>“, die eigens für
-					<placeName key="wien">Wien</placeName> componirt waren, und <persName
+				zur selben Zeit „<title key="donizetti.linda-di-chamounix" type="mus">Linda</title>“
+				und „<title key="donizetti.maria-di-rohan" type="mus">Maria von Rohan</title>“, die
+				eigens für <placeName key="wien">Wien</placeName> componirt waren, und <persName
 					key="verdi.giuseppe">Verdi</persName> erzählte mir, daß der große Meister aus
-					<placeName key="bergamo">Bergamo</placeName>, eifersüchtig und mißtrauisch
-				gegen <persName key="nicolai.otto">Nicolai</persName>, den damaligen Capellmeister
-				im <placeName key="wien.kaerntnertor-theater">Kärntnerthor-Theater</placeName>,
+					<placeName key="bergamo">Bergamo</placeName>, eifersüchtig und mißtrauisch gegen
+					<persName key="nicolai.otto">Nicolai</persName>, den damaligen Capellmeister im
+					<placeName key="wien.kaerntnertor-theater">Kärntnerthor-Theater</placeName>,
 				niemals gestatten wollte, daß dieser seine Opern dirigirte. Als wir im Gespräche auf
 					<persName key="wagner.richard">Wagner</persName> kamen, bemerkte <persName
 					key="verdi.giuseppe">Verdi</persName>, daß dieses große Genie unberechenbare
 				Dienste der melodramatischen Kunst erwiesen habe, weil er den Muth hatte, sich der
 				traditionellen barocken Formen zu entledigen; „die Verschmelzung der Musik mit dem
-				Drama habe ich auch versucht“, sagte er, „und zwar in <title key="verdi.macbeth" type="mus"
-					>Macbeth</title>, doch konnte ich mir nicht selbst die Textbücher dichten, wie
-					<persName key="wagner.richard">Wagner</persName> es thut. <persName
+				Drama habe ich auch versucht“, sagte er, „und zwar in <title key="verdi.macbeth"
+					type="mus">Macbeth</title>, doch konnte ich mir nicht selbst die Textbücher
+				dichten, wie <persName key="wagner.richard">Wagner</persName> es thut. <persName
 					key="wagner.richard">Wagner</persName> überflügelt alle Componisten im
 				Farbenreichthum der Instrumentirung, allein er ging sowohl in der Form als auch in
 				der Manier zu weit. Anfangs bekämpfte er mit Erfolg das Realistische, später aber
@@ -90,26 +96,26 @@
 				gefiel <persName key="verdi.giuseppe">Verdi</persName> sehr, sowohl in der
 				Architektur als in den Decorationen und der Ornamentik, nur findet er, daß die Bühne
 				zu wenig abschüssig ist und dadurch die Perspective in den großen scenischen
-				Ensembles ungemein leide. Die Aufführung von „<title key="wagner.tannhaeuser" type="mus"
-					>Tannhäuser</title>“, der <persName key="verdi.giuseppe">Verdi</persName>
-				beigewohnt hat, fand er vorzüglich; besonders Orchester, sowie Chöre und Inscenirung
-				riefen seine Bewunderung wach. Ueber Sänger hat <persName key="verdi.giuseppe"
-					>Verdi</persName> seine eigenen Ansichten. „An Stimmen fehlt es gewiß nicht in
-					<placeName key="deutschland">Deutschland</placeName>“, sagt er, „sie sind
-				beinahe klangvoller als die italienischen, die Sänger aber betrachten den Gesang als
-				eine Gymnastik, befassen sich wenig mit der Ausbildung der Stimme und trachten nur,
-				in der kürzesten zeit ein großes Repertoire zu erhalten. Sie geben sich keine Mühe,
-				eine schöne Schattirung in den Gesang zu bringen, ihr ganzes Bestreben ist dahin
-				gerichtet, diese oder jene Note mit großer Kraft hervorzustoßen. Daher ist ihr
-				Gesang kein poetischer Ausdruck der Seele, sondern ein physischer Kampf ihres
-				Körpers.“ <placeName key="wien">Wien</placeName> machte auf <persName
+				Ensembles ungemein leide. Die Aufführung von „<title key="wagner.tannhaeuser"
+					type="mus">Tannhäuser</title>“, der <persName key="verdi.giuseppe"
+					>Verdi</persName> beigewohnt hat, fand er vorzüglich; besonders Orchester, sowie
+				Chöre und Inscenirung riefen seine Bewunderung wach. Ueber Sänger hat <persName
+					key="verdi.giuseppe">Verdi</persName> seine eigenen Ansichten. „An Stimmen fehlt
+				es gewiß nicht in <placeName key="deutschland">Deutschland</placeName>“, sagt er,
+				„sie sind beinahe klangvoller als die italienischen, die Sänger aber betrachten den
+				Gesang als eine Gymnastik, befassen sich wenig mit der Ausbildung der Stimme und
+				trachten nur, in der kürzesten zeit ein großes Repertoire zu erhalten. Sie geben
+				sich keine Mühe, eine schöne Schattirung in den Gesang zu bringen, ihr ganzes
+				Bestreben ist dahin gerichtet, diese oder jene Note mit großer Kraft hervorzustoßen.
+				Daher ist ihr Gesang kein poetischer Ausdruck der Seele, sondern ein physischer
+				Kampf ihres Körpers.“ <placeName key="wien">Wien</placeName> machte auf <persName
 					key="verdi.giuseppe">Verdi</persName> einen bezaubernden Eindruck, er hält es
 				für die schönste Stadt <placeName key="europa">Europas</placeName>; Umgebungen,
 				sowie die Bewohner erinnern ihn lebhaft an <placeName key="norditalien"
 					>Nord-Italien</placeName>. Die enthusiastische Aufnahme, die man <persName
 					key="verdi.giuseppe">Verdi</persName> schon bei den Proben des <title
-					key="verdi.requiem" type="mus">Requiems</title> bereitete, haben tiefen Eindruck auf ihn
-				gemacht. Er hat sich entschlossen, bald wieder nach <placeName key="wien"
+					key="verdi.requiem" type="mus">Requiems</title> bereitete, haben tiefen Eindruck
+				auf ihn gemacht. Er hat sich entschlossen, bald wieder nach <placeName key="wien"
 					>Wien</placeName> zu kommen und dann die erste Aufführung eines neuen Werkes zu
 				leiten. Eine an den Meister gerichtete Einladung nach <placeName key="pest"
 					>Pest</placeName> zu kommen und dort persönlich am <placeName

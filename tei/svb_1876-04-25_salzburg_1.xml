@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Salzburger Volksblatt, 25. April 1876 [1]</title>
-				<author><persName key="akronym.emr"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.emr"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/svb_1876-04-25_verdis-requiem-1.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="salzburg"/></creation>
+			<creation>
+				<placeName key="salzburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -47,15 +50,16 @@
 			<cb break="null" n="1c" type="initial"/>
 			<head rend="larger"><persName key="verdi.giuseppe">Verdi’s</persName>
 				<title key="verdi.requiem" type="mus">Requiem</title>.</head>
-			<p>Es war ein Wagniß, in einer Stadt das <title key="verdi.requiem" type="mus">Requiem</title> des
-				italienischen Meisters zur <rs key="salzburg.1876.1" type="event">Aufführung</rs>
-				zu bringen, in welcher lebendiger als sonst irgendwo Traditionen — bewußt oder
-				gedankenlos — kultivirt werden. Wurden ja schon im Vorhinein nicht einzelne, sondern
-				viele Stimmen laut, daß <persName key="verdi.giuseppe">Verdi</persName> nie und
-				nimmer <persName key="mozart.wolfgang-amadeus">Mozart</persName> erreichen könne.
-				Ob diese Ansichten jetzt nach der Aufführung sich änderten? Wer da weiß, daß
-				nirgends die Orthodoxie fanatischer, nirgends das Vorurtheil hartnäckiger ist, als
-				in musikalischen Dingen und Kreisen, wird eine Bekehrung in allen Fällen wohl
+			<p>Es war ein Wagniß, in einer Stadt das <title key="verdi.requiem" type="mus"
+					>Requiem</title> des italienischen Meisters zur <rs key="salzburg.1876.1"
+					type="event">Aufführung</rs> zu bringen, in welcher lebendiger als sonst
+				irgendwo Traditionen — bewußt oder gedankenlos — kultivirt werden. Wurden ja schon
+				im Vorhinein nicht einzelne, sondern viele Stimmen laut, daß <persName
+					key="verdi.giuseppe">Verdi</persName> nie und nimmer <persName
+					key="mozart.wolfgang-amadeus">Mozart</persName> erreichen könne. Ob diese
+				Ansichten jetzt nach der Aufführung sich änderten? Wer da weiß, daß nirgends die
+				Orthodoxie fanatischer, nirgends das Vorurtheil hartnäckiger ist, als in
+				musikalischen Dingen und Kreisen, wird eine Bekehrung in allen Fällen wohl
 				bezweifeln. Man hört ja nicht selten den an arabischen Fanatismus mahnenden
 				Ausspruch, daß Diesem oder Jenem eine einzige Note <persName
 					key="mozart.wolfgang-amadeus">Mozart’s</persName> oder <persName
@@ -111,13 +115,14 @@
 				Eiferns einiger verbissener Gegner. Doch seine Richtung schien nicht zu dem Ziele
 				des epochemachenden Ruhmes zu führen, sie verflachte und — lief nicht mehr mit der
 				Zeitströmung parallel, in welcher <persName key="wagner.richard">Wagner</persName>
-				dominirte. Da brachte er »<title key="verdi.aida" type="mus">Aïda</title>«, und mit einem
-				Schlage hatte er den Lorbeer des Meisters erreicht. Auf jenem Wege, welchen
-					<persName key="verdi.giuseppe">Verdi</persName> mit »<title key="verdi.aida" type="mus"
-					>Aïda</title>« einschlug, wird ihm kaum so leicht ein Schüler folgen können, wie
-				auf den Bahnen des »<title key="verdi.il-trovatore" type="mus">Trovatore</title>« und »<title
-					key="verdi.rigoletto" type="mus">Rigoletto</title>«. Trotz des epochemachenden Erfolges
-				der »<title key="verdi.aida" type="mus">Aïda</title>« hatte man es nicht für glaublich
+				dominirte. Da brachte er »<title key="verdi.aida" type="mus">Aïda</title>«, und mit
+				einem Schlage hatte er den Lorbeer des Meisters erreicht. Auf jenem Wege, welchen
+					<persName key="verdi.giuseppe">Verdi</persName> mit »<title key="verdi.aida"
+					type="mus">Aïda</title>« einschlug, wird ihm kaum so leicht ein Schüler folgen
+				können, wie auf den Bahnen des »<title key="verdi.il-trovatore" type="mus"
+					>Trovatore</title>« und »<title key="verdi.rigoletto" type="mus"
+					>Rigoletto</title>«. Trotz des epochemachenden Erfolges der »<title
+					key="verdi.aida" type="mus">Aïda</title>« hatte man es nicht für glaublich
 				gehalten, daß <persName key="verdi.giuseppe">Verdi</persName> ein <title
 					key="verdi.requiem" type="mus">Requiem</title> schreiben könne, welches nicht an
 				unzählbaren Mängeln leiden müßte. Nun, seitdem es existirt, hat man glauben und
@@ -129,18 +134,18 @@
 				werden. Der Kirchenstil erfordert aber strenge Zucht und Lehre, und an den Formen
 				des Stiles darf nicht Jeder ungestraft rütteln. Die genialen Meister <persName
 					key="gluck.christoph-willibald">Gluck</persName> und <persName
-					key="weber.carl-maria-von">Weber</persName> scheiterten, als sie vom Theater
-				zur Kirche übergingen. In dem Kirchenstil, vom altniederländischen und jenem
-					<persName key="palestrina.giovanni-pierluigi">Palestrina’s</persName>
-				angefangen, herrscht ein objektiver Ton. Diese Objektivität ist das
-				charakteristische Merkmal der Kirchenmusik, während die dramatische subjektive
-				Empfindung voraussetzt. Daraus erklärt sich auch, weshalb die Meister des
-				Kirchenstils so selten Todtenmessen komponirten, während die großen Dramatiker sich
-				gerade dieser Gattung mit Vorliebe zuwandten. In den Todtenmessen ist die subjektive
-				Empfindung, das dramatische Element erlaubt und wirksam. Wir finden darum auch in
-				allen Requiem’s den dramatischen Grundzug, die „Leidenschaftlichkeit des
-				Operncomponisten“, wie <persName key="zelter.carl-friedrich">Ze<supplied resp="tr"
-						>l</supplied>ter</persName> in einem Briefe an <persName
+					key="weber.carl-maria-von">Weber</persName> scheiterten, als sie vom Theater zur
+				Kirche übergingen. In dem Kirchenstil, vom altniederländischen und jenem <persName
+					key="palestrina.giovanni-pierluigi">Palestrina’s</persName> angefangen, herrscht
+				ein objektiver Ton. Diese Objektivität ist das charakteristische Merkmal der
+				Kirchenmusik, während die dramatische subjektive Empfindung voraussetzt. Daraus
+				erklärt sich auch, weshalb die Meister des Kirchenstils so selten Todtenmessen
+				komponirten, während die großen Dramatiker sich gerade dieser Gattung mit Vorliebe
+				zuwandten. In den Todtenmessen ist die subjektive Empfindung, das dramatische
+				Element erlaubt und wirksam. Wir finden darum auch in allen Requiem’s den
+				dramatischen Grundzug, die „Leidenschaftlichkeit des Operncomponisten“, wie
+					<persName key="zelter.carl-friedrich">Ze<supplied resp="tr"
+					>l</supplied>ter</persName> in einem Briefe an <persName
 					key="goethe.johann-wolfgang-von">Göthe</persName> von <persName
 					key="mozart.wolfgang-amadeus">Mozarts</persName>
 				<title key="mozart.requiem" type="mus">Requiem</title> sagt.<note resp="tr"
@@ -157,19 +162,20 @@
 					351–352.</note> Letzteres ist vielleicht das einzige Werk, in welchem der
 				dramatische und der Kirchenstil ineinander fließen, sich gegenseitig durchdringen,
 				daß die höchste Wirkung erzielt wird. Aber die Schönheit des <title
-					key="verdi.requiem.2.recordare" type="mus">Recordare</title>, um ein Beispiel anzuführen,
-				beruht nur auf der dramatischen Leidenschaftlichkeit, auf dem innigen Gefühle, also
-				in subjektiven Momenten. Eine Todtenmesse kann formrichtig, gehaltvoll, kunstvoll
-				komponirt sein und doch kalt lassen, wenn ihr das geheimnisvolle Etwas, der Zug nach
-				dem Himmel, der Duft des Weihrauchs fehlt, den man bei <persName
-					key="mozart.wolfgang-amadeus">Mozart</persName> und bei — <persName
-					key="verdi.giuseppe">Verdi</persName> empfindet.</p>
+					key="verdi.requiem.2.recordare" type="mus">Recordare</title>, um ein Beispiel
+				anzuführen, beruht nur auf der dramatischen Leidenschaftlichkeit, auf dem innigen
+				Gefühle, also in subjektiven Momenten. Eine Todtenmesse kann formrichtig,
+				gehaltvoll, kunstvoll komponirt sein und doch kalt lassen, wenn ihr das
+				geheimnisvolle Etwas, der Zug nach dem Himmel, der Duft des Weihrauchs fehlt, den
+				man bei <persName key="mozart.wolfgang-amadeus">Mozart</persName> und bei —
+					<persName key="verdi.giuseppe">Verdi</persName> empfindet.</p>
 			<p><persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> entbehrt, wie sich ja von selbst
-				versteht, des dramatischen Grundzuges nicht, welcher wohl verschieden ist vom
+				<title key="verdi.requiem" type="mus">Requiem</title> entbehrt, wie sich ja von
+				selbst versteht, des dramatischen Grundzuges nicht, welcher wohl verschieden ist vom
 				Theatralischen. Man hat ihm zum Vorwurfe gemacht, er habe Opernmusik im Stile der
-					<title key="verdi.aida" type="mus">Aida</title> blos auf einen Kirchentext angewendet.
-				Herrscht aber zwischen <persName key="mozart.wolfgang-amadeus">Mozarts</persName>
+					<title key="verdi.aida" type="mus">Aida</title> blos auf einen Kirchentext
+				angewendet. Herrscht aber zwischen <persName key="mozart.wolfgang-amadeus"
+					>Mozarts</persName>
 				<title key="mozart.requiem" type="mus">Requiem</title> und der <title
 					key="mozart.die-zauberfloete" type="mus">Zauberflöte</title> nicht auch eine
 				Verwandtschaft? (Siehe <persName key="jahn.otto">O. Jahn</persName><note resp="tr"
@@ -177,54 +183,55 @@
 						target="https://books.google.de/books?id=qn570Wh1LlkC&amp;pg=PA737"
 						type="text">W. A. Mozart, 4. Theil (Leipzig 1859), S. 736, Anm.
 					87</ref>.</note>). <persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> ist hauptsächlich im Concertsaale
-				aufgeführt worden, aber deßhalb ist noch nicht gesagt, daß es nicht auch in der
-				Kirche von mächtiger Wirkung sei, daß man nicht auch danach ebenso ergriffen beten
-				könne wie nach irgend einem anderen Kirchenliede. Eine glanzvolle mächtige
-				Orchestration, wie sie die heutigen Mittel gewähren, eine Fülle wunderbarer
+				<title key="verdi.requiem" type="mus">Requiem</title> ist hauptsächlich im
+				Concertsaale aufgeführt worden, aber deßhalb ist noch nicht gesagt, daß es nicht
+				auch in der Kirche von mächtiger Wirkung sei, daß man nicht auch danach ebenso
+				ergriffen beten könne wie nach irgend einem anderen Kirchenliede. Eine glanzvolle
+				mächtige Orchestration, wie sie die heutigen Mittel gewähren, eine Fülle wunderbarer
 				Klangmischungen verdient doch wohl keinen Tadel. Mit orientalischer Glut und
 				Leidenschaftlichkeit sind die Empfindungen zum Ausdruck gebracht und wenn <persName
 					key="verdi.giuseppe">Verdi</persName> realistisch wird, wie z. B. im <title
-					key="verdi.requiem.2.lacrymosa" type="mus">Lacrimosa</title>, wo der Alt schluchzend
-				auftritt, so ergreift dies ebenso tief und mächtig wie die weihevolle ceremonielle
-				Stimmung dort, wo das Gebet in den Vordergrund tritt, erhebt. Wie heiliges Schauern
-				ergreift es den Zuhörer bei der Stelle: »<title n="mors-stupebit"
-					key="verdi.requiem.2.tuba-mirum" type="mus">Mors stupebit et natura</title>«, wie
-				entzückend ist das Duo »<title key="verdi.requiem.2.recordare" type="mus">Recordare
-					pie</title>« und wie geist- und effektvoll das <title key="verdi.requiem.5" type="mus"
-					>Agnus</title> mit dem wunderbar lieblichen Flöten-Accompagnement zu den
-				Frauenstimmen. Der C-Accord mit der Septime im <title key="verdi.requiem.4" type="mus"
-					>Sanctus</title> ist von ungeheurer Wirkung, und der Wechsel zwischen
-					Psalmod<supplied resp="tr">i</supplied>e, Fuge und Cantate im <title
-					key="verdi.requiem.7" type="mus">Libera</title> genial und vielleicht einzig in seiner
-				Art. Es wäre eine zu große Aufgabe, alle einzelnen Schönheiten des Werkes
-				auszuzählen, das jeden, auch den Laien mächtig ergreifen muß. Wem die gewaltig
-				brausenden Tonmassen des <title key="verdi.requiem.2" type="mus">Dies irae</title>, das süße
-				erhebende <title key="verdi.requiem.5" type="mus">Agnus</title>, der wunderschöne Anhangsatz
-				des <title key="verdi.requiem.7" type="mus">Libera</title> nicht eine weihevolle Empfindung
-				erregen, der ist taub oder aus anderem Stoffe geformt, als die Menschen sind.</p>
+					key="verdi.requiem.2.lacrymosa" type="mus">Lacrimosa</title>, wo der Alt
+				schluchzend auftritt, so ergreift dies ebenso tief und mächtig wie die weihevolle
+				ceremonielle Stimmung dort, wo das Gebet in den Vordergrund tritt, erhebt. Wie
+				heiliges Schauern ergreift es den Zuhörer bei der Stelle: »<title
+					key="verdi.requiem.2.tuba-mirum" n="mors-stupebit" type="mus">Mors stupebit et
+					natura</title>«, wie entzückend ist das Duo »<title
+					key="verdi.requiem.2.recordare" type="mus">Recordare pie</title>« und wie geist-
+				und effektvoll das <title key="verdi.requiem.5" type="mus">Agnus</title> mit dem
+				wunderbar lieblichen Flöten-Accompagnement zu den Frauenstimmen. Der C-Accord mit
+				der Septime im <title key="verdi.requiem.4" type="mus">Sanctus</title> ist von
+				ungeheurer Wirkung, und der Wechsel zwischen Psalmod<supplied resp="tr"
+				>i</supplied>e, Fuge und Cantate im <title key="verdi.requiem.7" type="mus"
+					>Libera</title> genial und vielleicht einzig in seiner Art. Es wäre eine zu
+				große Aufgabe, alle einzelnen Schönheiten des Werkes auszuzählen, das jeden, auch
+				den Laien mächtig ergreifen muß. Wem die gewaltig brausenden Tonmassen des <title
+					key="verdi.requiem.2" type="mus">Dies irae</title>, das süße erhebende <title
+					key="verdi.requiem.5" type="mus">Agnus</title>, der wunderschöne Anhangsatz des
+					<title key="verdi.requiem.7" type="mus">Libera</title> nicht eine weihevolle
+				Empfindung erregen, der ist taub oder aus anderem Stoffe geformt, als die Menschen
+				sind.</p>
 			<p><persName key="verdi.giuseppe">Verdi</persName> hat mit diesem Werke den Ehrenplatz
 				neben den größten Meistern dieses Jahrhunderts errungen, wenn wir auch die
-				Expectoration eines Enthusiasten: „<persName key="verdi.giuseppe"
-					>Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> sei die größte Tonschöpfung des
-					Jahrhunderts“<note resp="tr" type="textLink">Vgl. <ref
+				Expectoration eines Enthusiasten: „<persName key="verdi.giuseppe">Verdi’s</persName>
+				<title key="verdi.requiem" type="mus">Requiem</title> sei die größte Tonschöpfung
+				des Jahrhunderts“<note resp="tr" type="textLink">Vgl. <ref
 						target="iwe_1875-06-10_die-manzoni-messe-verdis.xml" type="text"
 						>Illustrirtes Wiener Extrablatt, 10. Juni 1875</ref>.</note>, als einen
 				unüberlegten Ausbruch momentaner Unzurechnungsfähigkeit belächeln. Es sind auch
 				Mängel und Schwächen darin zu finden; wir sagen dies, obwohl wir es aus dem Munde
 				einer Dame hören mußten, wie jeder Kritiker, der daran etwas zu tadeln fände, im
 				Vorhinein als „dumm“ erklärt wurde.</p>
-			<p>Das Geigen-Tremolo bei <title key="verdi.requiem.6" type="mus">Lux aeterna</title>, mancher
-				leidenschaftliche Aufschrei der Singstimmen streifen an das Opernhafte,
+			<p>Das Geigen-Tremolo bei <title key="verdi.requiem.6" type="mus">Lux aeterna</title>,
+				mancher leidenschaftliche Aufschrei der Singstimmen streifen an das Opernhafte,
 				Theatralische; der Fehler ist freilich reichlich aufgewogen durch die geniale und
 				maßvolle Malerei des Weltuntergangs. Die Parallelquinten<note resp="tr"
-					type="musicLink">Vgl. <title n="oro-supplex" key="verdi.requiem.2.confutatis" type="mus"
-						>Oro supplex</title>.</note> klingen schlecht und das <title
-					n="quam-olim-abrahae" key="verdi.requiem.3" type="mus">quam olim Abrahae</title> mit dem
-				chromatisch absteigenden Motive hätte ein Schüler auch zuwege gebracht. Aber diese
-				kleinen Schwächen verschwinden im Vergleiche zu den großartigen Schönheiten und
-				schmälern den Ruhm des Komponisten nicht.</p>
+					type="musicLink">Vgl. <title key="verdi.requiem.2.confutatis" n="oro-supplex"
+						type="mus">Oro supplex</title>.</note> klingen schlecht und das <title
+					key="verdi.requiem.3" n="quam-olim-abrahae" type="mus">quam olim Abrahae</title>
+				mit dem chromatisch absteigenden Motive hätte ein Schüler auch zuwege gebracht. Aber
+				diese kleinen Schwächen verschwinden im Vergleiche zu den großartigen Schönheiten
+				und schmälern den Ruhm des Komponisten nicht.</p>
 			<p><persName key="akronym.emr">emr.</persName></p>
 			<p><gap resp="tr"/><note resp="tr" type="textLink">Es folgt die <ref
 						target="svb_1876-04-25_verdis-requiem-2.xml" type="text">Besprechung eines

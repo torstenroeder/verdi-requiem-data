@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Deutsche Rundschau, Berlin, Januar 1876</title>
-				<author><persName key="ambros.august-wilhelm"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="ambros.august-wilhelm"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dr_1876-01_wiener-chronik.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/><date when-iso="1875-12-12"/></creation>
+			<creation>
+				<placeName key="wien"/>
+				<date when-iso="1875-12-12"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -47,31 +51,30 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<head rend="widespace larger">Wiener Chronik.</head>
-			<head><persName key="wagner.richard">Richard Wagner</persName> in <placeName
-					key="wien">Wien</placeName>.</head>
-			<p rend="right"><hi rend="widespace"><placeName key="wien">Wien</placeName></hi>, <date
-					when-iso="1875-12-12">12. Dezember 1875</date></p>
+			<head><persName key="wagner.richard">Richard Wagner</persName> in <placeName key="wien"
+					>Wien</placeName>.</head>
+			<dateline rend="right"><hi rend="widespace"><placeName key="wien">Wien</placeName></hi>,
+					<date when-iso="1875-12-12">12. Dezember 1875</date></dateline>
 			<p><pb break="null" facs="#f1" n="148" type="skipped"/> Im <date from-iso="1875-06"
-					to-iso="1875-09">verflossenen Sommer</date> hatte <persName
-					key="verdi.giuseppe">Verdi</persName> als Gast in <placeName key="wien"
-					>Wien</placeName> verweilt, er hatte nicht blos sein <rs key="wien.1875"
-					type="event"><title key="verdi.requiem" type="mus">Manzoni-Requiem</title> mit
-					außerordentlichem Erfolg aufgeführt</rs>, sondern auch seine „<title
-					key="verdi.aida" type="mus">Aida</title>,“ — und die Wiener behaupteten, erst jetzt sei
-				ihnen über diese Oper das wahre Licht aufgegangen. <persName key="verdi.giuseppe"
-					>Verdi</persName> selbst hatte durch sein edel-bescheidenes Auftreten fast eben
-				so viel persönlichen Erfolg, als durch seine neuesten Partituren, welche aus mehr
-				als einem Verdi-Saulus einen Verdi-Paulus machten.<note resp="tr"
-					type="glossaryLink">Saulus, der einstige Christenverfolger, fand in dem
-					»Damaskuserlebnis« seine Bekehrung und ließ sich fortan nach seinem griechischen
-					Namen »Paulus« nennen.</note> Alle Welt versicherte, <persName
-					key="verdi.giuseppe">Verdi</persName> sei ein Ausbund von Liebenswürdigkeit —
-				und doch bildete schweigsame Zurückhaltung beinahe den Grundzug seines Wesens. Aber
-				es bewährte sich, was weiland schon <persName key="seneca.lucius-annaeus">der
-					altrömische Philosoph</persName> als Kennzeichen eines vorzüglichen Menschen
-				hervorgehoben hat: <hi rend="antiqua" xml:lang="la">ipso nutu, vultu, incessu
-					prodest</hi>.<note resp="tr" type="literatureLink">Vgl. <persName
-						key="seneca.lucius-annaeus">Lucius Annaeus Seneca</persName>, De
+					to-iso="1875-09">verflossenen Sommer</date> hatte <persName key="verdi.giuseppe"
+					>Verdi</persName> als Gast in <placeName key="wien">Wien</placeName> verweilt,
+				er hatte nicht blos sein <rs key="wien.1875" type="event"><title key="verdi.requiem"
+						type="mus">Manzoni-Requiem</title> mit außerordentlichem Erfolg
+					aufgeführt</rs>, sondern auch seine „<title key="verdi.aida" type="mus"
+					>Aida</title>,“ — und die Wiener behaupteten, erst jetzt sei ihnen über diese
+				Oper das wahre Licht aufgegangen. <persName key="verdi.giuseppe">Verdi</persName>
+				selbst hatte durch sein edel-bescheidenes Auftreten fast eben so viel persönlichen
+				Erfolg, als durch seine neuesten Partituren, welche aus mehr als einem Verdi-Saulus
+				einen Verdi-Paulus machten.<note resp="tr" type="glossaryLink">Saulus, der einstige
+					Christenverfolger, fand in dem »Damaskuserlebnis« seine Bekehrung und ließ sich
+					fortan nach seinem griechischen Namen »Paulus« nennen.</note> Alle Welt
+				versicherte, <persName key="verdi.giuseppe">Verdi</persName> sei ein Ausbund von
+				Liebenswürdigkeit — und doch bildete schweigsame Zurückhaltung beinahe den Grundzug
+				seines Wesens. Aber es bewährte sich, was weiland schon <persName
+					key="seneca.lucius-annaeus">der altrömische Philosoph</persName> als Kennzeichen
+				eines vorzüglichen Menschen hervorgehoben hat: <hi rend="antiqua" xml:lang="la">ipso
+					nutu, vultu, incessu prodest</hi>.<note resp="tr" type="literatureLink">Vgl.
+						<persName key="seneca.lucius-annaeus">Lucius Annaeus Seneca</persName>, De
 					Tranquillitate Animi, IV,6: »Numquam inutilis est opera ciuis boni: auditus est
 					uisusque. Vultu, nutu, obstinatione tacita incessuque ipso prodest.« –
 					Übersetzung nach Jean Paul, Leben des Quintus Fixlein, München 1796, Kapitel 47:
@@ -95,8 +98,8 @@
 				einen Zug zu machen — so wurde nun <persName key="wagner.richard">Wagner</persName>
 				solenn eingeladen <gap resp="tr"/></p>
 			<pb break="null" facs="#f2" n="152" type="skipped"/>
-			<p rend="right"><persName key="ambros.august-wilhelm">A. W. <hi rend="widespace"
-						>Ambros</hi></persName>.</p>
+			<signed rend="right"><persName key="ambros.august-wilhelm">A. W. <hi rend="widespace"
+						>Ambros</hi></persName>.</signed>
 		</body>
 	</text>
 </TEI>

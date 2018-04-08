@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Figaro, Wien, 26. Juni 1875 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/figaro_1875-06-26_wiener-spaziergaenge.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -51,8 +52,8 @@
 							>Requiem</title> von <persName key="verdi.giuseppe"
 						>Verdi</persName></rs> gab es viel mehr Entzückungstolle,</l>
 				<l>Einer Kirche fast vergleichbar war das Opernhaus, das volle,</l>
-				<l>Aber soll die <title key="verdi.requiem" type="mus">Verdi-Messe</title> auch der Kirche
-					Gunst erstreben,</l>
+				<l>Aber soll die <title key="verdi.requiem" type="mus">Verdi-Messe</title> auch der
+					Kirche Gunst erstreben,</l>
 				<l>Muß man die einmal zum Vortheil für den Peterspfennig geben.</l>
 				<l>Uebrigens entspricht’s der Lage, wenn zu Gunsten ihrer Kassen</l>
 				<l>Die weltlustigen Theater sich mit Requiems befassen,</l>

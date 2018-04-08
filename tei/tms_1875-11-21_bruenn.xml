@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 21. November 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1875-11-21_ankuendigung.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -42,15 +43,15 @@
 				<persName key="verdi.giuseppe">Verdi’s</persName>.) Zu unserer gestrigen Meldung
 				wegen <rs key="bruenn.1876.1" type="event">Produktion des <persName
 						key="verdi.giuseppe">Verdi’schen</persName>
-					<title key="verdi.requiem" type="mus">Requiems</title> am <date when-iso="1876-01-02">2.
-						Jänner 1876</date></rs> fügen wir noch hinzu, daß nebst dem künstlerischen
-				Interesse auch ein Wohlthätigkeitszweck hiemit in Verbindung gesetzt werden soll.
-				Die erzielte Reineinnahme wird nämlich den vier Brünner wohlthätigen Frauen-Vereinen
-				gewidmet werden. Zur Ausführung bildet sich ein Komite, dem die angesehensten Damen
-				unserer Stadt nebst mehreren in der Kunstwelt bekannten Herren angehören. Als
-				Produktionsort wurde einstweilen der <placeName key="bruenn.redouta-theater"
-					>Redoutensaal</placeName> angenommen, die Partitur zum Zwecke der Aufführung ist
-				schon angekauft.</p>
+					<title key="verdi.requiem" type="mus">Requiems</title> am <date
+						when-iso="1876-01-02">2. Jänner 1876</date></rs> fügen wir noch hinzu, daß
+				nebst dem künstlerischen Interesse auch ein Wohlthätigkeitszweck hiemit in
+				Verbindung gesetzt werden soll. Die erzielte Reineinnahme wird nämlich den vier
+				Brünner wohlthätigen Frauen-Vereinen gewidmet werden. Zur Ausführung bildet sich ein
+				Komite, dem die angesehensten Damen unserer Stadt nebst mehreren in der Kunstwelt
+				bekannten Herren angehören. Als Produktionsort wurde einstweilen der <placeName
+					key="bruenn.redouta-theater">Redoutensaal</placeName> angenommen, die Partitur
+				zum Zwecke der Aufführung ist schon angekauft.</p>
 		</body>
 	</text>
 </TEI>

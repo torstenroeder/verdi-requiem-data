@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 20. April 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1876-04-20_olmuetz.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="olmuetz"/></creation>
+			<creation>
+				<placeName key="olmuetz"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -49,25 +50,25 @@
 						>Schrötter</hi></persName> steht, veranstaltet am <date
 						when-iso="1876-04-22">22.</date> und <date when-iso="1876-04-23">23.
 						April</date> eine Wohlthäigkeits-Vorstellung, bei welcher das berühmte
-						<title key="verdi.requiem" type="mus">Requiem</title> von <hi rend="widespace"
-							><persName key="verdi.giuseppe">Verdi</persName></hi> unter Mitwirkung
-					der Damen: Frau <persName key="passy-cornet.adele">Adele <hi rend="widespace"
-							>Passy-Cornet</hi></persName>, Gesangsprofessorin aus Wien, Frau
-						<persName key="bustini.emilie">Emilie <hi rend="widespace">Bustini</hi>
-						geb. Elias</persName> aus <placeName key="bruenn">Brünn</placeName>, der
-					Herren: <persName key="schultner.adolf">Adolf Ritter v. <hi rend="widespace"
-							>Schultner</hi></persName>, Gesangsprofessor aus <placeName key="wien"
-						>Wien</placeName>, <persName key="chlumetzky.karl">Karl <hi
-							rend="widespace">Chlumetzky</hi></persName>, Mitglied der Oper in
+						<title key="verdi.requiem" type="mus">Requiem</title> von <hi
+						rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> unter
+					Mitwirkung der Damen: Frau <persName key="passy-cornet.adele">Adele <hi
+							rend="widespace">Passy-Cornet</hi></persName>, Gesangsprofessorin aus
+					Wien, Frau <persName key="bustini.emilie">Emilie <hi rend="widespace"
+							>Bustini</hi> geb. Elias</persName> aus <placeName key="bruenn"
+						>Brünn</placeName>, der Herren: <persName key="schultner.adolf">Adolf Ritter
+						v. <hi rend="widespace">Schultner</hi></persName>, Gesangsprofessor aus
+						<placeName key="wien">Wien</placeName>, <persName key="chlumetzky.karl">Karl
+							<hi rend="widespace">Chlumetzky</hi></persName>, Mitglied der Oper in
 						<placeName key="olmuetz">Olmütz</placeName>, ferner eines mehr als 60 Damen
 					aus den ersten Kreisen unserer Stadt zählenden Damenchores, des
 					Männer-Gesangvereines, der Zöglinge der k. k. Lehrer- und Lehrerin<supplied
 						resp="tr">n</supplied>en-Bildungsanstalt, sowie des durch die besten
 					Musikräfte unserer Stadt und durch Mitglieder der hiesigen Militärkapellen
 					verstärkten städt. Orchesters zur Aufführung gelangt.</rs> Die Gesammt-Direktion
-				besorgt der Chormeister unseres Gesangvereines, Herr <persName
-					key="labler.wladimir">Wladimir <hi rend="widespace">Labler</hi></persName>,
-				welcher seit mehreren Wochen mit großer Sorgfalt die diesfälligen Proben leitet.</p>
+				besorgt der Chormeister unseres Gesangvereines, Herr <persName key="labler.wladimir"
+					>Wladimir <hi rend="widespace">Labler</hi></persName>, welcher seit mehreren
+				Wochen mit großer Sorgfalt die diesfälligen Proben leitet.</p>
 		</body>
 	</text>
 </TEI>

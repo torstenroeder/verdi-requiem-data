@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neues Wiener Tagblatt, 7. Juni 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nwt_1875-06-07_verdi.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="sun" when-iso="1875-06-07"/>
 					<biblScope unit="issue">156</biblScope>
-					<biblScope unit="subIssue">156</biblScope>
+					<biblScope unit="subIssue">Abendblatt</biblScope>
 					<series>nwt</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -46,9 +47,9 @@
 			<p><g n="002A" type="ASTERISK">*</g>
 				<hi rend="widespace"><persName key="verdi.giuseppe">Verdi</persName></hi> hat heute
 				die <rs key="wien.1875.gp" type="event">erste Gesammtprobe seiner <title
-						key="verdi.requiem" type="mus">Manzoni-Messe</title></rs> persönlich dirigirt und
-				wurde bei seinem Erscheinen mit stürmischem Applaus und Hochrufen der Mitwirkenden
-				empfangen. Der Beifall wiederholte sich während der Aufführung oft und
+						key="verdi.requiem" type="mus">Manzoni-Messe</title></rs> persönlich
+				dirigirt und wurde bei seinem Erscheinen mit stürmischem Applaus und Hochrufen der
+				Mitwirkenden empfangen. Der Beifall wiederholte sich während der Aufführung oft und
 				enthusiastisch.</p>
 		</body>
 	</text>

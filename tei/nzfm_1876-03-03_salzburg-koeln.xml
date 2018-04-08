@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 3. März 1876 [2]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-03-03_salzburg-und-koeln.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="salzburg"/><placeName key="koeln"/></creation>
+			<creation>
+				<placeName key="salzburg"/>
+				<placeName key="koeln"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -40,18 +42,21 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760303&amp;seite=9"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="103" type="initial"/>
+		<front rend="fraktur">
+			<pb n="103"/>
 			<head rend="larger">Tagesgeschichte.</head>
-			<pb break="null" n="105" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<pb n="105"/>
 			<head rend="bold">Aufführungen neuerer und bemerkenswerther älterer Werke.</head>
 			<gap resp="tr"/>
-			<p rend="noIndent"><rs key="salzburg.1876.1" type="event"><persName
-						key="verdi.giuseppe">Verdi, G.</persName>, <title key="verdi.requiem" type="mus"
-						>Requiem</title>. <placeName key="salzburg">Salzburg</placeName>, durch den
+			<p rend="noIndent"><rs key="salzburg.1876.1" type="event"><persName key="verdi.giuseppe"
+						>Verdi, G.</persName>, <title key="verdi.requiem" type="mus"
+					>Requiem</title>. <placeName key="salzburg">Salzburg</placeName>, durch den
 						<orgName key="salzburg.dommusikverein">Dommusikverein</orgName>.</rs></p>
-			<p rend="noIndent">—— desgl. <rs key="koeln.1875.2" type="event"><placeName
-						key="koeln">Cöln</placeName>, 8. Gürzenichconcert.</rs></p>
+			<p rend="noIndent">—— desgl. <rs key="koeln.1875.2" type="event"><placeName key="koeln"
+						>Cöln</placeName>, 8. Gürzenichconcert.</rs></p>
 		</body>
 	</text>
 </TEI>

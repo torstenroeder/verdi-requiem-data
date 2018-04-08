@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Salzburger Volksblatt, 13. April 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/svb_1876-04-13_salzburger-nachrichten.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="salzburg"/></creation>
+			<creation>
+				<placeName key="salzburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -47,9 +48,9 @@
 			<p><hi rend="bold"><g n="002A" type="ASTERISK">*</g></hi>
 				<rs key="salzburg.1876.1" type="event"><hi rend="bold"><persName
 							key="verdi.giuseppe">Verdi’s</persName>
-						<title key="verdi.requiem" type="mus">Requiem</title></hi> wird definitiv <date
-						when-iso="1876-04-23">Sonntag den 23. April</date> 7 Uhr in der großen <hi
-						rend="antiqua"><placeName key="salzburg.aula-academica">Aula
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> wird definitiv
+						<date when-iso="1876-04-23">Sonntag den 23. April</date> 7 Uhr in der großen
+						<hi rend="antiqua"><placeName key="salzburg.aula-academica">Aula
 							academica</placeName></hi> zur Aufführung gelangen.</rs> — Die
 				Solopartien übernahmen Frl. Gräfin <persName key="gatterburg.hedwig"
 					role="soloist.mezzo">H. <hi rend="widespace">Gatterburg</hi></persName>

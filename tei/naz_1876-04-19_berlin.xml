@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Norddeutsche Allgemeine Zeitung, Berlin, 19. April 1876</title>
-				<author><persName key="akronym.n"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.n"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/naz_1876-04-19_koenigliches-opernhaus.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,14 +18,16 @@
 					<placeName key="berlin"/>
 					<date when-custom="wed" when-iso="1876-04-19"/>
 					<biblScope unit="issue">91</biblScope>
-					<biblScope unit="subIssue">91</biblScope>
+					<biblScope unit="subIssue">Zweites Blatt</biblScope>
 					<series>naz</series>
 					<biblScope unit="page">2</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="berlin"/></creation>
+			<creation>
+				<placeName key="berlin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -47,93 +50,95 @@
 					komponirte <title key="verdi.requiem" type="mus">Requiem</title> von <persName
 						key="verdi.giuseppe">Giuseppe Verdi</persName> aufgeführt.</rs> Zuerst in
 					<rs key="mailand.1874" type="event"><placeName key="mailand"
-						>Mailand</placeName></rs>, dann in <rs key="paris.1874" type="event"
-						><placeName key="paris">Paris</placeName></rs> und <rs key="wien.1875"
-					type="event"><placeName key="wien">Wien</placeName></rs> unter des Komponisten
-				Leitung zu Gehör gebracht, hat das Werk auch bald seinen Einzug in <placeName
-					key="deutschland">Deutschlands</placeName> bedeutendere Städte gehalten,
-				überall Anerkennung, zum Theil Bewunderung findend. Uns zu letzterer hinzureißen
-				vermochte es zwar nicht; lebhafte Anerkennung indeß ich ihm nicht zu versagen, wenn
-				man versucht, von vorn herein den richtigen Standpunkt ihm gegenüber einzunehmen.
-				Vor Allem ist zu bedenken, daß der Schöpfer des Werkes ein Sohn des modernen
-					<placeName key="italien">Italiens</placeName> und Opernkomponist ist. Seine
-				religiösen Empfindungen sind warm, auch aufrichtig, jedoch nicht allzu tief; ihre
-				musikalische Versinnlichung ist lebhaft und charakteristisch, oft aber übertrieben
-				im Ausdruck, theatralisch prunkhaft in der äußeren Erscheinung. Von der gläubigen
-				Einfalt des Herzens und wahren Frömmigkeit, von der Bescheidenheit, aber auch
-				zugleich künstlerischen Bedeutsamkeit der Ausdrucksmittel, wie sie uns in <persName
+					>Mailand</placeName></rs>, dann in <rs key="paris.1874" type="event"><placeName
+						key="paris">Paris</placeName></rs> und <rs key="wien.1875" type="event"
+						><placeName key="wien">Wien</placeName></rs> unter des Komponisten Leitung
+				zu Gehör gebracht, hat das Werk auch bald seinen Einzug in <placeName
+					key="deutschland">Deutschlands</placeName> bedeutendere Städte gehalten, überall
+				Anerkennung, zum Theil Bewunderung findend. Uns zu letzterer hinzureißen vermochte
+				es zwar nicht; lebhafte Anerkennung indeß ich ihm nicht zu versagen, wenn man
+				versucht, von vorn herein den richtigen Standpunkt ihm gegenüber einzunehmen. Vor
+				Allem ist zu bedenken, daß der Schöpfer des Werkes ein Sohn des modernen <placeName
+					key="italien">Italiens</placeName> und Opernkomponist ist. Seine religiösen
+				Empfindungen sind warm, auch aufrichtig, jedoch nicht allzu tief; ihre musikalische
+				Versinnlichung ist lebhaft und charakteristisch, oft aber übertrieben im Ausdruck,
+				theatralisch prunkhaft in der äußeren Erscheinung. Von der gläubigen Einfalt des
+				Herzens und wahren Frömmigkeit, von der Bescheidenheit, aber auch zugleich
+				künstlerischen Bedeutsamkeit der Ausdrucksmittel, wie sie uns in <persName
 					key="mozart.wolfgang-amadeus">Mozart’s</persName>
-				<title key="mozart.requiem" type="mus">Requiem</title> und zum größten Theil in dem <persName
-					key="kiel.friedrich">Kiel’schen</persName> entgegentreten, ist bei <persName
-					key="verdi.giuseppe">Verdi</persName> nur ein verhältnißmäßig Geringes zu
-				finden, und dieses Geringe verdankt er vorzugsweise der Erkenntnis des Wesens
+				<title key="mozart.requiem" type="mus">Requiem</title> und zum größten Theil in dem
+					<persName key="kiel.friedrich">Kiel’schen</persName> entgegentreten, ist bei
+					<persName key="verdi.giuseppe">Verdi</persName> nur ein verhältnißmäßig Geringes
+				zu finden, und dieses Geringe verdankt er vorzugsweise der Erkenntnis des Wesens
 				deutschen Gemüthes und Geistes, dem Bestreben, sich deutsche Kunstbildung zu eigen
 				zu machen; dies legt insbesondere der Schluß des Werkes mit seiner vortrefflichen
-					<title n="libera-me.fuga" key="verdi.requiem.7" type="mus">Fuge</title> in überzeugender
-				Weise dar. Von solchen Gesichtspunkten aus sind wir genöthigt, Toleranz zu üben, uns
-				gleichzeitig dadurch der Blindheit gegen die Schönheiten erwehrend, welche das Werk
-				auch von rein musikalischer Seite in nicht unbeträchtlichem Maße bietet. Zu seinen
-				hervorragendsten Theilen gehört zunächst die schon erwähnte <title
-					n="libera-me.fuga" key="verdi.requiem.7" type="mus">Schluß-Fuge</title> mit ihrem zwar
-				etwas weitschweifigen, aber doch charaktervollen Thema, dessen geschickte und
-				wirksame Verarbeitung uns in Rücksicht auf die allgemeinen kontrapunktischen
-				Verhältnisse der italienischen Komponisten neuerer Zeit ganz besondere Achtung
-				abgewinnt; ferner das ebenfalls in dem Schlußabschnitt enthaltene tiefempfundene
-				Altsolo „<title n="tremens-factus" key="verdi.requiem.7" type="mus">Tremens factus</title>“
-				und das ergreifende Sopransolo mit a capella-Chor zu den noch einmal auftretenden
-				Worten: „<title n="requiem-aeternam" key="verdi.requiem.7" type="mus">Requiem
-				aeternam</title>.“ Auch der in die vom Chor ausgehaltenen Schlußakkorde
-				psalmodirende Sopran ist von bedeutender Wirkung, wie denn überhaupt die wiederholte
-				Verwendung des Psalmodischen, sowohl in den Solostimmen, wie im Chor, dem Werke
-				vornehmlich sein eigenartiges Gepräge giebt. Besonders charakteristisch gefärbt
-				erscheint das von einem Solo-Fagott meist in hoher Tonlage begleitete „<title
-					key="verdi.requiem.2.quid-sum-miser" type="mus">Quid sum miser tunc dicturus</title>“.
-					<persName key="verdi.giuseppe">Verdi</persName> hat hier offenbar an die
-				Versinnlichung der Armseligkeit des Sünders durch die Gepreßtheit und Dünnheit der
-				hohen Fagott-Töne gedacht. Die Melodie des von den vier Solostimmen gesungenen
-					„<title key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title>“ beginnt sehr
-				ausdrucksvoll und edel, verliert sich aber in ihrem weiteren Verlauf in das
-				oberflächlich Sentimentale. Das „<title key="verdi.requiem.5" type="mus">Agnus Dei</title>“,
-				obgleich nicht hervortretend durch die Innigkeit des Ausdrucks, fesselt dennoch
-				durch die Weichheit seiner Stimmung, wozu die in Oktaven singenden Solostimmen
-				(Sopran und Alt) und die sie begleitenden drei Flöten in nicht geringem Maße
-				beitragen. Gleichfalls lobend erwähnen müssen wir noch den Anfang des Werkes, den
-				mit künstlerischer Feinheit ausgeführten Chor „<title n="te-decet-hymnus"
-					key="verdi.requiem.1" type="mus">Te decet hymnus</title>“ und das weihevolle „<title
-					n="hostias" key="verdi.requiem.3" type="mus">Hostias et preces</title>“. Außer dem von uns
-				als mehr oder minder hervorragend bezeichneten Theilen hat das Werk aber auch der
-				unbedeutenden, selbst abwehrenden nicht wenige. Zu diesen rechnen wir das tändelnde
-					„<title n="kyrie" key="verdi.requiem.1" type="mus">Kyrie eleison</title>“, das „<title
-					key="verdi.requiem.2.dies-irae" type="mus">Dies irae</title>“, welches mehr die
-				Vorstellung von der Wuth eines fanatisirten Pöbels, als von den Schrecken des
-				jüngsten Tages erweckt, das marklose „<title key="verdi.requiem.2.tuba-mirum" type="mus">Tuba
-					mirum</title>“ mit seinem in renommistischer Weise einleitenden
-				Trompetengeschmetter und den humoristisch wirkenden Schlägen der großen Trommel zu
-				den Worten „<title n="mors-stupebit" key="verdi.requiem.2.tuba-mirum" type="mus">Mors
+					<title key="verdi.requiem.7" n="libera-me.fuga" type="mus">Fuge</title> in
+				überzeugender Weise dar. Von solchen Gesichtspunkten aus sind wir genöthigt,
+				Toleranz zu üben, uns gleichzeitig dadurch der Blindheit gegen die Schönheiten
+				erwehrend, welche das Werk auch von rein musikalischer Seite in nicht
+				unbeträchtlichem Maße bietet. Zu seinen hervorragendsten Theilen gehört zunächst die
+				schon erwähnte <title key="verdi.requiem.7" n="libera-me.fuga" type="mus"
+					>Schluß-Fuge</title> mit ihrem zwar etwas weitschweifigen, aber doch
+				charaktervollen Thema, dessen geschickte und wirksame Verarbeitung uns in Rücksicht
+				auf die allgemeinen kontrapunktischen Verhältnisse der italienischen Komponisten
+				neuerer Zeit ganz besondere Achtung abgewinnt; ferner das ebenfalls in dem
+				Schlußabschnitt enthaltene tiefempfundene Altsolo „<title key="verdi.requiem.7"
+					n="tremens-factus" type="mus">Tremens factus</title>“ und das ergreifende
+				Sopransolo mit a capella-Chor zu den noch einmal auftretenden Worten: „<title
+					key="verdi.requiem.7" n="requiem-aeternam" type="mus">Requiem aeternam</title>.“
+				Auch der in die vom Chor ausgehaltenen Schlußakkorde psalmodirende Sopran ist von
+				bedeutender Wirkung, wie denn überhaupt die wiederholte Verwendung des
+				Psalmodischen, sowohl in den Solostimmen, wie im Chor, dem Werke vornehmlich sein
+				eigenartiges Gepräge giebt. Besonders charakteristisch gefärbt erscheint das von
+				einem Solo-Fagott meist in hoher Tonlage begleitete „<title
+					key="verdi.requiem.2.quid-sum-miser" type="mus">Quid sum miser tunc
+					dicturus</title>“. <persName key="verdi.giuseppe">Verdi</persName> hat hier
+				offenbar an die Versinnlichung der Armseligkeit des Sünders durch die Gepreßtheit
+				und Dünnheit der hohen Fagott-Töne gedacht. Die Melodie des von den vier Solostimmen
+				gesungenen „<title key="verdi.requiem.2.lacrymosa" type="mus">Lacrymosa</title>“
+				beginnt sehr ausdrucksvoll und edel, verliert sich aber in ihrem weiteren Verlauf in
+				das oberflächlich Sentimentale. Das „<title key="verdi.requiem.5" type="mus">Agnus
+					Dei</title>“, obgleich nicht hervortretend durch die Innigkeit des Ausdrucks,
+				fesselt dennoch durch die Weichheit seiner Stimmung, wozu die in Oktaven singenden
+				Solostimmen (Sopran und Alt) und die sie begleitenden drei Flöten in nicht geringem
+				Maße beitragen. Gleichfalls lobend erwähnen müssen wir noch den Anfang des Werkes,
+				den mit künstlerischer Feinheit ausgeführten Chor „<title key="verdi.requiem.1"
+					n="te-decet-hymnus" type="mus">Te decet hymnus</title>“ und das weihevolle
+					„<title key="verdi.requiem.3" n="hostias" type="mus">Hostias et preces</title>“.
+				Außer dem von uns als mehr oder minder hervorragend bezeichneten Theilen hat das
+				Werk aber auch der unbedeutenden, selbst abwehrenden nicht wenige. Zu diesen rechnen
+				wir das tändelnde „<title key="verdi.requiem.1" n="kyrie" type="mus">Kyrie
+					eleison</title>“, das „<title key="verdi.requiem.2.dies-irae" type="mus">Dies
+					irae</title>“, welches mehr die Vorstellung von der Wuth eines fanatisirten
+				Pöbels, als von den Schrecken des jüngsten Tages erweckt, das marklose „<title
+					key="verdi.requiem.2.tuba-mirum" type="mus">Tuba mirum</title>“ mit seinem in
+				renommistischer Weise einleitenden Trompetengeschmetter und den humoristisch
+				wirkenden Schlägen der großen Trommel zu den Worten „<title
+					key="verdi.requiem.2.tuba-mirum" n="mors-stupebit" type="mus">Mors
 					stupebit</title>“. Vollkommen opernhaft ist das Baßsolo „<title
-					key="verdi.requiem.2.confutatis" type="mus">Confutatis</title>“ und der Schluß des „<title
-					n="hosanna" key="verdi.requiem.4" type="mus">Hosianna</title>“ zu nennen. Ferner ist die
-				Doppelfuge zu dem „<title n="sanctus" key="verdi.requiem.4" type="mus">Sanctus</title>“ sowohl
-				durch die Trivialität des Haupt- und die Nüchternheit des Gegenthemas, wie durch die
-				schablonenmäßige Ausarbeitung als verfehlt zu bezeichnen. Die Instrumentirung des
-				Werkes weist neben einer Fülle neuer, fein und charakteristisch ersonnener Effekte
-				auch die verbrauchtesten Mittel in ziemlich beträchtlicher Menge auf. Ueber die
-				Aufführung, welche unter der sicheren und kunstverständigen Leitung des Herrn
-				Kapellmeisters <persName key="radecke.robert">Radecke</persName> und unter
-				Mitwirkung der Damen <persName key="lehmann.lilli" role="soloist.soprano"
-					>Lehmann</persName> und <persName key="brandt.marianne" role="soloist.mezzo"
-					>Brandt</persName>, der Herren <persName key="ernst.heinrich"
-					role="soloist.tenor">Ernst</persName> und <persName key="betz.franz"
-					role="soloist.basso">Betz</persName>, sowie des königlichen Theaterchors und
-				Orchesters stattfand, können wir im Allgemeinen nur Rühmliches berichten.
-				Einzelheiten dürften wir uns allerdings noch sorgfältiger ausgeführt und das Ganze
-				im Klange noch abgerundeter denken, allein eine erste Aufführung vermag ja nur in
-				den seltensten Fällen das Vollkommenste zu bieten. In welchem Maße das Werk dem
-				ziemlich zahlreich anwesenden Publikum gefallen hat, wissen wir nicht zu
-				entscheiden. Es bleibt nur übrig zu konstatiren, daß dem Gebrauch, bei Werken
-				religiösen Inhalts sich äußerer Beifallszeichen zu enthalten, entgegen nach dem
-					„<title key="verdi.requiem.5" type="mus">Agnus Dei</title>“ und zum Schluß des Werkes
-				lebhaft applaudirt wurde.</p>
+					key="verdi.requiem.2.confutatis" type="mus">Confutatis</title>“ und der Schluß
+				des „<title key="verdi.requiem.4" n="hosanna" type="mus">Hosianna</title>“ zu
+				nennen. Ferner ist die Doppelfuge zu dem „<title key="verdi.requiem.4" n="sanctus"
+					type="mus">Sanctus</title>“ sowohl durch die Trivialität des Haupt- und die
+				Nüchternheit des Gegenthemas, wie durch die schablonenmäßige Ausarbeitung als
+				verfehlt zu bezeichnen. Die Instrumentirung des Werkes weist neben einer Fülle
+				neuer, fein und charakteristisch ersonnener Effekte auch die verbrauchtesten Mittel
+				in ziemlich beträchtlicher Menge auf. Ueber die Aufführung, welche unter der
+				sicheren und kunstverständigen Leitung des Herrn Kapellmeisters <persName
+					key="radecke.robert">Radecke</persName> und unter Mitwirkung der Damen <persName
+					key="lehmann.lilli" role="soloist.soprano">Lehmann</persName> und <persName
+					key="brandt.marianne" role="soloist.mezzo">Brandt</persName>, der Herren
+					<persName key="ernst.heinrich" role="soloist.tenor">Ernst</persName> und
+					<persName key="betz.franz" role="soloist.basso">Betz</persName>, sowie des
+				königlichen Theaterchors und Orchesters stattfand, können wir im Allgemeinen nur
+				Rühmliches berichten. Einzelheiten dürften wir uns allerdings noch sorgfältiger
+				ausgeführt und das Ganze im Klange noch abgerundeter denken, allein eine erste
+				Aufführung vermag ja nur in den seltensten Fällen das Vollkommenste zu bieten. In
+				welchem Maße das Werk dem ziemlich zahlreich anwesenden Publikum gefallen hat,
+				wissen wir nicht zu entscheiden. Es bleibt nur übrig zu konstatiren, daß dem
+				Gebrauch, bei Werken religiösen Inhalts sich äußerer Beifallszeichen zu enthalten,
+				entgegen nach dem „<title key="verdi.requiem.5" type="mus">Agnus Dei</title>“ und
+				zum Schluß des Werkes lebhaft applaudirt wurde.</p>
 		</body>
 	</text>
 </TEI>

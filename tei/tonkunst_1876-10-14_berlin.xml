@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Tonkunst, Berlin, 14. Oktober 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tonkunst_1876-10-14_ppppp.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -46,7 +45,7 @@
 						>Musiol</hi></persName>.</head>
 			<p><persName key="verdi.giuseppe">G. <hi rend="widespace">Verdi</hi></persName> hat uns
 				in seiner <hi rend="antiqua"><title key="verdi.requiem" type="mus">„Messa di
-					Requiem“</title></hi> so manche, das künstlerische Bewußtsein treffende
+						Requiem“</title></hi> so manche, das künstlerische Bewußtsein treffende
 				Ueberraschung geboten, daß wir uns auch eine gefallen lassen können, die weniger
 				das, sondern mehr unkünstlerisch ist. Es ist das: <hi rend="antiqua widespace"
 					>ppppp</hi>. Was will der Componist damit verlangen? Jedenfalls das leiseste <hi
@@ -55,35 +54,35 @@
 					>ppp</hi> ausgereicht. War es doch schon recht lächerlich, als auch <hi
 					rend="widespace"><persName key="auber.daniel-francois-esprit"
 					>Auber</persName></hi> z. B. in der Ouvertüre zum „<title
-					key="auber.fra-diavolo" type="mus">Fra Diavolo</title>“ <hi rend="antiqua widespace"
-					>pppp</hi> vorschrieb, was, streng genommen, gar nicht so ausgeführt wird. Nun,
-				man ließ es sich gefallen, machte es vielfach nach; war Nichts <hi rend="widespace"
-					>in</hi> den Noten, stand doch Etwas <hi rend="widespace">zwischen</hi> ihnen
-				und damit man sich keiner Inconsequenz schuldig machte, blühten auch bald <hi
-					rend="antiqua widespace">FFF</hi> und <hi rend="antiqua widespace">FFFF</hi>,
-				als ob nicht schon ohnedies Mancher das Klavier als „Hackebret“ und seine Kehle als
-				Kanonenrohr betrachtet hätte. Wie im Leben, so auch in der Kunst: „Nicht zu viel und
-				nich zu wing iss immer ee Ding!“ Wenn z. B. <hi rend="widespace"><persName
-						key="geisler.paul">Paul Geisler</persName></hi> in seinen „<title
-					key="geisler.monologe" type="mus">Monologen</title>“ vielfach weder eine Tempo- noch eine
-				dynamische Bezeichnung zu Anfang eines Stückes und durch die längste Dauer desselben
-				bringt, so ist das eben so wenig künstlerisch, als wenn man nach jedem Takte auf
-				Gott weiß wie viel Zeichen stößt. Wir wollen gerade nicht für <hi rend="antiqua"
-					>p</hi> und <hi rend="antiqua">F</hi> allein eine Lanze brechen, und z.B. das mf
-				oder mp als sehr wenig, oder auch nichts sagend in Acht und Bann thun, für die
-				crescendo und decrescendo vollkommenster Ersatz wäre; wir wollen sogar nicht blos
-					<hi rend="antiqua widespace">pp</hi> und <hi rend="antiqua widespace">FF</hi>
-				als passend gelten lassen, sondern auch <hi rend="antiqua widespace">ppp</hi> und
-					<hi rend="antiqua widespace">FFF</hi> als nothwendig zur Bezeichnung der
-				verhaltenen und entfesselten Gefühle erachten: aber <hi rend="antiqua widespace"
-					>pppp</hi> oder gar <hi rend="antiqua widespace">ppppp</hi>, das ist zuviel
-				leise. Es ist dann keine absolute, sondern nur eine rein relative Bezeichnung, eine
-				Spielerei, eine Spiegelfechterei, die nicht blos unkünstlerisch, sondern geradezu
-				lächerlich ist und sich wie Schellen an der Narrenkappe ausnimmt, oder, als ob
-					<persName key="huckebein.hans">Hans Huckebein</persName>, der Unglücksrabe,
-				seine Heidelbeer-Compot-Malereien dort versucht hätt<note resp="tr"
-					type="literatureLink">Vgl. <persName key="busch.wilhelm">Wilhelm
-						Busch</persName>, <ref
+					key="auber.fra-diavolo" type="mus">Fra Diavolo</title>“ <hi
+					rend="antiqua widespace">pppp</hi> vorschrieb, was, streng genommen, gar nicht
+				so ausgeführt wird. Nun, man ließ es sich gefallen, machte es vielfach nach; war
+				Nichts <hi rend="widespace">in</hi> den Noten, stand doch Etwas <hi rend="widespace"
+					>zwischen</hi> ihnen und damit man sich keiner Inconsequenz schuldig machte,
+				blühten auch bald <hi rend="antiqua widespace">FFF</hi> und <hi
+					rend="antiqua widespace">FFFF</hi>, als ob nicht schon ohnedies Mancher das
+				Klavier als „Hackebret“ und seine Kehle als Kanonenrohr betrachtet hätte. Wie im
+				Leben, so auch in der Kunst: „Nicht zu viel und nich zu wing iss immer ee Ding!“
+				Wenn z. B. <hi rend="widespace"><persName key="geisler.paul">Paul
+					Geisler</persName></hi> in seinen „<title key="geisler.monologe" type="mus"
+					>Monologen</title>“ vielfach weder eine Tempo- noch eine dynamische Bezeichnung
+				zu Anfang eines Stückes und durch die längste Dauer desselben bringt, so ist das
+				eben so wenig künstlerisch, als wenn man nach jedem Takte auf Gott weiß wie viel
+				Zeichen stößt. Wir wollen gerade nicht für <hi rend="antiqua">p</hi> und <hi
+					rend="antiqua">F</hi> allein eine Lanze brechen, und z.B. das mf oder mp als
+				sehr wenig, oder auch nichts sagend in Acht und Bann thun, für die crescendo und
+				decrescendo vollkommenster Ersatz wäre; wir wollen sogar nicht blos <hi
+					rend="antiqua widespace">pp</hi> und <hi rend="antiqua widespace">FF</hi> als
+				passend gelten lassen, sondern auch <hi rend="antiqua widespace">ppp</hi> und <hi
+					rend="antiqua widespace">FFF</hi> als nothwendig zur Bezeichnung der verhaltenen
+				und entfesselten Gefühle erachten: aber <hi rend="antiqua widespace">pppp</hi> oder
+				gar <hi rend="antiqua widespace">ppppp</hi>, das ist zuviel leise. Es ist dann keine
+				absolute, sondern nur eine rein relative Bezeichnung, eine Spielerei, eine
+				Spiegelfechterei, die nicht blos unkünstlerisch, sondern geradezu lächerlich ist und
+				sich wie Schellen an der Narrenkappe ausnimmt, oder, als ob <persName
+					key="huckebein.hans">Hans Huckebein</persName>, der Unglücksrabe, seine
+				Heidelbeer-Compot-Malereien dort versucht hätt<note resp="tr" type="literatureLink"
+					>Vgl. <persName key="busch.wilhelm">Wilhelm Busch</persName>, <ref
 						target="http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=PPN512543577|LOG_0003&amp;physid=PHYS_0021"
 						type="text">Hans Huckebein</ref>: »Nichts Schönres gab's für Tante Lotte /
 					Als schwarze Heidelbeerkompotte. / Doch Huckebein verschleudert nur / Die schöne
@@ -111,9 +110,9 @@
 					rend="widespace"><persName key="boehner.johann-ludwig">Louis
 					Böhner</persName></hi>. Er war gewiß einer der Talentvollsten, vielleicht
 				Geniebegabtesten, und was hat er für die Kunst geleistet? Es ist nur wenig, und
-				selbst der Ruhm des <title key="boehner.ach-wie-ists-moeglich-dann" type="mus">„Ach wie ist’s
-					möglich dann“</title> ist ihm nicht geblieben. Versunken — vergessen, <hi
-					rend="widespace">das</hi> ist auch sein Fluch! Oder wie viele jener
+				selbst der Ruhm des <title key="boehner.ach-wie-ists-moeglich-dann" type="mus">„Ach
+					wie ist’s möglich dann“</title> ist ihm nicht geblieben. Versunken — vergessen,
+					<hi rend="widespace">das</hi> ist auch sein Fluch! Oder wie viele jener
 				Wunderkinder, auf die man die größten Hoffnungen zu setzen das Recht hatte, haben
 				diese realisirt! Die sind zu zählen, welche wirkliche, echte und große Künstler
 				wurden. Sie wurden es aber auch nur, weil sie studirten, das Unbewußte sich bewußt

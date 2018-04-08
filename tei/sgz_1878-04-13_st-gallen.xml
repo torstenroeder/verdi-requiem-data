@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>St. Galler-Zeitung, 13. April 1878</title>
-				<author><persName key="akronym.w"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.w"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/sgz_1878-04-13_requiem.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +24,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="st-gallen"/></creation>
+			<creation>
+				<placeName key="st-gallen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -53,43 +56,44 @@
 				Jene, welche unbekannt mit dem Wesen und dem Entwicklungsgang der Kirchenmusik, sich
 				weniger mit dem D<hi rend="antiqua">é</hi>tail als mit dem allgemeinen Charakter und
 				Totaleindruck einer Aufführung befassen, noch ein Wort der Aufmunterung zum Besuche
-				des <hi rend="antiqua">„<title key="verdi.requiem" type="mus">Requiem’s</title>“</hi> zu
-				richten. In der That, wer irgend welchen Sinn für die schönen Künste, wer ein
-				empfängliches Gemüth namentlich für die erhabenste derselben, für die Musik besitzt,
-				sollte sich die vielleicht einzige Gelegenheit nicht entgehen lassen, dieses Tonwerk
-				kennen zu lernen und zu genießen! Einige Bemerkungen über dasselbe dürften zur
-				Orientirung nicht überflüssig sein. Manchenorts möchte vielleicht die konfessionelle
-				Form, der lateinische Text ein Abhaltungsgrund sein. Auf einen <hi rend="widespace"
-					>wirklichen</hi> Musikfreund sollte dieser Umstand indeß keinen Einfluß haben —
-				ist doch die „Sprache des Gefühls“, wie im dramatischen, so auch im religiösen
-				Gebiet etwas Universelles, unter verschiedenen Formen etwas allgemein Menschliches.
-				Von anderer Seite hört man wieder sagen, die Komposition, sei nicht kirchlich genug,
-				sondern zu weltlich. Auch dieser Vorwurf ist nur relativ wahr. Abgesehen davon, daß
-				berufene Kritiker die Berechtigung desselben bestreiten, so liegt die Ursache dieser
-				„schwachen Seite“ (wenn man, wie gesagt, von einer solchen sprechen <hi
-					rend="widespace">kann</hi>) in Nationalität und Schule des Komponisten, in der
-				speziellen Begabung und Richtung seines Geistes; für Viele wird sie jedenfalls in
-				unserer Zeit eher anziehend als abstoßend wirken.</p>
+				des <hi rend="antiqua">„<title key="verdi.requiem" type="mus"
+					>Requiem’s</title>“</hi> zu richten. In der That, wer irgend welchen Sinn für
+				die schönen Künste, wer ein empfängliches Gemüth namentlich für die erhabenste
+				derselben, für die Musik besitzt, sollte sich die vielleicht einzige Gelegenheit
+				nicht entgehen lassen, dieses Tonwerk kennen zu lernen und zu genießen! Einige
+				Bemerkungen über dasselbe dürften zur Orientirung nicht überflüssig sein.
+				Manchenorts möchte vielleicht die konfessionelle Form, der lateinische Text ein
+				Abhaltungsgrund sein. Auf einen <hi rend="widespace">wirklichen</hi> Musikfreund
+				sollte dieser Umstand indeß keinen Einfluß haben — ist doch die „Sprache des
+				Gefühls“, wie im dramatischen, so auch im religiösen Gebiet etwas Universelles,
+				unter verschiedenen Formen etwas allgemein Menschliches. Von anderer Seite hört man
+				wieder sagen, die Komposition, sei nicht kirchlich genug, sondern zu weltlich. Auch
+				dieser Vorwurf ist nur relativ wahr. Abgesehen davon, daß berufene Kritiker die
+				Berechtigung desselben bestreiten, so liegt die Ursache dieser „schwachen Seite“
+				(wenn man, wie gesagt, von einer solchen sprechen <hi rend="widespace">kann</hi>) in
+				Nationalität und Schule des Komponisten, in der speziellen Begabung und Richtung
+				seines Geistes; für Viele wird sie jedenfalls in unserer Zeit eher anziehend als
+				abstoßend wirken.</p>
 			<p><persName key="verdi.giuseppe">Verdi’s</persName>
-				<hi rend="antiqua">„<title key="verdi.requiem" type="mus">Requiem</title>“</hi> verleugnet
-				eben seine Geburtsstätte nicht, Italien, das Land der Formschönheit; mit den Werken
-					<persName key="bach.johann-sebastian">Bach’s</persName>, <persName
+				<hi rend="antiqua">„<title key="verdi.requiem" type="mus">Requiem</title>“</hi>
+				verleugnet eben seine Geburtsstätte nicht, Italien, das Land der Formschönheit; mit
+				den Werken <persName key="bach.johann-sebastian">Bach’s</persName>, <persName
 					key="haendel.georg-friedrich">Händels</persName> etc. kann es schon darum nicht
 				verglichen werden, weil es modernen Styles ist und der Herr Direktor verdient nur
 				Dank, daß er dießmal einen kühnen Griff in den Schatz der neuern Kompositionen
 				gethan und uns diese exotische Pflanze, diese Passionsblume aus dem Süden
 				präsentirt! Sie ist eine mit glänzender Phantasie gedichtete, von Patriotismus
 				beseelte Todtenklage und Grabeshymne des auf der Bahn der Kunst immer weiter
-				vorschreitenden Schülers <persName key="rossini.gioachino">Rossini’s</persName>.
-				Was ihr, verglichen mit den Meisterwerken der deutschen Tonkunst, an Tiefe abgehen
-				mag, das ersetzt sie durch Schwung, warmes Kolorit und Vielseitigkeit in der
-				Behandlung. In <placeName key="paris">Paris</placeName> ertönte vor 2 Jahren nur
-				eine Stimme der Verwunderung über die <hi rend="widespace">Neuheit</hi> und <hi
-					rend="widespace">Großartigkeit</hi> der Manier. Und warum sollte denn nur die
-				Kirchenmusik sich unbeweglich und starr immer und ewig im hergebrachten Geleise
-				bewegen — warum darf sie die Grenzen ihres Gebietes nicht erweitern und durch
-				Annäherung an die dramatische Musik, resp. die Oper, eine größere Mannigfaltigkeit
-				der Gefühlsschilderung gestatten?</p>
+				vorschreitenden Schülers <persName key="rossini.gioachino">Rossini’s</persName>. Was
+				ihr, verglichen mit den Meisterwerken der deutschen Tonkunst, an Tiefe abgehen mag,
+				das ersetzt sie durch Schwung, warmes Kolorit und Vielseitigkeit in der Behandlung.
+				In <placeName key="paris">Paris</placeName> ertönte vor 2 Jahren nur eine Stimme der
+				Verwunderung über die <hi rend="widespace">Neuheit</hi> und <hi rend="widespace"
+					>Großartigkeit</hi> der Manier. Und warum sollte denn nur die Kirchenmusik sich
+				unbeweglich und starr immer und ewig im hergebrachten Geleise bewegen — warum darf
+				sie die Grenzen ihres Gebietes nicht erweitern und durch Annäherung an die
+				dramatische Musik, resp. die Oper, eine größere Mannigfaltigkeit der
+				Gefühlsschilderung gestatten?</p>
 			<p>So viel über das Opus. Einer befriedigenden Aufführung durch die vorhandenen Kräfte
 				ist von einem Ohrenzeugen der Proben bereits ein günstiges Prognostikon gestellt
 				worden, dem wir uns mit voller Ueberzeugung anschließen können.</p>

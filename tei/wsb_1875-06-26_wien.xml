@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Salonblatt, 26. Juni 1875</title>
-				<author><persName key="akronym.jk"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.jk"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wsb_1875-06-26_wiener-briefe.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -44,13 +47,15 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<cb break="null" n="9b" type="initial"/>
+			<pb n="9"/>
+			<cb n="b"/>
 			<head rend="bold larger">Wiener Briefe.</head>
-			<p rend="smaller center">(<gap resp="tr"/> Die neue <title key="verdi.aida" type="mus"
+			<p rend="smaller center">(<gap/> Die neue <title key="verdi.aida" type="mus"
 					>„Aïda“</title>. — <hi rend="widespace"><persName key="verdi.giuseppe"
 						>Verdi</persName></hi> beim <persName key="franz-joseph-i.habsburg"
-					>Kaiser</persName>. <gap resp="tr"/>)</p>
-			<pb break="null" n="10" type="skipped"/>
+					>Kaiser</persName>. <gap/>)</p>
+			<pb n="10"/>
+			<cb n="a"/>
 			<p>Doch wenden wir uns nun einem heiteren Thema zu, einem Thema, das wenigstens heiter
 				sein sollte, wenn es auch nicht immer so ist, dem theatralischen. Die Bühnen haben
 				gerade in der letzten Woche mehr Gesprächsstoff geliefert, als vorher. Mehr als
@@ -70,21 +75,22 @@
 						key="verdi.giuseppe">Verdi’s</persName></hi> bestricken, wen ließen sie
 				kalt, auf wen übten sie nicht unwiderstehlichen Zauber aus. <rs key="wien.1875"
 					type="event">Wir haben gewissenhaft verzeichnet, welche Triumphe der Meister mit
-					seinem <title key="verdi.requiem" type="mus">„Requiem“</title> geerntet</rs>, und es muß
-				uns daher gestattet sein, der <hi rend="widespace">italienischen</hi> „<title
-					key="verdi.aida" type="mus">Aïda</title>“ in wenigen Worten zu gedenken. <cb break="yes"
-					n="2" type="skipped"/> Ueber die Aufnahme und den Empfang in <placeName
+					seinem <title key="verdi.requiem" type="mus">„Requiem“</title> geerntet</rs>,
+				und es muß uns daher gestattet sein, der <hi rend="widespace">italienischen</hi>
+					„<title key="verdi.aida" type="mus">Aïda</title>“ in wenigen Worten zu gedenken.
+					<cb n="2" type="skipped"/> Ueber die Aufnahme und den Empfang in <placeName
 					key="wien">Wien</placeName> werden sich sowohl <hi rend="widespace"><persName
-						key="verdi.giuseppe">Verdi</persName></hi> als auch seine Sänger
-				hoffentlich nicht beklagen. Selbst der <hi rend="widespace"><persName
+						key="verdi.giuseppe">Verdi</persName></hi> als auch seine Sänger hoffentlich
+				nicht beklagen. Selbst der <hi rend="widespace"><persName
 						key="franz-joseph-i.habsburg">Kaiser</persName></hi>, der fast allen
 				Verdi-Abenden beiwohnte, erklärte, er habe selten so Herrliches und Schönes gehört.
 				Die Verleihung des Comthurkreuzes des Franz Josefs-Ordens an den Maestro bezeugt
 				gewiß am besten, in wie hohem Grade die jüngsten Werke <persName
 					key="verdi.giuseppe">Verdi’s</persName> den Gefallen des Monarchen erregt
 				haben.</p>
-			<gap resp="tr"/>
-			<p rend="right"><hi rend="antiqua"><persName key="akronym.jk">J. K.</persName></hi></p>
+			<gap/>
+			<signed rend="right"><hi rend="antiqua"><persName key="akronym.jk">J.
+				K.</persName></hi></signed>
 		</body>
 	</text>
 </TEI>

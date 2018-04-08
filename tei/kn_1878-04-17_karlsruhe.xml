@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Karlsruher Nachrichten, 17. April 1878</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/kn_1878-04-17_karlsruhe.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="karlsruhe"/>
 					<date when-custom="wed" when-iso="1878-04-17"/>
 					<biblScope unit="issue">46</biblScope>
-					<biblScope unit="subIssue">46</biblScope>
+					<biblScope unit="subIssue">Erstes Blatt</biblScope>
 					<series>kn</series>
 					<biblScope unit="page">344[2]</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="karlsruhe"/></creation>
+			<creation>
+				<placeName key="karlsruhe"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -36,17 +37,19 @@
 		</encodingDesc>
 	</teiHeader>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Lokal-Nachrichten.</head>
-			<pb break="null" n="344" type="skipped"/>
+		</front>
+		<body rend="fraktur">
+			<pb n="344"/>
 			<p>— <hi rend="bold">Nach der wohlgelungenen</hi>
 				<rs key="karlsruhe.1878.1" type="event">Aufführung von <persName
 						key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title></rs>, dessen zahlreicher Besuch dem
-				edlen Zwecke ein hübsches materielles Ergebniß brachte, fand in dem Konzertsaale der
-					<placeName key="karlsruhe.festhalle">Festhalle</placeName> ein geselliges
-				Festessen der zunächst Betheiligten statt. Bei demselben war es besonders Herr
-				Hofkapellmeister <hi rend="widespace"><persName key="dessoff.felix-otto"
+					<title key="verdi.requiem" type="mus">Requiem</title></rs>, dessen zahlreicher
+				Besuch dem edlen Zwecke ein hübsches materielles Ergebniß brachte, fand in dem
+				Konzertsaale der <placeName key="karlsruhe.festhalle">Festhalle</placeName> ein
+				geselliges Festessen der zunächst Betheiligten statt. Bei demselben war es besonders
+				Herr Hofkapellmeister <hi rend="widespace"><persName key="dessoff.felix-otto"
 						>Dessoff</persName></hi>, welcher als der Held des Tages gefeiert wurde,
 				während dieser seinen Mitarbeitern an dem schwierigen Werke, den Herren <hi
 					rend="widespace"><persName key="ruzek.joseph">Ruzek</persName></hi>, <hi
@@ -61,12 +64,12 @@
 				Anerkennung hiefür in den auf’s Wärmste aufgenommenen Toasten auf die Herren <hi
 					rend="widespace"><persName key="holdampf.ferdinand-karl"
 					>Holdampf</persName></hi> und <hi rend="widespace"><persName
-						key="groesser.wilhelm">Grösser</persName></hi> beredten Ausdruck.
-				Ueberhaupt nahm die Aufführung, wie das darauf folgende Festessen den schönsten
-				Verlauf; auch hat es sich wieder auf das Neue gezeigt, was vereinte Kräfte unter
-				sicherer Leitung zu leisten vermögen und wie vorzüglich sich unsere Festhalle hiezu
-				eignet, ohne deren Bestand diese Aufführung in einer solchen Großartigkeit unmöglich
-				gewesen wäre.</p>
+						key="groesser.wilhelm">Grösser</persName></hi> beredten Ausdruck. Ueberhaupt
+				nahm die Aufführung, wie das darauf folgende Festessen den schönsten Verlauf; auch
+				hat es sich wieder auf das Neue gezeigt, was vereinte Kräfte unter sicherer Leitung
+				zu leisten vermögen und wie vorzüglich sich unsere Festhalle hiezu eignet, ohne
+				deren Bestand diese Aufführung in einer solchen Großartigkeit unmöglich gewesen
+				wäre.</p>
 		</body>
 	</text>
 </TEI>

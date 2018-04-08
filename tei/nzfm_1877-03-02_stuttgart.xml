@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 2. März 1877</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1877-03-02_stuttgart.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="stuttgart"/></creation>
+			<creation>
+				<placeName key="stuttgart"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -40,10 +41,13 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18770302&amp;seite=3"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="102b" type="initial"/>
+		<front rend="fraktur">
+			<cb n="102b"/>
 			<head rend="larger widespace">Correspondenzen.</head>
-			<pb break="null" n="103b" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<pb n="103b"/>
 			<p rend="bold right"><placeName key="bremen">Stuttgart</placeName>.</p>
 			<p>Die letzte Zeit brachte und eine wahre Fluth von Concerten. Am <date
 					when-iso="1876-12-19">19. Dec.</date> gaben die <hi rend="widespace"
@@ -52,14 +56,14 @@
 					>Schumann’s</persName>
 				<title key="schumann.quartett" type="mus">Quartett</title>, <persName
 					key="beethoven.ludwig-van">Beethoven’s</persName>
-				<title key="beethoven.quartett-131" type="mus">Quartett Op. 131</title> und das neue <title
-					key="verdi.quartetto" type="mus">Streichquartett</title> von <persName
+				<title key="beethoven.quartett-131" type="mus">Quartett Op. 131</title> und das neue
+					<title key="verdi.quartetto" type="mus">Streichquartett</title> von <persName
 					key="verdi.giuseppe">Verdi</persName>, welches wie alles <hi rend="widespace"
 					>Ausländische</hi> auch hier ebenso lebhafte Neugier wie Enttäuschung erregte!
 					<rs key="stuttgart.1876" type="event">Kurz darauf gelangte <persName
 						key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> mit viel größerem Interesse und
-					Erfolge zur Aufführung.</rs></p>
+					<title key="verdi.requiem" type="mus">Requiem</title> mit viel größerem
+					Interesse und Erfolge zur Aufführung.</rs></p>
 		</body>
 	</text>
 </TEI>

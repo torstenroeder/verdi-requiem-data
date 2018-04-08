@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Altonaer Nachrichten, 18. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/an_1876-01-18_hamburg.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="hamburg"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -39,13 +40,16 @@
 			xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" facs="#f1" n="1" type="initial"/>
+		<front rend="fraktur">
+			<pb facs="#f1" n="1"/>
 			<head rend="larger">Vaterstädtisches und Unterhaltendes.</head>
-			<p rend="right"><hi rend="bold"><g n="002A" type="ASTERISK">*</g>
+			<byline rend="right"><hi rend="bold"><g n="002A" type="ASTERISK">*</g>
 					<placeName key="altona">Altona</placeName>,</hi>
-				<date when-iso="1876-01-17">17. Januar</date>.</p>
-			<cb break="null" n="1c" type="skipped"/>
+				<date when-iso="1876-01-17">17. Januar</date>.</byline>
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<cb n="1c"/>
 			<p><rs key="hamburg.1876.1 hamburg.1876.2" type="event">In voriger Woche gelangte
 						<persName key="verdi.giuseppe">Verdi’s</persName> „<title
 						key="verdi.requiem" type="mus">Requiem</title>“ am <placeName
@@ -53,27 +57,28 @@
 					Aufführung.</rs> Wir haben noch in unserem letzten Referat auf die neue, edlere
 				Richtung hingewiesen, die der Componist, der hervorragendste unter den jetzt
 				lebenden Vertretern der modernen italienischen Schule, mit seiner Oper „<title
-					key="verdi.aida" type="mus">Aida</title>“ eingeschlagen hat. Eben so zeugt dies „<title
-					key="verdi.requiem" type="mus">Requiem</title>“, das er zur Todtenfeier seines berühmten
-				Freundes und Landsmanns, des Dichters <persName key="manzoni.alessandro">Alessandro
-					Manzoni</persName>, schrieb, von Streben nach Gründlichkeit und Ernst. Das Werk,
-				das wohl geeignet ist, das Gemüth der Zuhörer zu erheben und selbst im Theater
-				feierlich und andächtig zu stimmen, war mit großer Sorgfalt und Energie von dem
-				Capellmeister <persName key="fuchs.johann-nepomuk" role="conductor"
-					>Fuchs</persName> einstudirt, Chor und Orchester waren bedeutend verstärkt, die
-				Solostimmen bewährten Künstlerinnen und Künstlern, wie den Fräul. <persName
-					key="froehlich.xxx" role="soloist">Fröhlich</persName> und <persName
-					key="boree.minna" role="soloist">Borée</persName> und den Herren <persName
-					key="koegel.josef" role="soloist">Kögel</persName> und <persName
-					key="candidus.william" role="soloist">Candidus</persName>, anvertraut worden,
-				von denen vorzüglich der Letztere mit seinem schönen, für das Lyrische sich ganz
-				besonders eignenden Tenor seine schwierige Aufgabe mit dem besten Erfolg löste. Die
-				Aufführung fand ungetheilten lebhaften Beifall. Die <persName key="verdi.giuseppe"
-					>Verdi’sche</persName> Composition, welche an der <rs key="wien.1875"
-					type="event"><placeName key="wien.hof-operntheater">Hofbühne</placeName> in
-						<placeName key="wien">Wien</placeName></rs> und <rs key="dresden.1876"
-					type="event"><date>vor etwa acht Tagen</date> auch in <placeName key="dresden"
-						>Dresden</placeName></rs> einer eben so glänzenden Aufnahme sich zu erfreuen
+					key="verdi.aida" type="mus">Aida</title>“ eingeschlagen hat. Eben so zeugt dies
+					„<title key="verdi.requiem" type="mus">Requiem</title>“, das er zur Todtenfeier
+				seines berühmten Freundes und Landsmanns, des Dichters <persName
+					key="manzoni.alessandro">Alessandro Manzoni</persName>, schrieb, von Streben
+				nach Gründlichkeit und Ernst. Das Werk, das wohl geeignet ist, das Gemüth der
+				Zuhörer zu erheben und selbst im Theater feierlich und andächtig zu stimmen, war mit
+				großer Sorgfalt und Energie von dem Capellmeister <persName
+					key="fuchs.johann-nepomuk" role="conductor">Fuchs</persName> einstudirt, Chor
+				und Orchester waren bedeutend verstärkt, die Solostimmen bewährten Künstlerinnen und
+				Künstlern, wie den Fräul. <persName key="froehlich.xxx" role="soloist"
+					>Fröhlich</persName> und <persName key="boree.minna" role="soloist"
+					>Borée</persName> und den Herren <persName key="koegel.josef" role="soloist"
+					>Kögel</persName> und <persName key="candidus.william" role="soloist"
+					>Candidus</persName>, anvertraut worden, von denen vorzüglich der Letztere mit
+				seinem schönen, für das Lyrische sich ganz besonders eignenden Tenor seine
+				schwierige Aufgabe mit dem besten Erfolg löste. Die Aufführung fand ungetheilten
+				lebhaften Beifall. Die <persName key="verdi.giuseppe">Verdi’sche</persName>
+				Composition, welche an der <rs key="wien.1875" type="event"><placeName
+						key="wien.hof-operntheater">Hofbühne</placeName> in <placeName key="wien"
+						>Wien</placeName></rs> und <rs key="dresden.1876" type="event"><date>vor
+						etwa acht Tagen</date> auch in <placeName key="dresden"
+					>Dresden</placeName></rs> einer eben so glänzenden Aufnahme sich zu erfreuen
 				hatte, <rs key="hamburg.1876.4" type="event">wird <date>nächsten Sonntag</date>
 					Mittags und zwar bei ermäßigten Preisen wiederholt werden</rs>.</p>
 		</body>

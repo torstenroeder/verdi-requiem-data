@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Ostschweiz, St. Gallen, 16. April 1878</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/os_1878-04-16_st-gallen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="st-gallen"/></creation>
+			<creation>
+				<placeName key="st-gallen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -50,8 +51,8 @@
 							>Bogler</persName></hi> durch die <orgName key="st-gallen.antlitz"
 						>Antlitzgesellschaft</orgName> unter Mitwirkung trefflicher fremder Kräfte
 						<persName key="verdi.giuseppe">Verdi’s</persName>
-					<hi rend="widespace antiqua"><title key="verdi.requiem" type="mus">Requiem</title></hi>
-					aufgeführt.</rs></p>
+					<hi rend="widespace antiqua"><title key="verdi.requiem" type="mus"
+							>Requiem</title></hi> aufgeführt.</rs></p>
 		</body>
 	</text>
 </TEI>

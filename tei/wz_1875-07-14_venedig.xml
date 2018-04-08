@@ -3,11 +3,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Wiener Zeitung, 14. Juli 1875</title>
-				<principal>Torsten Roeder</principal>
+				<title>Wiener Abendpost (Beilage zur Wiener Zeitung), 14. Juli 1875</title>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1875-07-14_venedig.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="wed" when-iso="1875-07-14"/>
 					<biblScope unit="issue">158</biblScope>
-					<biblScope unit="subIssue">158</biblScope>
+					<biblScope unit="subIssue">Abendpost</biblScope>
 					<series>wz</series>
 					<biblScope unit="page">2–3</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="venedig"/></creation>
+			<creation>
+				<placeName key="venedig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,33 +43,38 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750714&amp;seite=11"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="1c" type="initial"/>
+		<front rend="fraktur">
+			<pb n="1"/>
+			<cb n="c"/>
 			<head rend="larger">Kleine Chronik.</head>
-			<p rend="smaller center"><placeName key="wien">Wien</placeName>, <date
-					when-iso="1875-07-14">14. Juli</date>.</p>
-			<cb break="null" n="2c" type="skipped"/>
+			<head rend="smaller"><placeName key="wien">Wien</placeName>, <date when-iso="1875-07-14"
+					>14. Juli</date>.</head>
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<pb n="2"/>
+			<cb n="c"/>
 			<p>(<hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> in <placeName key="venedig"
-						>Venedig</placeName></hi>.) <rs key="venedig.1875" type="event">Die schnell
-					berühmt gewordene „<title key="verdi.requiem" type="mus">Manzoni-Messe</title>“ <persName
-						key="verdi.giuseppe">Verdi’s</persName> ist am <date when-iso="1875-07-11"
-						>11. Juli</date> zu <placeName key="venedig">Venedig</placeName> im
-						„<placeName key="venedig.teatro-malibran">Teatro Malibran</placeName>“
-					unter Maestro <persName key="faccio.franco">Faccio’s</persName> Leitung
-					aufgeführt worden</rs>; mit immensem Erfolg natürlich. Die Soli waren auch dort
-				den Damen <persName key="stolz.teresa">Stolz</persName> und <persName
-					key="waldmann.maria">Waldmann</persName> und den Herren <persName
-					key="masini.angelo">Masini</persName> und <persName key="medini.paolo"
-					>Medini</persName> anvertraut. Der Zudrang des Publicums war gewaltig; viele,
-				welche Billets haben wollten, mußten unverrichteter Sache umkehren, da es ihnen
-				völlig unmöglich blieb, sich zur Casse durchzudrängen. Das Theater stellte, von
-					<persName key="bertoja.pietro">Bertoja</persName> eigens für die Aufführung
-				gemalt, das Innere einer gothischen Kirche vor. Die Aufstellung der Sänger war ganz
-				so wie in Wien, rechts von den Zuhörern der Chor, links das Orchester, inmitten die
-				Soli und der Dirigent. Das Podium zwischen den Ausführenden und der Rampe war in
-				einen Blumenteppich verwandelt. Die Sänger erschienen schwarz gekleidet, die
-				Sängerinnen weiß. Die „<orgName key="gazzetta-di-venezia">Gazetta di
+					<title key="verdi.requiem" type="mus">Requiem</title> in <placeName
+						key="venedig">Venedig</placeName></hi>.) <rs key="venedig.1875" type="event"
+					>Die schnell berühmt gewordene „<title key="verdi.requiem" type="mus"
+						>Manzoni-Messe</title>“ <persName key="verdi.giuseppe">Verdi’s</persName>
+					ist am <date when-iso="1875-07-11">11. Juli</date> zu <placeName key="venedig"
+						>Venedig</placeName> im „<placeName key="venedig.teatro-malibran">Teatro
+						Malibran</placeName>“ unter Maestro <persName key="faccio.franco"
+						>Faccio’s</persName> Leitung aufgeführt worden</rs>; mit immensem Erfolg
+				natürlich. Die Soli waren auch dort den Damen <persName key="stolz.teresa"
+					>Stolz</persName> und <persName key="waldmann.maria">Waldmann</persName> und den
+				Herren <persName key="masini.angelo">Masini</persName> und <persName
+					key="medini.paolo">Medini</persName> anvertraut. Der Zudrang des Publicums war
+				gewaltig; viele, welche Billets haben wollten, mußten unverrichteter Sache umkehren,
+				da es ihnen völlig unmöglich blieb, sich zur Casse durchzudrängen. Das Theater
+				stellte, von <persName key="bertoja.pietro">Bertoja</persName> eigens für die
+				Aufführung gemalt, das Innere einer gothischen Kirche vor. Die Aufstellung der
+				Sänger war ganz so wie in Wien, rechts von den Zuhörern der Chor, links das
+				Orchester, inmitten die Soli und der Dirigent. Das Podium zwischen den Ausführenden
+				und der Rampe war in einen Blumenteppich verwandelt. Die Sänger erschienen schwarz
+				gekleidet, die Sängerinnen weiß. Die „<orgName key="gazzetta-di-venezia">Gazetta di
 					Venezia</orgName>“ enthält einen gut geschriebenen Bericht, welcher sehr warm
 				anerkennt, ohne in den bekannten Windmühlflügelstyl des hesperischen<note resp="tr"
 					type="glossaryLink">Hier: weltlich.</note> Enthusiasmus zu gerathen. Der
@@ -82,25 +88,26 @@
 				Unterlassungssünde heißen darf. Von den einzelnen Nummern der Composition <persName
 					key="verdi.giuseppe">Verdi’s</persName>, „in welcher musikalische Gelehrsamkeit
 				mit vollen Händen ausgestreut ist“, machte gleich das <hi rend="antiqua"><title
-						n="kyrie" key="verdi.requiem.1" type="mus">Kyrie</title></hi> einen außerordentlichen
-				Eindruck; „wie ein elektrischer Strom drang die Schönheit in die Herzen der Hörer“,
-				das Publicum schien förmlich bezaubert, hörte mit andächtiger Stille zu und
-				versparte den Applaus, welcher dann freilich doppelt enthusiastisch ausfiel, zum
-				Schlusse der Abtheilung — für italienische Theatergewohnheiten ein wahres Wunder.
-				Kaum weniger wunderbar darf es heißen, daß die Doppelfuge im <hi rend="antiqua"
-						><title key="verdi.requiem.4" type="mus">Sanctus</title></hi> wiederholt werden mußte,
-				welche Ehre übrigens auch dem von <persName key="masini.angelo">Masini’s</persName>
-				Solo glänzend gehobenen „<hi rend="antiqua"><title n="hostias"
-						key="verdi.requiem.3" type="mus">Hostias</title></hi>“ widerfuhr. Chöre und Orchester
-				werden höchlich gelobt, wenn indessen der Berichterstatter der „<orgName
-					key="gazzetta-di-venezia">G. d. Ven.</orgName>“ meint: daß die „hundert
-				Professoren“, welche das Orchester bildeten, ihren Collegen in <placeName
-					key="wien">Wien</placeName> nichts zu beneiden haben, so wäre, ehe wir die
-				„hundert Professoren“ selbst gehört, daran doch sehr stark zu zweifeln, denn für
-				italienische Orchester genügt es schon, wenn es nur „zusammengeht“ und das berühmte
-				Orchester von S. Carlo in <placeName key="neapel">Neapel</placeName> spielt so
-				präcis und so seelenlos wie irgend ein mechanisches Orchestrion. Daß die Aufführung
-				des <persName key="verdi.giuseppe">Verdi’schen</persName>
+						key="verdi.requiem.1" n="kyrie" type="mus">Kyrie</title></hi> einen
+				außerordentlichen Eindruck; „wie ein elektrischer Strom drang die Schönheit in die
+				Herzen der Hörer“, das Publicum schien förmlich bezaubert, hörte mit andächtiger
+				Stille zu und versparte den Applaus, welcher dann freilich doppelt enthusiastisch
+				ausfiel, zum Schlusse der Abtheilung — für italienische Theatergewohnheiten ein
+				wahres Wunder. Kaum weniger wunderbar darf es heißen, daß die Doppelfuge im <hi
+					rend="antiqua"><title key="verdi.requiem.4" type="mus">Sanctus</title></hi>
+				wiederholt werden mußte, welche Ehre übrigens auch dem von <persName
+					key="masini.angelo">Masini’s</persName> Solo glänzend gehobenen „<hi
+					rend="antiqua"><title key="verdi.requiem.3" n="hostias" type="mus"
+						>Hostias</title></hi>“ widerfuhr. Chöre und Orchester werden höchlich
+				gelobt, wenn indessen der Berichterstatter der „<orgName key="gazzetta-di-venezia"
+					>G. d. Ven.</orgName>“ meint: daß die „hundert Professoren“, welche das
+				Orchester bildeten, ihren Collegen in <placeName key="wien">Wien</placeName> nichts
+				zu beneiden haben, so wäre, ehe wir die „hundert Professoren“ selbst gehört, daran
+				doch sehr stark zu zweifeln, denn für italienische Orchester genügt es schon, wenn
+				es nur „zusammengeht“ und das berühmte Orchester von S. Carlo in <placeName
+					key="neapel">Neapel</placeName> spielt so präcis und so seelenlos wie irgend ein
+				mechanisches Orchestrion. Daß die Aufführung des <persName key="verdi.giuseppe"
+					>Verdi’schen</persName>
 				<title key="verdi.requiem" type="mus">Requiem</title> für <placeName key="venedig"
 					>Venedig</placeName> ein musikalisches Ereigniß von Bedeutung ist, muß unbedingt
 				anerkannt werden.</p>

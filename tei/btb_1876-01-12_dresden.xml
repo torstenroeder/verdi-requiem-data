@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Berliner Tageblatt, 12. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/btb_1876-01-12_dresden.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="dresden"/></creation>
+			<creation>
+				<placeName key="dresden"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -35,13 +36,16 @@
 		</encodingDesc>
 	</teiHeader>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Theater und Musik.</head>
-			<cb break="null" n="4b" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<cb n="4b"/>
 			<p><rs key="dresden.1876" type="event"><hi rend="widespace"><persName
-							key="verdi.giuseppe">Verdi’s</persName> „<title key="verdi.requiem" type="mus"
-							>Requiem</title>“</hi> hat auch in <hi rend="widespace"><placeName
-							key="dresden">Dresden</placeName></hi> am <placeName
+							key="verdi.giuseppe">Verdi’s</persName> „<title key="verdi.requiem"
+							type="mus">Requiem</title>“</hi> hat auch in <hi rend="widespace"
+							><placeName key="dresden">Dresden</placeName></hi> am <placeName
 						key="dresden.hoftheater">Hoftheater</placeName> einen großen Erfolg
 					davongetragen.</rs></p>
 		</body>

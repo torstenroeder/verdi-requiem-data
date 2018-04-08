@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Zeitung, 31. Oktober 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1875-10-31_theater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -48,7 +49,7 @@
 				<rs key="wien.1875a.1" type="event"><hi rend="bold">Morgen Montag:</hi><lb
 						break="no"/>
 					<hi rend="widespace bold antiqua"><title key="verdi.requiem" type="mus"
-						>REQUIEM</title></hi><lb break="no"/> von<lb break="no"/>
+							>REQUIEM</title></hi><lb break="no"/> von<lb break="no"/>
 					<hi rend="antiqua bold"><persName key="verdi.giuseppe">Giuseppe
 							Verdi,</persName></hi><lb break="no"/> für Soli, Chor und Orchester.<lb
 						break="no"/> Dirigent: <hi rend="widespace"><persName key="richter.hans"

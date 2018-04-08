@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Salzburger Volksblatt, 2. Mai 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/svb_1876-05-02_die-zweite-auffuehrung.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="salzburg"/></creation>
+			<creation>
+				<placeName key="salzburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -52,10 +53,10 @@
 					Vereins-Concert am <date when-iso="1876-04-30">30. April Nachm. 4 Uhr</date> in
 					der <placeName key="salzburg.aula-academica">Aula academica</placeName> eine
 					Wiederholung des <persName key="verdi.giuseppe">Verdi’schen</persName>
-					<title key="verdi.requiem" type="mus">Requiems</title> veranlaßt, welche ungeachtet der
-					eingetretenen Frühlingswitterung <cb break="yes" n="2b" type="regular"/>und der
-					für derlei Concerte minder günstigen Nachmittagsarbeit doch von einem
-					zahlreichen Publikum besucht war.</rs></p>
+					<title key="verdi.requiem" type="mus">Requiems</title> veranlaßt, welche
+					ungeachtet der eingetretenen Frühlingswitterung <cb break="yes" n="2b"
+						type="regular"/>und der für derlei Concerte minder günstigen
+					Nachmittagsarbeit doch von einem zahlreichen Publikum besucht war.</rs></p>
 			<p><rs key="salzburg.1876" type="event">Die Solo-Partien waren wie bei der ersten
 					Aufführung besetzt.</rs> Frau Gräfin <persName key="gatterburg.hedwig"
 					role="soloist.mezzo">Hedwig Gatterburg</persName> (Mezzo-Sopran) sang mit einer

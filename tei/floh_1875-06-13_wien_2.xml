@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Der Floh, Wien, 13. Juni 1875 [2]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/floh_1875-06-13_giuseppe-verdi-2.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -43,8 +44,7 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<pb facs="#f1" n="2"/>
-			<head rend="bold larger"><persName key="verdi.giuseppe">Giuseppe
-				Verdi</persName></head>
+			<head rend="bold larger"><persName key="verdi.giuseppe">Giuseppe Verdi</persName></head>
 			<p>ist unstreitig der würdigste Repräsentant italienischer Musik. Die Vorsehung hat ihm
 				nicht nur eine glückliche Begabung, sie hat ihm auch einen glücklichen Namen
 				verliehen.</p>
@@ -77,22 +77,22 @@
 				eine Popularität, wie sie wenige jetzt lebende Compositeure genießen.</p>
 			<p><rs key="wien.1875" type="event">Aus Anlaß des von ihm componirten <title
 						key="verdi.requiem" type="mus">Requiems</title>, das jetzt in der <placeName
-						key="wien.hof-operntheater">Hofoper</placeName> von dem Meister geleitet
-					zur Aufführung gelangt</rs>, bringen wir das Bild <hi rend="widespace"><persName
+						key="wien.hof-operntheater">Hofoper</placeName> von dem Meister geleitet zur
+					Aufführung gelangt</rs>, bringen wir das Bild <hi rend="widespace"><persName
 						key="verdi.giuseppe">Verdi’s</persName></hi>.</p>
 			<p>Unser Zeichner stellt ihn in jenem Augenblicke dar, in welchem der Meister der süßen
 				Arien vor unser <placeName key="wien.hof-operntheater"
 				>Hofopern</placeName>-Orchester tritt, das ihn mit einem Tusche unendlicher
-					<persName key="wagner.richard">Wagnerscher</persName> Confusionsmelodie
-				begrüßt, welche die innigen Klänge der Leier so übertönt, wie der Niagarafall etwa
-				den lieblichen Sang einer Lerche.</p>
+					<persName key="wagner.richard">Wagnerscher</persName> Confusionsmelodie begrüßt,
+				welche die innigen Klänge der Leier so übertönt, wie der Niagarafall etwa den
+				lieblichen Sang einer Lerche.</p>
 			<p>Zum Glück besteht das Orchester der <placeName key="wien.hof-operntheater"
 					>Hofoper</placeName> aus so eminenten Künstlern, daß der niederschmetternde
-				Einfluß <persName key="wagner.richard">Wagner’s</persName> ihnen nicht die
-				Fähigkeit rauben kann, auch mit <persName key="verdi.giuseppe">Verdi</persName>
-				fühlen und wirken zu können.</p>
-			<p>Die <title key="verdi.requiem" type="mus">Requiem</title>-Aufführung hat dies männiglich
-				bewiesen!</p>
+				Einfluß <persName key="wagner.richard">Wagner’s</persName> ihnen nicht die Fähigkeit
+				rauben kann, auch mit <persName key="verdi.giuseppe">Verdi</persName> fühlen und
+				wirken zu können.</p>
+			<p>Die <title key="verdi.requiem" type="mus">Requiem</title>-Aufführung hat dies
+				männiglich bewiesen!</p>
 		</body>
 	</text>
 </TEI>

@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Über Land und Meer, Stuttgart, [25. Juli] 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/uelm_1875_34-43_musik.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -26,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -42,20 +43,26 @@
 		<graphic url="https://archive.org/stream/bub_gb_UfoN3WjRcJkC#page/n862/mode/1up"/>
 	</facsimile>
 	<text xml:lang="de">
+		<pb n="851"/>
+		<cb n="a"/>
+		<front rend="fraktur">
+			<head rend="widespace bold larger kanzlei">Notiz-Blätter.</head>
+		</front>
+		<gap/>
 		<body rend="fraktur">
-			<head rend="larger">Musik.</head>
-			<gap resp="tr"/>
-			<p>— <rs key="wien.1875" type="event"><hi rend="bold">Der kolossale Erfolg, den die
-						drei Aufführungen von</hi>
-					<persName key="verdi.giuseppe">Verdi’s</persName>
-					<title key="verdi.requiem" type="mus">Requiem</title> unter Direktion des gefeierten
-					Komponisten zu Wege brachten, hat die wiener Hofoperndirektion veranlaßt, vier
-					Aufführungen des bedeutenden Werkes zu veranlassen.</rs></p>
+			<head rend="gotisch bold">Musik.</head>
+			<gap/>
+			<p>— <rs key="wien.1875" type="event"><hi rend="bold">Der kolossale Erfolg, den die drei
+						Aufführungen von</hi>
+					<lb/><persName key="verdi.giuseppe">Verdi’s</persName>
+					<title key="verdi.requiem" type="mus">Requiem</title> unter Direktion des
+					gefeierten Komponisten zu Wege brachten, hat die wiener Hofoperndirektion
+					veranlaßt, vier Aufführungen des bedeutenden Werkes zu veranlassen.</rs></p>
 			<p>— <hi rend="bold">Der große Erfolg, dessen das <title key="verdi.requiem" type="mus"
 						>Manzoni-Requiem</title> am </hi><placeName key="wien.hof-operntheater"><hi
 						rend="bold">wiener</hi>
 					<lb break="yes"/>Hofoperntheater</placeName> sich erfreute, hat den dankbaren
-				Komponisten be<cb break="no" n="851b" type="regular"/>wogen, dem Direktor <persName
+				Komponisten be<cb break="no" n="b" type="regular"/>wogen, dem Direktor <persName
 					key="jauner.franz-von">Jauner</persName> das Versprechen zu geben, in der
 				nächsten Wintersaison nach <placeName key="wien">Wien</placeName> zu kommen, um
 				seine zur Aufführung angenommene Oper <title key="verdi.don-carlos" type="mus">„Don

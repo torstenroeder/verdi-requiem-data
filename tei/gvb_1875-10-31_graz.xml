@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Grazer Volksblatt, 31. Oktober 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/gvb_1875-10-31_graz.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="graz"/></creation>
+			<creation>
+				<placeName key="graz"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -50,7 +51,7 @@
 						when-iso="1875-11-02">Dienstag den 2. November</date>,<lb break="yes"/>beide
 						Male<lb break="yes"/><hi rend="bold widespace">Nachmittags 4 Uhr:</hi><lb
 						break="yes"/><hi rend="larger"><title key="verdi.requiem" type="mus"
-						>Requiem</title></hi><lb break="yes"/>von <persName key="verdi.giuseppe"
+							>Requiem</title></hi><lb break="yes"/>von <persName key="verdi.giuseppe"
 						>Giuseppe Verdi</persName>.<lb break="yes"/><hi rend="bold">Soli:</hi> Frl.
 						<persName key="groedinger.xxx">Grödinger</persName>, Frl. <persName
 						key="haeckl.xxx"><choice>

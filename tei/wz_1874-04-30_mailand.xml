@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Zeitung, 30. April 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1874-04-30_mailand.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1874-04-30"/>
 					<biblScope unit="issue">98</biblScope>
-					<biblScope unit="subIssue">98</biblScope>
+					<biblScope unit="subIssue">Abendpost</biblScope>
 					<series>wz</series>
 					<biblScope unit="page">779 [3]</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -40,17 +41,22 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740430&amp;seite=23"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="778b" type="initial"/>
+		<front rend="fraktur">
+			<pb n="778"/>
+			<cb n="b"/>
 			<head rend="larger">Kleine Chronik.</head>
 			<p rend="smaller center"><hi rend="bold"><placeName key="wien">Wien</placeName>,</hi>
 				<date when-iso="1874-03-30">30. April</date>.</p>
-			<pb break="null" n="779" type="skipped"/>
-			<p rend="smaller">(<hi rend="widespace">Ein <title key="verdi.requiem" type="mus">Requiem</title>
-					von <persName key="verdi.giuseppe">Verdi</persName></hi>.) Wie wir schon einmal
-				mitgetheilt, hat <persName key="verdi.giuseppe">Verdi</persName> ein <title
-					key="verdi.requiem" type="mus">Requiem</title> zu Ehren <persName
-					key="manzoni.alessandro">Manzoni’s</persName> componirt, <rs
+		</front>
+		<gap/>
+		<body rend="fraktur">
+			<pb n="779"/>
+			<cb n="a"/>
+			<p n="3" rend="smaller">(<hi rend="widespace">Ein <title key="verdi.requiem" type="mus"
+						>Requiem</title> von <persName key="verdi.giuseppe">Verdi</persName></hi>.)
+				Wie wir schon einmal mitgetheilt<!--aha???-->, hat <persName key="verdi.giuseppe"
+					>Verdi</persName> ein <title key="verdi.requiem" type="mus">Requiem</title> zu
+				Ehren <persName key="manzoni.alessandro">Manzoni’s</persName> componirt, <rs
 					key="mailand.1874.1" type="event">das am Todestage des letzteren, am <date
 						when-iso="1874-05-22">22. Mai d. J.</date>, in der Kirche zu <placeName
 						key="mailand.san-marco">San Marco</placeName> in <placeName key="mailand"

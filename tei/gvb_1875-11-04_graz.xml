@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Grazer Volksblatt, 4. November 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/gvb_1875-11-04_graz.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="graz"/></creation>
+			<creation>
+				<placeName key="graz"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -46,31 +47,31 @@
 			<head><placeName key="graz.landes-theater">Landestheater</placeName>.</head>
 			<p>Das vom Opernkompositeur <persName key="verdi.giuseppe">G. Verdi</persName> für den
 				verstorbenen italienischen Patrioten <persName key="manzoni.alessandro">Alessandro
-					Manzoni</persName> komponirte <title key="verdi.requiem" type="mus">Requiem</title> hat
-				die Direktion am <date when-iso="1875-11-01">1.</date> und <date
-					when-iso="1875-11-02">2. November</date> mit verstärktem Chor und Orchester zur
-				Aufführung gebracht, und uns dadurch mit einem interessanten Werke bekannt gemacht.
-					<persName key="verdi.giuseppe">Verdi</persName> zählt gegenwärtig zu den
-				bedeutendsten Komponisten <placeName key="italien">Italiens</placeName>, und durch
-				das oberwähnte Werk bewies er, daß er nicht allein im Opernstyle, sondern auch in
-				kirchlicher Richtung Vorzügliches leisten kann.</p>
-			<p>Hiedurch wollen wir aber nicht behauptet haben, daß dieses <title
-					key="verdi.requiem" type="mus">Requiem</title> allen Anforderungen des strengen
-				Kirchenstyles vollkommen entspricht, denn nur zu oft verläßt <persName
-					key="verdi.giuseppe">Verdi</persName> den Kirchenton, verirrt sich in die <hi
-					rend="antiqua">opera seria</hi>, kehrt aber bald wieder um, bleibt jedoch immer
-				originell. Man betrachte nur den Absatz: „<title key="verdi.requiem.2.tuba-mirum" type="mus"
-					>Tuba mirum</title>“, welche Stelle <persName key="mozart.wolfgang-amadeus"
-					>Mozart</persName> in seinem <title key="mozart.requiem" type="mus">Requiem</title> zu so
-				herrlichem und ergreifenden Ausdrucke gebracht hat. — Was macht <persName
-					key="verdi.giuseppe">Verdi</persName> daraus? Eine sehr interessante und
-				effektreiche Theaterszene, denn statt Posaunen tönen und von verschiedenen Seiten im
-				Orchester und aus dem Hintergrunde der Bühne tief und hoch gestimmte Trompeten
-				entgegen, so daß wir uns in eine Schlacht zwischen zwei feindlichen Heeren versetzt
-				glaubten. Der Raum erlaubt uns nicht, auf einzelne Schönheiten dieses Werkes näher
-				einzugehen, und wir müssen daher jeden Musikfreund darauf verwei<cb break="no"
-					n="3b" type="regular"/>sen, daß dieses Requiem auch im Stadttheater und im
-				Konzerte des <orgName key="graz.akademischer-gesangverein">akademischen
+					Manzoni</persName> komponirte <title key="verdi.requiem" type="mus"
+					>Requiem</title> hat die Direktion am <date when-iso="1875-11-01">1.</date> und
+					<date when-iso="1875-11-02">2. November</date> mit verstärktem Chor und
+				Orchester zur Aufführung gebracht, und uns dadurch mit einem interessanten Werke
+				bekannt gemacht. <persName key="verdi.giuseppe">Verdi</persName> zählt gegenwärtig
+				zu den bedeutendsten Komponisten <placeName key="italien">Italiens</placeName>, und
+				durch das oberwähnte Werk bewies er, daß er nicht allein im Opernstyle, sondern auch
+				in kirchlicher Richtung Vorzügliches leisten kann.</p>
+			<p>Hiedurch wollen wir aber nicht behauptet haben, daß dieses <title key="verdi.requiem"
+					type="mus">Requiem</title> allen Anforderungen des strengen Kirchenstyles
+				vollkommen entspricht, denn nur zu oft verläßt <persName key="verdi.giuseppe"
+					>Verdi</persName> den Kirchenton, verirrt sich in die <hi rend="antiqua">opera
+					seria</hi>, kehrt aber bald wieder um, bleibt jedoch immer originell. Man
+				betrachte nur den Absatz: „<title key="verdi.requiem.2.tuba-mirum" type="mus">Tuba
+					mirum</title>“, welche Stelle <persName key="mozart.wolfgang-amadeus"
+					>Mozart</persName> in seinem <title key="mozart.requiem" type="mus"
+					>Requiem</title> zu so herrlichem und ergreifenden Ausdrucke gebracht hat. — Was
+				macht <persName key="verdi.giuseppe">Verdi</persName> daraus? Eine sehr interessante
+				und effektreiche Theaterszene, denn statt Posaunen tönen und von verschiedenen
+				Seiten im Orchester und aus dem Hintergrunde der Bühne tief und hoch gestimmte
+				Trompeten entgegen, so daß wir uns in eine Schlacht zwischen zwei feindlichen Heeren
+				versetzt glaubten. Der Raum erlaubt uns nicht, auf einzelne Schönheiten dieses
+				Werkes näher einzugehen, und wir müssen daher jeden Musikfreund darauf verwei<cb
+					break="no" n="3b" type="regular"/>sen, daß dieses Requiem auch im Stadttheater
+				und im Konzerte des <orgName key="graz.akademischer-gesangverein">akademischen
 					Gesangvereines</orgName> demnächst zur Aufführung gelangen wird.</p>
 			<p><rs key="graz.1875" type="event">Die Wiedergabe dieses Werkes fand bei ausverkauftem
 					Hause statt</rs>, und um die gelungene Aufführung machte sich vorzüglich Frl.

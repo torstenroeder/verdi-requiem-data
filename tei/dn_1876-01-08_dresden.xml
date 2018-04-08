@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Dresdner Nachrichten, 8. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/dn_1876-01-08_feuilleton.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="dresden"/></creation>
+			<creation>
+				<placeName key="dresden"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -36,18 +37,20 @@
 		</encodingDesc>
 	</teiHeader>
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<head rend="larger">Feuilleton.</head>
-			<p><g n="2020" type="DAGGER">†</g><rs key="dresden.1876.1" type="event"> Heute findet
-					im <hi rend="widespace"><placeName key="dresden.hoftheater">königlichen
+		</front>
+		<body rend="fraktur">
+			<p><g n="2020" type="DAGGER">†</g><rs key="dresden.1876.1" type="event"> Heute findet im
+						<hi rend="widespace"><placeName key="dresden.hoftheater">königlichen
 							Altstädter Hoftheater</placeName></hi> die erste Aufführung von <hi
 						rend="widespace"><persName key="verdi.giuseppe">G. Verdi’s</persName>
-						<title key="verdi.requiem" type="mus">Requiem</title></hi> statt</rs>, zur Todtenfeier
-					<persName key="manzoni.alessandro">Alessandro Manzoni’s</persName> componirt.
-				Das melodisch wunderbar reizvolle und würdig gestimmte Tonwerk wird hoffentlich auch
-				in <placeName key="dresden">Dresden</placeName>, wie anderwärts, die vollste
-				Anerkennung im Publikum finden. Wie wir hören, wird der königliche Hof der ersten
-				Aufführung anwohnen und ist die Nachfrage nach Billets sehr lebhaft.</p>
+						<title key="verdi.requiem" type="mus">Requiem</title></hi> statt</rs>, zur
+				Todtenfeier <persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>
+				componirt. Das melodisch wunderbar reizvolle und würdig gestimmte Tonwerk wird
+				hoffentlich auch in <placeName key="dresden">Dresden</placeName>, wie anderwärts,
+				die vollste Anerkennung im Publikum finden. Wie wir hören, wird der königliche Hof
+				der ersten Aufführung anwohnen und ist die Nachfrage nach Billets sehr lebhaft.</p>
 		</body>
 	</text>
 </TEI>

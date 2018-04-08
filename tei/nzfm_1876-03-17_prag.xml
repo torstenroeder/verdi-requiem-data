@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 17. März 1876 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1876-03-17_prag.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="prag"/></creation>
+			<creation>
+				<placeName key="prag"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -42,10 +43,13 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18760317&amp;seite=7"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<cb break="null" n="120b" type="initial"/>
+		<front rend="fraktur">
+			<cb n="120b"/>
 			<head rend="larger">Correspondenzen.</head>
-			<cb break="null" n="122b" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="122b"/>
 			<p rend="right"><hi rend="bold"><placeName key="prag">Prag</placeName></hi>.</p>
 			<p>Unsere Theaterleitung ist endlich in der letzten Zeit ihres Regimes dahin gelangt,
 				mit Vater <persName key="homer">Homeros</persName> (Odyssee I. 350<note resp="tr"
@@ -58,19 +62,20 @@
 				musikalischer Novitäten richtig zu würdigen, und vervollständigte das gar
 				lückenhafte Repertoire durch Aufnahme von drei größeren Partituren. In späten Jahren
 				hat <persName key="verdi.giuseppe">Verdi</persName> mit seiner musikalischen
-				Vergangenheit gebrochen und strebt seit <title key="verdi.la-forza-del-destino" type="mus">La
-					forza del <pb break="yes" n="123" type="regular"/>destino</title> einem neuen
-				Ziel zu. <gap resp="tr"/> Auch im <title key="verdi.requiem" type="mus">Requiem</title>,
-				welches bisher dreimal aufgeführt wurde, wandelt <persName key="verdi.giuseppe"
-					>Verdi</persName> ungewohnte Pfade und sein Temperament widerstrebt gradezu dem
-				vorgesetzten Style, dem Ausfluß inbrünstiger Hingebung an die Gottheit und
-				unentweihter Keuschheit der Empfindung. So zur Selbstverleugnung genöthigt, verlor
-					<persName key="verdi.giuseppe">V.</persName> den sicher leitenden Instinct, was
-				sich deutlich darin zeigt, daß überall das rechte Maß verfehlt ist. Bald dramatische
-				Leidenschaftlichkeit (<title key="verdi.requiem.2" type="mus">dies irae</title>) und nachgrade
-				theatralisches Pathos (<title n="mors-stupebit" key="verdi.requiem.2.tuba-mirum" type="mus"
-					>Mors stupebit</title>), bald eine peinliche Herbheit und Simplicität im
-				Ausdruck (Octavenparallelen im <title key="verdi.requiem.5" type="mus">Agnus</title>) <term
+				Vergangenheit gebrochen und strebt seit <title key="verdi.la-forza-del-destino"
+					type="mus">La forza del <pb break="yes" n="123" type="regular"/>destino</title>
+				einem neuen Ziel zu. <gap resp="tr"/> Auch im <title key="verdi.requiem" type="mus"
+					>Requiem</title>, welches bisher dreimal aufgeführt wurde, wandelt <persName
+					key="verdi.giuseppe">Verdi</persName> ungewohnte Pfade und sein Temperament
+				widerstrebt gradezu dem vorgesetzten Style, dem Ausfluß inbrünstiger Hingebung an
+				die Gottheit und unentweihter Keuschheit der Empfindung. So zur Selbstverleugnung
+				genöthigt, verlor <persName key="verdi.giuseppe">V.</persName> den sicher leitenden
+				Instinct, was sich deutlich darin zeigt, daß überall das rechte Maß verfehlt ist.
+				Bald dramatische Leidenschaftlichkeit (<title key="verdi.requiem.2" type="mus">dies
+					irae</title>) und nachgrade theatralisches Pathos (<title
+					key="verdi.requiem.2.tuba-mirum" n="mors-stupebit" type="mus">Mors
+					stupebit</title>), bald eine peinliche Herbheit und Simplicität im Ausdruck
+				(Octavenparallelen im <title key="verdi.requiem.5" type="mus">Agnus</title>) <term
 					key="diabolus--musica">„Diabolus in musica“</term><note resp="tr"
 					type="glossaryLink">Der Ausdruck ist hier auf die Parallelführung der Akkorde in
 					Quintlage gemünzt.</note> im <title key="verdi.requiem.2.confutatis" type="mus"
@@ -93,22 +98,22 @@
 					vero illam numerosam sive discantum malis sine qua non deum optimum maximum
 					propiciamus: non nuptiarum solennia celebramus: non convivia: non quicquid in
 					vita jucundum transmittimus«.</note>) noch die 2 Fugen, von denen die zum <title
-					key="verdi.requiem.4" type="mus">Sanctus</title> übrigens eine schwache grammatische
-				Toncombination ist, geeignet, <persName key="leibniz.gottfried-wilhelm"
+					key="verdi.requiem.4" type="mus">Sanctus</title> übrigens eine schwache
+				grammatische Toncombination ist, geeignet, <persName key="leibniz.gottfried-wilhelm"
 					>Leibnitz’s</persName> einseitige Ansicht vom Wesen der Musik<note resp="tr"
 					type="literatureLink">Im Hintergrund steht der vielzitierte Satz »Musica est
 					exercitium arithmeticae occultum nescientis se numerare animi« – »Musik ist eine
 					verborgene Rechenkunst des seines Zählens unbewussten Geistes«, Brief von
 					Gottfried Wilhelm Leibniz an Christian Goldbach vom 27. April 1712.</note> zu
 				bestätigen. Der Vocal- und Instrumentalkörper war zu den <rs key="prag.1876"
-					type="event">Aufführungen des <title key="verdi.requiem" type="mus">Requiem</title></rs>
-				ansehnlich verstärkt, die Soli (<persName key="hajos.siegmund">Hajos</persName>,
-					<persName key="schebesta.adalbert">Schebesta</persName>, <persName
-					key="moser.marie">Moser</persName>, <persName key="burenne.henriette"
-					>Burenne</persName>) bis auf die Baßpartie, welche seltsamer Weise dem Bariton
-				zugetheilt wurde, sehr gut vertreten. Das Ensemble ging unter Kplm. <persName
-					key="slansky.ludwig">Slanskys</persName> Leitung recht präcis und
-				ausdrucksvoll.</p>
+					type="event">Aufführungen des <title key="verdi.requiem" type="mus"
+						>Requiem</title></rs> ansehnlich verstärkt, die Soli (<persName
+					key="hajos.siegmund">Hajos</persName>, <persName key="schebesta.adalbert"
+					>Schebesta</persName>, <persName key="moser.marie">Moser</persName>, <persName
+					key="burenne.henriette">Burenne</persName>) bis auf die Baßpartie, welche
+				seltsamer Weise dem Bariton zugetheilt wurde, sehr gut vertreten. Das Ensemble ging
+				unter Kplm. <persName key="slansky.ludwig">Slanskys</persName> Leitung recht präcis
+				und ausdrucksvoll.</p>
 		</body>
 	</text>
 </TEI>

@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>National-Zeitung, Berlin, 22. Januar 1876</title>
-				<author><persName key="wuerst.richard"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="wuerst.richard"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nz_1876-01-22_dresden.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,7 +18,7 @@
 					<placeName key="berlin"/>
 					<date when-custom="sat" when-iso="1876-01-22"/>
 					<biblScope unit="issue">35</biblScope>
-					<biblScope unit="subIssue">35</biblScope>
+					<biblScope unit="subIssue">Morgen-Ausgabe</biblScope>
 					<biblScope unit="volume">29</biblScope>
 					<series>nz</series>
 					<biblScope unit="part">Erstes Beiblatt</biblScope>
@@ -26,7 +27,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="dresden"/></creation>
+			<creation>
+				<placeName key="dresden"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -47,15 +50,15 @@
 					Januar</date>. <rs key="dresden.1876.1" type="event">Da das hiesige <placeName
 						key="dresden.hoftheater">Hoftheater</placeName>, so viel mir bekannt, mit
 					der Aufführung des <persName key="verdi.giuseppe">Verdischen</persName>
-					<title key="verdi.requiem" type="mus">Requiems</title> den Reigen der Aufführungen dieses
-					Werkes in Deutschland eröffnet hat<note resp="tr" type="eventCommentary">Die
-						Erstaufführungen im Deutschen Reich hatten bereits am 7. Dezember 1875 in
-							<placeName key="koeln">Köln</placeName> und <placeName key="muenchen"
-							>München</placeName> stattgefunden.</note>, so interessirt es wohl, über
-					den Erfolg etwas Näheres zu hören.</rs>
+					<title key="verdi.requiem" type="mus">Requiems</title> den Reigen der
+					Aufführungen dieses Werkes in Deutschland eröffnet hat<note resp="tr"
+						type="eventCommentary">Die Erstaufführungen im Deutschen Reich hatten
+						bereits am 7. Dezember 1875 in <placeName key="koeln">Köln</placeName> und
+							<placeName key="muenchen">München</placeName> stattgefunden.</note>, so
+					interessirt es wohl, über den Erfolg etwas Näheres zu hören.</rs>
 				<rs key="dresden.1876.2" type="event">Am <date when-iso="1876-01-11">11.
-						Januar</date> hat das <title key="verdi.requiem" type="mus">Requiem</title> zum
-					zweiten Male seine Anziehungskraft bewährt.</rs> Das Haus war wieder
+						Januar</date> hat das <title key="verdi.requiem" type="mus">Requiem</title>
+					zum zweiten Male seine Anziehungskraft bewährt.</rs> Das Haus war wieder
 				ausverkauft, und obschon der Beifall sich in Rücksicht auf den kirchlichen Stoff des
 				Kunstwerks maßvoll beschränkte, war der Erfolg doch ein unzweifelhafter. Schon nach
 				der ersten Aufführung hatte die gesammte hiesige Kritik sich in warm zustimmender
@@ -68,7 +71,7 @@
 				Kapellmeister Schuch legte von Neuem ein beredtes Zeugniß für seine große Befähigung
 				ab, Musikstücke moderner Meister in vollendeter Weise zum Ausdruck gelangen zu
 				lassen. Abweichend von früheren <title key="verdi.requiem" type="mus"
-				>Requiem</title>-Aufführungen, hatte man diesmal <rs key="mailand.1874"
+					>Requiem</title>-Aufführungen, hatte man diesmal <rs key="mailand.1874"
 					type="event">nach dem Beispiele <placeName key="mailand"
 					>Mailands</placeName></rs> das gesammte Damenpersonal mit schwarzen Schleiern
 				ausgestattet, die nicht nur trefflich zu der ernsten Haltung des Werkes paßten,
@@ -92,13 +95,13 @@
 				das Wunder endlich geschehen lassen. Versetzt man sich im Geiste unter den Himmel
 					<placeName key="italien">Italiens</placeName>, so muß man das <persName
 					key="verdi.giuseppe">Verdi’sche</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title> als einen staunenswerthen Beweis für den
-				Einfluß deutscher Musik und deutschen Ernstes auf den Komponisten bezeichnen. Von
-				musikalischem Wohllaut ist das ganze Werk getränkt, ohne daß ein glücklicher Gedanke
-				in eitler Selbstbewunderung sich störend wiederholte oder das Bestreben des
-				Künstlers sich geltend machte, einzig dem Ohre sich einschmeicheln zu wollen. Mit
-				ungemeinem Geschick ist das Gesangliche dem Orchestralen gesellt. Nirgend
-				Ueberladung, nirgend gesuchte Schwierigkeiten, das Werk eines reifen, noch
+				<title key="verdi.requiem" type="mus">Requiem</title> als einen staunenswerthen
+				Beweis für den Einfluß deutscher Musik und deutschen Ernstes auf den Komponisten
+				bezeichnen. Von musikalischem Wohllaut ist das ganze Werk getränkt, ohne daß ein
+				glücklicher Gedanke in eitler Selbstbewunderung sich störend wiederholte oder das
+				Bestreben des Künstlers sich geltend machte, einzig dem Ohre sich einschmeicheln zu
+				wollen. Mit ungemeinem Geschick ist das Gesangliche dem Orchestralen gesellt.
+				Nirgend Ueberladung, nirgend gesuchte Schwierigkeiten, das Werk eines reifen, noch
 				schaffensfrohen, zwar fremdländischen, aber doch dem deutschen Wesen naheverwandten
 				Meisters.</p>
 		</body>

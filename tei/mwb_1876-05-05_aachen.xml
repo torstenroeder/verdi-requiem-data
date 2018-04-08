@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 5. Mai 1876 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1876-05-05_aachen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="aachen"/></creation>
+			<creation>
+				<placeName key="aachen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -41,9 +42,12 @@
 			xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
+		<front rend="antiqua">
 			<head rend="lineale bold">Aufgeführte Novitäten.</head>
-			<cb n="250b" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="antiqua">
+			<cb n="250b"/>
 			<p rend="hanging"><rs key="aachen.1876.1" type="event"><persName key="verdi.giuseppe"
 							><hi rend="widespace">Verdi</hi> (G.)</persName>, <title
 						key="verdi.requiem" type="mus">Requiem</title>. (<placeName key="aachen"

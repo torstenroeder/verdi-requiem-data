@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Giuseppe Verdi, Brief an Giuseppe Piroli, Wien, 12. Juni 1875</title>
-				<author><persName key="verdi.giuseppe"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="verdi.giuseppe"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/verdi_1875-06-12_brief-an-piroli.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -27,7 +28,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/><date when-iso="1875-06-12"/></creation>
+			<creation>
+				<placeName key="wien"/>
+				<date when-iso="1875-06-12"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -42,11 +46,11 @@
 	<text xml:lang="it">
 		<body rend="antiqua">
 			<p>Ieri vi fu la <rs key="wien.1875.1" type="event">prima esecuzione della <title
-						key="verdi.requiem" type="mus">Messa</title></rs>. Il successo fu buono, migliore che
-				altrove, e migliore di gran lunga che altrove fu l’esecuzione. Che buona orchestra e
-				che buoni cori! e come sono elastici e si lasciano ben guidare. infine un’esecuzione
-				che nell’insieme non si sentirà mai più. So che voi andrete a <rs
-					key="venedig.1875" type="event"><placeName key="venedig"
+						key="verdi.requiem" type="mus">Messa</title></rs>. Il successo fu buono,
+				migliore che altrove, e migliore di gran lunga che altrove fu l’esecuzione. Che
+				buona orchestra e che buoni cori! e come sono elastici e si lasciano ben guidare.
+				infine un’esecuzione che nell’insieme non si sentirà mai più. So che voi andrete a
+					<rs key="venedig.1875" type="event"><placeName key="venedig"
 					>Venezia</placeName></rs> (io non vi sarò) ma per quanto bene, sarà esecuzione
 				ben pallida in confronto a questa.</p>
 			<note resp="tr" type="translation">Übersetzung: <q>Gestern war hier die Erstaufführung

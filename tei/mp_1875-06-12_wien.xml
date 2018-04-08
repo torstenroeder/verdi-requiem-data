@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Morgen-Post, Wien, 12. Juni 1875</title>
-				<author><persName key="akronym.ahm"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="akronym.ahm"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mp_1875-06-12_hofoperntheater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,12 +48,12 @@
 					>Verdi</persName> hat gestern gelegentlich der <rs key="wien.1875.1"
 					type="event">ersten Aufführung seines, dem Andenken des italienischen Dichters
 						<persName key="manzoni.alessandro">Manzoni</persName> gewidmeten <title
-						key="verdi.requiem" type="mus">Requiems</title></rs> einen ganz außergewöhnlichen und
-				wohlberechtigten Triumph gefeiert. Schon bei seinem ersten Erscheinen am
-				Dirigentenpulte erhob sich ein Beifallssturm, der sich nach fast jeder Nummer (von
-				welchen drei wiederholt werden mußten) erneuerte und der nach der ersten Abtheilung
-				seinen Gipfelpunkt erreicht zu haben schien. Der Begeisterungsjubel aber, der sich
-				zum Schlusse erhob und sich gar nicht zu legen wollen schien, spottet aller
+						key="verdi.requiem" type="mus">Requiems</title></rs> einen ganz
+				außergewöhnlichen und wohlberechtigten Triumph gefeiert. Schon bei seinem ersten
+				Erscheinen am Dirigentenpulte erhob sich ein Beifallssturm, der sich nach fast jeder
+				Nummer (von welchen drei wiederholt werden mußten) erneuerte und der nach der ersten
+				Abtheilung seinen Gipfelpunkt erreicht zu haben schien. Der Begeisterungsjubel aber,
+				der sich zum Schlusse erhob und sich gar nicht zu legen wollen schien, spottet aller
 				Beschreibung.</p>
 			<p><persName key="verdi.giuseppe">Verdi</persName> mußte immer wieder erscheinen,
 				brachte aber immer wieder sein ausgezeichnetes Gesangs-Quartett, die Damen <persName

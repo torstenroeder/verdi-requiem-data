@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Mecklenburgische Zeitung, Schwerin, 23. April 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mz_1876-04-23_schwerin.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="schwerin"/></creation>
+			<creation>
+				<placeName key="schwerin"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,11 +42,11 @@
 			<p>Kurz vor Schluß der Saison wurde uns noch eine sehr interessante Novität, <rs
 					key="schwerin.1876" type="event">nämlich das mit einer gewissen Spannung
 					erwartete <title key="verdi.requiem" type="mus">Requiem</title> von <persName
-						key="verdi.giuseppe">Verdi</persName> vorgeführt</rs>. Um dasselbe
-				möglichst glänzend zur Aufführung zu bringen, hatte sich neben dem Theaterchor noch
-				ein großer Theil der Mitglieder des früheren Gesangvereins zur Mitwirkung bereit
-				finden lassen, und war auf diese Weise ein recht respektabler Chor vereinigt. Zu den
-				Solisten Fräul. <persName key="gungl.virginia">Gung’l</persName>, Fräul. <persName
+						key="verdi.giuseppe">Verdi</persName> vorgeführt</rs>. Um dasselbe möglichst
+				glänzend zur Aufführung zu bringen, hatte sich neben dem Theaterchor noch ein großer
+				Theil der Mitglieder des früheren Gesangvereins zur Mitwirkung bereit finden lassen,
+				und war auf diese Weise ein recht respektabler Chor vereinigt. Zu den Solisten
+				Fräul. <persName key="gungl.virginia">Gung’l</persName>, Fräul. <persName
 					key="schwencke.anna">Schwencke</persName>, Herr <persName key="hill.karl"
 					>Hill</persName>, war noch Herr <persName key="candidus.william"
 					>Candidus</persName> vom <placeName key="hamburg">Hamburger</placeName>
@@ -60,27 +61,28 @@
 				Opernkomponisten, hegte, sind jedenfalls übertroffen worden. Es hat wohl Niemand in
 					<persName key="verdi.giuseppe">Verdi</persName> einen so gewandten
 				Kontrapunktisten erwartet, als wie er sich in diesem Werke offenbart. Daß das <title
-					key="verdi.requiem" type="mus">Requiem</title> nicht in dem Sinne kirchlich ist, wie es
-				unseren Anschauungen und Empfindungen entspricht, steht fest, und ist hier wohl
-					<persName key="mozart.wolfgang-amadeus">Mozart</persName> als der rechte
+					key="verdi.requiem" type="mus">Requiem</title> nicht in dem Sinne kirchlich ist,
+				wie es unseren Anschauungen und Empfindungen entspricht, steht fest, und ist hier
+				wohl <persName key="mozart.wolfgang-amadeus">Mozart</persName> als der rechte
 				Interpret unserer Empfindungen zu betrachten; immerhin ist das Werk bedeutend, und
 				vorläufig als <persName key="verdi.giuseppe">Verdi’s</persName> vorzüglichstes
 				anzuerkennen. Die Faktur desselben ist fast durchweg vortrefflich; die
 				Instrumentation meisterhaft, und die sinnliche Klangwirkung oft von großer
-				Schönheit. Von vorzüglicher Wirkung war gleich das erste <title n="requiem-aeternam"
-					key="verdi.requiem.1" type="mus">Requiem</title> und <title n="kyrie"
-					key="verdi.requiem.1" type="mus">Kyrie</title>. Das <hi rend="antiqua"><title
-						key="verdi.requiem.2" type="mus">Dies irae</title></hi> hat <persName
-					key="verdi.giuseppe">Verdi</persName> mit sehr starken Pinselstrichen
+				Schönheit. Von vorzüglicher Wirkung war gleich das erste <title
+					key="verdi.requiem.1" n="requiem-aeternam" type="mus">Requiem</title> und <title
+					key="verdi.requiem.1" n="kyrie" type="mus">Kyrie</title>. Das <hi rend="antiqua"
+						><title key="verdi.requiem.2" type="mus">Dies irae</title></hi> hat
+					<persName key="verdi.giuseppe">Verdi</persName> mit sehr starken Pinselstrichen
 				gezeichnet, es sind darin sehr grelle Kontraste, die uns diese Nummer zu
 				theatralisch erscheinen lassen, sie ist jedoch von bedeutender Wirkung. Alle die
 				noch folgenden Nummern hatten interessante und fesselnde Züge, welche uns bis zum
 				Schluß, der noch besonders ansprechend war, in Spannung hielten. Dem <title
-					key="verdi.requiem" type="mus">Requiem</title> ging ein <persName key="schubert.franz"
-					>Schubert’scher</persName>, von <persName key="liszt.franz">Liszt</persName>
-				instrumentirter <title key="schubert.trauermarsch" type="mus">Trauermarsch</title> voraus. Wir
-				unterlassen nicht, der Intendanz und dem vortrefflichen Leiter des Ganzen für den
-				genußreichen Abend unsern wärmsten Dank auszusprechen.</p>
+					key="verdi.requiem" type="mus">Requiem</title> ging ein <persName
+					key="schubert.franz">Schubert’scher</persName>, von <persName key="liszt.franz"
+					>Liszt</persName> instrumentirter <title key="schubert.trauermarsch" type="mus"
+					>Trauermarsch</title> voraus. Wir unterlassen nicht, der Intendanz und dem
+				vortrefflichen Leiter des Ganzen für den genußreichen Abend unsern wärmsten Dank
+				auszusprechen.</p>
 			<gap resp="tr"/>
 		</body>
 	</text>

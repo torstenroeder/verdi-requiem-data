@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AmZ, Leipzig, 9./16./23. Februar/1. März 1876</title>
-				<author><persName key="stetter.friedrich"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="stetter.friedrich"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/amz_1876-02-09_muenchen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -47,7 +48,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="muenchen"/></creation>
+			<creation>
+				<placeName key="muenchen"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -99,42 +102,43 @@
 			<text n="1">
 				<body rend="antiqua">
 					<cb break="null" facs="#f11" n="83" type="initial"/>
-					<head rend="larger egypt bold widespace"><title key="verdi.requiem" type="mus">Messa da
-							requiem</title></head>
+					<head rend="larger egypt bold widespace"><title key="verdi.requiem" type="mus"
+							>Messa da requiem</title></head>
 					<head>von <hi rend="lineale bold"><persName key="verdi.giuseppe">Giuseppe
 								Verdi</persName></hi>.</head>
-					<p rend="right noIndent"><placeName key="muenchen">München</placeName>, <date
-							notAfter-iso="1876-01-15" when-iso="1876-01">Anfang Januar</date>.</p>
+					<dateline rend="right noIndent"><placeName key="muenchen">München</placeName>,
+							<date notAfter-iso="1876-01-15" when-iso="1876-01">Anfang
+						Januar</date>.</dateline>
 					<p>Geehrter Herr Redacteur! Indem ich Ihrem Wunsche nachkomme und gesondert über
 							<persName key="verdi.giuseppe">Verdi’s</persName> »<title
-							key="verdi.requiem" type="mus">Requiem</title>« berichte, anticipire ich meinem
-						nächsten Musikbriefe sein bedeutendstes Thema. Immerhin ist das neueste Werk
-						des berühmtesten lebenden italienischen Componisten, welches in <rs
-							key="paris.1874" type="event"><placeName key="paris"
-							>Paris</placeName></rs>, <rs key="wien.1875" type="event"><placeName
+							key="verdi.requiem" type="mus">Requiem</title>« berichte, anticipire ich
+						meinem nächsten Musikbriefe sein bedeutendstes Thema. Immerhin ist das
+						neueste Werk des berühmtesten lebenden italienischen Componisten, welches in
+							<rs key="paris.1874" type="event"><placeName key="paris"
+								>Paris</placeName></rs>, <rs key="wien.1875" type="event"><placeName
 								key="wien">Wien</placeName></rs> und hier wie in <placeName
 							key="italien">Italien</placeName> den ungetheiltesten Beifall erhielt,
 						einer eingehenden Besprechung durchaus werth und mangels einer gewiegteren
 						Feder bin ich gern bereit, Ihnen dasselbe zu schildern.</p>
 					<p><rs key="muenchen.1875" type="event">Die hiesige <hi rend="widespace"
 								>musikalische Akademie</hi> hat sich das grosse Verdienst erworben,
-							das »<title key="verdi.requiem" type="mus">Requiem</title>« zuerst im deutschen
-							Reiche und zwar am <date when-iso="1875-12-07">7. December v. J.</date>
-							in den Concertsaal eingeführt zu haben.</rs><note resp="tr"
-							type="eventCommentary">Am gleichen Tag hatte auch eine Aufführung in
-								<placeName key="koeln">Köln</placeName> stattgefunden.</note> Jeder
-						durchgebildete Musiker oder kunstbeflissene Laie hatten dem <date
-							when-iso="1875-12-07">7. December</date> ungeachtet der theilweise
-						geradezu enthusiastischen auswärtigen Berichte über das »<title
-							key="verdi.requiem" type="mus">Requiem</title>« mit Misstrauen entgegen gesehen:
-						wohl keiner von Allen diesen verliess nach der Aufführung den Concertsaal,
-						ohne von der genialen Begabung seines Autors vollkommen überzeugt zu
-						sein.</p>
+							das »<title key="verdi.requiem" type="mus">Requiem</title>« zuerst im
+							deutschen Reiche und zwar am <date when-iso="1875-12-07">7. December v.
+								J.</date> in den Concertsaal eingeführt zu haben.</rs><note
+							resp="tr" type="eventCommentary">Am gleichen Tag hatte auch eine
+							Aufführung in <placeName key="koeln">Köln</placeName>
+							stattgefunden.</note> Jeder durchgebildete Musiker oder kunstbeflissene
+						Laie hatten dem <date when-iso="1875-12-07">7. December</date> ungeachtet
+						der theilweise geradezu enthusiastischen auswärtigen Berichte über das
+							»<title key="verdi.requiem" type="mus">Requiem</title>« mit Misstrauen
+						entgegen gesehen: wohl keiner von Allen diesen verliess nach der Aufführung
+						den Concertsaal, ohne von der genialen Begabung seines Autors vollkommen
+						überzeugt zu sein.</p>
 					<cb break="yes" n="84" type="regular"/>
 					<p>Man hat sich alsbald nach dem öffentlichen Erscheinen des Werkes vor bald
-						zwei Jahren mit Verwunderung gefragt: Wie kam <persName
-							key="verdi.giuseppe">Verdi</persName>, der doch so ganz auf der Bühne
-						seine musikalische Heimath besitzt, dazu, ein »<title key="verdi.requiem" type="mus"
+						zwei Jahren mit Verwunderung gefragt: Wie kam <persName key="verdi.giuseppe"
+							>Verdi</persName>, der doch so ganz auf der Bühne seine musikalische
+						Heimath besitzt, dazu, ein »<title key="verdi.requiem" type="mus"
 							>Requiem</title>« zu schreiben? Wenn man einem <persName
 							key="anonymus.ein-pariser-berichterstatter">Pariser
 							Berichterstatter</persName><note resp="tr" type="textLink">Vgl. <ref
@@ -143,12 +147,12 @@
 								target="amz_1874-07-22_paris.xml" type="text">AmZ, Leipzig, 22. Juli
 								1874</ref>.</note> hierüber glauben darf, so wäre der Schlusssatz
 						dazu schon lange fertig gewesen, da vor mehreren Jahren bereits von einer
-							<title key="messa-per-rossini" type="mus">Messe</title> die Rede war, die zum
-						Andenken <persName key="rossini.gioachino">Rossini’s</persName> von allen
-						bedeutenderen italienischen Componisten vereint geschrieben werden sollte:
-							<persName key="verdi.giuseppe">Verdi</persName> hätte dazu jenes Finale
-						geschrieben. Da kam das Kriegsgetöse dazwischen, welches die Musik in den
-						Hintergrund drängte. Dann starb <persName key="manzoni.alessandro"
+							<title key="messa-per-rossini" type="mus">Messe</title> die Rede war,
+						die zum Andenken <persName key="rossini.gioachino">Rossini’s</persName> von
+						allen bedeutenderen italienischen Componisten vereint geschrieben werden
+						sollte: <persName key="verdi.giuseppe">Verdi</persName> hätte dazu jenes
+						Finale geschrieben. Da kam das Kriegsgetöse dazwischen, welches die Musik in
+						den Hintergrund drängte. Dann starb <persName key="manzoni.alessandro"
 							>Manzoni</persName>, der in Italien überaus beliebte und berühmte
 						Dichter der »Verlobten« am <date when-iso="1873-05-22">22. Mai 1873</date>.
 						Sofort ging der thätige Meister ans Werk, sein Finale nach vorne zu ergänzen
@@ -158,19 +162,20 @@
 								>Mailand</placeName> aufführen</rs>.</p>
 					<p>Bekanntlich hat sich <persName key="buelow.hans-von">Hans von
 							Bülow</persName> damals durch seine wegwerfenden Aeusserungen über das
-							»<title key="verdi.requiem" type="mus">Requiem</title>«, welches er nicht einmal
-						gehört hatte<note resp="tr" type="textLink">Bülow besaß jedoch einen
-							Klavierauszug; vgl. <ref target="az_1874-05-28_mailand.xml" type="text"
-								>Allgemeine Zeitung, Augsburg, 28. Mai 1874</ref>.</note>, in
-							<placeName key="italien">Italien</placeName> unmöglich gemacht, während
-							<persName key="verdi.giuseppe">Verdi</persName> in allen Orten, wo das
-							»<title key="verdi.requiem" type="mus">Requiem</title>« aufgeführt wurde, fast
-						mehr noch als durch seine unmittelbar vorhergegangene »<title
-							key="verdi.aida" type="mus">Aïda</title>« im besten Sinne populär wurde und mit
-						Recht die ungetheilte Bewunderung der Kenner erhielt. Zumal muss ja uns in
-							<placeName key="deutschland">Deutschland</placeName>, wo man sich nicht
-						mit leichter musikalischer Waare nach Art der italienischen Stagione-Opern
-						zu begnügen pflegt, ein musikalisches Genie — denn das finden wir, wenn auch
+							»<title key="verdi.requiem" type="mus">Requiem</title>«, welches er
+						nicht einmal gehört hatte<note resp="tr" type="textLink">Bülow besaß jedoch
+							einen Klavierauszug; vgl. <ref target="az_1874-05-28_mailand.xml"
+								type="text">Allgemeine Zeitung, Augsburg, 28. Mai
+						1874</ref>.</note>, in <placeName key="italien">Italien</placeName>
+						unmöglich gemacht, während <persName key="verdi.giuseppe">Verdi</persName>
+						in allen Orten, wo das »<title key="verdi.requiem" type="mus"
+							>Requiem</title>« aufgeführt wurde, fast mehr noch als durch seine
+						unmittelbar vorhergegangene »<title key="verdi.aida" type="mus"
+						>Aïda</title>« im besten Sinne populär wurde und mit Recht die ungetheilte
+						Bewunderung der Kenner erhielt. Zumal muss ja uns in <placeName
+							key="deutschland">Deutschland</placeName>, wo man sich nicht mit
+						leichter musikalischer Waare nach Art der italienischen Stagione-Opern zu
+						begnügen pflegt, ein musikalisches Genie — denn das finden wir, wenn auch
 						mitunter nur in einzelnen Geistesblitzen, in jedem Werke <persName
 							key="verdi.giuseppe">Verdi’s</persName> — interessiren, welches in
 						vorgerückten Jahren sich zu der Erkenntnis durcharbeitet, dass die Musik
@@ -186,32 +191,32 @@
 							October 1813</date>. Die unbemittelten Eltern hatten nicht viel für
 						Giuseppe aufzuwenden, indessen erhielt er den ersten musikalischen
 						Unterricht mit 10 Jahren von dem Organisten <persName
-							key="provesi.ferdinando">Provesi</persName> zu <placeName
-							key="busseto">Busseto</placeName>. Was bei <persName
-							key="provesi.ferdinando">Provesi</persName> zu lernen war, hatte
-							<persName key="verdi.giuseppe">Verdi</persName> bald inne, und wohl nie
-						wäre er das geworden, was er ist, hätte ihm nicht <persName
-							key="barezzi.antonio">Barezzi</persName>, ein wohlhabender Mitbürger
-						und — <persName key="verdi.giuseppe">Verdi’s</persName> nachmaliger
-						Schwiegervater, die Mittel zur weiteren Ausbildung grossmüthig geboten.
-							<date when-iso="1833">1833</date> begab er sich nach Mailand und
-						studirte, als ihm die Aufnahme in das dortige Conservatorium unbegreiflicher
-						Weise verweigert wurde, drei Jahre bei Maëstro <persName
-							key="lavigna.vincenzo">Lavigna</persName> alle Zweige der
+							key="provesi.ferdinando">Provesi</persName> zu <placeName key="busseto"
+							>Busseto</placeName>. Was bei <persName key="provesi.ferdinando"
+							>Provesi</persName> zu lernen war, hatte <persName key="verdi.giuseppe"
+							>Verdi</persName> bald inne, und wohl nie wäre er das geworden, was er
+						ist, hätte ihm nicht <persName key="barezzi.antonio">Barezzi</persName>, ein
+						wohlhabender Mitbürger und — <persName key="verdi.giuseppe"
+							>Verdi’s</persName> nachmaliger Schwiegervater, die Mittel zur weiteren
+						Ausbildung grossmüthig geboten. <date when-iso="1833">1833</date> begab er
+						sich nach Mailand und studirte, als ihm die Aufnahme in das dortige
+						Conservatorium unbegreiflicher Weise verweigert wurde, drei Jahre bei
+						Maëstro <persName key="lavigna.vincenzo">Lavigna</persName> alle Zweige der
 						Compositionslehre. Nochmals brachte <persName key="verdi.giuseppe"
 							>Verdi</persName> hierauf <date from-iso="1836" to-iso="1839"
 							>1836-39</date> drei Jahre stiller Arbeit in <placeName key="busseto"
 							>Busseto</placeName> zu, bis er am <date when-iso="1839-11-17">17.
-							November 1839</date> mit seiner ersten Oper »<title key="verdi.oberto" type="mus"
-							>Oberto Conte di San Bonifacio</title>« am <placeName
+							November 1839</date> mit seiner ersten Oper »<title key="verdi.oberto"
+							type="mus">Oberto Conte di San Bonifacio</title>« am <placeName
 							key="mailand.teatro-alla-scala">Scalatheater</placeName> zu <placeName
 							key="mailand">Mailand</placeName> erschien; dieselbe soll von <persName
 							key="bellini.vincenzo">Bellini’schen</persName> Reniniscenzen wimmeln
 						und ungeachtet schwungvoller dramatischer Züge viel Schülerhaftes in sich
-						tragen. Dem ersten Erfolge mit »<title key="verdi.oberto" type="mus">Oberto</title>«
-						folgte ein erster Misserfolg mit der komischen Oper »<title
-							key="verdi.un-giorno-di-regno" type="mus">Un giorno di regno</title>« an der
-							<placeName key="mailand.teatro-alla-scala">Scala</placeName>
+						tragen. Dem ersten Erfolge mit »<title key="verdi.oberto" type="mus"
+							>Oberto</title>« folgte ein erster Misserfolg mit der komischen Oper
+							»<title key="verdi.un-giorno-di-regno" type="mus">Un giorno di
+							regno</title>« an der <placeName key="mailand.teatro-alla-scala"
+							>Scala</placeName>
 						<date when-iso="1840">1840</date>. Hierauf aber wurde <persName
 							key="verdi.giuseppe">Verdi’s</persName> Ruf ebendaselbst <date
 							when-iso="1842">1842</date> mit »<title key="verdi.nabucco" type="mus"
@@ -223,19 +228,20 @@
 						der Erfindung gerechtfertigt waren. Es ist so ziemlich ein und der selbe
 						rein italienische Stil, in welchem <persName key="verdi.giuseppe"
 							>Verdi’s</persName> erste sechzehn Opern bis zum »<title
-							key="verdi.rigoletto" type="mus">Rigoletto</title>« geschrieben sind; es finden
-						sich unter denselben noch ein paar unglückliche Kinder, dagegen ein unter
-						einem sehr glücklichen Sterne geborenes, »<title key="verdi.ernani" type="mus"
-							>Ernani</title>« <date when-iso="1844">1844</date>. <cb break="yes"
-							n="85" type="regular"/> Von <date when-iso="1851">1851</date> ab
-						erschienen nun unmittelbar nach einander »<title key="verdi.rigoletto" type="mus"
-							>Rigoletto</title>«, »<title key="verdi.il-trovatore" type="mus">Il
-							Trovatore</title>« und »<title key="verdi.la-traviata" type="mus">La
-							Traviata</title>«, »das beliebteste und bekannteste Kleeblatt von
-							<persName key="verdi.giuseppe">Verdi’s</persName> musikalischem Acker«,
-						um ein Bild von <persName key="hanslick.eduard">Hanslick</persName> zu
-							gebrauchen.<note resp="tr" type="literatureLink">Vgl. <persName
-								key="hanslick.eduard">Eduard Hanslick,</persName>
+							key="verdi.rigoletto" type="mus">Rigoletto</title>« geschrieben sind; es
+						finden sich unter denselben noch ein paar unglückliche Kinder, dagegen ein
+						unter einem sehr glücklichen Sterne geborenes, »<title key="verdi.ernani"
+							type="mus">Ernani</title>« <date when-iso="1844">1844</date>. <cb
+							break="yes" n="85" type="regular"/> Von <date when-iso="1851"
+							>1851</date> ab erschienen nun unmittelbar nach einander »<title
+							key="verdi.rigoletto" type="mus">Rigoletto</title>«, »<title
+							key="verdi.il-trovatore" type="mus">Il Trovatore</title>« und »<title
+							key="verdi.la-traviata" type="mus">La Traviata</title>«, »das
+						beliebteste und bekannteste Kleeblatt von <persName key="verdi.giuseppe"
+							>Verdi’s</persName> musikalischem Acker«, um ein Bild von <persName
+							key="hanslick.eduard">Hanslick</persName> zu gebrauchen.<note resp="tr"
+							type="literatureLink">Vgl. <persName key="hanslick.eduard">Eduard
+								Hanslick,</persName>
 							<ref
 								target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10616514-5"
 								type="text">Verdi, in: Der Salon für Literatur, Kunst und
@@ -246,69 +252,70 @@
 						dreiblättrige Kleeblatt wird jedoch durch Hinzufügen des <title
 							key="verdi.un-ballo-in-maschera" type="mus">Ballo in maschera</title>
 						<date when-iso="1859">1859</date> ein vierblättriges; die Musik dieser Oper
-						gehört zum Bedeutendsten was <persName key="verdi.giuseppe"
-							>Verdi</persName> schrieb. <persName key="verdi.giuseppe"
-							>Verdi’s</persName> dritte Epoche, in welcher er mit noch mehr Reflexion
-						arbeitet und neben den französischen deutsche Elemente in seine Musik
-						aufnimmt, beginnt mit »<title key="verdi.la-forza-del-destino" type="mus">La <surplus
-								resp="tr">s</surplus>forza del destino</title>«<supplied resp="tr"
+						gehört zum Bedeutendsten was <persName key="verdi.giuseppe">Verdi</persName>
+						schrieb. <persName key="verdi.giuseppe">Verdi’s</persName> dritte Epoche, in
+						welcher er mit noch mehr Reflexion arbeitet und neben den französischen
+						deutsche Elemente in seine Musik aufnimmt, beginnt mit »<title
+							key="verdi.la-forza-del-destino" type="mus">La <surplus resp="tr"
+								>s</surplus>forza del destino</title>«<supplied resp="tr"
 							>,</supplied>
 						<date when-iso="1862">1862</date> in <placeName key="st-petersburg">St.
 							Petersburg</placeName> zum ersten Male aufgeführt. In dieser Oper und
-						dem darauffolgenden »<title key="verdi.don-carlos" type="mus">Don Carlos</title>«
-							<date when-iso="1867">1867</date> verleugnete er fast völlig sein
-						italienisches Naturell, sein melodisches Talent schien versiegt; man findet
-						darin mehr <persName key="meyerbeer.giacomo">Meyerbeer</persName> und
-							<persName key="wagner.richard">Wagner</persName> als <persName
-							key="verdi.giuseppe">Verdi</persName>. Da erschien <date
-							when-iso="1871">1871</date> »<title key="verdi.aida" type="mus">Aïda</title>«, ein
+						dem darauffolgenden »<title key="verdi.don-carlos" type="mus">Don
+							Carlos</title>« <date when-iso="1867">1867</date> verleugnete er fast
+						völlig sein italienisches Naturell, sein melodisches Talent schien versiegt;
+						man findet darin mehr <persName key="meyerbeer.giacomo">Meyerbeer</persName>
+						und <persName key="wagner.richard">Wagner</persName> als <persName
+							key="verdi.giuseppe">Verdi</persName>. Da erschien <date when-iso="1871"
+							>1871</date> »<title key="verdi.aida" type="mus">Aïda</title>«, ein
 						merkwürdiges, echt künstlerisches, nach <persName key="verdi.giuseppe"
 							>Verdi’s</persName> früheren Opern höchst überraschendes Werk. Mit Recht
 						sagt <persName key="hanslick.eduard">Hanslick</persName> über dasselbe:
-						»Auffallend und doch wohlbegründet ist es, dass »<title key="verdi.aida" type="mus"
-							>Aida</title>«, das jüngste Werk eines längst auf seiner Ruhmeshöhe
-						angelangten Sechzigers, vornehmlich gelobt wird ob seiner Fortschritte. In
-						der That herrscht in »<title key="verdi.aida" type="mus">Aïda</title>« eine
-						dramatische Gewissenhaftigkeit, ein Fleiss in der technischen Ausarbeitung,
-						vor Allem eine Noblesse und eine Einheit des Stiles, welche von dem
-						Componisten des »<title key="verdi.ernani" type="mus">Ernani</title>« überraschen
-							<supplied resp="tr">mußte</supplied>.«<note resp="tr"
-							type="literatureLink">Vgl. <persName key="hanslick.eduard">Eduard
-								Hanslick</persName>, <ref
+						»Auffallend und doch wohlbegründet ist es, dass »<title key="verdi.aida"
+							type="mus">Aida</title>«, das jüngste Werk eines längst auf seiner
+						Ruhmeshöhe angelangten Sechzigers, vornehmlich gelobt wird ob seiner
+						Fortschritte. In der That herrscht in »<title key="verdi.aida" type="mus"
+							>Aïda</title>« eine dramatische Gewissenhaftigkeit, ein Fleiss in der
+						technischen Ausarbeitung, vor Allem eine Noblesse und eine Einheit des
+						Stiles, welche von dem Componisten des »<title key="verdi.ernani" type="mus"
+							>Ernani</title>« überraschen <supplied resp="tr">mußte</supplied>.«<note
+							resp="tr" type="literatureLink">Vgl. <persName key="hanslick.eduard"
+								>Eduard Hanslick</persName>, <ref
 								target="https://archive.org/stream/diemoderneoperk00hansgoog#page/n266/mode/1up"
 								type="text">Verdi, in: Die Moderne Oper. Band 1: Kritiken und
 								Studien (Berlin 1875), S. 217–255; hier: S. 251</ref>.</note> Ein
-						Gleiches kann man mit Fug und Recht von dem <title key="verdi.requiem" type="mus"
-							>Requiem</title> sagen. Die italienische Gluth der Melodie und der
-						musikalischen Schilderung vermählte sich mit dem Studium der neueren
+						Gleiches kann man mit Fug und Recht von dem <title key="verdi.requiem"
+							type="mus">Requiem</title> sagen. Die italienische Gluth der Melodie und
+						der musikalischen Schilderung vermählte sich mit dem Studium der neueren
 						deutschen Partituren, und so entstanden <persName key="verdi.giuseppe"
 							>Verdi’s</persName> hervorragendste Werke.</p>
-					<p>»Und ist das »<title key="verdi.requiem" type="mus">Requiem</title>« kirchlich?« höre
-						ich fragen. Ja, es ist kirchlich, denn es ist voll künstlerischen Adels; es
-						ist nicht minder kirchlich als <title key="mozart.requiem" type="mus">Mozart’s</title>
-						oder <persName key="cherubini.luigi">Cherubini’s</persName> »<title
-							key="cherubini.requiem-c-moll" type="mus">Requiem</title>«. Wenn der Text des
-							»<title key="verdi.requiem" type="mus">Requiem</title>« und namentlich des »<hi
-							rend="italic"><title key="verdi.requiem.2" type="mus">dies irae</title></hi>«
-						selbst kirchlich ist, so kann man auch dessen modern-künstlerischer
-						Erfassung und musikalischer Uebertragung die Kirchlichkeit nicht absprechen.
-						Doch nun zu den Einzelheiten des »<title key="verdi.requiem" type="mus"
-							>Requiems</title>«, zu deren Besprechung ich allerdings auf den
-						Clavierauszug und mein Gedächtniss angewiesen bin, da die Verlagshandlung
-							<orgName key="ricordi">Ricordi</orgName> in <placeName key="mailand"
-							>Mailand</placeName> die Partitur nur zu Aufführungen ans der Hand
-						giebt.</p>
+					<p>»Und ist das »<title key="verdi.requiem" type="mus">Requiem</title>«
+						kirchlich?« höre ich fragen. Ja, es ist kirchlich, denn es ist voll
+						künstlerischen Adels; es ist nicht minder kirchlich als <title
+							key="mozart.requiem" type="mus">Mozart’s</title> oder <persName
+							key="cherubini.luigi">Cherubini’s</persName> »<title
+							key="cherubini.requiem-c-moll" type="mus">Requiem</title>«. Wenn der
+						Text des »<title key="verdi.requiem" type="mus">Requiem</title>« und
+						namentlich des »<hi rend="italic"><title key="verdi.requiem.2" type="mus"
+								>dies irae</title></hi>« selbst kirchlich ist, so kann man auch
+						dessen modern-künstlerischer Erfassung und musikalischer Uebertragung die
+						Kirchlichkeit nicht absprechen. Doch nun zu den Einzelheiten des »<title
+							key="verdi.requiem" type="mus">Requiems</title>«, zu deren Besprechung
+						ich allerdings auf den Clavierauszug und mein Gedächtniss angewiesen bin, da
+						die Verlagshandlung <orgName key="ricordi">Ricordi</orgName> in <placeName
+							key="mailand">Mailand</placeName> die Partitur nur zu Aufführungen ans
+						der Hand giebt.</p>
 				</body>
 			</text>
 			<text n="2">
 				<body rend="antiqua">
 					<cb break="null" n="100" type="initial"/>
-					<p>Der erste Satz des »<title key="verdi.requiem" type="mus">Requiem</title>« beginnt in
-						elegisch weicher Stimmung von grossem poetischen und klanglichen Reize: der
-						Schmerz um einen theueren Verstorbenen ist zwar wach in uns; der Glaube
-						aber, dass der Dahingeschiedene sich himmlischer Verklärung erfreut, nimmt
-						unserm Schmerze jede Herbheit. So verstehe ich die Anfangstakte des »<title
-							key="verdi.requiem" type="mus">Requiem</title>« :</p>
+					<p>Der erste Satz des »<title key="verdi.requiem" type="mus">Requiem</title>«
+						beginnt in elegisch weicher Stimmung von grossem poetischen und klanglichen
+						Reize: der Schmerz um einen theueren Verstorbenen ist zwar wach in uns; der
+						Glaube aber, dass der Dahingeschiedene sich himmlischer Verklärung erfreut,
+						nimmt unserm Schmerze jede Herbheit. So verstehe ich die Anfangstakte des
+							»<title key="verdi.requiem" type="mus">Requiem</title>« :</p>
 					<figure>
 						<label>I.</label>
 						<graphic url="amz_1876-02-16_099-i.png"/>
@@ -317,14 +324,14 @@
 					<cb break="yes" n="101" type="regular"/>
 					<p rend="noIndent">Eine gemessene und vertrauungsvolle Resignation drückt sich
 						in dem ku<supplied resp="tr">r</supplied>zen, kräftigen Fugato des
-						unbegleiteten Chores auf »<hi rend="italic"><title n="te-decet-hymnus"
-								key="verdi.requiem.1" type="mus">te decet hymnus</title></hi>« in F-dur 4/4,
-							<hi rend="italic">Poco più</hi>, aus, worauf sich der Eingang in A-moll
-						und A-dur fast unverändert wiederholt und zu der schön declamirten,
-						empfindungsvoll empfundenen Bitte des »<hi rend="italic"><title n="kyrie"
-								key="verdi.requiem.1" type="mus">Kyrie</title></hi>« überleitet, welche durch
-						das abwärtsschreitende Gegenthema des Basses einen besonderen Reiz
-						erhält:</p>
+						unbegleiteten Chores auf »<hi rend="italic"><title key="verdi.requiem.1"
+								n="te-decet-hymnus" type="mus">te decet hymnus</title></hi>« in
+						F-dur 4/4, <hi rend="italic">Poco più</hi>, aus, worauf sich der Eingang in
+						A-moll und A-dur fast unverändert wiederholt und zu der schön declamirten,
+						empfindungsvoll empfundenen Bitte des »<hi rend="italic"><title
+								key="verdi.requiem.1" n="kyrie" type="mus">Kyrie</title></hi>«
+						überleitet, welche durch das abwärtsschreitende Gegenthema des Basses einen
+						besonderen Reiz erhält:</p>
 					<figure>
 						<label>II.</label>
 						<graphic url="amz_1876-02-16_101-ii.png"/>
@@ -338,9 +345,9 @@
 						Bassgegenthemas in den Geigen aufwärtsschreitend angedeutet ist.
 						Wildstürmend bricht mit Orchesterschlägen, Geigenläufen, Tremolos und
 						chromatischen Trompetengängen das »<hi rend="italic"><title
-								key="verdi.requiem.2" type="mus">dies irae</title></hi>« herein, welches
-						eigentlich aus neun locker verbundenen Theilen besteht. Chor und Orchester
-						treten gleich zu Anfang in bedeutsamer Grossartigkeit auf:</p>
+								key="verdi.requiem.2" type="mus">dies irae</title></hi>« herein,
+						welches eigentlich aus neun locker verbundenen Theilen besteht. Chor und
+						Orchester treten gleich zu Anfang in bedeutsamer Grossartigkeit auf:</p>
 					<figure>
 						<label>III.</label>
 						<graphic url="amz_1876-02-16_101-iii.png"/>
@@ -362,8 +369,8 @@
 					<p rend="noIndent">der mehr und mehr heruntersteigt und sich in einem <hi
 							rend="italic">pp</hi> verliert. Mit <hi rend="italic">es</hi> stimmen
 						die Trompeten des Orchesters das »<hi rend="italic"><title
-								key="verdi.requiem.2.tuba-mirum" type="mus">tuba mirum</title></hi>« an,
-						während in der oberen Octave solche aus der Ferne antworten.</p>
+								key="verdi.requiem.2.tuba-mirum" type="mus">tuba mirum</title></hi>«
+						an, während in der oberen Octave solche aus der Ferne antworten.</p>
 				</body>
 			</text>
 			<text n="3">
@@ -380,17 +387,18 @@
 					<p rend="noIndent">Das Stutzen und Staunen des Todes scheint mir hier denn doch
 						nur zu derb realistisch ausgedrückt; aber: auch diese Stelle wirkt und geht
 						ohne vielen Aufenthalt vorüber. Das »<hi rend="italic"><title
-								key="verdi.requiem.2.liber-scriptus" type="mus">liber scriptus</title></hi>«
-						ist ein ausdrucksvolles nachcomponirtes Altsolo in D-moll, 4/4 <hi
-							rend="italic">Allegro molto sostenuto</hi>, ein Arioso mit schöner
-						Declamation, an dessen Stelle früher ein trockenes Chorfugato gestanden
-						hatte. Wieder rasen hierauf die Geigen zu dem Verse »<hi rend="italic"
-								><title key="verdi.requiem.2" type="mus">dies irae</title></hi>« wie bei IV.
-						in die Höhe und lassen ihre Tremolos herunterschwirren. Wehmüthig klagend
-						treten zu »<hi rend="italic"><title key="verdi.requiem.2.quid-sum-miser" type="mus"
-								>quid sum miser</title></hi>« Sopran-, Alt- und Tenorsolo, zuerst
-						einzeln, dann zusammen ein, von den Holzbläsern und namentlich dem Fagotte
-						sanft und eigenartig begleitet:</p>
+								key="verdi.requiem.2.liber-scriptus" type="mus">liber
+								scriptus</title></hi>« ist ein ausdrucksvolles nachcomponirtes
+						Altsolo in D-moll, 4/4 <hi rend="italic">Allegro molto sostenuto</hi>, ein
+						Arioso mit schöner Declamation, an dessen Stelle früher ein trockenes
+						Chorfugato gestanden hatte. Wieder rasen hierauf die Geigen zu dem Verse
+							»<hi rend="italic"><title key="verdi.requiem.2" type="mus">dies
+								irae</title></hi>« wie bei IV. in die Höhe und lassen ihre Tremolos
+						herunterschwirren. Wehmüthig klagend treten zu »<hi rend="italic"><title
+								key="verdi.requiem.2.quid-sum-miser" type="mus">quid sum
+								miser</title></hi>« Sopran-, Alt- und Tenorsolo, zuerst einzeln,
+						dann zusammen ein, von den Holzbläsern und namentlich dem Fagotte sanft und
+						eigenartig begleitet:</p>
 					<figure>
 						<label>VI.</label>
 						<graphic url="amz_1876-02-23_117-vi.png"/>
@@ -404,8 +412,8 @@
 						<desc>Dies irae, Takt 270–275</desc>
 					</figure>
 					<p rend="noIndent">noch zu bemerken ist. Nahezu unvermittelt tritt das scharf
-						accentuirte »<hi rend="italic"><title key="verdi.requiem.2.rex-tremendae" type="mus"
-								>rex tremendae majestatis</title></hi>«</p>
+						accentuirte »<hi rend="italic"><title key="verdi.requiem.2.rex-tremendae"
+								type="mus">rex tremendae majestatis</title></hi>«</p>
 					<figure>
 						<label>VIII.</label>
 						<graphic url="amz_1876-02-23_119-viii.png"/>
@@ -422,8 +430,8 @@
 						erhält. In dieser Nummer herrscht ein sehr frequenter Tonartenwechsel;
 						dieselbe schliesst in C-dur und führt zu dem etwas sentimental angehauchten,
 						übrigens ausserordentlich wohlklingenden und mit einer echt italienischen
-						Cadenz endigenden »<hi rend="italic"><title key="verdi.requiem.2.recordare" type="mus"
-								>recordare</title></hi>«, Duett für Sopran und Alt</p>
+						Cadenz endigenden »<hi rend="italic"><title key="verdi.requiem.2.recordare"
+								type="mus">recordare</title></hi>«, Duett für Sopran und Alt</p>
 					<figure>
 						<label>X.</label>
 						<graphic url="amz_1876-02-23_119-x.png"/>
@@ -433,16 +441,16 @@
 						F-moll wesentlich erhöht wird. Recht seufzend stimmt ein Tenorsolo das
 							»<title key="verdi.requiem.2.ingemisco" type="mus"><hi rend="italic"
 								>ingemisco</hi></title>« in C-moll an und schliesst hieran das »<hi
-							rend="italic"><title n="qui-mariam" key="verdi.requiem.2.ingemisco" type="mus">qui
-								Mariam absolvisti</title></hi>« in Es-dur 4/4, <hi rend="italic"
-							>Poco meno mosso</hi>, voll weicher Frömmigkeit mit einer ausgeprägt
-						italienischen Es dur-Cantilene. Schnell leitet das Basssolo mit scharfer
-						Declamation des »<hi rend="italic"><title key="verdi.requiem.2.confutatis" type="mus"
-								>confutatis maledictis</title></hi>« nach Cis-moll üher, in welchem
-						auf »<hi rend="italic"><title n="oro-supplex"
-								key="verdi.requiem.2.confutatis" type="mus">oro supplex</title></hi>« eine der
-						eigenthümlichst harmonisirten und doch schönsten Stellen des Werkes
-						beginnt:</p>
+							rend="italic"><title key="verdi.requiem.2.ingemisco" n="qui-mariam"
+								type="mus">qui Mariam absolvisti</title></hi>« in Es-dur 4/4, <hi
+							rend="italic">Poco meno mosso</hi>, voll weicher Frömmigkeit mit einer
+						ausgeprägt italienischen Es dur-Cantilene. Schnell leitet das Basssolo mit
+						scharfer Declamation des »<hi rend="italic"><title
+								key="verdi.requiem.2.confutatis" type="mus">confutatis
+								maledictis</title></hi>« nach Cis-moll üher, in welchem auf »<hi
+							rend="italic"><title key="verdi.requiem.2.confutatis" n="oro-supplex"
+								type="mus">oro supplex</title></hi>« eine der eigenthümlichst
+						harmonisirten und doch schönsten Stellen des Werkes beginnt:</p>
 					<figure>
 						<label>XI.</label>
 						<graphic url="amz_1876-02-23_119-xi.png"/>
@@ -451,71 +459,74 @@
 					<p>Jedem Conservatoriumsschüler würde dieselbe als höchst fehlerhaft abcorrigirt
 						werden; dem Meister darf Niemand etwas dagegen einwenden.</p>
 					<p>An dieses Basssolo schliesst sich eine Wiederholung des Anfanges des »<hi
-							rend="italic"><title key="verdi.requiem.2" type="mus">dies irae</title></hi>« Nr.
-						III bis zu der Tremolandostelle, statt deren sich spannend die herrlich
-						erfundene trauervolle Melodie des »<hi rend="italic"><title
-								key="verdi.requiem.2.lacrymosa" type="mus">lacrymosa</title></hi>« in B-moll,
-						zuerst vom Alt gesungen, vorbereitet.</p>
+							rend="italic"><title key="verdi.requiem.2" type="mus">dies
+							irae</title></hi>« Nr. III bis zu der Tremolandostelle, statt deren sich
+						spannend die herrlich erfundene trauervolle Melodie des »<hi rend="italic"
+								><title key="verdi.requiem.2.lacrymosa" type="mus"
+							>lacrymosa</title></hi>« in B-moll, zuerst vom Alt gesungen,
+						vorbereitet.</p>
 					<figure>
 						<label>XII.</label>
 						<graphic url="amz_1876-02-23_119-xii.png"/>
 						<desc>Dies irae, Takt 624–633</desc>
 					</figure>
-					<p>Eine <persName key="mozart.wolfgang-amadeus">Mozart’sche</persName>
-						Imitation erblicke ich in den bei der Wiederholung ertönenden
-						nachschlagenden <hi rend="italic">sf</hi>-Vierteln und Achteln, welche »<hi
-							rend="italic">come un lamento</hi>« erklingen sollen. Bei »<hi
-							rend="italic">huic ergo parce deus</hi>« tritt der Chor mit demselben
-						Thema erst in Des-dur, dann in F-dur zu hoch gelegenen Geigentremolos ein
-						und nimmt an der thematischen Behandlung der Melodie in verkürzter Form
-						theil, welche schliesslich nur noch von den Streich- und Singbässen
-						angestimmt wird. »<hi rend="italic">Dona eis requiem</hi>« singt der Chor im
-						Pianissimo auf dem <hi rend="italic">f unisono</hi> zum Tremolo der
-						Streicher, welches nach B-dur führt. In G-dur erklingt »<hi rend="italic"
-							>amen</hi>«; mit dem <hi rend="italic">pp</hi> B<supplied resp="tr"
-							>-</supplied>dur-Accord antwortet das Orchester.</p>
-					<p>Dieser letzte Theil des »<hi rend="italic"><title key="verdi.requiem.2" type="mus">dies
-								irae</title></hi>« ist unstreitig ob seines melodischen Gehaltes und
-						seiner Abrundung eine der schönsten Partien des ganzen Werkes und ein höchst
-						stimmungsvolles Musikstück.</p>
+					<p>Eine <persName key="mozart.wolfgang-amadeus">Mozart’sche</persName> Imitation
+						erblicke ich in den bei der Wiederholung ertönenden nachschlagenden <hi
+							rend="italic">sf</hi>-Vierteln und Achteln, welche »<hi rend="italic"
+							>come un lamento</hi>« erklingen sollen. Bei »<hi rend="italic">huic
+							ergo parce deus</hi>« tritt der Chor mit demselben Thema erst in
+						Des-dur, dann in F-dur zu hoch gelegenen Geigentremolos ein und nimmt an der
+						thematischen Behandlung der Melodie in verkürzter Form theil, welche
+						schliesslich nur noch von den Streich- und Singbässen angestimmt wird. »<hi
+							rend="italic">Dona eis requiem</hi>« singt der Chor im Pianissimo auf
+						dem <hi rend="italic">f unisono</hi> zum Tremolo der Streicher, welches nach
+						B-dur führt. In G-dur erklingt »<hi rend="italic">amen</hi>«; mit dem <hi
+							rend="italic">pp</hi> B<supplied resp="tr">-</supplied>dur-Accord
+						antwortet das Orchester.</p>
+					<p>Dieser letzte Theil des »<hi rend="italic"><title key="verdi.requiem.2"
+								type="mus">dies irae</title></hi>« ist unstreitig ob seines
+						melodischen Gehaltes und seiner Abrundung eine der schönsten Partien des
+						ganzen Werkes und ein höchst stimmungsvolles Musikstück.</p>
 					<p>Wie sich aus der vorstehenden Betrachtung des »<hi rend="italic"><title
-								key="verdi.requiem.2" type="mus">dies irae</title></hi>« ergiebt, ist dasselbe
-						im engsten Anschluss an die Textworte in grösstentheils dramatischer Weise
-						durchcomponirt, und man muss bei den einzelnen Musikstücken die höchst
-						gelungene Wiedergabe der durch den Text ausgesprochenen Stimmung in dem
-						musikalischen Colorite bewundern. Ein Bedenken ergiebt sich allerdings beim
-						Studium des Clavierauszuges: der häufige Wechsel der Tonarten und Taktarten
-						innerhalb der grösseren liturgischen Theile, welche in eine beträchtliche
-						Anzahl locker verbundener kleiner Musikstücke zerfallen; und zwar wird
-						dieses Bedenken nicht blos, wenn auch zumeist bei »<hi rend="italic"><title
-								key="verdi.requiem.2" type="mus">dies irae</title></hi>« rege, weshalb ich
-						desselben gleich hier erwähne. Beim Hören des Werkes vergisst man dieses
-						Bedenken jedoch vollständig; die Fülle des interessanten und anregenden
-						Details fesselt den Musiker praktisch so sehr, dass er unbewusst kleine
-						theoretische Anstände bei Seite setzt.</p>
+								key="verdi.requiem.2" type="mus">dies irae</title></hi>« ergiebt,
+						ist dasselbe im engsten Anschluss an die Textworte in grösstentheils
+						dramatischer Weise durchcomponirt, und man muss bei den einzelnen
+						Musikstücken die höchst gelungene Wiedergabe der durch den Text
+						ausgesprochenen Stimmung in dem musikalischen Colorite bewundern. Ein
+						Bedenken ergiebt sich allerdings beim Studium des Clavierauszuges: der
+						häufige Wechsel der Tonarten und Taktarten innerhalb der grösseren
+						liturgischen Theile, welche in eine beträchtliche Anzahl locker verbundener
+						kleiner Musikstücke zerfallen; und zwar wird dieses Bedenken nicht blos,
+						wenn auch zumeist bei »<hi rend="italic"><title key="verdi.requiem.2"
+								type="mus">dies irae</title></hi>« rege, weshalb ich desselben
+						gleich hier erwähne. Beim Hören des Werkes vergisst man dieses Bedenken
+						jedoch vollständig; die Fülle des interessanten und anregenden Details
+						fesselt den Musiker praktisch so sehr, dass er unbewusst kleine theoretische
+						Anstände bei Seite setzt.</p>
 				</body>
 			</text>
 			<text n="4">
 				<body rend="antiqua">
 					<p>Ein durchaus stilvolles, in sich geschlossenes Musikstück ist das <title
-							key="verdi.requiem.3" type="mus">Offertorium</title> »<hi rend="italic"><title
-								n="domine-jesu" key="verdi.requiem.3" type="mus">Domine</title></hi>« für vier
-						Solostimmen und Orchester, beginnend und schliessend in sanftem As-dur <hi
-							rend="italic">Andante mosso</hi> 6/8, welches nach einer wirksamen
-						Einleitung durch aufwärts strebende Cello-Gänge die liebenswürdige
-						Melodie:</p>
+							key="verdi.requiem.3" type="mus">Offertorium</title> »<hi rend="italic"
+								><title key="verdi.requiem.3" n="domine-jesu" type="mus"
+								>Domine</title></hi>« für vier Solostimmen und Orchester, beginnend
+						und schliessend in sanftem As-dur <hi rend="italic">Andante mosso</hi> 6/8,
+						welches nach einer wirksamen Einleitung durch aufwärts strebende Cello-Gänge
+						die liebenswürdige Melodie:</p>
 					<figure>
 						<label>XIII.</label>
 						<graphic url="amz_1876-03-01_133-xiii.png"/>
 						<desc>Offertorio, Takt 13–15</desc>
 					</figure>
 					<p rend="noIndent">zur Durchführung bringt. Auf »<hi rend="italic"><title
-								n="quam-olim-abrahae" key="verdi.requiem.3" type="mus">quam olim
+								key="verdi.requiem.3" n="quam-olim-abrahae" type="mus">quam olim
 								Abrahae</title></hi>« setzt den Textworten entsprechend und heftig
 						drängend in F-moll <hi rend="italic">Allegro mosso</hi> ein imitatorisches
 						Motiv ein, welches eine mächtige Steigerung herbeiführt und unerwartet zu
-						dem ungemein zarten und lieblichen »<hi rend="italic"><title n="hostias"
-								key="verdi.requiem.3" type="mus">Hostias</title></hi>« hinüberleitet:</p>
+						dem ungemein zarten und lieblichen »<hi rend="italic"><title
+								key="verdi.requiem.3" n="hostias" type="mus">Hostias</title></hi>«
+						hinüberleitet:</p>
 					<figure>
 						<label>XIV.</label>
 						<graphic url="amz_1876-03-01_135-xiv.png"/>
@@ -524,15 +535,16 @@
 					<p rend="noIndent">Diese schöne getragene Melodie nehmen die einzelnen
 						Solopartien abwechselnd stimmführend auf; ihre Versetzung nach C-moll hat
 						etwas ungemein rührendes. Noch einmal drängt das »<hi rend="italic"><title
-								n="quam-olim-abrahae" key="verdi.requiem.3" type="mus">quam olim
+								key="verdi.requiem.3" n="quam-olim-abrahae" type="mus">quam olim
 								Abrahae</title></hi>« in F-moll an, worauf das <title
-							key="verdi.requiem.3" type="mus">Offertorium</title> mit As-dur 6/8 und dem ad
-						XIII notirten sanften Thema abschliesst. Feierliches Trompetengeschmetter
-						auf <hi rend="italic">c</hi> eröffnet das »<hi rend="italic"><title
-								key="verdi.requiem.4" type="mus">Sanctus</title></hi>«, der volle Chor mit dem
-						Orchester setzt mit dem Dominantaccorde mächtig ein und nach einem Halte
-						beginnt »eine Doppelfuge für zwei Chöre«, ebenso prächtig als glanzvoll, von
-						frischer aber wenig bedeutsamer Erfindung und eben solcher Durchführung:</p>
+							key="verdi.requiem.3" type="mus">Offertorium</title> mit As-dur 6/8 und
+						dem ad XIII notirten sanften Thema abschliesst. Feierliches
+						Trompetengeschmetter auf <hi rend="italic">c</hi> eröffnet das »<hi
+							rend="italic"><title key="verdi.requiem.4" type="mus"
+							>Sanctus</title></hi>«, der volle Chor mit dem Orchester setzt mit dem
+						Dominantaccorde mächtig ein und nach einem Halte beginnt »eine Doppelfuge
+						für zwei Chöre«, ebenso prächtig als glanzvoll, von frischer aber wenig
+						bedeutsamer Erfindung und eben solcher Durchführung:</p>
 					<figure>
 						<label>XV.</label>
 						<graphic url="amz_1876-03-01_135-xv.png"/>
@@ -540,21 +552,21 @@
 					</figure>
 					<p rend="noIndent">Ins Malerische übersetzt, würde man hier sagen können, dass
 						zumeist die effectvolle Farbengebung wirkt. Das »<hi rend="italic"><title
-								n="benedictus" key="verdi.requiem.4" type="mus">Benedictus</title></hi>«,
-						dessen Textworte hier gleich mit untergebracht sind, erscheint zuerst mit
-						einer <hi rend="italic">pp</hi>-Engführung des ersten Themas, sodann nimmt
-						es das letztere vom zweiten Takte an in der Vergrösserung auf. Dieser
-						choralartige Gesang wird von den Geigen mit Staccati’s fein umspielt;
-						dröhnend tritt sodann das Orchester mit dem zweiten Thema wieder ein und in
-						ausserordentlicher Klangfülle geht das »<hi rend="italic"><title
-								key="verdi.requiem.4" type="mus">Sanctus</title></hi>« zu Ende. Und so wäre
-						ich bei der Perle des ganzen Werkes, dem »<hi rend="italic"><title
-								key="verdi.requiem.5" type="mus">Agnus dei</title></hi>« angelangt. Es ist
-						wahrhaftig nicht zu viel gesagt, wenn ich dasselbe ein nach jeder Richtung
-						vollendetes, ungemein zartes Musikstück nenne. Seine höchst anziehende
-						Melodie wird zuerst vom Sopran und Alt in der Octave und ohne Begleitung
-						vorgetragen, wobei eine wohlklingende Altstimme von herrlichster Wirkung
-						ist.</p>
+								key="verdi.requiem.4" n="benedictus" type="mus"
+							>Benedictus</title></hi>«, dessen Textworte hier gleich mit
+						untergebracht sind, erscheint zuerst mit einer <hi rend="italic"
+						>pp</hi>-Engführung des ersten Themas, sodann nimmt es das letztere vom
+						zweiten Takte an in der Vergrösserung auf. Dieser choralartige Gesang wird
+						von den Geigen mit Staccati’s fein umspielt; dröhnend tritt sodann das
+						Orchester mit dem zweiten Thema wieder ein und in ausserordentlicher
+						Klangfülle geht das »<hi rend="italic"><title key="verdi.requiem.4"
+								type="mus">Sanctus</title></hi>« zu Ende. Und so wäre ich bei der
+						Perle des ganzen Werkes, dem »<hi rend="italic"><title key="verdi.requiem.5"
+								type="mus">Agnus dei</title></hi>« angelangt. Es ist wahrhaftig
+						nicht zu viel gesagt, wenn ich dasselbe ein nach jeder Richtung vollendetes,
+						ungemein zartes Musikstück nenne. Seine höchst anziehende Melodie wird
+						zuerst vom Sopran und Alt in der Octave und ohne Begleitung vorgetragen,
+						wobei eine wohlklingende Altstimme von herrlichster Wirkung ist.</p>
 					<figure>
 						<label>XVI.</label>
 						<graphic url="amz_1876-03-01_135-xvi.png"/>
@@ -563,17 +575,17 @@
 					<p rend="noIndent">Es wird wohl nur des allgemeinen Eindruckes wegen, aber nicht
 						ganz mit Unrecht behauptet, diese Melodie erinnere an die berühmte <persName
 							key="meyerbeer.giacomo">Meyerbeer’sche</persName>
-						<title key="meyerbeer.l-africaine.5.21.grande-scene-du-mancenillier" type="mus"
-							>Manzanillobaumeinleitung</title>. Im Verlaufe verliert sich diese
-						Erinnerung mehr und mehr. Dem Sopran und Alt antwortet zunächst wieder ohne
-						harmonische Begleitung der Chor in der tieferen Octave; es erscheinen sodann
-						die Solostimmen mit derselben Melodie in C-moll, einfach harmonisirt, worauf
-						der harmonisirte Einsatz des Chores und Orchesters mit dem Thema wieder
-						rührend wirkt. Nochmal bringen die beiden Solostimmen ihr Octavenunisono,
-						wie von Sphärenklängen umspielt durch die höheren Holzinstrumente in
-						Achtelbewegung, nochmals antwortet der Chor, über welchem die Geigen in
-						höchster Lage hinschweben; die Solostimmen schliessen mit der Vergrösserung
-						der Schlussphrase:</p>
+						<title key="meyerbeer.l-africaine.5.21.grande-scene-du-mancenillier"
+							type="mus">Manzanillobaumeinleitung</title>. Im Verlaufe verliert sich
+						diese Erinnerung mehr und mehr. Dem Sopran und Alt antwortet zunächst wieder
+						ohne harmonische Begleitung der Chor in der tieferen Octave; es erscheinen
+						sodann die Solostimmen mit derselben Melodie in C-moll, einfach harmonisirt,
+						worauf der harmonisirte Einsatz des Chores und Orchesters mit dem Thema
+						wieder rührend wirkt. Nochmal bringen die beiden Solostimmen ihr
+						Octavenunisono, wie von Sphärenklängen umspielt durch die höheren
+						Holzinstrumente in Achtelbewegung, nochmals antwortet der Chor, über welchem
+						die Geigen in höchster Lage hinschweben; die Solostimmen schliessen mit der
+						Vergrösserung der Schlussphrase:</p>
 					<figure>
 						<label>XVII.</label>
 						<graphic url="amz_1876-03-01_135-xvii.png"/>
@@ -582,13 +594,13 @@
 					<p rend="noIndent">Kein Wunder, wenn gerade diese Nummer am aller beifälligsten,
 						ja enthusiastisch aufgenommen zu werden pflegt, wie dies in <placeName
 							key="paris">Paris</placeName>, in <placeName key="wien"
-							>Wien</placeName>, auch hier geschah. Dieselbe musste bei der hiesigen
+						>Wien</placeName>, auch hier geschah. Dieselbe musste bei der hiesigen
 						Aufführung sofort wiederholt werden. Nur ein barbarisches Concertpublikum
 						könnte davon nicht entzückt sein.</p>
 					<p>Fast recitativisch beginnt der Solo-Alt das »<hi rend="italic"><title
-								key="verdi.requiem.6" type="mus">lux aeterna</title></hi>« zu dem Glitzern
-						hoher Geigentremolos, welche mit ihrem schroffen Accordwechsel an den
-						»Abendstern« gemahnen. Das Basssolo setzt mit dem düstern Motiv ein:</p>
+								key="verdi.requiem.6" type="mus">lux aeterna</title></hi>« zu dem
+						Glitzern hoher Geigentremolos, welche mit ihrem schroffen Accordwechsel an
+						den »Abendstern« gemahnen. Das Basssolo setzt mit dem düstern Motiv ein:</p>
 					<figure>
 						<label>XVIII.</label>
 						<graphic url="amz_1876-03-01_135-xviii.png"/>
@@ -605,44 +617,45 @@
 					</figure>
 					<p rend="noIndent">und dauert fast ununterbrochen fort bis zum Schlusse dieser
 						Nummer. Das letzte Musikstück »<hi rend="italic"><title
-								key="verdi.requiem.7" type="mus">libera</title></hi>« beginnt mit eintöniger
-						Recitation der Textworte durch den Solosopran auf dem <hi rend="italic"
-							>c</hi>»ohne bestimmtes Tempo, in der Art kirchlicher Psalmodien«;
-						einige Orchester-Accorde führen nach Es-dur. Der Chor trägt in gleicher
-						Weise auf dem Es dur-Accorde <hi rend="italic">pp</hi> ohne Begleitung die
-						Worte »<hi rend="italic">libera me, domine, de morte aeterna, in die illa
-							tremenda</hi>« und steigt zu dem Satze »<hi rend="italic">quando coeli
-							movendi sunt et terra</hi>« unmittelbar zum Des dur-Accord hinab. Der
-						Effect dieser Stelle ist wieder ganz neu, frappant und eigenartig. In C-moll
-							<hi rend="superscript">4</hi>/<hi rend="subscript">4</hi>
+								key="verdi.requiem.7" type="mus">libera</title></hi>« beginnt mit
+						eintöniger Recitation der Textworte durch den Solosopran auf dem <hi
+							rend="italic">c</hi>»ohne bestimmtes Tempo, in der Art kirchlicher
+						Psalmodien«; einige Orchester-Accorde führen nach Es-dur. Der Chor trägt in
+						gleicher Weise auf dem Es dur-Accorde <hi rend="italic">pp</hi> ohne
+						Begleitung die Worte »<hi rend="italic">libera me, domine, de morte aeterna,
+							in die illa tremenda</hi>« und steigt zu dem Satze »<hi rend="italic"
+							>quando coeli movendi sunt et terra</hi>« unmittelbar zum Des dur-Accord
+						hinab. Der Effect dieser Stelle ist wieder ganz neu, frappant und
+						eigenartig. In C-moll <hi rend="superscript">4</hi>/<hi rend="subscript"
+							>4</hi>
 						<hi rend="italic">Moderato</hi> erhält der Solosopran nochmals eine kleine
 						declamatorisch-melodiöse Episode, welche <hi rend="italic">pppppp</hi> in
 						C-dur endigt. Nach einer Generalpause bricht wieder mit ungestümer,
-						hinreissender Gewalt das <hi rend="italic"><title n="dies-irae"
-								key="verdi.requiem.7" type="mus">dies irae</title></hi> wie sub III herein und
-						steigt ganz in seiner ersten Ausdehnung mit den Tremolos sub IV schliesslich
-						nach F-dur hinab. Die Stelle erscheint hier zum dritten Male, wodurch sie
-						sich selbst etwas abschwächt: ich würde jedoch lieber die erste als diese
-						zweite Reprise gestrichen wissen. Ausserordentlich fein wirkt hierauf eine
-						Wiederholung des »<hi rend="italic"><title n="requiem-aeternam"
-								key="verdi.requiem.7" type="mus">requiem</title></hi>« (sub Nr. I) aus der
-						ersten Nummer durch Solosopran und Chor ohne Begleitung in B-moll mit
-						kleiner Variation in der Weiterführung und dem Schlusse in B-dur. Ein
-						nochmaliges recitativisches Sopransolo leitet unmittelbar in die Schlussfuge
-						ein:</p>
+						hinreissender Gewalt das <hi rend="italic"><title key="verdi.requiem.7"
+								n="dies-irae" type="mus">dies irae</title></hi> wie sub III herein
+						und steigt ganz in seiner ersten Ausdehnung mit den Tremolos sub IV
+						schliesslich nach F-dur hinab. Die Stelle erscheint hier zum dritten Male,
+						wodurch sie sich selbst etwas abschwächt: ich würde jedoch lieber die erste
+						als diese zweite Reprise gestrichen wissen. Ausserordentlich fein wirkt
+						hierauf eine Wiederholung des »<hi rend="italic"><title
+								key="verdi.requiem.7" n="requiem-aeternam" type="mus"
+								>requiem</title></hi>« (sub Nr. I) aus der ersten Nummer durch
+						Solosopran und Chor ohne Begleitung in B-moll mit kleiner Variation in der
+						Weiterführung und dem Schlusse in B-dur. Ein nochmaliges recitativisches
+						Sopransolo leitet unmittelbar in die Schlussfuge ein:</p>
 					<figure>
 						<label>XX.</label>
 						<graphic url="amz_1876-03-01_137-xx.png"/>
 						<desc>Libera me, Takt 179–186</desc>
 					</figure>
 					<p rend="noIndent">Das Thema mit den etwas plumpen Accordschlägen ist wie jenes
-						des <hi rend="italic"><title key="verdi.requiem.4" type="mus">Sanctus</title></hi>,
-						mit dessen Umkehrung es zu grosse Aehnlichkeit hat, nicht besonders
-						interessant, wesswegen dessen gedehnte Durchführung mit den üblichen
-						Fugen-Kunststückchen doch zu lange währt; dieser Fuge hätte eine um die
-						Hälfte kürzere Fassung nur nützen können. Nach einer gut angelegten,
-						mächtigen Steigerung schliesst das <hi rend="italic"><title
-								key="verdi.requiem" type="mus">Requiem</title></hi>
+						des <hi rend="italic"><title key="verdi.requiem.4" type="mus"
+								>Sanctus</title></hi>, mit dessen Umkehrung es zu grosse
+						Aehnlichkeit hat, nicht besonders interessant, wesswegen dessen gedehnte
+						Durchführung mit den üblichen Fugen-Kunststückchen doch zu lange währt;
+						dieser Fuge hätte eine um die Hälfte kürzere Fassung nur nützen können. Nach
+						einer gut angelegten, mächtigen Steigerung schliesst das <hi rend="italic"
+								><title key="verdi.requiem" type="mus">Requiem</title></hi>
 						<hi rend="italic">pppp</hi> in C-dur; »<hi rend="italic">libera me</hi>«
 						tönt es im Unisono noch dumpf aus der Gruft herauf und eine mit fürstlichem
 						Gepränge ausgestattete Todtenfeier ist zu Ende.</p>
@@ -661,13 +674,13 @@
 						durch Hofkapellmeister <persName key="wuellner.franz">Wüllner’s</persName>
 						Bemühungen zu Stande kam, ist der Eindruck ein weit bedeutenderer und
 						grossartigerer. Von den Solisten trafen am meisten Frl. <hi rend="widespace"
-								><persName key="schefsky.josephine">Schefzky</persName></hi> — Alt
-						— und Herr <hi rend="widespace"><persName key="nachbaur.franz"
+								><persName key="schefsky.josephine">Schefzky</persName></hi> — Alt —
+						und Herr <hi rend="widespace"><persName key="nachbaur.franz"
 								>Nachbaur</persName></hi> — Tenor — die erforderliche italienische
 						Wärme; dem Frl. <hi rend="widespace"><persName key="radecke.luise"
 								>Radecke</persName></hi> — Sopran und Herrn <hi rend="widespace"
-								><persName key="bausewein.kaspar">Bausewein</persName></hi> — Bass
-						— lagen ihre Partien etwas zu hoch. Letzterer sang mit viel hohlem Pathos,
+								><persName key="bausewein.kaspar">Bausewein</persName></hi> — Bass —
+						lagen ihre Partien etwas zu hoch. Letzterer sang mit viel hohlem Pathos,
 						ohne seine Soli entsprechend zur Geltung zu bringen. Chor und Orchester
 						waren im Allgemeinen sehr gut, aber der Chor im Klange etwas zu schwach.
 						Eine gewisse Freiheit im Tempo und stellenweise ein kleines <hi
@@ -675,12 +688,12 @@
 						Charakter des Werkes sicher nicht geschadet; mit deutschen Sängern und
 						Orchestern sind allerdings diese italienischen Effectkünste nicht leicht zu
 						erzielen.</p>
-					<p>Eine Wiederholung des »<hi rend="italic"><title key="verdi.requiem" type="mus"
-								>Requiem</title></hi>« in der Fastensaison ist nichts weniger als
-						unwahrscheinlich und wird hier vielseitig gewünscht — zum nicht geringen
-						Verdrusse natürlich der Zukunftsmusiker. Ich schliesse mit dem berechtigten
-						Wunsche, dass das Werk in seiner vollen Bedeutung auch anderwärts im
-						deutschen Reiche möge erkannt und gewürdigt werden!</p>
+					<p>Eine Wiederholung des »<hi rend="italic"><title key="verdi.requiem"
+								type="mus">Requiem</title></hi>« in der Fastensaison ist nichts
+						weniger als unwahrscheinlich und wird hier vielseitig gewünscht — zum nicht
+						geringen Verdrusse natürlich der Zukunftsmusiker. Ich schliesse mit dem
+						berechtigten Wunsche, dass das Werk in seiner vollen Bedeutung auch
+						anderwärts im deutschen Reiche möge erkannt und gewürdigt werden!</p>
 				</body>
 			</text>
 		</group>

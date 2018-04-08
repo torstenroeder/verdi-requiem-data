@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Tonkunst, Berlin, 25. März 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tonkunst_1876-03-25_leipzig-wiesbaden.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/><placeName key="wiesbaden"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+				<placeName key="wiesbaden"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -37,21 +39,23 @@
 	</teiHeader>
 	<!--<graphic n="tonkunst_1876-03-25_150.png"/>-->
 	<text xml:lang="de">
-		<body rend="fraktur">
+		<front rend="fraktur">
 			<pb n="148"/>
 			<head>Musikpflege.</head>
+		</front>
+		<body rend="fraktur">
 			<pb n="149"/>
 			<p><hi rend="bold kanzlei">Concerte.</hi>
 				<pb n="150" type="skipped"/>
-				<rs key="leipzig.1876.1" type="event"><hi rend="widespace"><placeName
-							key="leipzig">Leipzig</placeName></hi>: <placeName
-						key="leipzig.gewandhaus">Gewandhaus</placeName>-<title key="verdi.requiem" type="mus"
+				<rs key="leipzig.1876.1" type="event"><hi rend="widespace"><placeName key="leipzig"
+							>Leipzig</placeName></hi>: <placeName key="leipzig.gewandhaus"
+						>Gewandhaus</placeName>-<title key="verdi.requiem" type="mus"
 						>Verdi-Messe</title>.</rs>
 				<gap resp="tr"/>
 				<rs key="wiesbaden.1876.1" type="event"><hi rend="widespace"><placeName
 							key="wiesbaden">Wiesbaden</placeName></hi>: <gap resp="tr"/>
 						Cäcilien-V<ex>erein</ex>. <title key="verdi.requiem" type="mus"
-					>Verdi-Requiem</title>.</rs></p>
+						>Verdi-Requiem</title>.</rs></p>
 		</body>
 	</text>
 </TEI>

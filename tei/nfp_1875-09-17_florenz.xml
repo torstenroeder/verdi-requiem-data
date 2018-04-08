@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 17. September 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nfp_1875-09-17_florenz.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="fri" when-iso="1875-09-17"/>
 					<biblScope unit="issue">3974</biblScope>
-					<biblScope unit="subIssue">3974</biblScope>
+					<biblScope unit="subIssue">Abendblatt</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">2</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="florenz"/></creation>
+			<creation>
+				<placeName key="florenz"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -43,11 +44,11 @@
 	<text xml:lang="de">
 		<body rend="fraktur">
 			<p>[Ein Schreiben <persName key="verdi.giuseppe">Verdi’s</persName>.] Der Compositeur
-				der <title key="verdi.requiem" type="mus">Manzoni-Messe</title> hat mit seiner ablehnenden
-				Antwort, zur Michel-Angelo-Feier in <placeName key="florenz">Florenz</placeName>
-				persönlich mitzuwirken, in einem Wespenneste gestöbert. Sein Freund und Verleger
-					<persName cert="high" key="ricordi.tito">Ricordi</persName> glaubt auf die
-				schmerzhaften Stichwunden, die Maestro <persName key="verdi.giuseppe"
+				der <title key="verdi.requiem" type="mus">Manzoni-Messe</title> hat mit seiner
+				ablehnenden Antwort, zur Michel-Angelo-Feier in <placeName key="florenz"
+					>Florenz</placeName> persönlich mitzuwirken, in einem Wespenneste gestöbert.
+				Sein Freund und Verleger <persName cert="high" key="ricordi.tito">Ricordi</persName>
+				glaubt auf die schmerzhaften Stichwunden, die Maestro <persName key="verdi.giuseppe"
 					>Verdi</persName> seither zu erleiden hat, Balsam zu träufeln, indem er von
 				diesem einen Brief älteren Datums, und zwar aus dem Jahre <date when-iso="1868"
 					>1868</date> reproducirt, der also stylisirt ist:</p>

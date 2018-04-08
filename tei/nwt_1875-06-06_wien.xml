@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neues Wiener Tagblatt, 6. Juni 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nwt_1875-06-06_von-gestern-und-morgen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -41,7 +42,7 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<pb break="null" n="1a" type="initial"/>
+			<pb n="1a"/>
 			<head rend="larger">Von gestern und morgen.</head>
 			<p>In einer Zeit, in welcher die Schauspielhäuser immer mehr und mehr den Charakter
 				stiller Beschaulichkeit für den der lauten Belustigung eintauschen und sich
@@ -54,13 +55,14 @@
 				weltlichen Gesanges die Klänge andächtiger Erbauung in den lustgemiedenen Räumen
 				emporbrausen zu lassen und dort, wo man seit Jahr und Tag so viel Abende des
 				Schreckens durchmacht, nunmehr den „Tag des Schreckens“ dem Gemüthe des Hörers
-				volltönend zur Ahnung zu bringen. Die Aufführung des <title key="verdi.requiem" type="mus"
-					>Requiems</title> von <hi rend="widespace"><persName key="verdi.giuseppe"
-						>Verdi</persName></hi> in der <placeName key="wien.hof-operntheater"
-					>Hofoper</placeName> kann daher nur als ein außerordentlich zeitgemäßer Gedanke
-				bezeichnet werden, wenngleich nicht in Abrede zu stellen ist, daß die praktische
-				Verlebendigung dieses Gedankens an dem Uebersehen eines, vielleicht nebensächlich
-				scheinenden, doch aber sehr entscheidenden Umstandes leidet.</p>
+				volltönend zur Ahnung zu bringen. Die Aufführung des <title key="verdi.requiem"
+					type="mus">Requiems</title> von <hi rend="widespace"><persName
+						key="verdi.giuseppe">Verdi</persName></hi> in der <placeName
+					key="wien.hof-operntheater">Hofoper</placeName> kann daher nur als ein
+				außerordentlich zeitgemäßer Gedanke bezeichnet werden, wenngleich nicht in Abrede zu
+				stellen ist, daß die praktische Verlebendigung dieses Gedankens an dem Uebersehen
+				eines, vielleicht nebensächlich scheinenden, doch aber sehr entscheidenden Umstandes
+				leidet.</p>
 			<p>Man kann’s als eine statistisch nachweisbare Thatsache annehmen und muß sich alles
 				Widerspruchs entschlagen, wenn die geistlichen Direktoren und Regisseure
 				triumphirend behaupten, daß sie ein unverhältnismäßig zahlreicheres Publikum haben,
@@ -96,22 +98,22 @@
 				ausgehend, daß die Theaterdinge dem von ganz anderen Sorgen in Anspruch genommenen
 				Publikum vollständig aus dem Gedächtnisse entwichen seien, es für nicht überflüssig
 				erachtete, den Leuten zu erzählen, daß derselbe Verdi, der das Requiem komponirt,
-				auch einmal schon eine Oper Namens „<title key="verdi.ernani" type="mus">Hernani</title>“ und
-				eine anders unter dem Titel „<title key="verdi.il-trovatore" type="mus">Der
-				Troubadour</title>“ geschrieben habe, die beide auch sogar schon in Wien aufgeführt
-				worden seien. Wenn diese ebenso opportune <cb break="yes" n="1c" type="regular"/>
-				wie leichtfaßliche Methode des populären Unterrichts in der Musikgeschichte
-				planmäßig fortgesetzt wird, muß es der ungebildete Musiklaie in Wien bald erfahren
-				und der zerstreuteste Gedächtnisschwächling es bald wieder in Erinnerung gebracht
-				haben, daß einmal ein Tonsetzer, Namens <persName key="mozart.wolfgang-amadeus"
-					>Mozart</persName>, eine Oper Namens „<title key="mozart.don-giovanni" type="mus">Don
-					Juan</title>“ geschrieben hat.</p>
+				auch einmal schon eine Oper Namens „<title key="verdi.ernani" type="mus"
+					>Hernani</title>“ und eine anders unter dem Titel „<title
+					key="verdi.il-trovatore" type="mus">Der Troubadour</title>“ geschrieben habe,
+				die beide auch sogar schon in Wien aufgeführt worden seien. Wenn diese ebenso
+				opportune <cb break="yes" n="1c" type="regular"/> wie leichtfaßliche Methode des
+				populären Unterrichts in der Musikgeschichte planmäßig fortgesetzt wird, muß es der
+				ungebildete Musiklaie in Wien bald erfahren und der zerstreuteste
+				Gedächtnisschwächling es bald wieder in Erinnerung gebracht haben, daß einmal ein
+				Tonsetzer, Namens <persName key="mozart.wolfgang-amadeus">Mozart</persName>, eine
+				Oper Namens „<title key="mozart.don-giovanni" type="mus">Don Juan</title>“
+				geschrieben hat.</p>
 			<pb break="null" n="2b" type="skipped"/>
-			<p rend="right"><persName key="schlesinger.sigmund">Si<choice>
+			<signed rend="right"><persName key="schlesinger.sigmund">Si<choice>
 						<orig>a</orig>
 						<corr resp="tr">g</corr>
-					</choice>m. <hi rend="widespace">Schlesinger</hi></persName>.</p>
-			<p/>
+					</choice>m. <hi rend="widespace">Schlesinger</hi></persName>.</signed>
 		</body>
 	</text>
 </TEI>

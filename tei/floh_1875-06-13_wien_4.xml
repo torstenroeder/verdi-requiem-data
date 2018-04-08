@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Der Floh, Wien, 13. Juni 1875 [4]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/floh_1875-06-13_waehrend-der-auffuehrung.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Satire</term>
@@ -48,11 +49,11 @@
 			<head rend="plain">(Auf den Galerien.)</head>
 			<lg>
 				<l>— Du, Josef, Du hast ja Latein g’lernt. Was heißt denn das <hi rend="antiqua"
-							><title key="verdi.requiem.2.dies-irae" type="mus">„Dies irae<supplied resp="tr"
-								>“</supplied></title></hi>?</l>
+							><title key="verdi.requiem.2.dies-irae" type="mus">„Dies irae<supplied
+								resp="tr">“</supplied></title></hi>?</l>
 				<l><supplied resp="tr">—</supplied> Da steht’s ja am Theaterzettel: <hi
 						rend="antiqua"><title key="verdi.requiem.2.dies-irae" type="mus">Dies
-						irae</title></hi> (Soli und Chor.)</l>
+							irae</title></hi> (Soli und Chor.)</l>
 			</lg>
 			<p rend="center">*</p>
 			<lg>

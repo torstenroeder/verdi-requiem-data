@@ -5,10 +5,9 @@
 			<titleStmt>
 				<title>Coburger Zeitung, 25. Mai 1877</title>
 				<title corresp="kz_1877-05-22_koeln.xml">aus: Kölnische Ztg., 22.5.</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/cz_1877-05-25_koeln.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +23,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -69,53 +70,55 @@
 				der <placeName key="mailand.teatro-alla-scala">Scala</placeName>. In der <placeName
 					key="mailand.teatro-alla-scala">Scala</placeName> wurde auch <date
 					when-iso="1839">1839</date> seine erste Oper aufgeführt: <title
-					key="verdi.oberto" type="mus">Oberto di San Bonifazio</title>. Es war ein glückliches
-				Debut, das dem jungen Musiker vielleicht etwas zu viel Selbstbewußtsein einflößte,
-				denn die Partitur der folgenden Oper wurde ziemlich übereilt geschrieben; dafür fiel
-				die Oper auch glänzend durch. Wie gewöhnlich die Extreme sich berühren, so folgte
-				dem früheren Selbstvertrauen nunmehr eine Periode der gänzlichen Entmuthigung; zehn
-				Monate lang schrieb <persName key="verdi.giuseppe">Verdi</persName> keine Note mehr.
-				Endlich raffte er sich wieder aus der Thatenlosigkeit auf. Die verhalf ihm zu einem
-				neuen Triumphe, so daß der junge <persName key="verdi.giuseppe">Verdi</persName> nun
-				mit Einem Schlage zu den Maestri in <placeName key="italien">Italien</placeName>
-				gezählt wurde. Von jetzt beginnt ein reges musicalisches Schaffen, Oper folgte auf
-				Oper — <persName key="verdi.giuseppe">Verdi</persName> hat deren nahezu dreißig
-				geschrieben —, die seinen Ruhm immer weiter trugen. In <placeName key="deutschland"
+					key="verdi.oberto" type="mus">Oberto di San Bonifazio</title>. Es war ein
+				glückliches Debut, das dem jungen Musiker vielleicht etwas zu viel Selbstbewußtsein
+				einflößte, denn die Partitur der folgenden Oper wurde ziemlich übereilt geschrieben;
+				dafür fiel die Oper auch glänzend durch. Wie gewöhnlich die Extreme sich berühren,
+				so folgte dem früheren Selbstvertrauen nunmehr eine Periode der gänzlichen
+				Entmuthigung; zehn Monate lang schrieb <persName key="verdi.giuseppe"
+					>Verdi</persName> keine Note mehr. Endlich raffte er sich wieder aus der
+				Thatenlosigkeit auf. Die verhalf ihm zu einem neuen Triumphe, so daß der junge
+					<persName key="verdi.giuseppe">Verdi</persName> nun mit Einem Schlage zu den
+				Maestri in <placeName key="italien">Italien</placeName> gezählt wurde. Von jetzt
+				beginnt ein reges musicalisches Schaffen, Oper folgte auf Oper — <persName
+					key="verdi.giuseppe">Verdi</persName> hat deren nahezu dreißig geschrieben —,
+				die seinen Ruhm immer weiter trugen. In <placeName key="deutschland"
 					>Deutschland</placeName> ist <persName key="verdi.giuseppe">Verdi</persName>
-				vorzugsweise durch „<title key="verdi.ernani" type="mus">Ernani</title>“ (<date when-iso="1844"
-					>1844</date>), „<title key="verdi.rigoletto" type="mus">Rigoletto</title>“ (<date
-					when-iso="1851">1851</date>), „<title key="verdi.il-trovatore" type="mus"
-					>Troubadour</title>“ (<date when-iso="1853">1853</date>) und seine neueste Oper
-					„<title key="verdi.aida" type="mus">Aïda</title>“ bekannt geworden. Zu bemerken wäre noch,
-				daß unter seinen Werken auch mehrere ihre Stoffe unserem <persName
-					key="schiller.friedrich">Schiller</persName> entlehnt haben, so z. B. „<title
-					key="verdi.i-masnadieri" type="mus">Masnadieri</title>“ nach den „Räubern“ und „<title
-					key="verdi.luisa-miller" type="mus">Luisa Miller</title>“ nach „Kabale und Liebe“; auch
-				Shakespeare fand musicalische Bearbeitung: „König Lear“<note resp="tr"
+				vorzugsweise durch „<title key="verdi.ernani" type="mus">Ernani</title>“ (<date
+					when-iso="1844">1844</date>), „<title key="verdi.rigoletto" type="mus"
+					>Rigoletto</title>“ (<date when-iso="1851">1851</date>), „<title
+					key="verdi.il-trovatore" type="mus">Troubadour</title>“ (<date when-iso="1853"
+					>1853</date>) und seine neueste Oper „<title key="verdi.aida" type="mus"
+					>Aïda</title>“ bekannt geworden. Zu bemerken wäre noch, daß unter seinen Werken
+				auch mehrere ihre Stoffe unserem <persName key="schiller.friedrich"
+					>Schiller</persName> entlehnt haben, so z. B. „<title key="verdi.i-masnadieri"
+					type="mus">Masnadieri</title>“ nach den „Räubern“ und „<title
+					key="verdi.luisa-miller" type="mus">Luisa Miller</title>“ nach „Kabale und
+				Liebe“; auch Shakespeare fand musicalische Bearbeitung: „König Lear“<note resp="tr"
 					type="commentary">Es blieb lediglich bei dem Libretto von <persName
 						key="somma.antonio">Antonio Somma</persName>.</note> und „<title
 					key="verdi.macbeth" type="mus">Macbeth</title>“.</p>
 			<p>Ueber die musicalische Bedeutung <persName key="verdi.giuseppe">Verdis</persName> ist
-				— Dank der „<title key="verdi.aida" type="mus">Aïda</title>“ und dem <title key="verdi.requiem" type="mus"
-					>Requiem</title> — kein Streiten mehr nöthig; auch diejenigen Kreise, welche
-				früher eine vornehme Zurückhaltung gegen den Componisten des <title
-					key="verdi.il-trovatore" type="mus">Troubadour</title> beobachteten, huldigen jetzt
-				bereitwillig seinem Genius. Auch über den Werth seines „<title key="verdi.requiem" type="mus"
-					>Requiem</title>“ herrscht Einstimmigkeit. Beseitige man den deutschen Begriff
-				von Kirchenmusik, versetze man sich in das farbenreiche Italien mit seinem
-				Schaugepränge, erinnere man sich, daß die Musik das Hochamt zum ersten Jahrestage
-				des Todes <persName key="manzoni.alessandro">Alessandro Manzoni’s</persName>
-				(gestorben am <date when-iso="1874-05-22">22. Mai 1874</date>) verherrlichen soll,
-				so schwindet jede Voreingenommenheit, und man ist eines unbefangenen Urtheils fähig,
-				das jedenfalls zu Gunsten des Werkes — werde es nun ein Oratorium oder eine
-				Trauer-Oper genannt — ausfallen wird. Für die Gesangstimmen war es stellenweise sehr
-				schwierig, sich aus dem vollen Orchester herauszuarbeiten. Wenn da noch die Stimme
-				mit voller Kraft heraustönen soll, dann muß man über ganz kolossale Mittel gebieten.
-				Die Solisten standen durchweg auf der Höhe wahrhaft künstlerischer Leistungen,
-				besonders die beiden Damen Fräulein <persName key="lehmann.lilli"
-					role="soloist.soprano">Lilli Lehmann</persName> und Fräulein <persName
-					key="assmann.adele" role="soloist.mezzo">Adele Aßmann</persName> (2. Sopran)
-				bedeckten sich mit Lorbeeren.</p>
+				— Dank der „<title key="verdi.aida" type="mus">Aïda</title>“ und dem <title
+					key="verdi.requiem" type="mus">Requiem</title> — kein Streiten mehr nöthig; auch
+				diejenigen Kreise, welche früher eine vornehme Zurückhaltung gegen den Componisten
+				des <title key="verdi.il-trovatore" type="mus">Troubadour</title> beobachteten,
+				huldigen jetzt bereitwillig seinem Genius. Auch über den Werth seines „<title
+					key="verdi.requiem" type="mus">Requiem</title>“ herrscht Einstimmigkeit.
+				Beseitige man den deutschen Begriff von Kirchenmusik, versetze man sich in das
+				farbenreiche Italien mit seinem Schaugepränge, erinnere man sich, daß die Musik das
+				Hochamt zum ersten Jahrestage des Todes <persName key="manzoni.alessandro"
+					>Alessandro Manzoni’s</persName> (gestorben am <date when-iso="1874-05-22">22.
+					Mai 1874</date>) verherrlichen soll, so schwindet jede Voreingenommenheit, und
+				man ist eines unbefangenen Urtheils fähig, das jedenfalls zu Gunsten des Werkes —
+				werde es nun ein Oratorium oder eine Trauer-Oper genannt — ausfallen wird. Für die
+				Gesangstimmen war es stellenweise sehr schwierig, sich aus dem vollen Orchester
+				herauszuarbeiten. Wenn da noch die Stimme mit voller Kraft heraustönen soll, dann
+				muß man über ganz kolossale Mittel gebieten. Die Solisten standen durchweg auf der
+				Höhe wahrhaft künstlerischer Leistungen, besonders die beiden Damen Fräulein
+					<persName key="lehmann.lilli" role="soloist.soprano">Lilli Lehmann</persName>
+				und Fräulein <persName key="assmann.adele" role="soloist.mezzo">Adele
+					Aßmann</persName> (2. Sopran) bedeckten sich mit Lorbeeren.</p>
 			<p>An Ehren fehlte es <persName key="verdi.giuseppe">Verdi</persName> nicht, wenigstens
 				ist in <placeName key="koeln">Köln</placeName> ein Componist selten, oder nie, in
 				dieser Weise gefeiert worden. Jede Nummer erhielt rauschenden Applaus. Auch schöne
@@ -129,10 +132,10 @@
 					>Schmitz</persName> gearbeitet. Eine andere Gabe in Form eines silbernen
 				Lorbeerkranzes mit goldner Schlinge, aus dem Atelier des Herrn Hofjuwelier <persName
 					key="becker.xxx">Becker</persName>, wurde dem Maestro am Schlusse des <title
-					key="verdi.requiem" type="mus">Requiem</title> überreicht. Jedes Blatt trägt den Namen
-				einer Dame, der betreffenden Geberin. Dieses Geschenk sollte der Verehrung vieler
-				Theaterbesucherinnen für den Componisten Ausdruck verleihen. Tags zuvor hatte das
-				Musikfest-Comité dem Maestro das Rheinalbum von Professor <persName
+					key="verdi.requiem" type="mus">Requiem</title> überreicht. Jedes Blatt trägt den
+				Namen einer Dame, der betreffenden Geberin. Dieses Geschenk sollte der Verehrung
+				vieler Theaterbesucherinnen für den Componisten Ausdruck verleihen. Tags zuvor hatte
+				das Musikfest-Comité dem Maestro das Rheinalbum von Professor <persName
 					key="scheuren.caspar">Scheuren</persName> mit einem zu dem Widmungszweck eigens
 				von dem Autor gezeichneten hochkünstlerischen Titelblatte überreicht.</p>
 			<p>(Nach der „<orgName key="koelnische-zeitung">Köln. Ztg.</orgName>“)<note resp="tr"

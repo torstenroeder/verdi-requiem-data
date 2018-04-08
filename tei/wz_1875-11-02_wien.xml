@@ -3,12 +3,13 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Wiener Zeitung, 2. November 1875</title>
-				<author><persName key="ambros.august-wilhelm"/></author>
-				<principal>Torsten Roeder</principal>
+				<title>Wiener Abendpost (Beilage zur Wiener Zeitung), 2. November 1875</title>
+				<author>
+					<persName key="ambros.august-wilhelm"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1875-11-02_hofoperntheater.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,14 +18,16 @@
 					<placeName key="wien"/>
 					<date when-custom="tue" when-iso="1875-11-02"/>
 					<biblScope unit="issue">251</biblScope>
-					<biblScope unit="subIssue">251</biblScope>
+					<biblScope unit="subIssue">Abendpost</biblScope>
 					<series>wz</series>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,72 +48,72 @@
 			<p><hi rend="antiqua"><persName cert="medium" key="ambros.august-wilhelm"
 					>A.</persName></hi>
 				<rs key="wien.1875a.1" type="event">(<hi rend="widespace"><placeName
-							key="wien.hof-operntheater">K. k. Hofoperntheater</placeName></hi>.)
-					Der gestrige Tag brachte uns eine Wiederaufführung von <hi rend="widespace"
+							key="wien.hof-operntheater">K. k. Hofoperntheater</placeName></hi>.) Der
+					gestrige Tag brachte uns eine Wiederaufführung von <hi rend="widespace"
 							><persName key="verdi.giuseppe">Verdi’s</persName></hi> „<hi
-						rend="widespace"><title key="verdi.requiem" type="mus">Requiem</title></hi>“, auf
-					welche begierig zu sein wir mehr als Einen Grund hatten.</rs> Fürs erste war sie
-				eine Art Probirstein für die Composition selbst, deren außerordentlicher Eindruck im
-				Sommer dieses Jahres zweifellos zum Theile auf Rechnung von Umständen kam, welche
-				nicht mit in der Partitur stehen: <persName key="verdi.giuseppe">Verdi’s</persName>
-				persönliche Anwesenheit und die von ihm mitgebrachten Solisten, denen er selbst ihre
-				Parte einstudirt hatte, welche bereits in <rs key="mailand.1874" type="event"
-						><placeName key="mailand">Mailand</placeName></rs>, in <rs
-					key="paris.1874" type="event"><placeName key="paris">Paris</placeName></rs>,
-				in <rs key="london.1875" type="event"><placeName key="london"
-					>London</placeName></rs> ge<cb break="no" n="2" type="regular"/>sungen und
-				eigentlich nur noch da zu sein scheinen, um in der „<title key="verdi.requiem" type="mus"
-					>Manzoni-Messe</title>“ und in „<title key="verdi.aida" type="mus">Aïda</title>“
-				mitzuwirken, daher sie denn auch den Vortrag dieser Werke zur gedenkbarsten Feinheit
-				ausgearbeitet haben. Ja selbst die Neuheit des Arrangements in der Aufstellung der
-				Ausführenden trug damals dazu bei, zu überraschen und zu imponiren. Zweitens aber
-				war diesmal die Frage natürlich: „Wie wird die Leistung unserer heimischen Solisten
-				sich im Vergleiche zu <persName key="verdi.giuseppe">Verdi’s</persName>, von ihm
-				selbst autorisirten Requiem-Sängern gestalten?“ Daß ein großes Concert nicht auf den
-				„Stand auf acht Augen“, das heißt, nicht ein für alle Mal auf vier bestimmte
-				Solisten berechnet sein kann, und daß, wenn <persName key="verdi.giuseppe"
-					>Verdi’s</persName>
+						rend="widespace"><title key="verdi.requiem" type="mus"
+					>Requiem</title></hi>“, auf welche begierig zu sein wir mehr als Einen Grund
+					hatten.</rs> Fürs erste war sie eine Art Probirstein für die Composition selbst,
+				deren außerordentlicher Eindruck im Sommer dieses Jahres zweifellos zum Theile auf
+				Rechnung von Umständen kam, welche nicht mit in der Partitur stehen: <persName
+					key="verdi.giuseppe">Verdi’s</persName> persönliche Anwesenheit und die von ihm
+				mitgebrachten Solisten, denen er selbst ihre Parte einstudirt hatte, welche bereits
+				in <rs key="mailand.1874" type="event"><placeName key="mailand"
+					>Mailand</placeName></rs>, in <rs key="paris.1874" type="event"><placeName
+						key="paris">Paris</placeName></rs>, in <rs key="london.1875" type="event"
+						><placeName key="london">London</placeName></rs> ge<cb break="no" n="2"
+					type="regular"/>sungen und eigentlich nur noch da zu sein scheinen, um in der
+					„<title key="verdi.requiem" type="mus">Manzoni-Messe</title>“ und in „<title
+					key="verdi.aida" type="mus">Aïda</title>“ mitzuwirken, daher sie denn auch den
+				Vortrag dieser Werke zur gedenkbarsten Feinheit ausgearbeitet haben. Ja selbst die
+				Neuheit des Arrangements in der Aufstellung der Ausführenden trug damals dazu bei,
+				zu überraschen und zu imponiren. Zweitens aber war diesmal die Frage natürlich: „Wie
+				wird die Leistung unserer heimischen Solisten sich im Vergleiche zu <persName
+					key="verdi.giuseppe">Verdi’s</persName>, von ihm selbst autorisirten
+				Requiem-Sängern gestalten?“ Daß ein großes Concert nicht auf den „Stand auf acht
+				Augen“, das heißt, nicht ein für alle Mal auf vier bestimmte Solisten berechnet sein
+				kann, und daß, wenn <persName key="verdi.giuseppe">Verdi’s</persName>
 				<title key="verdi.requiem" type="mus">Requiem</title> am Leben bleibt, wie <persName
 					key="mozart.wolfgang-amadeus">Mozarts</persName> und <persName
 					key="cherubini.luigi">Cherubini’s</persName>
-				<title key="cherubini.requiem-c-moll" type="mus">Requiem</title> am Leben geblieben sind, am
-				Ende doch andere Leute werden mitsingen müssen als die <persName key="stolz.teresa"
-					>Stolz</persName>, die <persName key="waldmann.maria">Waldmann</persName> und
-				die Herren <persName key="medini.paolo">Medini</persName> und <persName
-					key="masini.angelo">Masini</persName>, ist natürlich, wie denn bei der <rs
-					key="triest.1875" type="event">Aufführung in <placeName key="triest"
-						>Triest</placeName></rs> Signora <persName key="sanz.elena">Sanz</persName>
-				an Stelle der Signora <persName key="waldmann.maria">Waldmann</persName> trat, —
-				„der Beifall aber — wie ein Zeitungsbericht meldet — fast die Dimensionen von Jubel
+				<title key="cherubini.requiem-c-moll" type="mus">Requiem</title> am Leben geblieben
+				sind, am Ende doch andere Leute werden mitsingen müssen als die <persName
+					key="stolz.teresa">Stolz</persName>, die <persName key="waldmann.maria"
+					>Waldmann</persName> und die Herren <persName key="medini.paolo"
+					>Medini</persName> und <persName key="masini.angelo">Masini</persName>, ist
+				natürlich, wie denn bei der <rs key="triest.1875" type="event">Aufführung in
+						<placeName key="triest">Triest</placeName></rs> Signora <persName
+					key="sanz.elena">Sanz</persName> an Stelle der Signora <persName
+					key="waldmann.maria">Waldmann</persName> trat, — „der Beifall aber — wie ein
+				Zeitungsbericht meldet — fast die Dimensionen von Jubel
 				annahm“<!--ZITAT Zeitungsbericht aus Triest nicht gefunden--> — ein sonderbares
 				Resultat bei einem Requiem!</p>
 			<p>Bei unserer letzten ganz „einheimischen“ Aufführung bestanden, zu unserer Freude,
 				Composition und Sänger in vorzüglicher Weise. Wie jedes echte Kunstwerk stets neue
 				Anregungen bietet, so traten uns diesmal viele schöne Einzelheiten im Orchester u.
 				s. w. mit dem Eindruck der Neuheit entgegen — nur die Quinten beim <hi
-					rend="antiqua"><title n="oro-supplex" key="verdi.requiem.2.confutatis" type="mus">Oro
-						supplex</title></hi> fanden wir so niedrig wie jedesmal. Die erwähnte
-				Zeitung spottet zwar über die „bezopften Richter, welche diese Stelle so streng
-				maßregeln“<!--ZITAT Zeitungsbericht aus Triest nicht gefunden-->, aber Zopf hin,
-				Zopf her — die Quinten <hi rend="widespace">klingen</hi> abscheulich, und damit sind
-				sie schon gerichtet — sie sind ein Flecken in dem prachtvollen Gemälde. Frau <hi
-					rend="widespace"><persName key="wilt.marie">Wilt</persName></hi>, Frl. <hi
-					rend="widespace"><persName key="tremel.wilhelmine">Treml</persName></hi> und
-				die Herren <hi rend="widespace"><persName key="walter.gustav"
-					>Walter</persName></hi> und <hi rend="widespace"><persName
-						key="rokitansky.hans">Rokitansky</persName></hi> bewiesen, daß sie bei den
-				von <persName key="verdi.giuseppe">Verdi</persName> geleiteten Aufführungen genau
-				darauf geachtet, wie der Componist die Sache haben wolle. Frau <hi rend="widespace"
-						><persName key="wilt.marie">Wilt</persName></hi> sang unübertrefflich,
-				doch, merkwürdig genug, mit einer eigenen nervösen Aufregung und Heftigkeit. Herr
-					<hi rend="widespace"><persName key="walter.gustav">Walter</persName></hi> hat
-				nicht den elementaren Stimmklang wie <persName key="masini.angelo"
-					>Masini</persName>, sang aber so, daß man sagen möchte: es war der speciellen
-				Aufgabe noch angemessener, weniger opernhaft, künstlerischer. Herr <hi
-					rend="widespace"><persName key="rokitansky.hans">Rokitansky</persName></hi> mit
-				seinem mächtigen Baß drang entschieden wirksamer durch als sein Vorgänger <persName
-					key="medini.paolo">Medini</persName>. Frln. <hi rend="widespace"><persName
-						key="tremel.wilhelmine">Treml</persName></hi> begann ihr „<hi
+					rend="antiqua"><title key="verdi.requiem.2.confutatis" n="oro-supplex"
+						type="mus">Oro supplex</title></hi> fanden wir so niedrig wie jedesmal. Die
+				erwähnte Zeitung spottet zwar über die „bezopften Richter, welche diese Stelle so
+				streng maßregeln“<!--ZITAT Zeitungsbericht aus Triest nicht gefunden-->, aber Zopf
+				hin, Zopf her — die Quinten <hi rend="widespace">klingen</hi> abscheulich, und damit
+				sind sie schon gerichtet — sie sind ein Flecken in dem prachtvollen Gemälde. Frau
+					<hi rend="widespace"><persName key="wilt.marie">Wilt</persName></hi>, Frl. <hi
+					rend="widespace"><persName key="tremel.wilhelmine">Treml</persName></hi> und die
+				Herren <hi rend="widespace"><persName key="walter.gustav">Walter</persName></hi> und
+					<hi rend="widespace"><persName key="rokitansky.hans">Rokitansky</persName></hi>
+				bewiesen, daß sie bei den von <persName key="verdi.giuseppe">Verdi</persName>
+				geleiteten Aufführungen genau darauf geachtet, wie der Componist die Sache haben
+				wolle. Frau <hi rend="widespace"><persName key="wilt.marie">Wilt</persName></hi>
+				sang unübertrefflich, doch, merkwürdig genug, mit einer eigenen nervösen Aufregung
+				und Heftigkeit. Herr <hi rend="widespace"><persName key="walter.gustav"
+						>Walter</persName></hi> hat nicht den elementaren Stimmklang wie <persName
+					key="masini.angelo">Masini</persName>, sang aber so, daß man sagen möchte: es
+				war der speciellen Aufgabe noch angemessener, weniger opernhaft, künstlerischer.
+				Herr <hi rend="widespace"><persName key="rokitansky.hans">Rokitansky</persName></hi>
+				mit seinem mächtigen Baß drang entschieden wirksamer durch als sein Vorgänger
+					<persName key="medini.paolo">Medini</persName>. Frln. <hi rend="widespace"
+						><persName key="tremel.wilhelmine">Treml</persName></hi> begann ihr „<hi
 					rend="antiqua"><title key="verdi.requiem.2.liber-scriptus" type="mus">Liber
 						scriptus</title></hi>“ mit einer sehr erklärlichen Befangenheit, so daß wir
 				für sie fürchteten; aber allmälig kam sie, vom Beifall aufgemuntert, in guten Zug
@@ -121,11 +124,12 @@
 				glänzenden Erfolg nur zufrieden sein können.</p>
 			<p><gap resp="tr"/></p>
 			<p><rs key="wien.1875a.1" type="event">Die erste Aufführung des „<title
-						key="verdi.requiem" type="mus">Requiem</title>“ von <persName key="verdi.giuseppe"
-						>Verdi</persName>, welche <date when-iso="1875-11-01">Montag, den 1.
-						November</date>, im <placeName key="wien.hof-operntheater">k. k.
-						Hofoperntheater</placeName> stattfand, lieferte ein Erträgniß von über 5000
-					fl., die höchste Einnahme, welche bisher im Abonnement erzielt wurde.</rs>
+						key="verdi.requiem" type="mus">Requiem</title>“ von <persName
+						key="verdi.giuseppe">Verdi</persName>, welche <date when-iso="1875-11-01"
+						>Montag, den 1. November</date>, im <placeName key="wien.hof-operntheater"
+						>k. k. Hofoperntheater</placeName> stattfand, lieferte ein Erträgniß von
+					über 5000 fl., die höchste Einnahme, welche bisher im Abonnement erzielt
+					wurde.</rs>
 				<rs key="wien.1875a.2 wien.1875a.3" type="event">Die zweite Aufführung findet <date
 						when-iso="1875-11-01">heute</date>, die dritte <date when-iso="1875-11-07"
 						>Sonntag, den 7. d. M.</date>, mit aufgehobenem Abonnement statt.</rs></p>

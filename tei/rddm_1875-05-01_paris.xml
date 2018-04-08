@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Revue des Deux Mondes, Paris, 1. Mai 1875</title>
-				<author><persName key="blaze.henri"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="blaze.henri"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/rddm_1875-05-01.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +25,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="paris"/></creation>
+			<creation>
+				<placeName key="paris"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -150,7 +153,7 @@
 				l’execution de sa Messe, et vous verrez si le grand public d’autrefois et si la mode
 				leur feront défaut.</p>
 			<pb break="null" n="228" type="skipped"/>
-			<p rend="right">F. DE LAGENEVAIS.</p>
+			<signed rend="right">F. DE LAGENEVAIS.</signed>
 		</body>
 	</text>
 </TEI>

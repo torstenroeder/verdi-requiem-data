@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 31. Dezember 1875</title>
-				<author><persName key="symbol.b"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="symbol.b"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1875-12-31_musikbrief-muenchen.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +24,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="muenchen"/><date when-iso="1875-12"/></creation>
+			<creation>
+				<placeName key="muenchen"/>
+				<date when-iso="1875-12"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Werkbesprechung</term>
@@ -50,8 +54,8 @@
 			<p rend="right"><hi rend="lineale bold"><placeName key="muenchen"
 					>München</placeName></hi>, <date when-iso="1875-12">December 1875</date>.</p>
 			<p><rs key="muenchen.1875.1" type="event">Am <date when-iso="1875-12-07">7. d.
-						Mts.</date> ist die erstmalige Aufführung von <persName
-						key="verdi.giuseppe">Verdi’s</persName>
+						Mts.</date> ist die erstmalige Aufführung von <persName key="verdi.giuseppe"
+						>Verdi’s</persName>
 					<title key="verdi.requiem" type="mus">Messa da Requiem</title> in <placeName
 						key="muenchen">Isar-Athen</placeName> vor sich gegangen</rs>.</p>
 			<p>In welcher Weise sich derlei Dinge in der <placeName key="athen">alten griechischen
@@ -61,24 +65,24 @@
 					key="euripides">Euripides</persName> und <persName key="sophokles"
 					>Sophokles</persName> mit den Zöpfen gewackelt hätten, wenn Einer aus <placeName
 					key="makedonien">Macedonien</placeName> sichs hätte einfallen lassen, ihnen was
-				vorblasen zu wollen; — ob auch <persName key="phidias">Phidias</persName> das
-				Verbot dagegen ergehen liess, einheimische Nicht-Mitglieder zum Besuch des
-				Kunstvereins zuzulassen . . . . und was dergleichen knurrige Wintervergnügen mehr
-				sind, — darüber fehlen uns alle genaueren Nachrichten. Dass aber <placeName
-					key="muenchen">Neu-Athen</placeName> in diesen Dingen voraus ist, das glauben
-				wir mit Bestimmtheit versichern zu dürfen. Um so grösser ist nun der Triumph, mit
-				einem Werke durchzudringen, welches weder eine Symphonie, noch von <persName
+				vorblasen zu wollen; — ob auch <persName key="phidias">Phidias</persName> das Verbot
+				dagegen ergehen liess, einheimische Nicht-Mitglieder zum Besuch des Kunstvereins
+				zuzulassen . . . . und was dergleichen knurrige Wintervergnügen mehr sind, — darüber
+				fehlen uns alle genaueren Nachrichten. Dass aber <placeName key="muenchen"
+					>Neu-Athen</placeName> in diesen Dingen voraus ist, das glauben wir mit
+				Bestimmtheit versichern zu dürfen. Um so grösser ist nun der Triumph, mit einem
+				Werke durchzudringen, welches weder eine Symphonie, noch von <persName
 					key="beethoven.ludwig-van">Beethoven</persName>, keine Oper und auch nicht von
 					<persName key="auber.daniel-francois-esprit">Auber</persName> oder <persName
 					key="flotow.friedrich-von">Flotow</persName> ist. — Auch neulich sind die alten
 				und die jungen Zöpfchen mit sicherer Würde ins Concert gegangen — und etwas
 				„betupft“ herausgekommen. — „Es ist wirklich Einiges recht schön, zum Beispiel das
-					<title key="verdi.requiem.5" type="mus">Agnus Dei</title>“ — sagte eins unserer ersten
-				Koryphäen, — „aber zum Beispiel das <title key="verdi.requiem.5" type="mus">Agnus
-				Dei</title>“, bemerkte verurtheilend ein Anderer, „so Etwas habe ich doch noch nie
-				gehört!“ — „Diese ganze Art musikalischer Empfindung ist einmal der unseren, der
-				deutschen, total fremd, schön anzuhören, wie die tropischen Pflanzen eines
-				Treibhauses schön anzusehen sind, aber wir fühlen uns nicht heimisch darin“
+					<title key="verdi.requiem.5" type="mus">Agnus Dei</title>“ — sagte eins unserer
+				ersten Koryphäen, — „aber zum Beispiel das <title key="verdi.requiem.5" type="mus"
+					>Agnus Dei</title>“, bemerkte verurtheilend ein Anderer, „so Etwas habe ich doch
+				noch nie gehört!“ — „Diese ganze Art musikalischer Empfindung ist einmal der
+				unseren, der deutschen, total fremd, schön anzuhören, wie die tropischen Pflanzen
+				eines Treibhauses schön anzusehen sind, aber wir fühlen uns nicht heimisch darin“
 				versicherte auch seufzend ein junger Gelehrter, der wohl noch keine Gelegenheit
 				gehabt hatte, andere als Suppenkräuter und Vergissmeinnichte ausserhalb des
 				Treibhauses zu bewundern und unter Palmen — gestraft oder ungestraft — sich heimisch
@@ -86,18 +90,18 @@
 				und gründlich aus der Stimmung zu bringen, — zornig und lachend zugleich bin ich
 				nach Hause gegangen. <persName key="verdi.giuseppe">Verdi</persName> aber mag am
 				meisten und am vergnügtesten lachen: denn uns will bedünken, dass mit dieser <title
-					key="verdi.requiem" type="mus">Messa</title> seine ganze Stellung in der musikalischen
-				Welt eine andere geworden ist.</p>
+					key="verdi.requiem" type="mus">Messa</title> seine ganze Stellung in der
+				musikalischen Welt eine andere geworden ist.</p>
 			<p><persName key="verdi.giuseppe">Verdi</persName> — mit diesem Namen glaubt man schon
 				allerlei leichtfassliche Melodien des „<title key="verdi.il-trovatore" type="mus"
-					>Troubadour</title>“ oder aus „<title key="verdi.rigoletto" type="mus">Rigoletto</title>“
-				zu vernehmen, — den „Gediegenen“ sträuben sich die Haare auf dem Kopf, und den
-				starren Wagnerianern wachsen solche auf den Zähnen!</p>
+					>Troubadour</title>“ oder aus „<title key="verdi.rigoletto" type="mus"
+					>Rigoletto</title>“ zu vernehmen, — den „Gediegenen“ sträuben sich die Haare auf
+				dem Kopf, und den starren Wagnerianern wachsen solche auf den Zähnen!</p>
 			<p>Mit der mir eigenen musikalischen Charakterlosigkeit bin ich ohne allzufest
-				vorgefasste Meinung zu der <title key="verdi.requiem" type="mus">Messa</title> gegangen —
-				hatte ich doch den letzten Rest einer solchen abstreifen müssen, als ich vor Kurzem
-				unter italienischem Himmel und unter den liebenswürdigsten Verhältnissen einer
-				erstmaligen, durch den Componisten einstudirten, <rs key="florenz.1875"
+				vorgefasste Meinung zu der <title key="verdi.requiem" type="mus">Messa</title>
+				gegangen — hatte ich doch den letzten Rest einer solchen abstreifen müssen, als ich
+				vor Kurzem unter italienischem Himmel und unter den liebenswürdigsten Verhältnissen
+				einer erstmaligen, durch den Componisten einstudirten, <rs key="florenz.1875"
 					type="event">von <persName key="sbolci.jefte">Sbolci</persName> geleiteten
 					Aufführung</rs> anwohnte. — Es ist ebenso unmöglich, die Vollkommenheit der
 				dortigen Leistungen, zumal des berühmten und in seiner Art unübertrefflichen
@@ -125,27 +129,27 @@
 				die ja, möchte ich sagen, darauf angelegt ist, dass der ausübende Künstler frei
 				damit schalte. — Hat uns Willkür verschont, so sind doch ein paar Tempi ganz
 				verfehlt — natürlich zu langsam — genommen gewesen. Aus diesem Grund ist das „<title
-					key="verdi.requiem.2.confutatis" type="mus">Confutatis</title>“ (Basssolo) ohne jegliche
-				Wirkung geblieben; dem „<title key="verdi.requiem.5" type="mus">Agnus Dei</title>“ hätte
-				einige Beschleunigung gut gethan, besonders bei der überhaupt nicht zu billigenden —
-				Wiederholung, und die schöne Stelle „<title key="verdi.requiem.6" type="mus">Lux
-					aeterna</title>“ etc., ziemlich am Schluss, welche in <placeName key="italien"
-					>Italien</placeName> sich als eine der wirkungsvollsten auszeichnete, ist hier
-				ganz verloren gegangen. Das Ganze, im Allgemeinen, war jedoch gewissenhaft und
-				verständnisvoll einstudirt und ist ohne besondere Fehler abgegangen. Die
-				vorzüglichen Leistungen der durch Wüllner einstudirten Chöre sind schon von den
-				genussreichen Concerten der Vocalcapelle her bekannt; unser Orchester hat
-				schwierigere Aufgaben spielend überwunden und hätte — besonders die Geigen — nur
-				zuweilen vermeiden sollen, das <hi rend="italic">mezza-voce</hi> der Solostimmen zu
-				übertönen. Die Solisten — mein Gott, ich möchte sie ja so gerne loben und kann dies
-				mit gutem Gewissen doch nur bei Frl. <persName key="radecke.luise"
-					>Radecke</persName> thun, deren reizende, sympathische Töne, deren feine
-				Auffassung nicht ganz ausreichen wollte. Ihr allein merkte man an, dass sie bemüht
-				war, nicht sich, sondern das Werk zur Geltung zu bringen. Frl. <persName
-					key="schefsky.josephine">Schefzky</persName> sang so gut sie es verstand, — es
-				wird mir nie einfallen, sie unter die Künstlerinnen zu zählen, sie singt nur; mit
-				einer klangvollen, umfangreichen Stimme singt sie vorgeschriebene Noten meistens mit
-				den vorgeschriebenen Vortragszeichen. Die Leistungen <persName
+					key="verdi.requiem.2.confutatis" type="mus">Confutatis</title>“ (Basssolo) ohne
+				jegliche Wirkung geblieben; dem „<title key="verdi.requiem.5" type="mus">Agnus
+					Dei</title>“ hätte einige Beschleunigung gut gethan, besonders bei der überhaupt
+				nicht zu billigenden — Wiederholung, und die schöne Stelle „<title
+					key="verdi.requiem.6" type="mus">Lux aeterna</title>“ etc., ziemlich am Schluss,
+				welche in <placeName key="italien">Italien</placeName> sich als eine der
+				wirkungsvollsten auszeichnete, ist hier ganz verloren gegangen. Das Ganze, im
+				Allgemeinen, war jedoch gewissenhaft und verständnisvoll einstudirt und ist ohne
+				besondere Fehler abgegangen. Die vorzüglichen Leistungen der durch Wüllner
+				einstudirten Chöre sind schon von den genussreichen Concerten der Vocalcapelle her
+				bekannt; unser Orchester hat schwierigere Aufgaben spielend überwunden und hätte —
+				besonders die Geigen — nur zuweilen vermeiden sollen, das <hi rend="italic"
+					>mezza-voce</hi> der Solostimmen zu übertönen. Die Solisten — mein Gott, ich
+				möchte sie ja so gerne loben und kann dies mit gutem Gewissen doch nur bei Frl.
+					<persName key="radecke.luise">Radecke</persName> thun, deren reizende,
+				sympathische Töne, deren feine Auffassung nicht ganz ausreichen wollte. Ihr allein
+				merkte man an, dass sie bemüht war, nicht sich, sondern das Werk zur Geltung zu
+				bringen. Frl. <persName key="schefsky.josephine">Schefzky</persName> sang so gut sie
+				es verstand, — es wird mir nie einfallen, sie unter die Künstlerinnen zu zählen, sie
+				singt nur; mit einer klangvollen, umfangreichen Stimme singt sie vorgeschriebene
+				Noten meistens mit den vorgeschriebenen Vortragszeichen. Die Leistungen <persName
 					key="bausewein.kaspar">Bausewein’s</persName> sind mir in einer beliebigen
 				kleinen Opernpartie lieber als im Oratorium, und <persName key="nachbaur.franz"
 					>Nachbaur’s</persName> sogenannter Gesang ist ein in Töne gebrachter Mangel an
@@ -167,80 +171,83 @@
 				der Reise-Unfall-Versicherungen und des Vereins für prunklose Beerdigung, für die
 				Zeit der „natürlichen Zuchtwahl“ und der Leichenverbrennung enthält wahrhaftig die
 					<title key="verdi.requiem" type="mus">Messa</title>
-				<persName key="verdi.giuseppe">Verdi’s</persName> noch immer eine unglaubliche
-				Summe wirklich religiöser Gedanken und eine gläubige Andacht, wie sie in den Werken
-				der Alt- wie der Neukatholiken nur selten zu finden ist. Gerade bei der
-				italienischen Compositionsweise kommt es vor Allem darauf an, was durch die
-				Ausführung daraus gemacht wird, — aber gerade die Ausführung durch <hi
-					rend="widespace">deutsche</hi> Künstler hat dafür auch bewiesen, dass diese
-				Composition aus sich selbst, aus eigenen Verdienste zu wirken im Stande ist.</p>
+				<persName key="verdi.giuseppe">Verdi’s</persName> noch immer eine unglaubliche Summe
+				wirklich religiöser Gedanken und eine gläubige Andacht, wie sie in den Werken der
+				Alt- wie der Neukatholiken nur selten zu finden ist. Gerade bei der italienischen
+				Compositionsweise kommt es vor Allem darauf an, was durch die Ausführung daraus
+				gemacht wird, — aber gerade die Ausführung durch <hi rend="widespace">deutsche</hi>
+				Künstler hat dafür auch bewiesen, dass diese Composition aus sich selbst, aus
+				eigenen Verdienste zu wirken im Stande ist.</p>
 			<p>Die Instrumentation ist durchgehends geschickt und wirkungsvoll, — oft mit geringen
 				Mitteln (wie die Maler sagen) ein überraschender Effect erzielt. So klingt schon der
-					<title n="requiem-aeternam" key="verdi.requiem.1" type="mus">Anfang</title> wie eine
-				einfache, fast lautlose Klage dahingeschiedener Seelen, auf welche der Chor mit
+					<title key="verdi.requiem.1" n="requiem-aeternam" type="mus">Anfang</title> wie
+				eine einfache, fast lautlose Klage dahingeschiedener Seelen, auf welche der Chor mit
 				eintönigem <hi rend="italic">pianissimo</hi> sein wiederholt abgesetztes,
-				beruhigendes „<title n="requiem-aeternam" key="verdi.requiem.1" type="mus">requiem</title>“
-				antwortet. — Das „<title n="kyrie" key="verdi.requiem.1" type="mus">Kyrie</title>“ ist ein
-				richtiger, würdiger Eingang zu einer religiösen Feier. Von grossartiger,
-				ergreifender Wirkung ist das „<title key="verdi.requiem.2" type="mus">dies irae</title>“ in
-				all seinen Theilen. Es beginnt mit unruhiger stürmischer Bewegung im Orchester,
-				schrillen Geigenläufen, während die Soprane das <supplied resp="tr"
-					>g’’</supplied><note resp="tr" type="commentary">Im Original als Note über der
-					5. Linie
+				beruhigendes „<title key="verdi.requiem.1" n="requiem-aeternam" type="mus"
+					>requiem</title>“ antwortet. — Das „<title key="verdi.requiem.1" n="kyrie"
+					type="mus">Kyrie</title>“ ist ein richtiger, würdiger Eingang zu einer
+				religiösen Feier. Von grossartiger, ergreifender Wirkung ist das „<title
+					key="verdi.requiem.2" type="mus">dies irae</title>“ in all seinen Theilen. Es
+				beginnt mit unruhiger stürmischer Bewegung im Orchester, schrillen Geigenläufen,
+				während die Soprane das <supplied resp="tr">g’’</supplied><note resp="tr"
+					type="commentary">Im Original als Note über der 5. Linie
 				wiedergegeben.</note><!--*BILD eigentlich besser als inline-Grafik mit figure/graphic/desc-->
 				festhalten, — dann stellt sich eine erscheckte, athemlose Stile ein, Tod und Natur
-				bleiben erstarrt, bis die <title key="verdi.requiem.2.tuba-mirum" type="mus">Posaunen des
-					jüngsten Gerichtes</title>, zuerst leise, in der Ferne kaum hörbar wiederholt,
-				allmählich lauter, schneller zusammen ertönen, und der Chor wieder einfällt. Aus dem
-				Tumult löst sich die Mezzosopran-Stimme, das <title
+				bleiben erstarrt, bis die <title key="verdi.requiem.2.tuba-mirum" type="mus"
+					>Posaunen des jüngsten Gerichtes</title>, zuerst leise, in der Ferne kaum hörbar
+				wiederholt, allmählich lauter, schneller zusammen ertönen, und der Chor wieder
+				einfällt. Aus dem Tumult löst sich die Mezzosopran-Stimme, das <title
 					key="verdi.requiem.2.liber-scriptus" type="mus">Erscheinen des Buches</title>
 				verkündigend, in dem alle Thaten und Unthaten verzeichnet sind. Es folgt ein
 				hübsches kleines <title key="verdi.requiem.2.quid-sum-miser" type="mus">Terzett a
-					capella</title> und dann ein <title key="verdi.requiem.2.rex-tremendae" type="mus"
-					>Quartett mit Chor und Orchester</title>, aus welchem die flehentliche Bitte
-					„<title n="salva-me" key="verdi.requiem.2.rex-tremendae" type="mus">salva me, fons
-					pietatis</title>“ ergreifend herausklingt. — Die wohlklingende Cantilene der
-				beiden Frauenstimmen „<title key="verdi.requiem.2.recordare" type="mus">recordare Jesu
-					pie</title>“ ist nicht ganz original; aber angenehm; und nachdem ein langes
-					<title key="verdi.requiem.2.ingemisco" type="mus">Tenorsolo</title> und darauf das schon
-				erwähnte Basssolo „<title key="verdi.requiem.2.confutatis" type="mus">Confutatis</title>“
-				folgte, dann ein schönes <title key="verdi.requiem.2.lacrymosa" type="mus">Solo-Quartett mit
-					Chor</title> und in den Worten des Chors „<title n="dona-eis"
-					key="verdi.requiem.2.lacrymosa" type="mus">dona eis requiem</title>“ die Ruhe, der Friede
-				hergestellt scheinen, bricht das Entsetzen wieder herein mit dem abermals
-				wiederholten Aufschrei „<title n="dies-irae" key="verdi.requiem.2.confutatis" type="mus">dies
-					irae, dies illae</title>“ und der einfachen und doch so lebendigen Violin-Figur.
-				Das Alles ist das „<title key="verdi.requiem.2" type="mus">dies irae</title>“ — welchem nun
-				eine bemerkenswerthe Orchester-Einleitung und dann ein <title key="verdi.requiem.3" type="mus"
-					>Soloquartett</title> folgen, welches im Mittelsatz einige schöne Modulationen
-				enthält. — Nachdem <persName key="verdi.giuseppe">Verdi</persName> im „<title
-					key="verdi.requiem.4" type="mus">Sanctus</title>“ bewiesen, dass er auch einer Fuge
-				capabel ist, und nur leider das Benedictus zu schnell daran erinnert, dass <persName
-					key="verdi.giuseppe">Verdi</persName>, der Operncomponist, das gekonnt,
-				gelangen wir zum viel bekannten, mehrfach erwähnten „<title key="verdi.requiem.5" type="mus"
-					>Agnus dei</title>“, — einem einfachen, edlen Gesang der beiden Frauenstimmen, —
-				Duett kann mans wohl nicht nennen, da die beiden Stimmen in der Octave
-				zusammensingen, was dann vom Chor in brausendem Gebete wiederholt wird. Das
-				Repetiren — und zu schleppende Repetiren dieser Nummer war schon dazu angethan, den
-				ganzen Eindruck des darauf folgenden, sehr getragenen „<title key="verdi.requiem.6" type="mus"
-					>lux aeterna</title>“ zu untergraben. Und doch ist gerade diese Partie der
-				Glanzpunct des Ganzen, — und dass gerade diese bei der italienischen Aufführung den
-				allerlebhaftesten Beifall hervorgerufen, gibt Zeugniss dafür — so barock dies zuerst
-				klingen mag — dass die Italiener bewusst und unbewusst in hohem Grad unter dem
-				Einfluss der <persName key="wagner.richard">Wagner’schen</persName> Richtung stehen
-				und mit seiner Harmonienfolge vertraut sind. Selbst <persName key="verdi.giuseppe"
-					>Verdi</persName> konnte sich ja gegen die Eindrücke des musikalischen
-				Zeitgeistes nicht verschliessen, — das beweist schon gleich im Anfange des „<title
-					key="verdi.requiem.6" type="mus">lux aeterna</title>“ der Uebergang von B-dur nach E-dur —
-				wenn er auch freilich sich beeilt, wieder nach Hause zu kommen; — das ist ebenso
-				auch in den a capella gesungenen Stellen wohl bemerkbar.</p>
-			<p>Der <title key="verdi.requiem.7" type="mus">Schluss</title> ist des Ganzen werth, — abermals
-				ist es die Wiederkehr des „<title n="dies-irae" key="verdi.requiem.7" type="mus">dies
-					illae</title>“, welche den Zuhörer wie durch die Erinnerung an vergangene
-				Schreckenszeiten erschüttert, — ein mächtiger fugirter Chor löst sich befriedigend,
-				und wahrhaft schön gedacht ist dann das monotone Verharren auf einem Ton, mit
-				welchem der Solosopran zum Schluss ganz allein betet: „<title n="requiem-aeternam"
-					key="verdi.requiem.7" type="mus">Requiem aeternam dona eis, domine</title>“.</p>
+					capella</title> und dann ein <title key="verdi.requiem.2.rex-tremendae"
+					type="mus">Quartett mit Chor und Orchester</title>, aus welchem die flehentliche
+				Bitte „<title key="verdi.requiem.2.rex-tremendae" n="salva-me" type="mus">salva me,
+					fons pietatis</title>“ ergreifend herausklingt. — Die wohlklingende Cantilene
+				der beiden Frauenstimmen „<title key="verdi.requiem.2.recordare" type="mus"
+					>recordare Jesu pie</title>“ ist nicht ganz original; aber angenehm; und nachdem
+				ein langes <title key="verdi.requiem.2.ingemisco" type="mus">Tenorsolo</title> und
+				darauf das schon erwähnte Basssolo „<title key="verdi.requiem.2.confutatis"
+					type="mus">Confutatis</title>“ folgte, dann ein schönes <title
+					key="verdi.requiem.2.lacrymosa" type="mus">Solo-Quartett mit Chor</title> und in
+				den Worten des Chors „<title key="verdi.requiem.2.lacrymosa" n="dona-eis" type="mus"
+					>dona eis requiem</title>“ die Ruhe, der Friede hergestellt scheinen, bricht das
+				Entsetzen wieder herein mit dem abermals wiederholten Aufschrei „<title
+					key="verdi.requiem.2.confutatis" n="dies-irae" type="mus">dies irae, dies
+					illae</title>“ und der einfachen und doch so lebendigen Violin-Figur. Das Alles
+				ist das „<title key="verdi.requiem.2" type="mus">dies irae</title>“ — welchem nun
+				eine bemerkenswerthe Orchester-Einleitung und dann ein <title key="verdi.requiem.3"
+					type="mus">Soloquartett</title> folgen, welches im Mittelsatz einige schöne
+				Modulationen enthält. — Nachdem <persName key="verdi.giuseppe">Verdi</persName> im
+					„<title key="verdi.requiem.4" type="mus">Sanctus</title>“ bewiesen, dass er auch
+				einer Fuge capabel ist, und nur leider das Benedictus zu schnell daran erinnert,
+				dass <persName key="verdi.giuseppe">Verdi</persName>, der Operncomponist, das
+				gekonnt, gelangen wir zum viel bekannten, mehrfach erwähnten „<title
+					key="verdi.requiem.5" type="mus">Agnus dei</title>“, — einem einfachen, edlen
+				Gesang der beiden Frauenstimmen, — Duett kann mans wohl nicht nennen, da die beiden
+				Stimmen in der Octave zusammensingen, was dann vom Chor in brausendem Gebete
+				wiederholt wird. Das Repetiren — und zu schleppende Repetiren dieser Nummer war
+				schon dazu angethan, den ganzen Eindruck des darauf folgenden, sehr getragenen
+					„<title key="verdi.requiem.6" type="mus">lux aeterna</title>“ zu untergraben.
+				Und doch ist gerade diese Partie der Glanzpunct des Ganzen, — und dass gerade diese
+				bei der italienischen Aufführung den allerlebhaftesten Beifall hervorgerufen, gibt
+				Zeugniss dafür — so barock dies zuerst klingen mag — dass die Italiener bewusst und
+				unbewusst in hohem Grad unter dem Einfluss der <persName key="wagner.richard"
+					>Wagner’schen</persName> Richtung stehen und mit seiner Harmonienfolge vertraut
+				sind. Selbst <persName key="verdi.giuseppe">Verdi</persName> konnte sich ja gegen
+				die Eindrücke des musikalischen Zeitgeistes nicht verschliessen, — das beweist schon
+				gleich im Anfange des „<title key="verdi.requiem.6" type="mus">lux aeterna</title>“
+				der Uebergang von B-dur nach E-dur — wenn er auch freilich sich beeilt, wieder nach
+				Hause zu kommen; — das ist ebenso auch in den a capella gesungenen Stellen wohl
+				bemerkbar.</p>
+			<p>Der <title key="verdi.requiem.7" type="mus">Schluss</title> ist des Ganzen werth, —
+				abermals ist es die Wiederkehr des „<title key="verdi.requiem.7" n="dies-irae"
+					type="mus">dies illae</title>“, welche den Zuhörer wie durch die Erinnerung an
+				vergangene Schreckenszeiten erschüttert, — ein mächtiger fugirter Chor löst sich
+				befriedigend, und wahrhaft schön gedacht ist dann das monotone Verharren auf einem
+				Ton, mit welchem der Solosopran zum Schluss ganz allein betet: „<title
+					key="verdi.requiem.7" n="requiem-aeternam" type="mus">Requiem aeternam dona eis,
+					domine</title>“.</p>
 			<p>Damit wollen auch wir sie — für heute — ruhen lassen, die geplagten Seelen im
 				Fegefeuer der Kritik, Componisten, Capellmeister und tutti quanti; mögen ihnen auf
 				einem schönen Stern lauter ungetrübtes Lob und lauter schwerhörige Recensenten zu

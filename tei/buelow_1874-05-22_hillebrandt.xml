@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Hans von Bülow, Brief an Karl Hillebrand, Mailand, 22. Mai 1874</title>
-				<author><persName key="buelow.hans-von"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="buelow.hans-von"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/buelow_1874-05-22_hillebrandt.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -25,7 +26,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/><date when-iso="1874-05-22"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+				<date when-iso="1874-05-22"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -45,8 +49,9 @@
 	</facsimile>
 	<text xml:lang="de">
 		<body rend="fraktur">
-			<p rend="right"><hi rend="widespace"><placeName key="mailand">Mailand</placeName></hi>,
-					<date when-iso="1874-05-22">22. Mai 1874</date></p>
+			<dateline rend="right"><hi rend="widespace"><placeName key="mailand"
+					>Mailand</placeName></hi>, <date when-iso="1874-05-22">22. Mai
+				1874</date></dateline>
 			<gap resp="tr"/>
 			<p>Der Artikel (sind deren zwei geworden) für <orgName key="allgemeine-zeitung">A.
 					Z.</orgName> hat mir zwei Tage zu schaffen gegeben. Allerlei unerwartete
@@ -64,11 +69,11 @@
 				(verdienen’s auch musikalisch) — habe natürlich trotz syndicaler Einladung heute <rs
 					key="mailand.1874.1" type="event">die <persName key="verdi.giuseppe"
 						>Verdi’sche</persName>
-					<title key="verdi.requiem" type="mus">Messe</title></rs> geschwänzt. Hand in Hand mit
-				dieser <hi rend="antiqua">rabbia</hi> geht natürlich ein starkes <hi rend="antiqua"
-					>engouement</hi> für <persName key="glinka.michael">Glinka</persName> und
-				Alles, was nach Juchten riecht. Kennen Sie kein nervencalmirendes Mittel? <gap
-					resp="tr"/></p>
+					<title key="verdi.requiem" type="mus">Messe</title></rs> geschwänzt. Hand in
+				Hand mit dieser <hi rend="antiqua">rabbia</hi> geht natürlich ein starkes <hi
+					rend="antiqua">engouement</hi> für <persName key="glinka.michael"
+					>Glinka</persName> und Alles, was nach Juchten riecht. Kennen Sie kein
+				nervencalmirendes Mittel? <gap resp="tr"/></p>
 		</body>
 	</text>
 </TEI>

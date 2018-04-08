@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Leipziger Tageblatt und Anzeiger, 17. März 1876</title>
-				<author><persName key="piutti.carl"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="piutti.carl"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/lta_1876-03-17_musikalischer-bericht.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,14 +18,16 @@
 					<placeName key="leipzig"/>
 					<date when-custom="fri" when-iso="1876-03-17"/>
 					<biblScope unit="issue">77</biblScope>
-					<biblScope unit="subIssue">77</biblScope>
+					<biblScope unit="subIssue">Zweite Beilage</biblScope>
 					<series>lt</series>
 					<biblScope unit="page">1475</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -47,8 +50,8 @@
 			<p>Das Concert zum Besten des Orchester-Pensions- und des Witwen-Fonds.</p>
 			<p><rs key="leipzig.1876.2" type="event"><placeName key="leipzig">Leipzig</placeName>,
 						<date when-iso="1876-03-14">14. März</date>. Gestern wurde das <title
-						key="verdi.requiem" type="mus">Requiem</title> von <persName key="verdi.giuseppe"
-						>Verdi</persName> wiederholt.</rs>
+						key="verdi.requiem" type="mus">Requiem</title> von <persName
+						key="verdi.giuseppe">Verdi</persName> wiederholt.</rs>
 				<persName key="naumann.emil">Emil Naumann’s</persName> Bericht über das Werk, den
 				wir in Aussicht stellten, lautet:</p>
 			<p><gap resp="tr"/><note resp="tr" type="textLink">Vgl. <persName key="naumann.emil"
@@ -63,25 +66,25 @@
 			<p>Das eine richtet sich gegen den so stark ausgesprochenen Vorwurf, <persName
 					key="verdi.giuseppe">Verdi</persName> verfalle zu sehr in den Opernstyl. Ich
 				kann das im Großen und Ganzen nicht finden. Wohl sind in dem <title
-					key="verdi.requiem" type="mus">Requiem</title> oft Effecte benützt, die auch in der Oper
-				vorkommen. Keineswegs aber ist deshalb immer auch die Stimmung eine opernmäßige, dem
-				kirchlichen Styl fremde. Der Kunst sind alle Mittel dienstbar; deren Verwendung aber
-				ist als eine so mannichfache denkbar, daß mit gewissen, in der Oper notorisch mit
-				Vorliebe gebrauchten Mitteln durchaus noch nicht ein Styl nothwendig verbunden sein
-				muß, den man als einen opernhaften, mit der Idee einer kirchlichen (noch weniger
-				katholisch-kirchlichen, wie sie hier vorliegt) Composition unvertraglich bezeichnen
-				müßte. Als Sätze, die mit den Mitteln der Oper zugleich in den Styl der Oper
-				verfallen, möchte ich eigentlich nur das <title key="verdi.requiem.2.lacrymosa" type="mus"
-					>lacrimosa</title> und den Theil des <title key="verdi.requiem.6" type="mus">lux
-					aeterna</title> nennen, welcher von den chromatischen Läufen in der
-					Begleitung<note resp="tr" type="musicLink">Vgl. <title key="verdi.requiem.6" type="mus"
-						>Lux aeterna</title>, Takt 68 und Takt 71.</note> heimgesucht ist; außer
-				diesen beiden behagt mir aus anderen Gründen die <title key="verdi.requiem.4" type="mus"
-					>Sanctus-Fuge</title> nicht, — ein Satz, dem die rechte Weihe und auch ganz und
-				gar der echte Werth polyphoner Arbeit abgeht. Bezüglich anderer, größerer Abschnitte
-				aus dem Werk hat der Nachweis, sie seien mehr Opern- als Oratoriengut, zum Mindesten
-				eine höchst subjective Geltung. Beweisen läßt sich in musikalischen Angelegenheiten
-				schwer.</p>
+					key="verdi.requiem" type="mus">Requiem</title> oft Effecte benützt, die auch in
+				der Oper vorkommen. Keineswegs aber ist deshalb immer auch die Stimmung eine
+				opernmäßige, dem kirchlichen Styl fremde. Der Kunst sind alle Mittel dienstbar;
+				deren Verwendung aber ist als eine so mannichfache denkbar, daß mit gewissen, in der
+				Oper notorisch mit Vorliebe gebrauchten Mitteln durchaus noch nicht ein Styl
+				nothwendig verbunden sein muß, den man als einen opernhaften, mit der Idee einer
+				kirchlichen (noch weniger katholisch-kirchlichen, wie sie hier vorliegt) Composition
+				unvertraglich bezeichnen müßte. Als Sätze, die mit den Mitteln der Oper zugleich in
+				den Styl der Oper verfallen, möchte ich eigentlich nur das <title
+					key="verdi.requiem.2.lacrymosa" type="mus">lacrimosa</title> und den Theil des
+					<title key="verdi.requiem.6" type="mus">lux aeterna</title> nennen, welcher von
+				den chromatischen Läufen in der Begleitung<note resp="tr" type="musicLink">Vgl.
+						<title key="verdi.requiem.6" type="mus">Lux aeterna</title>, Takt 68 und
+					Takt 71.</note> heimgesucht ist; außer diesen beiden behagt mir aus anderen
+				Gründen die <title key="verdi.requiem.4" type="mus">Sanctus-Fuge</title> nicht, —
+				ein Satz, dem die rechte Weihe und auch ganz und gar der echte Werth polyphoner
+				Arbeit abgeht. Bezüglich anderer, größerer Abschnitte aus dem Werk hat der Nachweis,
+				sie seien mehr Opern- als Oratoriengut, zum Mindesten eine höchst subjective
+				Geltung. Beweisen läßt sich in musikalischen Angelegenheiten schwer.</p>
 			<p>Mein zweites Fragezeichen setzte ich neben die Stellen der <persName
 					key="naumann.emil">Naumann’schen</persName> Kritik, die den Componisten als
 				Italiener bezeichnen. Wenn ich recht zwischen den Zeilen zu lesen verstehe, sagt
@@ -90,22 +93,23 @@
 				Himmelsstrich emporgekommen, aufnehmen“ — das wäre das Richtige! — sondern er sagt:
 				„Du bist Italiener, aber du mußt deutsch werden; wir haben das Rechte!“ Unser
 				musikalischer Mathematiker tadelt also den Kreis, weil er kein Polygon ist, das
-				blühend jugendliche, südländische <title key="verdi.requiem" type="mus">Requiem</title>, weil
-				es die deutsche Denkerstirn nicht an sich trägt. Das ist ein wenig zu viel gethan!
-				In Unterschätzung des unnachahmlichen (wenigstens uns Deutschen unnachahmlichen)
-				Originaltypus, den der südliche Himmel und eine reichlich spendende Muse dem Werk
-				des Italiener verliehen, geht <persName key="naumann.emil">Naumann</persName> so
-				weit, sagen zu können: „Die Composition <persName key="verdi.giuseppe"
-					>Verdi’s</persName> würde, wenn sie von einem deutschen Meister herrührte,
-				wahrscheinlich von denselben Stimmen, deren Enthusiasmus jetzt ins Grenzenlose geht,
-				verurtheilt werden.“ Wir haben die Worte anfangs fortgelassen, holen sie jetzt aber
-				als diejenigen nach, in denen die schwache Seite dieses sonst so wohlverwahrten
-				Artikels am deutlichsten hervortritt. Freilich ist es um den Reiz der <persName
-					key="verdi.giuseppe">Verdi’schen</persName> Composition eine eigne Sache.
-					<persName key="naumann.emil">Naumann</persName> wird auch für die letztere
+				blühend jugendliche, südländische <title key="verdi.requiem" type="mus"
+					>Requiem</title>, weil es die deutsche Denkerstirn nicht an sich trägt. Das ist
+				ein wenig zu viel gethan! In Unterschätzung des unnachahmlichen (wenigstens uns
+				Deutschen unnachahmlichen) Originaltypus, den der südliche Himmel und eine reichlich
+				spendende Muse dem Werk des Italiener verliehen, geht <persName key="naumann.emil"
+					>Naumann</persName> so weit, sagen zu können: „Die Composition <persName
+					key="verdi.giuseppe">Verdi’s</persName> würde, wenn sie von einem deutschen
+				Meister herrührte, wahrscheinlich von denselben Stimmen, deren Enthusiasmus jetzt
+				ins Grenzenlose geht, verurtheilt werden.“ Wir haben die Worte anfangs fortgelassen,
+				holen sie jetzt aber als diejenigen nach, in denen die schwache Seite dieses sonst
+				so wohlverwahrten Artikels am deutlichsten hervortritt. Freilich ist es um den Reiz
+				der <persName key="verdi.giuseppe">Verdi’schen</persName> Composition eine eigne
+				Sache. <persName key="naumann.emil">Naumann</persName> wird auch für die letztere
 				Behauptung seine Anhänger finden. Ich kann die meine nur Denen gegenüber nicht
-				unterdrücken, die ihre Freude an der <title key="verdi.requiem" type="mus">Messe</title>
-				gehabt haben. Beweisen läßt sich in musikalischen Angelegenheitenschwer!</p>
+				unterdrücken, die ihre Freude an der <title key="verdi.requiem" type="mus"
+					>Messe</title> gehabt haben. Beweisen läßt sich in musikalischen
+				Angelegenheitenschwer!</p>
 			<p>Ueber die gestrige Aufführung ist wenig zu sagen. Sie stand nicht auf der Höhe der
 				vorigen. Der Chor, dem die undankbarste Aufgabe zu Theil wird, hielt sich
 				vortrefflich. Fräulein <persName key="nanitz.minna">Nanitz</persName> war plötzlich
@@ -114,20 +118,21 @@
 				dieselbe Künstlerin, die bereits in den drei Aufführungen mitgewirkt, welche das
 				Werk im Januar in <placeName key="dresden">Dresden</placeName> erlebte, die
 				Sopranpartie (etwas theatralisch und zuletzt sehr unsicher, sodaß das <title
-					key="verdi.requiem.5" type="mus">Agnus Dei</title> verunglückte), Frau Dr. <persName
-					key="peschka-leutner.minna" role="soloist.mezzo">Peschka-Leutner</persName> die
-				Mezzosopranpartie, für deren Uebernahme noch in letzter Stunde wir der Dame in
-				Anbetracht der sicheren Durchführung dieser Partie unsre Bewunderung zollen!
-				Capellmeister <persName key="reinecke.carl">Reinecke’s</persName> Direction war
-				eine überaus gewandte und umsichtige. Das Orchester fühlte sich unter ihm geborgen
-				und gehoben, entledigte sich seiner Aufgabe, die es zu selbstständiger Wirkung fast
-				nie kommen läßt, aber ihm zur Entfaltung seines klanglichen Reichthums die schönste
-				Gelegenheit giebt, mit sichtlicher Freude. Daß der Saal nur sehr mäßig gefüllt war,
-				hat seinen Grund wohl weniger in dem musikalischen Indifferentismus, als in der
-				augenblicklichen musikalischen Uebersättigung unserer <placeName key="leipzig"
-					>Leipziger</placeName>.</p>
-			<p>Dem <title key="verdi.requiem" type="mus">Requiem</title> gegenüber ist dieser Umstand immerhin
-				zu bedauern. <persName key="piutti.carl">C. Piutti</persName>.</p>
+					key="verdi.requiem.5" type="mus">Agnus Dei</title> verunglückte), Frau Dr.
+					<persName key="peschka-leutner.minna" role="soloist.mezzo"
+					>Peschka-Leutner</persName> die Mezzosopranpartie, für deren Uebernahme noch in
+				letzter Stunde wir der Dame in Anbetracht der sicheren Durchführung dieser Partie
+				unsre Bewunderung zollen! Capellmeister <persName key="reinecke.carl"
+					>Reinecke’s</persName> Direction war eine überaus gewandte und umsichtige. Das
+				Orchester fühlte sich unter ihm geborgen und gehoben, entledigte sich seiner
+				Aufgabe, die es zu selbstständiger Wirkung fast nie kommen läßt, aber ihm zur
+				Entfaltung seines klanglichen Reichthums die schönste Gelegenheit giebt, mit
+				sichtlicher Freude. Daß der Saal nur sehr mäßig gefüllt war, hat seinen Grund wohl
+				weniger in dem musikalischen Indifferentismus, als in der augenblicklichen
+				musikalischen Uebersättigung unserer <placeName key="leipzig"
+				>Leipziger</placeName>.</p>
+			<p>Dem <title key="verdi.requiem" type="mus">Requiem</title> gegenüber ist dieser
+				Umstand immerhin zu bedauern. <persName key="piutti.carl">C. Piutti</persName>.</p>
 		</body>
 	</text>
 </TEI>

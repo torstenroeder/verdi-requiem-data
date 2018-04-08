@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Neue Freie Presse, Wien, 24. Juni 1875 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nfp_1875-06-24_audienz.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="thu" when-iso="1875-06-24"/>
 					<biblScope unit="issue">3889</biblScope>
-					<biblScope unit="subIssue">3889</biblScope>
+					<biblScope unit="subIssue">Abendblatt</biblScope>
 					<series>nfp</series>
 					<biblScope unit="page">1</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -40,10 +41,13 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18750624&amp;seite=11"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="1" type="initial"/>
+		<front rend="fraktur">
+			<pb n="1"/>
 			<head rend="larger">Kleine Chronik.</head>
-			<cb break="null" n="1b" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="1b"/>
 			<p>[<persName key="verdi.giuseppe">Verdi</persName> in <placeName key="wien"
 					>Wien</placeName>.] Heute Vormittags erschien <persName key="verdi.giuseppe"
 					>Giuseppe Verdi</persName> in der <placeName key="wien.hofburg"
@@ -55,8 +59,8 @@
 				Der <persName key="franz-joseph-i.habsburg">Kaiser</persName> sprach mit <persName
 					key="verdi.giuseppe">Verdi</persName> Italienisch und dankte dem Maestro vor
 				Allem „für den außergewöhnlichen Genuß“, den das <rs key="wien.1875.2" type="event"
-						><title key="verdi.requiem" type="mus">Requiem</title></rs> ihm bereitet habe. <gap
-					resp="tr"/></p>
+						><title key="verdi.requiem" type="mus">Requiem</title></rs> ihm bereitet
+				habe. <gap resp="tr"/></p>
 		</body>
 	</text>
 </TEI>

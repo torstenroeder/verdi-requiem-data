@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 5. Januar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1876-01-05_meldung.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Ankündigung</term>
@@ -39,9 +40,9 @@
 		<body rend="fraktur">
 			<p><rs key="bruenn.1876" type="event">(<hi rend="widespace"><persName
 							key="verdi.giuseppe">Verdi’s</persName>
-						<title key="verdi.requiem" type="mus">Requiem</title></hi>.) Die geehrten Damen und
-					Herren des <orgName key="bruenn.musikverein">Musikvereines</orgName>, sowie die
-					Herren Dilettanten werden zu einer kleinen Probe, welche <date
+						<title key="verdi.requiem" type="mus">Requiem</title></hi>.) Die geehrten
+					Damen und Herren des <orgName key="bruenn.musikverein">Musikvereines</orgName>,
+					sowie die Herren Dilettanten werden zu einer kleinen Probe, welche <date
 						when-iso="1876-01-05">Mittwoch</date>, Abends präzise 7 Uhr im <placeName
 						key="bruenn.redouta-theater">Redoutensaale</placeName> stattfindet,
 					höflichst eingeladen.</rs></p>

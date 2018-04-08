@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Signale, Leipzig, März 1876/20</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/signale_1876-03_20_leipzig.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -24,7 +23,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="leipzig"/></creation>
+			<creation>
+				<placeName key="leipzig"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -45,14 +46,14 @@
 			<pb break="null" n="309" type="initial"/>
 			<head rend="antiqua widespace larger bold">Dur und Moll.</head>
 			<p><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
-				<rs key="leipzig.1876.1" type="event"><hi rend="widespace"><placeName
-							key="leipzig">Leipzig</placeName></hi>. Das <hi rend="widespace"
-						>neunzehnte</hi>, am <date when-iso="1876-03-09">9. März</date> stattgehabte
-						<hi rend="widespace">Gewandhausconcert</hi> vermittelte unsrer Stadt die
-					Bekanntschaft mit demjenigen Werke der musikalischen Kunst, welches seit einiger
-					Zeit seinen Rundgang durch die Welt macht und jedenfalls augenblicklich das
-					notabelste und besprochenste musikalische Ereignis bildet — <persName
-						key="verdi.giuseppe">Verdi’s</persName>
+				<rs key="leipzig.1876.1" type="event"><hi rend="widespace"><placeName key="leipzig"
+							>Leipzig</placeName></hi>. Das <hi rend="widespace">neunzehnte</hi>, am
+						<date when-iso="1876-03-09">9. März</date> stattgehabte <hi rend="widespace"
+						>Gewandhausconcert</hi> vermittelte unsrer Stadt die Bekanntschaft mit
+					demjenigen Werke der musikalischen Kunst, welches seit einiger Zeit seinen
+					Rundgang durch die Welt macht und jedenfalls augenblicklich das notabelste und
+					besprochenste musikalische Ereignis bildet — <persName key="verdi.giuseppe"
+						>Verdi’s</persName>
 					<title key="verdi.requiem" type="mus">Requiem</title></rs>. <persName
 					key="verdi.giuseppe">Verdi</persName> im <placeName key="leipzig.gewandhaus"
 					>Gewandhause</placeName>! Was sagen die Italianophoben und Classicomanen hier
@@ -63,8 +64,8 @@
 				aber helfen wird’s ihnen nichts und die Thatsache werden sie nicht aus der Welt
 				schaffen, daß in diesem Werke des verruchten und vervehmten Wälschen, den in
 				schnöder Weltlichkeit und Frivolität begangenen <hi rend="antiqua"><title
-						key="verdi.il-trovatore" type="mus">Trovatore</title></hi>-Componisten eine That
-				vorliegt, welche selbst von Denen, die noch ein gutes Haar an <persName
+						key="verdi.il-trovatore" type="mus">Trovatore</title></hi>-Componisten eine
+				That vorliegt, welche selbst von Denen, die noch ein gutes Haar an <persName
 					key="verdi.giuseppe">Verdi</persName> lassen und ihn nicht vornehm über die
 				Achsel ansehen, kaum erwartet wurde, eine That, die ein gutes Theil des seitens
 				eines verbohrten musikalischen Muckerthums künstlich genährten Hasses gegen den
@@ -72,9 +73,9 @@
 				Stande sein wird. Wir selbst, die wir, seitdem wir den Jahren der Unerfahrenheit und
 				Unbedachtheit entwachsen sind und uns mehr in der Welt umgesehen und umgehört haben,
 				sehr wesentlich von der <persName key="verdi.giuseppe">Verdi</persName>-Verachtung
-				zurückgenommen sind, gestehen ohne scheu, daß das <title key="verdi.requiem" type="mus"
-					>Requiem</title> auf uns einen höchst bedeutenden, ja im Großen und Ganzen
-				selbst ergreifenden Eindruck gemacht hat und daß wir vollständig das aufsehen
+				zurückgenommen sind, gestehen ohne scheu, daß das <title key="verdi.requiem"
+					type="mus">Requiem</title> auf uns einen höchst bedeutenden, ja im Großen und
+				Ganzen selbst ergreifenden Eindruck gemacht hat und daß wir vollständig das aufsehen
 				begreifen, welches von dem Werke in der ganzen civilisirten Welt hervorgebracht
 				worden ist. Jener Eindruck ist motivirt durch hohe Genialität in Anlage und
 				Ausführung, stimmungsvolle Charakteristik, blühende Erfindung und wundervolle vocale
@@ -82,25 +83,26 @@
 				einestheils den Ideen von Kirchlichkeit und kirchlichem Styl widersprechen,
 				anderntheils als zu roh materialistisch und selbst geschmacklos erscheinen müssen,
 				und trotz der nicht gerade mustergültigen Behandlung der beiden <title
-					key="verdi.requiem.4 verdi.requiem.7" type="mus">Fugensätze</title>. Daß das Werk auch
-				beim Publicum durchgeschlagen hat, beweist erstens der nach verschiedenen Nummern
-				gespendete reiche Beifall, und dann viel mehr noch der Umstand, daß ein Verlangen
-				nach Wiederholung des ganzen <title key="verdi.requiem" type="mus">Requiems</title> laut
-				geworden ist, ein Verlangen, dem auch demnächst gewillfahrt werden wird. — Was nun
-				schließlich die Aufführung des <title key="verdi.requiem" type="mus">Requiems</title> im 19.
-				Gewandhausconcerte betrifft, so war diese eine wohlgelungene zu nennen. Orchester
-				und Chöre lösten ihre Aufgaben ersichtlich mit Lust und Liebe zur Sache, und die
-				Solisten — Frau <hi rend="widespace"><persName key="peschka-leutner.minna"
-						role="soloist.soprano">Peschka-Leutner</persName></hi> (Sopran),
-				Hofopernsängerin Fräulein <hi rend="widespace"><persName key="nanitz.minna"
-						role="soloist.mezzo">Nanitz</persName></hi> aus <placeName key="dresden"
-					>Dresden</placeName> (Mezzosopran), Herr <hi rend="widespace"><persName
-						key="pielke.walter" role="soloist.tenor">Pielke</persName></hi> von
-				hiesigen <placeName key="leipzig">Stadttheater</placeName> (Tenor) und Herr
-				Hofopernsänger <hi rend="widespace"><persName key="koehler.hans"
-						role="soloist.basso">Köhler</persName></hi> aus <placeName key="dresden"
-					>Dresden</placeName> (Baß) — ließen es an befriedigendem, ja zum Theil
-				vortrefflichem Einzel- und Zusammenwirken nicht fehlen.</p>
+					key="verdi.requiem.4 verdi.requiem.7" type="mus">Fugensätze</title>. Daß das
+				Werk auch beim Publicum durchgeschlagen hat, beweist erstens der nach verschiedenen
+				Nummern gespendete reiche Beifall, und dann viel mehr noch der Umstand, daß ein
+				Verlangen nach Wiederholung des ganzen <title key="verdi.requiem" type="mus"
+					>Requiems</title> laut geworden ist, ein Verlangen, dem auch demnächst
+				gewillfahrt werden wird. — Was nun schließlich die Aufführung des <title
+					key="verdi.requiem" type="mus">Requiems</title> im 19. Gewandhausconcerte
+				betrifft, so war diese eine wohlgelungene zu nennen. Orchester und Chöre lösten ihre
+				Aufgaben ersichtlich mit Lust und Liebe zur Sache, und die Solisten — Frau <hi
+					rend="widespace"><persName key="peschka-leutner.minna" role="soloist.soprano"
+						>Peschka-Leutner</persName></hi> (Sopran), Hofopernsängerin Fräulein <hi
+					rend="widespace"><persName key="nanitz.minna" role="soloist.mezzo"
+						>Nanitz</persName></hi> aus <placeName key="dresden">Dresden</placeName>
+				(Mezzosopran), Herr <hi rend="widespace"><persName key="pielke.walter"
+						role="soloist.tenor">Pielke</persName></hi> von hiesigen <placeName
+					key="leipzig">Stadttheater</placeName> (Tenor) und Herr Hofopernsänger <hi
+					rend="widespace"><persName key="koehler.hans" role="soloist.basso"
+						>Köhler</persName></hi> aus <placeName key="dresden">Dresden</placeName>
+				(Baß) — ließen es an befriedigendem, ja zum Theil vortrefflichem Einzel- und
+				Zusammenwirken nicht fehlen.</p>
 		</body>
 	</text>
 </TEI>

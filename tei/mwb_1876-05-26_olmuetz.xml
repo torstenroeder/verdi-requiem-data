@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>MWbl, Leipzig, 26. Mai 1876 [1]</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/mwb_1876-05-26_olmuetz.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="olmuetz"/></creation>
+			<creation>
+				<placeName key="olmuetz"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -40,17 +41,21 @@
 			xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
-			<pb n="288" type="initial"/>
+		<front rend="antiqua">
+			<pb n="288"/>
 			<head rend="bold lineale">Vermischte Mittheilungen und Notizen.</head>
-			<cb break="null" facs="#f1" n="288b" type="skipped"/>
+		</front>
+		<gap/>
+		<body rend="antiqua">
+			<cb facs="#f1" n="288b"/>
 			<p><g n="002A" type="ASTERISK">*</g>
-				<rs key="olmuetz.1876" type="event">In <hi rend="widespace"><placeName
-							key="olmuetz">Olmütz</placeName></hi> kam <hi rend="widespace"
-							><persName key="verdi.giuseppe">Verdi’s</persName></hi>
-					<title key="verdi.requiem" type="mus">Requiem</title> kürzlich vier<note resp="tr"
-						type="eventCommentary">Bislang nur zwei Aufführungen belegbar.</note> Mal
-					zur Aufführung.</rs> Das Werk hat dort sehr gefallen.</p>
+				<rs key="olmuetz.1876" type="event">In <hi rend="widespace"><placeName key="olmuetz"
+							>Olmütz</placeName></hi> kam <hi rend="widespace"><persName
+							key="verdi.giuseppe">Verdi’s</persName></hi>
+					<title key="verdi.requiem" type="mus">Requiem</title> kürzlich vier<note
+						resp="tr" type="eventCommentary">Bislang nur zwei Aufführungen
+						belegbar.</note> Mal zur Aufführung.</rs> Das Werk hat dort sehr
+				gefallen.</p>
 		</body>
 	</text>
 </TEI>

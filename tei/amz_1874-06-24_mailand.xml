@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>AmZ, Leipzig, 24. Juni 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/amz_1874-06-24_mailand.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -22,7 +21,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Nachmeldung</term>
@@ -39,11 +40,15 @@
 			url="http://reader.digitale-sammlungen.de/object/bsb11179879_00214.svg" xml:id="f1"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="antiqua">
-			<pb break="null" facs="#f1" n="395" type="initial"/>
+		<front rend="antiqua">
+			<pb break="null" facs="#f1" n="395"/>
 			<head rend="bold larger egypt">Berichte. Nachrichten und Bemerkungen.</head>
-			<cb break="null" n="396" type="skipped"/>
-			<p><hi rend="bold">* <placeName key="mailand">Mailand</placeName>.</hi>
+			<gap/>
+		</front>
+		<body rend="antiqua">
+			<cb break="null" n="396"/>
+			<p><hi rend="bold"><g n="273B" type="TEARDROP-SPOKED_ASTERISK">✻</g>
+					<placeName key="mailand">Mailand</placeName>.</hi>
 				<rs key="mailand.1874.1" type="event">Am <date when-iso="1874-05-22">22. Mai</date>
 					ist in der <placeName key="mailand.san-marco">Kirche San Marco</placeName> zu
 						<placeName key="mailand">Mailand</placeName>

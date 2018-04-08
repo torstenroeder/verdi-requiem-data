@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Zeitung, 18. Februar 1876</title>
-				<author><persName key="guckeisen.august"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="guckeisen.august"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/kz_1876-02-18_guerzenich-konzert.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,14 +18,17 @@
 					<placeName key="koeln"/>
 					<date when-custom="fri" when-iso="1876-02-18"/>
 					<biblScope unit="issue">49</biblScope>
-					<biblScope unit="subIssue">49</biblScope>
+					<biblScope unit="subIssue">Drittes Blatt</biblScope>
 					<series>kz</series>
 					<biblScope unit="page">1</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/><date when-iso="1876-02-15"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+				<date when-iso="1876-02-15"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -51,8 +55,8 @@
 					Februar</date>.</p>
 			<p><rs key="koeln.1875.2" type="event">Einen allseitig geäußerten Wunsche entsprechend,
 					kam in jüngsten Concerte nochmals <persName key="verdi.giuseppe"
-						>Verdi’s</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“ zur
-					Aufführung.</rs> Für diesmal hatte sich denn auch so zu sagen die ganze
+						>Verdi’s</persName> „<title key="verdi.requiem" type="mus">Requiem</title>“
+					zur Aufführung.</rs> Für diesmal hatte sich denn auch so zu sagen die ganze
 				musicalische Umgegend <placeName key="koeln">Kölns</placeName> zusammengefunden, so
 				daß der große Saal bis in den letzten Raum gefüllt war. Wir sehen von einer weiteren
 				Besprechung ab, da wir im Wesentlichen nur das günstige Urtheil wiederholen müßten,
@@ -88,10 +92,10 @@
 				in letzter Stunde für den erkrankten Herr <persName key="diener.franz"
 					>Diener</persName> die Tenorpartie übernahm, erwarb sich die allgemeinste
 				Anerkennung.</p>
-			<p>Dem Requiem gingen voraus <title key="brahms.variationen-ueber-ein-thema-von-haydn" type="mus"
-					>Variationen für Orchester über ein Thema von Haydn</title> (Chorale St. Antoni)
-				von <persName key="brahms.johannes">Johannes Brahms</persName>. <gap resp="tr"
-				/></p>
+			<p>Dem Requiem gingen voraus <title key="brahms.variationen-ueber-ein-thema-von-haydn"
+					type="mus">Variationen für Orchester über ein Thema von Haydn</title> (Chorale
+				St. Antoni) von <persName key="brahms.johannes">Johannes Brahms</persName>. <gap
+					resp="tr"/></p>
 		</body>
 	</text>
 </TEI>

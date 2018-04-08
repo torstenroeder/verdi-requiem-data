@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tagesbote aus Mähren und Schlesien, Brünn, 21. Dezember 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/tms_1875-12-21_meldung.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="bruenn"/></creation>
+			<creation>
+				<placeName key="bruenn"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -42,12 +43,12 @@
 			<gap resp="tr"/>
 			<p><g n="256A" type="BOX_DRAWINGS_VERTICAL_SINGLE_AND_HORIZONTAL_DOUBLE">╪</g>
 					(<persName key="verdi.giuseppe">Verdi’s</persName>
-				<title key="verdi.requiem" type="mus">Requiem</title>.) Nachdem der Musik-Verein sein letztes
-				diesjähriges Konzert abgehalten, bildet das Studium des <persName
+				<title key="verdi.requiem" type="mus">Requiem</title>.) Nachdem der Musik-Verein
+				sein letztes diesjähriges Konzert abgehalten, bildet das Studium des <persName
 					key="verdi.giuseppe">Verdi’schen</persName>
-				<title key="verdi.requiem" type="mus">Requiems</title> den ausschließlichen Gegenstand der
-				Thätigkeit in den betreffenden Kreisen. — Ausgezeichnete Dilettanten haben bereits
-				ihre Mitwirkung zugesagt und Alles spricht dafür, daß sich die <rs
+				<title key="verdi.requiem" type="mus">Requiems</title> den ausschließlichen
+				Gegenstand der Thätigkeit in den betreffenden Kreisen. — Ausgezeichnete Dilettanten
+				haben bereits ihre Mitwirkung zugesagt und Alles spricht dafür, daß sich die <rs
 					key="bruenn.1876" type="event">Abende des <date when-iso="1876-01-02">2.</date>
 					und <date when-iso="1876-01-06">6. Jänner</date></rs> zu den Glanzpunkten des
 				diesjährigen künstlerischen Lebens in <placeName key="bruenn">Brünn</placeName>

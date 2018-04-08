@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Kölnische Zeitung, 23. Mai 1877 [2]</title>
-				<author><persName key="verdi.giuseppe"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="verdi.giuseppe"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/kz_1877-05-23_vermischte-nachrichten.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -17,14 +18,17 @@
 					<placeName key="koeln"/>
 					<date when-custom="wed" when-iso="1877-05-23"/>
 					<biblScope unit="issue">142</biblScope>
-					<biblScope unit="subIssue">142</biblScope>
+					<biblScope unit="subIssue">Zweites Blatt</biblScope>
 					<series>kz</series>
 					<biblScope unit="page">2</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="koeln"/><date when-iso="1877-05-22"/></creation>
+			<creation>
+				<placeName key="koeln"/>
+				<date when-iso="1877-05-22"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -41,27 +45,28 @@
 		<body rend="fraktur">
 			<head rend="larger">Vermischte Nachrichten</head>
 			<p><g n="002A" type="ASTERISK">*</g>
-				<placeName key="koeln">Köln</placeName>, <date when-iso="1877-05-23">23.
-				Mai</date>. <persName key="verdi.giuseppe">Verdi</persName> hat am gestrigen Tage
-				an <hi rend="antiqua">Dr.</hi>
+				<placeName key="koeln">Köln</placeName>, <date when-iso="1877-05-23">23. Mai</date>.
+					<persName key="verdi.giuseppe">Verdi</persName> hat am gestrigen Tage an <hi
+					rend="antiqua">Dr.</hi>
 				<persName key="hiller.ferdinand">Hiller</persName> nachstehenden Brief (in
 				französischer Sprache) gerichtet: „Mein lieber Maestro <persName
 					key="hiller.ferdinand">Hiller</persName>! Könnte ich solche Reden halten, wie
 				Sie, ich würde in diesem Augenblick bei der Probe erscheinen und den schönen Damen,
 				welche im Chor singen, meine Bewunderung und Anerkennung für die Hingebung und das
-				Talent ausdrücken, womit sie mein <title key="verdi.requiem" type="mus">Requiem</title>
-				vorgetragen haben. Dasselbe würde ich allen in der That herrlichen Chor- und
-				Orchestermassen sagen. Aus diesem Grunde und Dank ihren Talenten ist eine so
-				ausgezeichnete <rs key="koeln.1877" type="event">Ausführung</rs> erzielt worden.
-				Ich kann weder Worte noch Complimente machen; deshalb überlasse ich es Ihrem Geiste
-				und Ihrer Liebenswürdigkeit, mein Herz zu errathen, und bitte Sie, in meinem Namen
-				Allen meine aufrichtigsten Glückwünsche und meinen Dank darzubringen. Danken Sie
-				ihnen auch für die Zeichen der Hochachtung, die man mir in einer so edeln und zarten
-				Weise gespendet hat. Ich fühle mich geehrt und solz, daß man mich zu diesen großen
-				Festen berufen hat, an denen alle Ihre großen Tondichter Theil genommen haben, und
-				ich hegen den wärmsten Wunsch, daß sie mit gleichem Glanze fortbestehen bleiben zur
-				Ehre <placeName key="deutschland">Deutschlands</placeName> und der universellen
-				Kunst. Der Ihrige. <persName key="verdi.giuseppe">G. Verdi</persName>.“</p>
+				Talent ausdrücken, womit sie mein <title key="verdi.requiem" type="mus"
+					>Requiem</title> vorgetragen haben. Dasselbe würde ich allen in der That
+				herrlichen Chor- und Orchestermassen sagen. Aus diesem Grunde und Dank ihren
+				Talenten ist eine so ausgezeichnete <rs key="koeln.1877" type="event"
+					>Ausführung</rs> erzielt worden. Ich kann weder Worte noch Complimente machen;
+				deshalb überlasse ich es Ihrem Geiste und Ihrer Liebenswürdigkeit, mein Herz zu
+				errathen, und bitte Sie, in meinem Namen Allen meine aufrichtigsten Glückwünsche und
+				meinen Dank darzubringen. Danken Sie ihnen auch für die Zeichen der Hochachtung, die
+				man mir in einer so edeln und zarten Weise gespendet hat. Ich fühle mich geehrt und
+				solz, daß man mich zu diesen großen Festen berufen hat, an denen alle Ihre großen
+				Tondichter Theil genommen haben, und ich hegen den wärmsten Wunsch, daß sie mit
+				gleichem Glanze fortbestehen bleiben zur Ehre <placeName key="deutschland"
+					>Deutschlands</placeName> und der universellen Kunst. Der Ihrige. <persName
+					key="verdi.giuseppe">G. Verdi</persName>.“</p>
 		</body>
 	</text>
 </TEI>

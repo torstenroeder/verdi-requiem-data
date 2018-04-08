@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Salzburger Volksblatt, 10. Februar 1876</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/svb_1876-02-10_salzburger-nachrichten.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="salzburg"/></creation>
+			<creation>
+				<placeName key="salzburg"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Notiz</term>
@@ -50,16 +51,16 @@
 					key="salzburg.1876" type="event"> Die schon vor längerer Zeit von Herrn
 					Mozarteums-Direktor Dr. <persName key="bach.otto">O. Bach</persName> angeregte
 					Aufführung des berühmten <persName key="verdi.giuseppe">Verdi’schen</persName>
-					<title key="verdi.requiem" type="mus">Requiems</title> ist nunmehr, Dank der großherzigen
-					Bemühungen der kunstsinnigen Fr. Gräfin <hi rend="widespace"><persName
-							key="gatterburg.hedwig">Hedwig Gatterburg</persName></hi> bezüglich des
-					Kostenpunktes der Anschaffung gesichert und wird definitiv im <date
-						when-iso="1876-04">April dieses Jahres</date> statthaben.</rs> Ihre kais.
-				Hoheiten <hi rend="widespace"><persName key="franz-joseph-i.habsburg">Großherzog
-						von Toscana</persName></hi> und <hi rend="widespace"><persName
+					<title key="verdi.requiem" type="mus">Requiems</title> ist nunmehr, Dank der
+					großherzigen Bemühungen der kunstsinnigen Fr. Gräfin <hi rend="widespace"
+							><persName key="gatterburg.hedwig">Hedwig Gatterburg</persName></hi>
+					bezüglich des Kostenpunktes der Anschaffung gesichert und wird definitiv im
+						<date when-iso="1876-04">April dieses Jahres</date> statthaben.</rs> Ihre
+				kais. Hoheiten <hi rend="widespace"><persName key="franz-joseph-i.habsburg"
+						>Großherzog von Toscana</persName></hi> und <hi rend="widespace"><persName
 						key="elisabeth.oesterreich-ungarn">Frau Gemahlin</persName></hi> haben dem
-					<orgName key="salzburg.mozarteum">Mozarteum</orgName> zu dem Zwecke des
-				Ankaufes des <title key="verdi.requiem" type="mus">Requiems</title> großmüthigst einen Betrag
+					<orgName key="salzburg.mozarteum">Mozarteum</orgName> zu dem Zwecke des Ankaufes
+				des <title key="verdi.requiem" type="mus">Requiems</title> großmüthigst einen Betrag
 				von 100 Gulden zustellen lassen.</p>
 		</body>
 	</text>

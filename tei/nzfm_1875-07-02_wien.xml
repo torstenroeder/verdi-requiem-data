@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>NZfM, Leipzig, 2. Juli 1875</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/nzfm_1875-07-02_verdis-aida.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -23,7 +22,9 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Bericht</term>
@@ -40,28 +41,32 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=nzm&amp;datum=18750702&amp;seite=7"/>
 	</facsimile>
 	<text xml:lang="de">
-		<body rend="fraktur">
-			<pb break="null" n="275" type="initial"/>
+		<front rend="fraktur">
+			<pb n="275"/>
 			<head rend="larger">Tagesgeschichte.</head>
-			<cb break="null" n="275b" type="skipped"/>
+			<gap/>
+		</front>
+		<body rend="fraktur">
+			<cb n="275b"/>
 			<head rend="bold">Neue und neu einstudirte Opern.</head>
-			<gap resp="tr"/>
+			<gap/>
 			<p><hi rend="widespace"><persName key="verdi.giuseppe">Verdi’s</persName></hi> „<title
-					key="verdi.aida" type="mus">Aida</title>“ macht in <placeName key="wien">Wien</placeName>
-				ebenso volle Häuser wie sein <title key="verdi.requiem" type="mus">Manzoni-Requiem</title>.
-				Der Enthusiasmus hat nahezu die ganze Stadt angesteckt (ganz ähnlich wie einst bei
-					<persName key="rossini.gioachino">Rossini</persName>, als „<title
-					key="beethoven.fidelio" type="mus">Fidelio</title>“ vollständig vergessen wurde);
-					<persName key="verdi.giuseppe">Verdi</persName> ist jetzt bei den Wienern der
-				populärste Mann, in allen Wein- und Biergärten werden sogn. „Verdifeiern“ mit und
-				ohne Illumination inscenirt, alle Leierkasten drehen den <hi rend="antiqua"><title
-						key="verdi.il-trovatore" type="mus">Trovatore</title></hi> bis zur <hi rend="antiqua"
-						><title key="verdi.aida" type="mus">Aida</title></hi> herunter. Die hervorragendsten
-				Kritiker sind von dem allgemeinen Rausch in kaum glaublicher Weise angesteckt und
-				wissen nicht genug von der gediegenen Erfindung und feinen Ausarbeitung beider Werke
-				zu rühmen. Theilweise Erklärung findet diese Erscheinung dadurch, daß in <placeName
-					key="wien">Wien</placeName> zahlreiche Italiener leben und überhaupt
-				südlich-gemüthliche Geschmacksrichtung dort überwiegt. —</p>
+					key="verdi.aida" type="mus">Aida</title>“ macht in <placeName key="wien"
+					>Wien</placeName> ebenso volle Häuser wie sein <title key="verdi.requiem"
+					type="mus">Manzoni-Requiem</title>. Der Enthusiasmus hat nahezu die ganze Stadt
+				angesteckt (ganz ähnlich wie einst bei <persName key="rossini.gioachino"
+					>Rossini</persName>, als „<title key="beethoven.fidelio" type="mus"
+					>Fidelio</title>“ vollständig vergessen wurde); <persName key="verdi.giuseppe"
+					>Verdi</persName> ist jetzt bei den Wienern der populärste Mann, in allen Wein-
+				und Biergärten werden sogn. „Verdifeiern“ mit und ohne Illumination inscenirt, alle
+				Leierkasten drehen den <hi rend="antiqua"><title key="verdi.il-trovatore" type="mus"
+						>Trovatore</title></hi> bis zur <hi rend="antiqua"><title key="verdi.aida"
+						type="mus">Aida</title></hi> herunter. Die hervorragendsten Kritiker sind
+				von dem allgemeinen Rausch in kaum glaublicher Weise angesteckt und wissen nicht
+				genug von der gediegenen Erfindung und feinen Ausarbeitung beider Werke zu rühmen.
+				Theilweise Erklärung findet diese Erscheinung dadurch, daß in <placeName key="wien"
+					>Wien</placeName> zahlreiche Italiener leben und überhaupt südlich-gemüthliche
+				Geschmacksrichtung dort überwiegt. —</p>
 		</body>
 	</text>
 </TEI>

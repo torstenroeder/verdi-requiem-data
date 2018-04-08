@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Cosima Wagner, Tagebuch, 2. November 1875</title>
-				<author><persName key="wagner.cosima"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="wagner.cosima"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wagner-cosima_1875-11-02_tagebuecher.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -26,7 +27,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/><date when-iso="1875-11-02"/></creation>
+			<creation>
+				<placeName key="wien"/>
+				<date when-iso="1875-11-02"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -42,13 +46,13 @@
 		<body rend="antiqua">
 			<p><hi rend="italic"><date when-iso="1875-11-02">Dienstag 2ten</date></hi>
 				<gap resp="tr"/>
-				<rs key="wien.1875a.2" type="event">Abends das »<title key="verdi.requiem" type="mus"
-						>Requiem</title>« von <persName key="verdi.giuseppe">Verdi</persName></rs>,
-				worüber nicht zu sprechen entschieden das beste ist. — — — <date
-					when-iso="1875-11-02">Allerseelentag</date> heute, wie vieles ging mir verloren!
-				Ich bringe den Abend mit <persName key="sierzputowska.emilie">Emilie</persName> zu,
-				von <persName key="muchanoff.maria">Marie</persName> sprechend, des Todes
-				gedenkend.</p>
+				<rs key="wien.1875a.2" type="event">Abends das »<title key="verdi.requiem"
+						type="mus">Requiem</title>« von <persName key="verdi.giuseppe"
+						>Verdi</persName></rs>, worüber nicht zu sprechen entschieden das beste ist.
+				— — — <date when-iso="1875-11-02">Allerseelentag</date> heute, wie vieles ging mir
+				verloren! Ich bringe den Abend mit <persName key="sierzputowska.emilie"
+					>Emilie</persName> zu, von <persName key="muchanoff.maria">Marie</persName>
+				sprechend, des Todes gedenkend.</p>
 		</body>
 	</text>
 </TEI>

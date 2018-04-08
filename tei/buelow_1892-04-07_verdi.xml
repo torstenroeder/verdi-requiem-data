@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Hans von Bülow, Brief an Giuseppe Verdi, Hamburg, 7. April 1892</title>
-				<author><persName key="buelow.hans-von"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="buelow.hans-von"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/buelow_1892-04-07_verdi.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -21,7 +22,10 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="hamburg"/><date when-iso="1892-04-07"/></creation>
+			<creation>
+				<placeName key="hamburg"/>
+				<date when-iso="1892-04-07"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Privatschrift</term>
@@ -43,9 +47,10 @@
 	<text xml:lang="it">
 		<body rend="antiqua">
 			<pb break="null" facs="#f1" n="386" type="initial"/>
-			<p rend="right"><hi rend="widespace"><placeName key="hamburg">Amburgo</placeName></hi>,
-				li <date when-iso="1892-04-07">7 Aprile 1892</date>.</p>
-			<p>Illustre Maestro,</p>
+			<dateline rend="right"><hi rend="widespace"><placeName key="hamburg"
+					>Amburgo</placeName></hi>, li <date when-iso="1892-04-07">7 Aprile
+				1892</date>.</dateline>
+			<salute>Illustre Maestro,</salute>
 			<p>Degnatevi ascoltare la confessione di un contrito peccatore! Fa già diciotto anni che
 				il sottoscritto si è fatto reo di una gran — gran <hi rend="italic">bestialità</hi>
 				giornalistica — verso l’ultimo dei cinque Re della musica italiana moderna. Se n’è
@@ -63,21 +68,21 @@
 			<p>Giunto alfin a quel »punto di cognizione« quanto n’ebbi a congratularmi, quanto se
 				n’è arricchita la mia vita, se n’è accresciuto il campo delle più preziose gioie, le
 				artistiche! Ho principiato collo studiare le Vostre ultime opere: <hi rend="italic"
-						><title key="verdi.aida" type="mus">l’Aida</title></hi>, <hi rend="italic"><title
-						key="verdi.otello" type="mus">l’Otello</title></hi> ed il <hi rend="italic"><title
-						key="verdi.requiem" type="mus">Requiem</title></hi>, di cui ultimamente una esecuzione
-				anzi piuttosto debole — m’ha commosso fin’ alle lagrime: le ho studiate non
-				solamente secondo la lettera che uccide, ma secondo lo spirito che ravviva! Ebbene,
-				illustre Maestro, ora Vi ammiro, Vi amo!</p>
+						><title key="verdi.aida" type="mus">l’Aida</title></hi>, <hi rend="italic"
+						><title key="verdi.otello" type="mus">l’Otello</title></hi> ed il <hi
+					rend="italic"><title key="verdi.requiem" type="mus">Requiem</title></hi>, di cui
+				ultimamente una esecuzione anzi piuttosto debole — m’ha commosso fin’ alle lagrime:
+				le ho studiate non solamente secondo la lettera che uccide, ma secondo lo spirito
+				che ravviva! Ebbene, illustre Maestro, ora Vi ammiro, Vi amo!</p>
 			<p>Volete perdonarmi, volete valervi del privilegio dei sovrani di graziare? Comunque
 				sia, debbo, potendolo, fosse anche solo per darne l’esempio ai minori fratelli
 				erranti, confessare la colpa del passato.</p>
 			<p>E fedele al motto prussiano: <hi rend="italic">Suum cuique</hi>, esclamo
 				bravamente</p>
-			<p>Evviva <persName key="verdi.giuseppe">VERDI</persName>, il <persName
-					key="wagner.richard">Wagner</persName> dei nostri cari alleati!</p>
-			<p rend="right"><persName key="buelow.hans-von">Hans von Bülow</persName> (nato <date
-					when-iso="1830-01-08">8 Gennaio 1830</date>).</p>
+			<salute>Evviva <persName key="verdi.giuseppe">VERDI</persName>, il <persName
+					key="wagner.richard">Wagner</persName> dei nostri cari alleati!</salute>
+			<signed rend="right"><persName key="buelow.hans-von">Hans von Bülow</persName> (nato
+					<date when-iso="1830-01-08">8 Gennaio 1830</date>).</signed>
 		</body>
 	</text>
 </TEI>

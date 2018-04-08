@@ -3,11 +3,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Wiener Zeitung, 11. Juni 1875</title>
-				<principal>Torsten Roeder</principal>
+				<title>Wiener Abendpost (Beilage zur Wiener Zeitung), 11. Juni 1875</title>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1875-06-11_theater-von-heute.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="fri" when-iso="1875-06-11"/>
 					<biblScope unit="issue">131</biblScope>
-					<biblScope unit="subIssue">131</biblScope>
+					<biblScope unit="subIssue">Abendpost</biblScope>
 					<series>wz</series>
 					<biblScope unit="page">6</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="wien"/></creation>
+			<creation>
+				<placeName key="wien"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Anzeige</term>
@@ -40,15 +41,19 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18750611&amp;seite=14"/>
 	</facsimile>
 	<text xml:lang="de">
+		<front rend="fraktur">
+			<pb n="6"/>
+			<cb n="c"/>
+			<head>Theater von heute.</head>
+		</front>
+		<gap/>
 		<body rend="fraktur">
-			<head rend="larger">Theater von heute.</head>
-			<gap resp="tr"/>
-			<p><rs key="wien.1875.1" type="event"><hi rend="bold"><placeName
+			<p rend="smaller"><rs key="wien.1875.1" type="event"><hi rend="bold"><placeName
 							key="wien.hof-operntheater">Hofoperntheater.</placeName></hi> Unter
 					persönlicher Leitung des Componisten <persName key="verdi.giuseppe">Giuseppe
-						Verdi</persName>. „<title key="verdi.requiem" type="mus">Requiem</title>“ für Soli,
-					Chor und Orchester. (Erste Aufführung in <placeName key="wien"
-					>Wien</placeName>.) Soli: Sigra. <persName key="stolz.teresa">Teresa
+						Verdi</persName>. „<title key="verdi.requiem" type="mus">Requiem</title>“
+					für Soli, Chor und Orchester. (Erste Aufführung in <placeName key="wien"
+						>Wien</placeName>.) Soli: Sigra. <persName key="stolz.teresa">Teresa
 						Stolz</persName>, Sgra. <persName key="waldmann.maria">Maria
 						Waldmann</persName>, Sigr. <persName key="masini.angelo">Angelo
 						Masini</persName>, Sigr. <persName key="medini.paolo">Paolo

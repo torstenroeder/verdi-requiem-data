@@ -4,11 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Gernsheims Musikführer, 1896</title>
-				<author><persName key="gernsheim.friedrich"/></author>
-				<principal>Torsten Roeder</principal>
+				<author>
+					<persName key="gernsheim.friedrich"/>
+				</author>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/gernsheim_1896_musikfuehrer.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -42,28 +43,29 @@
 			<p>Als sich im Jahre <date when-iso="1874">1874</date> in der musikalischen Welt die
 				Kunde verbreitete, <persName key="verdi.giuseppe">Verdi</persName> habe für die
 				erste Wiederkehr des Todestages <persName key="manzoni.alessandro">Alessandro
-					Manzonis</persName> ein <title key="verdi.requiem" type="mus">Requiem</title> geschrieben,
-				war man nicht wenig erstaunt, den Komponisten des <title key="verdi.il-trovatore" type="mus"
-					>Trovatore</title> und der <title key="verdi.la-traviata" type="mus">Traviata</title> ein
-				Gebiet betreten zu sehen, das nach der Meinung Vieler dem populären Opernkomponisten
-				mehr oder weniger ein fremdes sein musste, — ein Gebiet, für welches die Klänge, die
-				man bisher von ihm zu hören gewohnt war, wenig geeignet erscheinen wollten. Als aber
-				kurze Zeit nach den <rs key="paris.1874" type="event"><hi rend="widespace"
-							><placeName key="paris">Pariser</placeName></hi> Aufführungen</rs> das
-				Werk die Runde durch die Welt machte, brach sich sehr bald die Überzeugung Bahn,
-				dass man es nicht nur mit einer ernsten, sondern auch mit einer hochbedeutenden
-				Tonschöpfung zu thun habe, die einen wichtigen Markstein in der
-				geistig-musikalischen Entwicklung <persName key="verdi.giuseppe">Verdis</persName>
-				bildet. Freilich soll und darf man nie ausser Acht lassen, dass der Komponist ein
-					<hi rend="widespace">Südländer</hi> ist. Spiegelt sich doch in der Seele des
-				Südländers alles farbenreicher, bunt-schillernder als bei uns, den Kindern des <pb
-					break="yes" n="4" type="regular"/>Nordens, und jene Art des Empfindens findet
-				naturgemäss ihren Ausdruck in den geistigen Schöpfungen der glücklichen Bewohner des
-				sonnigen Italiens. So auch hier. Mag uns manches an den <hi rend="widespace"
-					>Opern</hi>komponisten mahnen, mag uns manches äusserlich erscheinen —, die
-				Wärme und Erfindungskraft, die dieser Tonschöpfung innewohnt, entspringen der Seele
-				eines gottbegnadeten Genies und sichern dem Werke für immer einen Ehrenplatz unter
-				den besten Erzeugnissen dieser Gattung.</p>
+					Manzonis</persName> ein <title key="verdi.requiem" type="mus">Requiem</title>
+				geschrieben, war man nicht wenig erstaunt, den Komponisten des <title
+					key="verdi.il-trovatore" type="mus">Trovatore</title> und der <title
+					key="verdi.la-traviata" type="mus">Traviata</title> ein Gebiet betreten zu
+				sehen, das nach der Meinung Vieler dem populären Opernkomponisten mehr oder weniger
+				ein fremdes sein musste, — ein Gebiet, für welches die Klänge, die man bisher von
+				ihm zu hören gewohnt war, wenig geeignet erscheinen wollten. Als aber kurze Zeit
+				nach den <rs key="paris.1874" type="event"><hi rend="widespace"><placeName
+							key="paris">Pariser</placeName></hi> Aufführungen</rs> das Werk die
+				Runde durch die Welt machte, brach sich sehr bald die Überzeugung Bahn, dass man es
+				nicht nur mit einer ernsten, sondern auch mit einer hochbedeutenden Tonschöpfung zu
+				thun habe, die einen wichtigen Markstein in der geistig-musikalischen Entwicklung
+					<persName key="verdi.giuseppe">Verdis</persName> bildet. Freilich soll und darf
+				man nie ausser Acht lassen, dass der Komponist ein <hi rend="widespace"
+					>Südländer</hi> ist. Spiegelt sich doch in der Seele des Südländers alles
+				farbenreicher, bunt-schillernder als bei uns, den Kindern des <pb break="yes" n="4"
+					type="regular"/>Nordens, und jene Art des Empfindens findet naturgemäss ihren
+				Ausdruck in den geistigen Schöpfungen der glücklichen Bewohner des sonnigen
+				Italiens. So auch hier. Mag uns manches an den <hi rend="widespace"
+				>Opern</hi>komponisten mahnen, mag uns manches äusserlich erscheinen —, die Wärme
+				und Erfindungskraft, die dieser Tonschöpfung innewohnt, entspringen der Seele eines
+				gottbegnadeten Genies und sichern dem Werke für immer einen Ehrenplatz unter den
+				besten Erzeugnissen dieser Gattung.</p>
 			<p>[es folgt eine detaillierte Werkbesprechung mit Notenbeispielen]</p>
 		</body>
 	</text>

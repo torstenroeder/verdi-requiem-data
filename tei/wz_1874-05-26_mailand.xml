@@ -4,10 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Wiener Zeitung, 26. Mai 1874</title>
-				<principal>Torsten Roeder</principal>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
 			</titleStmt>
 			<publicationStmt>
-				<p>http://verdi-requiem.de/text/wz_1874-05-26_mailand.xml</p>
 				<p>CC BY 4.0</p>
 			</publicationStmt>
 			<sourceDesc>
@@ -16,14 +15,16 @@
 					<placeName key="wien"/>
 					<date when-custom="tue" when-iso="1874-05-26"/>
 					<biblScope unit="issue">118</biblScope>
-					<biblScope unit="subIssue">118</biblScope>
+					<biblScope unit="subIssue">Abendpost</biblScope>
 					<series>wz</series>
 					<biblScope unit="page">938 [2]</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><placeName key="mailand"/></creation>
+			<creation>
+				<placeName key="mailand"/>
+			</creation>
 			<textClass>
 				<keywords>
 					<term type="textType">Kurzbericht</term>
@@ -40,27 +41,32 @@
 			url="http://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18740526&amp;seite=2"/>
 	</facsimile>
 	<text xml:lang="de">
+		<front rend="fraktur">
+			<pb n="938"/>
+			<cb n="a"/>
+			<head rend="larger bold">Kleine Chronik.</head>
+			<head rend="smaller"><hi rend="bold"><placeName key="wien">Wien</placeName>,</hi>
+				<date when-iso="1874-05-23">23. Mai</date>.</head>
+		</front>
+		<gap/>
 		<body rend="fraktur">
-			<pb break="null" n="938" type="initial"/>
-			<head rend="larger">Kleine Chronik.</head>
-			<p rend="smaller center"><hi rend="bold"><placeName key="wien">Wien</placeName>,</hi>
-				<date when-iso="1874-05-23">23. Mai</date>.</p>
-			<cb break="null" n="938b" type="skipped"/>
-			<p rend="smaller">(<hi rend="widespace"><persName key="verdi.giuseppe"
+			<pb n="938"/>
+			<cb n="b"/>
+			<p n="5" rend="smaller">(<hi rend="widespace"><persName key="verdi.giuseppe"
 						>Verdi’s</persName>
 					<title key="verdi.requiem" type="mus">Requiem</title> für <persName
 						key="manzoni.alessandro">Manzoni</persName></hi>.) Es ist bekannt, daß
 					<persName key="verdi.giuseppe">Verdi</persName> es übernommen, zum Gedächtnisse
 				des Dichters <persName key="manzoni.alessandro">Alessandro Manzoni</persName> ein
-				musikalisches <title key="verdi.requiem" type="mus">Requiem</title> zu componiren. <rs
-					key="mailand.1874.1" type="event">Das Werk ist am <date when-iso="1874-05-23"
-						>23. Mai</date> in der Kirche von <placeName key="mailand.san-marco">S.
-						Marco</placeName> zu <placeName key="mailand">Mailand</placeName>
-					aufgeführt worden</rs> und die dortigen Zeitungsberichte beschäftigen sich
-				lebhaft mit der Novität. Nicht allein aus ganz <placeName key="italien"
-					>Italien</placeName> hatten sich Zuhörer eingefunden, sondern auch aus
-					<placeName key="paris">Paris</placeName> waren <persName key="escudier.leon"
-					>Escudier</persName>, <persName key="commettant.oscar">Oscar
+				musikalisches <title key="verdi.requiem" type="mus">Requiem</title> zu componiren.
+					<rs key="mailand.1874.1" type="event">Das Werk ist am <date
+						when-iso="1874-05-23">23. Mai</date> in der Kirche von <placeName
+						key="mailand.san-marco">S. Marco</placeName> zu <placeName key="mailand"
+						>Mailand</placeName> aufgeführt worden</rs> und die dortigen
+				Zeitungsberichte beschäftigen sich lebhaft mit der Novität. Nicht allein aus ganz
+					<placeName key="italien">Italien</placeName> hatten sich Zuhörer eingefunden,
+				sondern auch aus <placeName key="paris">Paris</placeName> waren <persName
+					key="escudier.leon">Escudier</persName>, <persName key="commettant.oscar">Oscar
 					Commetant</persName> zur Aufführung eingetroffen, ferner <persName
 					key="buelow.hans-von">Hans von Bülow</persName> und andere Celebritäten. Als
 					<persName key="verdi.giuseppe">Verdi</persName> nach der Aufführung die Kirche
@@ -69,16 +75,16 @@
 				habe, gegen welchen der eigentlich kirchliche zurücktritt, und der „<orgName
 					key="corriere-di-milano">Corriere di Milano</orgName>“ bemerkt: „Es ist
 				begreiflich, daß ein dramatisches Genie wie <persName key="verdi.giuseppe"
-					>Verdi</persName> seine <title key="verdi.requiem" type="mus">Todtenmesse</title> mehr als
-				Drama denn als Gebet auffassen mußte — und in der That ist sie ein großartiges
-				Drama, dessen Libretto der lateinische Ritualtext bildet. Zwar tadeln manche
-				Personen von Einsicht diesen Punkt und meinen, <persName key="verdi.giuseppe"
-					>Verdi</persName> überrasche mehr, als er erhebe. Aber konnte <persName
-					key="verdi.giuseppe">Verdi</persName> bei bestem Willen sich selbst in solchem
-				Grade verläugnen?“ „<orgName key="il-secolo">Secolo</orgName>“ meint: „Die Musik
-				ist dramatischer Art, die religiöse Austerität ist verbannt, die neue Kunst
-				entfaltet alle ihre glänzenden Mittel durch die Macht eines Genie’s, welches in
-				diesem Augenblick das musikalische Scepter von <placeName key="europa"
+					>Verdi</persName> seine <title key="verdi.requiem" type="mus"
+					>Todtenmesse</title> mehr als Drama denn als Gebet auffassen mußte — und in der
+				That ist sie ein großartiges Drama, dessen Libretto der lateinische Ritualtext
+				bildet. Zwar tadeln manche Personen von Einsicht diesen Punkt und meinen, <persName
+					key="verdi.giuseppe">Verdi</persName> überrasche mehr, als er erhebe. Aber
+				konnte <persName key="verdi.giuseppe">Verdi</persName> bei bestem Willen sich selbst
+				in solchem Grade verläugnen?“ „<orgName key="il-secolo">Secolo</orgName>“ meint:
+				„Die Musik ist dramatischer Art, die religiöse Austerität ist verbannt, die neue
+				Kunst entfaltet alle ihre glänzenden Mittel durch die Macht eines Genie’s, welches
+				in diesem Augenblick das musikalische Scepter von <placeName key="europa"
 					>Europa</placeName> in Händen hält.“ Die „<orgName key="la-lombardia"
 					>Lombardia</orgName>“ nimmt den Mund minder voll und bestreitet überdies die
 				fast einhellige Behauptung, daß diese Musik theatralisch sei: „Das Pathetische und
@@ -89,13 +95,13 @@
 				entfernt.“ Interessant ist es, daß sich hier fast buchstäblich wiederholt, was um
 					<date when-iso="1630">1630</date> über des genialen Dramatikers <persName
 					key="monteverdi.claudio">Claudio Monteverde</persName>
-				<title key="monteverdi.messa-di-requiem" type="mus">Requiem</title> von den Zeitgenossen
-				gesagt wurde, das er in <placeName key="venedig">Venedig</placeName> auf Wunsch
-				einiger Florentiner zur Todtenfeier ihres kurz vorher verstorbenen <persName
-					key="cosimo-ii.medici">Großherzogs</persName> componirt hatte. Von <persName
-					key="verdi.giuseppe">Verdi</persName>, der in „<title key="verdi.aida" type="mus">A<hi
-						rend="antiqua">ï</hi>da</title>“ gezeigt, was er leisten könne, dürfen wir
-				hoffen, daß er sich bei einer zu <persName key="manzoni.alessandro"
+				<title key="monteverdi.messa-di-requiem" type="mus">Requiem</title> von den
+				Zeitgenossen gesagt wurde, das er in <placeName key="venedig">Venedig</placeName>
+				auf Wunsch einiger Florentiner zur Todtenfeier ihres kurz vorher verstorbenen
+					<persName key="cosimo-ii.medici">Großherzogs</persName> componirt hatte. Von
+					<persName key="verdi.giuseppe">Verdi</persName>, der in „<title key="verdi.aida"
+					type="mus">A<hi rend="antiqua">ï</hi>da</title>“ gezeigt, was er leisten könne,
+				dürfen wir hoffen, daß er sich bei einer zu <persName key="manzoni.alessandro"
 					>Manzoni’s</persName> Andeuten bestimmten Arbeit zusammengenommen. Uebrigens hat
 				es, wie bekannt, auch Kritiker gegeben, welche <persName
 					key="mozart.wolfgang-amadeus">Mozart’s</persName>
